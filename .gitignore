@@ -1,0 +1,10 @@
+# Entornos y caches
+.venv/
+__pycache__/
+*.pyc
+
+# Descargas intermedias pesadas (re-descargables por los scripts)
+downloads/
+
+# PDFs del corpus AQC (87 MB; se regeneran con: python3 ingest_aqc.py)
+corpus/aqc/pdf/
