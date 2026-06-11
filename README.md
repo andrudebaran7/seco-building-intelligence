@@ -1,397 +1,453 @@
-# Pipeline de ingestión de datos abiertos de edificios (FR / LU)
+# Open building data ingestion pipeline (FR / LU / BE)
 
-Prueba de concepto que demuestra, con datos reales, que las fuentes públicas
-descritas en el reporte de fuentes (`compass_artifact_*.md`) son extraíbles de
-forma automática, cruzables entre sí y consultables semánticamente. Todo
-verificado en vivo el **11 de junio de 2026**, sin registro y sin claves de
-API. Los scripts de ingestión usan solo Python 3 estándar; el índice RAG es
-el único componente con dependencias (modelo de embeddings local en `.venv/`).
+> Spanish version: [README.es.md](README.es.md)
 
-Documentación complementaria: **`METODOLOGIA.md`** (cómo se extrajo,
-normalizó y cruzó cada dato, y el trabajo futuro) e **`INVENTARIO.md`**
-(qué ficheros de datos existen y qué contienen).
+Proof of concept demonstrating, with real data, that the public sources
+described in the source-research report (`compass_artifact_*.md`) can be
+extracted automatically, cross-referenced with each other and queried
+semantically. Everything was verified live on **June 11, 2026**, with no
+registration and no API keys. The ingestion scripts use only the Python 3
+standard library; the RAG index and the extraction pipeline are the only
+components with dependencies (local embeddings model in `.venv/`).
 
-## Resultado en una frase
+Companion documentation: **`METODOLOGIA.md`** (how each piece of data was
+extracted, normalized and joined, plus future work), **`INVENTARIO.md`**
+(which data files exist and what they contain) and **`docs/evaluacion.md`**
+(metrics of the extraction pipeline).
 
-Se construyeron las dos mitades del MVP "Building Intelligence" con 7 fuentes:
-(1) una "carta de identidad" estructurada por edificio — en Francia,
-diagnóstico energético + identidad/geometría + materiales/altura + riesgo
-geotécnico (ADEME → RNB → BDNB → Géorisques); en Luxemburgo, huella +
-dirección + parcela catastral + altura 3D (geoportail.lu → data.public.lu
-CityGML) — y (2) un corpus RAG de patología constructiva (89 fichas AQC)
-con búsqueda semántica multilingüe que explica los riesgos que la parte
-estructurada cuantifica.
+## Result in one sentence
 
-## Arquitectura
+The two halves of the "Building Intelligence" MVP were built on 7+ sources:
+(1) a structured "identity card" per building — in France, energy diagnosis +
+identity/geometry + materials/height + geotechnical risk (ADEME → RNB → BDNB →
+Géorisques); in Luxembourg, footprint + address + cadastral parcel + 3D height
+(geoportail.lu → data.public.lu CityGML); in Belgium, footprint + national
+cadastral key (UrbIS/GRB) — and (2) a construction-pathology RAG corpus
+(89 AQC sheets) with multilingual semantic search that explains the risks the
+structured half quantifies. On top of both: an **inspection-report extraction
+pipeline with measured accuracy** and a per-building risk report generator.
 
-### Cadena Francia (encadenada por `id_rnb`)
+## Architecture
+
+### France chain (joined on `id_rnb`)
 
 ```
 ingest_dpe.py          ingest_rnb.py              ingest_bdnb.py             ingest_georisques.py
-API DPE ADEME    →     API RNB                →   API BDNB (CSTB)        →   API Géorisques RGA
-diagnósticos           geometría, estado,         materiales, altura,        riesgo arcillas para
-energéticos            coordenadas                plantas, uso, arcillas     los huecos de BDNB
-(filtro por dpto)      (por id_rnb)               (por id_rnb, en lotes)     (por lon/lat)
+ADEME DPE API    →     RNB API                →   BDNB API (CSTB)        →   Géorisques RGA API
+energy                 geometry, status,          materials, height,         clay-shrinkage risk
+diagnoses              coordinates                floors, use, clay risk     for BDNB gaps
+(by département)       (by id_rnb)                (by id_rnb, batched)       (by lon/lat)
 
 dpe_dptoNN.*     →     dpe_rnb_dptoNN.*       →   dpe_rnb_bdnb_dptoNN.*  →   dpe_rnb_bdnb_rga_dptoNN.*
 ```
 
-Cada paso lee el JSONL del anterior y añade columnas. El registro final tiene
-27 campos: DPE (etiquetas A–G, consumo, superficie, período) + RNB (estado,
-lon/lat, INSEE) + BDNB (altura, huella, materiales muro/techo, nº plantas,
-nº viviendas, uso) + riesgo de arcillas consolidado con trazabilidad de fuente.
+Each step reads the previous step's JSONL and adds columns. The final record
+has 27 fields: DPE (A–G labels, consumption, area, period) + RNB (status,
+lon/lat, INSEE) + BDNB (height, footprint, wall/roof materials, floors,
+dwellings, use) + consolidated clay risk with source traceability.
 
-### Cadena Luxemburgo (encadenada por ID de edificio ACT)
+### Luxembourg chain (joined on the ACT building ID)
 
 ```
 ingest_geoportail_lu.py                        ingest_lu_3d.py
-WFS INSPIRE (wms.inspire.geoportail.lu)   →    CityGML por comuna (data.public.lu)
-edificios + direcciones + parcelas             bldg:measuredHeight por edificio
-cruce espacial point-in-polygon                join exacto por ID ACT_<uuid>
+INSPIRE WFS (wms.inspire.geoportail.lu)   →    CityGML per commune (data.public.lu)
+buildings + addresses + parcels                bldg:measuredHeight per building
+point-in-polygon spatial join                  exact join on ACT_<uuid> ID
 
-lu_<zona>_batiments.* (+3 .geojson)       →    lu_<zona>_batiments_3d.*
+lu_<zone>_batiments.* (+3 .geojson)       →    lu_<zone>_batiments_3d.*
 ```
 
-### Cadena corpus RAG (patología constructiva)
+### RAG corpus chain (construction pathology)
 
 ```
 ingest_aqc.py                                  rag_aqc.py
-API WordPress de qualiteconstruction.com  →    troceado (~1200 chars, solape 200)
-89 PDFs + texto (pdftotext -layout)            + embeddings multilingual-e5-small
-+ manifiesto con código/tema/título            + búsqueda coseno (FR/ES/EN)
+qualiteconstruction.com WordPress API     →    chunking (~1,200 chars, 200 overlap)
+89 PDFs + text (pdftotext -layout)             + multilingual-e5-small embeddings
++ manifest with code/theme/title               + cosine search (FR/ES/EN)
 
 corpus/aqc/{pdf,txt}/ + manifest.*        →    corpus/aqc/rag_index.db
 ```
 
-### Conector: informe de riesgo por edificio
+### Connector: per-building risk report
 
 ```
 informe_edificio.py
-dataset final FR (dpe_rnb_bdnb_rga_*.jsonl)  →  señales de riesgo  →  retrieval RAG  →  informe Markdown
-  arcillas Fort/Moyen ───────────────────────→  "retrait-gonflement argiles"  →  [A.02] [A.05]
-  etiqueta F/G ──────────────────────────────→  "condensations logements"     →  [E.09]
-  muros PIERRE/MEULIERE ─────────────────────→  "remontées capillaires"       →  [B.01]
-  cubierta TUILES/ARDOISES/ZINC ─────────────→  "infiltrations couverture"    →  [C.06]/[C.07]
-  período avant 1948 ────────────────────────→  "structure plancher bois"     →  [B.11]
+final FR dataset (dpe_rnb_bdnb_rga_*.jsonl)  →  risk signals  →  RAG retrieval  →  Markdown report
+  clay risk Fort/Moyen ──────────────────────→  "retrait-gonflement argiles"  →  [A.02] [A.05]
+  energy label F/G ──────────────────────────→  "condensations logements"     →  [E.09]
+  PIERRE/MEULIERE walls ─────────────────────→  "remontées capillaires"       →  [B.01]
+  TUILES/ARDOISES/ZINC roof ─────────────────→  "infiltrations couverture"    →  [C.06]/[C.07]
+  built before 1948 ─────────────────────────→  "structure plancher bois"     →  [B.11]
 ```
 
-Cada atributo estructurado del edificio se convierte en una consulta de
-patología; el índice RAG recupera las 2 mejores fichas por señal y el
-informe final cita cada patología con su ficha AQC. Modo plantilla (sin
-LLM, por defecto) o modo `--llm` (redacción con Claude vía SDK de
-Anthropic, requiere `ANTHROPIC_API_KEY`).
+Each structured attribute of the building becomes a pathology query; the RAG
+index retrieves the 2 best sheets per signal and the final report cites each
+pathology with its AQC sheet. Template mode (no LLM, default) or `--llm` mode
+(drafting with Claude via the Anthropic SDK, requires `ANTHROPIC_API_KEY`).
 
-## Los scripts
+### Report extraction pipeline (evaluated AI core)
 
-| Script | Fuente | Entrada | Salida |
+```
+sintetizar_informes.py        extraer_informes.py             evaluar_extraccion.py
+30 synthetic inspection   →   PDF → text → metadata parse →   metrics vs ground truth:
+reports (PDF, 3 layouts,      hybrid classification of        metadata 100%, top-1 55%,
+real addresses, 101           each observation to the         top-3 73% (product metric,
+defects in free French)       89-sheet AQC taxonomy           human-in-the-loop),
++ ground truth JSONL          (embeddings 0.7 + TF-IDF 0.3)   macro F1 0.59
+                              → SQLite defectos.db            → docs/evaluacion.md
+```
+
+SECO does not publish real reports (confidential), so the pipeline is
+demonstrated on realistic synthetic ones: real building addresses from our
+datasets, defect observations written in free inspector French (not copied
+from the AQC sheets, so the classification is a genuine semantic task) and
+three different layouts. Remaining top-1 errors are dominated by sibling
+sheets of the taxonomy (A.01/A.02 are two parts of the same phenomenon),
+which is why the product metric is top-3 with inspector validation.
+
+## The scripts
+
+| Script | Source | Input | Output |
 |---|---|---|---|
-| `ingest_dpe.py` | API DPE ADEME | `--departement`, `--limit` | `data/dpe_dptoNN.{csv,jsonl}` |
-| `ingest_rnb.py` | API RNB | `--dpe-file` | `data/dpe_rnb_dptoNN.{csv,jsonl,geojson}` |
-| `ingest_bdnb.py` | API BDNB | `--in-file` | `data/dpe_rnb_bdnb_dptoNN.{csv,jsonl}` |
-| `ingest_georisques.py` | API Géorisques RGA | `--in-file` | `data/dpe_rnb_bdnb_rga_dptoNN.{csv,jsonl}` |
-| `ingest_geoportail_lu.py` | WFS INSPIRE LU | `--bbox`, `--zona` | `data/lu_<zona>_batiments.{csv,jsonl}` + 3 GeoJSON |
-| `ingest_lu_3d.py` | Bâtiments 3D 2023 LU | `--commune` | `data/lu_<commune>_batiments_3d.{csv,jsonl}` + CSV de alturas |
-| `ingest_aqc.py` | Fichas patología AQC | `--out`, `--skip-text` | `corpus/aqc/{pdf,txt}/` + `manifest.{csv,jsonl}` |
-| `rag_aqc.py` | Corpus AQC local | `build` / `search "consulta"` | `corpus/aqc/rag_index.db` (SQLite con embeddings) |
-| `informe_edificio.py` | Dataset final FR + índice RAG | `--max-riesgo` / `--numero-dpe`, `--llm` | `informes/informe_<dpe>_*.md` |
-| `ingest_be_geo.py` | UrbIS (BXL) / GRB (VL) vía WFS | `--region`, `--bbox`, `--zona` | `data/be_<region>_<zona>_batiments.{csv,jsonl}` + GeoJSON |
-| `ingest_veka.py` | VEKA open data (Flandes) | `--dataset` | `data/veka_<dataset>.csv` |
-| `ingest_lu_ortho.py` | Ortofoto 2025 LU (WMS) | `--batiments`, `--limit`, `--margen` | `data/ortho_chips/<zona>/` (JPEG + manifiesto) |
+| `ingest_dpe.py` | ADEME DPE API | `--departement`, `--limit` | `data/dpe_dptoNN.{csv,jsonl}` |
+| `ingest_rnb.py` | RNB API | `--dpe-file` | `data/dpe_rnb_dptoNN.{csv,jsonl,geojson}` |
+| `ingest_bdnb.py` | BDNB API | `--in-file` | `data/dpe_rnb_bdnb_dptoNN.{csv,jsonl}` |
+| `ingest_georisques.py` | Géorisques RGA API | `--in-file` | `data/dpe_rnb_bdnb_rga_dptoNN.{csv,jsonl}` |
+| `ingest_geoportail_lu.py` | LU INSPIRE WFS | `--bbox`, `--zona` | `data/lu_<zone>_batiments.{csv,jsonl}` + 3 GeoJSON |
+| `ingest_lu_3d.py` | LU 3D Buildings 2023 | `--commune` | `data/lu_<commune>_batiments_3d.{csv,jsonl}` + heights CSV |
+| `ingest_aqc.py` | AQC pathology sheets | `--out`, `--skip-text` | `corpus/aqc/{pdf,txt}/` + `manifest.{csv,jsonl}` |
+| `rag_aqc.py` | Local AQC corpus | `build` / `search "query"` | `corpus/aqc/rag_index.db` (SQLite with embeddings) |
+| `informe_edificio.py` | Final FR dataset + RAG index | `--max-riesgo` / `--numero-dpe`, `--llm` | `informes/informe_<dpe>_*.md` |
+| `ingest_be_geo.py` | UrbIS (BXL) / GRB (VL) via WFS | `--region`, `--bbox`, `--zona` | `data/be_<region>_<zone>_batiments.{csv,jsonl}` + GeoJSON |
+| `ingest_veka.py` | VEKA open data (Flanders) | `--dataset` | `data/veka_<dataset>.csv` |
+| `ingest_lu_ortho.py` | LU 2025 orthophoto (WMS) | `--batiments`, `--limit`, `--margen` | `data/ortho_chips/<zone>/` (JPEG + manifest) |
+| `sintetizar_informes.py` | Own FR dataset + defect catalog | `--n`, `--seed` | `informes_sinteticos/pdf/` + `ground_truth.jsonl` |
+| `extraer_informes.py` | Synthetic PDFs + AQC taxonomy | `--pdf-dir` | `informes_sinteticos/defectos.db` (SQLite) |
+| `evaluar_extraccion.py` | Extraction DB + ground truth | — | `docs/evaluacion.{md,json}` |
 
-### Ejecución completa de ejemplo
+### Full example run
 
 ```bash
-# Francia — cualquier departamento (probado con 75 París y 33 Gironda)
+# France — any département (tested with 75 Paris and 33 Gironde)
 python3 ingest_dpe.py --departement 33 --limit 500
 python3 ingest_rnb.py --dpe-file data/dpe_dpto33.jsonl
 python3 ingest_bdnb.py --in-file data/dpe_rnb_dpto33.jsonl
 python3 ingest_georisques.py --in-file data/dpe_rnb_bdnb_dpto33.jsonl
 
-# Luxemburgo — cualquier zona/comuna (probado con Luxembourg-Ville y Bettendorf)
+# Luxembourg — any zone/commune (tested with Luxembourg City and Bettendorf)
 python3 ingest_geoportail_lu.py --bbox 49.86,6.17,49.90,6.26 --zona bettendorf
 python3 ingest_lu_3d.py --commune bettendorf
-python3 ingest_lu_ortho.py                                 # chips CV de la ortofoto 2025
+python3 ingest_lu_ortho.py                                 # CV chips from the 2025 orthophoto
 
-# Bélgica — Bruselas (UrbIS) y Flandes (GRB + VEKA)
-python3 ingest_be_geo.py --region bruselas                 # Grand-Place por defecto
+# Belgium — Brussels (UrbIS) and Flanders (GRB + VEKA)
+python3 ingest_be_geo.py --region bruselas                 # Grand-Place by default
 python3 ingest_be_geo.py --region flandes --bbox 51.05,3.71,51.06,3.74 --zona gent
-python3 ingest_veka.py                                     # e-peil por comuna
+python3 ingest_veka.py                                     # e-peil per municipality
 
-# Corpus RAG — fichas de patología AQC (PDF + texto + manifiesto)
+# RAG corpus — AQC pathology sheets (PDF + text + manifest)
 python3 ingest_aqc.py
 
-# Índice RAG — troceado + embeddings + búsqueda semántica (requiere el venv)
+# RAG index — chunking + embeddings + semantic search (requires the venv)
 .venv/bin/python rag_aqc.py build
 .venv/bin/python rag_aqc.py search "fissures causées par les argiles" --top 5
 
-# Informe de riesgo por edificio — conecta datos estructurados con el RAG
-.venv/bin/python informe_edificio.py --max-riesgo            # edificio con más señales
-.venv/bin/python informe_edificio.py --numero-dpe 2633E1530986O --llm  # con Claude
+# Per-building risk report — connects structured data with the RAG
+.venv/bin/python informe_edificio.py --max-riesgo            # building with most signals
+.venv/bin/python informe_edificio.py --numero-dpe 2633E1530986O --llm  # with Claude
+
+# Report extraction pipeline with evaluation
+.venv/bin/python sintetizar_informes.py
+.venv/bin/python extraer_informes.py
+.venv/bin/python evaluar_extraccion.py
 ```
 
-Nota: `rag_aqc.py` es el único script que necesita dependencias
-(`sentence-transformers`, instalado en `.venv/`); los siete de ingestión son
-Python estándar puro. El venv se creó con `python3 -m venv --without-pip .venv`
-+ get-pip.py porque el sistema no trae `ensurepip` (ver Requisitos).
+Note: the ingestion scripts are pure standard-library Python; `rag_aqc.py`,
+the extraction pipeline and the report generator use the venv
+(`sentence-transformers`, `scikit-learn`, `fpdf2`, `anthropic`). The venv was
+created with `python3 -m venv --without-pip .venv` + get-pip.py because the
+system lacks `ensurepip` (see Requirements).
 
-Convenciones comunes: salida doble CSV (análisis) + JSONL (pipelines),
-pausas de cortesía entre peticiones, resumen de control al final de cada
-corrida, y `--help` en todos.
+Shared conventions: dual CSV (analysis) + JSONL (pipelines) output, courtesy
+pauses between requests, a control summary at the end of every run, and
+`--help` on every script.
 
-## Resultados de las corridas de prueba
+## Results of the test runs
 
-### Francia
+### France
 
-| Métrica | Dpto 75 (París) | Dpto 33 (Gironda) |
+| Metric | Dept 75 (Paris) | Dept 33 (Gironde) |
 |---|---|---|
-| DPE disponibles en la API | 813.827 | 378.013 |
-| DPE descargados (muestra) | 500 | 500 |
-| Con `id_rnb` | 83 (17%) | 259 (52%) |
-| Encontrados en RNB | 81/81 (100%) | 230/230 (100%) |
-| Encontrados en BDNB | 81/81 (100%) | 213/230 (93%) |
-| Riesgo arcillas consolidado | 100% (82 No expuesto, 1 Moyen) | 100% (102 Fort, 128 Moyen, 12 No expuesto) |
+| DPE available in the API | 813,827 | 378,013 |
+| DPE downloaded (sample) | 500 | 500 |
+| With `id_rnb` | 83 (17%) | 259 (52%) |
+| Found in RNB | 81/81 (100%) | 230/230 (100%) |
+| Found in BDNB | 81/81 (100%) | 213/230 (93%) |
+| Consolidated clay risk | 100% (82 not exposed, 1 Moyen) | 100% (102 Fort, 128 Moyen, 12 not exposed) |
 
-Los materiales reflejan la realidad regional (validación de plausibilidad):
-piedra/ladrillo y cubierta de zinc en París; ladrillo/piedra y teja en Gironda.
+Materials reflect regional reality (plausibility check): stone/brick and zinc
+roofing in Paris; brick/stone and tiles in Gironde.
 
-### Luxemburgo
+### Luxembourg
 
-| Métrica | Luxembourg-Ville (centro) | Bettendorf |
+| Metric | Luxembourg City (center) | Bettendorf |
 |---|---|---|
-| Edificios (WFS INSPIRE) | 788 | 2.037 |
-| Con dirección (point-in-polygon) | 88% | 63% |
-| Con parcela catastral | 100% | 99% |
-| Con altura 3D (CityGML) | — | 1.411 (69%) |
+| Buildings (INSPIRE WFS) | 788 | 2,037 |
+| With address (point-in-polygon) | 88% | 63% |
+| With cadastral parcel | 100% | 99% |
+| With 3D height (CityGML) | — | 1,411 (69%) |
 
-### Ortofoto 2025 (Luxemburgo, módulo CV)
+### 2025 orthophoto (Luxembourg, CV module)
 
-24 chips JPEG de 400×400 px (40×40 m, ≈10 cm/píxel) centrados en edificios
-de Bettendorf, verificados visualmente (tejados centrados, coches
-distinguibles), todos con etiqueta de altura 3D en el manifiesto. 0 fallos,
-0,8 MB. La combinación chip + altura + parcela + dirección convierte el
-pipeline en un generador de datasets de entrenamiento etiquetados.
+24 JPEG chips of 400×400 px (40×40 m, ≈10 cm/pixel) centered on Bettendorf
+buildings, visually verified (roofs centered, cars distinguishable), all with
+a 3D-height label in the manifest. 0 failures, 0.8 MB. Chip + height + parcel
++ address turns the pipeline into a labeled-training-dataset generator.
 
-### Bélgica
+### Belgium
 
-| Métrica | Bruselas centro (UrbIS) | Amberes centro (GRB) |
+| Metric | Brussels center (UrbIS) | Antwerp center (GRB) |
 |---|---|---|
-| Edificios (WFS) | 2.086 | 3.018 |
-| Con parcela catastral (CAPAKEY) | 100% | 99% |
-| Con dirección (point-in-polygon) | 86% | — (capa no disponible en GRB) |
+| Buildings (WFS) | 2,086 | 3,018 |
+| With cadastral parcel (CAPAKEY) | 100% | 99% |
+| With address (point-in-polygon) | 86% | — (no address layer in GRB) |
 
-VEKA: CSV de e-peil medio por comuna descargado (12.379 filas, 322 comunas,
-serie temporal por año de permiso y tipo de uso). Es el equivalente flamenco
-agregado del DPE francés — no hay certificado individual abierto.
+VEKA: average e-peil per municipality CSV downloaded (12,379 rows, 322
+municipalities, time series by permit year and use type). It is the Flemish
+aggregated equivalent of the French DPE — no open individual certificate.
 
-### Corpus RAG (AQC)
+### RAG corpus (AQC)
 
-| Métrica | Valor |
+| Metric | Value |
 |---|---|
-| Fichas descargadas (PDF) | 89 (temas A:10 B:13 C:13 D:14 E:16 F:10 G:13) |
-| Texto extraído | 89/89, mediana ~14.500 caracteres/ficha |
-| Fragmentos indexados | 1.011 × 384 dimensiones |
-| Tamaño del índice | ~12 MB (SQLite) |
+| Sheets downloaded (PDF) | 89 (themes A:10 B:13 C:13 D:14 E:16 F:10 G:13) |
+| Text extracted | 89/89, median ~14,500 characters/sheet |
+| Indexed chunks | 1,011 × 384 dimensions |
+| Index size | ~4 MB (SQLite) |
 
-Consultas de validación (top-1 correcto en ambas):
+Validation queries (top-1 correct in both):
 - FR: *"fissures dans les murs causées par le retrait-gonflement des argiles"*
-  → A.05 y A.02 (movimientos de fundaciones en suelos arcillosos), score ~0,89.
-- ES (translingüe): *"humedad y condensación en ventanas por mala ventilación"*
-  → E.09 "Condensations dans les logements" y E.08 "VMC", score ~0,85.
+  → A.05 and A.02 (foundation movements in clay soils), score ~0.89.
+- ES (cross-lingual): *"humedad y condensación en ventanas por mala ventilación"*
+  → E.09 "Condensations dans les logements" and E.08 "VMC", score ~0.85.
 
-### Informes de riesgo (conector estructurado ↔ RAG)
+### Risk reports (structured ↔ RAG connector)
 
-Demostrado con dos perfiles distintos (modo plantilla):
-- **Burdeos** (`informes/informe_2633E1530986O_plantilla.md`): inmueble
-  anterior a 1948, piedra/teja, etiqueta F, arcillas Moyen → 5 señales,
-  10 fichas citadas pertinentes (A.02/A.05 arcillas, E.09 condensación,
-  B.01 remontées capillaires, C.06 cubierta de teja, B.11 estructura madera).
-- **París** (`informes/informe_2675E1536668S_plantilla.md`): etiqueta G,
-  piedra, cubierta de zinc, pre-1948 → 4 señales (sin arcillas, con C.07
-  condensación bajo cubierta metálica), coherente con el perfil parisino.
+Demonstrated on two distinct profiles (template mode):
+- **Bordeaux** (`informes/informe_2633E1530986O_plantilla.md`): pre-1948
+  building, stone/tiles, label F, clay risk Moyen → 5 signals, 10 relevant
+  cited sheets (A.02/A.05 clay, E.09 condensation, B.01 rising damp,
+  C.06 tile roofing, B.11 timber structure).
+- **Paris** (`informes/informe_2675E1536668S_plantilla.md`): label G, stone,
+  zinc roof, pre-1948 → 4 signals (no clay, with C.07 condensation under
+  metal roofing), consistent with the Parisian profile.
 
-## Hallazgos y trampas descubiertas (no documentadas en el reporte original)
+### Extraction pipeline (measured)
 
-1. **La API open de la BDNB devuelve máximo 10 filas por respuesta** para
-   usuarios anónimos e **ignora el parámetro `limit`** silenciosamente. Un
-   filtro `in.(...)` con 50 IDs devolvía solo 10 resultados sin ningún error.
-   Solución: paginar con `offset` dentro de cada lote (implementado en
-   `ingest_bdnb.py`). Para volumen real, usar la descarga masiva por
-   departamento de data.gouv.fr.
+| Metric | Value |
+|---|---|
+| Metadata (ref, date, address, inspector) | 100% exact match |
+| Observation coverage / severity / location | 100% |
+| AQC code classification, top-1 (89 classes) | 55.4% |
+| AQC code classification, top-3 (product metric) | 73.3% |
+| Macro F1 (top-1) | 0.59 |
 
-2. **Géorisques responde `200` con cuerpo vacío** cuando el punto consultado
-   está fuera de toda zona de exposición RGA cartografiada. No es un error:
-   significa "no expuesto". El script lo registra como `Non exposé` para
-   distinguirlo de "no consultado".
+Full breakdown, per-code F1 and confusion analysis in `docs/evaluacion.md`.
+Reaching this required 4 method iterations (naive chunk retrieval scored
+19.8%; the bigger e5-base model scored *worse* than e5-small; the winner is
+a hybrid of embeddings over cleaned per-sheet profiles + TF-IDF).
 
-3. **Validación cruzada BDNB ↔ Géorisques**: para un edificio de control de
-   Gironda, la BDNB decía `Fort` y Géorisques devolvió `Exposition forte`
-   para sus coordenadas. Las dos fuentes son coherentes.
+## Findings and traps discovered (not documented in the original report)
 
-4. **Existe "Base de données nationale des bâtiments 3D 2023"** en
-   data.public.lu (el reporte solo recogía 2017 y 2020) y, a diferencia de la
-   de 2020, **cubre la Ciudad de Luxemburgo**. LOD 2.2, CC0.
+1. **The open BDNB API returns at most 10 rows per response** for anonymous
+   users and **silently ignores the `limit` parameter**. An `in.(...)` filter
+   with 50 IDs returned only 10 results with no error. Fix: paginate with
+   `offset` inside each batch (implemented in `ingest_bdnb.py`). For real
+   volume, use the bulk per-département download from data.gouv.fr.
 
-5. **Las huellas 2D "ligeras" del dataset 3D luxemburgués NO traen la altura**:
-   tanto el GPKG nacional (63 MB) como el GeoJSON (46 MB) solo contienen la
-   cota del suelo (`zmin`). La altura (`bldg:measuredHeight`) vive únicamente
-   en los **CityGML por comuna** (150 MB–5,4 GB porque incluyen texturas jpg;
-   el `.gml` interno es ~25% del zip).
+2. **Géorisques replies `200` with an empty body** when the queried point is
+   outside any mapped RGA exposure zone. It is not an error: it means "not
+   exposed". The script records it as `Non exposé` to distinguish it from
+   "not queried".
 
-6. **Los IDs de edificio luxemburgueses son consistentes entre fuentes**:
-   el CityGML usa `ACT_<uuid>` y la capa WFS INSPIRE `Building2D.ACT_<uuid>`.
-   El cruce es un join exacto por ID — no hace falta matching espacial ni
-   reproyección desde LUREF (EPSG:2169).
+3. **BDNB ↔ Géorisques cross-validation**: for a control building in Gironde,
+   BDNB said `Fort` and Géorisques returned "Exposition forte" for its
+   coordinates. The two sources are consistent.
 
-7. **La cobertura de `id_rnb` en los DPE varía mucho por territorio**:
-   52% en Gironda vs 17% en París (en los DPE más recientes). Para el resto
-   habría que cruzar por dirección normalizada (`adresse_ban`).
+4. **A "Base de données nationale des bâtiments 3D 2023" exists** on
+   data.public.lu (the report only listed 2017 and 2020) and, unlike the 2020
+   edition, **it covers Luxembourg City**. LOD 2.2, CC0.
 
-8. **Desfase de millésimes**: 17 de 230 edificios de Gironda no estaban en la
-   BDNB open (millésime 2025-07) pese a existir en el RNB actual. Confirma la
-   advertencia del reporte: fijar versiones para reproducibilidad.
+5. **The "light" 2D footprints of the Luxembourg 3D dataset do NOT carry the
+   height**: both the national GPKG (63 MB) and the GeoJSON (46 MB) only
+   contain the ground elevation (`zmin`). The height (`bldg:measuredHeight`)
+   lives only in the **per-commune CityGML files** (150 MB–5.4 GB because they
+   include jpg textures; the inner `.gml` is ~25% of the zip).
 
-9. **El LOD1 2013 nacional (31 MB) es un callejón sin salida** para el cruce:
-   tiene las alturas implícitas en los sólidos pero ningún ID ni atributo,
-   y está en LUREF. Descartado en favor del CityGML 2023.
+6. **Luxembourg building IDs are consistent across sources**: the CityGML uses
+   `ACT_<uuid>` and the INSPIRE WFS layer `Building2D.ACT_<uuid>`. The join is
+   an exact ID match — no spatial matching or reprojection from LUREF
+   (EPSG:2169) needed.
 
-10. **El WFS INSPIRE de geoportail.lu sirve GeoJSON directamente**
-    (`outputFormat=application/json`), lo que evita parsear GML. La capa de
-    edificios trae geometría pero casi ningún atributo: la riqueza sale del
-    cruce con direcciones y parcelas (y del CityGML para la altura).
+7. **`id_rnb` coverage in DPE records varies a lot by territory**: 52% in
+   Gironde vs 17% in Paris (in recent DPEs). The rest would need a join on the
+   normalized address (`adresse_ban`).
 
-11. **Las fichas AQC se listan por la API REST de WordPress** del propio
-    sitio (`/wp-json/wp/v2/media?search=Fiche-Pathologie`), sin scraping de
-    HTML. La edición vigente tiene **89 fichas** (el reporte contaba 75+11=86;
-    han añadido nuevas, p.ej. G.13 de sept. 2025), en 7 temas A–G, todas con
-    PDF de descarga directa y texto extraíble limpio con `pdftotext -layout`.
+8. **Vintage mismatch**: 17 of 230 Gironde buildings were missing from the
+   open BDNB (2025-07 vintage) despite existing in the current RNB. Confirms
+   the report's warning: pin versions for reproducibility.
 
-12. **El GeoServer "clásico" de UrbIS está casi vacío; el actual es otro**:
-    `geoservices-urbis.irisnet.be` solo expone una capa residual. Las capas
-    vigentes (Buildings, Addresses, CadastralParcels) están en
-    `geoservices-vector.irisnet.be/geoserver/urbisvector/wfs` — encontrado
-    vía el GeoNetwork del portal (`catalog.datastore.brussels/geonetwork`,
-    GN 3.8). datastore.brussels en sí es una SPA sin API pública evidente.
+9. **The national LOD1 2013 file (31 MB) is a dead end** for the join: it has
+   heights implicit in the solids but no IDs or attributes, and it is in
+   LUREF. Discarded in favor of the 2023 CityGML.
 
-13. **El WFS del GRB flamenco funciona sin cuenta**: el reporte advertía que
-    la descarga masiva exige registro en download.vlaanderen.be, pero
-    `geo.api.vlaanderen.be/GRB/wfs` sirve edificios (GBG) y parcelas (ADP)
-    en GeoJSON sin autenticación. Solo exige la atribución de la licencia.
+10. **The geoportail.lu INSPIRE WFS serves GeoJSON directly**
+    (`outputFormat=application/json`), avoiding GML parsing. The buildings
+    layer has geometry but almost no attributes: the richness comes from the
+    join with addresses and parcels (and from the CityGML for the height).
 
-14. **VEKA: la raíz responde 403 pero los datos se descargan**:
-    `open-data.energiesparen.be/` bloquea (WAF), pero los ficheros bajo
-    `/Data/<NOMBRE>.csv` sirven sin problema. Las rutas exactas se obtienen
-    del catálogo DCAT de `metadata.vlaanderen.be` (GeoNetwork 4, API
-    Elasticsearch). La categoría residencial se llama `WONEN`.
+11. **The AQC sheets are listed via the site's WordPress REST API**
+    (`/wp-json/wp/v2/media?search=Fiche-Pathologie`) — no HTML scraping. The
+    current edition has **89 sheets** (the report counted 75+11=86; new ones
+    have been added, e.g. G.13 from Sept 2025), in 7 themes A–G, all with
+    direct-download PDFs and clean text extraction via `pdftotext -layout`.
 
-15. **El CAPAKEY es la clave de cruce belga**: tanto UrbIS (Bruselas) como
-    GRB (Flandes) exponen la clave catastral nacional (`CAPAKEY`) y el
-    código de comuna NIS por parcela — el análogo belga del `id_rnb`
-    francés para encadenar fuentes (catastro federal, Statbel por NIS).
+12. **The "classic" UrbIS GeoServer is nearly empty; the current one is
+    elsewhere**: `geoservices-urbis.irisnet.be` exposes one residual layer.
+    The live layers (Buildings, Addresses, CadastralParcels) are at
+    `geoservices-vector.irisnet.be/geoserver/urbisvector/wfs` — found via the
+    portal's GeoNetwork (`catalog.datastore.brussels/geonetwork`, GN 3.8).
+    datastore.brussels itself is a SPA with no obvious public API.
 
-16. **El WMS abierto de geoportail.lu sirve todas las milésimas de ortofoto
-    sin registro** (`wms.geoportail.lu/opendata/service`): de 1967 a 2025,
-    incluidas `ortho_2025` (verano) y `ortho_2025_winter`, en JPEG/PNG por
-    GetMap. Pedir chips de 40×40 m a 400×400 px reproduce la resolución
-    nativa de ~10 cm/píxel — no hace falta descargar los JP2 gigantes para
-    generar datasets de visión por computador.
+13. **The Flemish GRB WFS works without an account**: the report warned that
+    the bulk download requires registration at download.vlaanderen.be, but
+    `geo.api.vlaanderen.be/GRB/wfs` serves buildings (GBG) and parcels (ADP)
+    as GeoJSON with no authentication. Only the license attribution is
+    required.
 
-17. **Los embeddings se resolvieron 100% en local, sin claves de API**:
-    la API de Anthropic no ofrece endpoint de embeddings (recomienda Voyage
-    AI, de pago), así que el índice usa `intfloat/multilingual-e5-small`
-    (~120 MB, licencia MIT) vía sentence-transformers. El corpus troceado son
-    1.011 fragmentos × 384 dimensiones en un SQLite de consulta directa. La
-    búsqueda es **translingüe verificada**: consultas en español recuperan
-    fichas francesas correctas (p.ej. "humedad y condensación en ventanas por
-    mala ventilación" → E.09 "Condensations dans les logements" y E.08 "VMC").
+14. **VEKA: the root answers 403 but the data downloads fine**:
+    `open-data.energiesparen.be/` blocks (WAF), but files under
+    `/Data/<NAME>.csv` are served without issue. The exact paths come from the
+    DCAT catalog of `metadata.vlaanderen.be` (GeoNetwork 4, Elasticsearch
+    API). The residential category is called `WONEN`.
 
-## Diccionario de datos del registro final francés
+15. **CAPAKEY is the Belgian join key**: both UrbIS (Brussels) and GRB
+    (Flanders) expose the national cadastral key (`CAPAKEY`) and the NIS
+    municipality code per parcel — the Belgian analogue of the French
+    `id_rnb` for chaining sources (federal cadastre, Statbel by NIS).
 
-| Prefijo | Campos | Fuente |
+16. **The open geoportail.lu WMS serves every orthophoto vintage without
+    registration** (`wms.geoportail.lu/opendata/service`): from 1967 to 2025,
+    including `ortho_2025` (summer) and `ortho_2025_winter`, as JPEG/PNG via
+    GetMap. Requesting 40×40 m chips at 400×400 px reproduces the native
+    ~10 cm/pixel resolution — no need to download the giant JP2 files to
+    build computer-vision datasets.
+
+17. **Embeddings were solved 100% locally, with no API keys**: the Anthropic
+    API has no embeddings endpoint (it recommends Voyage AI, paid), so the
+    index uses `intfloat/multilingual-e5-small` (~120 MB, MIT license) via
+    sentence-transformers. The chunked corpus is 1,011 fragments × 384
+    dimensions in a directly queryable SQLite file. The search is
+    **verified cross-lingual**: Spanish queries retrieve the correct French
+    sheets (e.g. "humedad y condensación en ventanas por mala ventilación" →
+    E.09 "Condensations dans les logements" and E.08 "VMC").
+
+## Data dictionary of the final French record
+
+| Prefix | Fields | Source |
 |---|---|---|
-| (sin prefijo) | `numero_dpe`, `date_etablissement_dpe`, `id_rnb`, `adresse_ban`, `code_postal_ban`, `nom_commune_ban`, `code_departement_ban`, `type_batiment`, `periode_construction`, `annee_construction`, `surface_habitable_logement`, `etiquette_dpe`, `etiquette_ges`, `conso_5_usages_par_m2_ep` | ADEME DPE |
+| (no prefix) | `numero_dpe`, `date_etablissement_dpe`, `id_rnb`, `adresse_ban`, `code_postal_ban`, `nom_commune_ban`, `code_departement_ban`, `type_batiment`, `periode_construction`, `annee_construction`, `surface_habitable_logement`, `etiquette_dpe`, `etiquette_ges`, `conso_5_usages_par_m2_ep` | ADEME DPE |
 | `rnb_` | `status`, `lon`, `lat`, `insee_code`, `n_addresses` | RNB |
 | `bdnb_` | `batiment_groupe_id`, `hauteur`, `s_geom_cstr`, `altitude_sol`, `annee_construction`, `mat_mur`, `mat_toit`, `nb_niveau`, `nb_log`, `usage`, `alea_argiles` | BDNB |
-| `alea_argiles_` | `final` (Faible/Moyen/Fort/Non exposé), `source` (BDNB/Géorisques) | consolidado |
+| `alea_argiles_` | `final` (Faible/Moyen/Fort/Non exposé), `source` (BDNB/Géorisques) | consolidated |
 
-Registro final luxemburgués: `building_id`, `lon`, `lat`, `n_addresses`,
+Final Luxembourg record: `building_id`, `lon`, `lat`, `n_addresses`,
 `adresse_ejemplo`, `parcel_ref`, `parcel_label`, `parcel_area_m2`, `hauteur_m`.
 
-## Endpoints verificados
+## Verified endpoints
 
-| Fuente | Endpoint | Verificado |
+| Source | Endpoint | Verified |
 |---|---|---|
 | ADEME DPE | `https://data.ademe.fr/data-fair/api/v1/datasets/dpe03existant/lines` | ✓ 2026-06-11 |
 | RNB | `https://rnb-api.beta.gouv.fr/api/alpha/buildings/` | ✓ 2026-06-11 |
-| BDNB | `https://api.bdnb.io/v1/bdnb/donnees/<tabla>` (PostgREST) | ✓ 2026-06-11 |
+| BDNB | `https://api.bdnb.io/v1/bdnb/donnees/<table>` (PostgREST) | ✓ 2026-06-11 |
 | Géorisques RGA | `https://www.georisques.gouv.fr/api/v1/rga?latlon=lon,lat` | ✓ 2026-06-11 |
-| WFS INSPIRE LU | `https://wms.inspire.geoportail.lu/geoserver/wfs` | ✓ 2026-06-11 |
+| LU INSPIRE WFS | `https://wms.inspire.geoportail.lu/geoserver/wfs` | ✓ 2026-06-11 |
 | data.public.lu | `https://data.public.lu/api/1/datasets/` (udata) | ✓ 2026-06-11 |
 | AQC (WordPress) | `https://qualiteconstruction.com/wp-json/wp/v2/media` | ✓ 2026-06-11 |
 | UrbIS WFS (BXL) | `https://geoservices-vector.irisnet.be/geoserver/urbisvector/wfs` | ✓ 2026-06-11 |
 | GRB WFS (VL) | `https://geo.api.vlaanderen.be/GRB/wfs` | ✓ 2026-06-11 |
-| VEKA (VL) | `https://open-data.energiesparen.be/Data/<NOMBRE>.csv` | ✓ 2026-06-11 |
-| WMS ortofoto LU | `https://wms.geoportail.lu/opendata/service` | ✓ 2026-06-11 |
+| VEKA (VL) | `https://open-data.energiesparen.be/Data/<NAME>.csv` | ✓ 2026-06-11 |
+| LU orthophoto WMS | `https://wms.geoportail.lu/opendata/service` | ✓ 2026-06-11 |
 
-Límites conocidos: ADEME 600 req/60 s (anónimo); BDNB 10 filas/respuesta
-(anónimo); RNB y Géorisques sin límite documentado (los scripts usan pausas
-de 0,2–0,3 s).
+Known limits: ADEME 600 req/60 s (anonymous); BDNB 10 rows/response
+(anonymous); RNB and Géorisques without documented limits (the scripts use
+0.2–0.3 s pauses).
 
-## Requisitos
+## Requirements
 
-- **Python 3.10+** (probado con 3.13). Los 7 scripts de ingestión: solo stdlib.
-- **`pdftotext`** (paquete `poppler-utils`) — únicamente para la extracción de
-  texto de `ingest_aqc.py`; con `--skip-text` no hace falta.
-- **`.venv/` con `sentence-transformers`** — únicamente para `rag_aqc.py`.
-  Si no existe: `python3 -m venv --without-pip .venv`, instalar pip con
-  get-pip.py y `.venv/bin/pip install sentence-transformers`. La primera
-  corrida de `build` descarga el modelo (~120 MB) a `~/.cache/huggingface/`.
+- **Python 3.10+** (tested with 3.13). The ingestion scripts: stdlib only.
+- **`pdftotext`** (`poppler-utils` package) — only for the text extraction in
+  `ingest_aqc.py` and `extraer_informes.py`.
+- **`.venv/` with `sentence-transformers`** (plus `scikit-learn`, `fpdf2`,
+  `anthropic`) — for the RAG index, the extraction pipeline and the report
+  generator. If it does not exist: `python3 -m venv --without-pip .venv`,
+  install pip with get-pip.py and `.venv/bin/pip install sentence-transformers
+  fpdf2 anthropic`. The first `build` run downloads the model (~120 MB) into
+  `~/.cache/huggingface/`.
 
-## Licencias de los datos descargados
+## Licenses of the downloaded data
 
-| Fuente | Licencia |
+| Source | License |
 |---|---|
-| DPE ADEME, BDNB, RNB, Géorisques | Licence Ouverte (Etalab) — uso comercial OK con atribución |
+| ADEME DPE, BDNB, RNB, Géorisques | Licence Ouverte (Etalab) — commercial use OK with attribution |
 | geoportail.lu / data.public.lu (ACT) | CC0 |
-| UrbIS (Bruselas) | CC0 (parcelas catastrales: licencia SPF Finances) |
-| GRB (Flandes) | Gratis Open Data Licentie Vlaanderen — atribución obligatoria |
-| VEKA (Flandes) | Modellicentie Gratis Hergebruik — reuso libre |
-| Fichas patología AQC | Descarga libre, sin licencia abierta explícita — uso como corpus interno citando AQC |
+| UrbIS (Brussels) | CC0 (cadastral parcels: SPF Finances license) |
+| GRB (Flanders) | Gratis Open Data Licentie Vlaanderen — attribution required |
+| VEKA (Flanders) | Modellicentie Gratis Hergebruik — free reuse |
+| AQC pathology sheets | Free download, no explicit open license — internal corpus use citing AQC |
 
-## Estructura del proyecto
+## Project structure
 
 ```
-├── compass_artifact_*.md        # reporte original de fuentes (entrada)
-├── README.md                    # este documento
-├── METODOLOGIA.md               # extracción, normalización, cruces y pendientes
-├── INVENTARIO.md                # inventario detallado de los datos descargados
-├── ingest_dpe.py                # paso 1 FR
-├── ingest_rnb.py                # paso 2 FR
-├── ingest_bdnb.py               # paso 3 FR
-├── ingest_georisques.py         # paso 4 FR
-├── ingest_geoportail_lu.py      # paso 1 LU
-├── ingest_lu_3d.py              # paso 2 LU
-├── ingest_aqc.py                # corpus RAG de patología (AQC)
-├── rag_aqc.py                   # troceado + embeddings + búsqueda (usa .venv)
-├── informe_edificio.py          # conector: datos estructurados → RAG → informe
-├── ingest_be_geo.py             # Bélgica: UrbIS (Bruselas) / GRB (Flandes)
-├── ingest_veka.py               # Bélgica: VEKA e-peil (Flandes)
-├── ingest_lu_ortho.py           # Luxemburgo: chips CV de la ortofoto 2025
-├── informes/                    # informes de riesgo generados (Markdown)
-├── data/                        # todas las salidas (CSV/JSONL/GeoJSON)
-├── corpus/aqc/                  # corpus RAG: pdf/, txt/, manifest.* y rag_index.db
-├── .venv/                       # venv con sentence-transformers (solo rag_aqc.py)
-└── downloads/                   # ficheros intermedios grandes — BORRABLE
+├── compass_artifact_*.md        # original source-research report (input)
+├── README.md                    # this document (English)
+├── README.es.md                 # Spanish version
+├── METODOLOGIA.md               # extraction, normalization, joins, future work
+├── INVENTARIO.md                # detailed inventory of the downloaded data
+├── TODO/                        # SECO challenge brief + research reports
+├── docs/evaluacion.{md,json}    # extraction-pipeline metrics
+├── ingest_dpe.py                # FR step 1
+├── ingest_rnb.py                # FR step 2
+├── ingest_bdnb.py               # FR step 3
+├── ingest_georisques.py         # FR step 4
+├── ingest_geoportail_lu.py      # LU step 1
+├── ingest_lu_3d.py              # LU step 2
+├── ingest_aqc.py                # pathology RAG corpus (AQC)
+├── rag_aqc.py                   # chunking + embeddings + search (uses .venv)
+├── informe_edificio.py          # connector: structured data → RAG → report
+├── ingest_be_geo.py             # Belgium: UrbIS (Brussels) / GRB (Flanders)
+├── ingest_veka.py               # Belgium: VEKA e-peil (Flanders)
+├── ingest_lu_ortho.py           # Luxembourg: CV chips from the 2025 orthophoto
+├── sintetizar_informes.py       # synthetic inspection reports + ground truth
+├── extraer_informes.py          # PDF → structured defects DB (hybrid classifier)
+├── evaluar_extraccion.py        # F1 metrics vs ground truth
+├── informes/                    # generated risk reports (Markdown)
+├── informes_sinteticos/         # synthetic PDFs, ground truth, defectos.db
+├── data/                        # all outputs (CSV/JSONL/GeoJSON)
+├── corpus/aqc/                  # RAG corpus: txt/, manifest.* and rag_index.db
+├── .venv/                       # venv with dependencies (not in git)
+└── downloads/                   # large intermediate files — DELETABLE (not in git)
 ```
 
-`downloads/` (~1,2 GB: zips de CityGML, huellas nacionales, LOD1 descartado)
-se puede borrar entero; `ingest_lu_3d.py` re-descarga lo que necesite.
+`downloads/` (~1.5 GB: CityGML zips, national footprints, discarded LOD1) can
+be deleted entirely; `ingest_lu_3d.py` re-downloads what it needs.
 
-## Trabajo futuro
+## Future work
 
-La lista completa, priorizada por valor/esfuerzo y con el detalle de cada
-punto, está en `METODOLOGIA.md` → §5. En resumen: cruce por dirección para
-los DPE sin `id_rnb`; probar el modo `--llm` del generador de informes;
-escalar a descargas masivas con millésimes fijados; cruces belgas de segundo
-nivel (CAPAKEY/NIS → Statbel/VEKA); clasificador CV sobre los chips de
-ortofoto; ampliar el corpus RAG (ITM, Legilux, JRC, TABULA); robustez de
-ingeniería; y explorar Valonia (ODWB).
+The full list, prioritized by value/effort and with details for each item, is
+in `METODOLOGIA.md` → §5. In short: address-based join for DPEs without
+`id_rnb`; test the report generator's `--llm` mode; scale to bulk downloads
+with pinned vintages; second-level Belgian joins (CAPAKEY/NIS →
+Statbel/VEKA); a CV classifier on the orthophoto chips; expanding the RAG
+corpus (ITM, Legilux, JRC, TABULA); engineering hardening; and exploring
+Wallonia (ODWB).
