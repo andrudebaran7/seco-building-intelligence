@@ -1,0 +1,129 @@
+{
+  "n_informes": 30,
+  "n_defectos": 101,
+  "metadatos": {
+    "ref_detectada": 1.0,
+    "fecha": 1.0,
+    "adresse": 1.0,
+    "inspecteur": 1.0
+  },
+  "cobertura_observaciones": 1.0,
+  "gravedad_accuracy": 1.0,
+  "localisation_accuracy": 1.0,
+  "clasificacion_aqc": {
+    "top1_accuracy": 0.5544554455445545,
+    "top3_accuracy": 0.7326732673267327,
+    "tema_accuracy": 0.6831683168316832,
+    "macro_f1": 0.5897060619119443,
+    "por_codigo": {
+      "A.01": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 0
+      },
+      "A.02": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 9
+      },
+      "A.05": {
+        "precision": 1.0,
+        "recall": 0.5454545454545454,
+        "f1": 0.7058823529411764,
+        "soporte": 11
+      },
+      "B.01": {
+        "precision": 1.0,
+        "recall": 0.6153846153846154,
+        "f1": 0.761904761904762,
+        "soporte": 13
+      },
+      "B.05": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1": 0.888888888888889,
+        "soporte": 15
+      },
+      "B.07": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 0
+      },
+      "B.11": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 8
+      },
+      "C.01": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 0
+      },
+      "C.06": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "soporte": 9
+      },
+      "C.07": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "soporte": 9
+      },
+      "D.01": {
+        "precision": 0.23076923076923078,
+        "recall": 0.42857142857142855,
+        "f1": 0.3,
+        "soporte": 7
+      },
+      "D.02": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 0
+      },
+      "D.03": {
+        "precision": 1.0,
+        "recall": 0.45454545454545453,
+        "f1": 0.625,
+        "soporte": 11
+      },
+      "D.05": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 0
+      },
+      "D.12": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 0
+      },
+      "E.09": {
+        "precision": 1.0,
+        "recall": 0.4444444444444444,
+        "f1": 0.6153846153846153,
+        "soporte": 9
+      },
+      "F.05": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 0
+      },
+      "G.08": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "soporte": 0
+      }
+    }
+  }
+}
