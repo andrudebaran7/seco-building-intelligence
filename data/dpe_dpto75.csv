@@ -1,0 +1,501 @@
+numero_dpe,date_etablissement_dpe,id_rnb,adresse_ban,code_postal_ban,nom_commune_ban,code_departement_ban,type_batiment,periode_construction,annee_construction,surface_habitable_logement,etiquette_dpe,etiquette_ges,conso_5_usages_par_m2_ep
+2675E1530384A,2026-06-08,,61 Rue Ramey 75018 Paris,75018,Paris,75,appartement,1948-1974,1949,20.5,E,B,326
+2675E1536603F,2026-06-08,,65 Avenue Foch 75016 Paris,75016,Paris,75,appartement,avant 1948,,133,E,E,252
+2675E1528826C,2026-06-08,MJ8ZTZ38EJSZ,29 Rue de l'Abbé Groult 75015 Paris,75015,Paris,75,appartement,1975-1977,1975,22.5,E,E,250.6
+2675E1530536W,2026-06-08,,7 Rue Edmond Gondinet 75013 Paris,75013,Paris,75,appartement,avant 1948,,37.6,F,F,385
+2675E1530213L,2026-06-08,,8 Rue Ebelmen 75012 Paris,75012,Paris,75,appartement,avant 1948,,41,E,C,284
+2675E1536215H,2026-06-08,,32 Rue Truffaut 75017 Paris,75017,Paris,75,appartement,avant 1948,,9,F,C,633
+2675E1525758C,2026-06-08,,268 Avenue Daumesnil 75012 Paris,75012,Paris,75,appartement,1948-1974,,29.5,C,A,164
+2675E1527029Z,2026-06-08,,18 Rue Vavin 75006 Paris,75006,Paris,75,appartement,avant 1948,,37,E,C,316
+2675E1535793B,2026-06-08,,14t Avenue Bosquet 75007 Paris,75007,Paris,75,appartement,avant 1948,,30.7,C,B,194
+2675E1533713B,2026-06-08,,21 Rue Alphonse Daudet 75014 Paris,75014,Paris,75,appartement,avant 1948,,84.2,C,C,143
+2675E1536236C,2026-06-08,,Passage Thiéré 75011 Paris,75011,Paris,75,appartement,avant 1948,,31.1,D,B,232
+2675E1529128S,2026-06-08,FCWS1X7GYXCH,25 Rue de Lyon 75012 Paris,75012,Paris,75,appartement,avant 1948,,33.4,E,C,335
+2675E1528786O,2026-06-08,,3 Rue Fustel de Coulanges 75005 Paris,75005,Paris,75,appartement,avant 1948,,47.4,E,E,317
+2675E1536933X,2026-06-08,,87 Boulevard Soult 75012 Paris,75012,Paris,75,appartement,avant 1948,1896,26.5,G,C,470.4
+2675E1527724S,2026-06-08,8Y781ZV9D6RN,27 Rue de l'Eglise 75015 Paris,75015,Paris,75,appartement,avant 1948,,24.4,G,C,577
+2675E1526990M,2026-06-08,,3 Square Moncey 75009 Paris,75009,Paris,75,appartement,avant 1948,,210.3,E,E,283
+2675E1531153P,2026-06-08,,30 Rue des Vinaigriers 75010 Paris,75010,Paris,75,appartement,avant 1948,,48.7,E,C,304
+2675E1536871N,2026-06-08,,4 Rue Darwin 75018 Paris,75018,Paris,75,appartement,avant 1948,,32.3,D,B,216
+2675E1536873P,2026-06-08,,33 Rue d'Orsel 75018 Paris,75018,Paris,75,appartement,avant 1948,1900,23,D,B,223
+2675E1530112O,2026-06-08,,31 Rue du Surmelin 75020 Paris,75020,Paris,75,appartement,1948-1974,,126.4,F,C,377
+2675E1528934G,2026-06-08,,18 Rue Poulet 75018 Paris,75018,Paris,75,appartement,avant 1948,,24.1,G,C,521
+2675E1537315P,2026-06-08,,38 Rue Desaix 75015 Paris,75015,Paris,75,appartement,avant 1948,,84,F,F,370
+2675E1535370U,2026-06-08,,127 Rue du Faubourg du Temple 75010 Paris,75010,Paris,75,appartement,avant 1948,,32,E,C,321
+2675E1528136O,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,29.5,D,B,267
+2675E1536591T,2026-06-08,,405 Rue de Vaugirard 75015 Paris,75015,Paris,75,appartement,1948-1974,1948,49.5,E,E,304
+2675E1535407F,2026-06-08,F2TCW6JB14BQ,7 Rue de la Procession 75015 Paris,75015,Paris,75,appartement,1978-1982,,49.7,D,B,190
+2675E1536094Q,2026-06-08,,14 Rue Jules Vallès 75011 Paris,75011,Paris,75,appartement,avant 1948,,45,E,B,265
+2675E1531104S,2026-06-08,,47 Boulevard de la Villette 75010 Paris,75010,Paris,75,appartement,avant 1948,,29.2,E,C,347
+2675E1526010U,2026-06-08,,87 Rue de Courcelles 75017 Paris,75017,Paris,75,appartement,avant 1948,,144,F,F,397
+2675E1534466A,2026-06-08,,32 Rue de l'Assomption 75016 Paris,75016,Paris,75,appartement,avant 1948,1933,43.6,G,F,421.4
+2675E1536979R,2026-06-08,,36 Avenue Hoche 75008 Paris,75008,Paris,75,appartement,avant 1948,,81.1,D,D,219
+2675E1538616Q,2026-06-08,,11 Rue Jules César 75012 Paris,75012,Paris,75,appartement,1948-1974,1970,42.1,D,D,245.7
+2675E1536930U,2026-06-08,9D38PY5XBBKY,13 Rue de la Pierre Levée 75011 Paris,75011,Paris,75,appartement,avant 1948,1875,21.1,G,D,490
+2675E1533405F,2026-06-08,,34 Rue Louis Braille 75012 Paris,75012,Paris,75,appartement,avant 1948,,30.8,D,B,234
+2675E1536812G,2026-06-08,,10 Villa Saint-Jacques 75014 Paris,75014,Paris,75,appartement,1948-1974,,75.2,D,D,209
+2675E1529765F,2026-06-08,,47 Rue de Babylone 75007 Paris,75007,Paris,75,appartement,avant 1948,,9.9,G,D,1095
+2675E1539029N,2026-06-08,,1 Place de l'Ecole Militaire 75007 Paris,75007,Paris,75,appartement,avant 1948,,36.7,C,A,177
+2675E1537855J,2026-06-08,,21 Avenue du Docteur Arnold Netter 75012 Paris,75012,Paris,75,appartement,1948-1974,,13.7,D,D,253
+2675E1534816M,2026-06-08,,41 Rue Saint-Placide 75006 Paris,75006,Paris,75,appartement,avant 1948,1900,128,D,D,164.8
+2675E1535425X,2026-06-08,,5b Passage Salarnier 75011 Paris,75011,Paris,75,appartement,avant 1948,,54.8,D,B,185
+2675E1531013F,2026-06-08,,4 Rue des Bauches 75016 Paris,75016,Paris,75,appartement,avant 1948,,80.9,F,F,337
+2675E1530349R,2026-06-08,,92 Rue de Maubeuge 75010 Paris,75010,Paris,75,appartement,avant 1948,,10.7,G,D,1109
+2675E1531854O,2026-06-08,,88 Rue de la Pompe 75016 Paris,75016,Paris,75,appartement,avant 1948,,94.9,F,F,354
+2675E1534192M,2026-06-08,ZAFF52YFD26R,38 Rue Marc Séguin 75018 Paris,75018,Paris,75,appartement,avant 1948,1900,28.2,D,B,271.8
+2675E1531635D,2026-06-08,,10 Rue des Carrières d'Amérique 75019 Paris,75019,Paris,75,appartement,avant 1948,,31.2,E,C,316
+2675E1526775F,2026-06-08,,12 Quai d'Orléans 75004 Paris,75004,Paris,75,appartement,avant 1948,,41.9,G,G,513
+2675E1529771L,2026-06-08,,8 Rue de Monttessuy 75007 Paris,75007,Paris,75,appartement,avant 1948,,23.6,E,C,307
+2675E1535452Y,2026-06-08,HYP2J1BHYBK5,6 Rue Jean Moréas 75017 Paris,75017,Paris,75,appartement,avant 1948,1930,70.8,E,E,280.1
+2675E1533677R,2026-06-08,,36 Rue de Lévis 75017 Paris,75017,Paris,75,appartement,avant 1948,,58.5,D,B,192
+2675E1528724E,2026-06-08,1FPZE3HA9GWJ,12 Rue Dieu 75010 Paris,75010,Paris,75,appartement,avant 1948,,22.2,C,B,204
+2675E1529901L,2026-06-08,,77 Rue de Richelieu 75002 Paris,75002,Paris,75,appartement,avant 1948,,57.2,E,E,284
+2675E1530345N,2026-06-08,,166 Rue Raymond Losserand 75014 Paris,75014,Paris,75,appartement,avant 1948,,36.1,E,B,271
+2675E1534773V,2026-06-08,,3 Cours du Septième Art 75019 Paris,75019,Paris,75,appartement,1989-2000,,33.4,C,A,158
+2675E1532821T,2026-06-08,,145 Avenue Jean Jaurès 75019 Paris,75019,Paris,75,appartement,avant 1948,,49.6,D,B,246
+2675E1536908Y,2026-06-08,,7 Avenue Franco-Russe 75007 Paris,75007,Paris,75,appartement,1989-2000,,180.1,C,C,139
+2675E1535417P,2026-06-08,,2 Rue Niepce 75014 Paris,75014,Paris,75,appartement,avant 1948,1900,19.5,G,C,552.9
+2675E1536668S,2026-06-08,H49NQZCZK364,9 Rue Royer-Collard 75005 Paris,75005,Paris,75,appartement,avant 1948,1900,54.7,G,C,570.1
+2675E1529373D,2026-06-08,E58HP8EG4HJF,20 Rue de l'Equerre 75019 Paris,75019,Paris,75,appartement,avant 1948,1900,32.3,F,F,335.2
+2675E1538943F,2026-06-08,,29 Boulevard Pereire 75017 Paris,75017,Paris,75,appartement,avant 1948,,11.3,F,C,568
+2675E1532976S,2026-06-08,JA1PE67H4299,1 Rue Henri Desgrange 75012 Paris,75012,Paris,75,appartement,1989-2000,,125.5,C,C,99
+2675E1533722K,2026-06-08,,41 Avenue de Saint-Ouen 75017 Paris,75017,Paris,75,appartement,avant 1948,,32.6,E,C,314
+2675E1537908K,2026-06-08,,33b Avenue Reille 75014 Paris,75014,Paris,75,appartement,avant 1948,,42.4,E,C,305
+2675E1530706K,2026-06-08,,110 Rue du Faubourg Poissonnière 75010 Paris,75010,Paris,75,appartement,avant 1948,,48,E,E,303
+2675E1528806I,2026-06-08,,22 Rue des Ecluses Saint-Martin 75010 Paris,75010,Paris,75,appartement,1978-1982,1981,29,D,D,240
+2675E1536982U,2026-06-08,,9b Rue des Bergers 75015 Paris,75015,Paris,75,appartement,avant 1948,,13.5,D,D,335
+2675E1530084M,2026-06-08,,18 Rue Pache 75011 Paris,75011,Paris,75,appartement,avant 1948,,32.3,E,B,302
+2675E1528840Q,2026-06-08,R4MRBZCC64MC,14 Rue du Temple 75004 Paris,75004,Paris,75,appartement,avant 1948,1850,92.1,B,A,98
+2675E1530923T,2026-06-08,,5 Rue Guillaumot 75012 Paris,75012,Paris,75,appartement,avant 1948,,47.2,E,C,305
+2675E1537032S,2026-06-08,,9 Rue Pasteur 75011 Paris,75011,Paris,75,appartement,avant 1948,,52,D,D,183
+2675E1532746W,2026-06-08,,62 Rue Falguière 75015 Paris,75015,Paris,75,appartement,1948-1974,1962,62.1,C,C,144
+2675E1529831T,2026-06-08,,22 Rue des Ecluses Saint-Martin 75010 Paris,75010,Paris,75,appartement,1978-1982,1981,31.6,C,C,193
+2675E1533980I,2026-06-08,,2b Rue Henri Regnault 75014 Paris,75014,Paris,75,appartement,avant 1948,,33,G,C,509
+2675E1527514Q,2026-06-08,,31 Rue de Cronstadt 75015 Paris,75015,Paris,75,appartement,avant 1948,1920,79.9,D,D,246.6
+2675E1537804K,2026-06-08,,8 Rue Murillo 75008 Paris,75008,Paris,75,appartement,avant 1948,,12.6,C,C,186
+2675E1528199Z,2026-06-08,,6b Rue de Châtillon 75014 Paris,75014,Paris,75,appartement,avant 1948,1850,62,C,A,149
+2675E1534791N,2026-06-08,,21 Passage Gatbois 75012 Paris,75012,Paris,75,appartement,avant 1948,1876,27.4,F,C,363
+2675E1530040U,2026-06-08,,85b Rue Falguière 75015 Paris,75015,Paris,75,appartement,1989-2000,,72,C,A,112
+2675E1534112K,2026-06-08,P178R2SAE5ZV,37 Rue Marguerite de Rochechouart 75009 Paris,75009,Paris,75,appartement,avant 1948,1880,21.8,D,D,202
+2675E1539037V,2026-06-08,,8 Rue Jules César 75012 Paris,75012,Paris,75,appartement,1975-1977,,85.4,C,C,138
+2675E1532183F,2026-06-08,,20 Rue de l'Armorique 75015 Paris,75015,Paris,75,appartement,1948-1974,,36,C,C,150
+2675E1538642Q,2026-06-08,,51 Rue Caulaincourt 75018 Paris,75018,Paris,75,appartement,avant 1948,,27.3,E,C,354
+2675E1528185L,2026-06-08,,10 Rue de Normandie 75003 Paris,75003,Paris,75,appartement,avant 1948,,30.4,C,A,176
+2675E1534749X,2026-06-08,,15 Rue Marie-Éléonore de Bellefond 75009 Paris,75009,Paris,75,appartement,avant 1948,,38.5,E,E,258
+2675E1532820S,2026-06-08,,146 Avenue de Versailles 75016 Paris,75016,Paris,75,appartement,2013-2021,2017,18.5,C,A,187
+2675E1526078K,2026-06-08,7D6N693W1WT8,24 Rue de Plaisance 75014 Paris,75014,Paris,75,appartement,avant 1948,,17.7,C,B,240
+2675E1530136M,2026-06-08,,13 Rue de Marseille 75010 Paris,75010,Paris,75,appartement,avant 1948,,32.8,E,C,315
+2675E1538424G,2026-06-08,,105 Rue de Rennes 75006 Paris,75006,Paris,75,appartement,avant 1948,,114.3,D,D,225
+2675E1539035T,2026-06-08,,29 Rue Rambuteau 75004 Paris,75004,Paris,75,appartement,avant 1948,,41.5,D,B,218
+2675E1527441V,2026-06-08,,18 Rue Weber 75016 Paris,75016,Paris,75,appartement,avant 1948,,393.2,C,C,134
+2675E1530294O,2026-06-08,,87 Rue de Ménilmontant 75020 Paris,75020,Paris,75,appartement,avant 1948,,27.8,D,B,212
+2675E1530020A,2026-06-08,,9 Boulevard Saint-Michel 75005 Paris,75005,Paris,75,appartement,avant 1948,,103.7,D,D,181
+2675E1538849P,2026-06-08,,147 Rue de Bercy 75012 Paris,75012,Paris,75,appartement,1948-1974,1971,42.7,D,D,247.2
+2675E1537991P,2026-06-08,,160 Boulevard Malesherbes 75017 Paris,75017,Paris,75,appartement,avant 1948,,17.1,G,C,674
+2675E1525881V,2026-06-08,,26 Rue Jean Mermoz 75008 Paris,75008,Paris,75,appartement,avant 1948,,226.5,E,C,328
+2675E1534083H,2026-06-08,,21 Rue Ramus 75020 Paris,75020,Paris,75,appartement,avant 1948,,86.7,E,E,304
+2675E1529386Q,2026-06-08,,95 Rue Didot 75014 Paris,75014,Paris,75,appartement,avant 1948,,43,F,F,387
+2675E1534514W,2026-06-08,,35 Rue d'Hauteville 75010 Paris,75010,Paris,75,appartement,avant 1948,,82.8,D,B,203
+2675E1533336O,2026-06-08,,43 Rue d'Hauteville 75010 Paris,75010,Paris,75,appartement,avant 1948,,31.9,B,A,109
+2675E1526976Y,2026-06-08,,16 Rue Claude Rodier 75009 Paris,75009,Paris,75,appartement,avant 1948,,36.7,C,A,179
+2675E1535466M,2026-06-08,S6FPGM6KKPCH,28 Boulevard Beaumarchais 75011 Paris,75011,Paris,75,appartement,avant 1948,,41.9,E,B,270
+2675E1538779X,2026-06-08,,55 Rue Montmartre 75002 Paris,75002,Paris,75,appartement,avant 1948,,21.9,E,C,363
+2675E1525742M,2026-06-08,,101 Rue Oberkampf 75011 Paris,75011,Paris,75,appartement,avant 1948,1830,50.3,D,B,213.2
+2675E1527901N,2026-06-08,,Voie R/18 75018 Paris,75018,Paris,75,appartement,avant 1948,,82.4,D,D,146
+2675E1533177L,2026-06-08,,112 Rue de Clignancourt 75018 Paris,75018,Paris,75,appartement,1948-1974,,29.1,E,E,264
+2675E1529360Q,2026-06-08,,50 Rue Labat 75018 Paris,75018,Paris,75,appartement,avant 1948,,23.3,E,C,309
+2675E1537899B,2026-06-08,V7D3NM9MQDM3,5 Rue Pelouze 75008 Paris,75008,Paris,75,appartement,avant 1948,,255.1,B,A,75
+2675E1538735F,2026-06-08,,64 Avenue du Général Leclerc 75014 Paris,75014,Paris,75,maison,avant 1948,1900,99.5,E,E,329
+2675E1535556Y,2026-06-08,,2b Rue Descombes 75017 Paris,75017,Paris,75,appartement,avant 1948,,55.9,D,D,221
+2675E1538055B,2026-06-08,,41 Rue Sedaine 75011 Paris,75011,Paris,75,appartement,avant 1948,,46.1,F,C,398
+2675E1538269H,2026-06-08,,8 Rue des Mariniers 75014 Paris,75014,Paris,75,appartement,1948-1974,,48.1,D,C,183
+2675E1526326Y,2026-06-08,6NJAMMJRJFFS,28 Rue George Sand 75016 Paris,75016,Paris,75,appartement,avant 1948,1925,31.7,F,E,355.3
+2675E1534679F,2026-06-08,HJ9MHXDG2YYM,12b Rue Desaix 75015 Paris,75015,Paris,75,appartement,avant 1948,1913,73.6,C,C,169
+2675E1527579D,2026-06-08,P1D8WKJQ3J6Y,84 Rue du Faubourg du Temple 75011 Paris,75011,Paris,75,immeuble,avant 1948,,,E,D,311
+2675E1534202W,2026-06-08,,45 Rue de Saussure 75017 Paris,75017,Paris,75,immeuble,avant 1948,1945,,E,D,262.4
+2675E1537758Q,2026-06-08,,10 Villa de l'Adour 75019 Paris,75019,Paris,75,appartement,avant 1948,,28.1,G,C,531
+2675E1529356M,2026-06-08,1N21JQ81XAKA,36 Rue Pérignon 75015 Paris,75015,Paris,75,appartement,avant 1948,,94.4,D,C,180
+2675E1533941V,2026-06-08,JMW7VDHSEFTP,25 Rue Trousseau 75011 Paris,75011,Paris,75,appartement,avant 1948,,43.7,F,F,355
+2675E1531559F,2026-06-08,Z43B5ECXAZGK,10 Rue Léon Cogniet 75017 Paris,75017,Paris,75,appartement,avant 1948,,95.4,E,E,284
+2675E1533057V,2026-06-08,,34 Boulevard du Temple 75011 Paris,75011,Paris,75,appartement,avant 1948,,41.3,F,C,343
+2675E1534465Z,2026-06-08,,8 Rue Monsieur Le Prince 75006 Paris,75006,Paris,75,appartement,avant 1948,1789,23.4,D,B,219
+2675E1529103T,2026-06-08,,39 Rue Gay-Lussac 75005 Paris,75005,Paris,75,appartement,avant 1948,,39.9,C,C,125
+2675E1527690K,2026-06-08,,16 Rue Lantiez 75017 Paris,75017,Paris,75,appartement,avant 1948,1920,37,E,C,324
+2675E1531217B,2026-06-08,,161 Avenue Victor Hugo 75016 Paris,75016,Paris,75,appartement,avant 1948,1851,83.7,E,E,282.3
+2675E1537674K,2026-06-08,,22 Rue la Condamine 75017 Paris,75017,Paris,75,appartement,avant 1948,,43.3,E,B,264
+2675E1536152W,2026-06-08,,8 Cité Debergue 75012 Paris,75012,Paris,75,appartement,avant 1948,,32.4,C,B,185
+2675E1533174I,2026-06-08,,43 Rue d'Hauteville 75010 Paris,75010,Paris,75,appartement,avant 1948,,31.7,C,A,116
+2675E1536713L,2026-06-08,,1 Rue Hassard 75019 Paris,75019,Paris,75,appartement,1989-2000,1990,75.9,D,B,198
+2675E1537085T,2026-06-08,CMDQXQJJ1NB9,114 Boulevard de Magenta 75010 Paris,75010,Paris,75,appartement,avant 1948,1870,17,D,B,264.4
+2675E1526096C,2026-06-08,,12 Rue Monge 75005 Paris,75005,Paris,75,appartement,avant 1948,,26.9,F,C,384
+2675E1530721Z,2026-06-08,PCQK57QBJ9RZ,7 Place Adolphe Chérioux 75015 Paris,75015,Paris,75,appartement,avant 1948,,60,D,D,142
+2675E1537895X,2026-06-08,,8 Rue Murillo 75008 Paris,75008,Paris,75,appartement,avant 1948,,18,C,C,146
+2675E1528347R,2026-06-08,,1 Rue Lagille 75018 Paris,75018,Paris,75,immeuble,avant 1948,,,G,F,565
+2675E1534887F,2026-06-08,HTV9N3C1S47R,88 Rue Ordener 75018 Paris,75018,Paris,75,appartement,avant 1948,,30.4,F,C,422
+2675E1538141J,2026-06-08,,21 Rue de Lourmel 75015 Paris,75015,Paris,75,appartement,1948-1974,,49,E,D,269
+2675E1538350K,2026-06-08,VEQGW5PTVW93,3 Avenue Boudon 75016 Paris,75016,Paris,75,appartement,1975-1977,,100.3,F,C,409
+2675E1528094Y,2026-06-08,P1D8WKJQ3J6Y,84 Rue du Faubourg du Temple 75011 Paris,75011,Paris,75,immeuble,avant 1948,,,F,D,375
+2675E1537456A,2026-06-08,,22 Rue Parent de Rosan 75016 Paris,75016,Paris,75,appartement,1948-1974,,49.9,E,E,288
+2675E1531909R,2026-06-08,,37 Rue Gazan 75014 Paris,75014,Paris,75,appartement,1948-1974,1955,51.3,D,D,241
+2675E1527569T,2026-06-08,,32 Rue des Volontaires 75015 Paris,75015,Paris,75,appartement,1948-1974,,93,D,D,224
+2675E1532752C,2026-06-08,Q4DBYPZ6QVCK,37 Rue de Nantes 75019 Paris,75019,Paris,75,appartement,avant 1948,,38.4,F,F,388
+2675E1529026U,2026-06-08,,177 Rue d'Alésia 75014 Paris,75014,Paris,75,appartement,avant 1948,,49.4,D,B,241
+2675E1530976U,2026-06-08,,36 Rue Ballu 75009 Paris,75009,Paris,75,appartement,avant 1948,1860,42.2,E,E,244
+2675E1535010Y,2026-06-08,,52 Rue Rennequin 75017 Paris,75017,Paris,75,appartement,avant 1948,1900,157,D,D,212
+2675E1529783X,2026-06-08,,20 Rue Durantin 75018 Paris,75018,Paris,75,appartement,avant 1948,,21.4,E,C,357
+2675E1532396K,2026-06-08,,23 Rue Tronchet 75008 Paris,75008,Paris,75,appartement,1989-2000,1993,121.7,C,B,158.4
+2675E1528721B,2026-06-08,1FPZE3HA9GWJ,12 Rue Dieu 75010 Paris,75010,Paris,75,appartement,avant 1948,,22.2,C,B,204
+2675E1526473P,2026-06-08,,84 Rue Hallé 75014 Paris,75014,Paris,75,appartement,avant 1948,,31.9,D,C,218
+2675E1525858Y,2026-06-08,,83 Rue Mouffetard 75005 Paris,75005,Paris,75,appartement,avant 1948,,37.8,F,C,335
+2675E1536673X,2026-06-08,PQ5DRHDAKRBW,9 Rue du Louvre 75001 Paris,75001,Paris,75,appartement,avant 1948,,49.7,C,A,148
+2675E1536832A,2026-06-08,,10 Rue Poinsot 75014 Paris,75014,Paris,75,appartement,1983-1988,1983,71,C,C,136
+2675E1537140W,2026-06-08,R8Z39HER794M,3 Rue Sauval 75001 Paris,75001,Paris,75,appartement,avant 1948,,19.9,C,A,197
+2675E1534146S,2026-06-08,,11 Rue du Poteau 75018 Paris,75018,Paris,75,appartement,avant 1948,,86,F,F,347
+2675E1532548G,2026-06-08,,10 Rue des Carrières d'Amérique 75019 Paris,75019,Paris,75,appartement,avant 1948,,28.4,E,C,340
+2675E1534257Z,2026-06-08,,16 Rue de la Convention 75015 Paris,75015,Paris,75,appartement,1989-2000,,63.7,D,D,210
+2675E1534704E,2026-06-08,,12 Rue Louis David 75016 Paris,75016,Paris,75,appartement,avant 1948,1830,23.9,E,B,307.7
+2675E1535493N,2026-06-08,,12 Rue Pache 75011 Paris,75011,Paris,75,appartement,avant 1948,,40,E,E,293
+2675E1537836Q,2026-06-08,,47 Rue Vineuse 75016 Paris,75016,Paris,75,appartement,1948-1974,,40,E,E,304
+2675E1537688Y,2026-06-08,,1 Rue Sainte-Léonie 75014 Paris,75014,Paris,75,appartement,avant 1948,,26.4,F,C,430
+2675E1526883J,2026-06-08,,32 Rue de Chazelles 75017 Paris,75017,Paris,75,appartement,avant 1948,,78,D,D,245
+2675E1536413X,2026-06-08,,Boulevard de la Villette 75019 Paris,75019,Paris,75,appartement,1948-1974,1963,59.4,D,D,212.4
+2675E1538384S,2026-06-08,,3 Rue Saint-Fiacre 75002 Paris,75002,Paris,75,appartement,avant 1948,,44.3,D,B,194
+2675E1529217D,2026-06-08,,16 Rue des Ecluses Saint-Martin 75010 Paris,75010,Paris,75,appartement,1978-1982,1981,46.6,C,C,84
+2675E1538460Q,2026-06-08,JTDEHM4TZWX2,4 Rue Dulong 75017 Paris,75017,Paris,75,appartement,avant 1948,,23.5,G,G,422
+2675E1531762A,2026-06-08,,8 Rue de Langeac 75015 Paris,75015,Paris,75,appartement,avant 1948,,32.5,E,C,325
+2675E1536005F,2026-06-08,3AREYKD5174Y,18 Rue de Cotte 75012 Paris,75012,Paris,75,appartement,avant 1948,1900,49.5,E,B,262.9
+2675E1526661V,2026-06-08,,82 Avenue Secrétan 75019 Paris,75019,Paris,75,appartement,avant 1948,,51.1,E,B,259
+2675E1538282U,2026-06-08,,27 Rue Michel Le Comte 75003 Paris,75003,Paris,75,appartement,avant 1948,1900,50.3,E,E,271.6
+2675E1534813J,2026-06-08,,97 Rue de Rome 75017 Paris,75017,Paris,75,appartement,avant 1948,1928,84,D,D,243
+2675E1531191B,2026-06-08,GM5RNQQN1JRP,29 Rue Jean-Pierre Timbaud 75011 Paris,75011,Paris,75,immeuble,avant 1948,,,E,C,254
+2675E1538855V,2026-06-08,,8 Villa Gagliardini 75020 Paris,75020,Paris,75,appartement,avant 1948,,35.8,E,D,298
+2675E1526091X,2026-06-08,,46 Rue Guy Môquet 75017 Paris,75017,Paris,75,appartement,avant 1948,,37.7,E,C,315
+2675E1533061Z,2026-06-08,,10 Rue Marc Séguin 75018 Paris,75018,Paris,75,appartement,1948-1974,1948,20,E,B,302
+2675E1533289T,2026-06-08,,81 Avenue Victor Hugo 75016 Paris,75016,Paris,75,appartement,avant 1948,,180,C,C,112
+2675E1528533V,2026-06-08,EYAZ4A66FTA4,16 Rue Bleue 75009 Paris,75009,Paris,75,appartement,avant 1948,,37,D,B,195
+2675E1531316W,2026-06-08,N747553RBXG2,152 Boulevard du Montparnasse 75014 Paris,75014,Paris,75,appartement,avant 1948,,26.9,F,C,402
+2675E1534018U,2026-06-08,,5 Rue Dulac 75015 Paris,75015,Paris,75,appartement,avant 1948,,16.2,E,C,369
+2675E1535803L,2026-06-08,,66 Rue du Faubourg Saint-Martin 75010 Paris,75010,Paris,75,appartement,avant 1948,,35.2,E,C,330
+2675E1526758O,2026-06-08,P6SDRQATCWH3,23 Rue Jean de Beauvais 75005 Paris,75005,Paris,75,appartement,avant 1948,,20.6,G,G,695
+2675E1536567V,2026-06-08,2HJSJJVRNJTZ,32 Rue Poncelet 75017 Paris,75017,Paris,75,appartement,avant 1948,,56.2,E,E,263
+2675E1529092I,2026-06-08,5WPTRWP2VEHN,21 Rue de la Félicité 75017 Paris,75017,Paris,75,appartement,1948-1974,1961,70,E,E,313.4
+2675E1528632Q,2026-06-08,,36 Rue de la Goutte d'Or 75018 Paris,75018,Paris,75,appartement,avant 1948,,19,E,C,353
+2675E1527934U,2026-06-08,,33 Rue Nicolo 75016 Paris,75016,Paris,75,appartement,1948-1974,1963,59.6,D,D,210
+2675E1534397J,2026-06-08,,34 Rue Letort 75018 Paris,75018,Paris,75,appartement,avant 1948,,26.1,E,B,293
+2675E1529968A,2026-06-08,,5 Rue Léon Cogniet 75017 Paris,75017,Paris,75,appartement,avant 1948,,61.8,F,F,351
+2675E1527762E,2026-06-08,,30 Rue Gay-Lussac 75005 Paris,75005,Paris,75,appartement,avant 1948,,67.5,D,D,224
+2675E1532969L,2026-06-08,,69 Rue de Reuilly 75012 Paris,75012,Paris,75,appartement,avant 1948,,42.8,D,D,180
+2675E1538114I,2026-06-08,A24CG3CV3WFE,16 Rue des Poissonniers 75018 Paris,75018,Paris,75,appartement,avant 1948,1825,18.7,G,C,708
+2675E1527911X,2026-06-08,,15 Rue du Louvre 75001 Paris,75001,Paris,75,appartement,avant 1948,,80.9,E,B,253
+2675E1530158I,2026-06-08,,28 Rue Taine 75012 Paris,75012,Paris,75,appartement,avant 1948,1925,21.1,D,D,292
+2675E1527809Z,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,156.5,E,E,266
+2675E1532132G,2026-06-08,E9ABSQ8VA3TZ,40 Rue du Bac 75007 Paris,75007,Paris,75,maison,avant 1948,,157.3,C,A,127
+2675E1529272G,2026-06-08,,22 Rue du Sommerard 75005 Paris,75005,Paris,75,appartement,avant 1948,,52,D,C,183
+2675E1538580G,2026-06-08,,24 Rue Daubigny 75017 Paris,75017,Paris,75,appartement,avant 1948,1910,112.4,E,E,248.9
+2675E1526438G,2026-06-08,,33 Rue Robert Lindet 75015 Paris,75015,Paris,75,appartement,avant 1948,1930,19,E,D,386
+2675E1527623V,2026-06-08,,121 Rue de Clignancourt 75018 Paris,75018,Paris,75,appartement,avant 1948,,51.2,D,D,190
+2675E1535970W,2026-06-08,,14 Rue Campagne Première 75014 Paris,75014,Paris,75,appartement,avant 1948,1930,67.8,E,E,280
+2675E1533653T,2026-06-08,,1 Square du Diapason 75019 Paris,75019,Paris,75,appartement,1989-2000,1990,51,C,A,139
+2675E1537278E,2026-06-08,YQJ3HAKSSRNG,30 Rue Saint-André des Arts 75006 Paris,75006,Paris,75,appartement,avant 1948,,43.7,E,C,324
+2675E1529270E,2026-06-08,,39 Rue Gay-Lussac 75005 Paris,75005,Paris,75,appartement,avant 1948,,39.6,C,C,127
+2675E1528896U,2026-06-08,,65 Boulevard Exelmans 75016 Paris,75016,Paris,75,appartement,1975-1977,,48.2,D,B,245
+2675E1528273V,2026-06-08,D75XZSYVJVT3,11 Boulevard Suchet 75016 Paris,75016,Paris,75,appartement,1948-1974,,31.6,E,E,270
+2675E1531594O,2026-06-08,XBPDJ5P4DZYQ,75 Boulevard Ornano 75018 Paris,75018,Paris,75,appartement,avant 1948,,31.9,E,C,338
+2675E1530217P,2026-06-08,,228 Rue des Pyrénées 75020 Paris,75020,Paris,75,appartement,2013-2021,2013,24.3,C,C,124
+2675E1528801D,2026-06-08,XJPHFZ9WFDGA,8 Rue Masseran 75007 Paris,75007,Paris,75,appartement,1948-1974,,68.5,C,C,141
+2675E1528147Z,2026-06-08,,Rue Riquet 75018 Paris,75018,Paris,75,appartement,avant 1948,,27.4,F,C,405
+2675E1537694E,2026-06-08,,13 Rue des Arquebusiers 75003 Paris,75003,Paris,75,appartement,avant 1948,,26.7,F,C,425
+2675E1531481F,2026-06-08,,18 Rue de la Chine 75020 Paris,75020,Paris,75,appartement,avant 1948,,35,D,B,245
+2675E1535892W,2026-06-08,,3 Boulevard de Charonne 75011 Paris,75011,Paris,75,appartement,avant 1948,1906,72.4,C,A,128
+2675E1529472Y,2026-06-08,,1 Rue Charles Bossut 75012 Paris,75012,Paris,75,appartement,avant 1948,,20.4,E,C,376
+2675E1531028U,2026-06-08,QPA38FAKVWVV,5 Boulevard Flandrin 75016 Paris,75016,Paris,75,appartement,1948-1974,,16.5,C,C,116
+2675E1538495Z,2026-06-08,P9Q2T3B5RYST,6 Rue Achille Martinet 75018 Paris,75018,Paris,75,appartement,1948-1974,,42.2,D,D,182
+2675E1532258C,2026-06-08,CCPSP2SZPSW5,10 Villa Gaudelet 75011 Paris,75011,Paris,75,appartement,avant 1948,,18.3,G,C,561
+2675E1535479Z,2026-06-08,,7 Rue Daubenton 75005 Paris,75005,Paris,75,appartement,avant 1948,,26.5,F,E,391
+2675E1537305F,2026-06-08,,46 Rue Stendhal 75020 Paris,75020,Paris,75,appartement,avant 1948,1930,19,F,F,451.6
+2675E1532670Y,2026-06-08,,15 Rue Soufflot 75005 Paris,75005,Paris,75,appartement,avant 1948,,118.1,C,B,155
+2675E1537021H,2026-06-08,,101 Boulevard Pereire 75017 Paris,75017,Paris,75,appartement,1948-1974,,90,F,C,354
+2675E1526765V,2026-06-08,,124 Rue Lamarck 75018 Paris,75018,Paris,75,appartement,avant 1948,,18.2,E,C,374
+2675E1527709D,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,46.2,F,F,385
+2675E1528070A,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,31.8,G,C,758
+2675E1538359T,2026-06-08,,32 Rue Gassendi 75014 Paris,75014,Paris,75,appartement,avant 1948,,58,E,E,269
+2675E1538852S,2026-06-08,,271 Rue des Pyrénées 75020 Paris,75020,Paris,75,appartement,avant 1948,,22,D,B,228
+2675E1531155R,2026-06-08,,78 Rue Pouchet 75017 Paris,75017,Paris,75,appartement,avant 1948,,44.2,E,C,312
+2675E1528331B,2026-06-08,,277 Rue de Vaugirard 75015 Paris,75015,Paris,75,appartement,1948-1974,,48.7,C,C,108
+2675E1537487F,2026-06-08,,43 Rue d'Hauteville 75010 Paris,75010,Paris,75,appartement,avant 1948,,47,C,A,115
+2675E1530678I,2026-06-08,,3b Rue Françoise Dolto 75013 Paris,75013,Paris,75,appartement,2006-2012,2007,84.2,B,A,91
+2675E1538621V,2026-06-08,TN4NRQCB4683,71 Rue de Dunkerque 75009 Paris,75009,Paris,75,appartement,avant 1948,1930,21.5,F,F,396
+2675E1527222K,2026-06-08,,28 Rue Fabert 75007 Paris,75007,Paris,75,appartement,avant 1948,,177.2,C,A,123
+2675E1537284K,2026-06-08,,3 Rue Championnet 75018 Paris,75018,Paris,75,appartement,avant 1948,,14,C,B,252
+2675E1538699V,2026-06-08,,8 Rue des Mariniers 75014 Paris,75014,Paris,75,appartement,1948-1974,,27.3,E,D,290
+2675E1532680I,2026-06-08,,24 Rue du Faubourg du Temple 75011 Paris,75011,Paris,75,appartement,avant 1948,1900,45.3,E,E,297.6
+2675E1533901H,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,157.4,E,E,312
+2675E1535977D,2026-06-08,,4 Rue Lacaille 75017 Paris,75017,Paris,75,appartement,avant 1948,1945,46.3,C,B,178
+2675E1527536M,2026-06-08,,95 Avenue de la Bourdonnais 75007 Paris,75007,Paris,75,appartement,1948-1974,,60.7,F,F,364
+2675E1537136S,2026-06-08,E8DG8T9KXYNG,99 Rue Bobillot 75013 Paris,75013,Paris,75,appartement,1948-1974,,51.1,C,C,113
+2675E1525806Y,2026-06-08,,42 Rue Rouelle 75015 Paris,75015,Paris,75,appartement,avant 1948,,9.3,F,F,393
+2675E1526516G,2026-06-08,,8 Rue Fessart 75019 Paris,75019,Paris,75,appartement,avant 1948,,24.2,E,C,349
+2675E1531351F,2026-06-08,,87 Rue de Courcelles 75017 Paris,75017,Paris,75,appartement,avant 1948,,8.3,D,C,452
+2675E1531700Q,2026-06-08,,28 Rue Taine 75012 Paris,75012,Paris,75,appartement,avant 1948,1925,21.1,D,D,292
+2675E1537737V,2026-06-08,,8 Rue Murillo 75008 Paris,75008,Paris,75,appartement,avant 1948,,11.6,C,C,194
+2675E1532171T,2026-06-08,,25 Rue des Grands Augustins 75006 Paris,75006,Paris,75,appartement,avant 1948,,38.8,G,C,434
+2675E1536306U,2026-06-08,DEVJKGWRP7M6,10 Rue Lacroix 75017 Paris,75017,Paris,75,appartement,avant 1948,,11.2,D,B,334
+2675E1526926A,2026-06-08,,13 Rue de l'Aubrac 75012 Paris,75012,Paris,75,appartement,1989-2000,,24.2,C,A,187
+2675E1526392M,2026-06-08,,87 Rue de Courcelles 75017 Paris,75017,Paris,75,appartement,avant 1948,,6.7,G,C,779
+2675E1538561N,2026-06-08,EG5J7BSQR5QV,4 Rue de Montmorency 75003 Paris,75003,Paris,75,appartement,avant 1948,,46.1,E,E,243
+2675E1532077D,2026-06-08,HM5YG3YVQEKK,4 Rue Drevet 75018 Paris,75018,Paris,75,appartement,avant 1948,,25.9,E,B,288
+2675E1527942C,2026-06-08,,151 Rue de Rennes 75006 Paris,75006,Paris,75,appartement,avant 1948,,150.7,D,D,188
+2675E1530531R,2026-06-08,,8 Rue Cavé 75018 Paris,75018,Paris,75,appartement,avant 1948,,30,F,C,430
+2675E1538843J,2026-06-08,,24 Rue Saint-Charles 75015 Paris,75015,Paris,75,appartement,avant 1948,,51.9,E,B,271
+2675E1529795J,2026-06-08,,70 Avenue de Flandre 75019 Paris,75019,Paris,75,appartement,avant 1948,1945,53.7,D,B,189
+2675E1530119V,2026-06-08,,86 Boulevard Exelmans 75016 Paris,75016,Paris,75,appartement,1948-1974,1966,89.2,D,D,164
+2675E1536890G,2026-06-08,,13 Rue de l'Aubrac 75012 Paris,75012,Paris,75,appartement,1989-2000,,28.1,C,A,177
+2675E1534638Q,2026-06-08,,3 Cours du Septième Art 75019 Paris,75019,Paris,75,appartement,1989-2000,,33.4,C,A,158
+2675E1529057Z,2026-06-08,EZEBQJZCRENM,7 Avenue Victor Hugo 75016 Paris,75016,Paris,75,appartement,avant 1948,,115.6,C,C,110
+2675E1532809H,2026-06-08,,29 Rue Poissonnière 75002 Paris,75002,Paris,75,appartement,avant 1948,,47.9,F,C,365
+2675E1528917P,2026-06-08,,16 Rue Petit 75019 Paris,75019,Paris,75,appartement,avant 1948,,59.7,E,E,234
+2675E1527348G,2026-06-08,,41 Rue de la Lune 75002 Paris,75002,Paris,75,appartement,avant 1948,,72.2,F,F,405
+2675E1529236W,2026-06-08,,6 Rue Versigny 75018 Paris,75018,Paris,75,appartement,avant 1948,,44.1,D,B,240
+2675E1536694S,2026-06-08,,15 Rue Méchain 75014 Paris,75014,Paris,75,appartement,1989-2000,,20.1,C,A,205
+2675E1538556I,2026-06-08,YV6FY9VPYYAA,185 Rue Marcadet 75018 Paris,75018,Paris,75,appartement,avant 1948,,73.9,C,B,160
+2675E1531060A,2026-06-08,,42 Rue Faidherbe 75011 Paris,75011,Paris,75,appartement,avant 1948,,37.8,G,C,592
+2675E1532458U,2026-06-08,,Rue de Chabrol 75010 Paris,75010,Paris,75,appartement,avant 1948,,11.8,D,C,368
+2675E1526951Z,2026-06-08,HN2GDAK4BKNC,33 Rue du Commandant René Mouchotte 75014 Paris,75014,Paris,75,appartement,1948-1974,,27.5,D,C,206
+2675E1537871Z,2026-06-08,,16b Rue Pierre Fontaine 75009 Paris,75009,Paris,75,appartement,1975-1977,,47.8,D,D,200
+2675E1533085X,2026-06-08,J5A7MNHS2X9H,19 Boulevard Saint-Martin 75003 Paris,75003,Paris,75,appartement,avant 1948,1870,44.5,E,C,290
+2675E1534026C,2026-06-08,,2 Rue Laure Surville 75015 Paris,75015,Paris,75,appartement,avant 1948,1925,56.3,E,E,250
+2675E1538443Z,2026-06-08,,69 Rue de la Roquette 75011 Paris,75011,Paris,75,appartement,avant 1948,,23.1,D,B,276
+2675E1528888M,2026-06-08,,2 Rue des Favorites 75015 Paris,75015,Paris,75,appartement,1948-1974,,63.5,D,D,185
+2675E1532226W,2026-06-08,,3 Rue Lacépède 75005 Paris,75005,Paris,75,appartement,avant 1948,,16.8,F,C,459
+2675E1531019L,2026-06-08,,3 Rue Sadi Lecointe 75019 Paris,75019,Paris,75,appartement,avant 1948,,35.5,E,B,280
+2675E1530027H,2026-06-08,,19 Boulevard de Magenta 75010 Paris,75010,Paris,75,appartement,avant 1948,1875,18.8,E,B,307
+2675E1535759T,2026-06-08,,41 Rue de la Gare de Reuilly 75012 Paris,75012,Paris,75,appartement,avant 1948,,18.6,E,B,321
+2675E1530719X,2026-06-08,,18 Rue Villehardouin 75003 Paris,75003,Paris,75,appartement,avant 1948,,78.5,C,C,113
+2675E1538625Z,2026-06-08,K98E3E8KWKGH,190 Rue Marcadet 75018 Paris,75018,Paris,75,appartement,avant 1948,1900,45.6,G,F,448.1
+2675E1538555H,2026-06-08,,68 Rue Ramus 75020 Paris,75020,Paris,75,appartement,avant 1948,,13.1,D,B,305
+2675E1528522K,2026-06-08,,31 Rue Pierre Fontaine 75009 Paris,75009,Paris,75,appartement,avant 1948,,36.5,E,E,312
+2675E1537790W,2026-06-08,,25 Rue Monge 75005 Paris,75005,Paris,75,appartement,avant 1948,,30,E,B,296
+2675E1530301V,2026-06-08,,21 Avenue du Président Wilson 75016 Paris,75016,Paris,75,appartement,avant 1948,,33.6,G,F,584
+2675E1526636W,2026-06-08,16M42VNZ5WYC,61 Rue des Vignoles 75020 Paris,75020,Paris,75,appartement,avant 1948,1911,36.2,D,B,209.7
+2675E1535564G,2026-06-08,,9 Rue Vavin 75006 Paris,75006,Paris,75,appartement,avant 1948,,33.5,E,D,272
+2675E1535079P,2026-06-08,,4 Rue Gudin 75016 Paris,75016,Paris,75,maison,avant 1948,1880,139.2,C,C,140.1
+2675E1528356A,2026-06-08,,17 Boulevard de la Chapelle 75010 Paris,75010,Paris,75,appartement,avant 1948,,32.4,F,C,391
+2675E1529085B,2026-06-08,,70 Rue Mazarine 75006 Paris,75006,Paris,75,appartement,avant 1948,,19,G,C,512
+2675E1529163B,2026-06-08,,71 Rue des Saints-Pères 75006 Paris,75006,Paris,75,appartement,avant 1948,,61.6,E,B,264
+2675E1526902C,2026-06-08,,41 Rue des Gâtines 75020 Paris,75020,Paris,75,appartement,avant 1948,,16.4,E,C,348
+2675E1528393L,2026-06-08,,66 Rue des Cévennes 75015 Paris,75015,Paris,75,appartement,1948-1974,1958,38.6,F,F,355
+2675E1525938A,2026-06-08,,128 Rue de la Croix Nivert 75015 Paris,75015,Paris,75,appartement,1948-1974,1965,74.1,C,C,146
+2675E1537679P,2026-06-08,,8 Rue Murillo 75008 Paris,75008,Paris,75,appartement,avant 1948,,13.4,C,C,168
+2675E1537545L,2026-06-08,Y8SRBAK1MDCR,11b Rue Elzévir 75003 Paris,75003,Paris,75,appartement,avant 1948,,93.9,D,D,166
+2675E1535963P,2026-06-08,,8 Rue des Lombards 75004 Paris,75004,Paris,75,appartement,avant 1948,,38.4,D,B,216
+2675E1536912C,2026-06-08,,7 Passage du Génie 75012 Paris,75012,Paris,75,appartement,avant 1948,,57.5,D,D,209
+2675E1536478K,2026-06-08,,23 Rue Louis Blanc 75010 Paris,75010,Paris,75,appartement,avant 1948,,35.8,F,C,344
+2675E1533720I,2026-06-08,,17 Rue Jouvenet 75016 Paris,75016,Paris,75,appartement,avant 1948,,19.6,E,E,384
+2675E1533674O,2026-06-08,,8 Rue Alphonse Daudet 75014 Paris,75014,Paris,75,appartement,avant 1948,1902,43.2,F,C,332.3
+2675E1534795R,2026-06-08,,7 Rue Charles Lecocq 75015 Paris,75015,Paris,75,appartement,1983-1988,,21.1,C,B,217
+2675E1531937T,2026-06-08,,16 Rue du Faubourg Saint-Denis 75010 Paris,75010,Paris,75,appartement,avant 1948,,44.7,D,D,229
+2675E1536870M,2026-06-08,,Avenue Ferdinand Buisson 75016 Paris,75016,Paris,75,appartement,1948-1974,,61.1,D,D,234
+2675E1537709T,2026-06-08,,56 Avenue de la République 75011 Paris,75011,Paris,75,appartement,avant 1948,,20.9,C,B,213
+2675E1537543J,2026-06-08,,11b Rue Sextius Michel 75015 Paris,75015,Paris,75,appartement,avant 1948,,23.5,F,C,445
+2675E1530542C,2026-06-08,,13 Rue Saint-Ambroise 75011 Paris,75011,Paris,75,appartement,avant 1948,1900,59.4,E,E,317.1
+2675E1538956S,2026-06-08,S3D9W7E28E87,29 Rue de Charenton 75012 Paris,75012,Paris,75,appartement,avant 1948,,9,E,C,541
+2675E1529749P,2026-06-08,,40 Rue de la Voûte 75012 Paris,75012,Paris,75,appartement,avant 1948,,33.9,E,C,330
+2675E1535208O,2026-06-08,,4 Quai Henri IV 75004 Paris,75004,Paris,75,appartement,1948-1974,,79.1,E,B,275
+2675E1535836S,2026-06-08,,14 Rue Jules Vallès 75011 Paris,75011,Paris,75,appartement,avant 1948,,44,F,C,389
+2675E1536408S,2026-06-08,,38 Boulevard Voltaire 75011 Paris,75011,Paris,75,appartement,avant 1948,,52.1,C,A,135
+2675E1526076I,2026-06-08,,87 Rue de Courcelles 75017 Paris,75017,Paris,75,appartement,1948-1974,,7.6,G,C,877
+2675E1536948M,2026-06-08,,15 Rue Marmontel 75015 Paris,75015,Paris,75,appartement,1948-1974,,27.8,D,D,240
+2675E1534408U,2026-06-08,,84 Rue Balard 75015 Paris,75015,Paris,75,appartement,1983-1988,1988,82,D,B,181
+2675E1537589D,2026-06-08,,8 Rue Murillo 75008 Paris,75008,Paris,75,appartement,avant 1948,,10.2,C,C,217
+2675E1530037R,2026-06-08,,113 Rue Saint-Maur 75011 Paris,75011,Paris,75,appartement,avant 1948,,165.9,E,E,255
+2675E1532961D,2026-06-08,,53b Quai des Grands Augustins 75006 Paris,75006,Paris,75,appartement,avant 1948,,223.9,E,D,254
+2675E1531480E,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,68,F,F,345
+2675E1537987L,2026-06-08,PEK8PWKD8BPS,12 Rue du Colisée 75008 Paris,75008,Paris,75,appartement,avant 1948,1890,59.5,E,C,320.2
+2675E1538099T,2026-06-08,,228 Boulevard de la Villette 75019 Paris,75019,Paris,75,appartement,avant 1948,,42.2,D,B,244
+2675E1537926C,2026-06-08,,8 Rue de Port-Mahon 75002 Paris,75002,Paris,75,appartement,avant 1948,,59.2,E,E,301
+2675E1534951R,2026-06-08,,15 Rue Saint-Jacques 75005 Paris,75005,Paris,75,appartement,avant 1948,,33.2,G,C,525
+2675E1538429L,2026-06-08,QGNEW1N2ZA6Q,11 Rue Montmartre 75001 Paris,75001,Paris,75,appartement,avant 1948,,62.6,E,E,298
+2675E1532610Q,2026-06-08,,70 Rue du Javelot 75013 Paris,75013,Paris,75,appartement,1948-1974,1972,33.6,D,D,218.3
+2675E1537237P,2026-06-08,,188 Avenue de Versailles 75016 Paris,75016,Paris,75,appartement,avant 1948,,34.8,G,F,500
+2675E1527216E,2026-06-08,,75 Rue Vauvenargues 75018 Paris,75018,Paris,75,appartement,avant 1948,,32.6,F,F,391
+2675E1527069N,2026-06-08,,17 Square Saint-Charles 75012 Paris,75012,Paris,75,appartement,1978-1982,1979,74.4,E,C,313
+2675E1537955F,2026-06-08,,8 Rue Murillo 75008 Paris,75008,Paris,75,appartement,avant 1948,,16.3,C,C,170
+2675E1527601Z,2026-06-08,,36 Avenue d'Iéna 75016 Paris,75016,Paris,75,appartement,avant 1948,,16.1,E,C,348
+2675E1535427Z,2026-06-08,,80 Rue de la Tombe Issoire 75014 Paris,75014,Paris,75,appartement,1948-1974,,31.4,C,C,145
+2675E1535838U,2026-06-08,TTH3ZSQYP8W4,72 Rue d'Auteuil 75016 Paris,75016,Paris,75,appartement,1948-1974,,24,F,F,354
+2675E1538105Z,2026-06-08,,25 Boulevard Poniatowski 75012 Paris,75012,Paris,75,appartement,1948-1974,,138.7,C,C,172
+2675E1531851L,2026-06-08,K44XJF1DZV1J,7 Boulevard de Strasbourg 75010 Paris,75010,Paris,75,appartement,avant 1948,,96.1,D,B,197
+2675E1537060U,2026-06-08,,134 Avenue de Saint-Ouen 75018 Paris,75018,Paris,75,appartement,avant 1948,1900,54,G,C,482
+2675E1535002Q,2026-06-08,,9 Rue Visconti 75006 Paris,75006,Paris,75,appartement,avant 1948,,13,C,B,267
+2675E1527228Q,2026-06-08,,29 Rue des Haies 75020 Paris,75020,Paris,75,appartement,avant 1948,,22,F,C,465
+2675E1532732I,2026-06-08,,30 Rue Copernic 75016 Paris,75016,Paris,75,appartement,avant 1948,,266.2,C,A,124
+2675E1538805X,2026-06-08,,72 Boulevard Pereire 75017 Paris,75017,Paris,75,appartement,avant 1948,,66.4,E,C,274
+2675E1536837F,2026-06-08,9CYBCMHDAAGQ,65 Rue du Bac 75007 Paris,75007,Paris,75,appartement,avant 1948,,49.1,E,B,265
+2675E1535773H,2026-06-08,,182 Avenue du Maine 75014 Paris,75014,Paris,75,appartement,avant 1948,,25.8,D,B,274
+2675E1532668W,2026-06-08,,10 Rue des Carrières d'Amérique 75019 Paris,75019,Paris,75,appartement,avant 1948,,30.7,E,B,295
+2675E1532239J,2026-06-08,,20 Rue de la Sablière 75014 Paris,75014,Paris,75,appartement,avant 1948,,9.1,D,B,363
+2675E1538833Z,2026-06-08,,29 Boulevard Pereire 75017 Paris,75017,Paris,75,appartement,avant 1948,,108.2,F,E,343
+2675E1525852S,2026-06-08,,18 Rue du Pot de Fer 75005 Paris,75005,Paris,75,appartement,avant 1948,,43,E,C,315
+2675E1537992Q,2026-06-08,,6 Rue Armand Moisant 75015 Paris,75015,Paris,75,appartement,avant 1948,,12.2,E,D,415.7
+2675E1537780M,2026-06-08,,Rue de Vouillé 75015 Paris,75015,Paris,75,appartement,1948-1974,,63.1,E,E,255
+2675E1534561R,2026-06-08,,242 Rue de la Convention 75015 Paris,75015,Paris,75,appartement,1989-2000,,107.5,C,A,145
+2675E1527642O,2026-06-08,,17 Rue Saint-Joseph 75002 Paris,75002,Paris,75,appartement,avant 1948,,33.3,F,C,371
+2675E1536279T,2026-06-08,WEXG6WX4GV2D,10 Rue Juge 75015 Paris,75015,Paris,75,appartement,1989-2000,,37.9,E,B,261
+2675E1535135T,2026-06-08,,40 Rue de la Mare 75020 Paris,75020,Paris,75,appartement,avant 1948,,17,F,F,483
+2675E1537039Z,2026-06-08,,40 Rue des Solitaires 75019 Paris,75019,Paris,75,appartement,avant 1948,1920,29.4,E,C,310.8
+2675E1532106G,2026-06-08,,104 Quai de Jemmapes 75010 Paris,75010,Paris,75,appartement,avant 1948,,33.7,E,C,339
+2675E1538016O,2026-06-08,,13 Rue du Vertbois 75003 Paris,75003,Paris,75,appartement,1948-1974,1949,18.4,F,C,463
+2675E1534819P,2026-06-08,,2 Rue Lefebvre 75015 Paris,75015,Paris,75,appartement,avant 1948,,79.8,E,C,281
+2675E1527891D,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,60.9,G,C,593
+2675E1532096W,2026-06-08,,67 Boulevard de Clichy 75009 Paris,75009,Paris,75,immeuble,avant 1948,1860,,D,C,228
+2675E1537769B,2026-06-08,,3 Rue de Campo-Formio 75013 Paris,75013,Paris,75,appartement,avant 1948,,37.8,F,C,404
+2675E1529224K,2026-06-08,,25 Rue Taitbout 75009 Paris,75009,Paris,75,appartement,avant 1948,,35,E,D,261
+2675E1535573P,2026-06-08,,20 Rue du Rhin 75019 Paris,75019,Paris,75,appartement,1948-1974,,40.7,D,D,227
+2675E1528897V,2026-06-08,,5 Rue Auguste Chabrières 75015 Paris,75015,Paris,75,appartement,avant 1948,,31.2,F,C,412
+2675E1534267J,2026-06-08,,52 Rue Bouret 75019 Paris,75019,Paris,75,appartement,avant 1948,,116.4,D,D,245
+2675E1537621J,2026-06-08,S68TDRH5APG1,27 Rue de Ponthieu 75008 Paris,75008,Paris,75,appartement,avant 1948,,38.2,D,B,211
+2675E1537816W,2026-06-08,,127 Rue du Ranelagh 75016 Paris,75016,Paris,75,appartement,avant 1948,,30.3,E,C,343
+2675E1533213V,2026-06-08,,3 Rue du Foin 75003 Paris,75003,Paris,75,appartement,avant 1948,,33.5,D,B,196
+2675E1536289D,2026-06-08,,52 Rue de Bourgogne 75007 Paris,75007,Paris,75,appartement,avant 1948,,92.2,D,D,191
+2675E1535432E,2026-06-08,,13 Rue du Mail 75002 Paris,75002,Paris,75,appartement,avant 1948,,68.8,E,E,325
+2675E1530075D,2026-06-08,,28 Boulevard Arago 75013 Paris,75013,Paris,75,appartement,1948-1974,1960,74.1,F,F,417
+2675E1528222W,2026-06-08,,6 Rue Quentin-Bauchart 75008 Paris,75008,Paris,75,appartement,avant 1948,,47.8,D,D,215
+2675E1538244I,2026-06-08,,22 Rue Mayet 75006 Paris,75006,Paris,75,appartement,avant 1948,1900,45.5,D,B,210.1
+2675E1532665T,2026-06-08,,54 Rue du Faubourg du Temple 75011 Paris,75011,Paris,75,appartement,avant 1948,1945,53.7,D,D,174
+2675E1533190Y,2026-06-08,,14 Rue Vauvenargues 75018 Paris,75018,Paris,75,appartement,avant 1948,,57,F,F,339
+2675E1537174E,2026-06-08,,48 Rue des Haies 75020 Paris,75020,Paris,75,appartement,avant 1948,,46.7,E,C,287
+2675E1531192C,2026-06-08,,403b Rue de Vaugirard 75015 Paris,75015,Paris,75,appartement,avant 1948,,32,G,E,634
+2675E1527340Y,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,244,D,D,225
+2675E1532841N,2026-06-08,,10 Rue des Carrières d'Amérique 75019 Paris,75019,Paris,75,appartement,avant 1948,,26.9,E,C,329
+2675E1527050U,2026-06-08,,48 Rue de l'Ourcq 75019 Paris,75019,Paris,75,appartement,avant 1948,,59.3,E,C,302
+2675E1527858W,2026-06-08,,2 Rue des Favorites 75015 Paris,75015,Paris,75,appartement,1948-1974,,42.1,C,C,178
+2675E1538529H,2026-06-08,,278 Rue Saint-Honoré 75001 Paris,75001,Paris,75,appartement,avant 1948,1850,11.6,D,D,234.6
+2675E1538286Y,2026-06-08,,48 Rue Léon Frot 75011 Paris,75011,Paris,75,appartement,avant 1948,,26,F,C,448
+2675E1537480Y,2026-06-08,,99 Rue du Faubourg du Temple 75010 Paris,75010,Paris,75,appartement,avant 1948,1947,44.5,D,B,238
+2675E1526328A,2026-06-08,,23 Rue Duhesme 75018 Paris,75018,Paris,75,appartement,avant 1948,1910,21.9,E,C,359
+2675E1537052M,2026-06-08,,29 Rue Ginoux 75015 Paris,75015,Paris,75,appartement,1989-2000,,76,C,B,161
+2675E1529825N,2026-06-08,,24 Rue des Ecluses Saint-Martin 75010 Paris,75010,Paris,75,appartement,1978-1982,1981,29.4,C,C,138
+2675E1533843B,2026-06-08,,85b Rue du Ranelagh 75016 Paris,75016,Paris,75,appartement,avant 1948,1902,94.6,D,D,194
+2675E1535477X,2026-06-08,,6 Boulevard de Strasbourg 75010 Paris,75010,Paris,75,appartement,avant 1948,,48.5,D,D,223
+2675E1526171Z,2026-06-08,,12 Rue Monge 75005 Paris,75005,Paris,75,appartement,avant 1948,,26.9,E,C,322
+2675E1527535L,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,56.1,F,F,350
+2675E1538850Q,2026-06-08,,43 Rue des Morillons 75015 Paris,75015,Paris,75,appartement,1948-1974,,36.1,F,D,347
+2675E1529020O,2026-06-08,,26 Rue Mousset-Robert 75012 Paris,75012,Paris,75,appartement,1975-1977,1975,51.7,D,D,249
+2675E1538378M,2026-06-08,Y9E6RNRAB2GW,2 Rue Gustave Zédé 75016 Paris,75016,Paris,75,appartement,avant 1948,,123.6,D,B,243
+2675E1536027B,2026-06-08,,20 Rue des Gravilliers 75003 Paris,75003,Paris,75,appartement,avant 1948,1710,47.2,F,C,345
+2675E1535440M,2026-06-08,,4 Rue Saint-Hubert 75011 Paris,75011,Paris,75,immeuble,1978-1982,,,D,D,233
+2675E1528285H,2026-06-08,,89 Rue Ordener 75018 Paris,75018,Paris,75,appartement,avant 1948,1881,18.6,E,C,390
+2675E1528238M,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,157.1,E,E,315
+2675E1527973H,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,1948-1974,,17,F,C,474
+2675E1527177R,2026-06-08,,61 Rue du Faubourg Saint-Martin 75010 Paris,75010,Paris,75,appartement,avant 1948,1800,43.8,E,B,279.6
+2675E1536143N,2026-06-08,,7 Avenue du Général Maistre 75014 Paris,75014,Paris,75,appartement,avant 1948,,62,E,D,295
+2675E1537643F,2026-06-08,EF67Y6SJVN19,170 Avenue Daumesnil 75012 Paris,75012,Paris,75,appartement,avant 1948,,32.5,F,C,396
+2675E1527240C,2026-06-08,,36 Rue Bayen 75017 Paris,75017,Paris,75,appartement,avant 1948,1910,71.7,G,G,535
+2675E1531326G,2026-06-08,,34 Rue Dombasle 75015 Paris,75015,Paris,75,appartement,avant 1948,,18.3,E,E,394
+2675E1527360S,2026-06-08,,42 Rue Blomet 75015 Paris,75015,Paris,75,appartement,avant 1948,,41.9,E,E,291
+2675E1535361L,2026-06-08,,36 Rue d'Artois 75008 Paris,75008,Paris,75,appartement,avant 1948,1945,32,D,D,176
+2675E1530224W,2026-06-08,,9 Rue Ernest Cresson 75014 Paris,75014,Paris,75,appartement,avant 1948,,33.5,D,D,213
+2675E1536660K,2026-06-08,,120 Boulevard de Ménilmontant 75020 Paris,75020,Paris,75,appartement,2013-2021,,23.6,C,A,125
+2675E1525711H,2026-06-08,,84 Rue d'Alleray 75015 Paris,75015,Paris,75,appartement,1948-1974,,36.9,E,E,310
+2675E1526769Z,2026-06-08,,11 Rue du Jour 75001 Paris,75001,Paris,75,appartement,1948-1974,1949,35,D,B,251.1
+2675E1528638W,2026-06-08,,45 Rue des Abbesses 75018 Paris,75018,Paris,75,appartement,avant 1948,1850,32,E,B,296
+2675E1535371V,2026-06-08,,30 Rue de Chazelles 75017 Paris,75017,Paris,75,appartement,1948-1974,1970,27,E,B,303.4
+2675E1530546G,2026-06-08,,60 Boulevard de Clichy 75018 Paris,75018,Paris,75,appartement,avant 1948,,39.5,E,C,324
+2675E1535751L,2026-06-08,,23 Rue la Condamine 75017 Paris,75017,Paris,75,appartement,avant 1948,,31.1,D,B,255
+2675E1531920C,2026-06-08,,21b Avenue d'Iéna 75016 Paris,75016,Paris,75,appartement,avant 1948,,176.7,D,D,214
+2675E1536506M,2026-06-08,,25 Rue des Gardes 75018 Paris,75018,Paris,75,appartement,avant 1948,,48.8,E,E,321
+2675E1536822Q,2026-06-08,,Voie D/17 75017 Paris,75017,Paris,75,appartement,1948-1974,,65.5,E,E,236
+2675E1529246G,2026-06-08,,47 Rue de Babylone 75007 Paris,75007,Paris,75,appartement,avant 1948,,66.9,F,F,348
+2675E1535949B,2026-06-08,MXEGGPMXVP2D,18 Cité Dupont 75011 Paris,75011,Paris,75,appartement,avant 1948,,21.2,D,B,235
+2675E1530941L,2026-06-08,,101b Rue du Mont Cenis 75018 Paris,75018,Paris,75,appartement,avant 1948,,43.5,D,D,218
+2675E1537522O,2026-06-08,,Rue Pelleport 75020 Paris,75020,Paris,75,appartement,avant 1948,,18.5,G,C,585
+2675E1535223D,2026-06-08,,85 Avenue de Wagram 75017 Paris,75017,Paris,75,appartement,avant 1948,1945,104.9,E,E,203
+2675E1531304K,2026-06-08,,76 Rue de l'Ouest 75014 Paris,75014,Paris,75,appartement,avant 1948,,16.3,E,D,363
+2675E1530803D,2026-06-08,,18 Rue de l'Argonne 75019 Paris,75019,Paris,75,appartement,avant 1948,,55.5,D,D,178
+2675E1535396U,2026-06-08,,9 Rue Jean Dollfus 75018 Paris,75018,Paris,75,appartement,1983-1988,,47.2,C,A,115
+2675E1537653P,2026-06-08,,4 Rue de Parme 75009 Paris,75009,Paris,75,appartement,avant 1948,,61.2,D,B,214
+2675E1527596U,2026-06-08,,53 Rue Condorcet 75009 Paris,75009,Paris,75,appartement,avant 1948,,138.8,D,D,166
+2675E1530121X,2026-06-08,,100 Avenue Ledru-Rollin 75011 Paris,75011,Paris,75,appartement,avant 1948,,14.2,E,C,418
+2675E1531794G,2026-06-08,,15 Boulevard de la Chapelle 75010 Paris,75010,Paris,75,appartement,avant 1948,,54.1,E,C,328
+2675E1535756Q,2026-06-08,,25 Rue Coquillière 75001 Paris,75001,Paris,75,appartement,avant 1948,,26.7,E,C,355
+2675E1534900S,2026-06-08,,7 Allée Maintenon 75006 Paris,75006,Paris,75,maison,avant 1948,,323.1,D,D,227
+2675E1528389H,2026-06-08,,176 Boulevard Haussmann 75008 Paris,75008,Paris,75,appartement,avant 1948,,159.1,E,E,310
+2675E1526319R,2026-06-08,,23 Rue Duhesme 75018 Paris,75018,Paris,75,appartement,avant 1948,1910,21.9,E,B,321
+2675E1537443N,2026-06-08,,50 Rue de Babylone 75007 Paris,75007,Paris,75,appartement,avant 1948,,18.5,D,B,239
+2675E1536794O,2026-06-08,,41 Avenue de Saint-Ouen 75017 Paris,75017,Paris,75,immeuble,1948-1974,,,F,C,361
+2675E1529552A,2026-06-08,,16 Rue du Pont aux Choux 75003 Paris,75003,Paris,75,appartement,avant 1948,,42.6,D,B,222
+2675E1534211F,2026-06-08,,55 Avenue de la Grande Armée 75016 Paris,75016,Paris,75,appartement,avant 1948,,86.4,D,D,190
+2675E1533851J,2026-06-08,Z7ME5VDVJ8B7,324 Rue de Belleville 75020 Paris,75020,Paris,75,appartement,avant 1948,,36.8,E,C,315
+2675E1527085D,2026-06-08,,30 Rue de Campo-Formio 75013 Paris,75013,Paris,75,appartement,1948-1974,,49.2,E,E,258
+2675E1534251T,2026-06-08,,16 Rue de la Convention 75015 Paris,75015,Paris,75,appartement,1989-2000,,63.7,D,D,210
+2675E1527526C,2026-06-08,,62 Rue du Mont Cenis 75018 Paris,75018,Paris,75,immeuble,avant 1948,,,D,B,218
+2675E1526920U,2026-06-08,,43 Rue de Tolbiac 75013 Paris,75013,Paris,75,appartement,avant 1948,,44.3,C,B,161
+2675E1530497J,2026-06-08,,19 Rue Esquirol 75013 Paris,75013,Paris,75,appartement,1983-1988,,56.6,D,B,223
+2675E1533538I,2026-06-08,,2 Rue de la Bastille 75004 Paris,75004,Paris,75,appartement,avant 1948,,73.4,D,D,189
+2675E1530363F,2026-06-08,,212t Boulevard Pereire 75017 Paris,75017,Paris,75,appartement,avant 1948,,132.6,C,A,113
+2675E1533598Q,2026-06-08,,3 Rue Henri Dubouillon 75020 Paris,75020,Paris,75,appartement,1948-1974,,35.1,E,E,267
+2675E1529417V,2026-06-08,,2 Rue des Favorites 75015 Paris,75015,Paris,75,appartement,1948-1974,,46.6,C,C,107
+2675E1535525T,2026-06-08,VYVNAJVPYK8Y,83 Avenue de Clichy 75017 Paris,75017,Paris,75,appartement,avant 1948,1900,47,D,D,188.4
+2675E1526518I,2026-06-08,,3 Rue Henri Duchène 75015 Paris,75015,Paris,75,appartement,avant 1948,,37.5,D,D,166
+2675E1537246Y,2026-06-08,,4 Rue Michelet 75006 Paris,75006,Paris,75,appartement,avant 1948,,127,D,D,231
+2675E1530410A,2026-06-08,B9W8XRDJK11D,30 Avenue Gambetta 75020 Paris,75020,Paris,75,appartement,avant 1948,,19.7,G,C,653
+2666E1535171U,2026-06-08,RAK6KEP6F2TD,25 Rue Emile Desvaux 75019 Paris,75019,Paris,75,appartement,1948-1974,1969,89.7,D,D,219.4
+2675E1537868W,2026-06-08,,5 Place Félix Eboué 75012 Paris,75012,Paris,75,appartement,avant 1948,,30.3,E,E,322
+2675E1533652S,2026-06-08,,1 Square du Diapason 75019 Paris,75019,Paris,75,appartement,1989-2000,1990,51,C,A,139
+2675E1531461L,2026-06-08,,57 Boulevard Victor 75015 Paris,75015,Paris,75,appartement,avant 1948,,34.8,C,A,149
+2675E1525846M,2026-06-08,,99 Rue du Faubourg Saint-Martin 75010 Paris,75010,Paris,75,appartement,avant 1948,,54.9,E,E,255
+2675E1537570K,2026-06-08,,6b Passage du Montenegro 75019 Paris,75019,Paris,75,appartement,avant 1948,,14.6,F,F,478
+2675E1529180S,2026-06-08,,68 Rue Saint-Dominique 75007 Paris,75007,Paris,75,appartement,avant 1948,1947,22.1,F,C,381.3
+2675E1538381P,2026-06-08,,2 Rue de la Boule Rouge 75009 Paris,75009,Paris,75,appartement,avant 1948,,17.1,D,B,278
+2675E1526427V,2026-06-08,349QV5R71PXF,42 Avenue Georges Mandel 75016 Paris,75016,Paris,75,appartement,1948-1974,1970,30.1,D,D,210.6
+2675E1535679R,2026-06-08,ZFJPZPNWNRJK,39 Rue des Entrepreneurs 75015 Paris,75015,Paris,75,appartement,avant 1948,,60.4,E,C,290
+2675E1528108M,2026-06-08,,104 Avenue des Ternes 75017 Paris,75017,Paris,75,appartement,avant 1948,,12.3,E,C,403
+2675E1538918G,2026-06-08,,124 Rue du Théâtre 75015 Paris,75015,Paris,75,appartement,1948-1974,,32.4,F,F,404
+2675E1537121D,2026-06-08,7WV6TZTRXBJK,13b Avenue de la Motte-Picquet 75007 Paris,75007,Paris,75,appartement,avant 1948,,9.3,F,C,566
+2675E1526503T,2026-06-08,,6a Rue Jules Vallès 75011 Paris,75011,Paris,75,appartement,avant 1948,,10.4,D,B,323
+2675E1536886C,2026-06-08,,73 Boulevard de Sébastopol 75002 Paris,75002,Paris,75,appartement,avant 1948,,28,F,C,360
+2675E1535571N,2026-06-08,,5 Rue Louis Blanc 75010 Paris,75010,Paris,75,appartement,1983-1988,1985,83.7,B,A,100
+2675E1535158Q,2026-06-08,,156 Rue Lamarck 75018 Paris,75018,Paris,75,appartement,avant 1948,,47.5,D,B,210
+2675E1532848U,2026-06-08,,43 Rue d'Hauteville 75010 Paris,75010,Paris,75,appartement,avant 1948,,17,C,A,197
+2675E1537853H,2026-06-08,,8 Rue Murillo 75008 Paris,75008,Paris,75,appartement,avant 1948,,12.2,C,C,186
+2675E1528436C,2026-06-08,,7 Boulevard Jules Ferry 75011 Paris,75011,Paris,75,appartement,avant 1948,,38.1,E,B,257
+2675E1533568M,2026-06-08,,20 Place de la Chapelle 75018 Paris,75018,Paris,75,appartement,1948-1974,1948,35,F,C,404.8
+2675E1535154M,2026-06-08,B5ZR3Q4JT8TN,46 Rue la Condamine 75017 Paris,75017,Paris,75,immeuble,avant 1948,,,F,C,374
+2675E1533503Z,2026-06-08,,115 Rue de Rome 75017 Paris,75017,Paris,75,appartement,avant 1948,1885,103.8,E,C,293.3
+2675E1538858Y,2026-06-08,,147 Rue de Bercy 75012 Paris,75012,Paris,75,appartement,1948-1974,1971,43.3,D,D,245
+2675E1536079B,2026-06-08,,73 Rue Duhesme 75018 Paris,75018,Paris,75,appartement,avant 1948,1900,31,E,B,292.1
+2675E1523927R,2026-06-07,,26 Rue Legendre 75017 Paris,75017,Paris,75,appartement,avant 1948,1850,33.3,E,B,278.3
+2675E1524883L,2026-06-07,,7 Rue d'Ankara 75016 Paris,75016,Paris,75,appartement,1948-1974,,62.5,D,D,206
+2675E1524604S,2026-06-07,,50 Rue de la Goutte d'Or 75018 Paris,75018,Paris,75,appartement,avant 1948,,42,E,E,311
+2675E1523413X,2026-06-07,,93 Avenue Henri Martin 75016 Paris,75016,Paris,75,appartement,1975-1977,,14.2,F,C,444
+2675E1524973X,2026-06-07,,18 Rue Pierre Larousse 75014 Paris,75014,Paris,75,appartement,avant 1948,1880,50,D,D,223
+2675E1523905V,2026-06-07,,27 Rue de la Huchette 75005 Paris,75005,Paris,75,appartement,avant 1948,1800,24.5,E,C,319.5
+2675E1524009V,2026-06-07,,18 Boulevard Barbès 75018 Paris,75018,Paris,75,appartement,avant 1948,1875,13.6,E,C,387
+2675E1525648W,2026-06-07,,16 Rue de l'Equerre 75019 Paris,75019,Paris,75,appartement,1989-2000,1995,17.1,C,A,191
+2675E1523211D,2026-06-07,,13 Rue de l'Equerre 75019 Paris,75019,Paris,75,maison,avant 1948,,145.8,D,D,155
+2675E1524413J,2026-06-07,,18 Rue Volta 75003 Paris,75003,Paris,75,appartement,avant 1948,,49.8,E,B,256
+2675E1523738K,2026-06-07,,11 Rue Castex 75004 Paris,75004,Paris,75,appartement,avant 1948,,57.1,F,E,376
+2675E1525504I,2026-06-07,,4 Rue Pasteur 75011 Paris,75011,Paris,75,appartement,avant 1948,,26.7,G,C,653
+2675E1524856K,2026-06-07,,13 Avenue de Flandre 75019 Paris,75019,Paris,75,appartement,1978-1982,,49,E,E,268
+2675E1525464U,2026-06-07,F97QX2GYXN47,19 Rue de la Forge Royale 75011 Paris,75011,Paris,75,appartement,avant 1948,,119.6,E,C,300
+2675E1525557J,2026-06-07,S4V2EPC3EQTV,10 Rue Emile Duclaux 75015 Paris,75015,Paris,75,appartement,avant 1948,,87,D,D,206
+2675E1523364A,2026-06-07,,20 Rue de la Harpe 75005 Paris,75005,Paris,75,appartement,avant 1948,,56.9,D,B,217
+2675E1524452W,2026-06-07,,43 Rue Crozatier 75012 Paris,75012,Paris,75,appartement,avant 1948,,36.2,G,C,439
+2675E1523276Q,2026-06-07,,18 Rue de la Forge Royale 75011 Paris,75011,Paris,75,appartement,avant 1948,1945,12.8,C,A,210
+2675E1524091Z,2026-06-07,,8 Rue Claude Tillier 75012 Paris,75012,Paris,75,appartement,avant 1948,,22.5,D,B,266
+2675E1525225P,2026-06-07,,14 Rue des Plâtrières 75020 Paris,75020,Paris,75,appartement,avant 1948,,41.4,G,G,455
+2675E1523787H,2026-06-07,,107 Rue Leblanc 75015 Paris,75015,Paris,75,appartement,1948-1974,,31.3,D,D,198
+2675E1523329R,2026-06-07,,22 Rue de la Harpe 75005 Paris,75005,Paris,75,appartement,avant 1948,,53.4,E,E,273
+2675E1525668Q,2026-06-07,,25 Rue Clavel 75019 Paris,75019,Paris,75,appartement,avant 1948,,36.6,C,A,164
+2675E1523341D,2026-06-07,,22 Rue de la Harpe 75005 Paris,75005,Paris,75,appartement,avant 1948,,63.1,G,C,626
+2675E1525523B,2026-06-07,,79 Rue de la Roquette 75011 Paris,75011,Paris,75,appartement,avant 1948,,27.2,C,B,199
+2675E1525334U,2026-06-07,,1 Impasse de la Planchette 75003 Paris,75003,Paris,75,appartement,avant 1948,,54.8,D,B,239
+2675E1523968G,2026-06-07,,56 Rue de la Pompe 75016 Paris,75016,Paris,75,appartement,1948-1974,,16,G,D,1147
+2675E1523389Z,2026-06-07,,7 Square Desaix 75015 Paris,75015,Paris,75,appartement,avant 1948,1930,68.1,C,C,148
+2675E1525532K,2026-06-07,,105 Rue de la Convention 75015 Paris,75015,Paris,75,appartement,1948-1974,,60,D,C,181
+2675E1524219X,2026-06-07,HQXDY1XD288K,37 Avenue Duquesne 75007 Paris,75007,Paris,75,appartement,avant 1948,,107.8,F,C,367
+2675E1524143Z,2026-06-07,,49 Rue Claude Terrasse 75016 Paris,75016,Paris,75,appartement,avant 1948,,56.7,F,F,389
+2675E1525139H,2026-06-07,HRG44BH2VQJG,30 Rue Miollis 75015 Paris,75015,Paris,75,appartement,1948-1974,,111.1,D,C,184
+2675E1524618G,2026-06-07,,70 Rue Monge 75005 Paris,75005,Paris,75,appartement,avant 1948,,11.3,G,C,625
+2675E1523226S,2026-06-07,,27 Boulevard de la Villette 75010 Paris,75010,Paris,75,appartement,avant 1948,,17.2,F,C,480
+2675E1524103L,2026-06-07,,10 Rue de Budapest 75009 Paris,75009,Paris,75,appartement,avant 1948,,16.9,E,E,314
