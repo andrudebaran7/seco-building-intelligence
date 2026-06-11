@@ -1,0 +1,232 @@
+                                                             ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                                  FICHE
+                                                                                                                                   D.11
+                                                                                                                                     1/4
+
+
+
+                                          CHUTES DE PIERRES
+                      Photo © DR - AQC
+                                          MINCES ATTACHÉES
+
+1. LE CONSTAT
+Bien que cette pathologie soit en nette régression,             Le second, très complexe et qui sort du cadre de cette
+deux principaux phénomènes sont à l’origine de dom-             présentation, la décohésion granulaire, tient à la nature
+mages parfois graves en termes de sécurité et de coûts.         pétrographique des pierres.
+
+Le premier, la mise en compression des plaques, est lié         D’autres causes, souvent liées à des négligences lors
+aux techniques de mise en œuvre et, en particulier, à la        de la mise en œuvre, peuvent être observées. Les dé-
+qualité de la liaison des éléments.                             sordres consistent en éclats, dégradations des joints,
+                                                                cassures des pierres au niveau des attaches pouvant
+                                                                aller jusqu’à la chute des éléments.
+
+
+
+
+2. LE DIAGNOSTIC                          La technique de parements à joints            pattes, un mauvais perçage ou
+                                          ouverts, plus sûre, évite le report           un défaut de la pierre.
+Cause principale                          des charges entre pierres et per-         Δ   Défauts du support :
+La pose de revêtements muraux en          met la mise en place d’un isolant.            Ω  mauvaise tenue des chevilles
+pierre peut se faire avec des joints      Certaines pattes sont réglables                  ou attaches, situées trop près
+vides ou calfeutrés (au mortier ou        permettant ainsi un meilleur ajus-               d’armatures ou sur des joints
+au mastic).                               tement. La mise en compression                   de façade ;
+                                          peut être observée dans deux cas :            Ω  défauts ou absence de fixations.
+Dans le cas de parements à joints         Δ les pattes sont trop souples et         Δ   Plaques fixées de part et d’autre
+calfeutrés, la mise en compression          fléchissent sous le poids des               d’un joint de structure (soumises
+des plaques peut être due :                 plaques ;                                   à des efforts de traction lors des
+Δ  à l’étroitesse des joints ou à la      Δ lors de la pose, les pierres sont           mouvements et des déforma-
+   dilatation de la pierre (schéma 1) ;     calées et les cales, souvent                tions du bâtiment).
+Δ  à l’absence de jeu (butée) avec          dures, ne sont pas retirées après
+                                                                                                  COEFFICIENT DE DILATATION
+   des élément de façade type               la pose.                                                LINÉAIRE DES ROCHES
+   couvertine ;
+Δ
+                                                                                                  μm/m/∞C -5     0   5   10   15
+   au non-respect des joints de dila-     Autres causes
+                                          Δ Désordres aux points singuliers
+                                                                                                        Grès
+   tation (brisure de plaque) ;                                                                     Calcaires
+
+Δ  aux défauts de résistance des            souvent mal traités.
+                                                                                                   Travertins
+                                                                                                   Dolomies
+   fixations. La pierre n’a pas la ré-    Δ Réalisation des points singuliers                       Ardoises
+   sistance suffisante aux points de          nécessitant collage et liaisons                        Schistes
+                                                                                                   Quartzites
+   fixation ; elle supporte le poids          mécaniques (attaches en culotte).                       Gneiss
+
+   de la pierre située au-dessus et       Δ   Défauts dans la pierre aux points
+                                                                                                Serpentinites
+                                                                                           Marbres calcaires
+                                                                                        Marbres dolomitiques
+   les effets du vent sur celle-ci ;          d’attache. Il s’agit de fissures ou
+Δ  à des agrafes mal posées ou ab-            d’éclats au voisinage des trous                        Granites
+                                                                                                      Basaltes
+   sentes malgré une bonne résis-             forés dans la pierre dus à une                 Tufs volcaniques
+
+   tance aux attaches.                        mauvaise       implantation     des       Schéma 1
+
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.11            CHUTES DE PIERRES MINCES ATTACHÉES
+  2/4
+
+
+
+        Ce type de pose est proscrit dans          3. LES BONNES                                 qui se bitent en feuillets selon les
+        le DTU de décembre 2014.                   PRATIQUES                                     plans de clivage ne sont pas visés
+    Δ   Chocs en pieds de murs exposés.                                                          par le DTU ;
+                                                   Le NF DTU 55.2 fixe les conditions
+    Autres désordres                               de la mise en œuvre. La qualité de            les attaches (schémas 2 et 3)
+    Δ Apparition de taches grasses par             la liaison entre les éléments et la           Caractéristiques mécaniques et
+        migration du mastic de calfeutre-          nature pétrographique de la pierre            anticorrosion. Positionnement des
+        ment au niveau des ergos. C’est            conditionne la pérennité du sys-              trous de fixation des attaches sur
+        un désordre esthétique.                    tème. Le contrôle de conformité               les pierres. Respect de l’Eurocode 1
+    Δ   Taches d’oxydation.                        doit porter sur :                             et NF EN 1991-1-4 pour la résistance
+    Δ   Coulures sur les pierres en haut                                                         au vent ;
+        du revêtement.                             les pierres
+                                                   Masse et dimension des pierres,               le support
+                                                   porosité et résistance au gel, cœffi-         Δ Cohésion (résistance caracté-
+                                                   cient de dilatation thermique, cœffi-           ristique> 15 MPA), compatibilité
+                                                   cient d’absorption du rayonnement               avec les attaches au point de vue
+                                                   et gonflement à la reprise d’eau.               de la corrosion.
+                                                   Les marbres métamorphiques
+                                                   doivent justifier de leur tenue à la
+                                                   décohésion granulaire. Les schistes
+
+
+                                                                     AGRAFE SCELLÉE                   ATTACHE MÉTALLIQUE RÉGLABLE
+                                                                                                          CHEVILLÉE AU SUPPORT
+
+
+
+                                                    Polochon
+
+
+
+
+        À CONSULTER
+        Δ Eurocode  1 et NF EN 1991-1-4/NA
+          pour le calcul des efforts au vent
+                                                    > 25 mm
+                                                    > 5 mm
+
+        Δ Eurocode  2 : Calcul des structures
+          béton – Partie 4 : Conception et
+            calcul des éléments de fixation                        1/2 1/2       > 50 mm
+            pour béton avec son annexe na-
+            tionale (NF EN 1992-1-4/NA)
+        Δ   NF B10-601 : Produits de carrière
+            - Pierres naturelles - Prescriptions
+                                                               Schéma 2                              Schéma 3
+
+            générales d’emploi des pierres
+            naturelles
+        Δ   NF DTU 55.2 : Revêtements mu-
+            raux attachés en pierre mince
+        Δ   NF EN 1469 : Produit en pierre
+            naturelle - Revêtement mural               L’ESSENTIEL
+        Δ
+            - Exigences
+            FD CEN/TR 17024: Guide d’emploi
+                                                       Δ Bien se renseigner sur la nature pétrographique de la pierre
+                                                               utilisée et, pour certaines (marbres, granits…), sur la susceptibi-
+            des pierres naturelles
+        Δ   CTMNC – Règles pour la concep-                     lité à la décohésion granulaire.
+            tion et la mise en œuvre des
+            pierres attachées en zone
+                                                       Δ       Respecter les Règles de l’art et porter un soin particulier aux
+                                                               points singuliers (arêtes, encadrements…).
+
+        Δ
+            sismique
+            Le NF DTU 55.2 de décembre                 Δ       Analyser la qualité et la compatibilité du support.
+            2014 par Damien Lapeyronnie                Δ       Préférer la pose à joints libres.
+
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                             ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                    FICHE
+                                                             CHUTES DE PIERRES MINCES ATTACHÉES                      D.11
+                                                                                                                          3/4
+
+
+4. L’ŒIL DE L’EXPERT
+
+
+
+
+Photo © DR - AQC                          Photo © DR - AQC                          Photo © DR - AQC
+Déformation du plan de pose des           Mise en compression des pierres           Déformation du plan de pose des
+pierres de parement attachées du          de parement attachées du fait d’un        pierres de parement attachées du
+fait de la mise en compression par        jeu latéral insuffisant.                  fait de la mise en compression et
+le poids des pierres.                                                               du fait de l’insuffisance de joints
+                                                                                    latéraux.
+
+
+
+
+Photos : © CTMNP                          Photos : © CTMNP
+Fissuration des pierres d’habillage       Délitement de pierres schisteuses du fait de la nature pétrographique de
+du fait d’une mise en charge diffé-       la pierre.
+rentielle des pierres de parement
+(avec colmatage de la fissure).
+
+
+
+
+Photo Photo © DR - AQC                   Photo © DR - AQC                           Photo © DR - AQC
+Taches sur pierres du fait de protec-    1. Casse de pierre en tableau fixée par    Casse de la pierre en pied de fa-
+tion insuffisante en tête de façade.     polochon du fait de chocs ou vibrations.   çade du fait d’un choc et insuffi-
+                                         2 Casse de la pierre en façade du fait     sance d’épaulement par polochon
+                                         d’un choc (avec colmatage).                à l’arrière de la pierre.
+
+
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.11          CHUTES DE PIERRES MINCES ATTACHÉES
+  4/4
+
+
+
+
+   Photos : © CTMNP                         Photo © DR - AQC                         Photo © DR - AQC
+   Casse des pierres fixées par polo-       Casse d’une pierre en tableau du         Casse et descellement des pierres
+   chons lors de la pose du coffret de      fait de l’ouverture d’une fissure        en tableau posées sur polochon au
+   compteur et platine métallique en        pré-existante.                           droit du rail de volet roulant.
+   tableau de façade (avec colmatage
+   des fissures).
+
+
+
+
+   Photo © DR - AQC                         Photo © DR - AQC                         Photos : © CTMNP
+   Casse des pierres de façade fixées       Casse et descellement des pierres        Casse d’une partie de pierre d’ha-
+   par polochon lors de la pose de          en tableau posées sur polochon au        billage d’un trumeau de façade par
+   l’enseigne.                              droit du rail de volet roulant.          un choc.
+
+
+
+
+    Photo © DR - AQC
+    Fissuration, casse et chute d’une
+    partie de pierre d’habillage en pied
+    de trumeau de façade par choc et
+    insuffisance de polochon de fixa-
+    tion à l’arrière de la pierre.
+
+
+
+   Pour en savoir plus :
+                                                                                Retrouvez l’ensemble des
+                                                                                Fiches pathologie bâtiment sur :
+                                                                                www.qualiteconstruction.com
+                                                                                et sur l’AppliQC
+    www.groupe-sma.fr
+    www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,252 @@
+                                                                                TOITURES ET CHARPENTES                       FICHE
+                                                                                                                             C.01
+                                                                                                                                 1/4
+                                         DÉFORMATIONS DES
+                                         CHARPENTES EN BOIS
+                     Photo © DR - AQC
+                                         ASSEMBLÉES SUR CHANTIER
+
+1. LE CONSTAT
+Les déformations des ouvrages en bois se mani-          Par ailleurs, l’emploi massif des fermettes en construction indivi-
+festent davantage par leur nuisance esthétique          duelle rend ces désordres plus rares.
+(creux de toiture, flèche d’un plafond) que par une
+réelle atteinte à la solidité des ouvrages.
+
+
+
+
+2. LE DIAGNOSTIC                        Encore ne faut-il pas oublier :           Beaucoup plus rare, un défaut
+                                        Δ que l’humidité anormale d’un            de préservation du bois peut en-
+Les causes peuvent être différentes         bois lors de sa pose est un           traîner sa dégradation progressive
+selon les deux grandes catégories           facteur aggravant quant aux           et, par voie de conséquence, des
+d’ouvrages de charpente.                    déformations futures et que           déformations.
+                                            tout élément en bois est sujet
+Les éléments fléchis                        au fluage sous charge de longue
+                                                                                               POUTRE FLÉCHIE
+Pannes, chevrons, solives de plan-          durée ;
+cher, …                                 Δ   qu’une panne ne travaille pas de
+                                                                                                CP = Charges Permanentes
+
+Leur dimensionnement découle du             la même façon, qu’elle soit posée
+respect des déformations admis-             verticalement (flexion simple)
+sibles dictées par la réglementation        ou selon la pente de la toiture                 1 Déformation sous CP
+(Eurocode 5).                               (flexion déviée), alors même que
+Δ  1/150 pour les parties d’ouvrage         rien n’est prévu pour reprendre                     CT = Charges Temporaires
+   en console ne supportant pas de          sa flexion transversale.
+   circulation régulière (auvent).
+Δ  1/200 pour les pièces suppor-        Les systèmes triangulés
+                                                                                            2 Déformation sous CT
+   tant directement des éléments        (fermes de combles perdus ou
+   de couverture (chevrons, liteaux).   aménageables)
+Δ  1/300 pour les pannes et les         Il s’agit des systèmes dont les
+   pièces supportant des éléments       barres travaillent principalement
+   verriers.                            selon des efforts axiaux, mais dans              Déformation globale 1 + 2
+Δ  1/400 pour les ouvrages fléchis,     la conception desquels il faut tenir
+   autres que les consoles, suppor-     compte des glissements d’assem-
+                                                                                        CRITÈRE DE DIMENSIONNEMENT
+   tant une circulation régulière ou    blage nécessaires à leur mise en
+                                                                                            Déformation admissible
+   un remplissage.                      charge.
+Δ  1/500 pour les pièces supports       Leur dimensionnement et l’ap-
+   d’autres     éléments     porteurs   proche de leur déformation doivent
+   (poutres de reprise,…) et d’élé-     prendre en compte les glissements         Déformation admissible > Déformation globale
+   ments fragiles déterminés par les    d’assemblage qui accompagnent la
+   DTU ou documents particuliers        mise en charge des assembleurs
+   du marché.                           (boulons, pointes, …).
+
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              TOITURES ET CHARPENTES
+C.01               DÉFORMATIONS DES CHARPENTES
+2/4                EN BOIS ASSEMBLÉES SUR CHANTIER
+
+                                                                 SYSTÈME TRIANGULÉ
+
+
+
+                                                                             Ferme à entrait                         Ferme sur dalle
+                                                                             porteur
+
+
+
+
+                         Ferme de combles perdus
+
+
+
+
+                                                                 SYSTÈME TRIANGULÉ
+
+                     T
+                   +C                       CP
+              CP                                                Sous               Selon la
+                                                                l’action      triangulation
+                                                                du vent
+
+
+
+
+                                     Vent
+
+                                                                                                   Barre           Barre
+                                                                                               comprimée         tendue
+                 Barre                        Barre
+             comprimée                      tendue
+
+
+                                 Console                                                                Forme tronquée
+
+
+
+      3. LES BONNES                                       Ainsi, s’il n’est pas possible de        générer des contraintes plus im-
+      PRATIQUES                                           fixer avec exactitude la classe          portantes dans le bois (flexion
+                                                          d’emploi ou les conditions d’uti-        déviée).
+      Δ Veiller au bon dimensionnement                    lisation prévues d’un élément        Δ   Bien concevoir et exécuter les
+          des ouvrages de charpente (et à                 d’ouvrage, ou si les différentes         dispositifs d’assemblage dont
+          la compatibilité de normes avec le              parties d’un même élément d’ou-          la précision est indispensable
+          référentiel de dimensionnement                  vrage sont jugées appartenant            à la stabilité des fermes. Outre
+          choisi, Eurocode 5).                            à différentes classes d’emploi, il       le choix du dispositif (nature :
+      Δ   Choisir le bon matériau bois.                   convient que les décisions soient        boulons, crampons, clous...), leur
+          Ce choix est primordial dans                    prises sur la base de la plus sé-        protection (galvanisation, pein-
+          les systèmes fléchis. Le bois de                vère des classes d’emploi pos-           ture…), leur dimensionnement
+          structure doit répondre à des                   sibles. Une attention au risque          et leur positionnement par rap-
+          caractéristiques (nœud, fil du                  Termites doit être apportée dans         port au bord de la pièce doivent
+          bois…) bien particulières qui per-              certaines régions où l’utilisation       particulièrement être étudiés en
+          mettent d’estimer sa résistance                 de bois résistant aux termites,          fonction des efforts à reprendre.
+          aux sollicitations auxquelles il                ou traités en conséquence,               Les déformations des fermes
+          sera exposé.                                    constitue une obligation. En cas         (totalement triangulées ou non)
+      Δ   Appliquer le traitement de                      de doute il convient de consulter        sont en bonne partie fonction
+          préservation adéquat. En fonc-                  les experts locaux ou nationaux          des glissements d’assemblage. Il
+          tion de l’usage auquel il est des-              pour avis sur le risque d’attaque        faut donc limiter les « jeux » en
+          tiné, il faut déterminer sa classe              par les insectes.                        cours de pose et, notamment,
+          d’exposition (1 à 5) et en tirer            Δ   Mesurer les conséquences du              adapter au plus juste les trous
+          les conséquences en termes de                   mode de pose. À portée égale,            devant recevoir les boulons.
+          choix d’essence et de traitement.               certains modes de pose peuvent
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                               TOITURES ET CHARPENTES                   FICHE
+                                                                DÉFORMATIONS DES CHARPENTES                             C.01
+   À CONSULTER                                                EN BOIS ASSEMBLÉES SUR CHANTIER                                3/4
+   Δ Règlement  européen n°305/2011 du
+     09/03/2011 : exigences essentielles des
+       produits
+   Δ Arrêté du 27 juin 2006 relatif à l’applica-     Δ Porter attention à l’humi-           tolérance d’humidité sur les
+     tion des articles R. 112-2 à R. 112-4 du          dité du bois. Si on veut se          éléments fabriqués et cas
+       Code de la construction et de l’habitation      prémunir des disgracieuses           particulier des bois massifs à
+       (termites)                                      « gerces de dessiccation » et        forte humidité).
+   Δ   EUROCODE 5 : conception des structures
+       en bois.
+                                                       de déformations plus impor-      Δ   Entretenir régulièrement
+   Δ   NF DTU 31-1: Charpentes en bois                 tantes que celles prévues, il        et utiliser dans des condi-
+   Δ   Norme NF EN-1990 : principes généraux
+       de justification
+                                                       est primordial de mettre en          tions normales les ou-
+                                                       œuvre des bois dont l’humi-          vrages, pour une bonne
+   Δ   Norme NF EN 1998 : justification des ou-
+       vrages sous actions sismiques
+                                                       dité sera la plus proche pos-        durabilité.
+   Δ   DTU 31-2 : Construction de maisons et           sible de celle qu’ils auront à   Δ   Assurer un bon ancrage
+       bâtiments à ossature en bois. (janvier          l’équilibre (voir tableau du         de la charpente au gros
+       2011 )                                          DTU 31.1 qui précise l’humi-         oeuvre.
+   Δ   NF EN 335-1, 2 et 3 : Durabilité du bois
+       et des matériaux à base de bois - Classes
+                                                       dité des bois massifs) (Ex :
+       d’emploi : définitions, application au bois
+       massif et aux matériaux à base de bois
+   Δ   NF EN 351-1 et 2 : Durabilité du bois et
+       des produits à base de bois. (septembre
+       2007)
+                                                        L’ESSENTIEL
+   Δ   NF B52-001 : Règles d’utilisation du bois        Δ Bien dimensionner les ouvrages.
+   Δ
+       dans la construction. (aout 2011)                Δ Traiter les bois.
+       NF P21-400 : Bois de structure et produits
+       à base de bois - Classes de résistance et        Δ Porter attention à la conception et aux assemblages de
+       contraintes admissibles associées (avril           l’ouvrage.
+       2012 )                                           Δ Entretenir régulièrement.
+
+
+4. L’ŒIL DE L’EXPERT
+                                                               Affaissement d’une toiture de salle des fêtes avec dé-
+                                                               formation et rupture par déversement d’éléments mal
+                                                               contreventés de la charpente après réfection de la
+                                                               charpente couverture.
+
+
+
+
+Photo: © AQC - M.Daniault – 2007
+
+
+                                                               Flexion de l’arbalétrier d’une ferme traditionnelle. L’ar-
+                                                               balétrier reprend les pannes supports de la couver-
+                                                               ture. Du fait du sous-dimensionnement au regard des
+                                                               charges reprises, l’arbalétrier fléchit et provoque une
+                                                               rotation de l’entrait au niveau de l’appui du pied de
+                                                               ferme qui se désolidarise de la maçonnerie.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             TOITURES ET CHARPENTES
+C.01              DÉFORMATIONS DES CHARPENTES
+4/4               EN BOIS ASSEMBLÉES SUR CHANTIER
+
+                                                                 Exécution sans étude préalable de conception. Pose ne
+                                                                 respectant pas les Règles de l’art. La croupe est consti-
+                                                                 tuée de deux arêtiers trop courts et non assemblés au
+                                                                 poinçon.
+
+
+
+
+      Photo: © AQC - M. Lesieur – 2012
+
+
+                                                                 Défaut d’assemblage d’une ferme sur blochet. La ferme
+                                                                 sur blochet comporte une jambe de force assemblée
+                                                                 moisée par l’entrait retroussé. Cette jambe de force as-
+                                                                 sure la stabilité du blochet qui sert d’appui à la ferme
+                                                                 qui n’exerce ainsi aucune poussée sur le mur d’appui.
+                                                                 Dans ce cas, la jambe de force est assemblée en ex-
+                                                                 trémité à l’entrait retroussé par un seul boulon, par
+                                                                 ailleurs situé en bord de l’entrait. Il existe un risque
+                                                                 fort de déformation, voire de rupture de l’assemblage
+                                                                 aboutissant à la déformation du blochet et par réper-
+      Photo: © GIE SOCABAT                                       cussion à des efforts de poussée horizontaux sur le
+                                                                 mur d’appui.
+
+                                                                 Flexion de pannes de toiture. Les pannes fixées sur les
+                                                                 fermes reprennent le chevronnage support de cou-
+                                                                 verture. Le croisement de panne en coupe à sifflet ne
+                                                                 repose pas sur les fermes et les pannes sont en porte-à-
+                                                                 faux entre les deux fermes. La charge de la couverture
+                                                                 qui s’exerce sur l’extrémité des pannes provoque la
+                                                                 flexion de celles-ci et par répercussion une flexion de
+                                                                 la couverture.
+
+
+
+      Photo: © GIE SOCABAT
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

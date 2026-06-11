@@ -1,0 +1,195 @@
+                                                                                                                           ÉQUIPEMENTS                          FICHE
+                                                                                                                                                                E.04
+                                                                                                                                                                  1/3
+
+
+
+                                         CHAUFFAGE PAR LE
+                      Photo © DR - AQC   SOL À EAU CHAUDE
+1. LE CONSTAT
+Afin d’éviter des désordres sur les revêtements durs liés                par l’ensemble des corps d’état concernés, afin d’éviter
+aux effets thermiques et à la juxtaposition de différents                des fuites sur le réseau ou diverses fissurations liées
+ouvrages, la mise en œuvre d’un chauffage par le sol à                   aux effets thermiques. Elle doit aussi faire l’objet d’une
+eau chaude doit être prise en compte dès la conception                   exécution soignée et coordonnée.
+
+
+
+
+2. LE DIAGNOSTIC                                                          EXEMPLE DE COUPE DE PLANCHER CHAUFFANT
+                                                   e                                                                                                       e
+                                                   d                                                                                                       d
+Plusieurs entreprises se succèdent
+lorsque la réalisation d’un plancher
+                                                   c                                                        g                                              c
+                                           f
+chauffant est retenue : le maçon,                b1                                                                                                        b2
+le chauffagiste, le carreleur, etc. Le
+maçon réalise le support, plancher                 a                                                                                                       a
+ou dallage.
+                                                                               Plancher ou dallage
+Le chauffagiste installe les tubes de
+chauffage et parfois l’isolant sur un                    Élément                    Hauteur                                                Réservation
+ravoirage permettant d’enrober les        a      Ravoirage                          a = plus grand diamètre incorporé ou mise à niveau      ......... cm
+gaines qui circulent sur le plancher      b      Sous-couche isolante               b1 = épaisseur de la sous-couche + tube
+ou le dallage. Le carreleur peut cou-                                               b2 = épaisseur de la sous-couche, y compris plot        ......... cm
+ler la couche d’enrobage des tubes        c      Couche d’enrobage                  Au dessus du point le plus haut tube b1 ou plot b2
+de chauffage. Parfois, ce travail est                                               c ≥ 3,5 cm sur isolant SCI cm
+                                                                                    c ≥ 4 cm sur isolant SC2a
+confié à une entreprise spéciali-
+                                          d      Mortier de pose                    d ≥ 4cm (8 cm maximum) en pose adhérente
+sée dans la réalisation de chapes,                                                  d ou en pose désolidarisée
+souvent « fluidifiées ». Le carreleur            Mortier-colle                      d = 0,5 cm (forfaitaire en pose collée)                 ......... cm
+intervient en dernier lieu et réalise     e      Carreaux céramiques                e = épaisseur du revêtement                             ......... cm
+                                                 ou analogues
+le revêtement circulable.                        Hauteur totale
+                                          f                                         f=a+b+c+d+e                                             ......... cm
+Des désordres peuvent survenir                   de la réservation
+soit en cours de chantier, soit après          Attention : l’épaisseur totale    g est limitée à 7 cm dans le cas de plancher réversible
+la réception.
+                                               Exemple de pose scéllée sur isolant SCIa de 5 cm d’épaisseur :
+                                               a = 4 cm + b1 = 5 + 2 cm + c = 3,5 cm + d = 5 cm + e = 1 cm,
+                                               la réservation totale est de 20,5 cm.
+
+Les situations suivantes                   pas le support au bon niveau.                                        ront pas avoir l’épaisseur ad’hoc ;
+peuvent se produire :                      Des rattrapages vont s’imposer ;                               Δ irrégularité du support : en
+Δ réservation insuffisante ou Δ            pendage léger du support. Si                                         cas de planéité irrégulière ou de
+  excessive. Par manque de coor-           le plancher ou le dallage a été                                      présence de matériaux divers
+  dination ou diffusion insuffisante       « discrètement » réglé en pente,                                     (plots de colle, ciment, etc.) les
+  de l’information, le maçon ne livre      la couche d’enrobage voire la                                        panneaux d’isolant ne seront pas
+                                           couche de scellement ne pour-
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              ÉQUIPEMENTS
+E.04               CHAUFFAGE PAR LE SOL
+2/3                À EAU CHAUDE
+
+        stables et risquent de pianoter            Après la réception, les litiges reste-       fagiste (pose de l’isolant) et
+        avec apparition certaine de fis-           ront plus classiques et résulteront          de l’isolant / chauffage pour le
+        sures ;                                    de ce que l’on connaît de la patho-          carreleur.
+      Δ si la couche d’enrobage est trop           logie des carrelages :                   Δ   Respecter la mise en chauffe
+        réduite, des fissures vont s’ou-           Δ  fissuration des mortiers, et du           progressive avant la réalisation
+        vrir le long des tubes de chauf-              revêtement dur ;                          du carrelage.
+        fage ;                                     Δ  mauvaise adhérence des mor-           Δ   Respecter les délais de séchage
+      Δ les tubes de chauffage doivent                tiers-colles ;                            des      couches        d’enrobage
+        être bien fixés. À défaut, ils vont «      Δ  etc.                                      et contrôler leur humidité
+        flotter » et conduire à la fissura-        Certains phénomènes d’em-                    résiduelle.
+        tion de la couche d’enrobage ;             bouage, de corrosion (en cas de          Δ   Respecter        les    épaisseurs
+      Δ les panneaux d’isolant doivent             tubes métalliques), voire des per-           minimales        d’enrobage     des
+        être bien jointifs et pontés avec          cements accidentels, peuvent aussi           canalisations.
+        des scotchs. S’il existe des joints        être constatés, comme dans des           Δ   Respecter       pour     l’ensemble
+        ouverts entre les panneaux il y            réseaux de chauffage traditionnel            couche d’enrobage et revête-
+        a risque de fissure au droit de            (cf. fiches E02 et E03).                     ment les joints de fractionne-
+        ces zones par écrasement du                                                             ment et/ou périphériques.
+        mortier.                                                                            Δ   La pose scellée directement
+      Des litiges peuvent survenir en              3. LES BONNES                                sur les canalisations n’est pas
+      cours de chantier et notamment le            PRATIQUES                                    autorisée.
+      gel des tubes de chauffage.                                                           Δ   Le béton d’enrobage des cana-
+                                                   Δ Utiliser des isolants conformes            lisations peut être remplacé par
+                                                     au DTU 65.14 P1 et au DTU 52.10.           une chape fluide à base de sul-
+                                                   Δ Avoir une température du fluide            fate de calcium ou de ciment.
+                                                       inférieure à 50 °C et de surface     Δ   Dans ces cas, il faudra se confor-
+                                                       inférieure à 28 °C.                      mer aux Avis Techniques des
+          À CONSULTER                              Δ   Prévoir les dispositifs néces-           procédés pour les produits asso-
+                                                       saires à la maintenance.                 ciés à utiliser (enduits de lissage,
+          Δ   Arrêté du 23 juin 1978 relatif aux
+              installations fixes destinées au     Δ   Réaliser une réception du sup-           mortier-colle).
+              chauffage et à l’alimentation en         port : du dallage pour le chauf-
+              eau chaude sanitaire des bâti-
+              ments d’habitation, de bureaux
+              ou recevant du public
+          Δ   NF DTU 26.2 et A1 : Chapes
+              et dalles à base de liants
+              hydrauliques
+          Δ   NF DTU 52.1 : Revêtements de sols
+              scellés
+          Δ   NF DTU 52.10 - Mise en œuvre             L’ESSENTIEL
+              de sous-couches isolantes sous
+              chape ou dalle flottantes et sous
+                                                       Δ Intégrer, dès la conception, la réalisation d’un plancher
+                                                         chauffant.
+              carrelages scellés
+          Δ   NF DTU 52.2 et A2: Pose collée           Δ Utiliser des isolants conformes.
+              des revêtements céramiques et            Δ Respecter les épaisseurs minimales d’enrobage.
+          Δ
+              assimilés - Pierres naturelles
+              NF DTU 65.14 : Exécution de plan-
+                                                       Δ Respecter les contraintes thermiques inhérentes au plancher
+                                                         chauffant (mise en chauffe, température de service).
+              chers chauffants à eau chaude
+          Δ   CPT 3666_V2 : Revêtements de             Δ Prévoir les joints de fractionnement et périphériques néces-
+              sols intérieurs en carreaux céra-          saires et vérifier leur épaisseur.
+              miques de grand format et de
+              format oblong collés au moyen
+                                                       Δ Informer le maître d’ouvrage des conseils d’utilisation (ne pas
+                                                          percer le plancher…) et de la nécessité d’avoir un contrat de
+              de mortiers-colles dans les locaux
+              P3 au plus en travaux neufs                 maintenance pour sa production de chaleur (température
+          Δ   CPT 3578-V3 : Chapes fluides à
+              base de sulfate de calcium
+                                                          < 28°C).
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                                              CHAUFFAGE PAR LE SOL                     E.04
+                                                                                     À EAU CHAUDE                        3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Fissures de carrelage : le carrelage subit une fissuration
+                                                       aléatoire en forme d’étoile, souvent désaffleurante, donc
+                                                       avec un risque quant à la sécurité des personnes. Cette fis-
+                                                       suration peut apparaître plusieurs années après la mise en
+                                                       œuvre et est évolutive. La fissuration atteint la surface ou
+                                                       l’émail du carreau après un tassement de la chape de pose
+                                                       du carrelage, qui se traduit par un effet de « vagues » visible
+                                                       en lumière rasante avant l’apparition de la fissure en surface.
+Photo © DR - AQC                                       Ce tassement est consécutif au retrait différentiel de la chape
+                                                       de pose du carrelage entre sa face inférieure « glissant » sur
+                                                       le polyane en cas de désolidarisation et sa face supérieure
+                                                       collée au carreau.
+
+
+
+                                                       Défaut de planéité de la dalle support du plancher
+                                                       chauffant :
+                                                       les panneaux d’isolant doivent être mis en œuvre sur un sup-
+                                                       port parfaitement plan pour assurer leur stabilité.
+                                                       En cas de mauvaise planéité ou de bosses, la souplesse ou
+                                                       le « pianotement » des panneaux sous l’effet de l’occupation
+                                                       des pièces peut conduire à une fissuration. Il en est de même
+                                                       pour les panneaux d’isolant qui doivent être bien jointifs pour
+Photo © DR - AQC                                       éviter que du mortier d’enrobage s’insère dans les joints avec
+                                                       un risque de fissuration. C’est de la responsabilité du chauf-
+                                                       fagiste qui pose l’isolant de s’assurer de la qualité du sup-
+                                                       port réalisé par le maçon. Ce défaut ne peut être constaté
+                                                       qu’en cas de dépose complète du complexe et donc en géné-
+                                                       ral après les opérations d’expertise ; dans le cas précis, le
+                                                       constat a été fait au moment des travaux de réparation par
+                                                       le carreleur.
+
+                                                       Défaut d’enrobage des canalisations de chauffage : la fis-
+                                                       suration du carrelage concerne la totalité du complexe enro-
+                                                       bage des canalisations / chape de pose du carrelage. Le DTU
+                                                       65.14 demande un enrobage minimum des canalisations de
+                                                       chauffage de 20 à 40 mm selon les types de plancher et d’iso-
+                                                       lant. En cas d’épaisseur insuffisante (ici 15 mm) et de pose
+                                                       non désolidarisée, la fissuration de la chape d’enrobage se
+                                                       prolonge dans la chape de pose.
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,173 @@
+                                                                                       STRUCTURES ET GROS ŒUVRE                                        FICHE
+                                                                                                                                                       B.08
+                                                                                                                                                         1/3
+
+                                                    TASSEMENTS, FISSURATION
+                                                    DE DALLAGES À USAGE
+                      Photo © DR - AQC              INDUSTRIEL
+
+1. LE CONSTAT
+Les dallages industriels en béton peuvent subir des af-
+faissements localisés ou généralisés par rapport à leur
+niveau d’origine. Par ailleurs, les dallages peuvent se
+fissurer et les joints se dégrader.
+
+
+
+
+2. LE DIAGNOSTIC
+Le simple constat visuel d’un dé-                   rentes provoquer des fissurations               Δ Une fissure, proche d’un angle,
+sordre apparent (allure des fis-                    identiques.                                          à 45° ou en étoile, témoigne
+sures) ne permet pas d’en déduire                   Δ  Une fissure d’un panneau de                       d’efforts mécaniques excessifs
+automatiquement l’origine. Des                         forme rectangulaire, parallèle                    non maîtrisés (contraintes de
+investigations   complémentaires,                      au petit côté et allant d’un                      poussée au bord ou en angle, un
+d’ordre géotechnique par exemple,                      grand côté à l’autre, traduit une                 retrait bloqué…).
+sont le plus souvent nécessaires.                      mauvaise efficacité des joints               Δ    Des fissures et des dégrada-
+Car un même phénomène peut                             (trop grandes distances entre                     tions en bordure d’un pan-
+résulter de la conjonction de plu-                     joints de retrait, à un retrait trop              neau, le long d’un joint entre
+sieurs causes et des causes diffé-                     important…).                                      panneaux,     peuvent   corres-
+                                                                                                         pondre :
+                            DIFFÉRENTS TYPES DE JOINTS D’UN DALLAGE INDUSTRIEL (NF DTU 13.3 PARTIE 1)
+
+     S=6x6m                                             Joint de dilatation                                                Charge roulante
+
+
+
+
+                                                                                     Joints de
+                                                                                     construction
+
+
+
+
+                                                                                                    Joints conseillés pour les joints de dillatation
+                                                                                                    et les joints de construction
+
+
+                                Joints de retrait       ho              ho/3
+
+
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             STRUCTURES ET GROS ŒUVRE
+B.08              TASSEMENTS, FISSURATION DE
+2/3               DALLAGES À USAGE INDUSTRIEL
+
+
+          √ à la conception d’un joint n’of-                                                     élevés en cas de sinistres.
+             frant pas une résistance suf-         3. LES BONNES                             Δ Ne pas considérer que le fait
+             fisante aux sollicitations aux-       PRATIQUES                                     d’avoir déjà réalisé un dallage
+             quelles il est soumis lors de la                                                    de ce type permet de se dis-
+             circulation d’engins ;                Δ Le dallage en béton à usage in-             penser d’une étude technique
+          √  à des sollicitations plus impor-        dustriel est à la fois :                    et d’une étude géotechnique
+             tantes que prévues ;                    √ un ouvrage à déformation im-              approfondies.
+          √  à un relèvement excessif du                  posée, qui ne peut donc que        Δ   Avant tout chiffrage d’un ouvrage
+             bord du panneau lors de son                  suivre les mouvements de sols          de dallage, être en possession :
+             séchage : lorsque la surface                 sous-jacents ;                         √  du document contractuel
+             du panneau sèche beaucoup                 √  un ouvrage en béton de                    prévu à l’annexe B du NF DTU
+             plus vite que sa sous-face, il               grandes dimensions, donc                  13-3 partie I, précisant les ac-
+             se produit un phénomène de                   le siège de phénomènes de                 tions auxquelles sera soumis
+             rétractation de la surface par               mise en œuvre, de retrait et              le dallage, ainsi que les carac-
+             rapport à la sous-face et un                 de dilatation particuliers à ces          téristiques des fissures et dé-
+             relèvement des bords et des                  ouvrages ;                                formations acceptables par le
+             angles ;                                  √  un ouvrage composite consti-              maître d’ouvrage ;
+          √  à un fluage de la forme au                   tué par un corps de dallage            √  d’une étude géotechnique
+             droit des joints sous l’action               en béton et une forme, d’où la            spécifique à la mise en œuvre
+             de passages fréquents d’en-                  nécessité d’étudier également             de ce dallage. L’annexe A du
+             gins roulant sur ce joint (phé-              cette forme (cf. fiche B.06) ;            NF DTU 13-3 partie I précise le
+             nomène dit de « pompage »),               √  un ouvrage soumis à des sol-              contenu de cette étude.
+             la forme ne soutenant plus                   licitations particulières qui ne   Δ   Un essai à la plaque est ici insuffi-
+             normalement le bord du                       sont pas forcément définies            sant, parce qu’il ne permet d’éva-
+             panneau.                                     dans les documents de réfé-            luer le tassement du sol que
+      Δ   Un affaissement ponctuel le                     rence et varient considérable-         sur quelques dizaines de centi-
+          long d’une longrine peut être                   ment d’un ouvrage à l’autre.           mètres de profondeur, alors que
+          dû à un mauvais compactage               Δ   Les dallages industriels doivent          la limite d’influence du dallage
+          d’un remblai, difficile à réaliser à         faire l’objet d’une attention par-        peut englober des couches de
+          cet endroit, ou à une venue d’eau            ticulière parce qu’ils ont généra-        terrain jusqu’à une profondeur
+          anormale le désorganisant.                   lement une surface importante             considérable (une fois et demie
+                                                       et correspondent à une activité           son emprise au sol).
+                                                       industrielle ou commerciale gé-
+                                                       nérant des chiffres d’affaires im-
+                                                       portants, et donc, des préjudices
+          À CONSULTER
+          Δ NF  DTU 13-3 partie I : Dallages -
+            Conception, calcul et exécution.
+          Δ NF  DTU 21 : Travaux de bâtiment
+            - Exécution des ouvrages en béton
+          Δ NF   P94-093 Sols : Reconnais-             L’ESSENTIEL
+            sance et essais - Détermination
+              des références de compactage
+                                                       Δ Réaliser impérativement une étude géotechnique spécifique à
+                                                         la mise en œuvre du dallage.
+              d’un matériau
+          Δ   NF P94-117-1 Sols : Reconnais-           Δ Adapter l’ouvrage aux contraintes ultérieures, notamment
+              sance et essais - Portance des             dans la conception des joints.
+
+          Δ
+              plates-formes                            Δ Étude géotechnique G2.
+              Communiqué de mise en obser-
+              vation n° 65 de la C2P relatif aux       Δ Données essentielles.
+              procédés de dallages industriels         Δ Dossier d’exécution.
+              ou assimilés, en béton de fibres         Δ Conception et protection des joints.
+              métalliques, exécutés sans joint
+              (NT)
+                                                       Δ Entretien et maintenance.
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                          STRUCTURES ET GROS ŒUVRE                   FICHE
+                                                                    TASSEMENTS, FISSURATION DE                       B.08
+                                                                    DALLAGES À USAGE INDUSTRIEL                           3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                              Vue générale d’un dallage à usage industriel ou assi-
+                                                              milé d’un magasin d’alimentation (surface de vente
+                                                              400 m2). L’on constate la fissuration pluridirectionnelle
+                                                              sur l’ensemble des panneaux.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                                              Vue de la rencontre de plusieurs fissures au centre
+                                                              d’un panneau du dallage. L’on constate des épaufrures
+                                                              provoquant la dégradation de la lèvre des fissures en-
+                                                              gendrant des arrachements de morceaux de béton.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                                              Vue d’une fissure perpendiculaire au droit d’un joint de
+                                                              fractionnement.
+                                                              La cause de la fissuration est consécutive au retrait
+                                                              normal du béton, augmenté par plusieurs facteurs très
+                                                              aggravants qui sont à rechercher dans le non-respect
+                                                              des dispositions constructives :
+                                                              Δ  absence de joint de désolidarisation périphérique ;
+                                                              Δ  insuffisance de sciage des joints de fractionnement ;
+                                                              Δ  ajouts d’eau importants sur le chantier à la demande
+                                                                 de l’utilisateur du béton prêt à l’emploi ;
+Photo: © GIE SOCABAT                                          Δ  mauvaise réalisation de la cure du béton, voire non-
+                                                                 réalisation de la cure.
+                                                              Les dommages sont apparus quelques jours après le
+                                                              bétonnage, et ne sont pas évolutifs.
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,168 @@
+                                                                                                                 ÉQUIPEMENTS                                       FICHE
+                                                                                                                                                                   E.10
+                                                                                                                                                                     1/3
+
+
+
+                                           POMPES À CHALEUR
+                      Photo © DR - AQC     AIR / EAU
+1. LE CONSTAT                                                                       POMPE À CHALEUR AÉRODYNAMIQUE
+                                                                                         Générateur d’énergie (pompe à chaleur)
+                                                               1    Échangeur à ailettes
+                                                               2    Ventilateur
+Les Pompes À Chaleur (PAC) air/eau sont des machines           3    Vapeur haute pression
+thermodynamiques mises en œuvre en construction                4    Circuit de chauffage
+                                                                    Liquide haute pression    Compresseur
+neuve ou en rénovation. Elles transfèrent la chaleur du        5                                               3      Eau
+milieu froid (air) vers un milieu chaud (réseau de chauf-                                   Fluide
+                                                                                  1
+                                                                 Circuit                                                                     Circuit
+fage) par l’intermédiaire d’un fluide frigorigène. L’insuf-   extérieur                                                                                      4
+                                                                                                                                          intérieur
+fisance de chauffage est la conséquence principale de
+différentes causes affectant ce type d’équipement (voir                         2               Détendeur            5                         Eau
+schéma), soit au niveau de la conception, soit au niveau
+de l’exécution.                                                                                          Condenseur
+
+
+
+
+2. LE DIAGNOSTIC
+Plusieurs facteurs peuvent entraî-        car la PAC va alors effectuer des                      POINT D’ÉQUILIBRE ENTRE UNE PAC ET LES
+                                                                                             ÉMETTEURS DE CHALEUR (HORS BASSE TEMPÉRATURE)
+ner une insuffisance de chauffage.        cycles trop courts, ce qui diminuera
+L’absence d’appoint ou son mau-           sa durée de vie. La présence d’un
+                                                                                               Température d’eau départ
+vais dimensionnement (et/ou para-         ballon tampon à deux piquages                        chauffage en °C
+métrage) peuvent accentuer ces            permet d’atténuer ce phénomène                        80            Loi d’eau des émetteurs à eau chaude
+problèmes en hiver.                       en limitant les courts-cycles.                                                               Température d’eau maximum
+                                                                                                60
+                                                                                                                                       en sortie de PAC = 50°C
+                                                                                                40
+Le sous-dimensionnement                   L’inadaptation du niveau de
+de la puissance calorifique               température de la PAC, dans                           20
+                                                                                                        -10     -5       0   5    10     15 20 25
+de la PAC                                 le cadre de la rénovation                                                                       Température extérieure
+                                                                                                                                                  de base en °C
+Le sous-dimensionnement sera              La majorité des PAC délivrent une
+accentué par un fonctionnement            température d’eau chaude d’un                      Il y a lieu de prévoir le rempla-
+continu de la PAC, ce qui augmen-         maximum de 50 °C (65 °C pour les                   cement (ou le complément) des
+tera le nombre de dégivrages et           PAC dites « haute température »).                  anciens émetteurs par des émet-
+diminuera alors le rendement de           Or, les émetteurs de chaleur                       teurs basse température, ou d’as-
+l’équipement, entraînant l’avarie du      anciens étaient calculés pour des                  surer une relève (électrique ou
+compresseur. Dans certains cas,           températures d’entrée de l’ordre                   chaudière).
+on peut avoir givrage voire prise en      de 80 °C environ. La loi d’eau des                 Selon le mode de fonctionnement,
+glace du compresseur.                     émetteurs (température d’entrée                    alternatif ou simultané, l’intégra-
+                                          de l’eau chaude en fonction de la                  tion d’un ballon de mélange à 4
+Le surdimensionnement de                  température extérieure) ne coïn-                   piquages sur le circuit hydraulique
+la puissance calorifique de               cide pas avec la température d’eau                 peut s’avérer nécessaire pour
+la PAC                                    délivrée par la PAC lors des tempé-                rendre compatibles les régimes
+Un surdimensionnement de la PAC           ratures extérieures basses, comme                  d’eau de la PAC et des émetteurs
+peut également être préjudiciable         illustré par la courbe ci-contre :                 de chaleur. Dans tous les cas, la
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          ÉQUIPEMENTS
+E.10           POMPES À CHALEUR AIR / EAU
+2/3
+
+
+      détermination de la température        Les performances calorifiques de         Δ L’arrêté du 24/12/2007 définit les
+      de bivalence est primordiale.          la PAC doivent répondre aux exi-             caractéristiques électriques du
+                                             gences de la norme NE EN 14 511.             réseau de distribution, soit 230 V
+      Microfuite au niveau de la             Dans le cadre d’une rénovation, le           ou 400 V +/- 10 % moyenné sur
+      PAC                                    bilan thermique permettra d’ajus-            10 minutes. Il y a donc lieu de res-
+      Les PAC sont des produits manu-        ter la puissance aux conditions              pecter les intensités de démar-
+      facturés, répondant à la directive     réelles du bâti qui a pu évoluer au          rage maximales (30 ampères en
+      européenne 97/23 (directive euro-      cours du temps.                              monophasé) et une protection
+      péenne des équipements sous                                                         séparée par un disjoncteur de
+      pression), qui sont généralement       Bien choisir et                              type D.
+      exempts de fuite de fluide frigori-    dimensionner la PAC                      Δ   Les unités extérieures doivent
+      gène. Des microfuites peuvent se       Δ Les besoins calorifiques d’une             respecter les contraintes acous-
+      révéler dans le temps (au niveau           habitation doivent être calculés         tiques de voisinage telles que
+      des crosses des échangeurs ou des          pour l’obtention d’une tempéra-          définies à l’article R1134-30 et
+      brasures des appareillages situés          ture ambiante maximale de + 19 °C        suivants du Code de la Santé
+      sur le circuit thermodynamique, au         (article R 131-20 du Code de la          publique (décret du 31/08/2006).
+      niveau des raccordements entre             Construction) par une tempéra-       Δ   La PAC air / eau doit respecter un
+      le groupe et les splits), dues aux         ture extérieure de base définie          COP 3,2 pour une température
+      contraintes thermiques. Cette perte        selon la norme EN 12831 variant          d’entrée d’air de 7° C à l’évapo-
+      de fluide frigorigène diminue les          selon la région d’implantation. La       rateur, et des températures d’en-
+      performances de la PAC et est rare-        température opérative, pour des          trée et de sortie d’eau de 30° C
+      ment détectable. La dégradation se         bâtiments anciens en pierre est          et 35° C au condenseur, selon
+      découvre quelques années après la          également à prendre en consi-            le référentiel de la norme d’essai
+      mise en service. Le contrôle d’étan-       dération. La puissance calculée          14511-2 (cf. arrêté du 03/05/2007).
+      chéité annuel (obligatoire pour les        permet la détermination de la
+      charges supérieures à 2 kg selon           puissance de la PAC, couplée         Entretenir la PAC
+      le code de l’Environnement, article        éventuellement à un appoint          L’entretien de la PAC est indispen-
+      R543-78 et suivants) permet de pré-        (électrique ou chaudière). La        sable (nettoyage de l’échangeur
+      venir ce type de pathologie.               norme NF EN 14511-2 définit les      externe, du filtre à eau, contrôle
+                                                 puissances des PAC pour une          périodique de l’antigel…), ainsi que
+                                                 température extérieure de base       le contrôle d’étanchéité obligatoire
+      3. LES BONNES                              de + 7 °C. Or, la détermination de   pour les circuits dont la quantité est
+      PRATIQUES                                  la puissance de la PAC doit être     supérieure à 2 kg de fluide frigori-
+                                                 faite à la température extérieure    gène (article R543-75 à R543-123 du
+      Établir un bilan thermique                 de base réglementaire et non au      Code de l’Environnement). Le règle-
+      La sélection d’une pompe à cha-            point d’essai de + 7 °C.             ment F GAS n°517-2014 exprime
+      leur dépend des déperditions du        Δ   Pour un réseau de radiateurs         ses seuils en Teq CO2 (par exemple
+      bâti dont le bilan thermique a été         existant, il y a lieu de s’assurer   pour le R410A, le seuil débute à
+      calculé selon la norme EN 12831. La        de la compatibilité du régime        2,39 kg).
+      puissance de la pompe à chaleur et         de température des émetteurs
+      de l’appoint doit couvrir 120 % des        de chaleur et de celui de la PAC,
+      déperditions à la température exté-        un ballon tampon est souvent
+      rieure de base.                            nécessaire pour permettre une
+                                                 adéquation optimale.
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                           ÉQUIPEMENTS                FICHE
+                                                                     POMPES À CHALEUR AIR / EAU                       E.10
+                                                                                                                        3/3
+
+
+
+
+  À CONSULTER
+  Δ NF DTU 65.16 Installations de
+    pompes à chaleur - Partie 1.1, 1.2
+      &2
+  Δ NF EN 14511-2 : Climatiseurs,
+    groupes refroidisseurs de liquide
+      et pompes à chaleur avec com-
+      presseur entraîné par moteur
+      électrique pour le chauffage et la
+      réfrigération des locaux
+  Δ   NF EN 378-1 à 4 : Exigences
+      de sécurité et d’environnement
+      des systèmes de réfrigération et
+      pompes à chaleur
+  Δ   Article R543-75 à R543-123 du
+      Code de l’Environnement et mise
+      à jour en décembre 2015               L’ESSENTIEL
+  Δ   Règlement européen 517-2014.
+                                            Δ Veiller au bon dimensionnement de la PAC.
+  Δ   Fiche technique AFPAC : POMPES
+      À CHALEUR & ENVIRONNEMENT
+      ACOUSTIQUE
+                                            Δ Vérifier la compatibilité du régime de température des émet-
+                                                teurs existants avec celui de la PAC envisagée et du volume
+  Δ   Fiche SEQUELEC N°21 : La pompe
+      à chaleur du 01/10/2016
+                                                d’eau minimal pour éviter les courts-cycles.
+  Δ   Guide ADEME (édition mai 2016 ) :     Δ   Faire entretenir régulièrement par un professionnel.
+      Installer une pompe à chaleur
+
+
+
+
+Pour en savoir plus :
+                                                                            Retrouvez l’ensemble des
+                                                                            Fiches pathologie bâtiment sur :
+                                                                            www.qualiteconstruction.com
+                                                                            et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                               © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

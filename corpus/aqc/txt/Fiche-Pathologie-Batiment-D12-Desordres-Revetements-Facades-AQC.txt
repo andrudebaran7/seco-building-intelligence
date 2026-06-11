@@ -1,0 +1,226 @@
+                                                           ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                           FICHE
+                                                                                                                          D.12
+                                                                                                                               1/4
+
+
+
+                                       DÉSORDRES DES
+                    Photo © DR - AQC   REVÊTEMENTS DE FAÇADES
+
+1. LE CONSTAT
+Souvent employées en revêtement de façade, à voca-           Mais les altérations d'aspect (coulures, salissures) sont
+tion esthétique et sans fonction d'étanchéité, la céra-      également à considérer sérieusement, car potentielle-
+mique et la pierre naturelle souffrent parfois du décol-     ment révélatrices d'un défaut de traitement des points
+lement de certains éléments, d'où un risque pour la          singuliers.
+sécurité des personnes (chute de carreaux).
+
+
+
+
+2. LE DIAGNOSTIC                          De même, le voisinage de zones          Δ le respect des joints de dilatation
+                                          claires et foncées entraîne des           du gros œuvre ;
+Les décollements sont souvent la          dilatations différentielles, à l'ori-   Δ le dessin de l'encollage et son
+résultante de plusieurs facteurs :        gine de fissurations puis d’infil-        épaisseur.
+Δ mauvais choix du mortier-colle ;        tration d'eau ;                         En cas de pathologie, l'analyse du
+Δ encollage non conforme (double       Δ  absence d'« ouverture » du sup-         mortier-colle et du ragréage ap-
+  encollage non respecté, quantité        port (support fermé).                   porte des éléments sur leur mise
+  insuffisante de colle) ;             Toutes précautions doivent être            en œuvre :
+Δ défaut de marouflage ou de bat-      prises dès les premiers signes de          Δ taux d'hydratation du ciment ;
+  tage des éléments de façade lors     décollements (carreaux « sonnant           Δ présence de produit réduisant
+  du collage ;                         creux » ou décollés). Un sondage             l'adhérence.
+Δ dépassement du « temps ouvert »      exhaustif est indispensable, accom-
+  du mortier colle ;                   pagné d'une purge systématique.            Les défauts d'aspect
+Δ mortiers « grillés » au soleil ou    Un relevé précis des pertes d'ad-          Δ Traces de calcite sur les revête-
+  appliqués par temps trop froid ;     hérence et des décollements doit               ments (lixiviation) : l'eau s'infiltre
+Δ absence de protection en tête        indiquer :                                     dans le plan de collage, et se
+  créant des infiltrations d'eau à     Δ  l'exposition des façades, le voisi-         charge en chaux libre présente
+  l'interface support/carreau ou          nage de baies ou de points sin-             dans le mortier-colle. Lorsque
+  support/ pierre ;                       guliers ;                                   cette eau ressort par les joints,
+Δ joints de fractionnement non         Δ  la présence ou l'absence de pro-            elle s'évapore et il demeure des
+  respectés, partiellement obturés        tection en tête de mur ;                    traces blanchâtres de calcite en
+  par du mortier-colle ;               Δ  un     éventuel    ragréage       du        surface de revêtement. Les joints
+Δ mouvements du support provo-            support ;                                   de fractionnement doivent être
+  quant des contraintes de cisail-     Δ  la zone du décollement (inter-              remplis d'un mastic, d'un pro-
+  lement ;                                face béton/mortier-colle, mor-              filé PVC ou métallique protégé
+Δ éléments de façade trop foncés          tier-colle/ revêtement) ;                   contre la corrosion, et les arêtes
+  entraînant des dilatations exces-    Δ  les épaisseurs respectives des              supérieures des revêtements
+  sives qui favorisent les cisaille-      différents produits ;                       protégées.
+  ments dans les plans de collage.     Δ  la présence, la position et le rem-     Δ   Des micro-organismes se déve-
+                                          plissage des joints de fractionne-          loppent dans les zones humides.
+                                          ment ;                                      Des dispositifs appropriés, tels
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.12          DÉSORDRES DES REVÊTEMENTS DE FAÇADES
+  2/4
+
+
+
+       que corniches, bandeaux ou ba-         Δ à l'utilisation d'un revêtement                     IMPACT DE LA PLUIE FOUETTANTE
+                                                                                                      EN FONCTION DE LA HAUTEUR
+       vettes, doivent protéger les par-          clair, de coefficient d'absorption
+       ties horizontales de l'infiltration        solaire a < 0,7 selon l'exposition ;   Altitude       Vent + pluie, 5 mm/h
+       de l'eau de pluie.                     Δ   à la dimension maximale des            en m
+                                                                                                     45 km/h 30 km/h 15 km/h
+    Le revêtement doit être choisi en             dalles de pierres, quand c'est le      20
+    adéquation avec la destination et             cas, en fonction de leur nature et
+    l'exposition de l'ouvrage carrelé             de leur porosité ;
+    (résistance aux chocs, au gel, aux        Δ   aux conditions atmosphériques
+                                                                                         10
+    produits d'entretien, et coefficient          lors de la mise en œuvre (géné-
+    d'absorption solaire…).                       ralement 5 °C < T < 30 °C, sans
+                                                  vent sec ni pluie) ;
+    L'impact de la nature                     Δ   au respect des prescriptions           0
+    pétrographique de la pierre                   du fabricant concernant la pré-            2000 1600 1200       800    400   0 en mm3/m2
+    Selon leur nature, certaines pierres          paration du mortier (temps de
+    (comme les marbres cristallins)               repos, durée pratique d'utili-
+    sont sujettes au gonflement et à la           sation, quantité d'eau ajoutée,        Soigner les protections des
+    décohésion granulaire, par reprise            malaxage…) ;                           parties horizontales (têtes
+    d'eau et dilatation thermique. Il         Δ   au respect des prescriptions           de mur, appuis de fenêtre)
+    s'ensuit une déformation et une di-           d'encollage en fonction de la          et les angles sortants
+    minution de la résistance.                    dimension des carreaux et des          Δ En l'absence de protection en
+                                                  dalles de pierre (NB : pour la              tête de mur, l'eau de pluie pé-
+                                                  pierre, le double encollage est             nètre peu à peu par les joints,
+    3. LES BONNES                                 requis) ;                                   puis dans le mortier-colle, et dis-
+    PRATIQUES                                 Δ   au bon transfert du mortier sur             sout progressivement la chaux
+                                                  le revêtement (écrasement des               du liant hydraulique.
+    Veiller                                       sillons). Le DTU 52.1 prévoit la vé-   Δ    Le même phénomène se produit
+    Δ À la nature du support et à son             rification régulière du bon écra-           souvent dans les angles sortants
+        état de surface, qui doit être co-        sement des sillons du mortier               entre deux façades.
+        hésif, résistant et suffisamment          colle. Par tranche de 100m², avec      Δ    Il arrive que des barbacanes ar-
+        « ouvert » (absence d’aspect gla-         au minimum 5 essais, après avoir            rosent abondamment certaines
+        cé ou brillant) ;                         décollé l'élément de revêtement             zones de façade, ce qui peut être
+    Δ   aux tolérances de planéité qui            du support, on doit constater               un facteur aggravant.
+        doivent être de 5 mm sous la              une répartition homogène de la
+        règle de 2 m et 2 mm sous le              pâte sur au moins 70 % de la sur-
+        réglet de 20 cm. En l’absence de          face du carreau ;
+        rattrapages étendus, les rattra-      Δ   à la réalisation des joints de frac-
+        pages localisés admis sont limi-          tionnement et de désolidarisa-
+        tés à 7 mm ;                              tion requis ;
+    Δ   à l'emploi d'un produit de col-       Δ   au respect de la largeur et de la
+        lage adapté (C2 S1/S2 façade)             nature des joints entre éléments.
+        en fonction de la hauteur des
+        ouvrages ;
+
+
+        À CONSULTER                               L’ESSENTIEL
+        Δ NF DTU 52-2 : Pose collée des re-       Δ S'assurer que le support est sain, avant le collage des
+          vêtements céramiques et assimi-           revêtements.
+          lés – Pierres naturelles
+        Δ NF  B 10-601 : Produits de car-         Δ Respecter les conditions de mise en œuvre du NF DTU 52-2 et la
+          rières pierres naturelles                  prescription du fabricant du mortier-colle.
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                           ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                        FICHE
+                                                    DÉSORDRES DES REVÊTEMENTS DE FAÇADES                               D.12
+                                                                                                                            3/4
+
+
+4. L’ŒIL DE L’EXPERT
+                                                              Traces de calcite sur les revêtements (lixiviation). L’eau
+                                                              s’infiltre dans le plan de collage. Elle dissout progres-
+                                                              sivement la chaux libre présente dans le mortier-colle
+                                                              et/ou le mortier de jointoiement. Lorsque cette eau
+                                                              s’évapore, il demeure des traces blanchâtres de calcite
+                                                              en surface de revêtement. Remède : soigner les pro-
+                                                              tections des parties horizontales (têtes de mur, appuis
+                                                              de fenêtre) et des angles sortants.
+
+Photo © DR - AQC
+
+
+                                                              Décollements de carreaux et traces de calcite. Les
+                                                              éléments de façade trop foncés accroissent les dilata-
+                                                              tions. Ces dernières favorisent le cisaillement du mor-
+                                                              tier-colle qui entraîne le décollement des revêtements.
+                                                              Elles favorisent également les fissurations à l’origine
+                                                              d’infiltrations d’eau derrière le revêtement. Ces infiltra-
+                                                              tions dissolvent (lixiviation) progressivement la chaux
+                                                              libre présente dans le mortier-colle et/ou le mortier de
+                                                              jointoiement. Lorsque cette eau s’évapore, il demeure
+Photo © DR - AQC                                              des traces blanchâtres de calcite en surface de revête-
+                                                              ment. Remèdes et bonnes pratiques : soigner les pro-
+                                                              tections des parties horizontales (têtes de mur, appuis
+                                                              de fenêtre) et des angles sortants. Veiller à l’utilisation
+                                                              de revêtements clairs, de coefficient d’absorption so-
+                                                              laire < 0,7 selon l’exposition.
+
+                                                              Traces de calcite sur les revêtements. L’eau s’infiltre
+                                                              dans le plan de collage du revêtement par les tranches
+                                                              non protégées (têtes, appuis de fenêtres, pénétrations
+                                                              diverses (balcons), etc.). Elle dissout progressivement
+                                                              la chaux libre présente dans le mortier-colle et/ou le
+                                                              mortier de jointoiement. Lorsque cette eau s’évapore,
+                                                              il demeure des traces blanchâtres de calcite en surface
+                                                              de revêtement. Les barbacanes qui arrosent abon-
+                                                              damment certaines zones de façade, sont un facteur
+Photo © DR - AQC                                              aggravant. Remèdes et bonnes pratiques : soigner les
+                                                              protections des parties horizontales et des points sin-
+                                                              guliers. Veiller à l’utilisation de revêtements clairs, de
+                                                              coefficient d’absorption solaire < 0,7 selon l’exposition.
+
+
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.12          DÉSORDRES DES REVÊTEMENTS DE FAÇADES
+  4/4
+
+                                                                Décollement de carreaux. Le support doit être cohésif
+                                                                et résistant mais suffisamment « ouvert » pour faciliter
+                                                                l’adhérence du mortier colle. Les salissures, laitances,
+                                                                et huiles doivent être éliminées. Il faut veiller au bon
+                                                                « transfert » du mortier-colle sur le revêtement (écra-
+                                                                sement des sillons) et sur le support. Attention à la
+                                                                température du support lors de l’application du mor-
+                                                                tier-colle. Il y a risque d’altération (grillage) du mortier
+                                                                si la surface de collage est trop chaude ou trop froide.
+    Photo © DR - AQC
+                                                                Décollement de carreaux et traces de calcite. Des
+                                                                éléments de façade trop foncés accroissent les dilata-
+                                                                tions des carreaux et du support. Celles-ci favorisent
+                                                                le cisaillement du mortier-colle et les fissurations des
+                                                                joints. Il s'ensuit des décollements des revêtements
+                                                                et des infiltrations d’eau derrière les revêtements. Les
+                                                                infiltrations dans les revêtements dissolvent (lixivia-
+                                                                tion) progressivement la chaux libre présente dans le
+                                                                mortier-colle et/ou le mortier de jointoiement. Lorsque
+    Photo © DR - AQC                                            cette eau s’évapore, il demeure des traces blanchâtres
+                                                                de calcite en surface de revêtement. Ce phénomène
+                                                                survient également en l’absence de protection en tête
+                                                                des revêtements. Un revêtement de carrelage n’assure
+                                                                pas l’étanchéité. Sur les zones inclinées, il y a égale-
+                                                                ment infiltration d’eau derrière le revêtement et po-
+                                                                tentiellement dans et derrière le support. Remèdes et
+                                                                bonnes pratiques : soigner les protections des parties
+                                                                horizontales ou inclinées. Veiller à l’utilisation de revê-
+                                                                tements clairs.
+
+                                                                Décollement de carreaux. Le support doit être cohésif
+                                                                et résistant mais suffisamment « ouvert » pour faciliter
+                                                                l’adhérence du mortier colle. Attention au collage sur
+                                                                béton. Les salissures, laitances, et huiles doivent être
+                                                                éliminées. Veiller au bon « transfert » du mortier-colle
+                                                                sur le revêtement (écrasement des sillons). Protéger la
+                                                                tête du revêtement afin d’éviter les circulations d’eau à
+                                                                l’interface support/carreau. Les supports entièrement
+                                                                extérieurs (avancées de mur, poteaux, etc.) sont sujets
+    Photo © DR - AQC                                            à des dilatations accrues qui contraignent le plan de
+                                                                collage des revêtements. Soigner l’exécution des angles
+                                                                sortants, sources d’infiltration dans le revêtement.
+
+
+
+   Pour en savoir plus :
+                                                                                Retrouvez l’ensemble des
+                                                                                Fiches pathologie bâtiment sur :
+                                                                                www.qualiteconstruction.com
+                                                                                et sur l’AppliQC
+    www.groupe-sma.fr
+    www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

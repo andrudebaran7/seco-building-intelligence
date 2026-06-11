@@ -1,0 +1,131 @@
+                                                                          AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                                                                                       F.09
+                                        DÉCOLLEMENT DE                                                                     1/3
+
+
+
+                                        PEINTURE SUR PLAFONDS
+                      Photo © DR AQC    NEUFS EN BÉTON
+1. LE CONSTAT
+Les systèmes de peinture appliqués en sous-face des         écaillages et au stade ultime par des décollements.
+planchers neufs réalisés en dalles pleines ou à base        Une reconnaissance insuffisante des supports, un
+de prédalles en béton armé peuvent être le siège            choix inapproprié des produits, le non-respect des
+de désordres généralisés et évolutifs. Ces défauts se       temps de séchage et des conditions de chantier mal
+manifestent par des marbrures, des fissurations, des        maîtrisées sont à l’origine de ce type de pathologies
+                                                            caractéristiques.
+
+
+
+
+2. LE DIAGNOSTIC                        désordre, avec des défauts dont la          d’écailles de forme caractéris-
+                                        chronologie est la même dans tous           tique (concaves), plus ou moins
+Dans les systèmes constructifs          les cas :                                   prononcée ;
+actuels, les planchers sont réali-      Δ  apparition de marbrures dans         Δ   décollement du complexe :
+sés sur le principe de prédalles en        certains cas en transparence             au stade final, les écailles se
+béton de fabrication foraine, rece-        du revêtement de peinture : le           détachent du support béton. La
+vant une dalle coulée en place.            ressuage d’humidité en sous-             rupture d’adhérence se produit
+Rapidement démoulées après                 face des prédalles entraîne les          dans la masse de l’enduit (il reste
+confection, les prédalles sont             reliquats de produits de décof-          une fine couche pulvérulente sur
+posées à l’avancement du chan-             frage restés nichés dans les             le béton) ou entre l’enduit et le
+tier, juste avant le coulage en place      micro-anfractuosités du béton.           béton (ce dernier est alors mis
+du corps de la dalle en béton. Ce          Ce mélange coloré imprègne               à nu). Parfois, lorsqu’il en existe,
+complexe demande normalement               l’enduit de peintre et provoque la       c’est le ragréage du maçon qui
+plusieurs mois de séchage. L’éva-          formation d’auréoles brunâtres           est entraîné.
+cuation de l’humidité s’effectue           visibles au travers du film de
+par gravité par la partie inférieure       peinture de finition ;               Des facteurs autres que l’humidité
+de la prédalle (la partie supérieure    Δ  naissance de microfissures recti-    résiduelle peuvent contribuer à
+est souvent bloquée par les revête-        lignes dans la peinture : de très    l’apparition du phénomène :
+ments du sol).                             fines fissures (0,1 mm d’ouver-      Δ  la présence de polluants d’ori-
+Pour assurer la livraison des              ture au maximum) apparaissent           gine organique, tels que huiles
+ouvrages dans les délais prévus,           de manière diffuse mais plus par-       de démoulage ou produits de
+malgré les fréquents retards de            ticulièrement au droit des micro-       cure pouvant entraîner une mau-
+chantier, le peintre doit souvent          fissures et fissures du béton ;         vaise adhérence du système. La
+intervenir trop tôt (généralement       Δ  formation d’un réseau de micro-         présence de polluants ne peut
+dans les quatre à six semaines             fissures : les fissures se res-         être mise en évidence que par
+suivant les travaux de gros œuvre)         serrent et forment des figures en       des examens de laboratoire
+sans attendre le séchage des               étoile sur la peinture ;                (spectrométrie infrarouge) ;
+prédalles.                              Δ  soulèvement du complexe de           Δ  la saponification ou l’hydrolyse
+La présence d’humidité rési-               finition : à partir des fissures,       partielle de certains produits de
+duelle de gâchage des dalles               le complexe enduit + peinture           ragréage ou enduits de peintre.
+est donc la principale cause de            se soulève jusqu’à la formation         Un support très alcalin comme le
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              AMÉNAGEMENTS INTÉRIEURS
+F.09               DÉCOLLEMENT DE PEINTURE
+2/3                SUR PLAFONDS NEUFS EN BÉTON
+
+          béton frais a tendance à décom-           3. LES BONNES                            Δ Vérifier si le béton a reçu une
+          poser certains liants de type gly-        PRATIQUES                                   impression (obligatoire) avant
+          cérophtalique, ce qui réduit leur                                                     enduisage.
+          cohésion et entraîne des décol-           Δ Respecter les conditions mini- Δ          Réaliser un essai d’adhérence
+          lements ;                                     males d’intervention (tempéra-          du revêtement (DTU 59.1, article
+      Δ   l’effet de traction de certaines              ture, hygrométrie, …) fixées par        8.3.5). Une valeur d’au moins 0,4
+          peintures en phase solvan-                    le DTU 59.1.                            MPa est requise (cf. tableaux D2,
+          tée à base de résines alkydes             Δ   Mesurer le taux d’humidité à            D3, et D4 du DTU 59.1).
+          (peintures     glycérophtaliques)             cœur du subjectile béton (le DTU     Suite à une mise en œuvre défec-
+          qui « tirent » sur les enduits                59.1 « peinture » impose un maxi-    tueuse, la réfection impose un
+          moins cohésifs. La législation en             mum de 5 % en masse avant la         décapage total des surfaces. Il faut
+          matière de réduction des com-                 mise en peinture).                   les laisser à nu plusieurs mois pour
+          posés volatils organiques (COV)           Δ   Mesurer le pH à la surface du        permettre le séchage des dalles,
+          a fortement limité l’utilisation de           béton : il ne doit pas excéder 13.   avant d’envisager toute reprise.
+          ces peintures.
+
+
+
+
+          À CONSULTER
+          Δ DTU  59-1 : Peinture - Marchés
+            privés - Travaux de peinture des
+              bâtiments
+          Δ NF  T36-005 : Peintures et vernis
+            - Caractérisation des produits de
+              peintures                                 L’ESSENTIEL
+          Δ NF T30-010 : Peintures et vernis -
+            Évaluation de l’adhérence ou de
+                                                        Δ Respecter impérativement un temps de séchage important
+                                                          pour le support.
+              la cohésion - Méthode par flexion
+              trois points                              Δ Vérifier le taux d’humidité résiduel.
+          Δ   EN ISO 2409 : Peintures et vernis -       Δ Utiliser une peinture de faible traction (liant en phase aqueuse).
+              Essai de quadrillage
+
+
+       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                                      DÉCOLLEMENT DE PEINTURE                          F.09
+                                                                  SUR PLAFONDS NEUFS EN BÉTON                            3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Décollement de peintures causé par un défaut de prépara-
+                                                       tion du support.
+
+
+
+
+Photo © DR AQC
+
+
+                                                       Décollement de la peinture au droit d’une zone de ragréage :
+                                                       le support alcalin comme le béton frais peut décomposer
+                                                       certains liants, ce qui réduit leur cohésion.
+
+
+
+
+Photo © DR AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,284 @@
+                                                                                  TOITURES ET CHARPENTES                FICHE
+                                                                                                                        C.11
+                                                                                                                             1/5
+                                          TOITURES-TERRASSES,
+                                          LE POINT FAIBLE :
+                       Photo © DR - AQC
+                                          LES RELEVÉS
+
+1. LE CONSTAT
+La plupart des sinistres concernant l’étanchéité
+des toitures-terrasses ont pour origine les points
+singuliers et notamment les relevés.
+Les décollements et déchirures peuvent avoir des
+conséquences coûteuses.
+
+
+
+
+2. LE DIAGNOSTIC                          Les décollements et                        Δ du cisaillement (plis à 45°) dû à
+                                          glissements peuvent avoir                    des effets thermiques entre les
+Les relevés d’étanchéité servent à        plusieurs origines :                         parties isolées (partie courante)
+prévenir la pénétration de l’eau en       Δ un support humide (décolle-                et celles non isolées (acrotères
+périphérie des terrasses revêtues             ment par pression de vapeur              et/ou équerres métalliques).
+d’un complexe d’étanchéité, empê-             d’eau) ;
+chant ainsi les infiltrations à l’inté-   Δ   un défaut d’imprégnation (ab-          Les débordements :
+rieur des ouvrages.                           sence, insuffisance ou nature          dans le cas de terrasses-jardins, ils
+Pour assurer l’étanchéité de la               inadaptée de l’imprégnation) ;         sont dus à un niveau de terre dé-
+toiture-terrasse à sa périphérie          Δ   l’aspect glacé du support ;            passant la hauteur des relevés.
+et au niveau des émergences,              Δ   un défaut de soudure du revê-          Cela arrive lorsque l’on surestime
+ces relevés sont mis en œuvre en              tement ;                               le tassement futur de la terre.
+adhérence totale sur un support           Δ   des contraintes mécaniques
+adapté à cet usage dans le cas de             de cisaillement ( créé par une
+membranes bitumineuses (cf. DTU               charge importante (terre) en
+série 43.1 jusqu’à 5 et 43.11) ou,            fonction de la hauteur du relevé,      3. LES BONNES
+dans le cas de membranes syn-                 principalement) ;                      PRATIQUES
+thétiques et pour des hauteurs de         Δ   l’absence ou un défaut de pro-
+relevés courantes (jusqu’à 20 cm,             tection en tête des relevés (en-       Respecter les conditions
+voire 40 selon l’Avis Technique               gravure, becquets collés/vissés        de mise en œuvre des
+ou le DTA), réalisés en pose libre            et/ou solins métalliques…).            ouvrages de relevés.
+et maintenus en tête par collage                                                     Les conditions de mise en œuvre
+sur une tôle calaminée ou fixés           Les déchirures                             des ouvrages de relevés sont fonc-
+mécaniquement.                            (poinçonnements)                           tion de la nature des supports
+Depuis quelques années, en as-            proviennent :                              (béton, métal, bois, isolant) et de
+sociation avec les revêtements            Δ d’une fissuration du support ;           la destination des toitures-ter-
+d’étanchéité bitumineux, il est           Δ de cisaillements dans les gorges         rasses (accessibles, non acces-
+possible de réaliser des relevés en           des relevés dus à des poussées         sibles, techniques, jardin, parking,
+résine (bitume – polyuréthane) ap-            de la protection en dur de la          végétalisées).
+pliquée à froid à la brosse, en rem-          partie courante (insuffisance          Elles sont fixées par les Avis Tech-
+placement des membranes.                      voire absence de joint périphé-        niques ou DTA des procédés
+                                              rique) ;                               d’étanchéité, qui renvoient pour les
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE                TOITURES ET CHARPENTES
+C.11                 TOITURES-TERRASSES,
+2/5                  LE POINT FAIBLE : LES RELEVÉS
+
+
+                                                                               EXEMPLES DE BANDES D’ÉTANCHÉITÉ
+                                                  Sous protection en dur (engravure)                                                     avec bande de solin
+
+                                                                        ≥ 0,04 m              Goutte d’eau en tête du relevé
+                                       ≥ 0,02 m
+
+
+                                                                           ≥ 0,02 m           (point faible n°1)
+                                                                                                                                                    Joint souple imputrescible
+                                                                                              Enduit en mortier de
+                                                                                              ciment armé
+                                                                                              Relevé d’étanchéité
+                                                                                                                                                    Bande de solin
+                           0,15 ≥ h ≥ 0,30 m
+
+
+
+
+                                                                                              2 couche
+                                                                                              1re couche
+                                                                                              Gorge du relevé
+                                                                                              (point faible n°2)
+                                                                                              Joint souple imputrescible
+                                                                                              (0,02 m min)
+                    0,06 m min
+                                                                                              Protection en dur
+            Support monolithique                                                              Étanchéité parties
+                 (maçonnerie ou                                                               courantes
+              costière métallique)
+                                                                                              Isolant thermique
+
+                                                             ≥ 0,10 m                         Pare-vapeur
+        Talon 1 couche du relevé
+               re
+
+
+                                                                ≥ 0,15 m                      Élément porteur béton
+         Talon 2e couche du relevé
+
+
+
+      procédés d’étanchéité traditionnels                                  réglementations thermiques (RT                          technique ou le cahier des
+      (bitumes modifiés par élastomère                                     2012), l’isolation des acrotères est                    charges du procédé. Un test
+      SBS non fixés mécaniquement) aux                                     renforcée. Les recommandations                          d’arrachement du support peut
+      DTU 43.1 à 5 et 11. Pour les sys-                                    professionnelles de la CSFE (n°7)                       également être réalisé avant
+      tèmes non traditionnels (bitumes                                     et RAGE fournissent des exemples                        application (obligatoire pour les
+      modifiés par élastomère SBS fixés                                    pratiques avec éléments porteurs                        relevés sans protection en tête).
+      mécaniquement, bitumes modifiés                                      en maçonnerie et des éléments sur                       Le résultat doit être supérieur à
+      APP, membranes synthétiques), les                                    le positionnement correct de l’iso-                     une valeur minimale indiquée
+      Avis Techniques ou DTA peuvent                                       lant par rapport à l’étanchéité. Le                     dans les règles professionnelles
+      également renvoyer aux principes                                     compartimentage de l’isolant du re-                     voire dans le cahier des charges
+      fixés par les DTU.                                                   levé par rapport à l’isolant en partie                  ou l’ATec concernés) ;
+                                                                           courante est impératif pour limiter                 Δ   du choix de la protection du re-
+      Par soudage, par collage au bitume                                   les conséquences dommageables                           levé : autoprotection par granu-
+      chaud ou par collage à froid, la mise                                en cas de blessure accidentelle du                      lés minéraux, feuille métallique
+      en œuvre inclut le respect de ces                                    relevé isolé.                                           ou protection rapportée, en
+      dispositions normatives concer-                                                                                              fonction de l’accessibilité de la
+      nant les hauteurs, la protection en                                  La bonne tenue et le                                    terrasse ;
+      tête et la protection en général (en-                                bon fonctionnement                                  Δ   de la compatibilité entre maté-
+      duit grillagé par exemple).                                          des ouvrages de relevés                                 riaux (support/isolant/étanchéité) ;
+      Pour des relevés en résine, la dis-                                  dépendent également :                               Δ   de la conception des matériaux
+      pense de protection en tête n’est                                                                                            en ce qui concerne les arma-
+      admise que pour des toitures-                                        Δ de la parfaite adhérence du re-                       tures (voile de verre, polyester
+      terrasses inaccessibles. Cette dis-                                      vêtement au support, tenant                         non tissé) ;
+      pense est également admise pour                                          compte d’éventuelles hétéro-                    Δ   de la programmation d’un en-
+      les toitures-terrasses accessibles                                       généités de celui-ci entre partie                   tretien régulier (annuel) pour
+      avec protection par dalles sur plots,                                    courante et support de relevé ;                     assurer la pérennité de l’ou-
+      lorsque la tête de relevé est arrêtée                                Δ   pour les relevés en résine SEL,                     vrage (contrat d’entretien auprès
+      sous le niveau inférieur des dalles.                                     le taux d’humidité maximal du                       d’entreprises spécialisées, par
+      Avec l’apparition des dernières                                          support est précisé dans l’Avis                     exemple).
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                            TOITURES ET CHARPENTES                   FICHE
+                                                                          TOITURES-TERRASSES,                        C.11
+                                                                   LE POINT FAIBLE : LES RELEVÉS                       3/5
+
+
+
+
+À CONSULTER
+Δ DTU 20.12 : Gros oeuvre en
+  maçonnerie des toitures desti-
+    nées à recevoir un revêtement
+    d’étanchéité
+Δ   DTU 43.1 : Étanchéité des toi-
+    tures-terrasses et toitures incli-
+    nées avec éléments porteurs en
+    maçonnerie en climat de plaine
+Δ   NF DTU 43.11 : Étanchéité des
+    toitures-terrasses et toitures in-
+    clinées avec éléments porteurs
+    en maçonnerie en climat de
+    montagne)
+Δ   NF DTU 43.3 : Mise en œuvre des
+    toitures en tôles d’acier nervurées
+    avec revêtement d’étanchéité
+Δ   NF DTU 43.4 : Toitures en élé-
+    ments porteurs en bois et pan-
+    neaux dérivés du bois avec
+    revêtements d’étanchéité
+Δ   DTU 43.5 : Réfection des ouvrages
+    d’étanchéitédestoitures-terrasses
+    ou inclinées
+Δ   Dossier n°7 (06/2017) des Re-
+    commandations professionnelles
+    de la CSFE
+Δ   Recommandations profession-
+    nelles RAGE : Isolation thermique
+    et points singuliers de toitures
+                                          L’ESSENTIEL
+    avec éléments porteurs en ma-
+    çonnerie (03/2014)
+                                          Δ Porter une attention particulière à la hauteur des relevés et à
+                                            la protection en tête.
+Δ   Règles professionnelles de la
+    CSFE-FFB (Chambre syndicale           Δ Ne pas provoquer de tension ou de cisaillement en surchar-
+    française de l’étanchéité de la Fé-     geant le complexe d’étanchéité.
+    dération française du bâtiment)       Δ Entretenir régulièrement les toitures-terrasses.
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            TOITURES ET CHARPENTES
+C.11             TOITURES-TERRASSES,
+4/5              LE POINT FAIBLE : LES RELEVÉS
+
+      4. L’ŒIL DE L’EXPERT
+                                                                 Décollement du relevé - retrait de l’isolant - hauteur
+                                                                 du relevé trop faible au regard de la retombée de
+                                                                 couvertine.
+
+
+
+
+      Photos: © GIE SOCABAT
+
+
+                                                                 Défaut de traitement des souches de ventilation. Exi-
+                                                                 guïté des points singuliers. Prévoir un dispositif s’oppo-
+                                                                 sant au passage de l’eau le long du tuyau, au niveau de
+                                                                 la partie supérieure de la pénétration. Veiller à remon-
+                                                                 ter le relevé en butée sous ce dispositif. Vérifier de qui
+                                                                 relève la prestation.
+
+
+
+
+      Photos: © GIE SOCABAT
+
+
+                                                                 Défaut d’entretien manifeste, hauteur de relevés in-
+                                                                 compatible avec l’épaisseur de protection en graviers.
+
+
+
+
+      Photos: © GIE SOCABAT
+
+
+                                                                 Décollement de relevé. Défaut d’entretien et relevé
+                                                                 trop ancien. Mauvaise fixation du béquet et infiltration
+                                                                 par le ressaut au-dessus du béquet métallique qui au-
+                                                                 rait dû être protégé.
+
+
+
+
+      Photos: © GIE SOCABAT
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                              TOITURES ET CHARPENTES                   FICHE
+                                                                            TOITURES-TERRASSES,                        C.11
+                                                                     LE POINT FAIBLE : LES RELEVÉS                       5/5
+
+
+
+                                                             Défaut de traitement des souches. Absence de relevés
+                                                             Décollement du relevé. Défaut d’entretien et relevé
+                                                             trop ancien. Mauvaise fixation du béquet et infiltration
+                                                             par le ressaut au-dessus du béquet métallique qui au-
+                                                             rait dû être protégé.
+
+
+
+
+Photos: © GIE SOCABAT
+
+
+                                                             Surchauffe du feuil bitumineux du relevé. Adaptation
+                                                             du procédé d’étanchéité à l’usage ?
+
+
+
+
+Photos: © GIE SOCABAT
+
+
+                                                             Dégradation de relevé par un tiers (fixation antenne).
+                                                             La cause du dommage est la découpe du complexe
+                                                             d’étanchéité par l’entreprise chargée de poser la pa-
+                                                             rabole. Soit poser le pied de parabole avant le revê-
+                                                             tement d’étanchéité, soit le poser postérieurement,
+                                                             sur un socle prévu au lot gros œuvre. Anticiper si pos-
+                                                             sible et participer à la coordination des interventions
+                                                             (informations délivrées) des différents corps d’état.
+                                                             Si l’enchaînement des tâches est mal réparti et/ou si
+                                                             les entreprises ne sont pas alertées sur la sensibilité
+Photos: © GIE SOCABAT                                        des matériaux d’étanchéité aux actions a posteriori, les
+                                                             risques d’infiltration sont importants.
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,254 @@
+                                                                    FONDATIONS ET INFRASTRUCTURES                    FICHE
+                                                                                                                     A.10
+                                                                                                                          1/4
+
+
+
+                                         DÉSORDRES DANS LES
+                     Photo © DR - AQC
+                                         VOIRIES ET RÉSEAUX DIVERS
+
+1. LE CONSTAT
+Des désordres, parfois récurrents, peuvent affecter tant      nids-de-poule et soulèvement en surface de la voirie.
+les voiries que les réseaux enterrés : de l’arrachement       Les risques, s’agissant des réseaux enterrés, sont par-
+de câbles ou la rupture de canalisations par un engin         fois vitaux.
+de chantier, à l’affaissement ou aux fissures, faïençage,
+
+
+
+
+2. LE DIAGNOSTIC                        Mauvaise exécution des                    fissures et soulèvements en sur-
+                                        travaux de préparation et de              face, parfois accompagnés de
+Méconnaissance de                       compactage                                risques de rupture des réseaux
+l’implantation des réseaux              Δ Mauvaise préparation du fond            souterrains.
+Le manque d’information des ex-             de fouille : le fond de fouille non
+ploitants sur les infrastructures,          purgé n’a pas été débarrassé de       Désordres de voiries lourdes
+l’absence de Déclaration de projet          ses éléments les plus gros.           Des défauts de mise en œuvre des
+de Travaux (DT) adressée par le         Δ   Choix inadapté des matériaux de       matériaux constitutifs de la voirie,
+maître d’ouvrage (responsable de            remblaiement : dimension maxi-        un sous-dimensionnement de la
+projet au sens de la NF S70-003)            male des matériaux inadaptée          structure de chaussée (mauvaise
+aux exploitants et de Déclaration           vis-à-vis de la largeur de la tran-   détermination du trafic/de la durée
+d’Intention de Commencement des             chée, de l’épaisseur de la couche     de service/de la protection vis-à-vis
+Travaux (DICT) établie par l’entre-         compactée ou du diamètre du           du gel) sont générateurs de risques
+prise, l’insuffisance de sondages de        réseau à enrober.                     d’affaissements des voiries.
+reconnaissance préalables aux tra-      Δ   Insuffisance de compactage :
+vaux sont des facteurs de risques           les exigences de compactage           Par ailleurs, la mise en œuvre d’une
+évidents.                                   des couches de remblaiement           chaussée sur un support inadapté
+                                            des tranchées ne sont pas             conduit à des désordres visibles
+Vétusté ou état non                         respectées.                           en surface : fissures, faïençage,
+réglementaire des réseaux               Δ   Absence de contrôle du compac-        nids-de-poule. Même risque si le
+existants                                   tage : imprécisions sur la confor-    sol support est mal préparé : trop
+L’altimétrie non réglementaire des          mité des objectifs attendus de        humide ou trop sec et décompacté,
+câbles et canalisations, éventuel-          densification du remblai.             ou avec des poches de mauvais sol
+lement cumulée avec l’absence de                                                  non purgées et comblées par un
+grillage avertisseur, expose aux        Ces erreurs d’exécution se tra-           matériau adapté.
+risques d’arrachement de câbles et      duisent par des affaissements.            Le traitement des accotements et
+de détérioration des canalisations                                                leur dimensionnement insuffisant
+par un engin de chantier.               Gonflements de surfaces                   peuvent provoquer des tasse-
+                                        La présence d’une forte teneur en         ments latéraux avec fissuration de
+                                        sulfates dans les graves-ciment           la couche de roulement.
+                                        conduit à la formation de sels ex-        L’apparition de fissures non
+                                        pansifs d’Ettringite, qui génèrent        colmatées peut conduire à la
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           FONDATIONS ET INFRASTRUCTURES
+A.10            DÉSORDRES DANS LES
+2/4             VOIRIES ET RÉSEAUX DIVERS
+
+      désagrégation de la couche de                  l’exécutant des travaux doit                           Δ Bien choisir les matériaux de
+      roulement après infiltration des               sursoir aux travaux jusqu’à                              remblaiement.
+      couches inférieures, particuliè-               décision du responsable de                               Ω En cas de présence de nappe
+      rement     avec les alternances                projet, prise par un ordre                                    phréatique, tenir compte
+      gel-dégel.                                     écrit, sur les mesures à                                      pour le choix des matériaux
+                                                     prendre. Un « constat contra-                                 de remblayage de la perméa-
+      Engins inadaptés à la                          dictoire d’arrêt de travaux »                                 bilité du milieu environnant,
+      vulnérabilité du sol                           (formulaire Cerfa : 14767*01)                                 pour éviter la création d’une
+      Leur utilisation peut provoquer                devra être signé. De même,                                    zone drainante.
+      également des affaissements.                   tout dommage à un réseau                               Δ    Veiller à la qualité du
+                                                     devra faire l’objet d’un constat                            compactage.
+                                                     contradictoire de dommage                                   Ω Effectuer systématiquement
+      3. LES BONNES                                  (formulaire Cerfa : 14766*01) ;                               un contrôle de la qualité du
+      PRATIQUES                                  Ω   respecter les règles de dis-                                  compactage (voir guide du SE-
+                                                     tance entre réseaux enterrés                                  TRA de 1994 + note de 2007).
+      Δ Connectez-vous sur le site                   et règles de voisinage entre
+          www.reseaux-et-canalisations.gouv.fr       réseaux et végétaux (voir
+          afin de localiser la présence              NF P98-332).
+          de réseaux aériens, souter-
+          rains et subaquatiques, et                                       POSITIONNEMENT DES RÉSEAUX ENTERRÉS
+          d’obtenir la liste des exploi-                          Exemple de disposition de réseaux en tracés parrallèles
+          tants de réseaux sensibles et                               sous trottoir avec revêtement ou accotement*
+          non sensibles (au sens de la
+          NF S70-003).
+      Δ   Prendre en compte les réseaux
+                                                 0,60 m           0,50 m normal                            ≥ 0,80 m              1,00 m              0,70 m
+          enterrés existants :
+          Ω  respecter les obligations des            à
+                                                 0,80 m
+             parties (y compris en cas de
+             travaux urgents) ;
+          Ω  effectuer un marquage / pi-
+                                                                         Télécom, vidéo, TBT
+             quetage des réseaux (à une                                  (sous fourreau) ≥ 0,20 m
+             date la plus proche possible                                                                                                                  Gaz
+             du démarrage des travaux) ;                                                                                                               combustible
+          Ω  observer attentivement les                                                                                                                distribution
+                                                                                                                                              m
+
+
+
+
+             surfaces : réfections de sol/
+                                                                                                                                           0,50
+
+
+
+
+                                                 Électricité BT                       0,20 m Électricité HTB
+             postes de détente/ regards/            ou HTA
+             coffres de branchement/                                                                          ≥ 0,20 m
+                                                                             ≥ 0,
+
+
+
+
+                                                                                                                                                Eau potable
+             bouches à clefs / présence de
+                                                                               20 m
+
+
+
+
+                                                                                                                                               sous pression
+             sablon… présagent de la pré-                                                                                                       distribution
+             sence de réseaux ;
+          Ω  utiliser des détecteurs de ca-
+             nalisation (détection par in-                                  Signalisation par grillage avertisseur
+             duction / géoradars / ondes
+             acoustiques…) ;                                 électricité                                       assainissement et pluvial
+          Ω  en cas d’anomalies (décou-                      eau potable                                       chauffage urbain
+             verte d’un ouvrage susceptible                  gaz                                               produits chimiques
+             d’être sensible pour la sécu-                   télécommunication                                 zone d’emprise multi-réseaux
+
+             rité, différence notable entre
+                                                               * Se rapporter à la NF P98-332 qui définit les différents cas de figure à envisager
+             l’état du sous-sol constaté et
+             les informations fournies...),
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                        FONDATIONS ET INFRASTRUCTURES                   FICHE
+                                                                                 DÉSORDRES DANS LES                     A.10
+                                                                            VOIRIES ET RÉSEAUX DIVERS                        3/4
+
+
+Δ Pour réussir sa chaussée :                          Ces caractéristiques doivent   Δ Veiller au bon dimensionne-
+  Ω la plate-forme support doit                       être homogènes sur toute         ment des chaussées :
+      avoir des caractéristiques                      la surface du support de la      Ω respecter la norme NF P98-
+      minimales :                                     future chaussée ;                     082 pour le dimensionnement
+      • nivellement +/- 3 cm,                  Ω   réceptionner le support vi-              des couches de fondations, de
+      • déformabilité faible (module               suellement (pas de poche en              base et de roulement ;
+        EV2 à la plaque > 50MPa                    surface, le passage d’un en-          Ω  soigner le dimensionnement
+        ou déflexion sous essieu                   gin lourd ne déforme pas le              et la réalisation des accote-
+        13 t < 2 mm).                              support et ne laisse pas d’or-           ments ;
+                                                   nières) ;                             Ω  utiliser les guides techniques
+                                               Ω   compléter par des essais                 élaborés par le SETRA.
+  À CONSULTER                                      en cas de doutes (essai de        Δ   Entretenir la chaussée en col-
+  Δ Décret n° 2011-1241 du 5 oc-
+    tobre 2011, relatif à l’exécution
+                                                   plaque ou mesure de la dé-            matant les fissures au bitume
+                                                   formation sous essieu cités           liquide.
+      de travaux à proximité de certains           ci-dessus).
+      ouvrages ou terrains, aériens ou
+      subaquatiques de transport ou de
+      distribution.Etarrêtéd’application
+      du 15 février 2012
+  Δ   Décret n° 2012-970 du 20 août
+      2012 relatif aux travaux effectués
+      à proximité des réseaux de trans-
+      port et de distribution
+  Δ   Guide technique relatif aux tra-
+      vaux à proximité des réseaux (juin
+      2012)
+  Δ   NF S70-003-1 : Travaux à proximi-
+      té de réseaux - Partie I : prévention
+      des dommages et de leurs consé-
+      quences (application obligatoire)
+  Δ   NF S70-003-2 : Travaux à proximi-
+      té de réseaux - Partie II : techniques
+      de détection sans fouille
+  Δ   XP S70-003-4 : Travaux à proximi-
+      té - Partie IV : Exemples de clauses
+      particulières dans les marchés de
+      travaux
+  Δ   Guide remblayage des tranchées
+      et réfection des chaussées (1994) +
+      Noted’informations.Complément
+      au Guide de 1994 du Sétra (juin
+      2007)
+  Δ   NF P98-082 : Chaussée - Terras-
+      sement - Dimensionnement de
+      chaussées routières - Détermina-
+      tion des trafics routiers pour le
+      dimensionnementdestructuredes
+      chaussées                                L’ESSENTIEL
+  Δ   NF P98-331 : Chaussées et dépen-
+      dances - Tranchées : ouverture,          Pour les réseaux divers :
+      remblayage, réfection
+  Δ   NF P98-332 : Chaussées et dépen-         Δ se renseigner de façon précise sur les réseaux en place (voir le
+      dances - Règles de distance entre          guichet unique www.reseaux-et-canalisations.gouv.fr) ;
+      les réseaux enterrés et règles de
+      voisinage entre les réseaux et les
+                                               Δ utiliser des matériaux de remblaiement appropriés.
+                                               Pour les voiries :
+      végétaux
+  Δ   Fascicules 70 et 71 (assainisse-         Δ réceptionner le sol support ;
+      ment et eau) du CCTG                     Δ pratiquer des essais en cas de doute.
+
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           FONDATIONS ET INFRASTRUCTURES
+A.10            DÉSORDRES DANS LES
+4/4             VOIRIES ET RÉSEAUX DIVERS
+
+      4. L’ŒIL DE L’EXPERT
+
+
+
+
+      Photo © DR - AQC                                              Photo © DR - AQC
+      Déformations et fissures sur voirie. Les désordres sont       La couche de surface est affectée d’un ensemble de
+      localisés à proximité d’un regard et la zone de défor-        fissures entrelacées formant une série de polygones ir-
+      mation est essentiellement concentrique au tampon             réguliers. Le désordre résulte d’une présence de poche
+      du regard. Ils sont la conséquence de tassements diffé-       d’argile au sein de la couche d’assise, ne permettant
+      rentiels entre la zone courante et le regard, symptoma-       pas à cette dernière d’assurer une bonne répartition
+      tique d’une insuffisance de compactage.                       des pressions sur la plate-forme support de chaussée.
+
+
+
+
+      Photo © DR - AQC                                              Photo © DR - AQC
+      L’absence de marquage piquetage (pourtant obliga-             Le revêtement pavé d’un pied de rampe d’accès au
+      toire) et l’absence de grillage avertisseur sont autant       garage présente une importante déflexion (localisée
+      de paramètres qui doivent inciter les intervenants à la       sous l’axe théorique des roues des véhicules) excédant
+      plus extrême prudence. Rappelons que ces derniers             les tolérances d’exécution. Le compactage de la plate-
+      doivent impérativement respecter le Guide Technique           forme avant la réalisation des assises était localement
+      (notamment, dans le cas présent, les fiches TX-TER 2 et       insuffisant, conduisant à une portance de sol incom-
+      3 du Fascicule 2 du Guide d’Application de la Réglementa-     patible avec les charges d’exploitation générées par le
+      tion relative aux travaux à proximité des réseaux).           trafic des véhicules.
+
+
+
+
+      Pour en savoir plus :
+                                                                                       Retrouvez l’ensemble des
+                                                                                       Fiches pathologie bâtiment sur :
+                                                                                       www.qualiteconstruction.com
+                                                                                       et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                                 © 2023- Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

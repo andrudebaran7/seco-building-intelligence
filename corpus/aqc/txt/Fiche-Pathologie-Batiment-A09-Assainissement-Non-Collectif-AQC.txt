@@ -1,0 +1,167 @@
+                                                                      FONDATIONS ET INFRASTRUCTURES                       FICHE
+                                                                                                                          A.09
+                                                                                                                               1/3
+
+
+
+                                          ASSAINISSEMENT
+                      Photo © DR - AQC
+                                          NON COLLECTIF
+
+1. LE CONSTAT
+La Loi sur l’Eau et les Milieux Aquatiques (LEMA) du 30        Les principaux désordres liés aux systèmes d’assainis-
+décembre 2006 instaure une obligation générale d’as-           sement non collectif sont :
+sainissement sur l’ensemble du territoire. L’assainisse-       Δ le débordement de la fosse et les remontées d’ef-
+ment non collectif concerne en France environ 13 mil-            fluents par les appareils sanitaires ;
+lions de personnes et on estime à environ 5 millions le        Δ les problèmes de salubrité, de pollution des eaux
+nombre d’installations.                                          de surface ou souterraines, qu’entraîne un engorge-
+                                                                 ment du terrain par des eaux non ou insuffisamment
+Ce mode d’épuration à part entière désigne tout sys-             traitées ;
+tème d’assainissement effectuant la collecte, le prétrai-      Δ l’apparition d’odeurs nauséabondes ;
+tement, le traitement, l’infiltration ou le rejet des eaux     Δ l’apparition de résurgences d’effluents plus ou moins
+usées domestiques des habitations non raccordées                 pollués ;
+au réseau public d’assainissement. Il est particulière-        Δ la dégradation du béton des fosses septiques.
+ment adapté dans les zones d’habitat dispersé où les           Mal conçues ou mal exploitées, les installations peuvent
+investissements en matière de collecte des eaux usées          engendrer de graves nuisances environnementales et
+peuvent être particulièrement élevés et non justifiés.         des risques sanitaires.
+
+
+
+
+2. LE DIAGNOSTIC                          dans un terrain reconstitué, au tra-      Le défaut de ventilation
+                                          vers d’un filtre à sable vertical ou un   Δ Les odeurs nauséabondes sont
+La mauvaise évacuation des                tertre filtrant.                              la marque d’une insuffisance,
+eaux usées                                                                              voire d’une absence totale de
+Elle est souvent le résultat d’une        Les autres causes de mauvaise                 ventilation de la fosse septique
+inadaptation de la solution rete-         évacuation des eaux :                         toutes eaux. Elles proviennent
+nue pour l’épandage, par rapport          Δ colmatage du préfiltre dû à la sa-          de l’accumulation d’hydrogène
+au sol. Les tranchées filtrantes à          turation de la fosse ;                      sulfuré (H2S), ce gaz à l’odeur ca-
+faible profondeur, habituellement         Δ colmatage dans le regard dû aux             ractéristique d’œuf pourri, géné-
+employées, nécessitent un sol avec          dépôts (graisses, savon, corps              ré lors de la fermentation liée au
+une perméabilité optimale afin              étrangers, feuilles, sable…) ;              prétraitement des eaux usées.
+d’épurer les eaux et les évacuer.         Δ drains du plateau d’épandage                Au-delà d’un certain seuil, ce gaz
+Ces deux objectifs sont en fait an-         bouchés par des boues, des ra-              peut entraîner des nausées et
+tagonistes : pour être épurées, les         cines… ;                                    malaises et à dose supérieure,
+eaux doivent être filtrées et donc        Δ défaut de pose de la fosse                  être mortel.
+ne pas s’infiltrer trop rapidement          elle-même.                              Δ   Ce défaut de ventilation peut
+dans le sol, mais en même temps,                                                        également être à l’origine de dé-
+l’évacuation des eaux doit être           La mauvaise évacuation des eaux               gradations du béton des fosses
+continue pour ne pas saturer le ter-      usées agit directement sur la pollu-          septiques. En l’absence de venti-
+rain. Si le sol n’est pas satisfaisant,   tion des sols.                                lation, l’action de l’hydrogène sul-
+il faut donc envisager l’épuration                                                      furé se traduit par une attaque
+
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           FONDATIONS ET INFRASTRUCTURES
+A.09            ASSAINISSEMENT NON COLLECTIF
+2/3
+
+
+        du béton par l’acide sulfurique               bonne réalisation d’une filière       Δ Entretenir et maintenir les ou-
+        qui dissout les composés du ci-               efficace et respectueuse de l’en-        vrages d’assainissement non
+        ment, entraînant la formation de              vironnement. Il faut faire pro-          collectif. Il s’agit d’un élément
+        minéraux à caractère expansif.                céder à une analyse de sol par           prépondérant du bon fonc-
+                                                      sondages pédologiques ainsi              tionnement de l’installation. Un
+                                                      qu’ à un test de percolation.            dispositif de prétraitement in-
+      3. LES BONNES                               Δ   Prévoir la ventilation de                suffisamment entretenu risque
+      PRATIQUES                                       l’installation    de    prétraite-       en effet de porter préjudice au
+                                                      ment (fosse toutes eaux). Le sys-        système épurateur situé en aval.
+      Δ Vérifier l’aptitude des sols à                tème de prétraitement génère             Respecter l’arrêté du 27 avril
+        l’assainissement. Utiliser les                des gaz qui doivent être évacués         2012 fixant les modalités de
+        services d’un bureau d’études                 par une ventilation efficace dé-         contrôle technique exercé par
+        spécialisé pour le choix et la                bouchant en toiture du bâtiment.         les communes et, le cas échéant,
+                                                      En la matière, il convient de res-       confier à la commune l’entretien
+                                                      pecter impérativement les direc-         de l’installation contre paiement
+        À CONSULTER                                   tives du DTU 64.1 de ventilation         d’une redevance.
+        Δ Loi   2006-1772 du 30-12-2006
+          sur l’Eau et les Milieux Aquatiques
+                                                      de la fosse toutes eaux.
+
+            (LEMA)
+        Δ Arrêtés  (2) du 7 septembre 2009
+          relatifsauxinstallationsd’assainis-
+            sement non collectif
+        Δ Arrêté du 27 avril 2012 relatif aux
+          modalités de l’exécution de la mis-
+            sion de contrôle des installations
+                                                      L’ESSENTIEL
+            d’assainissement non collectif            Δ Faire vérifier par un bureau d’études spécialisé le choix de la
+        Δ   NF DTU 64.1 Août 2013 Disposi-              filière et l’aptitude des sols à l’assainissement.
+            tifs d’assainissement non collectif
+            (dit autonome) - Pour les maisons         Δ Ventiler efficacement la fosse toutes eaux.
+            d’habitation individuelle jusqu’à         Δ Bien entretenir les ouvrages, se conformer notamment aux
+            20 pièces principales                        règles régissant les vidanges de la fosse.
+
+
+
+
+      4. L’ŒIL DE L’EXPERT
+                                                                        Le regard aval d’un épandage est saturé d’eau. Les
+                                                                        drains se sont mis en charge car le terrain en place
+                                                                        n’absorbe pas les effluents et ces derniers, non filtrés,
+                                                                        stagnent en surface. Le coefficient K de perméabilité
+                                                                        du sol résultant des essais de percolation a mal été
+                                                                        évalué et la filière retenue pour l’assainissement auto-
+                                                                        nome n’a pas été correctement dimensionnée au re-
+                                                                        gard des exigences définies dans le DTU 64.1.
+
+
+
+      Photo © DR - AQC
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                    FONDATIONS ET INFRASTRUCTURES                    FICHE
+                                                                 ASSAINISSEMENT NON COLLECTIF                        A.09
+                                                                                                                          3/3
+
+
+
+
+                                                              Le premier regard de la fosse septique était situé sous
+                                                              20 cm de terre végétale (recouvert par le propriétaire
+                                                              pour des raisons esthétiques), empêchant ainsi la vi-
+                                                              dange de la fosse depuis la réception (soit plus de 6
+                                                              ans). Rappelons que l’Annexe A du DTU 64.1 mentionne
+                                                              les opérations indispensables d’entretien et de main-
+                                                              tenance relatives aux ouvrages d’assainissement non
+                                                              collectif. La première inspection de la fosse septique
+                                                              est théoriquement de 4 ans après la mise en service
+                                                              ou vidange de la fosse (la périodicité étant ensuite à
+                                                              adapter en fonction de la hauteur de boue).
+
+
+
+
+Photo © DR - AQC
+
+
+                                                              Les gaz de fermentation (CH4, H2S) générés par le pro-
+                                                              cessus de digestion anaérobie du traitement primaire
+                                                              ont agressé le béton de la fosse septique qui n’était pas
+                                                              ventilée. Rappelons que le DTU 64.1 impose une ven-
+                                                              tilation (diamètre mini 100) de fosse constituée d’une
+                                                              entrée d’air et d’une sortie d’air indépendantes (situées
+                                                              au-dessus des locaux).
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

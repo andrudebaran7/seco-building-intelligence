@@ -1,0 +1,225 @@
+                                                                               STRUCTURES ET GROS ŒUVRE                    FICHE
+                                                                                                                           B.06
+                                                                                                                                1/4
+
+                                             DÉSORDRES SUR OSSATURES
+                                             EN ÉLÉMENTS PRÉFABRIQUÉS EN
+         Photo: © AQC - M. Bergerat - 2010   BÉTON ARMÉ OU PRÉCONTRAINT
+
+1. LE CONSTAT
+Les ossatures en béton armé ou précontraint destinées              Les désordres affectant majoritairement ces ossatures
+à l’édification de bâtiments de grande emprise (entre-             se manifestent dans ces jonctions par des fissurations
+pôts industriels, grandes surfaces commerciales...)                des bétons de clavetage ou des abouts des compo-
+sont préfabriquées en usine, fixes, transportées, puis             sants, fissurations souvent signe d’un défaut de solidité
+montées sur site.                                                  de l’ouvrage du fait des efforts importants transitant
+Cette technique de préfabrication permet un montage                par ces assemblages.
+rapide des bâtiments, avec une réduction du planning               Ces fissurations peuvent s’accompagner en outre de
+et des coûts. Toutefois, au-delà de la résistance né-              chutes d’éclats de béton, point particulièrement dan-
+cessaire de chacun des composants, l’essentiel de la               gereux du fait des grandes hauteurs usuelles de ces
+solidité de la structure repose sur l’efficacité et la pé-         bâtiments dans lesquels l’activité humaine peut être
+rennité des assemblages de ces mêmes composants                    intense, tels les centres commerciaux.
+entre eux, c’est-à-dire les jonctions (ou nœuds) qui sont          Lorsque ces assemblages assurent la continuité
+présentes dans les assemblages suivants :                          mécanique entre éléments (jonction clavetées), ils
+Δ  poteaux > fondations ;                                          concourent également à la stabilité du bâtiment,
+Δ  poteaux > poutres et/ou poteaux > fermes ;                      au plan partiel ou général. Leur pérennité est donc
+Δ  pannes > poutres                                                primordiale.
+
+
+
+
+2. LE DIAGNOSTIC
+                                             Δ les plus fréquentes se ren-                 poteau pour limiter le risque de
+Les fissurations et désordres dans               contrent au niveau des jonc-              contrainte localisée et donc de
+les assemblages entre éléments                   tions, clavetées ou brochées et           fissuration.
+linéaires d’ossature peuvent trou-               dans le fonctionnement effectif       Δ   Le défaut de qualité du béton liée
+ver leur origine dans de multiples               des joints de dilatation.                 à la forte densité d’armatures de
+causes :                                                                                   ces zones (manque de compaci-
+Δ  en conception, par omission               Désordres dans les                            té) ou à un espacement insuffi-
+   d’effets secondaires qui s’avèrent        jonctions clavetées                           sant entre armatures contiguës.
+   non négligeables (ossatures ex-           Δ La coupe ou la déformation des Δ            Le défaut de mise en œuvre
+   posées au gradient thermique                  armatures dépassant en about              d’un calage provisoire, du fait
+   extérieur par exemple) ;                      du fait de l’impossibilité de posi-       de la faible largeur de repos du
+Δ  au montage avec des défauts                   tionnement des éléments en vis-           talon de poutre, entraîne une
+   d’exécution apparemment mi-                   à-vis, dans un environnement à            amorce de rupture de la tête de
+   neurs, mais qui, en fait, ont des             forte densité de ferraillage.             poteau ou du talon de poutre. Ce
+   conséquences majeures dans                Δ   L’oubli de mise en œuvre des              dernier point présente en outre
+   ces structures élancées par les-              aciers de renfort, de frettage ou         un risque élevé d’effondrement
+   quelles transitent souvent des                de couturage des plans de re-             en phase provisoire avec un
+   efforts importants du fait de la              prise de bétonnage.                       fort risque de dommages
+   réalisation de portées et travées         Δ   Le défaut de chanfrein ou de              corporels.
+   en œuvre de grande dimension ;                dispositif équivalent en tête du
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              STRUCTURES ET GROS ŒUVRE
+B.06               DÉSORDRES SUR OSSATURES EN
+2/4                ÉLÉMENTS PRÉFABRIQUÉS EN BÉTON
+                   ARMÉ OU PRÉCONTRAINT
+
+      Désordres dans les
+      jonctions avec broche                                          Désordres en relation avec                3. LES BONNES
+      Δ L’irrégularité des surfaces d’ap-                            les joints de dilatation                  PRATIQUES
+          pui entraîne des concentrations                            Des joints de dilatation sont en gé-
+          de contraintes localisées dans                             néral prévus de manière à délimiter       Le dossier d’exécution réalisé par le
+          les éléments béton avec risque                             des « blocs de construction » de          bureau d’études structure de l’opé-
+          d’éclatement.                                              50 ml à 70 ml de longueur dans les        ration doit préciser :
+      Δ   Des défauts de mise en œuvre                               régions tempérées.                        Δ  la configuration de l’ouvrage à
+          des appuis néoprène, de choix                              Si la dilatation prévue s’avère ino-         partir de vues en plans, coupes,
+          inadapté aux efforts à trans-                              pérante, la dimension entre joints           détails permettant la définition
+          mettre, ou encore non percés                               de blocs de construction peut se             des éléments structuraux : por-
+          à un diamètre supérieur à la                               trouver portée à 100 m voire à               tées, entraxes, sections transver-
+          broche dans le cas d’appui à                               140 m. Les déplacements effectifs            sales, côtes de niveau ;
+          déplacement.                                               se trouvent alors cumulés d’autant,       Δ  les hypothèses à prendre en
+      Δ   Oubli des méplats d’appui sur                              ce qui peut entraîner des effets de          compte pour le dimensionne-
+          poteaux en sous-face des ex-                               butée des composants béton entre             ment :
+          trémités des poutres posées                                eux.                                          √ charges appliquées,
+          avec des pentes supérieures à                              Ces effets de butée, en extrémité             √ tenue au feu,
+          1% (pour pente de couverture)                              de bloc, vont générer des efforts             √ sollicitations sismiques,
+          ou poutres posées à l’envers par                           non prévus en tête de poteau                  √ implantation des JD ;
+          confusion au montage (sens de                              provoquant dans ce dernier des            Δ  les détails de ferraillage des élé-
+          pose inversé).                                             contraintes de flexion complémen-            ments coulés en place pouvant
+                                                                     taires ainsi que des efforts anor-           interférer avec la pose des com-
+                               P > 1%
+                                                                     maux sur les massifs de fondations.          posants (attentes d’un poteau,
+                                                                     Le caractère inopérant du joint de           broches dans l’élément porteur,
+                                                                     dilatation prévu résulte majoritaire-        espaces d’appui sur les poutres
+          Risque
+          de contact
+                                                                     ment de défauts de mise en œuvre             ou les voiles).
+                                                                     au montage :
+                                                                     Δ  jeu bloqué par mauvais assem-          La qualité de ce dossier condition-
+           Absence de méplat            Pose inversée de la poutre      blage :                                nera la bonne exécution en aval et
+                                                                         √ boulons de liaison trop serrés,     évitera les improvisations sur le site
+      Δ Débordement ou migration par                                     √ absence de bagues-entretoises,      lors du montage, source indéniable
+          le dessous du mortier de scel-                                 √ jeu fonctionnel prévu au plan,      d’erreurs et de sinistres.
+          lement à retrait compensé lors                                   mais non respecté ;                 À partir du dossier du bureau
+          du remplissage des fourreaux                               Δ  mauvaise mise en œuvre des             d’études structure, le fabricant des
+          de broches par un surplus de                                  appuis néoprènes ne permet-            éléments béton établit les plans de
+          produit qui enrobe alors l’appui                              tant pas les déplacements (appui       fabrication et les détails d’assem-
+          néoprène en créant un point dur                               théoriquement glissant rendu           blage ainsi que le plan de mon-
+          dans l’appareil d’appui.                                      non glissant par le montage) ;         tage. Ces plans doivent intégrer les
+                                                                     Δ  création de points durs par l’utili-   contraintes de montage et de posi-
+          Cette anomalie obère le fonc-                                 sation de mortier de remplissage       tionnement des éléments structu-
+          tionnement de l’appui néo-                                    insuffisamment ductile au droit        raux en phase provisoire.
+          prène en générant une zone de                                 des fourreaux de broches sur           Les détails d’assemblage doivent
+          concentration d’efforts, donc                                 appuis ;                               définir :
+          de contrainte, préjudiciable au                            Δ  présence de chargements pa-            Δ  les dispositions d’étaiement pour
+          bon comportement du béton                                     rasites non prévus en phase               la mise en œuvre et les phases
+          dans la zone d’appui (risque                                  conception (stockage de charges           d’ouvrages provisoires ;
+          d’éclatement).                                                lourdes en excès en cours de
+                                                                        chantier) ;
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                               STRUCTURES ET GROS ŒUVRE                     FICHE
+                                                                      DÉSORDRES SUR OSSATURES EN                            B.06
+                                                                   ÉLÉMENTS PRÉFABRIQUÉS EN BÉTON                                3/4
+                                                                            ARMÉ OU PRÉCONTRAINT
+
+Δ les ferraillages complémentaires             Le responsable de la pose devra         Après réalisation des remplissages
+    (armatures en chapeaux, arma-              impérativement réceptionner les         des fourreaux de broches, les rési-
+    tures de couture, armatures de             ouvrages supports de l’ossature         dus de mortier ou de béton ayant
+    recouvrement dans les nœuds                préfabriquée avant de débuter la        pénétré entre la poutre et le sup-
+    de clavetage) ;                            pose. Les éléments de l’ossature        port seront enlevés en totalité.
+Δ   le détail des dispositifs d’appui          eux-mêmes doivent être vérifiés et      NB : depuis juillet 2011, les pro-
+    dont les appuis à glissement, mi-          réceptionnés à la livraison sur site.   cédés d’éléments de structure
+    cro-mortiers de calage… ;                  Lors de la pose, les hypothèses pré-    linéaires préfabriqués en béton
+Δ   les fonctionnalités requises et            vues et mentionnées sur les plans,      sont traditionnels du fait de la pa-
+    les jeux fonctionnels nécessaires          les dispositions d’armatures com-       rution au CSTB du constat de tradi-
+    dans les assemblages et jonc-              plémentaires et les caractéristiques    tionnalité N°3/10-668.
+    tions concernés ;                          des bétons et mortiers de clavetage     Ces éléments relèvent de la norme
+Δ   la classe de résistance et le type         et de scellement seront rigoureuse-     harmonisée NF EN 13225 : août
+    de béton ou de mortier de scelle-          ment respectées.                        2013 « Produits préfabriqués en bé-
+    ment à mettre en œuvre.                    Une attention particulière sera         ton - Éléments de structure linéaires »
+                                               portée par le monteur aux assem-        et les ouvrages de la NF DTU 23.3 :
+Ces détails doivent être définis               blages devant conserver des liber-      juin2008 « Travaux de bâtiments –
+en concertation entre le bureau                tés de déplacements (glissement)        ossatures en éléments industrialisés
+d’études structure de l’opération, le          et le montage devra préserver cette     en béton »
+BET du fabricant et l’entreprise qui,          possibilité. Dans le cas d’appui avec   La marque NF est une démarche
+au final, les mettra en œuvre. Leur            déplacement relatif, l’espace entre     complémentaire de certification vo-
+validation par le contrôleur tech-             abouts ou éléments doit être            lontaire garantissant les caractéris-
+nique est à obtenir.                           conforme au plan de pose et vérifié     tiques des produits aux exigences
+                                               comme tel.                              du NF DTU23.3
+
+
+
+    À CONSULTER
+    Δ DTU 23.3 (P19-202) : Ossatures
+      en éléments industrialisés en
+        béton
+    Δ NF  EN 13225 Août 2013
+      « Produits préfabriqués en béton
+        - Éléments de structure linéaires »
+    Δ DTU  23.2 (P19-201) : Planchers
+      à dalles alvéolées préfabriquées
+        en béton
+    Δ Eurocode  2 : « Calcul des struc-
+      tures en béton »
+    Δ NF EN 206/CN (Décembre 2014)
+      « Béton - Spécification, perfor-
+        mance, production et conformité »
+    Δ CERIB « Guide de mise en œuvre
+      pour les éléments linéaires de
+        structure préfabriqués en béton »
+        (Ref. 33 E- juin 2005)                    L’ESSENTIEL
+    Δ   FIB - CERIB « Recommandations
+        professionnelles pour les assem-
+        blages entre éléments d’ossature »
+                                                  Δ Les éléments de l’ossature doivent être vérifiés et réceptionnés
+                                                    à la livraison sur site.
+
+    Δ
+        (Ref. DDE 09- juin 2001)
+        SETRA «Guide technique - Appa-            Δ Respecter rigoureusement au montage les stipulations du plan
+        reils d’appui en élastomère fretté »        de pose, notamment en matière de configuration d’appui.
+        (2007)                                    Δ Les joints de dilatation prévus doivent être effectivement opé-
+    Δ   Avis techniques ATE + DTA pour
+        les produits et procédés autres
+                                                     rationnels et le montage doit respecter les jeux fonctionnels
+                                                     prévus et respecter les déplacements relatifs prévus.
+        que traditionnels
+
+
+                 >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           STRUCTURES ET GROS ŒUVRE
+B.06            DÉSORDRES SUR OSSATURES EN
+4/4             ÉLÉMENTS PRÉFABRIQUÉS EN BÉTON
+                ARMÉ OU PRÉCONTRAINT
+
+      4. L’ŒIL DE L’EXPERT
+                                                                 Fissuration de corbeau en BA sur structure en béton
+                                                                 précontraint. Armatures insuffisantes dans le corbeau.
+                                                                 Report de charges dans la section réduite du corbeau
+                                                                 mal étudié ?
+
+
+
+
+      Photo: © AQC - SARETEC-DT – 2007
+
+
+                                                                 Fissuration au niveau de l’appui glissant d’une console
+                                                                 d’appui BA de poutre en béton précontraint. L’about de
+                                                                 la console de section réduite n’a pas une section suffi-
+                                                                 sante (et les armatures?) pour reprendre les charges
+                                                                 décalées par l’appui glissant.
+
+
+
+
+      Photo: © AQC - SARETEC-DT – 2007
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

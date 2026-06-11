@@ -1,0 +1,151 @@
+                                                                              TOITURES ET CHARPENTES                  FICHE
+                                                                                                                      C.04
+                                                                                                                           1/3
+                                          DÉFORMATIONS
+                                          DE FERMETTES
+                      Photo © DR - AQC
+                                          INDUSTRIELLES
+
+1. LE CONSTAT
+La couverture peut présenter des déformations             En revanche, on recense des sinistres en rénovation, lorsque
+visibles, avec des tuiles qui ne sont plus alignées :     l’aménagement des combles entraîne une coupe des fermettes
+c’est le signe d’une déformation (fléchissement,          exécutée sans discernement, sans étude spécifique des prin-
+déversement) de la charpente industrialisée.              cipes de stabilité forcément affectés.
+
+
+
+
+2. LE DIAGNOSTIC                          (risque de déversement). La situa-      des barres rejoignant les nœuds,
+                                          tion peut devenir critique par temps    ou barres filantes, appelées aussi
+Les charpentes industrialisées en         de vent.                                « lisses sur entrait ».
+bois assemblées par des connec-           Pour s’opposer à ces déforma-
+teurs métalliques sont utilisées          tions, il convient donc de mettre en    Dimensionnement et calculs
+pour les maisons d’habitation, mais       œuvre des barres antiflambement         Des erreurs de dimensionnement
+aussi des bâtiments plus vastes tels      et de contreventement, conformé-        ou de calcul peuvent aussi être
+que des magasins ou des hangars.          ment au plan de pose fourni par le      source de désordres. Les fer-
+                                          fabricant.                              mettes sont le plus souvent dimen-
+Flambement et                                                                     sionnées par ordinateur, ce qui
+déversement                                                                       sous-entend que les hypothèses de
+La plupart des déformations af-                                                   calcul cadrent avec la réalité. La mo-
+fectant ces fermettes proviennent                                                 délisation doit prendre en compte
+du flambement ou du déversement                                                   les lignes d’épure et les conditions
+des pièces comprimées (arbalé-                                                    d’appui (rotule, appui glissant…). Les
+triers, diagonales). En effet, le poids                                           charges ponctuelles telles que les
+de la couverture et des plafonds                                                  souches de cheminée ou les pos-
+génère dans les barres constituant                                                sibilités d’accumulation de neige ne
+les fermettes des efforts de traction                                             doivent pas être sous-estimées.
+ou de compression. Or, les pièces                                                 Le calcul doit concerner également
+de bois utilisées sont parfois de                                                 les formes spéciales (tronquées
+faible épaisseur (36 mm) et pour-                                                 ou dissymétriques), telles que les
+tant longues de plusieurs mètres.                                                 fermes de chien-assis, de fenêtre
+La compression qui transite dans                                                  de toit ou sur trémie d’escalier, su-
+ces pièces peut provoquer un flam-                                                jettes à déformations particulières.
+bement : un arbalétrier se déforme,
+il entraîne ses voisins attachés par                                              Mise en œuvre
+les liteaux et c’est l’ensemble de la     En rouge : les barres venant s’oppo-    Les fermettes doivent être réguliè-
+charpente qui est affecté.                ser au flambement des arbalétriers,     rement espacées et parfaitement
+Le phénomène peut conduire à              appelées aussi « antiflambage ». En     solidarisées au gros œuvre. Leur
+un effondrement de la toiture, no-        bleu : les barres dites de contreven-   verticalité doit être soignée.
+tamment lorsque les pignons sont          tement apportant à la charpente
+contreventés par la charpente             sa stabilité d’ensemble. En vert :
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            TOITURES ET CHARPENTES
+C.04             DÉFORMATIONS DE FERMETTES
+2/3              INDUSTRIELLES
+
+      Il conviendra de ne pas poser               Ces documents apportent no-           Δ Vérifier le traitement préalable de
+      une fermette qui se serait dé-              tamment toutes les informations           la charpente (termites, insectes
+      formée pendant le transport ou              utiles sur :                              xylophages, champignons).
+      qui aurait été mal stockée (une             √  les charges à prendre en           Δ   Prendre en compte les condi-
+      fermette gauche se déformera                   compte ;                               tions du site (altitude, effet de
+      anormalement).                              √  la qualité des bois à retenir ;        site…) dans la détermination des
+                                                  √  les modalités de calcul et les         actions de vent et de neige.
+                                                     déformations acceptables ;         Δ   Respecter scrupuleusement le
+      3. LES BONNES                               √  les dispositifs permettant d’as-       plan de pose fourni par le fabri-
+      PRATIQUES                                      surer la stabilité (contrevente-       cant, qui doit être détaillé et ex-
+                                                     ment, antiflambement) ;                plicite quant à la disposition des
+      Δ Respecter les règles de concep-           √  la fixation des fermettes (en          barres assurant la stabilité du
+        tion, de mise en œuvre et de                 particulier dans les zones             montage. Les poseurs doivent
+        calcul prévues par le DTU 31.3 et            sismiques).                            avoir reçu une formation spécia-
+        l’Eurocode 5.                                                                       lisée dans la lecture de ces plans.
+                                                                                        Δ   Veiller à l’aplomb des fermettes.
+
+
+
+
+        À CONSULTER
+        Δ Eurocode
+          structures
+                     1 - Actions sur les
+
+        Δ NF P21-400 : Bois de structure et
+          produits à base de bois - Classes
+                                                  L’ESSENTIEL
+            de résistance et contraintes ad-      Δ Se conformer au DTU 31.3 et aux règles CB71.
+        Δ
+            missibles associées
+            NF DTU 31-3 : Charpentes en bois
+                                                  Δ Poser les fermettes conformément au plan de pose fourni par
+                                                    le fabricant.
+            assemblées par connecteurs mé-
+            talliques ou goussets                 Δ Pour toute intervention ultérieure ayant une incidence sur la te-
+        Δ   NB : la partie 3 du DTU parle de
+            règles de conception…. Elle a été
+                                                      nue de la charpente, recourir systématiquement à un nouveau
+                                                      calcul de résistance et de stabilité par un BET spécialisé et à un
+            rédigée de manière à permettre à
+                                                      professionnel qui saura tenir compte des nouveaux reports de
+            l’utilisateur d’effectuer un dimen-
+            sionnement suivant l’Eurocode 5           charges découlant des travaux modificatifs.
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                              TOITURES ET CHARPENTES                   FICHE
+                                                                    DÉFORMATIONS DE FERMETTES                          C.04
+                                                                                INDUSTRIELLES                             3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                             Déchaussement de connecteur suite à déformation
+                                                             verticale. Les connecteurs métalliques de fermettes
+                                                             sont dimensionnés et assemblés sous presse en ate-
+                                                             lier, en fonction des efforts agissant entre les deux
+                                                             éléments assemblés. Ici, la déformation verticale des
+                                                             arbalétriers par flexion a provoqué l’apparition d’efforts
+                                                             trop importants dans les ancres des connecteurs.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                                             Déchaussement de connecteur suite à déformation
+                                                             horizontale. Les connecteurs métalliques de fermettes
+                                                             sont dimensionnés et assemblés sous presse en ate-
+                                                             lier en fonction des efforts agissant entre les deux élé-
+                                                             ments assemblés. Ici, la déformation horizontale des
+                                                             pièces par traction a provoqué l’apparition d’efforts
+                                                             trop importants dans les ancres des connecteurs.
+
+
+
+
+Photo: © AQC SARETEC – 2009
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

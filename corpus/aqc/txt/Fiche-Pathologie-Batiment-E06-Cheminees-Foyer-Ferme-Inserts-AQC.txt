@@ -1,0 +1,185 @@
+                                                                                            ÉQUIPEMENTS              FICHE
+                                                                                                                      E.06
+                                                                                                                          1/3
+
+
+
+                                        CHEMINÉES À FOYER
+                     Photo © DR - AQC   FERMÉ ET INSERTS
+1. LE CONSTAT
+Les cheminées à foyer fermé et les inserts, dont l’as-        péennes sous le vocable unique « inserts », ils ont été
+pect extérieur est très proche des cheminées à feu            à l’origine de nombreux sinistres d’incendie, principa-
+ouvert, sont en fait des poêles dont la conception et le      lement liés à leur comportement thermique et aux
+design permettent de voir les flammes au travers de la        températures très élevées pouvant être atteintes par
+vitre équipant la porte.                                      les gaz de combustion. Le coût des réparations est sou-
+Regroupés selon les définitions de normes euro-               vent, par nature, important.
+
+
+
+
+2. LE DIAGNOSTIC
+                                            hotte, du conduit de raccorde-             ordonnant la diffusion de
+La combustion de bois nécessite             ment ou du conduit de fumée).              mises en garde et de précau-
+un apport de comburant (oxygène             La hotte surplombant le foyer est          tions d’installation lors de la
+contenu dans l’air). Dans le cas            l’ouvrage le plus sensible. Il faut        mise en vente d’inserts et de
+d’une cheminée à foyer ouvert,              donc éviter tout piège à calories          foyers fermés de cheminée
+celui-ci est toujours largement             permettant de dépasser une                 utilisant le bois comme com-
+excédentaire, ce qui a pour effet           température de 105/110 °C, qui             bustible ;
+de refroidir les fumées et le foyer.        engendrerait un début de car-          √   le décret n° 93-1185 du 22
+Dans le cas des inserts, une régu-          bonisation des pièces en bois (et          octobre 1993 pour les inserts
+lation du débit d’air est possible          autres matériaux combustibles),            antérieurs au 1er septembre
+(ce qui améliore le rendement), et          voire d’auto-inflammation à par-           2008 et non marqués CE ;
+seule la quantité d’air nécessaire à        tir de 250/275 °C ;                    √   la directive européenne « pro-
+la combustion est introduite dans       Δ   étanchéité     défectueuse       ou        duits de construction » pour les
+le foyer. Il en résulte des tempé-          déboîtement entre le conduit               inserts commercialisés après
+ratures de gaz brûlés et du foyer           de raccordement et le con-                 le 1er septembre 2008 (cf.
+beaucoup plus élevées, pouvant              duit de fumée en attente au                arrêté du 22 août 2008) ;
+provoquer d’importants échauffe-            plafond.                               √   le décret n° 2012-1489 du
+ments des ouvrages proches du                                                          27 décembre 2012 pris pour
+foyer avec, dans les cas extrêmes,                                                     l’exécution du règlement (UE)
+des risques d’incendie.                 3. LES BONNES                                  n° 305/2011 du Parlement
+Les causes des désordres sont de        PRATIQUES                                      européen et du Conseil du
+trois ordres :                                                                         9 mars 2011 établissant des
+Δ  présence       de       matériaux    Δ Veiller à la qualité des produits.           conditions harmonisées de
+   inflammables à proximité des             L’étiquetage et la vente des               commercialisation pour les
+   conduits (traversée de plancher          inserts sont réglementés par :             produits de construction et
+   bois, parements décoratifs, habil-       √  l’arrêté du 14 novembre 1991            abrogeant la directive 89/106/
+   lage du conduit…) ;                         en ce qui concerne les condi-           CEE du Conseil ;
+Δ  création de pièges à calories               tions de vente ;
+   (mauvaise conception de la               √  l’arrêté du 14 novembre 1991
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            ÉQUIPEMENTS
+E.06             CHEMINÉES À FOYER
+2/3              FERMÉ ET INSERTS
+
+
+          √ le respect de la norme euro-        CONDUIT DE RACCORDEMENT SUR CONDUIT                                           RÉALISATION DE LA HOTTE
+             péenne      EN-13229     appor-      DE FUMÉE MÉTALLIQUE OU MAÇONNÉ
+             tant une présomption de                                             Inférieure à 45°   Aération 20 cm2                                                           Conduit de fumée
+             conformité.                                                         (20° conseillé)
+                                                                                                                                                                              Distance de sécurité
+
+      Δ   Concevoir la hotte de manière          Conduit
+                                                 de fumée
+                                                                           Exemple : inox isolé
+                                                                           double paroi ou tubage
+                                                                           dans boisseau existant
+                                                                                                                                                                              Isolant incombustible
+
+          à éviter les pièges à calories,                               Une seule partie non verticale
+          en accordant une importance                                                                                       Faux               Orifices de ventilation
+                                                                                                                                                                                       30 cm
+                                                                                                                                                                                       minimum
+                                                                                                                            plafond
+          particulière à sa ventilation (voir
+                                                                        Si nécessaire, rétrécissement                                                                         Grille de ventilation
+          NF DTU 24.2) afin d’éviter toute       Conduit de             possible au niveau du                                                                                 minimum 500 cm2
+          surchauffe (voir schéma).              racordement            raccordement
+                                                                                                                                                                              Isolation si nécessaire
+      Δ   Calfeutrer          soigneusement
+          les communications avec les                                     Buse                                                                            20 mm
+                                                                                 ≥   Buse                                                                                            Présence de
+          faux-plafonds et compléter par                       Insert
+                                                                                                                                                                                     matériau
+                                                                                                                                                                                     combustible
+          une isolation thermique.                                                                                                                                                   dans la paroi
+      Δ   Ventiler     l’espace     annulaire                               Conduit maçonné
+          (grilles de 20 cm² minimum de                                                                                                                                  Doublage par matériau
+                                                                                                                                                                         incombustible en cas de
+          section libre).                                                                                Amenée d’air                                                    présence de matériau
+
+      Δ   Protéger les ouvrages situés
+                                                                                                         comburant                                                       combustible dans les parois
+
+          à proximité du foyer, soumis                                      Scellement
+                                                                            au mortier                                         Distance de
+                                                                                                                                                                         Isolant : A1 ou MO,
+                                                                                                                                                                         A2-sl, d0
+          à échauffement par rayonne-                                       Pièce spéciale                                     sécurité                                  - 30 mm laine de roche + alu
+                                                                                                                               (voir notice                              - silicate de calcium
+          ment et convection. Éviter la                                    Emboîtement                                         constructeur)
+                                                                                                                                                                         Distance de sécurité
+          présence dans cette zone de                                      40 mm min
+
+          tous matériaux combustibles ou                                    Conduit de
+                                                                            raccordement                                          Si plancher bois : réalisation d’un chevêtre béton incombustible
+          dégradables sous l’action de la
+          chaleur. La mise en place d’iso-
+          lants incombustibles et/ou d’une          de température est supérieure                                           d’un élément permettant le
+          lame d’air ventilée sont souvent          ou égale à la température des                                           ramonage du conduit, pour évi-
+          nécessaires. L’habillage du foyer         fumées de l’appareil en fonction-                                       ter toute accumulation de suie
+          doit être réalisé en matériaux            nement à puissance nominale.                                            risquant de favoriser le départ
+          incombustibles. Le bois est néan-     Δ   Procéder au diagnostic d’un                                             d’un feu de cheminée. Le raccor-
+          moins autorisé, notamment pour            conduit de fumée existant : il                                          dement doit permettre les ramo-
+          réaliser des linteaux décoratifs.         doit s’agir d’un conduit individuel.                                    nages successifs sans risque de
+          Dans la plupart des cas, une              Il est nécessaire de s’assurer de                                       déboîtement ou de détérioration
+          isolation thermique des parois            son état (vacuité, étanchéité,                                          du conduit de raccordement. Le
+          soumises au rayonnement direct            isolation, section, distance de                                         conduit doit déboucher dans le
+          doit alors être mise en place             sécurité) et de sa compatibilité                                        local où va être situé le foyer.
+          pour éviter toute élévation de            avec le foyer à installer. Une                                      Δ   Entretenir le système : décen-
+          température supérieure à 80 °C.           inspection vidéo, avec clichés                                          drage régulier, vérification du
+      Δ   Vérifier le bon dimensionne-              photos permet une inspection                                            raccordement au conduit, et
+          ment du conduit de fumée                  exhaustive du conduit. Seule une                                        ramonage deux fois par an,
+          métallique, en cas de raccorde-           visite de la souche permet de                                           dont une pendant la période de
+          ment direct à l’aide de la norme          vérifier son étanchéité à la pluie                                      chauffe. Le ramonage s’impose
+          EN 13 384, ou d’un logiciel de            et la conformité du débouché                                            d’autant plus lorsque le bois est
+          calculs, ou d’abaques (cf règles          (40 cm au-dessus du faîtage, …).                                        de moindre qualité. Les grilles
+          RAGE).                                    L’ensemble du raccordement                                              de ventilation, volets de tirage,
+      Δ   Vérifier avant raccordement la            entre conduit de raccordement                                           déflecteurs, et autres éléments
+          compatibilité du conduit avec             et conduit de fumée doit être                                           de ventilation doivent égale-
+          son utilisation : il faut choisir         parfaitement étanche. La jonc-                                          ment être nettoyés deux fois par
+          des composants dont la classe             tion doit être réalisée à l’aide                                        an minimum.
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                                                  CHEMINÉES À FOYER                    E.06
+                                                                                   FERMÉ ET INSERTS                      3/3
+
+
+
+                                             L’ESSENTIEL
+   À CONSULTER                               Δ Veiller à la qualité de l’insert et proscrire son
+                                               surdimensionnement.
+   Δ NF  DTU 24.1 : Travaux de
+     fumisterie                              Δ Concevoir la hotte dans le respect du NF DTU 24.2.
+   Δ NF DTU 24.2 : Travaux d’âtrerie         Δ Respecter la distance de sécurité, fonction de la nature des
+   Δ NF  EN 13384-1 : Conduits de              conduits.
+     fumée – méthode de calcul
+       thermo-aéraulique
+                                             Δ Conduit de fumée existant : faire un diagnostic selon l’annexe
+                                               C du NF DTU 24.1.
+   Δ Règlement     sanitaire départemen-
+     tal : Article 31 – conduits de fumée    Δ Entretenir en s’aidant d’un carnet d’entretien et de vérification
+       et de ventilation – appareils à          reprenant les contrôles nécessaires et leur fréquence.
+       combustion
+
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Incendie provoqué par une distance de sécurité insuffisante.
+                                                       S’agissant d’un assemblage entre un conduit rigide et un
+                                                       conduit souple, la distance minimale de sécurité n’a pas été
+                                                       respectée. La tentative de «protection» par un écran en laine
+                                                       de roche n’a pas empêché l’échauffement de la pièce de bois
+                                                       trop proche. Le raccordement s’effectue dans l’épaisseur
+                                                       d’un plancher bois, dans le faux-plafond, ce qui est interdit.
+                                                       Ce raccordement n’a pas été réalisé par une pièce d’assem-
+Photo © DR - AQC                                       blage adaptée, mais par un simple adhésif.
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

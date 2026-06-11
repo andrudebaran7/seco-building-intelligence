@@ -1,0 +1,261 @@
+                                                                                            ÉQUIPEMENTS               FICHE
+                                                                                                                       E.14
+                                         INSTALLATIONS                                                                     1/5
+
+
+
+                                         PHOTOVOLTAÏQUES
+                      Photo © DR AQC     EN MILIEU TROPICAL
+1. LE CONSTAT
+Les DROM disposent de taux d’équipement en pan-               des compléments d’étanchéité entre les fixations de
+neaux photovoltaïques élevés par rapport aux dépar-           l’ossature primaire des panneaux et la tôle de cou-
+tements métropolitains. Ces équipements sont soumis           verture (écrasement des joints par serrage excessif,
+dans le même temps au risque cyclonique.                      absence de joint, etc.). Ces pathologies sont abordées
+                                                              dans la fiche C09 « couverture en milieu tropical »
+Deux modes de pose des panneaux photovol-
+taïques sont utilisés :                                       Les panneaux intégrés font l’objet d’une pathologie
+Δ  en surimposition sur des ossatures en profilé alumi-       spécifique, liée principalement à des infiltrations.
+   nium, système fixé sur les pannes de la couverture
+   existante. C’est de loin, le mode le plus courant dans     Les autres désordres sont liés à des défauts de rende-
+   les DROM;                                                  ment des panneaux photovoltaïques, rendant caduque
+Δ  en système dit « intégré à la couverture », les pan-       l’intérêt d’une telle installation dont les matériaux de
+   neaux et leur système d’étanchéité étant installés         base sont coûteux.
+   dans le plan de la toiture en substitution des élé-
+   ments du clos et couvert.                                  Un autre point d’attention doit être souligné : la prise
+                                                              au vent des procédés en surimposition relativement au
+Les principaux dommages en relation avec les pan-             risque vent et cyclone.
+neaux en surimposition relèvent de défauts de pose
+
+
+
+
+2. LE DIAGNOSTIC                            les embases des panneaux et             la pente), les installations de pan-
+                                            les tôles dont les profils sont         neaux intégrés les multiplient.
+Causes principales                          différents.                             Ces points sont l’objet d’infiltra-
+Infiltrations par panneaux inté-            Les variations dimensionnelles          tions par effet de siphonnage
+grés en couverture                          de ces interstices et le linéaire       en raison de la différence de
+Δ  Des infiltrations par les jonc-          important de ces dispositions           pression      intérieure/extérieure
+   tions entre la couverture exis-          délicates en font un point faible       et des débits d’eaux pluviales
+   tante conservée et les panneaux          vis-à-vis du risque d’infiltration.     importants.
+   photovoltaïques.                     Δ   Des infiltrations entre les jonc-       La plupart du temps, ces points
+   Les profilés des embases des             tions de panneaux.                      sensibles disposent de complé-
+   panneaux          photovoltaïques,       Chaque panneau photovoltaïque,          ments d’étanchéité de type joint
+   conçus en Europe continentale,           d’une surface variable comprise         EPDM comprimé entre les tôles
+   sont uniquement de type ner-             entre 1 et 2 m² selon le modèle,        ou mastic polyuréthane.
+   vuré et leurs caractéristiques           est disposé sur une embase en           Toutefois, le linéaire important
+   géométriques peuvent différer            panneau de type nervuré.                de ces points singuliers implique
+   de celles des panneaux fabri-            Alors que le DTU 40.35 et les           un soin particulier de mise en
+   qués localement.                         règles tropicales préconisent de        œuvre des joints avec fond de
+   Les calfeutrements sont réali-           limiter le nombre de recouvre-          joint et choix de mastic disposant
+   sés au mastic polyuréthane afin          ments transversaux des tôles            de label adapté à leur utilisation
+   de remplir les interstices entre         (perpendiculairement au sens de         (label SNJF 1ère catégorie).
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            ÉQUIPEMENTS
+E.14             INSTALLATIONS PHOTOVOLTAÏQUES
+2/5              EN MILIEU TROPICAL
+
+
+      Δ Un phénomène d’usure pré-                    semble du panneau, la puissance            ment peut entraîner l’envol d’un
+          maturée      des      compléments          de chaque cellule montée en                panneau et de ceux reliés à ce
+          d’étanchéité.                              série s’alignant sur la plus faible.       dernier.
+          Par destination, les panneaux              La présence d’ombres portées
+          et leur mastic d’étanchéité sont           sur les panneaux a également           Les autres causes de
+          particulièrement exposés aux UV            une incidence : elle est liée à la     désordres
+          sur la quasi-totalité de la journée.       pousse de végétaux avoisinants
+          Ces mastics, habituellement                dont la croissance est très rapide     Δ Un risque d’échauffement et
+          posés en façade, sont exposés              dans les régions tropicales et/ou          d’incendie des boîtiers de rac-
+          aux rayonnements UV avec une               par l’ajout d’antennes, de para-           cordement, de dérivation et des
+          incidence bien plus importante             boles, de conduits de ventilation,         onduleurs.
+          en toiture.                                etc.                                   Δ   Un indice de protection IP du
+          Enfin, la température de la tôle                                                      matériel électrique, notamment
+          dépasse facilement 50 °C sur plu-      Panneaux en surimposition                      les onduleurs, inadapté à son
+          sieurs heures (plus de 4 heures)       Les principaux dommages d’infiltra-            exposition aux projections d’eau.
+          pour les journées ensoleillées.        tions correspondent à des défauts          Δ   L’existence de points d’infiltra-
+          L’ensemble de ces facteurs             de pose des compléments d’étan-                tions en amont des panneaux
+          entraîne une usure prématurée          chéité entre les fixations de l’ossa-          sur la couverture conservée
+          des compléments d’étanchéité           ture primaire des panneaux et la               (mauvais diagnostic de l’existant).
+          et notamment des mastics.              tôle de couverture ou bien à des           Δ   Une pente insuffisante de la
+                                                 traversées de couverture inadap-               couverture initiale ne répondant
+      Faibles rendements de                      tées. Pour ces ouvrages rapportés              pas aux règles tropicales des
+      l’installation. Ils sont liés à :          en couverture, qui ont été installés           couvertures (15 % pour les tôles
+      Δ   une mauvaise estimation de l’ef-       de façon très importante dans les              nervurées, 25 % pour les tôles
+          ficacité des panneaux aux micro-       territoires ultramarins depuis une             ondulées).
+          climats nombreux, en fonction          dizaine d’années, les risques d’arra-      Δ   La décoloration d’encapsulant
+          de l’altitude et des zones dites       chement sont liés :                            EVA (Éthylène Vinyle Acétate) liée
+          exposées « aux vents » ou « sous       Δ  au défaut de prise en compte                à l’exposition aux UV. Ceci induit
+          le vent » ;                               des symptômes surimposés. Il                une production d’acide acétique
+      Δ   une mauvaise configuration ini-           faut vérifier que la charpente              et une corrosion des rubans
+          tiale de la couverture, dont l’ex-        support soit dimensionnée en                métalliques qui assurent la
+          position n’est pas optimale pour          conséquence ;                               jonction électrique entre les cel-
+          la zone considérée.                    Δ  aux fixations des ossatures des             lules. Cette dégradation génère
+          Nota : la plupart des construc-           panneaux solaires directement               des     micro-arcs    électriques,
+          tions traditionnelles et des habi-        sur la tôle et non sur les pannes ;         une baisse de production et un
+          tations répondant aux critères         Δ  à une mauvaise évaluation ou                risque incendie.
+          de la RTAA DOM, évitent l’exposi-         diagnostic de l’état de l’ossature      Δ   Les dysfonctionnements élec-
+          tion directe des toitures au soleil       existante (état de corrosion ou             triques liés à des câbles immer-
+          afin de limiter l’élévation de tem-       dimensionnement) ; la durée                 gés dans l’eau (câbles enterrés),
+          pérature dans les locaux ;                d’exploitation des centrales étant          des défauts d’isolement de l’on-
+      Δ   une faible pente de la couver-            de 19 ans, l’évolution de l’état du         duleur, un onduleur en défaut,
+          ture favorisant l’accumulation de         site est à anticiper (proximité du          ou le vieillissement prématuré
+          poussière et limitant l’autocurage        front de mer ou agressivité du              des câbles (câbles non gainés et
+          lors des pluies ;                         site notamment) ;                           inadaptés à l’exposition aux UV).
+      Δ   un défaut d’entretien et de net-       Δ  au fait que les cadres alumi-
+          toyage des panneaux.                      nium des panneaux ne pouvant
+          La présence d’une salissure sur           pas être percés, leur maintien
+          une partie d’une cellule compo-           est assuré par des profilés les
+          sant le panneau entraîne une              plaquant sur les ossatures. Le
+          perte de performance sur l’en-            défaut de serrage d’un seul élé-
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                              ÉQUIPEMENTS             FICHE
+                                                               INSTALLATIONS PHOTOVOLTAÏQUES                           E.14
+                                                                           EN MILIEU TROPICAL                              3/5
+
+
+3. LES BONNES                               des panneaux et la tôle existante.    Δ Établir avant pose, en cas de
+PRATIQUES                               Δ Définir les compléments d’étan-             pose en surimposition, un dia-
+                                            chéité ainsi que les mastics adap-        gnostic de l’état des existants.
+Les couvertures en panneaux pho-            tés (voir également la fiche C9 :     Δ   Faire valider par un bureau de
+tovoltaïques restent une installation       Infiltrations d’eau des couvertures       contrôle les systèmes de fixation.
+demandant des compétences à la              en milieu tropical).                  Δ   Utiliser des profilés de qua-
+fois en diagnostic, en conception de                                                  lité marine pour les systèmes,
+couverture et enfin, en électricité.    Les études préalables à la pose des           d’autre part, éviter les couples
+                                        panneaux photovoltaïques pour                 galvaniques.
+Δ Réaliser un diagnostic de la cou-     l’évaluation du rendement de l’ins-       Δ   Vérifier que le domaine d’emploi
+    verture existante avant travaux     tallation doivent tenir compte :              de panneaux bénéficie d’un Avis
+    (pente, usure, corrosion, type      Δ  du niveau d’ensoleillement du site         Technique permettant leur utili-
+    de matériaux pour éviter les           selon les données de la station            sation dans les DROM (résistance
+    contacts alu/acier).                   météo locale la plus proche et en          au vent, ossature de maintien
+Δ   Utiliser des panneaux sous Avis        prenant en compte une moyenne              adaptée).
+    Techniques adaptés aux régions         sur 5 années minimum ;                 Δ   Soigner la mise en œuvre des
+    tropicales.                         Δ  des ombres portées sur les pan-            panneaux et réaliser avec soin
+Δ   Étudier la position des panneaux       neaux comme les végétaux ou                l’ensemble des points singu-
+    pour limiter le nombre de points       lignes électriques (chaque pan-            liers (traversées de couvertures,
+    singuliers.                            neau connecté en série a comme             recouvrements…).
+Δ   Prévoir le passage des câbles          limite de puissance celle du           Δ   Vérifier minutieusement les
+    électriques par les sous-rives et      panneau le plus faible. L’ombre            mécanismes de maintien et de
+    éviter les traversées de tôles de      portée sur un seul panneau aura            serrage des panneaux en raison
+    couverture en partie courante.         une incidence sur tous les pan-            de l’effet domino potentiel dans
+Δ   Dimensionner le système de fixa-       neaux reliés sur la même série) ;          le cas de l’envol d’un panneau.
+    tion pour renforcer la résistance   Δ  de l’orientation des panneaux,
+    aux vents.                             les     couvertures     existantes     Nota : les systèmes intégrés pré-
+Δ   Prévoir des profilés de jonction       n’ayant pas toujours l’orientation     sentent des risques importants de
+    spécifiques entre les embases          optimale.                              défaut d’étanchéité et de risque
+                                                                                  d’incendie.
+
+
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            ÉQUIPEMENTS
+E.14             INSTALLATIONS PHOTOVOLTAÏQUES
+4/5              EN MILIEU TROPICAL
+
+
+
+
+        À CONSULTER
+        Δ Série 40 des DTU, y compris le DTU
+          40.35 relatif aux couvertures en
+            tôle de grands éléments et de la
+            couverture
+        Δ   NF C 15-100
+            - Installations électriques à basse
+            tension
+        Δ   UTE C15 712 Installations élec-
+            triques à basse tension
+            - Guide pratique
+            - Installations photovoltaïques.
+        Δ   Règles de pose des couvertures en
+            région tropicale
+        Δ   Avis Techniques des panneaux
+            photovoltaïques
+        Δ   NF EN 50548
+            - Boîtier de jonction pour modules
+            photovoltaïques
+        Δ   NF EN 62446
+            - Systèmes          photovoltaïques
+            connectés au réseau électrique -
+            Exigences minimales pour la docu-
+            mentation du système, les essais de
+            mise en service et l’examen
+        Δ   NF EN 50583
+            - Éléments photovoltaïques dans la
+            construction
+        Δ   NF EN 50380
+            - Spécifications particulières et
+            informations sur les plaques de
+            constructeur pour les modules         L’ESSENTIEL
+        Δ
+            photovoltaïques
+            NF EN 61215 - Modules photo-          Δ Respecter les précautions de pose et des points singuliers des
+            voltaïques (PV) au silicium cris-         Avis Techniques des panneaux, relativement aux référentiels
+            tallin pour application terrestre         (DTU et règles tropicales) des couvertures.
+            - Qualification de la conception et
+            homologation
+                                                  Δ   Prendre en compte l’aspect, la compétence, qualification et for-
+                                                      mation des personnels. La pose de ce type d’installation néces-
+        Δ   NF EN 61646 - Modules pho-
+            tovoltaïques (PV) en couches              site donc du personnel qualifié en couverture tôle mais aussi
+            minces pour application terrestre         formé aux risques électriques.
+            - Qualification de la conception et
+            homologation
+                                                  Δ   Réaliser la mise en œuvre des panneaux avec soin, toute
+                                                      défaillance de pose entraînant de facto des incidences sur les
+        Δ   NF EN 61730 - Qualification pour
+            la sûreté de fonctionnement des           existants, en raison des risques d’infiltration mais aussi sur l’ex-
+            modules photovoltaïques (PV)              ploitation des panneaux en cas de réparation.
+        Δ   NF EN 61727 - Systèmes photo-
+            voltaïques (PV) - Caractéristiques
+                                                  Δ   Prêter attention aux risques inhérents à ce type d’installation,
+                                                      les panneaux étant sous tension dès exposition aux rayonne-
+            de l’interface de raccordement au
+            réseau                                    ments solaires.
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                             ÉQUIPEMENTS                FICHE
+                                                                INSTALLATIONS PHOTOVOLTAÏQUES                           E.14
+                                                                            EN MILIEU TROPICAL                            5/5
+
+
+4. L’ŒIL DE L’EXPERT
+                                                        Recouvrement panneaux.
+
+
+
+
+Photo : © SARETEC - Pierre LAMORIL
+
+
+                                                        Détail de rive haute jonction panneaux - tôle ondulée.
+
+
+
+
+Photo : © SARETEC - Pierre LAMORIL
+
+
+                                                        Absence de compléments panneaux - tôle égout.
+
+
+
+
+Photo : © SARETEC - Pierre LAMORIL
+
+
+
+
+Pour en savoir plus :
+                                                                              Retrouvez l’ensemble des
+                                                                              Fiches pathologie bâtiment sur :
+                                                                              www.qualiteconstruction.com
+                                                                              et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

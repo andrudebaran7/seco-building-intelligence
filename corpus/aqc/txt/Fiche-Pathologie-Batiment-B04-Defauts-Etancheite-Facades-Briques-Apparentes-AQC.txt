@@ -1,0 +1,178 @@
+                                                                               STRUCTURES ET GROS ŒUVRE                               FICHE
+                                                                                                                                      B.04
+                                                                                                                                        1/3
+                                            DÉFAUTS D’ÉTANCHÉITÉ
+                                            DES FAÇADES EN BRIQUES
+                           Photo: © AQC     APPARENTES
+
+1. LE CONSTAT
+Bien que de technique typiquement traditionnelle, les
+façades en briques apparentes, notamment les plus
+anciennes, sont à l’origine de nombreux sinistres liés
+aux infiltrations d’eau.
+
+
+
+
+2. LE DIAGNOSTIC
+Le type de mur est inadapté                 Δ mur avec coupure de capilla-                   L’exigence du type de mur en fonc-
+aux mauvaises conditions                      rité dans son épaisseur (type                  tion de l’exposition à la pluie de la
+climatiques                                   IIa, IIb, III). De conception plus             façade se trouve dans la partie 3 du
+Dans les constructions anciennes,             récente, il comporte deux pa-                  NF DTU 20.1.
+l’étan­
+      chéité était réputée acquise            rois distinctes séparées par une
+par la seule épaisseur du mur de              lame d’air (mur double), ou une                Des erreurs de conception
+briques. En réalité, en raison de la          seule paroi avec en intérieur un               au niveau des points
+relative porosité de la brique, les           isolant non hydrophile (type IIa)              singuliers
+murs réalisés à partir de ce maté-            et/ou une lame d’air continue. Le               En pied de mur :
+riau sont sensibles à la durée d’ex-          principe de ce mur est de rejeter              Δ mur type I ou IIa. Hormis la
+position aux eaux de pluie. Le NF             l’eau qui pénètre éventuellement                    coupure anticapillaire horizon-
+DTU 20.1, partie 3, définit 4 types           au travers de la première paroi :                   tale habituelle pour toutes les
+de murs (type I, IIa, IIb, III et IV, par     l’isolant non hydrophile ou la                      maçonneries, aucune disposi-
+ordre de sensibilité décroissante à           lame d’air joue alors le rôle de                    tion particulière n’est exigée.
+la pluie).                                    barrière à la pénétration de l’eau.                 Mais, compte tenu du principe
+Cette classification se fonde pour                                                                de fonctionnement de ce mur,
+l’essentiel sur les principes suivants :
+                                                                   EXEMPLES DE DISPOSITIONS EN PIED DE MUR
+
+Δ mur sans coupure de capillari-                                Mur simple                                    Mur double
+  té dans son épaisseur (type I).                                               Enduit
+                                                                                intérieur
+  Ce mur ne comporte qu’une pa-
+  roi de maçonnerie. Étanche dans                                                                 Crochet
+                                                                                                de liaison
+  sa masse, ce mur ne reçoit pas
+  de revêtement extérieur d’im-                    Équerre                                        Équerre
+                                                   de rejet                                       de rejet
+  perméabilité. Sa conception est                    d’eau                                          d’eau
+  basée sur le principe qu’une
+  certaine quantité d’eau, selon               Joint vertical                                Joint vertical                Décaissé
+                                                    dégarni                                       dégarni
+  les conditions d’exposition, peut                 tous les                                      tous les
+  traverser la maçonnerie au bout                    mètres                                        mètres
+  d’un certain temps ;                                                            Décaissé
+
+
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            STRUCTURES ET GROS ŒUVRE
+B.04             DÉFAUTS D’ÉTANCHÉITÉ DES FAÇADES
+2/3              EN BRIQUES APPARENTES
+
+          l’eau s’accumule en partie basse            son des épaisseurs d’isolant in-
+          du mur par simple effet de la gra-          térieur couramment employées,              3. LES BONNES
+          vité. Il est donc vivement recom-           le rejingot se trouve souvent en           PRATIQUES
+          mandé de prévoir des dispositifs            retrait de la face intérieure du
+          l’empêchant de pénétrer à l’inté-           mur. Il est impératif qu’il dépasse        Δ Au niveau de la conception :
+          rieur des bâtiments : décaissé de           d’au moins 4 cm les tableaux de              √ bien choisir le type de mur en
+          dalle (3 cm minimum) ou profilé             part et d’autre de l’ouverture en                fonction des conditions clima-
+          en équerre ;                                se retournant sur le mur.                        tiques et des expositions ;
+      Δ   mur type IIb, III. Les eaux d’in-                                                        √   veiller à la qualité des briques :
+          filtration se retrouvent en partie                                                           le marquage CE, obligatoire,
+                                                            PRINCIPE DE RÉALISATION
+          basse de la lame d’air. Les dispo-               D’UN APPUI SUR MUR DOUBLE                   n’est pas à lui seul un critère
+          sitifs avec décaissés et profilés                                                            de qualité ;
+          rigides de rejet d’eau, associés         Brique à chant
+                                                                                Rejingot en
+                                                                                                   √   définir les points de détails.
+          à la création de joints verticaux                                     béton armé
+          dégarnis en partie basse de la                                        se retournant    Δ Au niveau de l’exécution :
+          paroi extérieure, sont trop sou-
+                                                                                en tableaux
+                                                                                                   √ veiller au remplissage correct
+          vent oubliés.                                                         Chape                des joints ;
+                                                                                d’étanchéité
+                                                                                relevée en
+                                                                                partie
+                                                                                                   √ veiller à la réalisation d’un
+      Ouvertures dans les murs                                                  arrière et aux
+                                                                                                       dispositif efficace de rejet des
+      Δ Cas des appuis en briques.                                              extrémités             eaux en pied de mur, ce dis-
+          Réalisés à partir de briques à                                                               positif devant se retrouver au
+          chant posées avec une faible                                                                 niveau de chaque plancher
+          pente, ils sont forcément le siège                                                           d’étage ;
+          privilégié d’infiltrations. Une                                                          √   traiter les points singuliers tels
+          étanchéité complémentaire en            Une qualité d’exécution défec-                       que les appuis de baie ou les
+          partie inférieure est indispen-         tueuse.                                              tableaux ;
+          sable. Dans le cas particulier du       Δ La composition du mortier de                   √   respecter la lame d’air (murs
+          mur double, l’absence d’étan-             hourdage doit respecter le bon                     de type IIb et III).
+          chéité conduira inévitablement            dosage en liant.
+          à des infiltrations puisque ces         Δ Les joints doivent être pleins et
+          briques à chant chevauchent la            serrés. Le respect des Règles de
+          lame d’air.                               l’art est particulièrement déter-
+                                                    minant sur la qualité finale de
+      Δ Cas des appuis en béton.                    l’étanchéité des murs.
+          Le point faible de ces ouvrages
+          se situe aux extrémités. En rai-
+
+
+
+
+          À CONSULTER
+          Δ NF DTU 20.1 : Ouvrages en ma-              L’ESSENTIEL
+            çonnerie de petits éléments, par-
+              ties P1-1, P1-2 et P3                    Δ Bien choisir le type de mur.
+          Δ   NF EN 771-1 : Spécifications pour        Δ Remplir correctement les joints.
+              éléments de maçonnerie                   Δ Veiller à la réalisation d’un dispositif efficace de rejet des eaux.
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           STRUCTURES ET GROS ŒUVRE                      FICHE
+                                                             DÉFAUTS D’ÉTANCHÉITÉ DES FAÇADES                            B.04
+                                                                       EN BRIQUES APPARENTES                                  3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                               Superposition de petits éléments de maçonnerie
+                                                               Le mur est constitué de briques type Monomur 24x24
+                                                               à RdC et parpaings 20x20x50 enduits aux étages.
+                                                               Les parpaings, moins larges, ont été posés alignés
+                                                               axialement à leur support en briques, ils se retrouvent
+                                                               alors en retrait des briques.
+                                                               Le désordre d’infiltration identifié se situe à la jonction
+                                                               entre le parpaing et la brique.
+                                                               La cause du désordre relève d’un défaut de mise en
+                                                               œuvre par l’absence d’un rejet EP entre 2 matériaux
+Photo : c GIE SOCABAT.                                         formant une retenue d’eau.
+
+                                                               Appui de fenêtre en petits éléments de terre cuite
+                                                               L’appui, en façade exposée, est réalisé en briques in-
+                                                               dustrielles 22x11 sur chant, posées sur une allège en
+                                                               parpaings enduits. Le joint de mortier par décolle-
+                                                               ment ne fait plus office de barrière à l’eau. L’infiltration
+                                                               a généré des désordres dans le mur en allège, qui à
+                                                               son tour fissure au fil des intempéries successives. A
+                                                               terme l’infiltration générera des désordres à l’intérieur
+                                                               du bâtiment. La cause du désordre est une conjugai-
+                                                               son de défaut de joint de mortier et une absence de
+Photo : c GIE SOCABAT.                                         membrane d’étanchéité en appui de fenêtre réalisé en
+                                                               petits éléments de terre cuite montés sur chant.
+
+                                                               Le mur est constitué de briques format 24 x 24 en sou-
+                                                               bassement et parpaings 20 x 20 x 50 enduits en partie
+                                                               courante. Le désordre d’infiltration par décollement de
+                                                               joint horizontal, se situe à la jonction entre le parpaing
+                                                               et la brique au niveau de l’angle du mur contigu à une
+                                                               ouverture. Une absence de rejet d’eau entre la brique
+                                                               et le parpaing est constatée. De plus, les briques em-
+                                                               ployées sont inadaptées en angle et en jambage pour
+                                                               assurer l’incorporation de chaînages verticaux néces-
+                                                               saires à la cohésion de 2 matériaux différents de ma-
+Photo : c GIE SOCABAT.                                         çonnerie en zone dite « affaiblie » du mur, ici une ou-
+                                                               verture près d’un angle. La cause du désordre est une
+                                                               absence de rejet EP entre 2 matériaux formant une
+                                                               retenue d’eau, conjuguée à une absence de chaînages
+                                                               verticaux en angle et en jambage d’ouverture.
+
+
+
+Pour en savoir plus :
+                                                                               Retrouvez l’ensemble des
+                                                                               Fiches pathologie bâtiment sur :
+                                                                               www.qualiteconstruction.com
+                                                                               et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                  © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+                >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

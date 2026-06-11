@@ -1,0 +1,356 @@
+                                                             ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                       FICHE
+                                                                                                                        D.08
+                                                                                                                             1/6
+
+                                          SYSTÈMES D'ISOLATION
+                                          THERMIQUE PAR L'EXTÉRIEUR
+                      Photo © DR - AQC
+                                          (ETICS) EN POSE INITIALE
+
+
+1. LE CONSTAT
+Les systèmes d'isolation thermique par l’extérieur po-         paroi d’un bâtiment neuf ou ancien et assure l'isolation
+sés en travaux neufs et concernés par cette fiche sont         thermique, l'étanchéité et l'esthétique d'ensemble. Ces
+constitués de panneaux isolants en polystyrène recou-          travaux peuvent encore aujourd’hui donner lieu à une
+verts d'un sous-enduit armé revêtu d'un RPE (Revête-           pathologie importante, en fonction du contexte d’appli-
+ment de Peinture Epais organique ou minéral) ou d’une          cation, de la qualification de l’entreprise, des procédés
+finition hydraulique. Le complexe est collé, calé/chevillé     utilisés…
+ou fixé mécaniquement (profilés de maintien) sur la
+
+
+
+
+2. LE DIAGNOSTIC                          fixation, en relation avec une épais-     Décollements ou
+                                          seur insuffisante du sous-enduit          arrachements des plaques
+Dans un premier temps limités à           (économie de matière), un défaut          Ces désordres sont relatifs à la non-
+des problèmes d'aspect, ces dé-           de positionnement de l'armature,          prise en compte des phénomènes
+sordres peuvent évoluer dans le           ou une mauvaise utilisation de la         de pression/dépression exercés
+temps en allant jusqu'à compro-           colle. Les fissurations peuvent éga-      par les vents sur les façades, révé-
+mettre les caractéristiques d'iso-        lement être causées par un mé-            lant des fixations inadaptées ou en
+lation et d'étanchéité des façades.       lange d’isolants PSE blancs et gris,      quantité insuffisante. Les systèmes
+Les désordres résultent le plus           pratique interdite pour cause de          sont pourtant en général sous avis
+souvent de facteurs concomitants.         dilatation thermique différentielle       techniques, et le nombre de fixa-
+Ils sont plus significatifs sur les fa-   entre les deux types de produits          tions y est défini en fonction de
+çades exposées aux chocs ther-            (avec aussi un tuilage possible à la      divers paramètres, par exemple la
+miques ou aux vents et plus géné-         clef).                                    localisation, la hauteur, les zones
+ralement aux intempéries.                                                           de rives, les zones à risque.
+                                          Pelages, écaillages,
+Fissurations, bombements,                 cloquages du revêtement                   Fissuration et mauvaise
+tuilages                                  organique de finition                     adhérence du revêtement
+Ils résultent principalement des va-      Ces désordres sont souvent révé-          hydraulique de finition
+riations dimensionnelles des pan-         lateurs de l'absence de la couche         (chaux, ciment…).
+neaux, du mauvais positionnement          d'impression assurant la parfaite         Le module d’élasticité du revête-
+des rails de départ ou des profilés,      adhérence de la finition sur le           ment de finition est parfois ina-
+du mauvais agencement des iso-            sous-enduit armé. Ils peuvent aus-        dapté en regard des mouvements
+lants (découpe), de l’absence de          si être la résultante des désordres       et sollicitations transmis à l’ITE. La
+harpage en angle, de l’utilisation        évoqués ci-dessus, par le biais           présence d’un isolant susceptible
+abusive de mousse expansive ou            d'infiltrations d'eau à l'arrière de la   d’absorber l’eau de gâchage des
+de colle (placée sur les chants ver-      finition suite à un manque d'entre-       premiers micromètres de l’enduit
+ticaux des panneaux à des fins de         tien des couvertines.                     de finition, créant ainsi un déficit
+comblement), d’une insuffisance de                                                  d’hydratation à l’interface isolant /
+                                                                                    enduit, accentue la pathologie.
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE        ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.08         SYSTÈMES D'ISOLATION THERMIQUE PAR
+  2/6        L'EXTÉRIEUR (ETICS) EN POSE INITIALE
+
+
+    Des négligences au niveau de la              intérieure au droit des joints de     cation) ou un ATEc qu'il convient de
+    mise en œuvre, de la prise en                panneaux « par trop non jointifs »    suivre scrupuleusement.
+    compte stricte des conditions clima-         (pas d’encollage sur chant afin de    L’évaluation sur la partie produit et
+    tiques (soleil, température, vent…),         permettre les dilatations).           celle sur la partie mise en œuvre
+    du dosage, du mode d’application,        Δ   Salissures d'origine biologique :     des systèmes sont toutes deux
+    du respect des épaisseurs de pro-            développement de micro-orga-          indispensables.
+    duits et du produit chaux utilisé            nismes favorisé par les facteurs
+    expliquent la sinistralité observée.         climatiques et/ou chimiques,          Au stade conception
+                                                 (dépôts de particules en suspen-      Les recommandations profession-
+    Infiltrations causées par                    sion dans l'air) ou par la présence   nelles RAGE *et le cahier du CSTB
+    une étanchéité à l’eau à la                  d’arbres à proximité.                 3035 donnent des schémas gé-
+    jonction ITE - menuiseries               Δ   Insuffisance d’épaisseur du sous-     néraux d’aide à la conception des
+    extérieures                                  enduit.                               parties d’ouvrages d’ITE, croquis
+    Des infiltrations se produisent :                                                  pouvant également aider à la mise
+    Δ par la membrane d’étanchéi-            Moisissures à l’intérieur des             en œuvre.
+      té dans le cas d’une pose en           bâtiments
+      applique extérieure (absence           L’étude thermique doit donner             Les menuiseries extérieures consti-
+      du joint en partie haute, dé-          des préconisations sur la constitu-       tuent un point sensible. La ré-
+      collement        de    la   jonction   tion complète de la paroi (pare va-       glementation thermique RT 2012
+      membrane-menuiserie,            per-   peur…), son niveau de perméance,          permet globalement un calcul de
+      cement de la membrane par              ou le type de ventilation associé afin    performance thermique relative-
+      fixation de l’isolant) ;               de ne pas provoquer l’apparition de       ment à des exigences minimales
+    Δ au droit des relevés latéraux de       condensation et de moisissures            requises.
+      la bavette basse. On constate          pouvant engendrer une dégrada-            Les déperditions thermiques cau-
+      des siphonages au droit de la          tion de la qualité de l’air intérieur.    sées par les chevilles (métalliques)
+      liaison bavette basse / menuise-                                                 sont notamment à prendre en
+      rie, des défauts de calfeutrement                                                compte.
+      entre la menuiserie et l’enduit        3. LES BONNES                             Les apports solaires à travers les
+      (joint de désolidarisation). Des       PRATIQUES                                 baies sont évoqués. Plus les épais-
+      insuffisances de fixation peuvent                                                seurs d’isolant sont importantes
+      accentuer ces désordres par dé-        Le choix de systèmes ITE éva-             (jouant un rôle de masques laté-
+      formation des éléments consti-         lués techniquement par un orga-           raux), plus la perte de lumière liée à
+      tutifs (ex : déformation de tra-       nisme agréé limite l’apparition de        l’effet tunnel s'accroît (réalisation de
+      verses basses) ;                       pathologies.                              chanfreins ou de troncatures). En
+    Δ relativement à l’absence de com-       Pour la partie produit, il est ainsi      conséquence, la jonction des me-
+      pribande ;                             préférable d’utiliser des systèmes        nuiseries extérieures avec l’ITE revêt
+    Δ à cause de chocs en parties            disposant d’un Avis Technique             un aspect important. Dans ce cas, il
+      basses : par accidents ou mal-         (ATEc) ou d’une Évaluation Tech-          convient de préconiser la pose de
+      veillance en l’absence d’une           nique Européenne (ETE) dont la            menuiseries (fenêtres, baies) au nu
+      configuration d’armature adap-         vocation est d'évaluer les caracté-       extérieur qui favorise l’apport de
+      tée (simple, double ou renforcée       ristiques essentielles du produit. Le     lumière mais ceci impose une étan-
+      avec treillis fibres de verre).        fabricant propose alors une Décla-        chéité à l’eau parfaite.
+                                             ration de Performances (DoP) sur          Plus généralement, quelle que soit
+    Problèmes d'aspect                       son système évalué.                       la position de la menuiserie dans
+    Δ Fantômes de joints de panneaux :       Les règles de mise en œuvre et le         l’épaisseur du complexe paroi / ITE,
+        bien que rares, ces désordres        domaine d'application sont décrits        il faut :
+        sont liés à la migration pré-        séparément, par exemple dans un           Δ   préférer l’encastrement des rele-
+        férentielle de la vapeur d'eau       DTA (Document Technique d'Appli-              vés latéraux de la bavette basse
+                                                                                           dans l’épaisseur des retours ;
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                               ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                      FICHE
+                                                            SYSTÈMES D'ISOLATION THERMIQUE PAR                           D.08
+                                                              L'EXTÉRIEUR (ETICS) EN POSE INITIALE                          3/6
+
+
+Δ proscrire l’étanchéité par joint       NOTA : la jonction avec l’isolation          conseil) réalisé par une entre-
+  souple soumis à stagnation d’eau ;     des toitures (entres autres toitures-        prise    qualifiée   (remplissage
+Δ assurer la mise en place de la         terrasses) se réalise par la protec-         joints, colles enduits allèges en
+    bavette basse contre le profil       tion de l’acrotère avec une couver-          remplissage par panneaux). Ne
+    y compris dans les angles, au        tine étanche et un isolant. Un rele-         pas se hasarder sur un support
+    niveau du jet d’eau bas de la        vé d’étanchéité arrive sur la partie         inconnu.
+    menuiserie. En plus, le relevé       plane supérieure de l’acrotère, sous
+    arrière de la bavette basse ne       l’isolant.                               Contrôles à réaliser pendant la
+    doit pas être en contact avec la                                              mise en œuvre
+    goutte d’eau du jet d’eau de la      La réalisation des                       Ils sont à effectuer pour :
+    menuiserie ;                         autocontrôles                            Δ   s’assurer de la tenue de l’isolant
+Δ   ne pas créer de rétention d’eau      Des autocontrôles sous forme de              et procéder aux vérifications
+    au droit de la membrane.             fiches et à adapter à chaque chan-           d’usage en termes de planéité et
+    Le guide RAGE « menuiseries ex-      tier sont également prévus dans              d’intégrité ;
+    térieures avec une isolation ther-   les recommandations profession-          Δ   contrôler la mise en œuvre de la
+    mique par l’extérieur, mise en       nelles RAGE* (annexe J) durant tout          couche de base armée ;
+    œuvre, neuf et rénovation » doit     le déroulement de mise en place du       Δ   contrôler la mise en œuvre de la
+    être consulté.                       procédé.                                     couche de finition ;
+                                                                                  Δ   vérifier la mise ou remise en place
+Au stade exécution                       Contrôles préalables sur le                  des éléments d’équipements.
+Il convient de respecter les             support :
+contraintes climatiques imposées         Δ essais d’adhérence colle ;             En partie courante, il convient de
+par le site et les températures exté-    Δ essais de tenue des chevilles ;        s’assurer que :
+rieures minimales et maximales de        Δ il convient également de contrô-       Δ  la totalité de la surface prévue
+mise en œuvre.                             ler le délai de séchage du sup-           est bien couverte par l’isolant ;
+                                           port, la présence de produits de       Δ  de proscrire le mélange entre
+                                           décoffrage, sa planéité et sa co-         isolants PSE gris et blancs. L’iso-
+                                           hésion, l’alignement des baies, la        lant PSE gris doit impérativement
+                                           présence de fissures à traiter, la        être protégé du soleil par une
+                                           présence de joints de dilatation…         bâche anti-UV lors de la pose et
+                                           Prévoir le cas échéant un dia-            pour ceux stockés en attente ;
+                                           gnostic amiante (devoir de
+
+                                                                       SCHÉMA 1                        SCHÉMA 2
+                                                  Support de maçonnerie
+
+                                                      Plots de colle
+
+                                                    Panneaux isolants
+
+                                                         Enduit
+                                                                                                                     C
+                                                   Armature marouflée
+
+                                                     Couche de base
+                                                                                                                     D
+
+                                                   Couche d’impression
+
+                                                  Couche de finition RPE
+
+
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.08          SYSTÈMES D'ISOLATION THERMIQUE PAR
+  4/6         L'EXTÉRIEUR (ETICS) EN POSE INITIALE
+
+
+    Δ l’utilisation de mousse expansive Δ la jonction avec d’autres types                 et obligatoire.
+        pour comblement entre chants               d’ITE a bien été évaluée et sécu-      Il convient de choisir les matériaux
+        verticaux de panneaux n’est                risée ;                                en fonction de leur réaction au feu,
+        qu’occasionnelle et pour des lar-      Δ   les soubassements, les rails de        de l’épaisseur demandée, du type
+        geurs de quelques millimètres              départ et l’espacement entre           de bâtiment concerné (réglementa-
+        (proscrire l’utilisation de colle ou       chaque jonction de rails, les          tions particulières sur IGH ou ERP),
+        de sous-enduit). Des indications           angles, les arrêts verticaux ou        des exigences C+D de la façade, de
+        sont données dans les avis tech-           horizontaux (bien s’assurer de         la hauteur du bâtiment.
+        niques ;                                   la mise en place des renforts et       Se référer également aux indica-
+    Δ   les panneaux soient parfaite-              des profilés de finition), les enca-   tions inscrites dans les avis tech-
+        ment découpés, cohérents et                drements de baies (isolants en         niques des procédés.
+        jointifs, et que la planéité est           « L » et mise en place de mou-
+        assurée dans les tolérances re-            choirs et de baguettes d’angle),
+        quises ;                                   les joints de fractionnement, de
+    Δ   la charge surfacique (kg/m2)               dilatation ou de structure… sont
+        prévue d’enduit de base soit               traités ou mis en place suivant
+        conforme aux spécificités sis-             les tolérances et les fournitures
+        miques de la zone et que le                requises ou adaptées ;
+        nombre de chevilles préconisé          Δ   l’étanchéité à l’eau est bien as-
+        est bien indiqué sur la fiche de           surée et qu’aucune pénétration
+        contrôle ;                                 n’est possible (couvertines, ap-
+    Δ   les temps de séchage entre                 puis, joints, menuiseries…).
+        passes, le type de trame (simple
+        ou renforcée), le recouvrement         La réalisation d’un calepin de chan-
+        des lés et le marouflage sont          tier et l’obtention d’un carnet de
+        respectés ;                            détails de la maîtrise d’oeuvre per-
+    Δ   la mise en place de la finition        mettent, de la conception à l’exé-
+        est réalisée conformément aux          cution, d’éviter certaines malfaçons
+        Règles de l’art (avec ou sans im-      parfois rédhibitoires et coûteuses.
+        pression), incluant le respect des     Chaque       étape     d’autocontrôle
+        temps d’attente et de séchage          (et donc de mise en œuvre) de-
+        de l’enduit de base. Le contrôle       vrait faire l’objet d’un reportage
+        de la consommation est un bon          photographique.
+        indicateur.
+                                               ETICS et risque incendie
+    Sur les points singuliers, il est né-      Le sujet est compliqué et demande
+    cessaire de vérifier que :                 la plus grande attention de la part
+    Δ le déplacement et le (re)montage         de tous les acteurs du chantier
+      des équipements éventuelle-              (MO, MOe, entreprises, industriels
+      ment présents en façade sans             et contrôleur technique). Nous
+      perte de performance thermique           renvoyons pour ce chapitre à la ré-
+      et sans création de faiblesses           glementation, aux textes et arrêtés.
+      dans le complexe ITE ont bien            Précisons que l'IT 249, qui est une
+      été prévus (garde-corps, volets          instruction référencée dans plu-
+      coffret électrique ou de ventila-        sieurs textes réglementaires (ERP,
+      tion, descente d’eau pluviale, en-       habitations, IGH, ICPE, atrium ERT, ...)
+      seignes ou plaques…) ;                   reste le référentiel incontournable
+
+
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                            ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                    FICHE
+                                                          SYSTÈMES D'ISOLATION THERMIQUE PAR                        D.08
+                                                            L'EXTÉRIEUR (ETICS) EN POSE INITIALE                        5/6
+
+
+
+
+À CONSULTER
+Δ Instruction Technique IT 249 : arrê-
+  té du 31 janvier de 1986 relatif à la
+    protection contre l’incendie des bâti-
+    ments d’habitation
+Δ   Instruction Technique IT 249 : arrêté
+    du 24 mai 2010 portant approba-
+    tion de diverses dispositions complé-
+    tant et modifiant le règlement de sé-
+    curité contre les risques d’incendie et
+    de panique dans les établissements
+    recevant du public (ERP)
+Δ   Le FD DTU 45.3: Bâtiments neufs
+    isolés thermiquement par l'extérieur
+    - Guide de conception des bâtiments
+    et de rédaction des documents parti-
+    culiers du marché (DPM)
+Δ   Guide de préconisation Protection
+    Incendie - ETICS PSE - Protection
+    contre l'incendie des façades béton
+    ou maçonnerie revêtues de systèmes
+    d'isolation extérieure par enduit sur
+    polystyrène expansé (ETICS-PSE) -
+    Guide de préconisations + Note d'in-
+    formation du 15 avril 2016
+Δ   *Recommandations            profession-
+    nelles RAGE, procédés d’isolation
+    thermique extérieure par enduit sur
+    polystyrène expansé, emploi et mise
+    en œuvre (neuf rénovation)
+Δ   Guide RAGE menuiseries extérieures
+    avec une isolation thermique par
+    l’extérieur, mise en œuvre, neuf et
+    rénovation
+Δ   Cahier CSTB n° 1833 : Systèmes
+    d'isolation thermique des façades
+    par l'extérieur faisant l'objet d'un Avis
+    Technique
+Δ   Cahier CSTB n° 3204 : Définition des
+    caractéristiques des treillis en fibre de
+    verre utilisés dans les systèmes d'ITE
+    par enduit sur isolant
+Δ   Rapport RAGE, Retours d’expériences,
+    bâtiments performants et risques
+Δ   Cahier CSTB n° 3035 : Systèmes
+    d'isolation thermique extérieure avec
+                                                L’ESSENTIEL
+    enduit mince sur polystyrène expan-
+    sé. Et ses modificatifs 3399 et 3696.
+                                                Δ En neuf : se conformer strictement aux règles de conception
+                                                  et d'exécution.
+Δ   Cahier CSTB 3714, système d’isola-
+    tion thermique extérieure par enduit        Δ Utiliser des procédés évalués techniquement.
+    sur polystyrène expansé : condition         Δ Se référer aux recommandations professionnelles RAGE* qui
+    de mise en œuvre de bandes filantes             donnent un carnet de détails avec différentes configurations
+    pour protection incendie                        de points singuliers et de contextes de mise en œuvre.
+Δ   e-Cahiers du CSTB, Cahier 3709_V2,
+    juin 2015 : Systèmes d'isolation            Δ   Réaliser les autocontrôles prévus et procéder à un archivage.
+    thermique extérieure par enduit sur         Δ   Réaliser un prototype de référence avant le chantier (si pos-
+    isolant : principes de mise en oeuvre           sible sur même support) afin d’obtenir un consensus au
+    autour des baies en liaison avec une            moins sur l’esthétique finale.
+    fenêtre ou une porte extérieure
+                                                Δ   Rénover tous les 10 ans et entretenir régulièrement.
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.08          SYSTÈMES D'ISOLATION THERMIQUE PAR
+  6/6         L'EXTÉRIEUR (ETICS) EN POSE INITIALE
+
+    4. L’ŒIL DE L’EXPERT
+                                                                Photos 1 et 2 : Le joint d’assemblage des plaques au-
+                                                                tour de la baie se situe dans le prolongement du ta-
+                                                                bleau de baie. La fissuration à ce niveau est assurée
+                                                                une fois l’ITE terminée. Cet agencement n’est pas
+                                                                conforme aux Règles de l’art sur la découpe de l’isolant.
+
+
+
+
+    Photo © DR - AQC
+
+
+                                                                Isolation par l’extérieure : décollement d’enduit type
+                                                                RPE (Revêtement Plastique Épais) posé sur panneaux
+                                                                d’isolation polystyrène : défauts de préparation du sup-
+                                                                port (absence de ponçage et nettoyage des poussières
+                                                                avant application et remplissage des joints de pan-
+                                                                neaux avec la colle de sous-couche) ; résultat : l’enduit
+                                                                se fissure à la jonction de chaque plaque d’isolant et se
+                                                                décolle par manque d’adhérence.
+
+
+    Photo © DR - AQC
+
+
+                                                                Sur ce chantier, la trame d’armature est posée à l’ho-
+                                                                rizontale (ce qui n’est pas interdit mais pas forcément
+                                                                dans les usages). On remarque l’économie en ma-
+                                                                tières premières (trame particulièrement visible). Ceci
+                                                                pourra avoir pour conséquence une fragilité du sous-
+                                                                enduit lors des mouvements du complexe ITE. On note
+                                                                également un recouvrement inversé de l’armature (ou
+                                                                trame) du bas vers le haut, ce qui est non conforme
+                                                                aux Règles de l’art et qui pourra générer des infiltra-
+                                                                tions en cas de rupture du complexe de finition.
+    Photo © DR - AQC
+
+
+
+
+   Pour en savoir plus :
+                                                                               Retrouvez l’ensemble des
+                                                                               Fiches pathologie bâtiment sur :
+                                                                               www.qualiteconstruction.com
+                                                                               et sur l’AppliQC
+    www.groupe-sma.fr
+    www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

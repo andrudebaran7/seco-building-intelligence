@@ -1,0 +1,175 @@
+                                                                    FONDATIONS ET INFRASTRUCTURES                   FICHE
+                                                                                                                    A.04
+                                                                                                                         1/3
+
+
+
+                                         RENFORCEMENTS
+                     Photo © DR - AQC
+                                         DE SOL
+
+1. LE CONSTAT
+Les procédés de renforcement de sol par colonnes bal-         La mise en œuvre de ces techniques hors des domaines
+lastées et inclusions rigides ont pour objet d’augmenter      d’utilisation recommandés a pu générer des désordres,
+les caractéristiques du sol de manière suffisante afin de     traduits essentiellement par des tassements excessifs
+permettre l’emploi de fondations superficielles pour la       du sol renforcé, d’une amplitude très largement supé-
+construction des ouvrages visés.                              rieure aux estimations initiales.
+L’emploi de ces techniques est soumis à une étude de          Les réparations en cas de sinistre représentent des
+conception complète et rigoureuse devant s’assurer et         coûts élevés pouvant aller jusqu’à la reprise totale des
+justifier de la compatibilité de ces techniques avec la       fondations de l’ouvrage.
+tolérance des ouvrages à construire.
+
+
+
+
+2. LE DIAGNOSTIC                        Δ Un défaut de dimensionne- 3. BONNES
+                                            ment résultant de mauvaises           PRATIQUES
+Les origines des sinistres.                 hypothèses :
+Δ Une étude de sols incomplète              Ω  absence       d’évaluation   du    Δ Conduire une étude géotech-
+  et/ou inadaptée pour détermi-                fluage du sol ;                      nique conformément à la Norme
+  ner les caractéristiques de sols          Ω  non-prise en compte de la            NFP 94500 avec un enchaîne-
+  fortement compressibles. Ceci                sous-consolidation d’un rem-         ment des missions : G1/ G2 en
+  concerne tout particulièrement               blai ancien ;                        conception puis G3 étude et
+  des sols organiques, comme la             Ω  non-prise en compte des              suivi d’exécution, G4 supervi-
+  tourbe, mais aussi des limons et             charges rapportées par des           sion géotechnique d’exécution.
+  argiles mous sur lesquels sont               aménagements          extérieurs
+  envisagés un remblaiement et/                postérieurs au projet ;            Techniques de réalisation
+  ou un ouvrage particulièrement            Ω  inadéquation des tassements        des colonnes ballastées
+  lourd :                                      résiduels au regard des exi-       Par voie humide
+  Ω  sous-estimation des modules               gences de l’ouvrage ;
+                                                                                           1                2
+
+     de compressibilité ;                   Ω  mauvaise estimation des tas-
+  Ω  aucune donnée sur le fluage               sements sans renforcement
+     des sols ;                                de sol et donc des tassements
+  Ω  aucune information sur l’état             après renforcement de sol ;
+     de consolidation des sols sous         Ω  mauvaise estimation des tas-
+     le poids d’un remblai ancien ;            sements du sol sous la base        1. Pénétration jusqu’à la profon-
+  Ω  aucune information sur l’état             du renforcement de sol.            deur requise. Création par lançage
+     de consolidation d’un remblai      Δ   Une rupture des inclusions ri-        d’un espace annulaire autour de
+     récemment mis en place sans            gides non armées par la circula-      l’aiguille vibrante.
+     compactage.                            tion des engins de terrassement       2. Mise en œuvre du ballast depuis
+                                            (lot matelas, VRD) et lors du         la surface et refoulement latéral du
+                                            recépage.                             sol autour de la colonne.
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             FONDATIONS ET INFRASTRUCTURES
+A.04              RENFORCEMENTS DE SOL
+2/3
+
+
+      Par voie sèche                                                                                            FACTEUR DE RÉDUCTION DES TASSEMENTS
+              1            2               3                                                  6
+
+                                                                                                                                                          Greenwood et Kirsch 1984
+                                                                                                                                                          Munﬁkh 1984
+                                                                                              5                                                           Van Impe 2001
+                                                                                                                φc = 45,0°
+
+
+
+
+                                                        Facteur de réduction des tassements
+                                                                                                                                                          Priebe 1995 ν =1/3
+                                                                                                                      φc = 42,5°                          Kempfert et al. 1999
+                                                                                              4                                                           Calculs E.F. Terrasol 1984
+                                                                                                                       φc = 40°                           Résultats à la centrifugeuse
+                                                                                                                                                          Divers
+                                                                                                                               φc = 37,5°
+                                                                                              3
+      1. Le vibreur descend jusqu’à la                                                                                                     φc = 35°
+      profondeur souhaitée sous l’effet
+      des vibrations et du lançage d’air.                                                     2
+      2. La colonne est construite par
+      apport de ballast via le tube latéral
+                                                                                              1
+      longeant le vibreur.                                                                        1      2     3         4          5           6     7          8            9          10
+      3. Le diamètre des colonnes varie                                                                                  Rapport des sections A/Ac
+      selon la résistance du sol. Finition
+      par nivellement et compactage de
+      surface.                                                   avec les objectifs en termes de
+      Δ  Estimer les tassements sans ren-                        tassement et de portance.
+         forcement de sol pour vérifier la          Δ            Estimer les fluages dans les sols
+         compatibilité du renforcement                           tourbeux.
+                                                    Δ            Proscrire les colonnes ballastées
+                                                                 dans les tourbes.
+                                                    Δ            Proscrire le renforcement de sol
+                                                                 dans les décharges d’ordures
+          À CONSULTER                                            ménagères (estimation des dé-
+          Δ NF  P 94-500 : Missions d’ingénie-
+            rie géotechnique - Classification et
+                                                                 formations avec et sans renfor-
+                                                                 cement inenvisageable).
+
+          Δ NF
+              spécifications
+               EN 14731 : Exécution de tra-         Δ            Veiller à ce que les interfaces
+            vaux géotechniques spéciaux -                        pendant les différentes phases
+              Amélioration des massifs de sol                    d’exécution (entreprise de ren-
+              par vibration                                      forcement de sols, entreprise
+          Δ   NF EN 14679 : Exécution de tra-
+              vaux géotechniques spéciaux -
+                                                                 terrassement/VRD,     entreprise
+              Colonnes de sol traité                             de gros œuvre) soient pilotées
+          Δ   NF EN 12715 : Exécution des
+              travaux géotechniques spéciaux -
+                                                                 et supervisées par la maîtrise
+                                                                 d’œuvre.
+              Injection
+          Δ   Recommandations sur la concep-
+              tion, le calcul, l’exécution et le
+              contrôle des colonnes ballastées
+              sous bâtiment et sous ouvrages
+              sensibles au tassement, CFMS,
+              USG mars 2011
+          Δ   ASIRI- Recommandations pour le
+              dimensionnement,l’exécutionetle                                   L’ESSENTIEL
+              contrôle de l’amélioration des sols
+              de fondations par inclusions ri-                                  Δ Procéder à une étude géotechnique de conception complète
+              gides, IREX, Presse des Ponts 2012                                                  afin de vérifier l’acceptabilité du procédé de renforcement de
+          Δ   Guide technique AFPS/CFMS                                                           sol.
+              « Procédés d’amélioration et de
+              renforcement de sols sous actions
+                                                                                Δ                 Confier au BE géotechnique une mission G4 de suivi et de
+                                                                                                  contrôle.
+              sismiques », Presse des Ponts 2012
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                    FONDATIONS ET INFRASTRUCTURES                    FICHE
+                                                                            RENFORCEMENTS DE SOL                     A.04
+                                                                                                                          3/3
+
+
+4. L’ŒIL DE L’EXPERT
+
+
+
+
+Photos © DR - AQC
+La circulation d’engins à proximité des têtes d’inclusions lors des phases de recépage ou de mise en place du ma-
+telas de répartition est source de risques d’endommagement des têtes d’inclusions.
+
+
+
+
+Photo © DR - AQC
+Les aménagements extérieurs au projet doivent être
+pris en compte dans l’estimation des tassements no-
+tamment lorsqu’il s’agit de remblais rapportés.
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

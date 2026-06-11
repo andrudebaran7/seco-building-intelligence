@@ -1,0 +1,184 @@
+                                                            ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                       FICHE
+                                                                                                                       D.13
+                                                                                                                            1/3
+
+
+
+                                         STRUCTURES À RISQUES
+                      Photo © DR - AQC   MULTIPLES : LES VÉRANDAS
+
+1. LE CONSTAT
+Les vérandas sont des structures complexes qui asso-               téristiques intrinsèques des matériaux constituant la
+cient plusieurs matériaux. La pathologie rencontrée sur            structure ;
+ces ouvrages peut revêtir plusieurs aspects :                  Δ   déformation et casse des éléments de remplissage
+Δ  mouvements structurels dus à une instabilité du dal-            dues à un mauvais traitement des joints entre les dif-
+   lage et/ou des fondations ;                                     férents matériaux ;
+Δ  mauvaise étanchéité à l'air et à l'eau, phénomènes          Δ   infiltrations dues à un mauvais traitement de la liai-
+   de condensation, dus à la déformation ou aux carac-             son entre la véranda et le bâtiment existant.
+
+
+
+
+2. LE DIAGNOSTIC                         Δ que sa forte conductivité ther-          cun d'eux (coefficient de dilatation,
+                                             mique peut provoquer des               par exemple). Sinon, les risques
+Instabilité du support de la                 pertes de chaleur par conduc-          sont :
+véranda                                      tion et des condensations en           Δ un embuage du double vitrage
+Si la véranda est réalisée sur une           sous-face ;                              dû à un mauvais drainage des
+terrasse existante, l'instabilité peut   Δ   que les assemblages imparfaits           feuillures ;
+provenir :                                   de profilés entre eux, et spéciale-    Δ des déformations, glissements,
+Δ  d'une absence ou d'une insuffi-           ment les assemblages à coupes            casses des éléments de remplis-
+   sance de fondations ;                     complexes, sont souvent à l'ori-         sage en matériaux de synthèse
+Δ  d'une épaisseur et d'un ferrail-          gine d'infiltrations.                    utilisés en couverture ;
+   lage aléatoires.                                                                 Δ des infiltrations aux jonctions
+                                         S'agissant du bois, ne pas oublier :         entre allèges et éléments de
+Si la véranda est réalisée sur de        Δ  que sa déformation par retrait,           remplissage ;
+nouvelles fondations, l'instabilité         associée à une mise en œuvre            Δ des déformations et fissurations
+peut provenir :                             imparfaite, peuvent conduire à            des allèges maçonnées.
+Δ  de la réalisation de fondations et       des problèmes d'étanchéité à
+   du dallage non conformes aux             l'air et à l'eau à la jonction avec     Liaisons avec le bâtiment
+   Règles de l'art (remblai de mau-         les éléments de remplissage, et         existant
+   vaise qualité, par exemple) ;            à des pourrissements en pied de         Qu'elles soient horizontales ou ver-
+Δ  de l'absence de désolidarisation         poteaux, par exemple ;                  ticales, ces liaisons sont souvent à
+   avec le bâtiment existant.            Δ  que l'utilisation du bois implique-     l'origine d'infiltrations dues à :
+                                            ra un entretien régulier.               Δ  un recouvrement insuffisant de
+Non-prise en compte                                                                    la couverture par le profilé de
+des caractéristiques des                 Choix des matériaux de                        liaison avec le mur existant ;
+matériaux de la structure                remplissage                                Δ  une mauvaise réalisation des so-
+S'agissant de l'aluminium, ne pas        Les jonctions de matériaux diffé-             lins en rive de couverture ;
+oublier :                                rents doivent tenir compte des ca-         Δ  l'absence de joints d'étanchéité
+                                         ractéristiques intrinsèques de cha-           entre les éléments de structure
+                                                                                       et le bâtiment existant ;
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.13           STRUCTURES À RISQUES MULTIPLES :
+  2/3          LES VÉRANDAS
+
+
+                           DÉTAIL DU FAÎTAGE                                                DÉTAIL DE LA TRAVERSE DE BASE
+
+
+                                                                                                                          Vitrage
+                                     Double barrière
+                                                                                                                          5 mm
+                                     d’étanchéité
+
+
+                                                                                                                          Châssis
+                                                                                                                          coulissant
+
+
+                                                                                Sol                                       Brosse
+                                                                                intérieur                                 d’étanchéité
+
+
+
+                                                                                                                   Profil de base
+                                                              Angle variable                                       (réglage et drainage)
+                                                              jusqu’à 30°
+
+                                                                                                                   Dalle béton
+
+
+
+
+    Δ la pose des profilés aluminium 3. LES BONNES                                               Δ Utiliser des profilés aluminium à
+        directement sur le carrelage de                PRATIQUES                                   rupture de pont thermique.
+        la véranda avec un simple joint                                                          Δ Tenir compte des coefficients de
+        mastic.                                        Δ Veiller au bon respect du NF DTU            dilatation thermique élevés des
+                                                           13-3 partie 3 (dallages des maisons       éléments de remplissage en ma-
+                                                           individuelles) et du DTU 13.11 Fon-       tériaux de synthèse.
+                                                           dations superficielles.               Δ   Tenir compte du retrait des élé-
+                                                       Δ   Pour ce qui concerne la mise en           ments de structure en bois (et
+                                                           œuvre des menuiseries métal-              assurer leur protection).
+                                                           liques, appliquer les dispositions    Δ   Consulter les communiqués de la
+                                                           du NF DTU 36.5.                           C2P de l'AQC.
+                                                       Δ   En ce qui concerne les travaux de
+                                                           vitrerie, suivre les prescriptions
+                                                           du NF DTU 39.
+        À CONSULTER
+        Δ Règles professionnelles du SNFA
+          (Syndicat National de la construc-
+            tion des Fenêtres, façades et Acti-
+            vités associées)
+        Δ   Eurocode 1 - Actions sur les
+            structures
+        Δ   NF DTU 13.3 : Dallages - Concep-
+
+        Δ
+            tion, calcul et exécution
+            NF DTU 36.5 : Mise en œuvre des
+                                                           L’ESSENTIEL
+            fenêtres et portes extérieures                 Δ Réaliser des fondations identiques à celles d'une maison
+        Δ   NF DTU 39 : Travaux de                           individuelle.
+
+        Δ
+            vitrerie-miroiterie
+            Fascicule FD P20-201 : Mémento                 Δ Soigner particulièrement toutes les jonctions entre matériaux
+            pour les maîtres d'œuvre - Choix                 différents.
+            des fenêtres en fonction de leur
+            exposition
+                                                           Δ Assurer une bonne ventilation pour limiter les phénomènes de
+                                                              condensation.
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                           ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                       FICHE
+                                                              STRUCTURES À RISQUES MULTIPLES :                        D.13
+                                                                                LES VÉRANDAS                               3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                              L’infiltration est due à un mauvais traitement de la liai-
+                                                              son entre la véranda et l’existant. L’entablement à très
+                                                              faible pente crée une voie d’eau remontante en sous-
+                                                              couverture lors d’épisodes pluvieux et venteux. Un clo-
+                                                              soir de fortune a été réalisé.
+
+
+
+
+Photo: © GIE SOCABAT
+                                                              La bande métallique au faîtage ne comporte pas de
+                                                              joint mastic en tête. L’entretien de la véranda n’est éga-
+                                                              lement pas réalisé notamment au droit du joint mastic
+                                                              de rive (haut de la photo).
+
+
+
+
+Photo: © GIE SOCABAT
+                                                              Le capot serreur est peu ou mal fixé. Les dimensions
+                                                              et les coupes des différents éléments sont à revoir. Le
+                                                              joint EPDM de gauche n’est pas comprimé et ne repose
+                                                              pas pleinement sur l’EdR. Le développement de micro-
+                                                              organismes empêche le drainage du chevron.
+
+
+
+
+Photo: © GIE SOCABAT
+                                                              La dimension de l’EdR en polycarbonate est incorrecte.
+                                                              Avec cet EdR, le confort thermique est-il assuré ?
+                                                              Les phénomènes de condensation sont-ils maîtrisés et
+                                                              évités ?
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,180 @@
+                                                                                                         ÉQUIPEMENTS               FICHE
+                                                                                                                                    E.13
+                                           INSTALLATIONS                                                                                1/3
+
+
+                                           PHOTOVOLTAÏQUES
+                                           RACCORDÉES AU RÉSEAU ET
+                       Photo © DR - AQC
+                                           INTÉGRÉES AU BÂTIMENT
+
+1. LE CONSTAT
+Deux types principaux de dommages peuvent surve-                       Δ des défauts d’étanchéité provenant de la couverture
+nir à la suite de l’installation d’un générateur photovol-               photovoltaïque ;
+taïque intégré en toiture :                                            Δ des départs d’incendie ou incendies provenant du
+                                                                            circuit électrique.
+
+
+
+
+2. LE DIAGNOSTIC                               ascendantes et descendantes                        √ respecter les jeux de montage
+                                               du procédé (Avis Technique) en                       entre modules.
+Problèmes d’étanchéité                         fonction de la configuration du
+L’intégration      des     installations       toit, système de raccordement                  Risque d’incendie
+photovoltaïques implique que les               adapté aux différents types                    Les départs d’incendie ou incen-
+modules remplacent des éléments                d’éléments de couverture (tuile,               dies d’installations photovoltaïques
+du bâtiment (tuile, ardoise, …) et             ardoise, bac acier).                           peuvent avoir des causes multiples.
+assurent la fonction d’étanchéité de       Δ   Une mise en œuvre rigoureuse est               Parmi les facteurs à risques iden-
+la toiture (voir annexe 2 de l’arrêté du       impérative, particulièrement pour              tifiés, on citera les discontinuités
+04/03/2011). La partie couverture              les systèmes dont les modules                  dans le circuit courant continu, à
+de l’installation est composée de              assurent seuls l’étanchéité. La                l’origine d’arcs électriques, de sur-
+modules rigides cadrés ou non, et              planéité de la charpente doit                  chauffes et de surintensités.
+d’un système d’intégration.                    être assurée, après un éventuel                Les principaux points sensibles
+Il existe plusieurs types de sys-              calage. La pose des raccords entre             résident au niveau de la connec-
+tèmes d’intégration :                          module doit être soignée, tout                 tique et du raccordement à des
+Δ   les systèmes avec une sous-                comme le passage des câbles.                   masses métalliques à la terre.
+    couche rigide ou souple ;                                                                 Δ   S’assurer que les connecteurs
+Δ
+                                                    POSE DES RAILS DRAINANTS
+    les systèmes dont les modules                                                                 choisis soient de la même
+    assurent l’étanchéité et sont                                                                 marque. S’il arrive que les sertis-
+    disposés avec recouvrement                                                                    sages soient défectueux, un soin
+    comme des tuiles ;                                                                            particulier à la mise en œuvre est
+Δ   les systèmes dont les modules                                                                 impératif.
+    assurent l’étanchéité et sont                                                             Δ   Raccorder à la masse, selon le
+    fixés sur des rails porteurs et                                                               guide UTE C15-712-1, permet de
+    drainants.                                                                                    s’assurer de l’absence de défaut
+                                                        Contrôle des diagonales
+Le traitement des rives de l’installa-                                                            d’isolement côté continu grâce
+tion est particulièrement sensible :       Δ Par ailleurs, pour les systèmes                      au contrôleur d’isolement inté-
+Δ   mise en œuvre d’un écran de                à rails drainants, le parallélisme                 gré à l’onduleur.
+    sous-toiture jusqu’à l’égout et            des rails est nécessaire :                     Δ   Assurer l’équipotentialité des
+    ventilé lorsque celui-ci est prévu ;       √ contrôler les diagonales lors                    masses, élément favorable à la
+Δ   dispositions particulières pour              de la pose ;                                     protection contre les surtensions
+    résister aux effets du vent ;              √ respecter les longueurs maxi-                    d’origine climatique, en complé-
+Δ   charges climatiques maximales                males de rampants ;                              ment des parafoudres.
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             ÉQUIPEMENTS
+E.13              INSTALLATIONS PHOTOVOLTAÏQUES
+2/3               RACCORDÉES AU RÉSEAU ET INTÉGRÉES
+                  AU BÂTIMENT
+
+      Δ Adapter le câblage à l’intensité Δ D’autres risques d’atteinte à la Δ Veiller à la mise en œuvre
+        du courant prévu. Il est préco-    continuité électrique peuvent      conforme :
+        nisé par la commission centrale    survenir si les intervenants       √ respecter les DTU et les
+        de sécurité (avis du 14 décembre   marchent sur les modules, ou         cahiers des charges de pose ;
+        2009) de prévoir les passages      si la planéité du support n’est    √ réaliser un diagnostic solidité
+        de câbles par l’extérieur du bâti- pas assurée. En effet, les cel-      de la charpente ;
+        ment jusqu’à l’onduleur.           lules photovoltaïques sont fra-    √ calepiner rigoureusement l’im-
+      Δ Prévoir la ventilation des giles et épaisses d’environ 150              plantation des modules ;
+        modules en sous-face pour pré-     µm (silicium cristallin). Toute    √ respecter rigoureusement
+          venir les surchauffes électriques        contrainte mécanique anormale              le plan de câblage courant
+          au niveau des câblages, des              sur le module peut provoquer               continu pour éviter les boucles
+          connecteurs et des modules.              la fissuration de cellules qui             d’induction ;
+      Δ   Prévoir des closoirs afin de se          génèrera par la suite des points        √  sertir les connecteurs avec
+          prémunir de l’agression des              chauds dans les cellules et des            des outils appropriés sur table
+          câbles par les rongeurs.                 surintensités.                             de travail et non en toiture.
+      Δ   Entretenir régulièrement (net-                                               Δ   Placer l’onduleur de préférence
+          toyage, accumulation de feuilles                                                 dans un local ventilé, ou mieux
+          mortes…) par un personnel              3. LES BONNES                             climatisé.
+          qualifié et habilité selon les pré-    PRATIQUES                             Δ   Étudier le câblage afin de limi-
+          conisations du guide UTE C15-                                                    ter les champs électriques et
+          712-1 et de la fiche ED 137 de         Δ Porter une attention particulière       magnétiques,       perturbant     la
+          l’INRS. Des dispositions particu-        à la conception du système et au        réception radio et TV.
+          lières doivent être prises dès la        choix des produits :                Δ   Prendre       en     compte      les
+          conception pour faciliter l’inter-       √  choisir des systèmes d’inté-         contraintes possibles liées à la
+          vention ultérieure des équipes              gration en toiture complets          pose, la maintenance et à l’inter-
+          de maintenance.                             visés par un Avis Technique en       vention des équipes de secours.
+      Δ   Veiller à la conception de l’ins-           cours de validité et adapté au   Δ   Assurer la maintenance, confor-
+          tallation, à éviter les ombrages            type et à la pente du toit ;         mément aux préconisations du
+          persistants sur le champ photo-          √  respecter le domaine d’emploi        guide UTE C15-712-1 et de la fiche
+          voltaïque, sous peine de géné-              de l’Avis Technique ;                ED 137 de l’INRS, par un person-
+          rer des points chauds dans les           √  concevoir l’installation élec-       nel qualifié et habilité
+          modules.                                    trique et le choix des compo-
+                                                      sants en respectant le guide
+                                                      UTE C15-712-1.
+
+
+
+
+                                                    L’ESSENTIEL
+                                                    Δ Choisir un système d’intégration complet, sous Avis Technique
+          À CONSULTER                                 et soigner sa mise en œuvre.
+          Δ NF EN 50380, 61215, 61646,              Δ Soigner la conception des câblages et les points sensibles de
+            61730 et 61727 relatives aux              mise en œuvre (calepinages, sertissages).
+            modules photovoltaïques
+          Δ NF                                      Δ Vérifier la ventilation en sous-face de panneau.
+                C 15-100 : Installations élec-
+            triques à basse tension                 Δ Assurer l’entretien et la maintenance régulière du dispositif
+          Δ Guide  Pratique UTE C15-712-1 :
+            Installations photovoltaïques
+                                                       selon les recommandations du guide UTE C15-712-1, du guide
+                                                       RAGE et des prescriptions des Avis Techniques.
+          Δ DTU de la série 40 : Couverture
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                            INSTALLATIONS PHOTOVOLTAÏQUES                              E.13
+                                                         RACCORDÉES AU RÉSEAU ET INTÉGRÉES                               3/3
+                                                                              AU BÂTIMENT
+4. L’ŒIL DE L’EXPERT
+                                                       Électricité
+                                                       Départ de feu au niveau d’une protection parafoudre. Ce
+                                                       peut être un défaut d’appareil ou un défaut de serrage des
+                                                       câbles ! Le bon calibrage des protections est nécessaire et un
+                                                       contrôle périodique est recommandé pour la pérennité de
+                                                       l’installation photovoltaïque.
+
+
+
+Photo © DR - AQC
+
+
+                                                       Abergement haut
+                                                       L’abergement n’est pas adapté à la pente de la toiture. Il
+                                                       empêche l’écoulement normal de l’eau, la ramène sous
+                                                       les tuiles et la fait passer sur l’écran de sous-toiture voire
+                                                       par-dessus. A cela s’ajoutent des défauts ponctuels tels que
+                                                       découpe anormale des tuiles et pose de bandes adhésives
+                                                       entre les pièces zinc.
+
+Photo © DR - AQC
+
+
+                                                       Dégradation en cours de travaux
+                                                       Tuile cassée en cours de travaux, une réparation de fortune
+                                                       a été réalisée pendant le chantier mais celle-ci ne permet
+                                                       pas d’assurer l’étanchéité de la couverture dans le temps.
+                                                       Les dommages consécutifs sont plus importants que la
+                                                       réparation.
+
+
+
+Photo © DR - AQC
+
+
+                                                       Abergement latéral
+                                                       Le couloir latéral présente un relevé insuffisant pour évacuer
+                                                       l’eau provenant de la partie haute de la couverture. Un léger
+                                                       obstacle à l’écoulement (feuilles, branches) provoque des
+                                                       infiltrations par les rives du champ photovoltaïque.
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

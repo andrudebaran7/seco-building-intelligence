@@ -1,0 +1,190 @@
+                                                                                                                TOITURES ET CHARPENTES                                                         FICHE
+                                                                                                                                                                                                C.06
+                                                                                                                                                                                                    1/3
+                                           INFILTRATIONS PAR
+                                           POINTS SINGULIERS DE
+                       Photo © DR - AQC
+                                           COUVERTURES EN TUILES
+
+1. LE CONSTAT
+La plupart des infiltrations de couvertures de bâti-                    Δ liaisons entre versants et murs (solins) et bordures de ver-
+ments en petits éléments se produisent au niveau                          sants (rives latérales, égout) ;
+des points singuliers :                                                 Δ fenêtres de toit ;
+Δ liaisons entre versants (faîtages, noues,                             Δ fixation ou intégration des panneaux solaires (thermiques,
+  arêtiers) ;                                                                photovoltaïques) en toiture, qui présentent de nombreux
+                                                                             points singuliers, pas toujours réalisés par des couvreurs.
+
+
+
+
+2. LE DIAGNOSTIC                             √ l’absence de protection de la                                                 √ dans le cas de solins en zinc,
+                                                  tête de solin contre le ruissel-                                                 à une largeur insuffisante du
+Les désordres constatés                           lement le long de la paroi ;                                                     couloir d’évacuation longeant
+trouvent leur origine                        √    la fissuration des solins en                                                     le mur ;
+Δ Dans un défaut de conception                    mortier suite à l’utilisation d’un                                         √     un relevé insuffisant des
+  dû à :                                          matériau inadapté (ciment au                                                     noues et couloirs ;
+  √ une mauvaise exposition du                    lieu de mortier bâtard) pour                                               √     un recouvrement insuffisant
+       faîtage aux vents dominants                les solins en mortier ;                                                          de la première rangée sur
+       apportant des pluies fré-             √    l’absence ou réalisation dé-                                                     noue.
+       quentes et intenses ;                      fectueuse de l’engravure des
+    √  des coupes biaises de tuiles               solins en zinc ;
+       romanes au droit des noues,
+                                           LES INFILTRATIONS AUX                                                                               Rive haute         Faîtage        Égout de toiture
+       favorisant les infiltrations de                                                                                                         Noue                              avec chéneau
+                                           POINT SINGULIERS D’UNE
+                                                                                                                                 Chien-assis
+       neige poudreuse ;                   COUVERTURE EN TUILES
+    √  un défaut de dimension-                                                                                          Pignon
+       nement       des     noues    et    Sens du vent et de la pluie
+                                                                                                                                   Rive latérale                            Versant
+       des chéneaux.                                                                  Mortier « bâtard » de
+
+Δ   Dans un défaut d’exécution dû
+                                                                                      calfeutrement et de
+                                                                                      jointement de faîtières
+                                                                                                                                       Enduit
+                                                                                                                                                       Tuiles mécaniques
+    à:                                     Faîtage                                    Tuiles « canal »     Revêtement
+                                                                                                                                       Bande à solin
+
+    √  un défaut dans la fixation des                                 Revêtement
+                                                                                                           métallique
+                                                                                                                                       en zinc avec pince
+
+       éléments de rive et d’égout                                    métallique
+                                                                                                                                                                 Voligeages bois
+       préconisée au DTU qu’elles                                                                                                                  Mortier de « dressement »
+       que soient l’exposition et la           Voligeage bois                              Noue                                          Égout de toiture avec chéneau
+       pente de la couverture ;
+    √  un défaut de la densité de          Exemples de pénétrations continues                                                                  Engravure
+                                                                                                                          Bande à solin en zinc avec pince
+       fixation en zone courante pré-                             Solin en mortier bâtard                                              Solin en zinc
+                                                                          Tuiles plates
+       conisée au DTU en fonction de
+       l’exposition et de la pente de la
+       couverture ;                           Rive latérale                                                             Rive haute
+    √  l’oubli d’un solin ;                   (suivant la ligne de la plus grands pente)                                (Perpendiculaire à la ligne de la plus grande pente)
+
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            TOITURES ET CHARPENTES
+C.06             INFILTRATIONS PAR POINTS SINGULIERS
+2/3              DE COUVERTURES EN TUILES
+
+      À ces pénétrations continues                 3. LES BONNES                                mier n’assure pas la reconduc-
+      s’ajoutent celles qui sont dis-              PRATIQUES                                    tion des eaux de fonte de neige
+      continues. Elles sont dues aux                                                            poudreuse. L’écran souple as-
+      petits ouvrages isolés : souches             Δ Concevoir la couverture de ma-             sure également la reconduction
+      de cheminées, lanterneaux d’éclai-               nière à faciliter l’écoulement de        des eaux de fonte à l’égout.
+      rage, jouées de lucarnes, chiens-                l’eau, en y opposant le moins        Δ   Dans le cas d’intégration d’ou-
+      assis… Les problèmes ne diffèrent                d’obstacles possibles.                   vrages de type panneaux CESI ou
+      pas, en fait, des précédents : les           Δ   Tenir compte des exigences du            photovoltaïques dans la couver-
+      jonctions le long des parois paral-              site (situation géographique,            ture, utiliser les éléments d’étan-
+      lèles à la ligne de plus grande pente            degré d’exposition de l’ouvrage          chéité adaptés à la nature et à la
+      ou sur le devant de l’édicule sont du            à réaliser), et anticiper : par          pente de la couverture.
+      type « pénétration continue » et la              exemple, seule la mise en œuvre      Δ   Les fenêtres de toit doivent pré-
+      jonction arrière est assimilable à un            d’un écran sous-toiture, rigide          senter une pente supérieure à
+      chéneau d’égout de toiture.                      ou souple, même lorsqu’elle              15°(27%). Le dispositif de rac-
+                                                       est facultative, peut prévenir les       cordement doit être adapté
+                                                       risques d’infiltration de neige          à la nature et à la pente de la
+                                                       poudreuse et de la poussière.            couverture.
+                                                       Attention : l’écran rigide ou        Δ   Attirer l’attention du maître d’ou-
+                                                       souple est destiné à s’opposer           vrage sur son rôle déterminant
+                                                       aux variations de pression pou-          dans le bon fonctionnement
+                                                       vant se manifester entre la face         des ouvrages au travers de
+                                                       externe et la face interne des           l’entretien.
+                                                       éléments de couverture. Le pre-
+
+
+
+
+        À CONSULTER
+        Δ DTU  40.21 à 40.25 : Couvertures
+          en tuiles
+        Δ NF DTU 40.29 : Travaux de bâti-
+          ment - Mise en oeuvre des écrans
+            souples de sous-toiture
+        Δ NF DTU 60.32 : Canalisations en
+          polychlorure de vinyle non plasti-
+            fié - évacuation des eaux pluviales
+        Δ NF  DTU 60.5 : Canalisations
+          en cuivre - Distributions d’eau
+            chaude et froide sanitaires, éva-
+            cuations d’eaux usées, pluviales,
+            installation de génie climatique
+        Δ   DTU 65.10 : Canalisations d’eau
+            chaude ou froide sous pression
+            et canalisations d’évacuation des
+            eaux usées et des eaux pluviales à
+            l’intérieur des bâtiments
+        Δ   e-Cahiers 3581_V3 du CSTB, Tuiles
+            de terre cuite à emboîtement ou à
+            glissement à relief pour l’emploi          L’ESSENTIEL
+            en faible pente faisant l’objet d’un
+            Avis Technique ou d’un Document            Δ Respecter les critères de conception et d’exécution des points
+            Technique d’Application - Cahier             singuliers.
+            des Prescriptions Techniques de
+            mise en œuvre
+                                                       Δ Assurer un entretien régulier de la toiture.
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                              TOITURES ET CHARPENTES                   FICHE
+                                                         INFILTRATIONS PAR POINTS SINGULIERS                           C.06
+                                                                    DE COUVERTURES EN TUILES                              3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                             Largeur de closoir insuffisante. Suivant DTU 40.21, le
+                                                             recouvrement du closoir souple en aluminium sur les
+                                                             tuiles doit être au moins égal au recouvrement de la
+                                                             tuile et, dans tous les cas, supérieur ou égal à :
+                                                             Δ  8 cm pour les pentes > 45 % ;
+                                                             Δ  10 cm pour les pentes ≤ 45 %.
+                                                             Le recouvrement que l’on constate sur la photo ci-des-
+                                                             sus est largement insuffisant. La pénétration d’eau de
+                                                             pluie en cas de vent est inévitable.
+
+Photo: © GIE SOCABAT
+
+
+                                                             Recouvrement de noue insuffisant. En rive de noue, les
+                                                             tuiles doivent être tranchées biaises parallèlement à
+                                                             l’axe de la noue, de telle façon que le recouvrement sur
+                                                             métal soit au moins de 80 mm, mesure prise perpendi-
+                                                             culairement à l’axe de la noue. Entre autres malfaçons,
+                                                             le recouvrement de la feuille métallique constituant
+                                                             la noue est clairement insuffisant sur la photographie
+                                                             ci-dessus. La liaison entre le faîtage de la lucarne et la
+                                                             couverture principale est également défaillante.
+
+Photo: © GIE SOCABAT
+
+
+                                                             Abergement de pénétration discontinue. L’étanchéité
+                                                             au droit des pénétrations discontinues peut être as-
+                                                             surée par la mise en œuvre de bandes métalliques et
+                                                             de solins dont le relevé doit être supérieur à 90 mm.
+                                                             Les raccordements aux angles se font par exemple par
+                                                             goussets soudés permettant d’assurer une parfaite
+                                                             étanchéité. Sur la partie amont de l’ouvrage, on réalise
+                                                             une garniture indépendante en métal sur forme de
+                                                             pente, ou besace ou un chéneau avec couloir latéral
+                                                             métallique. Le relevé insuffisant ainsi que l’absence de
+Photo: © GIE SOCABAT                                         continuité des dispositifs mis en œuvre au niveau des
+                                                             angles, sont ici générateurs de fuites.
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,193 @@
+                                                                                             ÉQUIPEMENTS             FICHE
+                                                                                                                      E.05
+                                        CHAUFFAGE PAR LE
+                                                                                                                          1/4
+
+
+
+                                        SOL PAR PLANCHER
+                    Photo © DR - AQC    RAYONNANT ÉLECTRIQUE
+1. LE CONSTAT                                           Δ coulage du support, plancher ou dallage ;
+                                                        Δ ravoirage permettant l’enrobage des gaines protégeant
+Un plancher rayonnant électrique (PRÉ)                    les conducteurs électriques et canalisations diverses ;
+constitue un plancher chauffant, dans lequel            Δ isolation ;
+la production de chaleur est assurée par des            Δ trames électriques ;
+câbles ou des trames électriques, pouvant être          Δ carrelage collé sur chape ou scellé sur mortier.
+positionnés sur un isolant, et protégés par leur        La juxtaposition de tous ces éléments de construction, la
+incorporation dans une chape d’enrobage ou              nécessité pour les corps d’état de bien se coordonner et les
+un mortier de scellement pour les revêtements           variations de température inhérentes au fait qu’il s’agit d’un
+durs. Le revêtement de sol se positionne ensuite        système de chauffage constituent des facteurs de risques
+au-dessus de ce complexe.                               qui nécessitent des précautions adéquates, encore plus
+Un PRÉ est réalisé par plusieurs corps d’état qui       particulièrement en présence d’un revêtement de sol dur.
+vont se succéder :
+
+
+
+
+2. LE DIAGNOSTIC
+                                           totalement arrêté pendant cette           soudé ou fibres (métalliques ou
+Les désordres les plus                     mise en œuvre, puis redémarré             synthétiques), mortier sous-dosé
+fréquents                                  de manière progressive suivant            (résistance mécanique insuffi-
+Ils concernent les revêtements de          un protocole fixé par le CPT              sante) ou surdosé (retrait plus
+sols, principalement les carrelages        3606-V3.                                  important), absence d’armatures
+collés :                               Δ   Pose scellée directe du carrelage :       périphériques dans la chape
+Δ  microfissuration, fissuration du        respecter le délai d’un mois pour         d’enrobage si nécessaire selon
+   carrelage ;                             la mise en chauffe.                       la compressibilité de l’isolant
+Δ  décollement du carrelage ;          Δ   La puissance installée trop               ou dans le cas de pose scellée
+Δ  tassement ou écrasement en              importante, dans le but de favori-        directe. Ceci se traduit par des
+   partie courante ou en rive de           ser une montée en température             fissures, des déformations et
+   dallage ;                               plus rapide.                              « vides » sous les plinthes,
+auxquels on peut ajouter le dys-       Δ   L’isolant : trop compressible ou      Δ   Dans le cas d’utilisation de chape
+fonctionnement du chauffage.               mal mis en œuvre (discontinuité,          à base de sulfate de calcium,
+                                           défaut de planéité du support             des décollements peuvent être
+Les origines principales                   dallage).                                 constatés dus à une humidité
+Conception ou mise en œuvre            Δ   La réalisation de l’installation          trop importante.
+défectueuse                                de chauffage : délai de mise en       Δ   Défaut d’enrobage des trames
+Δ Non-respect du phasage de mise           chauffe non respecté par rap-             électriques entraînant un dys-
+  en chauffe : le plancher doit            port à la réalisation du carrelage,       fonctionnement du chauffage.
+  avoir fait l’objet d’une première        température des câbles non maî-       Δ   L’incompatibilité des différents
+  mise en chauffe avant la mise            trisée (absence de régulation).           constituants entre eux (pri-
+  en œuvre du revêtement de sol        Δ   En cas de chape mortier : retrait         maires, mortiers-colles, joints),
+  en pose collée. Le chauffage est         excessif du mortier avec treillis         ou utilisation de produits non
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              ÉQUIPEMENTS
+E.05               CHAUFFAGE PAR LE SOL PAR
+2/4                PLANCHER RAYONNANT ÉLECTRIQUE
+
+          adaptés.                                     carrelage.                                est la plupart du temps remplacé
+      Δ La réalisation du revêtement : Δ Utiliser des isolants possédant le                      par une chape fluide à base de
+        absence ou insuffisance de joints              classement SC1 ou SC2 (voir NF            ciment ou à base de sulfate de
+        de fractionnement et de joints                 DTU 52.10) adaptés aux locaux             calcium ou d’un liant conforme
+        périphériques. La peur de sec-                 concernés, (cet indice reflète la         à la NF EN 13816. Dans ce cas,
+        tionner les câbles peut conduire               tenue à l’écrasement de l’isolant),       il faut se conformer aux docu-
+        notamment à un tronçonnage                     adaptés aux charges d’exploi-             ments techniques d’application
+        insuffisant.                                   tation appliquées (classement             des procédés pour les produits
+      Non-respect des conditions                       a pour 500 kg/m², classement b            associés à utiliser (enduits de
+      optimales d’utilisation                          pour 200 kg/m²), et présentant            lissage, mortiers-colles, joints).
+      Δ La surchauffe en surface du revê-              une compatibilité avec les sols           L’utilisation de chapes anhydrites
+        tement, liée au blocage du rayon-              chauffants (le classement doit            n’est pas visée, au jour de la
+        nement du fait de la présence de               afficher le critère complémen-            parution, dans le CPT.
+        tapis, de lits ou de canapés très              taire Ch).                            Δ   Pour une chape traditionnelle
+        bas, génère de nombreuses                  Δ   Avoir une température des                 d’enrobage des câbles, vérifier le
+        microfissurations. L’espace libre              câbles régulée, et surfacique             dosage en ciment préconisé par
+        entre sol et mobilier doit être                inférieure à 28 °C.                       le CPT 3606 en vigueur, penser
+        d’au moins 3 cm.                           Δ   Établir un plan de calepinage             à la mise en œuvre de produit
+                                                       des câbles chauffants en évitant          de cure, et réaliser avec soin les
+                                                       de les positionner aux emplace-           joints de fractionnement.
+      3. LES BONNES                                    ments prévisibles du mobilier.        Δ   Pour une chape d’enrobage des
+      PRATIQUES                                        Communiquer ces données à                 câbles à base de sulfate de cal-
+                                                       l’utilisateur et l’informer de la         cium, vérifier le taux d’humidité
+      Δ Respecter la mise en chauffe                   nécessité de ne pas bloquer le            du support, vérifier l’étanchéité
+          préalable et progressive avant               rayonnement par un tapis et               des réseaux sous-jacents, et
+          (en pose collée) et après (en                autres aménagements.                      poncer s’il y a lieu.
+          pose scellée) la réalisation du          Δ   Le béton d’enrobage des câbles
+
+
+
+
+          À CONSULTER                                  L’ESSENTIEL
+          Δ Cahier du CSTB n°3606-V3 :
+            Chauffage par Plancher Rayon-              Δ Intégrer dès la conception la réalisation d’un PRÉ (réservations).
+              nant Électrique                          Δ Utiliser des isolants adaptés.
+          Δ   NF DTU 52.10 Mise en œuvre
+              de sous-couches isolantes sous
+                                                       Δ Respecter les contraintes thermiques inhérentes au plancher
+                                                         chauffant (mise en chauffe, température de service).
+              chape ou dalle flottantes et sous
+              carrelage scellé                         Δ Prévoir les joints de fractionnement et périphériques néces-
+          Δ   Nota : le NF DTU 52.2 et A1 (Pose          saires et respecter leur profondeur minimale.
+              collée des revêtements céra-
+              miques et assimilés) ne traite pas
+                                                       Δ Ne pas bloquer le rayonnement du plancher par des aménage-
+                                                         ments non compatibles.
+              des travaux sur PRÉ (voir CPT
+              PRÉ). Le CPT 3606-V3 renvoie             Δ Se conformer aux ATec des produits (chape), certifications
+              cependant, pour certains points,            (mortier-colle) et aux DTU des procédés.
+              à ce DTU
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                                   CHAUFFAGE PAR LE SOL PAR                            E.05
+                                                             PLANCHER RAYONNANT ÉLECTRIQUE                                3/4
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Fissuration de carrelage collé sur chape
+                                                       Le dommage déclaré affecte le revêtement de sol scellé car-
+                                                       relé d’une maison individuelle, sur une chape de mortier de
+                                                       ciment, elle-même mise en œuvre sur un PRÉ et un isolant
+                                                       polyuréthane. On observe une inflexion de la surface des
+                                                       carreaux, puis une fissuration généralisée localement accom-
+                                                       pagnée d’un désafleur.
+                                                       Les sondages réalisés montrent que le phénomène résulte
+Photo © DR - AQC                                       d’un retrait différentiel du mortier de la chape avec, en fac-
+                                                       teur aggravant, une insuffisance de joints de fractionnement.
+                                                       Le retrait important vient du fait que la procédure de mise en
+                                                       chauffe n’a pas été respectée. La première mise en tempéra-
+                                                       ture des planchers rayonnants électriques doit être faite par
+                                                       l’installateur de chauffage électrique.
+                                                       Cette opération ne peut commencer que :
+                                                       Δ   trois semaines après la réalisation de l’ouvrage de
+                                                           recouvrement, et avant mise en oeuvre des revêtements
+                                                           de sol collés ou flottants ;
+                                                       Δ   suivant les spécifications de l’Avis Technique ou du Docu-
+                                                           ment Technique d’Application de la chape ;
+                                                       Δ   un mois après la mise en oeuvre d’un revêtement scellé.
+                                                           Ceci est rappelé dans les cahiers du CSTB.
+                                                       L’information de cette première mise en chauffe doit être
+                                                       transmise à l’entreprise de pose du revêtement de sol ou à
+                                                       défaut au maître d’oeuvre ou d’ouvrage.
+
+
+
+                                                       Fissuration de carrelage collé sur chape
+                                                       Le dommage déclaré affecte le revêtement de sol d’une mai-
+                                                       son individuelle, réalisé en carreaux de grès cérame 33x33cm
+                                                       scellés sur une chape de mortier de ciment, elle-même mise
+                                                       en œuvre sur un PRÉ et un isolant polyuréthane.
+                                                       On observe :
+                                                       Δ  une inflexion de la surface des carreaux, puis une fissura-
+                                                          tion généralisée localement accompagnée d’un désafleur :
+Photo © DR - AQC                                          les sondages réalisés montrent que le phénomène résulte
+                                                          d’un retrait différentiel de la chape, principalement dû à
+                                                          l’absence de treillis soudé d’armature, et de joints de frac-
+                                                          tionnement des surfaces carrelées (1) ;
+                                                       Δ  les occupants allèguent également un défaut de rende-
+                                                          ment du plancher chauffant, dû à une mise en œuvre non
+                                                          conforme au plan de pose du fabricant (2).
+
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            ÉQUIPEMENTS
+E.05             CHAUFFAGE PAR LE SOL PAR
+4/4              PLANCHER RAYONNANT ÉLECTRIQUE
+
+
+                                                           Dysfonctionnement de Plancher Rayonnant Électrique
+                                                           Le dommage déclaré concerne le dysfonctionnement partiel
+                                                           du Plancher Rayonnant Électrique d’une maison individuelle,
+                                                           dans une zone de circulation.
+                                                           Les investigations montrent que le câble électrique, posi-
+                                                           tionné trop haut dans la chape, a été dégradé lors du pon-
+                                                           çage de celle-ci.
+
+      Photo © DR - AQC
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,317 @@
+                                                                                                                                                     ÉQUIPEMENTS                    FICHE
+                                                                                                                                                                                    E.09
+                                                                                                                                                                                         1/4
+
+
+
+                                                                                               CONDENSATIONS
+                                                           Photo © DR - AQC                    DANS LES LOGEMENTS
+1. LE CONSTAT
+Auréoles et taches de moisissures sont les principaux                                                               Passé un certain stade de gravité, ces dommages
+signes de condensation dans les logements, visibles le                                                              sont souvent confondus par les occupants avec des
+plus souvent dans les endroits froids et faiblement ven-                                                            fuites ou des infiltrations. Ils sont susceptibles d’avoir
+tilés : cueillies de plafonds, encoignures des cloisons,                                                            de sérieuses répercussions sur le plan de la santé et
+parois des penderies, …                                                                                             du confort des occupants, mais aussi au niveau de la
+                                                                                                                    conservation du bâti.
+
+
+
+
+2. LE DIAGNOSTIC
+                                                                                               quantité excédentaire de vapeur          vitrages, la température surfacique
+L’air ambiant contient de la vapeur                                                            d’eau contenue dans un air saturé        peut être très inférieure à celle de
+d’eau en quantité variable. Elle                                                               (HR = 100 %).                            l’air ambiant. L’air au contact de
+provient de l’évaporation des eaux                                                                                                      cette surface se refroidit, et une par-
+terrestres, de la respiration animale                                                          Les condensations                        tie de la vapeur d’eau qu’il contient
+et végétale, ainsi que des activi-                                                             superficielles                           se condense en eau liquide. Cette
+tés humaines (cuisson, douche…).                                                               Elles peuvent s’observer sur les         surface deviendra donc rapidement
+À tout moment, l’air contient une                                                              zones froides telles que sur les         le siège de condensations, voire de
+certaine quantité de vapeur d’eau,                                                             simples ou doubles vitrages des          ruissellements dès que la tempéra-
+appelée Humidité Relative (HR).                                                                menuiseries, sur les parois opa-         ture extérieure sera très inférieure.
+À une température et une pres-                                                                 ques (murs), les sols (carrelages
+sion données, l’air ne peut contenir                                                           par exemple), les ponts ther-
+qu’une quantité limitée d’eau sous                                                             miques (structurels ou dus à des
+forme de vapeur. Cette quantité                                                                défauts d’exécution), les dallages
+maximale croît avec la température.                                                            sur terre-pleins mal ou peu isolés,
+L’ensemble de ces valeurs limites                                                              sur les faïences de salle de bain…,
+peut être obtenu par simple lecture                                                            également propices à l’apparition
+sur le diagramme de Mollier.                                                                   de moisissures. Essentiellement
+                                                                                               hivernal, ce phénomène est lié à la
+                   DIAGRAMME DE MOLLIER
+                 Grammes d’eau par kg d’air sec                                                tendance de la paroi à laisser pas-
+                                                                          0%
+                                                                          %
+                                                                          %
+                                                                         %
+                                                                       90
+                                                                       10
+
+                                                                       80
+
+
+
+
+      14,7
+                                                                      70
+
+
+
+
+                     zone de                     Saturation                                    ser vers l’extérieur les calories d’un
+                                                                                %
+                                                                               60
+
+
+
+
+                    brouillard                  (HR=100%)
+                                                                                               local chauffé. On l’évalue sous la
+                                                                                %
+                                                                               50
+
+
+
+
+                 Condensation
+                                                                                               forme d’un coefficient de transmis-
+                                                                                %
+                                                                               40
+                                 « Point de rosée »
+
+
+
+
+                                                                                %
+                                                                               30
+
+
+
+
+      5,4                                                                                      sion thermique (K) qui dépend de
+                                                                                %
+                                                                               20
+
+
+
+
+                                                      Zone de l’air                            l’épaisseur de la paroi et des maté-
+                                                                                %
+                                                                               10
+
+
+
+
+                                                        humide
+                                                                           Température en °C
+                                                                                               riaux qui la constituent.                Exemple de condensation au niveau d’une menui-
+ -5          0         5                       12                     20      25                                                        serie © 2017-AQC – Erwan BIDAN
+                                                                                               Lorsqu’une paroi a une mauvaise
+La condensation est la trans-                                                                  résistance thermique (coefficient
+formation en eau liquide de la                                                                 K élevé), c’est le cas des simples
+
+
+                      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             ÉQUIPEMENTS
+E.09              CONDENSATIONS DANS
+2/4               LES LOGEMENTS
+
+      En revanche, lorsqu’une paroi a une              Dans le cadre de la construction de             duisent beaucoup de vapeur
+      bonne résistance thermique (coeffi-              bâtiments performants type BBC,                 d’eau. Ils sont à proscrire y com-
+      cient K faible), la température surfa-           l’étanchéité à l’air est un critère             pris pour des raisons sanitaires
+      cique du mur est voisine de celle de             fondamental.                                    et de danger d’intoxication.
+      l’air ambiant. Il y a peu de risques             La ventilation des pièces doit éga-        Δ    La présence de coudes et/ou de
+      que l’air se condense à proximité de             lement être parfaitement adaptée                boucles dans les réseaux aérau-
+      cette surface.                                   au logement (position, dimension-               liques en combles, ralentissant
+                                                       nement) afin de permettre l’évacua-             la vitesse de circulation de l’air
+      Les condensations à                              tion adaptée de la vapeur d’eau.                (perte de charge).
+      l’intérieur d’une paroi                          La défaillance de positionnement           Δ    Le détalonnage des portes inté-
+      La pression de vapeur d’eau étant                du pare-vapeur (absence ou mal-                 rieures (ou passage de transit)
+      généralement plus importante à                   façon) ou la mise en œuvre d’un                 insuffisant entravant le balayage
+      l’intérieur qu’à l’extérieur en France           pare-vapeur     inadapté    (perfor-            de l’air dans le logement et per-
+      européenne (l’inverse peut se pro-               mance Sd non respectée) peuvent                 turbant le bon fonctionnement
+      duire dans les DROM), celle-ci migre             entraîner un défaut de blocage de               de la VMC.
+      au travers des parois depuis l’inté-             vapeur d’eau.
+      rieur vers l’extérieur. De plus les
+      matériaux de construction (béton,                Les facteurs aggravants                    3. LES BONNES
+      terre cuite, plâtre…) présentent un              traditionnels                              PRATIQUES
+      certain degré de résistance à la                 Δ Une surproduction de vapeur
+      diffusion de vapeur d’eau, ils per-                  d’eau (sur-occupation du loge-         Δ Veiller à la continuité de l’iso-
+      mettent à une quantité plus ou                       ment, vapeur de cuisson, lessives           lation thermique, et traiter les
+      moins importante de vapeur d’eau                     et séchages du linge à l’intérieur          points singuliers (trappes de
+      de passer.                                           du bâtiment…).                              visite des combles, jonctions
+      En l’absence de pare-vapeur côté                 Δ   Un chauffage insuffisant dans les           plafonds/murs, abouts de plan-
+      intérieur, la vapeur d’eau se diffuse                pièces principales ou ponctuelle-           chers, appareillages électriques
+      au travers de la paroi. Sous l’effet                 ment interrompu.                            (interrupteurs, prises de courant,
+      de l’abaissement de la tempéra-                  Δ   L’obstruction volontaire ou non             boîtes de dérivation…), passages
+      ture, elle va se condenser au droit                  (encrassement) des orifices d’en-           de câbles, percements en façade,
+      du point de rosée. L’eau ainsi for-                  trée ou d’extraction d’air.                 coffres de volets roulants, etc.),
+      mée à l’intérieur de la paroi peut               Δ   L’arrêt volontaire ou non (panne)           afin d’éviter l’apparition de
+      provoquer des dommages (humidi-                      de la VMC.                                  ponts thermiques et l’apparition
+      fication des isolants…).                         Δ   Le branchement d’une hotte                  éventuelle de condensations
+                                                           aspirante sur une extraction.               superficielles.
+                                                       Δ   La mise en œuvre, dans le cadre
+                                                           d’une rénovation, d’un revête-
+                                                           ment étanche à la vapeur d’eau
+                                                                                                       CONDENSATIONS INTERNES DANS UN MUR
+                                                           en façade créant une barrière à            dont les parements sont soumis à des conditions différentes
+                                                           l’humidité venant de l’intérieur
+                                                                                                  Parement intérieur                                    Parement extérieur
+                                                           (perspirance).                              15°C                                                   2°C
+
+                                                       Δ   Le remplacement de menuise-            Ambiance intérieure
+                                                                                                        15°C
+                                                                                                                                                        Ambiance extérieure
+                                                                                                                                                               0°C
+                                                           ries extérieures sans système de           HR = 60%                                              HR = 100%
+                                                           ventilation (à créer si inexistant).        T = 20°C
+                                                       Δ   Les appareils de chauffage sans             T = 15°C
+                                                                                                                                                     T = 12°C
+                                                           évacuation des fumées (gaz de              Processus de
+                                                           combustion) tels que poêles                condensation
+                                                                                                                                              T = 2°C
+      Exemple de condensation au travers de la paroi                                                                                                     T = 0°C
+      (photos prises après démontage des lambris).
+                                                           à combustible liquide (poêle
+      © 2015-AQC – Mathieu CORTAL (absence de pare         à pétrole) ou radiateurs à gaz
+      vapeur intérieur)                                                                           Migration de vapeur d’eau    Migration d’eau (capillarité)
+                                                           mobiles non raccordés pro-                                          Q de vapeur d’eau
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                                        ÉQUIPEMENTS             FICHE
+                                                                                           CONDENSATIONS DANS                    E.09
+                                                                                                LES LOGEMENTS                        3/4
+
+
+Bien prendre en compte la nature                   d’un calcul préalables ainsi que               piration, état des filtres éven-
+des matériaux du mur existant lors                 d’une maintenance régulière :                  tuels) ;
+de travaux d’amélioration ou de                    √  nature de l’installation (simple          √ veiller à la non-obstruction des
+rénovation énergétique. Selon le                      ou double flux) ;                           bouches (par des rangements
+cas, la mise en place d’un pare-va-                √  puissance du groupe VMC sui-                muraux, des ameublements,
+peur se révélera nécessaire pour                      vant le nombre de pièces du                 etc.) ;
+prévenir la condensation interne.                     logement ;                                √ veiller à ce que les passages
+Δ  Assurer un renouvellement de                    √  type, dimension et position                 de transit restent déga-
+   l’air suffisant.                                   des bouches d’extraction d’air              gés (absence de moquette
+   Ce point est particulièrement                      vicié et des entrées d’air ;                rapportée).
+   sensible pour les bâtiments per-                √  adaptation du système de              Δ   En neuf, lors de l’installation,
+   formants. L’efficacité d’une ins-                  ventilation au mode de chauf-             apporter un soin particulier
+   tallation de renouvellement d’air                  fage (augmentation du débit               concernant :
+   doit faire l’objet d’une étude et                  en fonction des appareils à               √ le dimensionnement du sys-
+                                                      combustion).                                tème de ventilation ;
+                                               Δ   Prévoir un revêtement de façade              √ la disposition du réseau
+                                                   ayant une bonne perméabilité à                 de ventilation en combles
+    À CONSULTER                                    la vapeur d’eau : vérifier la com-             (absence de coudes et/ou
+    Δ Réglementation   thermique 2012              patibilité du revêtement d’imper-              boucles, absence d’écrase-
+    Δ Arrêté du 24 mars 1982, modifié
+      par l’arrêté du 28 octobre 1983,
+                                                   méabilisation de la façade avec                ment, protection contre les
+        relatif aux dispositions relatives         le complexe isolation/ventilation.             risques de déchirement) ;
+        à l’aération des logements à la        Δ   Informer l’occupant des bonnes               √ les complexes d’isolation à
+        protection contre l’incendie des           conditions d’usage :                           mettre en œuvre (les condi-
+        bâtiments d’habitation - Version
+        consolidée au 11 août 2015
+                                                   √  ne jamais arrêter la ventilation ;          tions climatiques, l’orientation
+        – (§101)                                   √  maintenir en permanence une                 des façades entrent en jeu,
+    Δ   DTU 68.3 : Installations de venti-            température (suffisante) mini-              par exemple) ;
+        lation mécanique. ( Parties 1.1.1             male (17° en général) dans                √ le détalonnage des portes ;
+
+    Δ
+        à 1.1.4 )
+        DTU 40.35 : Couverture en
+                                                      toutes les pièces, y compris              √ les points de vigilance et
+        plaques nervurées issues de tôles             dans les pièces inoccupées ;                de contrôle à opérer lors
+        d’acier revêtues                           √  veiller au bon entretien des                des différentes étapes de la
+    Δ   NF DTU 25.41 : Ouvrages en
+        plaques de plâtre
+                                                      installations de ventilation                construction ou de la mise en
+                                                      (propreté des bouches d’as-                 place.
+    Δ   NF DTU 24.42 : Ouvrage de dou-
+        blage et habillage en complexes et
+        sandwiches plaques de parement
+        en plâtre isolant
+    Δ   Recommandations profession-
+        nelles « RAGE 2012 » – VMC
+        simple flux en habitat collectif –
+        Rénovation (février 2013)
+    Δ   Recommandations profession-
+        nelles « RAGE 2012 » – VMC
+        simple flux en habitat individuel
+        – Rénovation (février 2013)
+    Δ   Recommandations profession-
+        nelles « RAGE » – Ventilation
+        mécanique répartie en habitat
+        individuel et collectif – Rénovation
+                                                    L’ESSENTIEL
+        (juin 2014)                                 Δ Maîtriser les ponts thermiques.
+    Δ   NF DTU 68.3                                 Δ Mettre en place un procédé d’isolation tenant compte de la
+    Δ   CTP 3560 : Isolation thermique
+        des combles - Isolation en laine
+                                                      nature des matériaux existants, en réhabilitation.
+        minérale faisant l’objet d’un Avis          Δ Dans tous les cas, assurer une ventilation permanente et
+        Technique ou d’un constat de                   contrôlée avec balayage de l’ensemble des pièces.
+        traditionnalité
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            ÉQUIPEMENTS
+E.09             CONDENSATIONS DANS
+4/4              LES LOGEMENTS
+
+      4. L’ŒIL DE L’EXPERT
+                                                           Présence d’un pont thermique en plancher haut - insuffi-
+                                                           sance de ventilation - défaut de conception de la ventilation
+                                                           (ex : bouche VMC mal positionnée).
+
+
+
+
+      Photo © DR - AQC
+
+
+
+                                                           Air ambiant vicié et saturé en vapeur d’eau - insuffisance ou
+                                                           absence de ventilation du local - insuffisance ou absence de
+                                                           chauffage du local - occupation du local.
+
+
+
+
+      Photo © DR - AQC
+
+
+
+                                                           Défaut d’entretien de la VMC - insuffisance de ventila-
+                                                           tion - défaut de dimensionnement ou de conception de la
+                                                           ventilation.
+
+
+
+
+      Photo © DR - AQC
+
+
+
+                                                           Défaut d’isolation du montant de la menuiserie - défaut
+                                                           d’étanchéité du joint vitrage - défaut de ventilation et/ou
+                                                           chauffage du local.
+
+
+
+
+      Photo © DR - AQC
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

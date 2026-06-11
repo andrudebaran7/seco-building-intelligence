@@ -1,0 +1,292 @@
+                                                                          STRUCTURES ET GROS ŒUVRE                     FICHE
+                                                                                                                       B.02
+                                                                                                                            1/5
+
+
+
+                                          HUMIDITÉ EN
+                      Photo © DR - AQC    SOUS-SOL DES BÂTIMENTS
+
+1. LE CONSTAT
+                                                               Les DROM présentent une densification du
+Les infiltrations se manifestent sous diverses                 littoral et une extension des constructions sur
+formes, depuis de simples traces d’humidité                    les hauteurs et zones en pente (relief acciden-
+ponctuelles sur la face intérieure des murs péri-              té). Ces caractéristiques, conjuguées aux ex-
+phériques ou à la jonction entre murs périphé-                 positions cycloniques et aux précipitations im-
+riques et dallage, jusqu’à l’inondation totale du              portantes rendent les désordres d’humidité en
+sous-sol.                                                      sous-sols ou parties enterrées plus aigus.
+Ce type de désordre concerne essentiellement                   En complément, les modes constructifs asso-
+les sous-sols réalisés en maçonnerie de petits                 ciés à l’absence de doublage intérieur rendent
+éléments, et principalement les maisons indivi-                ces phénomènes plus sensibles, la moindre
+duelles. Mais des sous-sols réalisés en béton ban-             pénétration d’eau au travers des parois en-
+ché sont aussi susceptibles d’être concernés.                  gendrant inévitablement des dommages de
+                                                               mouille avec traces d’humidité ou dégradations
+                                                               des parements intérieurs.
+
+
+
+
+2. LE DIAGNOSTIC                             directement sur la maçonne-              œuvre de matériaux drainants
+                                             rie n’apporte pas de protection          ou de procédés drainants perfor-
+L’absence d’ouvrage                          efficace contre les infiltrations        mants, contre toutes les surfaces
+Δ Cuvelage non prévu ni réalisé              d’eau. Il faut, au minimum, un re-       de murs enterrés.
+    alors que le niveau de la nappe          vêtement à fonction imperméa-        Δ   Mauvais raccordement de ce
+    phréatique est susceptible d’être        bilisante, type enduit de mortier        drainage vertical avec les drains.
+    supérieur à celui du dallage.            ou enduit bitumineux. Voire              Utilisation de drains type agricole
+Δ   Cuvelage non prévu ni réalisé            un revêtement étanche (type              (perforés de tous côtés) à la place
+    alors que des ruissellements             membrane bitumineuse collée)             de drains type bâtiment (perfora-
+    d’eau souterrains importants             qui interdit tout passage d’eau.         tions uniquement sur le dessus).
+    sont susceptibles d’atteindre le     Δ   Les nappes à excroissances               Insuffisance de pente des drains,
+    sous-sol.                                n’assurent aucune protection             contre-pente entraînant des ré-
+Δ   Drainage périphérique non pré-           à l’eau car, n’étant pas collées,        tentions d’eau.
+    vu ni réalisé alors que des eaux         l’eau les contourne. Elles n’as-     Δ   Fil d’eau du drain plus haut que le
+    souterraines (telluriques) ou de         surent qu’une protection mé-             sol intérieur du sous-sol.
+    ruissellement sont susceptibles          canique des revêtements, ou          Δ   Absence ou insuffisance d’exu-
+    de s’accumuler contre les murs           sont intégrées à des systèmes            toire des eaux recueillies par les
+    de sous-sol.                             de drainage en association avec          drains. L’eau s’accumule alors
+                                             d’autres matériaux.                      contre les murs de sous-sol.
+Le mauvais choix des                                                                  Absence de feutre géotextile, ou
+revêtements extérieurs                   Les défauts d’exécution                      équivalent, empêchant le colma-
+Δ Emploi de revêtements inadap-          Défauts d’exécution des                      tage du système de drainage par
+    tés sur la face extérieure des       drainages                                    entraînement des particules de
+    murs périphériques. Une simple       Δ Drainage vertical inefficace : par         terre.
+    émulsion bitumineuse appliquée         absence ou mauvaise mise en
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           STRUCTURES ET GROS ŒUVRE
+B.02            HUMIDITÉ EN SOUS-SOL DES BÂTIMENTS
+2/5
+
+
+
+
+      Δ Absence, mauvaise réalisation Δ Manques localisés de revête-                                         de capillarité). Les exigences en
+          ou décrochage, par le compac-             ment autour des châssis de                               matière d’accessibilité des PMR
+          tage des terres de remblai, de            sous-sol, aux attentes de murets                         nécessitent des dispositions
+          la protection en tête du système          sur rampe de sous-sol, au niveau                         particulières, au moins au droit
+          de drainage (nappe à excrois-             supérieur des sols.                                      des accès.
+          sances). La terre pénètre dans                                                                 Δ   Les pentes dirigées vers le bâti-
+          le système de drainage et le          Défauts d’exécution des abords                               ment favorisent l’accumulation
+          colmate.                              Δ Remblais de fouille mal ou                                 d’eau contre les murs enterrés.
+      Δ   Absence de regards de visite aux        non compactés. Les cavités                             Δ   Les cours anglaises, sauts-de-
+          changements de direction des            présentes dans ces remblais                                loup et tout aménagement en
+          drains (impossibilité de contrôle,      favorisent l’accumulation d’eau                            cuvette contre les sous-sols et
+          et d’intervention en cas de             contre les murs de sous-sol.                               qui sont dépourvus de système
+          colmatage).                           Δ Présence de trottoirs et terrasses                         de renvoi des eaux pluviales à
+                                                  en pavés autobloquants posés                               bonne distance.
+      Défauts d’exécution des                     sur lit de sable, en pied de                           Δ   Défaut d’étanchéité des regards,
+      revêtements extérieurs des                  façade. Ils constituent des                                réseaux enterrés, récupérateurs
+      murs périphériques                          réservoirs d’eau au contact des                            d’eau et autres à proximité des
+      Δ Nombre de couches de produit              murs de sous-sol.                                          sous-sols.
+        de revêtement inférieur aux             Δ Niveau     excessif   des     sols                     Δ   Proximité excessive d’épandage
+        préconisations du fabricant.              extérieurs par rapport à celui du                          de système d’assainissement
+      Δ Omission de l’enduit de mortier           revêtement extérieur des murs                              non collectif.
+        préalable à la mise en œuvre de           de sous-sol : les ruissellements                       Δ   Absence ou fuite de gouttières et
+        certains produits bitumineux.             de surface passent par-dessus                              descentes d’eaux pluviales.
+      Δ Discontinuités du revêtement              les arases étanches (ou coupures
+        extérieur.
+
+
+
+
+      Terrain                                                                    SYSTÈMES DE DRAINAGE
+      perméable
+
+
+                                 Tranchée et canalisation                     En terrain à grains ﬁns              Exemple de plaque ou
+                                 drainantes                                                                        dalle drainante
+                  Remblai
+
+
+
+
+                                                                                     Textile non tissé
+                                                                                                                       Plaque ou dalle
+
+                                                            Sable 0/3
+                                                            Imperméa.
+
+                                                            Gravillons 5/15
+      Terrain
+      peu perméable
+                                                            Cailloux 30/60
+
+
+
+
+                 Eau                                  Solutions « traditionnelles»
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                   STRUCTURES ET GROS ŒUVRE                    FICHE
+                                                                HUMIDITÉ EN SOUS-SOL DES BÂTIMENTS                             B.02
+                                                                                                                                 3/5
+
+
+
+
+    Dans les DROM, les désordres résultent                              traitement des parois enterrées est souvent
+    principalement des causes suivantes :                               réalisé par imperméabilisation simple peinture
+    Δ la non-prise en compte de la destination de la                    bitumineuse à défaut d’un traitement d’étan-
+      pièce affectée : les pièces enterrées ne sont                     chéité adapté (enduit d’étanchéité, membrane
+      pas toujours appréhendées comme des zones                         d’étanchéité collée,…) ;
+      nobles, impliquant alors dans ce cas, une ab-                 Δ   des défauts d’exécution des revêtements
+      sence totale de pénétration d’eau en l’absence                    extérieurs :
+      de doublage ;                                                     √   défaut d’application du revêtement d’étan-
+    Δ des aménagements extérieurs défavorables :                            chéité (épaisseur insuffisante, traitement
+      la limitation naturelle du foncier au regard des                      des points singuliers et pénétrations, jonc-
+      reliefs et l’optimisation des zones constructibles                    tions dallage et base de la paroi verticale, …),
+      favorisent des dispositions d’aménagements ex-                    √   drainage vertical absent ou inadapté,
+      térieurs concentrant les eaux de ruissellement ;                  √   défaut de raccordement et d’évacuation du
+      la densité de construction renforce l’imperméa-                       drainage,
+      bilisation des sols ;                                             √   défaut de protection de l’étanchéité,
+    Δ l’absence ou l’inadaptation d’ouvrages : par                          notamment dans le cas d’un drainage
+      omission ou défaut de connaissance de circu-                          vertical en contact direct avec la membrane
+      lations d’eau souterraines ou surfaciques, le                         ou l’enduit.
+
+
+
+
+3. LES BONNES                                  Δ Éviter d’aménager ultérieure- Δ Solidariser les regards EP aux
+PRATIQUES                                        ment en lieu de vie ou d’habi-    murs de sous-sols.
+                                                 tation un local en sous-sol non Δ Utiliser des regards EP avec
+Δ Réaliser impérativement une                      conçu initialement pour cet                joints d’étanchéité en EPDH
+    étude de sol préalable appro-                  usage.                                     incorporés à la fabrication.
+    fondie pour identifier si des eaux         Δ   Mettre en place une ventilation
+    risquent de s’accumuler contre                 des locaux en sous-sol.
+    les sous-sols.                             Δ   Veiller à la bonne exécution des
+Δ   Adapter la conception en fonc-                 travaux prévus, en particulier au
+    tion de l’usage du local et de la              droit de tous les points singuliers
+    capacité du terrain à se saturer               et au traitement des abords.
+    en eau.
+
+
+
+    À CONSULTER                                    L’ESSENTIEL
+    Δ NF DTU 20.1: Ouvrages en ma-
+      çonnerie de petits éléments - Pa-
+                                                   Δ Définir préalablement avec le maître d’ouvrage l’usage
+                                                       final de ces locaux (stockage, parking, local habitable, ...) et les
+        rois et murs
+    Δ   DTU 14.1 : Travaux de cuvelage.                exigences.
+    Δ   Avis Techniques pour les procédés
+        autres que traditionnels
+                                                   Δ   Faire réaliser une étude de sol préalable (nature du sol et circu-
+                                                       lation d’eau).
+    Δ   BP X 35-075 : Accessibilité des éta-
+        blissements recevant du public,            Δ   Bien concevoir les murs de sous-sol au regard des exigences et
+        Principes constructifs pour l’ac-              des risques.
+        cessibilité des balcons, loggias et
+        terrasses
+                                                   Δ   Bien choisir et bien exécuter les revêtements d’imperméabili-
+                                                       sation et d’étanchéité, les drainages et leurs exutoires, les ré-
+                                                       seaux EP et les abords.
+
+
+
+                 >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             STRUCTURES ET GROS ŒUVRE
+B.02              HUMIDITÉ EN SOUS-SOL DES BÂTIMENTS
+4/5
+
+
+
+
+          Il est impératif lors de la réalisation d’un mur                   collecte et évacuation des eaux d’infiltration
+          enterré associé à un local :                                       en partie inférieure de la double paroi,
+          Δ   de définir avec précision et anticipation l’affec-         √   cuvelage intérieur, sous réserve d’étude
+              tion ou la destination de ce local ;                           spécifique de la paroi béton (condition de
+          Δ   d’étudier avec soin la configuration du site (relief           fissuration préjudiciable, utilisation de joint
+              et pentes, exposition, altitude, précipitations…) ;            hydrogonflant aux reprises de bétonnage
+          Δ   d’identifier et de prendre en compte la présence               etc.) ;
+              d’eaux souterraines ;                                  Δ   de prévoir un dispositif de drainage vertical, de
+          Δ   de choisir un traitement de la paroi enterrée              drainage horizontal et une évacuation des eaux
+              adapté :                                                   adaptée au contexte et au profil du terrain ;
+              √   étanchéité monocouche + protection par             Δ   de soigner l’exécution des points singuliers (re-
+                  nappe à excroissance + remblai drainant                prises de bétonnage ou jonctions d’ouvrages,
+                  (avec drain de collecte en partie inférieur),          pénétrations, …).
+              √   étanchéité par double-parois ventilées avec
+
+
+
+
+      4. L’ŒIL DE L’EXPERT
+                                                                     Humidité en sous-sol enterré : importantes infiltra-
+                                                                     tions par les murs périmétriques. Ventilation des lo-
+                                                                     caux inexistante. Pas de traitement d’étanchéité et de
+                                                                     drainage par l’extérieur des murs périmétriques. Fac-
+                                                                     teurs aggravants, les descentes d’eaux pluviales sont
+                                                                     épandues sur le terrain.
+
+
+
+
+      Photo: ©2014 - De Villars - AQC
+
+
+                                                                     L’humidité monte dans les cloisons intérieures du
+                                                                     rez-de-chaussée partiellement enterré. Les murs ex-
+                                                                     térieurs sont étanchés. L’eau remonte par le dallage.
+                                                                     Les eaux circulant dans le sol sont très importantes.
+                                                                     Le drain ne suffit pas à évacuer les eaux. La solution a
+                                                                     consisté à créer une tranchée drainante en amont de
+                                                                     la maison.
+
+
+
+
+      Photo: ©GIE SOCABAT
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                         STRUCTURES ET GROS ŒUVRE                   FICHE
+                                                        HUMIDITÉ EN SOUS-SOL DES BÂTIMENTS                          B.02
+                                                                                                                         5/5
+
+
+
+
+                                                             Infiltration au-dessus et en pied d’une banquette
+                                                             maçonnée en fond de garage.
+                                                             Le garage, semi-enterré, est adossé à un mur de
+                                                             clôture en limite de propriété. La banquette a permis
+                                                             de ne pas toucher à la fondation du mur de clôture.
+                                                             Aucune étanchéité n’a été réalisée derrière la
+                                                             banquette et aucun drain en pied de cette banquette.
+
+
+
+
+Photo: ©GIE SOCABAT
+
+
+                                                             Infiltrations d’eau dans le sous-sol en pied de mur.
+                                                             Plusieurs causes à ces infiltrations:
+                                                             Δ  les murs sont en blocs de polystyrène emplis de bé-
+                                                                ton. La continuité du béton en pied de mur est sou-
+                                                                vent mal réalisée par manque de vibrage du béton ;
+                                                             Δ  le drain en pied de mur est réalisé au-dessus du ni-
+                                                                veau du dallage ;
+                                                             Δ  la nappe drainante en PVC embossé ne comporte
+                                                                pas de solin en tête. Ceci favorise l’infiltration des
+                                                                eaux de ruissellement superficiel.
+Photo: ©GIE SOCABAT
+
+
+
+
+Pour en savoir plus :
+                                                                            Retrouvez l’ensemble des
+                                                                            Fiches pathologie bâtiment sur :
+                                                                            www.qualiteconstruction.com
+                                                                            et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

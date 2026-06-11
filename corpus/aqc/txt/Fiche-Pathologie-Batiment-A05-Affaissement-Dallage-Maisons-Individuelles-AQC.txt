@@ -1,0 +1,162 @@
+                                                                                           FONDATIONS ET INFRASTRUCTURES                      FICHE
+                                                                                                                                              A.05
+                                                                                                                                                   1/3
+                                                                 AFFAISSEMENT DE
+                                                                 DALLAGE DE MAISONS
+                                   Photo © DR - AQC              INDIVIDUELLES
+
+1. LE CONSTAT
+Les dallages sur terre-plein des maisons individuelles                               Des fissures plus ou moins importantes apparaissent
+subissent parfois des affaissements en pied de murs                                  dans les cloisons et les revêtements de sol.
+périphériques. Cela se traduit généralement par l’appa-                              Des arrachements de canalisations passant dans ou
+rition d’un vide entre le revêtement de sol et la base                               sous le dallage peuvent également se produire.
+des plinthes.
+
+
+
+
+2. DIAGNOSTIC                                                    Les principales causes d’affaisse-         ment liés à des modifications de
+                                                                 ment de dallages sur terre-plein           teneur en eau du sol, conduisant
+               COUPE D’UN DALLAGE                                sont variées.                              à des affaissements de dallages,
+0                                                                                                           non uniformes en général (voir
+                                                             1
+                                                                 Des terrains inaptes à                     fiche A.2).
+2                                                                recevoir un dallage sur                Δ   Terrains soumis à l’action de
+4
+                                                             3
+                                                                 terre-plein                                l’eau :
+                                                             5
+                                                                 Δ Terrains hétérogènes (ou ter-            Ω  les variations de niveau de la
+6                                                                    rains en pente avec remblais et           nappe phréatique entraînent
+    0. Revêtement éventuel         Support :                         déblais), pouvant entraîner des           des cycles de tassements et
+    1. Couche d’usure éventuelle   4. Inferface éventuelle           tassements différentiels de la            de gonflements du sol ;
+    2. Dallage
+    3. Isolant
+                                   5. Forme éventuelle
+                                   6. Sol
+                                                                     forme, et donc du dallage ; sols       Ω  les terrains sujets à inonda-
+                                                                     meubles, pouvant comporter                tion lors de crues qui peuvent
+                                                                     des rognons rocheux, consti-              provoquer une érosion ou un
+Un dallage sur terre-plein est un                                    tuant des points durs.                    compactage hydraulique de
+ouvrage horizontal en béton de                                   Δ   Terrains gypseux ou calcaires,            l’assise du dallage, d’où affais-
+grandes dimensions horizontales                                      dans lesquels des cavités impor-          sement rapide de ce dernier ;
+par rapport à son épaisseur (mini-                                   tantes peuvent apparaître, par         Ω  les terrains en cuvette ou pré-
+mum de 12 cm pour les maisons in-                                    dissolution de la roche.                  sentant une couche argileuse
+dividuelles), coulé sur une forme en                             Δ   Terrains compressibles com-               peu perméable, juste sous
+matériaux choisis et mis en œuvre                                    portant des strates molles                le niveau des fondations, en-
+pour constituer une assise stable.                                   (tourbe, vase) en dessous de              traînent une rétention et une
+La forme est réalisée à même le                                      strates de meilleure résistance           saturation d’eau dans le sol,
+sol en place après décapage de la                                    ce qui entraîne un basculement            avec pour effet une perte de
+terre végétale. Le dallage est en                                    ou un affaissement du dallage ,           résistance mécanique et des
+appui continu sur cette forme, avec                                  ou bien des terrains compor-              tassements différentiels.
+une interface éventuelle (couche                                     tant des remblais non stabili-
+de sable, film, isolant…). Dès que le                                sés ou des assises en voie de      Une mauvaise réalisation de
+sol et/ou la couche de forme pré-                                    consolidation.                     la couche de forme
+sentent des faiblesses, le dallage en                            Δ   Terrains argileux sensibles aux    Δ Décapage insuffisant de la
+béton suit ces mouvements.                                           phénomènes de retrait-gonfle-          plateforme, il y a migration
+
+
+
+                    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            FONDATIONS ET INFRASTRUCTURES
+A.05             AFFAISSEMENT DE DALLAGE
+2/3              DE MAISONS INDIVIDUELLES
+
+          des granulats de la couche de            Δ Épaisseur trop importante de               lité, dans le respect du nombre
+          forme vers le terrain sous-jacent,           la couche de forme, ou inégale           de points minimal et de la pro-
+          trop mou. Ce qui a pour effet de             et hétérogène (ne pas réaliser de        fondeur d’investigation prévus
+          provoquer un tassement de la                 couche de plus de 40 cm d’épais-         par ce DTU), ainsi qu’une en-
+          forme conduisant à un affaisse-              seur en tout point).                     quête de sol (article 7 du même
+          ment du dallage.                                                                      DTU).
+      Δ   Le coulage du dallage direc-             Autres causes potentielles               Δ   En cas de sols argileux, préférer
+          tement sur la terre végétale,            Δ Rupture de canalisations enter-            un plancher sur vide sanitaire à
+          sans réalisation de forme, il se             rées sous dallage, d’où fuites           la solution d’un dallage sur terre-
+          produit une décomposition ulté-              provoquant des affouillements            plein, sensible aux effets de
+          rieure des matières organiques               du sol et entraînant l’affaisse-         retraits-gonflements.
+          et instabilité du terrain.                   ment du dallage.                     Δ   Préférer un vide sanitaire au-de-
+      Δ   Nature et composition de la              Δ   Présence d’un isolant unique-            là d’un remplissage de plus de
+          couche de forme inadaptées                   ment en périphérie et non sous           40 cm d’épaisseur.
+          aux charges appliquées, la                   toute la surface du dallage, d’où
+          forme réalisée à partir de ma-               tassement différentiel selon         Au niveau de la mise en
+          tériaux contenant des gravats                compressibilité de l’isolant.        œuvre
+          ou des impuretés argileuses              Δ   Compressibilité de l’isolant non     Δ Effectuer un décapage suffisant
+          affaiblissant sa résistance. Les             adaptée.                                 de la terre végétale (à évacuer
+          matériaux dits « tout-venant »           Δ   Tassement du sol sous l’effet de         sur 30 cm d’épaisseur environ) ;
+          ou friables, comportent un fort              succion de l’eau par les racines     Δ   réaliser la forme avec des maté-
+          pourcentage d’éléments fins qui              d’arbres implantés trop près (dis-       riaux appropriés ;
+          contribuent au tassement de la               tance à respecter de 1 à 1,5 fois    Δ   effectuer un compactage soi-
+          couche de forme.                             la hauteur de l’arbre à sa taille        gneux de cette forme, par
+      Δ   L’insuffisance de compac-                    adulte).                                 couches de 20 cm maximum,
+          tage de la forme, notamment                                                           avec du matériel adéquat, y
+          en rives périphériques, est un                                                        compris, point essentiel, en pé-
+          facteur principal des affaisse-          3. LES BONNES                                riphérie et au droit des façades
+          ments de dallage. L’insuffisance         PRATIQUES                                    et refends ;
+          de serrage du squelette granu-                                                    Δ   effectuer un contrôle des résul-
+          laire réduit considérablement            Au niveau de la conception                   tats du compactage; le DTU 13-3
+          la capacité portante, d’où forte         Δ Se renseigner localement sur               impose une valeur minimale
+          diminution de la résistance à la             le niveau de la nappe phréa-             du module de déformation du
+          déformation ; compactage sur                 tique, sur les crues éventuelles         support de 30 MPa/m pour une
+          des couches trop épaisses (ne                et sur l’existence ou non de             plaque de diamètre 75 cm ;
+          pas dépasser 20 cm d’épaisseur               dallages dans les constructions      Δ   vérifier la qualité de réalisation
+          par couche à compacter), trop                avoisinantes.                            des canalisations enterrées sous
+          humides ou à l’aide de compac-           Δ   Établir une reconnaissance géo-          dallage.
+          teurs non adaptés ; absence ou               technique conforme au chapitre
+          insuffisance de compactage le                6 du DTU 13.3 (phase d’étude
+          long des murs porteurs.                      préliminaire et phase de faisabi-
+
+
+
+                                                       L’ESSENTIEL
+          À CONSULTER                                  Δ Ne réaliser un dallage sur terre-plein que sur un terrain apte à
+          Δ www.georisques.gouv.fr                       le recevoir (selon l’étude de sol).
+          Δ DTU   13.3 : Dallages - Conception,
+            calcul et exécution                        Δ Porter une grande attention à la mise en œuvre : composition
+          Δ NF  P 94-500 : Missions d’ingénie-
+            rie géotechnique - Classification et
+                                                          de la couche de forme, qualité du compactage, contrôle du
+                                                          résultat.
+             spécification
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                     FONDATIONS ET INFRASTRUCTURES                   FICHE
+                                                                          AFFAISSEMENT DE DALLAGE                    A.05
+                                                                          DE MAISONS INDIVIDUELLES                        3/3
+
+
+4. L’ŒIL DE L’EXPERT
+Tassement de l’isolant thermique
+L’isolant thermique utilisé était de type SC1 ou SC2, isolant conforme au DTU26.2 et DTU52.1 pour la pose sous
+chape hydraulique et pose scellée directement sur l’isolant.
+Malheureusement, il aurait fallu utiliser un isolant incompressible de sol (selon l’annexe A du DTU45.1) spécifique
+pour pose sous dallage conformément au DTU13.3 partie 3 (Maisons individuelles).
+Le tassement du dallage a atteint 14 mm entraînant de gros dégâts sur les cloisons de distribution en briques de
+la maison.
+
+
+
+
+Photos © DR - AQC                                             Photos © DR - AQC
+Tassement entraînant la rupture du carrelage                  La végétation pousse entre les plinthes et le carrelage
+                                                              au niveau du tassement > 1 cm.
+
+
+
+
+Photos © DR - AQC
+Rupture de la cloison entre deux portes avec déforma-
+tion des encadrements.
+
+
+
+
+Pour en savoir plus :
+                                                                                  Retrouvez l’ensemble des
+                                                                                  Fiches pathologie bâtiment sur :
+                                                                                  www.qualiteconstruction.com
+                                                                                  et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

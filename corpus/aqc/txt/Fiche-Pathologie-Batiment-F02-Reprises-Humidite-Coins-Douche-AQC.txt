@@ -1,0 +1,160 @@
+                                                                             AMÉNAGEMENTS INTÉRIEURS                    FICHE
+                                                                                                                         F.02
+                                                                                                                             1/3
+
+
+
+                                          REPRISES D’HUMIDITÉ
+                        Photo © DR AQC    DANS LES COINS DOUCHE
+1. LE CONSTAT
+Des infiltrations peuvent être suspectées lors de l’appa-      Ces infiltrations se produisent souvent au niveau
+rition d’une humidité anormale à la base des cloisons          des joints d’interface entre « bac à douche/revête-
+contiguës à une douche.                                        ment mural/plage périphérique », mais elles peuvent
+Si ces infiltrations ne sont pas décelées suffisamment         également prendre naissance au droit de toutes les
+tôt, l’humidité peut traverser les cloisons et créer des       singularités géométriques du carrelage soumis aux
+dommages aux embellissements des locaux voisins.               projections d’eau.
+
+
+
+2. LE DIAGNOSTIC                          3. LES BONNES                                Nature des supports : le NF DTU
+                                          PRATIQUES                                    52.2 comporte une nomencla-
+Les causes principales                                                                 ture de supports classés de S1
+Δ L’inadaptation, ou l’absence de         Le NF DTU 52.2 est le document               à S14 en fonction de leur nature.
+    protection à l’eau du support de      normatif traitant de l’adéquation        Δ   Veiller à la protection à l’eau
+    la faïence. Il en découle une ruine   entre les différents types de sup-           des supports.
+    de l’ouvrage qui ne se résout que     port, les colles et le revêtement car-       Le revêtement (carreau + pro-
+    par sa réfection totale.              relage collé.                                duit de collage + joint) ne peut
+Δ   Le déplacement du receveur            Δ  Choisir la nature du support              en aucun cas assurer seul l’étan-
+    de douche. Le glissement ou le           du revêtement carrelage en                chéité du support.
+    tassement du receveur sur ses            fonction de l’exposition à l’eau          Un système de protection à l’eau
+    appuis est dû aux calages de qua-        du local.                                 sous carrelage (SPEC) doit être
+    lité médiocre, souvent constitués        Ne jamais employer de plaques             prévu sur les supports sensibles,
+    d’empilements de matériaux de            de plâtre non hydrofugées ou              en parois verticale et horizontale,
+    nature diverse, sensibles à l’eau        des cloisons en carreaux de               selon les cas et les prescriptions
+    et non solidaires.                       plâtre standard.                          normatives.
+Δ   Le jointoiement. Même si les          Δ  Choisir les techniques adé-               Une étanchéité est indispensable
+    joints sont correctement calibrés        quates de mise en œuvre.                  lorsque des siphons de sol sont
+    en partie courante, les carreaux         Les tableaux du NF DTU 52.2               incorporés dans le carrelage en
+    sont souvent en contact dans les         donnent, de manière synthé-               plancher intermédiaire. C’est par
+    angles (réserver un espace de            tique, les possibilités de pose de        exemple le cas des douches à
+    5 mm entre appareil sanitaire et         carrelage en fonction du classe-          l’italienne (cf. fiche F.06). Cette
+    revêtement).                             ment des locaux, de la nature             étanchéité peut être consti-
+Δ   Le défaut d’étanchéité des tra-          des supports, avec ou sans pro-           tuée d’un Système d’Étanchéité
+    versées. Le traitement d’étan-           tection à l’eau.                          Liquide (SÉL) ou d’autres sys-
+    chéité des traversées de parois          Classement des locaux : suivant           tèmes à base de feuilles collées
+    par les canalisations est souvent        le Cahier du CSTB N° 3567 de mai          ou soudées ou de membranes
+    omis et les dispositifs d’évacua-        2006, les locaux sont répertoriés         (SÉPI).
+    tion insuffisamment testés à la          en cinq catégories de EA à EC,            La coordination entre le carre-
+    mise en route de l’installation.         selon le taux d’hygrométrie des           leur, le plaquiste et le plombier
+                                             ambiances et le degré d’exposi-           (et l’étancheur éventuellement)
+                                             tion à l’eau des parois.                  est indispensable afin d’assurer
+                                                                                       les différentes protections à l’eau
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            AMÉNAGEMENTS INTÉRIEURS
+F.02             REPRISES D’HUMIDITÉ
+2/3              DANS LES COINS DOUCHE
+
+        sous carrelage (ou étanchéité).
+      Δ Soigner      la  réalisation     des
+                                                                           2        1    Joint d’étanchéité     2      Joint de finition
+        joints.                                           Cloison                        réalisé avant la              réalisé avant la
+                                                                                         pose du carrelage             pose du carrelage
+        Si les carreaux sont en contact
+        dans les angles, le joint de                          1
+                                                                                              Adhérence du joint sur         Rosace
+        coulis de ciment, appliqué en                                                         la tranche du carreau                        1
+                                                                                              et non sur l’émail
+        congé entre carreaux d’angle ou
+        tranches de carreaux et rece-
+        veur, adhère mal si la largeur du
+        joint est trop petite. Les joints en                                                                                   2
+
+        angle rentrant doivent donc être                                                                      2 mm
+                                                                                                              mini
+        légèrement élargis pour faciliter                                                                                    Tube
+        la pénétration du coulis entre les                                                                                   Fourreau
+
+        carreaux.
+        Joint d’adossement du plom-
+        bier : le plombier qui pose un               régulièrement refait.                       humides.
+        appareil sanitaire doit réaliser un          Le même principe de double               Attention ! Les travaux d’étan-
+        joint étanche d’adossement de                joint doit être appliqué au droit        chéité relèvent d’une qualification
+        cet appareil contre la paroi.                des pénétrations de tuyauteries          spécifique « Étanchéité » et non
+        Joint de finition du carreleur :             au travers des parois exposées           d’une qualification « Carrelage »
+        le carreleur qui pose une faïence            à l’eau.
+        contre un appareil sanitaire doit        Δ   Prévoir autant que possible              La prudence s’impose : un car-
+        réaliser un autre joint. Il s’agit           une plage périphérique avec              releur peut à coup sûr poser des
+        d’un joint de finition en mastic             une pente de 10 % qui évitera            SPEC ; mais s’il doit réaliser une
+        élastomère extrudé qui peut                  toute stagnation propice aux             étanchéité (SÉL ou SÉPI) et/ou poser
+        venir en recouvrement de celui               infiltrations.                           un siphon de sol, il doit impérative-
+        exécuté par le plombier.                 Δ   Ne pas omettre de prévoir une            ment vérifier ses qualifications et
+        Ce joint doit être entretenu et              bonne ventilation des pièces             ses conditions d’assurances.
+
+
+
+
+        À CONSULTER
+        Δ NF  DTU 52-2 : Pose collée des
+          revêtements céramiques et assi-
+            milés - pierres naturelles. Partie       L’ESSENTIEL
+            1-1-1 et Partie 1-1-3 pour les
+            plages périphériques                     Δ Veiller à la protection à l’eau ou à l’étanchéité des supports par
+        Δ   Règles professionnelles APSEL-             des systèmes adaptés.
+            CSFE-travaux d’étanchéité à l’eau        Δ Soigner la réalisation des joints.
+            réalisés par application de SEL
+            sur planchers intermédiaires et          Δ Réaliser seulement les travaux entrant dans les qualifications
+            parois verticales                          et couverts par des assurances professionnelles.
+        Δ   NF DTU 60.1 : Plomberie sanitaire        Δ Entretenir les joints et les refaire régulièrement.
+            pour bâtiments
+
+
+       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                                             REPRISES D’HUMIDITÉ                       F.02
+                                                                           DANS LES COINS DOUCHE                          3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Défaillance du joint entre le bac à douche et la faïence [ photo
+                                                       de gauche ] – joint déposé ; pas de double joint en périphérie
+                                                       du bac à douche – pas de SPEC sur cloison – espace entre
+                                                       faïence et bac à douche trop large.
+
+
+
+
+Photo © DR AQC
+
+
+
+
+Photo © DR AQC
+Défaut détanchéité des joints rentrants (angle faïence et bac – faïence - photo 1). Rejaillissement et écoulement
+d’eau en bout de bac (pas de porte de douche – photo 2). Décollement du papier peint dans la cloison adossée à
+la douche (photo 3).
+
+
+
+                                                       Défaut d’étanchéité entre le bac et la paillasse traité avec un
+                                                       profilé rigide – pas de joint souple.
+
+
+
+
+Photo © DR AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

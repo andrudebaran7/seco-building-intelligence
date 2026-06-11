@@ -1,0 +1,213 @@
+                                                             ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                       FICHE
+                                                                                                                        D.05
+                                         REVÊTEMENTS                                                                         1/4
+
+
+                                         EXTÉRIEURS SUR
+                     Photo © DR - AQC
+                                         OUVRAGES NEUFS
+
+1. LE CONSTAT
+Dans les DROM, les revêtements extérieurs corres-              L’enduit monocouche est plus sensible à la fissura-
+pondent généralement au type de revêtements souples            tion qu’un revêtement souple, notamment dans un
+d’imperméabilité de façade, les enduits monocouches            contexte de stabilité de bâtiment, de tassement, de
+étant peu utilisés voire inadaptés selon les zones.            choc thermique, et de pression des vents.
+Les enduits monocouches restent limités aux construc-          De plus, la maçonnerie extérieure, tout comme l’en-
+tions de faible hauteur et bien souvent aux maisons            duit, sont susceptibles de microfissurer. Les infiltra-
+individuelles. Les principaux désordres concernent des         tions d’humidité à travers la paroi arrivent directement
+décollements, fissures du revêtement, ou des défauts           sur l’enduit plâtre intérieur. Ce dernier se comporte
+d’épaisseur générant des infiltrations.                        comme du papier buvard sur lequel l’humidité forme
+En Métropole, les revêtements souples d’imperméabi-            de larges auréoles.
+lité sont utilisés en « réfection de façades en service »,
+souvent mis en place après dix ans de vie d’un ou-             Peinture d’imperméabilité
+vrage, le temps de la stabilisation de cet ouvrage sur         Historiquement, les peintures d’imperméabilité étaient
+le sol (fondations) et de l’apparition d’éventuelles fis-      utilisées en rénovation de façades anciennes qui su-
+sures. Dans les DROM, ces revêtements sont utilisés            bissaient des phénomènes de fissuration. D’ailleurs, ce
+sur ouvrages neufs, leur élasticité (ou résistance à la        type de revêtement bénéficie d’un classement de type
+fissuration) pouvant masquer l’apparition d’éventuelles        I1 à I4 correspondant à une résistance à l’ouverture des
+fissures dans les premiers âges des ouvrages.                  fissures (de 0,2 mm pour I1 à 2 mm pour I4).
+                                                               En région tropicale, l’utilisation de granulats locaux
+Enduit monocouche                                              (qualité, argiles, zéolites, pollutions diverses, pH et po-
+Avec la permanence des pluies, des vents et des em-            rosité accrus des granulats modifiant le comportement
+bruns, l’enduit monocouche des maisons individuelles           au retrait du béton et donc sa fissuration) et les fortes
+se dégrade plus vite qu’en Métropole. Il perd assez rapi-      contraintes thermiques entre les parties exposées ou
+dement ses fonctions de coupure capillaire et se sature        non au soleil, entraînent des fissurations des façades
+lorsqu’il pleut beaucoup et que l’hygrométrie de l’air est     bétonnées et maçonnées.
+importante.                                                    Les conditions de concomitance de vent et de pluie en
+En Métropole, l’étanchéité globale de la façade est assu-      région tropicale, l’absence d’isolation intérieure des fa-
+rée par l’ensemble constitué de l’enduit monocouche,           çades et donc de coupure de capillarité ont finalement
+de la paroi et d’un doublage intérieur. Ce dernier étant       conduit à privilégier la peinture d’imperméabilité de fa-
+peu utilisé dans les DROM, cela revient à enlever un           çade, correspondant aux murs de type IV du DTU 20.1.
+composant du mur formant coupure de capillarité
+(isolant non hydrophile), alors que les conditions clima-
+tiques sont plus sévères.
+
+
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE       ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.05        REVÊTEMENTS EXTÉRIEURS SUR OUVRAGES NEUFS
+  2/4
+
+
+    2. LE DIAGNOSTIC                        destructive (passage d’une lame          généralement des parties de fa-
+                                            selon une trame définie par le DTU       çade comportant des parties lé-
+    Enduit monocouche                       pour appréciation de la tenue du         gèrement inclinées par rapport à
+    La pathologie des enduits mono-         complexe).                               l’horizontale conduira à des infiltra-
+    couches en région tropicale est                                                  tions plus importantes.
+    comparable à celle en Métropole :       Le complexe n’atteignant pas
+    faïençage, fissuration en relation      l’épaisseur correspondant à I3 ne        Une pathologie non infiltrante cor-
+    avec le respect des conditions de       résistera pas aux fissurations prévi-    respond au cas de la dégradation
+    mise en œuvre, brûlage ou grillage,     sibles du support, même minimes.         du ravalement de façade par clo-
+    décollement…                            Les fissures deviendront infiltrantes    quage, sans infiltration consécutive,
+    Ceci étant, les conditions de mise en   selon les conditions de vents et de      l’eau étant piégée entre les parties
+    œuvre (température, vent) rendent       pluies.                                  de béton non fissurées et la pein-
+    plus délicate leur application.         Les infiltrations en parties cou-        ture d’imperméabilité en partie
+    Les expositions et conditions           rantes sont limitées, correspondant      courante.
+    climatiques      spécifiques    accé-   à des surfaces verticales.
+    lèrent le vieillissement de l’enduit    Les défauts d’épaisseur du com-          Dans les cas de passage d’eau
+    monocouche et le développe-             plexe au niveau des points singu-        derrière le complexe de peinture
+    ment de mousses, salissures et          liers sont moins fréquents, la trame     d’imperméabilité avec présence
+    micro-organismes.                       de renfort, lorsqu’elle est posée, de-   d’une fissuration, même dans les
+                                            venant visible et faisant donc l’objet   tolérances prévues, des infiltrations
+    Peinture d’imperméabilité               de reprise par les intervenants.         d’eau apparaissent inévitables dans
+    Les fournisseurs de peinture d’im-                                               les parties habitables.
+    perméabilité recommandent la            Défaut de renforts par entoilage
+    mise en œuvre d’un complexe I3 en       des points singuliers                    Peinture d’imperméabilité en
+    partie courante (résistance à l’ou-     La cause principale reste les dé-        façade de zone non étanchée
+    verture de fissure de 1 mm d’épais-     fauts de repérage et de traitement       Les prescripteurs (maître d’œuvre
+    seur) et I4 au niveau des points sin-   des points singuliers. Le repérage       et fournisseurs) imposent la réa-
+    guliers suivants :                      des reprises de bétonnage du lot         lisation de peinture d’imperméa-
+    Δ  nez de plancher ;                    gros œuvre est rarement réalisé.         bilité sur l’intégralité des façades,
+    Δ  reprise de bétonnage ;                                                        afin d’obtenir le niveau de garantie
+    Δ  périphérie des ouvertures ;          Bien souvent, les entoilages sur les     maximum.
+    Δ  tête d’acrotère ;                    façades se limitent aux nez de dalle
+    Δ  jonction béton / maçonnerie.         des planchers.                           Toutefois, la réalisation de peinture
+    Nota : les points singuliers pour                                                d’imperméabilité de façade sur des
+    lesquels la nécessité de renfort        La coordination entre corps d’état       parties d’ouvrage dont les plan-
+    est identifiée, dans les cahiers des    intervenant en façade est impor-         chers ne sont pas traités en étan-
+    charges des fournisseurs, corres-       tante. En effet, selon leur locali-      chéité conduira à la migration et au
+    pondent pour la majeure partie à        sation, les entoilages ne pourront       blocage d’eau derrière le complexe
+    ceux indiqués par les DTU 26.1 (en-     plus être réalisés après la pose         de façade.
+    duits de mortier et hydrauliques).      d’équipements (par exemple brise-
+                                            soleil métallique ou bois) ou ossa-      Les parties d’ouvrage concernées
+    Les causes principales des              tures posées sur les façades, ces        sont les parties communes non
+    désordres                               éléments s’étant multipliés avec         closes en façade et les varangues
+    Défaut d’épaisseur du complexe          les récentes évolutions de la RTAA       (terrasses extérieures couvertes)
+    Le contrôle de l’épaisseur n’est        DOM.                                     pour lesquelles des percolations
+    pas vérifiable aisément avec des                                                 d’eau sont tolérées par le DTU 20-1
+    essais non destructifs, le support      L’absence d’entoilage des ouver-         (aucune obligation d’étanchéité).
+    béton étant irrégulier. Le DTU 42-1     tures, des acrotères, des jonctions
+    propose une méthode de mesure           avec des brise-soleil béton et plus
+
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                             ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                                            FICHE
+                                           REVÊTEMENTS EXTÉRIEURS SUR OUVRAGES NEUFS                                                             D.05
+                                                                                                                                                   3/4
+
+
+Pour ces parties d’ouvrage non         3. LES BONNES
+traitées en étanchéité, le choix de    PRATIQUES                                   Δ Pour les ravalements de façades
+la peinture d’imperméabilité aura                                                      existantes, réalisation d’un dia-
+donc une incidence négative à la       Δ Reconnaissance du support et                  gnostic complet du clos et du
+fois sur l’aspect de la façade (clo-       des zones de fissurations cor-              couvert.
+quages), mais également sur le             respondant aux points singuliers        Δ   Utiliser le bon rouleau pour dépo-
+séchage des supports en piégeant           de façade (ouverture, reprise de            ser la bonne charge, dans le cas
+l’eau de percolation au niveau du          bétonnage etc.).                            de revêtement d’imperméabilité.
+ravalement.                            Δ   Respect des préconisations
+                                           des fournisseurs sur le nombre
+Ce décalage entre le niveau d’étan-        de couches pour atteindre les             10 cm mini                        Revêtement
+chéité des supports horizontaux et         épaisseurs.                                                                 d’étanchéité de toiture
+le traitement de façade est aussi      Δ   Vérification de l’épaisseur du
+rencontré en rénovation, les fa-           complexe.
+çades devant être reprises après       Δ   Vérification de la quantité de
+vérification du couvert (toiture-          peinture commandée et posée
+terrasse, jardinière etc.) et après        par le lot peinture.
+vérification de l’étanchéité du        Δ   Coordination avec les autres              Revêtement
+clos      (menuiseries,    jonctions       corps d’état et vérification des          de façade
+structurelles).                            entoilages par réception avant
+                                           pose des équipements.
+Les autres causes attri-               Δ   Vérification de la bonne réali-              I4 armée
+buables au support                         sation de l’arrêt du complexe
+Δ Fissuration anormale du sup-             en partie haute, notamment
+  port (au-delà de la résistance           les acrotères béton (schéma
+  du complexe I3, soit 1 mm) : les         ci-dessous).
+  causes de ces fissures peuvent
+  être structurelles (fondations,
+  défaut de solidité, de ferraillage        CHOIX DU REVÊTEMENT D’IMPERMÉABILITÉ EN FONCTION DE L’OUVERTURE DES FISSURES
+  etc.) ou simplement liées au ma-
+  tériau béton et à ses conditions                                                                  > 200 μm
+                                               I1 Fissure < 0,5 mm
+  de mise en œuvre (phénomène                                                                       finition appliquée en 1 couche
+  de retrait aggravé par ajout d’eau
+  au coulage, défaut de vibration                                                                   > 300 μm
+                                               I2 Fissure < 1,0 mm
+  du béton).                                                                                        finition appliquée en 2 couches
+
+
+Δ Épaisseur insuffisante de l’enduit           I3 Fissure < 1,5 mm
+  de ravalement sur maçonnerie
+  ou défaut de pose entraînant son
+  décollement ou sa fissuration                                                                     > 600 μm
+                                               I4 Fissure < 2,0 mm                                  finition appliquée en 2 couches
+                                                                                                    (1re couche armée)
+
+                                                       Couche d’impression                         Armature
+
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.05            REVÊTEMENTS EXTÉRIEURS SUR OUVRAGES NEUFS
+  4/4
+
+
+
+        À CONSULTER                          L’ESSENTIEL
+        Δ DTU  42-1 : Réfection de
+          façades en service par revê-       Δ Enduit monocouche : à éviter selon les zones, en général inadapté
+            tements d'imperméabilité à         à l’exposition accrue en région tropicale (vents et pluie).
+
+        Δ
+            base de polymères
+            Cahier des charges des
+                                             Δ Épaisseur des traitements I2, I3, I4 : à respecter pour fissuration
+                                               du support.
+            fournisseurs de peinture
+        Δ   DTU 20-1 : Ouvrages en           Δ Entoilage points singuliers (nez de dalle, reprises de bétonnage)
+            maçonnerie de petits élé-          et acrotères.
+
+        Δ
+            ments – parois et murs
+            DTU 26.1 (P15-201) : Tra-
+                                             Δ Les complexes d’imperméabilité de façade restent un procédé de
+                                                 mise en œuvre relativement simple, sous réserve d’une bonne re-
+            vaux d'enduits de mortiers
+        Δ   NF EN 1062-1 octobre 2004            connaissance du support et du respect des épaisseurs préconisées.
+        Δ   Cahier du CSTB 1633 « Dé-
+            finition et classification des
+                                                 Ces préconisations sont rappelées dans les dossiers techniques
+                                                 des fournisseurs.
+            ouvrages de revêtement
+            extérieur de façades en ma-      Δ   Le maître d’ouvrage s’attachera à exiger l’attestation d’assurance
+            çonnerie ou en béton »               fournisseur / applicateur délivrée par le fournisseur après vérifica-
+                                                 tion de la bonne mise en œuvre par l’applicateur et permettant de
+                                                 bénéficier de la garantie de 10 ans.
+
+
+
+
+   Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+    www.groupe-sma.fr
+    www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

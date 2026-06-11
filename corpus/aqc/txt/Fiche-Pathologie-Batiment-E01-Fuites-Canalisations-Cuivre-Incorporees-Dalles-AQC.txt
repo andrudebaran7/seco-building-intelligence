@@ -1,0 +1,182 @@
+                                                                                            ÉQUIPEMENTS               FICHE
+                                                                                                                       E.01
+                                                                                                                           1/3
+                                        FUITES DE CANALISATIONS
+                                        EN CUIVRE INCORPORÉES
+                     Photo © DR - AQC
+                                        DANS LES DALLES
+
+1. LE CONSTAT
+Les canalisations en cuivre sont largement utilisées en      Les tubes de cuivre peuvent être le siège de corrosions
+distribution d’eau. À ce titre, on les retrouve fréquem-     internes (corrosion uniforme - eau bleue - par piqûres
+ment incorporées dans les dalles.                            (« pitting » 1 et 2), corrosion – érosion) ou bien externes
+                                                             (principalement sur les tubes encastrés sous gaine).
+
+
+
+
+2. LE DIAGNOSTIC
+Les percements sont la consé-           Les principaux sont :                     pérature (opération de façonnage
+quence d’une corrosion (phéno-          Δ la nature de l’eau (minéralisation,     en cours de chantier). La plupart
+mène chimique), d’une abrasion            température, aération, pollution) ;     des industriels ont pratiquement
+(phénomène mécanique) et parfois        Δ la nature et l’état métallurgique       supprimé ces résidus carbonés.
+des deux. La corrosion apparaît           du métal ;
+sous forme de piqûres, phéno-           Δ des dépôts superficiels exagérés ;      Le « pitting II » apparaît sur les
+mène autrement appelé « pitting ».      Δ les couples galvaniques (« effet        réseaux d’eau chaude peu minéra-
+                                            de pile » par différence locale de    lisée avec un rapport bicarbonate/
+La corrosion externe est relative-          potentiel électrique) ;               sulfates inférieur à 1. Ce phéno-
+ment fréquente. Elle provient du        Δ   une contrainte dans le tube           mène est accessoire en France car
+passage de l’eau par les arases de          (déformation excessive, par           localisé dans quelques régions à
+gaines au niveau du sol ou par les          exemple) ;                            risques.
+raccords de gaines de protection        Δ   la vitesse du fluide.
+non étanches. L’eau provient des                                                  La corrosion-érosion      n’apparaît
+lavages de sol et contient donc des     Le « pitting I » apparaît principale-     que dans les circuits bouclés. En
+produits de nettoyage (présence         ment sur les réseaux d’eau froide         général, ce phénomène est lié à la
+de chlorures et de sulfates). La        assez fortement minéralisée, sur du       vitesse de circulation de l’eau et à
+concentration de ces sels agressifs     cuivre recuit et écroui, traité thermi-   la géométrie de l’installation. La
+dans les points bas entraîne une        quement lors des assemblages par          présence de particules solides ou
+attaque rapide et caractéristique.      brasure. Ceci est lié à la présence       gazeuses dans l’eau peut accélérer
+                                        d’un film de résidus carbonés à           la corrosion.
+La corrosion interne peut être          la surface du tube (craquage des
+due à plusieurs facteurs qui            huiles d’étirage lors de la pyrolyse)
+rendent complexe le phénomène.          ou à la formation de certains
+                                        oxydes apparaissant à haute tem-
+
+
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              ÉQUIPEMENTS
+E.01               FUITES DE CANALISATIONS EN CUIVRE
+2/3                INCORPORÉES DANS LES DALLES
+
+
+                                                          CANALISATIONS EN CUIVRE INCORPORÉES                               tent, ou 2 m/s dans le cas de
+      3. LES BONNES                                                 DANS LES DALLES                                         période plus longue - plus de
+      PRATIQUES                                                                                                             15 minutes) ;
+                                                                                                                         √  concevoir un schéma de cir-
+      Δ Le fourreau doit être continu et                     3 cm
+                                                                        Canalisation
+                                                                        Carrelage
+                                                                                                                            culation en évitant les change-
+          étanche, et, doit dépasser de                                    Chappe ou dalle flottante                        ments de direction brutaux ;
+          l’arase supérieure du sol fini de                                    Isolant acoustique
+                                                                                                                         √  éviter la présence de parti-
+          3 cm minimum. Il ne faut jamais                                                                                   cules solides ou gazeuses.
+          araser la gaine.                                                                                           Δ   La conception et la réalisation
+      Δ   Utiliser des tubes conformes à
+                                                    Rayon de
+                                                                        Dalle porteuse
+                                                                                                       4 cm min
+                                                                                                       (DTU 21)
+                                                                                                                         des circuits d’eau sanitaire et de
+          la norme NF EN-1057 et choi-              courbure
+                                                                                                                         chauffage sont très techniques.
+          sis dans une fabrication de la            ≥ 5x diamètre                                                        Elles demandent une formation
+                                                    extérieur du tube                                  4 cm min
+          marque NF. Ils conviennent à la                                                              (DTU 21)
+                                                                                                                         adaptée des intervenants.
+          distribution des eaux conformes
+                                                                             Canalisation
+          aux exigences de qualité régle-                                    avec fourreau                           Nota : l’emploi de brasures conte-
+          mentaires, notamment relatives                                                                             nant des additions de plomb dans
+                                                             3 cm
+          au pH sans que celui-ci ne puisse                                                                          les installations fixes de produc-
+          descendre en dessous de 6,5.                                                                               tion, de traitement et de distribu-
+      Δ   Éviter la surchauffe des tubes lors                                                                        tion destinées à la consommation
+          de l’exécution des assemblages.                                                                            humaine est interdite (arrêté du 10
+      Δ   Dans certaines régions possé-
+                                                                                                       2 cm min
+                                                                                                                     juin 1996).
+          dant des eaux douces généra-                                   Forme                         (DTU 65-10)
+          lement traitées (floculation au
+          sulfate d’aluminium), il convient
+                                                                         Dalle porteuse
+          d’obtenir sur place des rensei-
+          gnements sur la qualité de l’eau
+          liée à ce type de sinistres. Le trai-
+          tement de l’eau par l’adoucisseur         Δ Pour la corrosion - érosion :
+          peut dans certains cas accélérer            √ limiter dans un premier temps
+          les phénomènes de corrosion.                      la vitesse de circulation de
+          Une analyse devra vérifier son                    l’eau à moins de 0,5 m/s
+          adaptation et son entretien                       (5 m/s en régime intermit-
+          devra être régulier.
+
+
+
+          À CONSULTER
+          Δ NF DTU 60.1 : Plomberie sanitaire
+            pour bâtiments
+          Δ NF  DTU 60.5 : Canalisations en
+            cuivre
+          Δ NF  DTU 60.11 : Règles de calcul
+            des installations de plomberie
+              sanitaire et d’eaux pluviales
+          Δ NF EN-806-1 à 3 : Spécifications
+            techniques relatives aux instal-
+              lations pour l’eau destinée à la
+              consommation humaine à l’inté-
+                                                         L’ESSENTIEL
+          Δ
+              rieur des bâtiments                        Δ Bien analyser la nature de l’eau.
+              NF EN 1057+A1 : Cuivre et alliages
+              de cuivre - Tubes ronds sans sou-          Δ Veiller à la bonne conception et réalisation du circuit d’eau sani-
+              dure en cuivre pour l’eau et le gaz          taire et de chauffage.
+              dans les applications sanitaires et        Δ Privilégier les tubes à la traçabilité vérifiable.
+              de chauffage
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                           FUITES DE CANALISATIONS EN CUIVRE                           E.01
+                                                               INCORPORÉES DANS LES DALLES                               3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                             Corrosion externe
+                                                             La canalisation de cuivre se situait dans une boîte
+                                                             d’attente d’un plancher en béton. Les eaux de lavage
+                                                             stagnent dans la réservation ce qui a engendré une
+                                                             corrosion prématurée de la canalisation.
+
+
+
+
+Photo © DR - AQC
+
+
+                                                             Corrosion externe
+                                                             La canalisation était positionnée dans un fourreau,
+                                                             coupé au niveau de la dalle. Les eaux de nettoyage ont
+                                                             donc stagné dans la gaine, provoquant une corrosion
+                                                             de la canalisation.
+
+
+
+
+Photo © DR - AQC
+
+
+                                                             Corrosion interne d’une canalisation de cuivre
+                                                             Les pertes de charge engendrées par la multiplicité des
+                                                             coudes et la vitesse importante du fluide ont causé une
+                                                             érosion importante de la canalisation.
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

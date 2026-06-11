@@ -1,0 +1,156 @@
+                                                                                    TOITURES ET CHARPENTES                  FICHE
+                                                                                                                            C.10
+                                                                                                                                 1/3
+                                            EFFONDREMENT DES
+                                            COUVERTURES LÉGÈRES
+          Photo: © AQC - M. Compte - 2010
+                                            SOUS LE POIDS DE L’EAU
+
+1. LE CONSTAT
+Les couvertures à faible pente des bâtiments                Toute stagnation anormale et imprévue d’eau initie immanqua-
+industriels et commerciaux sont le plus souvent             blement un phénomène itératif et irréversible qui conduit à la
+réalisées à l’aide de bacs métalliques nervurés             ruine de la couverture : la création d’une flaque augmente la
+autoporteurs, avec ou sans étanchéité rapportée.            charge appliquée qui génère nécessairement une augmentation
+D’une portée de 3 m environ, ces bacs sont fixés            de la déformation et donc une aggravation de la flaque. La mise
+sur des pannes de charpente en métal, bois ou               à jour du DTU 43.3 en 1995 a permis, depuis, de sensibiliser les
+béton.                                                      professionnels à ce problème majeur en précisant de façon plus
+La propension d’un tel ouvrage à fléchir est parti-         explicite les nombres et positionnements des descentes d’eau
+culièrement importante et aggrave les surcharges            pluviale à mettre en œuvre.
+climatiques qu’il est susceptible de supporter.
+
+
+
+
+2. LE DIAGNOSTIC                            Les éléments d’ossature                       descente EP ou le moignon tron-
+                                            ne sont pas calculés à la                     conique, ce qui entraînera l’obs-
+Les évacuations d’eaux                      hauteur du risque                             truction totale de l’évacuation
+pluviales sont insuffisantes                Plusieurs systèmes d’évacuation               par un simple sac en plastique
+ou mal entretenues                          des eaux pluviales, selon l’annexe E          ou une accumulation de feuilles
+Le calcul de la section des évacua-         du DTU 43.3, permettent de se dis-            mortes.
+tions est normalement réalisé sur la        penser de vérifier l’ossature sous        Δ   Le moignon est d’une section
+base d’une précipitation de 3 litres/       accumulation d’eau. Dès lors, des             nettement inférieure à celle de
+mn par m2. Souvent, les limitations         vérifications peuvent être omises,            la chute.
+des surfaces à évacuer par entrées          qu’il s’agisse de la structure por-       Δ   La chute n’est pas verticale à l’in-
+d’eau pluviale (700 m2 en verticale         teuse ou des bacs métalliques                 térieur du bâtiment ; son dimen-
+et 3500 m2 en sortie horizontale)           autoporteurs.                                 sionnement ne tient pas compte
+ne sont pas respectées ou le calcul                                                       des pertes de charges engen-
+théorique ne tient pas compte des           L’entretien est insuffisant                   drées par les déviations.
+obstacles inhérents à la construc-          L’absence d’entretien régulier de         Δ   La canalisation horizontale en-
+tion qui perturbent l’écoulement            l’état de la toiture et de l’engorge-         terrée d’égout pluvial en aval du
+(sorties en toiture, relevés…), ou en-      ment des descentes EP est une                 bâtiment n’a pas une section ou
+core les trop-pleins sont absents ou        cause importante de sinistralité.             une pente suffisante, d’où la mise
+insuffisants. Cela se traduit par un        Les toitures des bâtiments com-               en charge des chutes avec risque
+engorgement de certaines chutes,            merciaux, par exemple, peuvent                de débordement en toiture.
+donnant naissance à une flaque sur          être encombrées de sacs plas-
+la toiture.                                 tiques apportés par le vent.              Remarque : les grands bâtiments
+                                                                                      sont maintenant équipés de plus
+                                            D’autres causes existent                  en plus fréquemment de systèmes
+                                            Δ Les crapaudines ou les garde-           d’évacuation des eaux pluviales par
+                                              grèves trop petits auront ten-          dépression, dits siphoïdes, dont le
+                                              dance à s’enfoncer dans la              principe est d’associer des avaloirs
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              TOITURES ET CHARPENTES
+C.10               EFFONDREMENT DES COUVERTURES
+2/3                LÉGÈRES SOUS LE POIDS DE L’EAU
+
+      spécifiques à des canalisations de                 évacuations d’eaux pluviales               traditionnelles, telles que les
+      diamètre réduit. Si la théorie justifie            avec une vision globale du sys-            systèmes siphoïdes, à se rap-
+      ces ouvrages, la pratique et les dys-              tème d’évacuation pluviale lors            procher de leurs assureurs. Ces
+      fonctionnements en particulier dus                 de la conception et le souci de            systèmes ne relèvent pas des
+      au manque d’entretien peuvent                      détecter les particularités du bâ-         dispositions courantes du DTU.
+      générer des sinistres de grande                    timent qui nécessiteraient des             Il s’agit de techniques non tradi-
+      ampleur.                                           adaptations.                               tionnelles (mises d’une manière
+                                                     Δ   Créer éventuellement des sur-              générale en observation par la
+                                                         verses ou « trop-pleins » pour             C2P) et relevant des procédures
+      3. LES BONNES                                      jouer un rôle d’alerte. Même si            d’Avis Technique.
+      PRATIQUES                                          ils ne permettent pas d’évacuer        Δ   Rappeler l’obligation d’entretien
+                                                         la totalité des eaux pluviales, leur       qui pèse sur le maître d’ouvrage
+      Δ Bien vérifier les calculs de flèches             débordement constitue un bon               et le manquement au devoir de
+          des structures (ne pas oublier,                signal d’alarme à condition qu’ils         conseil qui pèsera sur les profes-
+          selon les cas, la vérification sous            soient visibles des utilisateurs du        sionnels qui n’auraient pas aler-
+          accumulation d’eau), y compris                 bâtiment.                                  té le maître d’ouvrage sur cette
+          des bacs métalliques.                      Δ   Inviter les professionnels sou-            obligation, en lui conseillant, par
+      Δ   Respecter les Règles de l’art et               haitant prescrire ou mettre                exemple, de souscrire un contrat
+          porter un soin particulier aux                 en œuvre des techniques non                d’entretien.
+
+
+
+
+          À CONSULTER
+          Δ NF DTU 43.3 P1-1 : Mise en œuvre             L’ESSENTIEL
+            des toitures en tôle d’acier nervu-
+              rée avec revêtement d’étanchéité           Δ Porter une attention particulière à la conception du système
+          Δ   NF DTU 43.3 : Partie 1.1 Annexe A            d’évacuation des eaux pluviales.
+              Entretien et usage                         Δ Prévoir systématiquement des dispositifs de déversement des
+          Δ   NF DTU 60.11 partie 3 : Règles de            trop-pleins.
+              calcul des installations de plom-
+              berie sanitaire et des installations       Δ Prendre conscience des contraintes propres aux systèmes
+              d’évacuation des eaux pluviales              siphoïdes.
+          Δ   Communiqué n°66 de la C2P re-
+              latif aux systèmes d’évacuation
+                                                         Δ Assurer un entretien régulier du système pour éviter les
+                                                            engorgements.
+              des eaux pluviales par dépression
+
+
+
+
+      4. L’ŒIL DE L’EXPERT
+                                                                           Si aucune action n’est exécutée pour inverser le phéno-
+                                                                           mène, la stagnation d’eau s’amplifie, la charge sur la toi-
+                                                                           ture augmente, le fléchissement augmente… La ruine
+                                                                           de la toiture est irrémédiable.
+
+
+
+
+      Photos: © AQC - M. Compte – 2010
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                              TOITURES ET CHARPENTES                   FICHE
+                                                              EFFONDREMENT DES COUVERTURES                             C.10
+                                                                LÉGÈRES SOUS LE POIDS DE L’EAU                           3/3
+
+
+                                                             Absence d’entretien de la descente EP, partiellement
+                                                             obstruée par des morceaux de polystyrène, des feuilles
+                                                             de l’humus provenant de la décomposition des végé-
+                                                             taux. L’absence d’une crapaudine entraînera en plus
+                                                             l’obstruction de la descente EP elle-même… L’accumu-
+                                                             lation de débris pourra même boucher le trop-plein
+                                                             destiné à alerter les utilisateurs du bâtiment d’un éven-
+                                                             tuel problème sur la toiture. Dans ce cas, le sinistre
+                                                             sera inévitable.
+
+Photo: © GIE SOCABAT
+
+
+                                                             Le sinistre peut avoir des causes plus surprenantes…
+                                                             Et, pour ce bâtiment scolaire, ce ne sont pas seulement
+                                                             les feuilles des arbres aux alentours et la mousse dans
+                                                             la crapaudine qui seront à l’origine d’une éventuelle
+                                                             mise en charge de la toiture.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

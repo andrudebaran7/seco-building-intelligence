@@ -1,0 +1,207 @@
+                                                                                STRUCTURES ET GROS ŒUVRE                     FICHE
+                                                                                                                             B.07
+                                                                                                                                  1/4
+
+
+
+                                              FISSURATION ET
+        Photo: © AQC - M. Markiewick - 2008
+                                              EFFONDREMENT DE BALCONS
+
+1. LE CONSTAT
+La pathologie des balcons regroupe deux familles de                   √ les éclatements des nez de balcons,
+désordres :                                                           √ la présence d’efflorescence et de stalactites en
+Δ les désordres structurels avec des conséquences                       sous-face,
+  importantes pouvant aller jusqu’à la rupture ;                      √ les infiltrations au travers de la dalle au droit de la
+Δ la seconde famille regroupe de nombreux désordres                      façade ou au travers des seuils de portes-fenêtres.
+  aux conséquences moins graves :
+    √les fissurations secondaires,
+
+
+
+
+2. LE DIAGNOSTIC
+Les risques d’effondrement                      le balcon travaille en console) où             ment trop important des joints
+Δ Dans la vie de l’ouvrage                      les armatures doivent être en                  de fractionnement ;
+    La cause la plus fréquente des              partie haute. Une fissuration, en           √  les fissures verticales entre
+    effondrements provient de dé-               sous-face, parallèle à la façade,              retours des garde-corps et
+    fauts de ferraillage. Il s’agit rare-       en est généralement le signe                   façades peuvent être évitées
+    ment d’une erreur de conception             précurseur.                                    en réalisant un espace (infé-
+    des plans de béton armé mais                                                               rieur à 11 cm) entre ces deux
+    plutôt de lecture de ces plans.           Les autres pathologies                           éléments. Elles témoignent de
+    On notera notamment les fis-              Δ La fissuration :                               phénomènes de dilatation/
+    sures en partie supérieure de la            √ les fissures en partie supé-                 retrait différents entre ces
+    dalle et parallèles à l’appui : ces             rieure de la dalle et perpen-              éléments ;
+    fissures concernent les dalles en               diculaires à l’appui (la façade),       √  les fissures horizontales à la
+    console et sont l’indice, soit d’une            observées sur les balcons                  jonction entre dalles et garde-
+    insuffisance de section d’acier,                continus, dépourvus de joints              corps ont pour cause une
+    soit d’un mauvais positionne-                   de fractionnement ;                        insuffisance d’armatures de
+    ment en hauteur des aciers.                 √   les fissures horizontales entre            couture dans le plan de re-
+    Elles favorisent la corrosion des               les garde-corps en béton et le             prise de coulage du béton.
+    aciers, aggravant ainsi le risque               balcon sont provoquées par le       Δ   L’éclatement des nez de
+    d’effondrement.                                 retrait du béton et la dilatation       balcons provient d’une armature
+Δ   En cours de chantier                            différentielle entre éléments           souvent de trop fort diamètre,
+    Quelques effondrements en                       diversement exposés à l’enso-           mal enrobée par le béton.
+    cours de chantier ont eu pour                   leillement ;                        Δ   Les efflorescences et stalac-
+    cause une incompatibilité entre             √   les fissures verticales des             tites en sous-face de balcon sont
+    l’étaiement (qui fait travailler le             garde-corps assez régulière-            provoquées par la percolation
+    balcon en plancher), nécessitant                ment réparties ont pour cause           d’eau de pluie à travers la dalle
+    des armatures en partie basse,                  une insuffisance d’armatures            du balcon.
+    et la phase finale (dans laquelle               horizontales et/ou un espace-
+
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          STRUCTURES ET GROS ŒUVRE
+B.07           FISSURATION ET EFFONDREMENT
+2/4            DE BALCONS
+
+
+      Δ Les infiltrations par seuils de Δ En cas d’utilisation de rupteurs Δ Concevoir l’accès pour les per-
+        portes-fenêtres : ces défauts               de ponts thermiques structu-             sonnes à mobilité réduite (hau-
+        se produisent lorsqu’il n’y a pas           raux, vérifier la conformité de          teur maximale du seuil extérieur
+        de décrochement altimétrique                leur domaine d’application (por-         de 2 cm, traitement du rejet
+        entre le balcon et le plancher in-          tée, sismique…) et de leur pose          d’eau par caillebotis et dalles sur
+        térieur (cf. fiche D.O3).                   au regard de la préconisation            plots ou caniveau).
+                                                    dans l’Avis Technique concerné.      Δ   Apporter une attention particu-
+                                                Δ   Apporter un soin particulier à           lière, en l’absence de décroche-
+      3. LES BONNES                                 la réalisation des pentes des            ment de dalle entre logement et
+      PRATIQUES                                     balcons pour permettre l’éva-            balcon, aux reprises de béton-
+                                                    cuation rapide des eaux, afin            nage situées au niveau des seuils
+      Δ Dimensionner les armatures                  d’éviter leur percolation à tra-         et voiles de façade.
+        conformément à l’Eurocode 2 en              vers le béton. En cas de balcons     Δ   Respecter les enrobages et
+        fonction des charges prévues                avec pente vers les façades, bien        sections maximales d’acier en
+        par la norme l’Eurocode 1 ou les            veiller à l’étanchéité (SÉL, DTU         nez de dalle afin d’éviter les
+        documents particuliers du mar-              43.1). Lorsque le sol du balcon          éclatements.
+        ché (jardinière…). Chaque fois              est recouvert par un revêtement      Δ   Respecter      les    précautions
+        que possible, des joints de frac-           en carrelage scellé, prévoir une         propres aux zones sismiques.
+        tionnement devront être prévus.             couche de désolidarisation drai-     Δ   Veiller à limiter les effets des
+        À défaut, des renforts d’arma-              nante sous le mortier de pose.           ponts thermiques.
+        tures doivent être calculés et mis      Δ   Étancher la surface pour limiter
+        en œuvre.                                   les infiltrations.
+        Le positionnement des arma-             Δ   Étudier particulièrement la géo-
+        tures côté tendu du béton et des            métrie des seuils, pour éviter les
+        joints de fractionnement est un             pénétrations d’eau. Dans le cas
+        élément primordial à vérifier afin          d’obligations en relation avec
+        d’éviter les pathologies les plus           les conditions d’accessibilité se
+        fréquentes.                                 rapprocher du document de la
+                                                    DHUP « Carnet de détail balcons -
+                                                    terrasses - loggias ».
+
+
+
+
+        À CONSULTER
+        Δ Eurocode
+          en béton
+                    2 : Calcul des structures
+
+        Δ Eurocode
+          structures
+                      1 : action sur les
+
+        Δ DTU  21 : Ouvrages en béton
+        Δ DTU   43.1 : Étanchéité des toi-
+          tures-terrasses et toitures incli-
+            nées avec éléments porteurs en
+            maçonnerie en climat de plaine
+        Δ   Règles     professionnelles    :        L’ESSENTIEL
+            Systèmes d’Étanchéité Liquide
+            (SÉL) concernant les travaux
+                                                    Δ Veiller aux bons dimensionnement et positionnement des
+                                                      armatures.
+            d’étanchéité par application de
+            système d’étanchéité liquide sur        Δ Prévoir les joints de fractionnement quand c’est nécessaire.
+            planchers extérieurs en maçon-
+            nerie dominant des parties non
+                                                    Δ Apporter une attention particulière à la pente, au traitement
+                                                       des seuils et des nez de balcons.
+            closes de bâtiment
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                          STRUCTURES ET GROS ŒUVRE                    FICHE
+                                                                  FISSURATION ET EFFONDREMENT                         B.07
+                                                                                    DE BALCONS                             3/4
+
+
+4. L’ŒIL DE L’EXPERT
+                                                              Fissure perpendiculaire à la façade résultant d’une ab-
+                                                              sence de joints de fractionnement régulièrement ré-
+                                                              partis sur un balcon de grande longueur. Comme tout
+                                                              élément béton saillant en façade, le balcon est parti-
+                                                              culièrement sensible aux variations de température
+                                                              et d’hygrométrie qui produisent des phénomènes de
+                                                              dilatation, générateurs de fissures. L’eau chemine alors
+                                                              préférentiellement par la fissure favorisant localement
+                                                              l’accélération de la corrosion des armatures.
+
+Photo: © GIE SOCABAT
+
+
+
+
+                                                              Fissure verticale à la jonction entre le retour de la fer-
+                                                              meture de balcon et la façade résultant de la mise en
+                                                              contact de la structure de la fermeture en maçonnerie
+                                                              avec la structure de la paroi de façade. Un espace de
+                                                              quelques cm ménagé entre ces 2 éléments de struc-
+                                                              ture aurait permis d’éviter ces fissurations esthétiques
+                                                              mais sans conséquence du point de vue de la solidité
+                                                              de l’ouvrage.
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+                                                              Fissure horizontale au niveau de la jonction entre la
+                                                              dalle en béton et la fermeture extérieure.
+                                                              Cette fissure témoigne d’un mauvais traitement de la
+                                                              reprise de bétonnage entre la dalle béton et la ferme-
+                                                              ture formant garde-corps. Le taux d’armature de cou-
+                                                              ture par rapport à la section de béton est insuffisant.
+                                                              À noter que cette fissure est constatée à chaque niveau
+                                                              de balcon, de part et d’autre de la dalle.
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           STRUCTURES ET GROS ŒUVRE
+B.07            FISSURATION ET EFFONDREMENT
+4/4             DE BALCONS
+
+
+                                                                 Chute de balcons sur un immeuble de logements. Ma-
+                                                                 nifestement, les armatures supérieures longitudinales
+                                                                 perpendiculaires aux façades étaient insuffisantes en
+                                                                 section, voire absentes.
+                                                                 Au niveau de la bande noyée visible sur le cliché, la
+                                                                 section de béton avec un taux d’armature supérieur
+                                                                 trop faible, voire nul, n’était pas apte à résister à l’effort
+                                                                 généré par les charges permanentes et d’exploitation.
+
+
+
+      Photo: © GIE SOCABAT
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

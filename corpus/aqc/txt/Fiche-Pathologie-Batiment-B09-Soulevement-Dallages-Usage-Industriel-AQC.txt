@@ -1,0 +1,158 @@
+                                                                              STRUCTURES ET GROS ŒUVRE                               FICHE
+                                                                                                                                     B.09
+                                                                                                                                          1/3
+
+
+
+                                              SOULÈVEMENT DE DALLAGES
+        Photo: © AQC - M. Markiewicz - 2008
+                                              À USAGE INDUSTRIEL
+
+1. LE CONSTAT
+Il arrive que des panneaux entiers de dallages en béton           Plusieurs sinistres graves ont été recensés avant que
+armé ou non, coulés dans des conditions en apparence              ne soit établie l’origine chimique de l’expansion de la
+satisfaisantes, se fissurent puis se soulèvent peu de             forme.
+temps après leur réalisation.                                     Les réparations sont lourdes et onéreuses, car il
+En s’étendant à l’ensemble du dallage, le phénomène               n’existe qu’une solution confortative : refaire le dallage,
+prend ensuite des proportions inquiétantes avec des lé-           après enlèvement de la couche gonflante et substitu-
+zardes atteignant plusieurs centimètres d’ouverture.              tion par des matériaux inertes.
+
+
+
+
+2. LE DIAGNOSTIC
+                                              Δ Des investigations complémen-            √ d’un traitement à la chaux d’un
+Δ Un relevé de la surface du dal-               taires s’imposent pour détermi-              sol contenant du gypse, don-
+    lage, en le rattachant à des                ner la cause de ce soulèvement               nant lieu en présence d’eau à
+    points fixes pris sur la structure          et déterminer son évolution pré-             la formation de sels expansifs
+    porteuse du bâtiment et des                 visible. Il peut s’agir :                    (thaumasite) ;
+    repères pris à l’extérieur du bâ-           √  d’une forme réalisée par ap-          √   d’un traitement au ciment d’un
+    timent, permet de :                            port de résidus d’une centrale            sol contenant du gypse, don-
+    √  s’assurer que les désordres                 d’incinération d’ordures mé-              nant lieu en présence d’eau à
+       constatés correspondent bien                nagères (mâchefer). La pré-               la formation de sels expansifs
+       à un soulèvement du dallage                 sence de sulfures et l’absence            (ettringite).
+       et non pas à un affaissement                de garantie quant à la stabilité
+       de la structure porteuse en-                dans le temps réservent ce
+       traînant le dallage vers le bas ;           matériau au domaine routier
+    √  pouvoir suivre l’évolution du               et non au bâtiment ;
+       phénomène dans le temps                  √  d’une forme réalisée par ap-
+       en faisant procéder à de nou-               port de granulats de recyclage
+       veaux relevés.                              contenant du plâtre qui mis
+Δ   Le soulèvement du dallage                      au contact de ciment, d’où
+    correspond à des réactions                     la formation de sels expan-
+    chimiques expansives au sein                   sifs (ettringite) en présence
+    de la couche de forme réali-                   d’eau. Les granulats recyclés
+                                                                                       Photo © DR - AQC
+    sée par apport de matériaux                    étant malaxés et broyés, les
+    ou traitement du sol en place.                 surfaces de contact plâtre/bé-     Composé « cristallin » responsable de la dégrada-
+    Il peut être également dû à des                ton sont plus élevées, ce qui      tion (vue au microscope).
+    gonflements des argiles ou des                 augmente le risque de gonfle-
+    schistes-carton.                               ment ;
+
+
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             STRUCTURES ET GROS ŒUVRE
+B.09              SOULÈVEMENT DE DALLAGES
+2/3               À USAGE INDUSTRIEL
+
+
+      Δ Dans chacun de ces cas, la réac- 3. LES BONNES                                         fates dans ce cas doit donc être
+          tion se poursuit jusqu’à la des-         PRATIQUES                                   proche de 0 %. La teneur en sul-
+          truction complète des compo-                                                         fates du sol s’obtient par analyse
+          sants qui en sont à l’origine.           Δ Respecter le NF DTU 13-3 partie I :       en laboratoire d’échantillons pré-
+      Δ   La réaction de formation des sels          « dallages à usage industriel ».          levés in situ suivant un maillage
+          expansifs a besoin d’eau. En pé-         Δ Analyser la teneur en sulfates            représentatif.
+          riode de sécheresse, le sinistre           du sol : la présence de sulfates      Δ   Procéder à un essai d’évaluation
+          peut donc être mis en sommeil              dans le sol provoque le gon-              de l’aptitude d’un sol au traite-
+          pendant plusieurs mois, voire              flement. L’expérience acquise             ment, conformément à la norme
+          plusieurs années avant de se               montre que, si une teneur maxi-           NF P 94-100. Les conditions de
+          manifester.                                male admissible en sulfates de            formation de sels expansifs sont
+                                                     0,5 % est souvent adoptée dans            reproduites en laboratoire de
+                                                     le domaine routier, un dallage            manière accélérée sur un échan-
+                                                     de bâtiment est un ouvrage                tillon de sol traité. Ce sol est
+                                                     plus sensible aux mouvements              considéré apte au traitement si
+                                                     de la forme ; la teneur en sul-           aucun gonflement n’est relevé.
+
+
+
+
+          À CONSULTER
+          Δ NF DTU 13-3 partie I : Dallages -
+            Conception, calcul et exécution
+          Δ NF  P94-100 Sols : Reconnais-
+            sance et essais - Matériaux trai-
+              tés à la chaux et/ou aux liants
+              hydrauliques
+          Δ   NF P94-500 : Missions géo-
+              techniques - Classification et
+              spécification
+                                                      L’ESSENTIEL
+          Δ   Communiqué de mise en obser-
+              vation n° 65 de la C2P relatif aux
+                                                      Δ Réaliser une étude géotechnique spécifique avant toute réa-
+                                                          lisation de couche de forme ou tout traitement de terrain en
+              procédés de dallages industriels
+                                                          place.
+              ou assimilés, en béton de fibres
+              métalliques, exécutés sans joint        Δ   Procéder à un examen physico-chimique du sol d’assise des
+              (NT)                                        dallages pour déceler la présence de gypse et de sulfates.
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                          STRUCTURES ET GROS ŒUVRE                   FICHE
+                                                                        SOULÈVEMENT DE DALLAGES                      B.09
+                                                                              À USAGE INDUSTRIEL                          3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                              Soulèvement d’une partie du dallage, engendrant une
+                                                              fissuration linéaire (lézarde) sur toute la périphérie du
+                                                              dallage d’environ 1 cm.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                                              Désaffleurement important entre les 2 parties du dal-
+                                                              lage en rive du bâtiment. La cause du soulèvement
+                                                              du dallage d’une surface de l’ordre de 300 000 m2 est
+                                                              consécutive à l’utilisation d’une grave recyclée dont la
+                                                              teneur en sulfate (SO4) est anormale, utilisée en couche
+                                                              de forme d’un dallage de bâtiment. Eu égard à l’évo-
+                                                              lution des dommages (le matériau sous dallage pour-
+                                                              suivant son gonflement), il sera nécessaire de démolir
+                                                              le dallage, de purger le matériau de la plateforme et
+                                                              de reconstruire le dallage. Le montant du sinistre est
+Photo: © GIE SOCABAT                                          évalué à 300 000 € (Investigations : 35 000 €, travaux
+                                                              de remise en état 265 000 €). L’utilisation d’une grave
+                                                              non conforme en couche de forme sous le dallage en
+                                                              béton armé du bâtiment est à l’origine des dommages.
+
+
+
+                                                              Vue de la déformation de la cloison et du faux plafond
+                                                              sous l’effet du soulèvement du dallage.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,237 @@
+                                                                                                              ENTRETIEN / MAINTENANCE                 FICHE
+                                                                                                                                                      G.11
+                                                                                                                                                          1/4
+
+
+                                                             DISPOSITIFS
+                                                             D’ASSAINISSEMENT
+                                                             AUTONOMES
+                                                             (MICROSTATIONS ET FILTRES COMPACTS)
+
+
+1. LE CONSTAT
+                                                                                             Différences entre les deux dispositifs
+Les bactéries présentes naturellement dans les eaux                                          Le filtre compact est un système d'assainissement pas-
+usées assurent la fonction épuratoire.                                                       sif (ne comporte pas d’éléments électromécaniques
+                                                                                             type pompes, compresseurs, vannes…), contrairement
+Les dispositifs agréés                                                                       à la microstation d'épuration qui requiert une alimen-
+Δ Filtres compacts sur massifs filtrants                                                     tation électrique.
+Δ Microstations                                                                              Le filtre compact est préconisé dans le cas de rési-
+Δ Filtres plantés                                                                            dences secondaires (ou gîtes), ce qui n’est pas le cas des
+                                                                                             microstations pour lesquelles les bactéries épuratrices
+                                                                            niveau du sol    doivent être alimentées en oxygène en permanence.
+Entrée des eaux usées                                             Sortie des eaux traitées   La microstation est en revanche moins encombrante
+                                                                                             que le filtre compact. Par ailleurs, le média filtrant du
+                              1               2             3
+                        Compartiment     Compartiment    Compartiment
+                                                                                             filtre compact doit être remplacé tous les 8 à 15 ans
+                        de décantation   d’oxygénation   de clariﬁcation                     (remplacement coûteux).
+                           primaire
+
+
+
+
+Exemple de filière agréée : eaux traitées infiltrées sur le terrain sauf autorisation
+particulière.
+
+
+
+
+2. L'USAGE
+Tout défaut survenant sur le dispositif peut conduire                                        Δ débordement en amont du dispositif et remontée
+à des performances épuratoires dégradées ayant pour                                              d’effluents par les appareils sanitaires type douche
+conséquence des rejets non conformes en termes de                                                (vidanges insuffisantes du traitement primaire ou
+qualité des eaux et des pollutions de l’environnement                                            colmatage amont) ;
+en surface et souterraines).                                                                 Δ   odeurs nauséabondes (défaut d’étanchéité des
+De manière non exhaustive :                                                                      couvercles du dispositif, défaut de la ventilation
+Δ  colmatages divers (tassement des médias filtrants, du                                         primaire) ;
+   préfiltre, des regards de répartition et de bouclage) ;                                   Δ   déformations et fissures (écrasement, déflexion de
+Δ  débordement d’eau ou de boues en aval du dispositif                                           terrain, charge statique et dynamique, aménage-
+   d'infiltration et engorgement du terrain (présence de                                         ment et travaux ultérieurs du propriétaire dans l’em-
+   racines dans les drains, non-respect des distances                                            prise du dispositif…) ;
+   pour plantations / végétations) ;                                                         Δ   défaut de fonctionnement (poste de relevage,
+Δ  stagnation d’eau dans le compartiment de filtration                                           pompes compresseur, auget…) ;
+   (filtre compact) ;                                                                        Δ   soulèvement du dispositif par « poussée d’Ar-
+                                                                                                 chimède » (défaut d’ancrage ou de drainage).
+
+
+
+                                   >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENTRETIEN / MAINTENANCE
+G.11          DISPOSITIFS D’ASSAINISSEMENT AUTONOMES
+2/4           (MICROSTATIONS ET FILTRES COMPACTS)
+
+
+               3. LES POINTS D'ATTENTION INCONTOURNABLES
+      Modalités d’intervention                                       traitement des eaux usées domestiques. En aucun
+      Les tampons d’accès doivent être accessibles mais res-         cas, il ne doit reprendre les eaux pluviales, eaux de
+      ter verrouillés pour n’être ouverts que lors de l’interven-    ruissellement et de piscine.
+      tion d’entretien.
+                                                                     Pour faciliter l’entretien, il faut respecter des distances
+      Fonctionnement                                                 minimales prescrites dans les documents du fabricant,
+      Il faut prêter attention au taux d’occupation de l’habita-     par rapport :
+      tion (agrandissement d’une maison existante ou modi-           Δ aux plantations (arbres ou végétaux…) ;
+      fication de l’équivalent habitant EH).                         Δ aux zones destinées à recevoir des charges rou-
+                                                                       lantes statiques ou en circulation ;
+      Modification de l’installation                                 Δ aux zones de stockage non fondées ;
+      L’installation ne doit pas être modifiée sans avis             Δ aux points de rejet des eaux usées à traiter (la dis-
+      préalable du SPANC (service public d'assainissement              tance plus faible possible).
+      non collectif). Le dispositif est exclusivement dédié au
+
+
+                 Attention au fonctionnement par intermittence qui peut entraîner des dysfonctionnements du
+                 type « défaut épuratoire ». Prêter attention au changement de statut de la résidence (résidence
+                 principale versus résidence secondaire ou location saisonnière).
+                 La microstation est dimensionnée pour une utilisation moyenne régulière et ne doit pas être
+                 éteinte. En cas d’absence de longue durée, il existe un risque important de dégradation de la
+                 flore bactérienne.
+
+
+
+
+      4. LE RÔLE DE L’USAGER
+                              Pour que le dispositif de traitement fonc-          L’usager ne doit pas :
+                              tionne de manière optimale, l’installation          Δ adjoindre d’autres éléments mécaniques
+                              d’assainissement non collectif (ANC) doit             ou électriques de fonctionnement ;
+                              être entretenue régulièrement. Se reporter          Δ utiliser un nettoyeur automatique pour
+                              au « guide de l’usager » transmis de manière          toilettes ;
+                              systématique par l’entreprise de réalisation,       Δ rejeter dans les canalisations l’eau de ré-
+                              et s’y conformer.                                     trolavage d’un adoucisseur d’eau ;
+                                                                                  Δ utiliser un broyeur d’aliments ou une
+                              La fréquence de l’entretien varie                      pompe broyeuse placée en amont des
+                              selon le type d’installation :                         appareils de prétraitement ;
+                              Δ remplacement des pièces d’usures, Δ                  recouvrir ou enterrer les couvercles et
+                                (pompe de relevage, compresseur...) ;                tampons d’accès ;
+                              Δ réglages électromécaniques ;                Δ        planter des arbres ou grandes planta-
+                              Δ entretien périphérique (coupe des vé-                tions à moins de 3 mètres des appareils
+                                gétaux, tonte et nettoyage au niveau du              sans écran anti-racines ;
+                                rejet)... ;                                 Δ        raccorder un tuyau de drainage des eaux
+                              Δ vérification de l’état général des éléments          de ruissellement ou une gouttière de toi-
+                                visibles (condamnation et sécurisation               ture ou tous siphons de sol ;
+                                des couvercles, contrôle de l’éventuel      Δ        raccorder les eaux de condensats
+                                 piézomètre, vérification des regards de             des climatiseurs ou des chaudières à
+                                 répartition et de bouclage).                        condensation ;
+
+
+                >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                        ENTRETIEN / MAINTENANCE                   FICHE
+                                        DISPOSITIFS D’ASSAINISSEMENT AUTONOMES                                    G.11
+                                                       (MICROSTATIONS ET FILTRES COMPACTS)                            3/4
+
+
+4. LE RÔLE DE L’USAGER (SUITE)
+              Δ raccorder le tuyau de vidange de la pis- Δ contrôler visuellement le bon fonctionne-
+                 cine à la filière d’assainissement non               ment de la filière (dispositif de traitement
+                 collectif.                                           et poste de relevage selon fréquence du
+                                                                      fabricant) ;
+              Produits non-autorisés :                            Δ   réagir en cas d’alerte/alarme visuelle/au-
+              Δ se référer au guide utilisateur du fabri-             ditive signalant un dysfonctionnement ;
+                 cant. Ne rejeter que des matières qui            Δ   ne jamais entreprendre de réparation
+                 correspondent, de par leurs caractéris-              soi-même (risque de malaise et asphyxie).
+                 tiques, aux eaux usées domestiques.                  Ne jamais pénétrer dans la microstation.
+
+              Produits autorisés à usage                          Faire appel à un professionnel
+              modéré :                                            qualifié :
+              Δ produits pour lave-vaisselle et lave-linge ; Δ pour toute intervention d’entretien et de
+              Δ produits détartrants ;                         maintenance dans le cadre d’un contrat ;
+              Δ produits biodégradables.                     Δ pour des interventions pouvant compor-
+                                                               ter des risques sanitaires ou de sécurité ;
+              De manière régulière, l’usager                 Δ pour le contrôle et l’évacuation des
+              doit :                                           boues.
+              Δ surveiller l’installation ;
+              Δ nettoyer la grille préfiltre au jet d’eau
+                 sans pression ;
+
+
+
+5. LE RÔLE DU PROFESSIONNEL
+              Devoir de conseil                                   L’inspection doit comprendre a minima les
+              Tout professionnel intervenant sur les              éléments suivants :
+              dispositifs d’ANC doit signaler toutes les          Δ  la vérification du bon fonctionnement de
+              non-conformités qu’il constate au titre du             l’alarme ;
+              devoir de conseil.                                  Δ  le contrôle du niveau des boues dans le
+                                                                     traitement primaire (vidanger si nécessaire) ;
+              Moyen d’enregistrement et                           Δ  la vérification du bon écoulement des
+              traçabilité                                            effluents (non-apparition de stagnation
+              Chaque dispositif comporte un marquage                 d’eau en surface du média) ;
+              CE (suivant la norme NF EN 12566-3+A2               Δ  le contrôle du bon fonctionnement de l’in-
+              suivi d’un numéro de série).                           sufflation d’air dans le réacteur biologique ;
+              Par l'usage d’une application mobile pour           Δ  le contrôle du bon fonctionnement de la
+              faciliter les opérations d’entretien et assu-          ventilation ;
+              rer la traçabilité.                                 Δ  le contrôle du massif filtrant (décolma-
+                                                                     tage ou remplacement si nécessaire) ;
+              Opérations de maintenance                           Δ  la vérification de l’état du filtre à air du
+              Une inspection complète doit être réalisée             compresseur (nettoyer si nécessaire) ;
+              annuellement par une entreprise qualifiée           Δ  le contrôle du bon fonctionnement de la
+              et agréée (ayant accès au SAV du fabricant),           pompe de relevage et du système de ré-
+              formalisée par un contrat d’entretien signé            partition hydraulique (auget basculant).
+              par l’usager.
+
+
+
+
+             >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           ENTRETIEN / MAINTENANCE
+G.11            DISPOSITIFS D’ASSAINISSEMENT AUTONOMES
+4/4             (MICROSTATIONS ET FILTRES COMPACTS)
+
+
+      6. L’ŒIL DE L’EXPERT
+
+
+
+
+      Photo © SOCABAT                                 Photo © SOCABAT                        Photo © SOCABAT
+
+
+      Soulèvement de la fosse de filtra-              Fissuration d’un des pieds de la mi-   Débordement d'une microstation
+      tion d’un filtre compact de 3 m3                crostation liée à un écrasement par    9 EH.
+      (filtre coco). Obstruction du sys-              charge roulante, défaut d’usage.       Défaut : les eaux épurées ne sont
+      tème de drainage du site, défaut                                                       plus absorbées par le sol du fait de
+      d’entretien et de surveillance.                                                        la présence racinaire importante
+                                                                                             dans les drains et sont rejetées à
+                                                                                             l’extérieur au niveau d’un couvercle
+         À CONSULTER                                                                         de regard fissuré.
+         Δ NF  P16-008 : Installations d'assai-
+           nissement non collectif – Entretien
+         Δ Arrêté du 3 décembre 2010, mo-
+           difiant l'arrêté du 7 septembre
+             2009 relatif aux modalités d'agré-
+             ment des personnes réalisant les
+             vidanges et prenant en charge le
+             transport et l'élimination des ma-
+             tières extraites des installations
+             d'assainissement non collectif
+         Δ   Arrêté du 7 septembre 2009
+             modifié fixant les prescriptions
+             techniques applicables aux instal-
+             lations d'assainissement non col-
+             lectif recevant une charge brute de
+             pollution organique inférieure ou
+             égale à 1,2 kg/j de DBO5
+                                                           L’ESSENTIEL
+         Δ   Arrêté du 27 avril 2012 relatif aux           Δ La facilité d’entretien commence à la conception de l’ouvrage.
+             modalités de l’exécution de la mis-
+             sion de contrôle des installations            Δ Passer un contrat d’entretien avec une entreprise qualifiée et
+             d’assainissement non collectif                  agréée par le fabricant.
+         Δ   ATec ou DTA                                   Δ Respecter les conditions d’emploi et d’usage prescrites dans les
+         Δ   Guide de l’utilisateur des princi-              guides d’utilisation du fabricant.
+
+         Δ
+             paux fabricants
+             Plaquette AQC-INC-ANIL : Votre instal-        Δ Surveillance régulière de l’usager (odeurs, alarmes, état du pré-
+             lation d’assainissement non collectif            filtre, bon écoulement des effluents…).
+
+
+
+
+      Pour en savoir plus :
+                                                                                         Retrouvez l’ensemble des
+                                                                                         Fiches pathologie bâtiment sur :
+                                                                                         https://qualiteconstruction.com
+                                                                                         et sur l’AppliQC
+      www.groupe-sma.fr
+      https://qualiteconstruction.com                                   © 2025 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+                  >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+

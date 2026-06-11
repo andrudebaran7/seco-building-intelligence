@@ -1,0 +1,188 @@
+                                                                                    STRUCTURES ET GROS ŒUVRE                     FICHE
+                                                                                                                                 B.13
+                                                                                                                                      1/3
+
+
+
+                                                DÉSORDRES DES
+           Photo: © AQC - M. Thiffault - 2012
+                                                PISCINES PRIVATIVES
+
+1. LE CONSTAT
+Les piscines privées traditionnelles à structure en bé-                Fissurations, mouvements d’ensemble (tassement ou
+ton armé sont des ouvrages composites complexes                        soulèvement), mauvaise tenue des revêtements, rup-
+qui peuvent être le siège de désordres variés affectant                ture des canalisations sont à l’origine de désordres
+tant la structure que les revêtements associés et les                  susceptibles d’affecter la structure ou l’étanchéité de
+équipements.                                                           l’ouvrage.
+
+
+
+
+2. LE DIAGNOSTIC
+Au niveau du bassin                                 bir des poussées du bas vers le             perd ses propriétés de résistance
+Δ La fissuration qui peut affec-                    haut (principe d’Archimède) pro-            et de rigidité, faisant apparaître
+    ter aussi bien le radier que les                voquant des soulèvements par-               plis ou ridules.
+    parois verticales résulte d’insuf-              fois spectaculaires de plusieurs
+    fisances dans la conception, le                 dizaines de centimètres. D’où la        Au niveau des revêtements
+    calcul (défaut d’armatures) ou la               nécessité, dans ces cas, de di-         de finition
+    réalisation (disposition du ferrail-            mensionner l’ouvrage en consé-          Δ Les décollements de peinture
+    lage, reprises de bétonnage). Les               quence et de prévoir la réalisa-            proviennent de l’inadaptation du
+    fissures infiltrantes sont les plus             tion de puits de décompression              procédé utilisé ou de la mauvaise
+    préjudiciables car elles peuvent                et parfois d’un drainage perma-             préparation du support. La mi-
+    entraîner l’oxydation des arma-                 nent. Le vidage ou l’évaporation            gration de l’eau entre le support
+    tures et des éclats de béton.                   de l’eau du bassin ont un effet             et le feuil de peinture provoque le
+Δ   Le tassement d’ensemble ré-                     aggravant vis-à-vis de ce type de           décollement.
+    sulte d’une mauvaise prise en                   phénomène.                              Δ   Les décollements de carrelage
+    compte des caractéristiques géo-            Δ   Le décollement des enduits                  ont souvent pour origine la
+    techniques du sol. La présence                  hydrauliques intérieurs est                 mauvaise réalisation des joints
+    d’argile compressible, de rem-                  constaté en cas de mauvaise pré-            séparant les carreaux ou le
+    blais disparates, de points durs,               paration du support, de l’épais-            non-respect des joints de frac-
+    de terrains remaniés est souvent                seur insuffisante ou du mauvais             tionnement.
+    à l’origine de tassements différen-             dosage de l’enduit.
+    tiels. Les piscines construites sur         Δ   Les défauts des revêtements             Au niveau des équipements
+    des terrains en pente avec ap-                  élastoplastiques (liners) se ma-        Δ La rupture des canalisations en-
+    ports de remblais mal compactés                 nifestent par des déformations              terrées provient essentiellement
+    sont particulièrement sujettes à                ou des problèmes de bonne te-               des tassements du radier (en
+    une fissuration dommageable.                    nue (plis, taches) et résultent prin-       fonction du sol support) ou du
+    À l’inverse lorsque le bassin, qu’il            cipalement de la qualité et du trai-        remblai périphérique.
+    s’agisse d’ouvrages maçonnés                    tement de l’eau de contact. Une         Δ   L’affaissement des plages et mar-
+    ou en coques thermoformées,                     acidité excessive de l’eau peut             gelles est dû à la mauvaise mise
+    est exposé aux fluctuations de                  dissoudre les charges minérales             en œuvre des couches de rem-
+    la nappe phréatique, il peut su-                contenues dans la membrane qui              blais sous-jacents.
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           STRUCTURES ET GROS ŒUVRE
+B.13            DÉSORDRES DES PISCINES PRIVATIVES
+2/3
+
+
+
+
+                                                                                                       1       2   3   Niveaux d’assise variables
+                                           Échauﬀement
+                                           important des
+                                             terrasses
+
+                                         Blocage des plages
+
+                                                                                                           1
+
+                                           Zones de remblais
+                                        Tassements diﬀérentiels
+                                                                                                               2
+
+                                                                                                   3
+
+
+
+
+      3. LES BONNES
+      PRATIQUES
+      Δ Prévoir une étude préalable                               applicable à la construction des                 des fondations superficielles) et
+        et réfléchir à la conception                              bassins de piscines à structure                  par les Directives Techniques Pis-
+        d’ensemble.                                               béton, publié en mai 1977 dans                   cines n° 4 (stabilité des bassins et
+        La cause essentielle des dé-                              les annales ITBTP, fixe les règles               des fondations) et n° 1 (règles de
+        sordres de nature structurelle                            de conception, les conditions de                 tolérance de côtes et d’aspect).
+        est l’inadaptation de l’ouvrage                           mise en œuvre et d’utilisation.              Δ   Prévoir       les     revêtements
+        au sol, due à l’absence d’étude                           Attirer l’attention de l’utilisateur             adéquats.
+        géotechnique spécifique à l’ou-                           sur les risques de poussée des                   Le DTU 52.1 relatif aux revête-
+        vrage. S’agissant de la conception                        terres en cas de vidange de la                   ments de sols scellés, contient un
+        générale, le cahier des charges                           piscine.                                         certain nombre de dispositions
+                                                              Δ   Soigner les travaux prépara-                     visant les plages de piscines.
+                                                                  toires et de remblaiement.                       Le NF DTU 52.2 s’applique aux car-
+        À CONSULTER                                               Le DTU 12 fixe les conditions de                 relages collés.
+        Δ Cahier  des charges applicable à
+          la construction des bassins de pis-
+                                                                  l’exécution des fouilles (chapitre I),       Δ   Notamment concernant la
+            cines à structure béton
+                                                                  et celles des remblaiements                      sécurité des piscines privatives.
+        Δ   DTU 13.11 : Fondations superfi-                       (chapitre V).                                    Les piscines privatives doivent
+            cielles                                           Δ   Se conformer aux règles de                       être équipées d’un disposi-
+        Δ   DTU 12 : Terrassement pour le
+            bâtiment
+                                                                  réalisation des fondations et                    tif de sécurité contre le risque
+            Nota : retiré de la liste officielle des
+                                                                  du gros œuvre.                                   de noyade (cf. décrets du
+            DTU, il reste cependant un docu-                      Elles sont fixées par le DTU 13.11               07/06/2004 et du 16/07/2009).
+            ment de référence auquel il peut                      (conditions de mises en œuvre
+            être fait appel dans les conditions
+            particulières des marchés, d’un
+            commun accord entre les parties.
+        Δ   NF DTU 52.1 : Revêtements de sols
+            scellés
+                                                                  L’ESSENTIEL
+        Δ   NF DTU 52-2 Parties 1-1-2 et 1-1-3 :
+            Pose collée extérieure des revête-
+                                                                  Δ Faire réaliser impérativement une étude géotechnique et tenir
+                                                                    compte des caractéristiques du sol.
+            ments céramiques et assimilés -
+            Pierres naturelles                                    Δ Porter un soin particulier aux opérations de fouilles et de rem-
+        Δ   DTP n° 1 Piscines de loisirs - Règles                   blaiements.
+            générales de tolérances + fascicule                   Δ Veiller à l’adaptation des revêtements de finition à cet usage.
+        Δ
+            74
+            DTP n° 4 Piscines de loisirs - Génie                  Δ Contrôler lors de la mise en eau le tassement et l’étanchéité
+            civil                                                    de l’ouvrage.
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                          STRUCTURES ET GROS ŒUVRE                   FICHE
+                                                           DÉSORDRES DES PISCINES PRIVATIVES                         B.13
+                                                                                                                          3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                              Sinistre 1 : structure
+                                                              La structure de la piscine constituée d’un radier en
+                                                              béton et de parois en blocs de béton a beaucoup
+                                                              souffert. La dépose du liner est nécessaire pour visua-
+                                                              liser les défauts. La réparation a conduit à des travaux
+                                                              lourds : forage de micropieux venant soutenir le radier
+                                                              et coulage de parois en béton ancrées dans le radier.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                                              Sinistre 2 : fuites
+                                                              L’étanchéité de ce bassin ne donne pas satisfaction.
+                                                              L’enduit appliqué sur la face extérieure de l’ouvrage
+                                                              souffre de la situation. Les piscines étanchées par un
+                                                              liner se révèlent généralement étanches. Les autres
+                                                              solutions disponibles sont de réalisation plus délicate.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                                              Sinistre 3 : carrelage, résine
+                                                              L’étanchéité du fond de ce bassin a été réalisée avec
+                                                              un film de résine. Il se décolle à la suite de passages
+                                                              d’eau parasites. Le revêtement mural en pâte de verre
+                                                              souffre également de ces passages d’eau. Des travaux
+                                                              lourds de réparation ont dû être engagés, après assè-
+                                                              chement du support et drainage extérieur.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,218 @@
+                                                                  FONDATIONS ET INFRASTRUCTURES                    FICHE
+                                                                                                                   A.07
+                                                                                                                        1/4
+                                          GLISSEMENT DE SOLS ET
+                                          DÉSORDRES DES MURS DE
+                                          SOUTÈNEMENT
+                      Photo © DR - AQC    EN MILIEU TROPICAL
+
+1. LE CONSTAT
+La typologie des sols principalement rencontrée dans        Ces ouvrages peuvent être de hauteur limitée (moins
+les DROM correspond à celle des îles volcaniques. Les       de 2 mètres), mais également présenter des hauteurs
+sols sont composés des différentes couches de laves         de 5 à 6 mètres. Les ouvrages rencontrés sont de plu-
+des coulées successives. La qualité de chaque strate        sieurs types :
+formant le sol dépend du type d’éruption, d’où la suc-      Δ  des murs poids, constitués d’un assemblage de
+cession de roches compactes de bonne résistance (de            moellons (pierres extraites localement, souvent vol-
+3 à 10 bars), de roches altérées de résistance moyenne         caniques), maçonnées au mortier ;
+(entre 1,5 et 3 bars) et de couches de scories de qualité   Δ  des murs de soutènement en maçonnerie ;
+médiocre (< à 1,5 bar). Des sols de type sableux béné-      Δ  des murs en béton banché ;
+ficiant d’une bonne résistance à la compression mais        Δ  des parois cloutées ou ancrées, rencontrées en sta-
+d’une cohésion nulle sont rencontrés sur les zones lit-        bilisation des décaissements en terrain rocheux (al-
+torales. Plus rarement des sols sensibles aux variations       ternance de scories et de roche compacte rendant
+hydriques, à granulométrie fine de type argile pseudo-         les parois instables) ;
+gonflante sont observés dans les anciens méandres           Δ  des parois berlinoises.
+des ravines (dépôts alluvionnaires non lessivés par
+les pluies tropicales). Bien que peu fréquents, ces sols    Les désordres affectant les murs de soutènement se
+sensibles à l’eau sont à l’origine des sinistres les plus   traduisent principalement par :
+coûteux).                                                   Δ  des fissurations ;
+La topographie, la nature des sols et le contexte cli-      Δ  des bombements ;
+matique particuliers (expositions cycloniques, préci-       Δ  des tassements ;
+pitations importantes) des DROM, en concomitance            Δ  des poinçonnements,
+avec les contraintes d’urbanisme (densification du bâti     conduisant à des déversements, glissements, pouvant
+et extension des constructions sur les hauteurs ou          aller jusqu’à des effondrements survenant lors d’épi-
+sur des terrains en pente) ont nécessité la réalisation     sodes pluvieux ou en période cyclonique. Les premiers
+de murs de soutènement, favorisant l’émergence de           désordres arrivent généralement entre 2 et 3 ans après
+pathologies.                                                la date de réception de l’ouvrage.
+
+
+
+
+2. LE DIAGNOSTIC                           locaux inadaptés, car imper-             géotextile drainant, absence de
+                                           méables, servant au remblaie-            barbacanes.
+Les désordres affectant les murs de        ment, approvisionnement en           Δ   Le mauvais dimensionnement
+soutènement prennent leur origine          quantité insuffisante, non-res-          est également source de dé-
+à différentes étapes de la concep-         pect des gradients de granulo-           sordres (mauvaise prise en
+tion et de la réalisation de l’ouvrage.    métrie du tertre d’infiltration)         compte des poussées des terres,
+Δ  La cause principale est l’ab-           des drains (positionnement du            des coefficients de frottements
+   sence ou mauvaise prise en              drain, pente, positionnement             internes des terres, absence
+   compte des contraintes gé-              des fentes, utilisation inadap-          de prise en compte des pous-
+   nérées par l’eau, au niveau du          tée de drains agricoles,…), non-         sées hydriques, des contraintes
+   massif      drainant    (matériaux      respect du sens de pose du               d’exploitations aussi bien sur la
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           FONDATIONS ET INFRASTRUCTURES
+A.07            GLISSEMENT DE SOLS ET DÉSORDRES
+2/4             DES MURS DE SOUTÈNEMENT
+                EN MILIEU TROPICAL
+          partie inférieure que supérieure,    pect des Règles de l’art, ni interven-   rement à des choix de caractéris-
+          contrainte supérieure à celle        tion d’un BET pour la conception et      tiques de sol trop optimistes par le
+          envisagée sous la semelle ….).       le dimensionnement de l’ouvrage.         BET, à défaut de missions G2 et G3
+          Il peut induire une sous-estima-     Pour ces types d’ouvrage, les dé-        attribuées au géotechnicien.
+          tion des contraintes et un dépla-    sordres relèvent de 3 causes.
+          cement des points d’applications     Δ  Un défaut d’ancrage de la base        Parois berlinoises
+          des efforts (EB : Récupérer sché-       élargie dans le sol (mauvaise         Les parois berlinoises sont utilisées
+          mas effort). Cela peut conduire à       géométrie sur la largeur ou           afin de stabiliser un terrassement
+          un basculement voire un renver-         l’épaisseur de la semelle…) pou-      lorsque le talutage n’est pas ré-
+          sement de l’ouvrage.                    vant entraîner un basculement         alisable, comme par exemple en
+      Δ   Absence d’étude géotechnique            de l’ouvrage.                         mitoyenneté ou au droit d’ouvrage
+          ne permettant pas de prendre         Δ  Une accumulation d’eau sur la         existant.
+          en compte la présence de sco-           face côté terre avec une pous-        Dans les DROM, les sols ne permet-
+          ries volcaniques (qui peuvent           sée hydrostatique importante,         tant pas la réalisation de passes al-
+          modifier la portance du sol) ou         renforcée par un défaut ou une        ternées correspondent à des sols
+          de statuer sur le risque de grand       absence de drainage et une            de très faible cohérence, comme
+          glissement.                             insuffisance d’évacuation par         les terrains sableux dans les zones
+      Δ   Un défaut d’exécution de l’ou-          barbacane. En effet, en période       littorales.
+          vrage (positionnement des ar-           cyclonique, les précipitations        La phase de remplissage de l’es-
+          matures, défaut de continuité de        sont telles qu’elles créent d’im-     pace entre la paroi berlinoise et le
+          chaînage, absence de joints de          portantes poussées hydrau-            terrain à stabiliser doit être réalisée
+          dilatation…).                           liques sur ce type d’ouvrage. Les     à l’avancement de l’ouvrage sans
+      Δ   Un défaut d’exécution relatif à         défauts des systèmes d’évacua-        délai, sous peine de voir le sol se
+          un remblaiement mal réalisé (par        tion des eaux de ruissellement,       décomprimer.
+          couches trop épaisses, avec des         l’absence ou l’inefficacité du sys-   La survenance d’un épisode plu-
+          engins inadaptés, talutage en           tème de drainage ne permettent        vieux de type tropical lors d’une
+          tête trop prononcé ….), exécuté         aucune décharge hydraulique           phase critique entraînera le lessi-
+          prématurément (temps de prise           derrière le mur.                      vage des particules fines du sol et
+          des ouvrages bétons non res-         Δ  En complément, des défauts de         la déstabilisation du terrain ou des
+          pecté), avec des matériaux ina-         dimensionnement         (fondation,   ouvrages avoisinants.
+          daptés (ex : matériaux argileux,        ferraillage, continuité d’arma-
+          imperméables ou pollués).               tures…) ne permettent pas au          Les autres causes de
+                                                  mur de soutènement de s’oppo-         désordres
+      Par ailleurs, la combinaison d’une          ser à la poussée des terres sa-       Δ Modification d’ouvrage comme
+      eau abondante et d’un sol volca-            turées et celui-ci s’effondre côté        une surélévation même de faible
+      nique riche en ions (altération et          libre.                                    hauteur pouvant compromettre
+      lessivage des roches et des sols)                                                     la stabilité de l’ouvrage (équilibre
+      entraîne une forte agressivité de        Des murs en béton banché                     des moments).
+      l’eau en contact avec les ouvrages       Les ouvrages en béton armé font          Δ   Modification de l’environnement
+      en béton.                                l’objet d’une étude de conception            ou modification des aménage-
+                                               par un BET structure. Toutefois,             ments en pied (réalisation d’une
+      Murs de soutènement,                     l’intervention d’un BET structure            piscine).
+      en maçonnerie de petits                  ne remplace pas celle d’un               Δ   Dépassement         des     charges
+      éléments et en moellons de               géotechnicien, ce dernier devant             d’exploitations sur la zone su-
+      pierres maçonnées                        déterminer les paramètres du sol             périeure (surcharges dues à
+      Dans certains cas, notamment pour        (frottement, cohésion, contrainte            des remblais, aménagement de
+      les soutènements de faible hau-          de sol).                                     parking non prévu initialement,
+      teur, il s’agit de petites entreprises   Les défauts de ferraillage et de             construction d’un bâtiment, …).
+      de maçonnerie qui construisent un        chaînage sont rarement à l’origine       Δ   Fuite de réseaux enterrés.
+      mur pour un particulier, sans res-       d’instabilité de l’ensemble, contrai-
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                      FONDATIONS ET INFRASTRUCTURES                     FICHE
+                                                              GLISSEMENT DE SOLS ET DÉSORDRES                           A.07
+                                                                     DES MURS DE SOUTÈNEMENT                                 3/4
+                                                                            EN MILIEU TROPICAL
+
+Δ Lessivage des particules fines              de la présence quasi systéma-            (3 à 10 mm/m), le bon raccorde-
+    des matériaux de remblais en              tique de poches de scories et de         ment au réseau EP et la présence
+    l’absence de géotextile permet-           couches comportant des parti-            de regard de visite (conception).
+    tant de les retenir.                      cules fines.                             Situer le drain au-dessus du ni-
+                                          Δ   Réaliser une étude de sol dans           veau des fondations pour éviter
+                                              le cas général avec la norme NF          leur affouillement. Cette non-
+3. LES BONNES                                 P94-500 selon l’enchaînement             qualité peut a posteriori générer
+PRATIQUES                                     complet des missions géotech-            la ruine de l’ouvrage.
+                                              niques, notamment si des signes      Δ   Prévoir un dispositif de barba-
+Δ Prendre en compte dans les PPR              d’instabilité sont détectés (végé-       canes et le positionner plus haut
+    les exigences liées aux mouve-            tation couchée, amorce de glis-          que le drain pour avertir du dys-
+    ments de terrain.                         sement, loupes, fissures et vides,       fonctionnement de ce dernier.
+Δ   Intégrer les exigences éven-              éboulements…).                           Elles ne constituent pas, en effet,
+    tuelles liées au zonage sismique.     Δ   Demander le dimensionnement              à elles seules un dispositif de
+Δ   En phase conception, dimen-               complet de l’ouvrage et de la            drainage.
+    sionner l’ouvrage afin de pou-            partie drainage (prise en compte
+    voir déterminer l’aptitude de             de tous types de contraintes,        Remblaiement
+    l’ouvrage vis-à-vis de l’envi-            eaux, terres, poids/surcharges…)     Δ Compacter le sol avec des en-
+    ronnement et réaliser un plan             avec plan de ferraillage à l’appui       gins légers, par couches succes-
+    d’exécution.                              et plans de drainage par un BET          sives (< 20 cm). Un compactage
+Δ   Veiller au phasage des travaux            structure.                               serré engendre un effort supplé-
+    (10 ml au plus) et à la protection    Δ   Tenir compte de la présence              mentaire sur le mur et peut avoir
+    des ouvrages à l’avancement.              d’avoisinants, de la position du         un impact sur le drainage.
+Δ   Si le site se révèle sensible géo-        mur de soutènement par rap-          Δ   Prêter attention à la qualité
+    techniquement (relativement au            port à la limite de propriété, de        des remblais. Ne pas utiliser
+    PPR ou sujet à une épaisseur              la pente du talus : s’assurer que        des terres locales non prévues
+    attendue non négligeable de               la pente du talus est inférieure à       pour cet usage. Préférer l’utili-
+    sols meubles), demander un avis           100 % (45° ou pente 1 pour 1).           sation de matériaux drainants,
+    géotechnique minimal selon la                                                      propres, concassés, issus de
+    norme NF P 94-500.                    Prendre en compte les                        carrière. Éviter l’utilisation de
+Δ   Éviter les soutènements en ag-        contraintes hydriques et du                  matériaux de démolition.
+    glos sauf à soigner le chaînage et    système de drainage                      Δ   Mise en œuvre de géotextile
+    l’encastrement en pied dans une       Δ Dimensionner les systèmes de               pour maintien des particules
+    semelle.                                  drainages trop souvent à l’origine       fines des matériaux de remblais.
+Δ   Dans tous les cas, vérifier la qua-       de désordres.
+    lité du sol d’assise, la profondeur   Δ   Réaliser, derrière le mur, un mas-   Entretien :
+    d’ancrage et la propreté du fond          sif filtrant (système de drainage    Δ Vérifier périodiquement le bon
+    de fouille et apporter un soin            vertical) en graviers de granu-          fonctionnement du drainage et
+    particulier au compactage.                lométrie adaptée et croissante           des barbacanes.
+Δ   Pour les ouvrages de H > 4 mètres,        (dans le sens de l’écoulement        Δ   Éliminer les végétations para-
+    faire appel à un maître d’œuvre           de l’eau), exempts de fines, muni        sites sur l’ouvrage.
+    externe pour la conception et la          d’un géotextile imputrescible        Δ   Respecter les charges d’exploita-
+    réalisation des travaux.                  (200g/m2).                               tion pour lesquelles le mur a été
+Δ   Consulter les prévisions météo-       Δ   Réaliser un système de drainage          dimensionné.
+    rologiques avant la réalisation           horizontal à l’aide d’un produit
+    de terrassement ou de talutage,           dédié à cette utilisation (fentes
+    spécialement pour des sols de             orientées vers le haut, sous un
+    faible cohérence mais aussi pour          géotextile).
+    des terrains rocheux, en raison       Δ   Vérifier la pente du drain
+
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           FONDATIONS ET INFRASTRUCTURES
+A.07            GLISSEMENT DE SOLS ET DÉSORDRES
+4/4             DES MURS DE SOUTÈNEMENT
+                EN MILIEU TROPICAL
+
+
+        À CONSULTER                              L’ESSENTIEL
+        Δ Eurocode     2 pour le Calcul des
+          structures béton
+                                                 Δ Faire dimensionner l’ouvrage par un BET, adapter l’ouvrage au
+                                                   sol.
+        Δ Règles  BAEL 91 pour la conception
+          et le calcul des ouvrages en béton     Δ Soigner la liaison entre la fondation et la paroi.
+            armé aux états limites               Δ Soigner les dispositifs de décharge hydraulique contre la paroi :
+        Δ DTU   13.11 relatif aux fondations
+          superficielles
+                                                     drainage vertical côté terre, évacuation des eaux, barbacanes
+                                                     ou évacuation.
+        Δ DTU   13.12 Règles de calcul des
+          fondations superficielles              Δ   Intégrer l’environnement : évacuation des eaux en pied, stabili-
+        Δ DTU  20.1 Ouvrages en maçonne-
+          ries de petits éléments
+                                                     té de l’assise, circulation des eaux de surface.
+
+
+
+
+      4. L’ŒIL DE L’EXPERT
+
+
+
+
+      Photo © DR - AQC
+      Effondrement du mur de soutènement dû à une
+      absence de drainage vertical ainsi qu’à des fondations
+      non conformes.
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                               © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,166 @@
+                                                                                              TOITURES ET CHARPENTES                    FICHE
+                                                                                                                                        C.12
+                                                                                                                                             1/3
+
+                                          POINTS FAIBLES DE LA
+                                          PROTECTION LOURDE EN TOITURES-
+                     Photo © DR - AQC
+                                          TERRASSES ACCESSIBLES
+
+1. LE CONSTAT
+Sur les toitures-terrasses accessibles, la protec-                 Qu’il s’agisse d’une protection lourde par dalle béton, chape ou
+tion lourde assure à la fois la viabilité et la pro-               dallage en béton armé ou dalles sur plots, il existe des risques
+tection du revêtement d’étanchéité contre les                      d’infiltration d’eau.
+agressions climatiques et mécaniques.
+
+
+
+
+2. LE DIAGNOSTIC                             d’un matériau de désolidarisa-                           corps coupants (clous, graviers…)
+                                             tion lors de la mise en œuvre).                          qui, sous le poids des dalles et les
+La conception, la réalisation et/ou                                                                   sollicitations de fonctionnement,
+l’entretien peuvent être à l’origine     Dans le cas des dalles sur                                   perforent progressivement le
+de ce problème.                          plots                                                        revêtement ;
+Des infiltrations se produisent          Les dalles ou les plots peuvent avoir                     Δ  lorsque des équipements lourds
+lorsque les ouvrages censés pro-         une action mécanique directe sur                             (mobiliers, jardinières) sont ins-
+téger le revêtement d’étanchéité le      le revêtement ou les relevés en les                          tallés ultérieurement sur les
+blessent. Ces blessures affectent la     blessant en surface :                                        dalles, sans que le revêtement
+partie courante ou les relevés.          Δ  lorsqu’elles sont positionnées                            d’étanchéité (et/ou l’isolant sup-
+                                            trop près d’un relevé mal proté-                          port) ne soit renforcé, les plots
+Dans le cas d’une protection                gé, les arêtes des dalles entaillent                      poinçonnent le revêtement qui
+par chape ou dallage en                     le revêtement ;                                           se déchire.
+béton armé                               Δ  lorsqu’ils sont posés sur une sur-                     L’absence ou l’insuffisance d’entre-
+Sous l’effet des variations hygro-          face mal nettoyée ou non débar-                        tien de la terrasse, en favorisant
+thermiques, la masse que consti-            rassée des résidus de chantier,                        l’accumulation de végétation ou de
+tue la chape ou la dalle en béton           les plots peuvent recouvrir des                        feuilles mortes, provoque l’encras-
+armé se dilate ou se rétracte. La
+                                                                                              EXEMPLE DE PROTECTION DURE COULÉE EN
+répercussion de ces mouvements                                                                    PLACE POUR TOITURE-TERRASSE
+s’avère néfaste pour le revêtement                                                                   ACCESSIBLE AUX PIÉTONS
+                                                                        ≈                      (Revêtement de sol scellé non ﬁguré)
+d’étanchéité car il résiste mal aux                                                                      (NF DTU 43.1)
+                                                                       d=2m
+mouvements alternés. Résultat : il
+se décolle, se plisse ou se déchire.                                                                   ≤4m
+Les deux principales causes sont :
+Δ  une surface de dalle trop impor-
+   tante (surface délimitée par les                                       S = ≤ 10 m3
+   joints de fractionnement supé-
+   rieure à 10 m2) ;
+Δ  la solidarisation du revêtement
+                                                                                                                   Désolidarisation
+   de protection lourd d’étanchéité                        E                                                 Revêtement d’étanchéité
+   de la chape ou dallage armé avec                            e    ≤4m     e           ≤4m    e
+                                         E ≥ 2 cm
+   le revêtement (non-interposition      1 cm ≤ e ≤ 2 cm
+
+
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              TOITURES ET CHARPENTES
+C.12               POINTS FAIBLES DE LA PROTECTION LOURDE
+2/3                EN TOITURES-TERRASSES ACCESSIBLES
+
+      sement des vides des joints entre               males de 10 m2 (joints de 0,01 à      Δ Avant la pose des plots et des
+      dalles et par suite le débordement              0,02 m) (voir croquis) ;                dalles, veiller à avoir une sur-
+      en empêchant l’évacuation nor-                Δ la désolidarisation entre le revê-      face de revêtement propre et
+      male de l’eau sous les dalles.                  tement et la protection par un          exempte de tout corps suscep-
+      Il faut noter ici que l’usage de plus           lit de granulats (ou un film dans       tible de blesser la surface. Il faut
+      en plus fréquent de lames de bois               le cas de surfaces inférieures à        poser, si possible, les dalles avant
+      au lieu de dalles carrées nécessite             30 m2) sur non-tissé. La désoli-        le passage des autres corps
+      de prévoir des dispositifs amo-                 darisation est fonction de l’acces-     d’état sur la terrasse étanchée.
+      vibles pour permettre un entretien              sibilité et est décrite dans les NF
+      adéquat, en particulier au droit des            DTU 43.1 et 43.11.
+      évacuations d’eau pluviale et des             Ces prescriptions sont reprises            PROTECTION PAR DALLES SUR PLOTS
+      relevés.                                      dans le DTU 52.1.                             AVEC RELEVÉ AUTOPROTÉGÉ
+                                                                                                         (NF DTU 43.1)
+
+                                                    En ce qui concerne les
+      3. LES BONNES                                 dalles sur plots
+      PRATIQUES                                     Respecter les prescriptions du NF
+                                                    DTU 43.1 (climat de plaine) qui dé-                  ≥ 3 à 10 mm
+                                                                                                                               Dalles
+      En ce qui concerne la                         termine les hauteurs minimales
+      protection par chape ou                       des relevés (toujours supérieures
+      dallage en béton armé                         à 0,10 m) suivant la position re-
+      Respecter le NF DTU 43.1 et 43.11             lative des dalles, la nature de la
+                                                                                                     H                 Plots
+      qui fixent les règles minimales de            protection des relevés et la di-
+      dimensionnement de la protection              mension recommandée pour les
+      lourde, et préconise notamment :              joints (0,002 à 0,005 m entre dalles
+      Δ  le fractionnement en bordure               et 0,003 à 0,010 m entre dalles et
+         des reliefs et émergences (joints          émergences). Respecter le NF DTU
+         de 0,02 m minimum) ;                       43.11 pour les ouvrages en climat
+      Δ  le fractionnement tous les 4 m             de montagne.                                            H = ≥ 100 mm
+
+         maximum ou par surfaces maxi-
+
+
+
+
+          À CONSULTER
+          Δ NF DTU 20.12 : Conception du
+            gros œuvre en maçonnerie des
+              toitures destinées à recevoir un
+              revêtement d’étanchéité
+          Δ   NF DTU 43.1 : Étanchéité des
+              toitures- terrasses et toitures in-       L’ESSENTIEL
+              clinées avec éléments porteurs en
+              maçonnerie en climat de plaine            Δ Concevoir le complexe étanchéité/protection lourde en te-
+          Δ   NF DTU 43.11 : Étanchéité des
+              toitures-terrasses et toitures in-
+                                                            nant compte des charges ultérieures et des contraintes
+                                                            d’accessibilité.
+              clinées avec éléments porteurs
+              en maçonnerie en climat de
+                                                        Δ   Exécuter la protection lourde en veillant aux points sensibles
+                                                            signalés dans le DTU 43.1.
+              montagne
+          Δ   NF DTU 43.5 : Réfection des ou-           Δ   Entretenir régulièrement les dalles sur plots pour éviter
+              vrages d’étanchéité des toitures-             l’encrassement des vides entre joints.
+              terrasses ou inclinées
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                              TOITURES ET CHARPENTES                   FICHE
+                                                   POINTS FAIBLES DE LA PROTECTION LOURDE                              C.12
+                                                      EN TOITURES-TERRASSES ACCESSIBLES                                  3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                           Fissurations et soulèvements au droit des joints de frac-
+                                                           tionnement de dallage béton pour protection lourde
+                                                           d’étanchéité. Mauvais dimensionnement en épaisseur
+                                                           du dallage (7 cm). Les protections BA résistent mal au
+                                                           trafic lourd, les angles se cassent. De plus, les protec-
+                                                           tions lourdes doivent être désolidarisées des relevés
+                                                           d’étanchéité.
+                                                           À défaut, on peut constater également un poinçonne-
+                                                           ment au droit de ces relevés.
+
+Photo: © GIE SOCABAT
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

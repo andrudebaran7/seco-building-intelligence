@@ -1,0 +1,152 @@
+                                                                                                STRUCTURES ET GROS ŒUVRE                        FICHE
+                                                                                                                                                B.05
+                                                                                                                                                  1/3
+
+                                                                CORROSION DES ARMATURES
+                                                                DU BÉTON ARMÉ EN FAÇADES
+                                   Photo © DR - AQC             DES BÂTIMENTS
+
+1. LE CONSTAT
+Les désordres affectant les structures en béton armé                                Des aciers presque totalement corrodés apparaissent
+commencent à la surface du béton par de fines fissures et                           après soulèvement et détachement des éclats de
+de légères traces de teinte ocre. Puis l’élargissement des                          béton.
+fissures permet à la rouille (hydroxyde de fer) de suinter.
+
+
+
+
+2. LE DIAGNOSTIC
+Porosité excessive du béton                                     la porosité. Ainsi, par un temps sec
+                                                                et chaud, une dessiccation rapide       (1) : Source Wikipedia
+          LES PHASES DE DÉGRADATION
+                DU BÉTON ARMÉ                                   du béton jeune, dont la surface n’a     Quand le fer (ou l’acier) entre en
+                                                                pas été protégée par un produit         contact avec l’eau, un processus
+                                Acier
+                                Front d’attaque                 de cure approprié, peut être à l’ori-   électrochimique lent commence.
+                                                                gine d’une porosité excessive du        Sur la surface du métal, du fer
+                           Le béton armé est jeune et stable,   matériau.                               (état d’oxydation : 0) est oxydé
+                           mais commence la pénétration du
+   Milieu extérieur        CO2 et de l’oxygène                                                          pour passer à l’état d’oxydation II :
+  humide et agressif
+                                                                Mauvaise disposition des                Fe + 2OH- → Fe(OH)2 + 2e-,
+                                                                armatures                               pendant que le dioxygène de l’air
+                           La carbonisation
+                           progresse en direction de l’acier
+                                                                Un défaut de l’enrobage des ar-         (degré d’oxydation 0) est réduit en
+                           qui se trouve bientôt                matures (distance entre acier et        ion hydroxyde :
+                           dépassivé
+                                                                béton), par suite d’une erreur de       2H2O + O2 + 4e- → 4OH-
+                           La corrosion                         lecture de plan de ferraillage ou       Lors de la seconde étape (qua-
+                           démarre                              bien d’une insuffisance de cales        si instantanée) l’hydroxyde de
+                           (en présence d’humidité), c’est
+                           bientôt la 1ère ﬁssuration           assurant le maintien des armatures      fer II est rapidement oxydé en
+                                                                à l’intérieur des coffrages peut en-    hydroxyde de fer III selon cette
+                           Phase ﬁnale                          traîner ce type de désordre. Sous la    réaction :
+                           Oxydation importante de
+                           l’acier, avec formation de           pression du béton, la souplesse des     4Fe(OH)2 + 2H2O + O2 →
+                           sels gonﬂants qui
+                           poussent sur la peau du béton.
+                                                                cages d’armatures fait que celles-ci    4Fe(OH)3.
+                           Éclats, coulures.                    peuvent se coller contre le coffrage.   Finalement, cet hydroxyde de fer
+                                                                                                        III se transforme spontanément
+                           Chute
+                                                                Fissures structurelles                  en oxyde de fer III hydraté selon
+Elle peut être due à la composition                             Les fissures structurelles des ma-      l’équation-bilan suivante :
+du béton (mauvais rapport entre le                              çonneries (évoquées en fiche B1),       2Fe(OH)3 → Fe2O3 + 3H2O.
+sable et les gravillons par exemple,                            sont des chemins préférentiels
+excès d’eau, …) ou bien à des insuf-                            pour l’attaque des aciers par l’eau
+fisances de vibration du béton au                               (1) et l’oxygène (entretenant le
+sein du coffrage.                                               processus électrochimique engen-
+Les conditions climatiques lors de                              drant la formation des sels de fer
+la mise en œuvre du béton ont éga-                              (sels gonflants))*.
+lement une incidence certaine sur
+
+
+                       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          STRUCTURES ET GROS ŒUVRE
+B.05           CORROSION DES ARMATURES
+2/3            DU BÉTON ARMÉ EN FAÇADES
+               DES BÂTIMENTS
+
+      * la carbonatation est un phénomène        3. LES BONNES                                   Δ Prendre en compte l’exposition
+      chimique initié par la diffusion du        PRATIQUES                                           de la structure dans le choix de
+      CO2 de l’air dans l’épaisseur du béton                                                         la valeur d’enrobage : l’attaque
+      et contribuant fortement à la dépassi-     Δ Assurer une bonne compacité                       de l’acier par l’oxygène est accé-
+      vation des armatures, surtout en cas           du béton : la compacité du béton                lérée par la présence d’humidité.
+      de porosité importante de la nature            sera influencée par le rapport                  Les façades exposées à la pluie
+      du béton.                                      eau/ciment, les additions miné-                 sont les plus vulnérables.
+                                                     rales (cendres volantes, fumées             Δ   Veiller à la mise en place de cales
+                                                     de silice, laitiers, fillers…) et l’ajout       rigides des armatures dans les
+                                                     d’adjuvants (plastifiants, réduc-               coffrages.
+                                                     teurs d’eau, accélérateurs de               Δ   Assurer une vibration suffisante
+                                                     prise, …) pour réduire la porosité              au sein des coffrages en fonction
+                                                     du béton durci.                                 de la rhéologie du béton.
+                                                 Δ   Respecter les valeurs d’enrobage            Δ   Protéger les surfaces avec un
+                                                     définies par les documents en vi-               produit de cure approprié pour
+                                                     gueur (Eurocode 2).                             éviter la dessiccation par temps
+                                                                                                     sec et chaud.
+
+
+
+
+        À CONSULTER
+        Δ Eurocode
+          en béton
+                     2 : Calcul des structures
+
+        Δ Eurocode
+          structures
+                       1 : action sur les
+
+        Δ DTU  21 : Exécution des ouvrages
+          en béton
+        Δ DTU  23-1 : Murs en béton banché            L’ESSENTIEL
+        Δ Fascicule  P18-011 Béton - Défini-
+          tion et classification des environ-         Δ Veiller à la compacité du béton.
+            nements chimiquement agressifs.           Δ Respecter les valeurs d’enrobage.
+        Δ   NF EN 206-1 : Béton prêt à
+            l’emploi
+                                                      Δ Vérifier le positionnement des armatures et leur bon maintien.
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           STRUCTURES ET GROS ŒUVRE                   FICHE
+                                                                        CORROSION DES ARMATURES                       B.05
+                                                                        DU BÉTON ARMÉ EN FAÇADES                           3/3
+                                                                                   DES BÂTIMENTS
+4. L’ŒIL DE L’EXPERT
+                                                               Façade d’immeuble en panneaux lourds de béton pré-
+                                                               fabriqué : éclatements localisés généralisés de pare-
+                                                               ment béton dus à un mauvais enrobage des armatures
+                                                               (manque de calages suffisants dans les coffrages pre-
+                                                               nant en compte les traitements éventuels de surface
+                                                               tels que surfaçage/rabotage fin pour «lisser» la surface)
+                                                               lors des coulages en usine des panneaux préfabriqués.
+
+
+
+
+Photo: © AQC - M. Boutet – 2014
+
+
+                                                               Nez de dalle en béton : corrosion des aciers avec écla-
+                                                               tements de béton dus au manque d’enrobage des
+                                                               armatures.
+
+
+
+
+Photo: © AQC - M. Lepere – 2014
+
+
+
+
+Pour en savoir plus :
+                                                                              Retrouvez l’ensemble des
+                                                                              Fiches pathologie bâtiment sur :
+                                                                              www.qualiteconstruction.com
+                                                                              et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                  © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+                >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

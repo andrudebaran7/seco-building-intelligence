@@ -1,0 +1,165 @@
+                                                                   FONDATIONS ET INFRASTRUCTURES                        FICHE
+                                                                                                                        A.08
+                                                                                                                             1/3
+                                          PATHOLOGIES DES
+                                          CANALISATIONS EAUX VANNES -
+                                          EAUX USÉES ET INTERFACES
+                      Photo © DR - AQC    AVEC LE VRD
+
+1. LE CONSTAT
+Les difficultés permanentes d’écoulement d’un réseau         pente, ovalisation, défaut d’entretien, …). L’absence d’un
+extérieur ont fini par provoquer une obstruction com-        plan de réseau et de dispositifs visitables d’accès aux
+plète du système d’évacuation avec débordement dans          conduites sont des facteurs aggravants qui empêchent
+les parties habitables. De nombreuses causes peuvent         un entretien correct et une investigation sur ces ré-
+provoquer ces difficultés d’écoulement (défaut de            seaux de manière efficace.
+
+
+
+
+2. LE DIAGNOSTIC                             pas toujours optimisées. Les            bureau d’études spécialisé pour
+                                             fonds de regard ne sont pas             dimensionner le réseau peut être
+Causes principales pouvant                   toujours équipés de cunettes            préjudiciable.
+générer des désordres.                       profilées et les connexions de      Δ   Des réseaux parfois difficiles
+Δ Les défauts de pente et les                conduites ne sont pas toujours          voire impossibles à entretenir.
+    ovalisations      de    conduite         réalisées avec des pièces de            Ils ne sont pas toujours équipés
+    sont les problèmes les plus              raccordement.                           d’un nombre suffisant de dis-
+    fréquents.                           Δ   La classe de résistance des             positifs visitables afin que l’en-
+    Ces défauts de pente prennent            tuyaux est souvent mal adap-            tretien soit possible. En outre,
+    d’autant plus d’importance que           tée à la situation des ouvrages.        la traçabilité devrait inciter l’ins-
+    la pente moyenne est faible. Les         La classe de résistance des             tallateur à remettre impérative-
+    défauts de pente provoquent              tuyaux et la qualité du rem-            ment un plan du réseau à son
+    une réduction de la vitesse              blaiement des tranchées condi-          client et en garder une copie
+    d’écoulement avec parfois des            tionnent la tenue mécanique des         dans son dossier avec l’archi-
+    stagnations et une sédimenta-            ouvrages dans le sol comme la           vage des pièces contractuelles
+    tion des effluents. Les ovalisa-         tenue des ouvrages de surface.          de l’opération. Cette procédure
+    tions provoquent une réduction       Δ   Le     dimensionnement      des         n’est pas toujours suivie, ce qui
+    de la section de passage dans            conduites n’est pas toujours            rend les actions ultérieures sur
+    les tuyaux et leur fissuration,          adapté aux besoins.                     le réseau plus délicates.
+    voire leur rupture. L’incorpora-         La capacité d’évacuation d’une      Δ   Des retours d’effluents prove-
+    tion des réseaux dans la forme           conduite dépend de la combi-            nant du réseau public.
+    d’un dallage mal réalisé peut            naison d’un diamètre et d’une           Tout retour d’effluent du réseau
+    être à l’origine de contre-pentes        pente. L’estimation des dé-             public vers la partie privative doit
+    dommageables.                            bits d’eau pluviale est extrê-          être rendu impossible par un
+Δ   Les       connections       entre        mement variable d’une zone              dispositif anti-retour. Ces dispo-
+    conduites tout comme le fond             géographique à l’autre. L’ins-          sitifs anti-retours peuvent être
+    des regards, peuvent présen-             tallateur n’a pas toujours la           préconisés par la règlementation
+    ter des défauts de profilage             possibilité d’évaluer ces diffé-        telle que le règlement sanitaire
+    hydraulique.                             rents paramètres qui peuvent            départemental ou le règlement
+    Les pertes de charge singu-              être difficiles à apprécier. En         des gestionnaires de réseaux
+    lières d’un réseau ne sont               cas de doute, l’absence d’un            publics. Il revient à l’entrepre-
+
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           FONDATIONS ET INFRASTRUCTURES
+A.08            PATHOLOGIES DES CANALISATIONS
+2/3             EAUX VANNES - EAUX USÉES ET
+                INTERFACES AVEC LE VRD
+          neur d’en conseiller l’installation        lecteurs enterrés d’eaux usées.             être réalisé de préférence dans
+          en fonction des risques et de la           Attention toutefois à vérifier              des regards avec des Y. Les
+          situation de chaque ouvrage.               également les exigences parti-              connexions en T sont à pros-
+          L’entrepreneur omet souvent                culières des gestionnaires de ré-           crire. Il est recommandé d’aug-
+          d’avertir le maître d’ouvrage, par         seaux publics qui peuvent préco-            menter légèrement la pente du
+          écrit, sur la nécessité de l’entre-        niser une pente supérieure pour             réseau avant les coudes ou les
+          tien régulier de ces dispositifs.          garantir un meilleur auto-curage.           regards pour accélérer la vitesse
+      Δ   Des remontées d’odeurs.                Δ   Le diamètre des conduites                   des effluents au droit d’une sin-
+          Ce problème peut provenir du               enterrées ne sera jamais infé-              gularité géométrique (qui pro-
+          réseau extérieur si les couvercles         rieur à 100 mm.                             voque toujours une perte de
+          des regards sont inadaptés ou              Les gestionnaires de réseaux                charge).
+          si l’étanchéité des conduites              publics     peuvent       préconiser    Δ   Clapet anti-retour.
+          est défaillante. Des remontées             des      diamètres        supérieurs        Si un risque de refoulement du
+          d’odeur sont possibles à l’inté-           afin de faciliter l’entretien.              réseau public est à craindre, il
+          rieur en cas de défauts sur les            Le diamètre des conduites et                est indispensable de prévoir la
+          siphons des appareils sanitaires           leur pente doivent également                mise en place d’un clapet an-
+          ou de défaut de ventilation des            répondre à des exigences de di-             ti-retour. Il convient de vérifier
+          colonnes de chute. Un système              mensionnement après avoir éva-              les exigences des règlements lo-
+          d’évacuation est composé d’un              lué les débits à évacuer. On se             caux sur ce point. Ces dispositifs
+          ensemble d’ouvrages qui sont               réfèrera au DTU 60.11 qui donne             imposent un entretien régulier
+          dépendants les uns des autres,             les directives de dimensionne-              et le maître d’ouvrage doit im-
+          entre l’amont et l’aval. L’installa-       ment des réseaux d’eaux usées               pérativement en être averti par
+          teur oublie souvent son devoir             et des réseaux d’eaux pluviales.            un écrit incluant la remise de la
+          de conseil au maître d’ouvrage         Δ   Prévoir des regards de visite               notice de l’appareil. (En outre la
+          et les préconisations d’usage sur          en nombre suffisant.                        consigne d’entretien et la réfé-
+          les éventuelles mises en confor-           Afin de pouvoir garantir une                rence à la notice peuvent judi-
+          mité requises. Après une longue            bonne efficacité d’entretien du             cieusement être mentionnées
+          période de non-utilisation les             réseau, il convient d’aménager un           sur la facture de l’appareil).
+          siphons peuvent se désamorcer              regard de visite à chaque chan-         Δ   Intervention d’un bureau
+          par évaporation de l’eau qu’ils            gement de direction et en cas de            d’études spécialisé.
+          contiennent.                               grande longueur (longueur supé-             Il peut aider l’entrepreneur pour
+                                                     rieure à 30 m environ). Des tam-            le dimensionnement en fonction
+                                                     pons conformes à la NF EN 124               du débit, de la zone géogra-
+      3. LES BONNES                                  de classe supérieure ou égale à             phique, du sol et des charges
+      PRATIQUES                                      C250 sont indispensables pour               appliquées sur les conduites, du
+                                                     fermer les regards situés sous              type d’ouvrage, de la longueur
+      Le NF DTU 60.11 est le document                voirie ou chemin circulé. Pour              du réseau ou de sa complexité…
+      normatif traitant des installations            prévenir tout problème d’odeur          Δ   Les canalisations et les pièces
+      de plomberie sanitaire et d’eaux               il est préférable d’utiliser des élé-       du réseau.
+      pluviales. Ce document traite des              ments qui assurent une ferme-               Les éléments constituant le ré-
+      collecteurs enterrés et donne les              ture relativement étanche des               seau doivent porter la marque
+      directives de dimensionnement                  regards.                                    NF. Les classes de résistance
+      des réseaux.                               Δ   Soigner le profilage hydrau-                doivent être CR8 ou CR4 en fonc-
+      Pour le remblaiement des tran-                 lique des ouvrages.                         tion des charges appliquées sur
+      chées sous circulation on se réfère-           Par exemple il est préférable               les conduites. Il est préférable
+      ra au fascicule 70 du CCTG (Ouvrage            d’utiliser 2 coudes à 45° séparés           d’éviter l’emploi de la classe
+      d’assainissement)                              par un bout droit au lieu d’un              CR2 dont la moindre rigidité ne
+      Δ  Le DTU 60.11 fixe une pente mi-             coude à 90°. Le regroupement                pardonne aucune approxima-
+         nimale de 1cm/m pour les col-               des branches de réseau doit                 tion de remblaiement.
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                          FONDATIONS ET INFRASTRUCTURES                      FICHE
+                                                                      PATHOLOGIES DES CANALISATIONS                          A.08
+                                                                         EAUX VANNES - EAUX USÉES ET                              3/3
+                                                                              INTERFACES AVEC LE VRD
+
+Δ Le remblaiement des tranchées                   purger les matériaux de gros dia-         une copie dans son dossier avec
+  reste toujours un point délicat.                mètre ou blessants.                       l’archivage des pièces contrac-
+  Ce remblaiement est souvent                 Δ   Signalisation, repérage, plan et          tuelles de l’opération. Il est tou-
+  réalisé à l’économie dans les                   essai.                                    jours judicieux de prendre des
+  parties privatives. Il est forte-               Dans tous les cas et même pour            photos pendant la réalisation
+  ment conseillé de réaliser un lit               la partie privative des branche-          des réseaux).
+  de sable et un remblaiement en                  ments, les règles de bon sens         Δ   Sécurité des opérateurs.
+  sable au moins jusqu’à mi-hau-                  évident doivent conduire à la             Comme toujours lorsque l’on ré-
+  teur du tuyau environ pour les                  pose d’un grillage avertisseur            alise des tranchées, il faut pen-
+  tuyaux rigides (fonte, grès, bé-                lors du remblaiement des tran-            ser au risque d’effondrement
+  ton…) et jusqu’au haut du tuyau                 chées, puis à un repérage des             des parois et utiliser un système
+  pour les tuyaux flexibles (PVC,                 ouvrages pour réaliser un plan            de blindage.
+  PE…), afin de pouvoir procurer                  de récolement. Il en est de même
+  une bonne assise aux reins de                   pour un essai du réseau qui est
+  la canalisation. Ensuite, pour les              recommandé avant livraison.
+  zones non circulées uniquement,                 (Rappel : l’installateur doit impé-
+  il est possible de remblayer avec               rativement remettre un plan du
+  les déblais, à condition d’en ex-               réseau à son client et en garder
+
+
+
+
+  À CONSULTER
+  Δ NF  DTU 60.11-Parties 1 à 4 : Règle
+    de calcul des installations de plom-
+      berie sanitaire et d’eaux vannes
+  Δ FASCICULE  70 du CCTG - Ouvrage
+    d’assainissement                               L’ESSENTIEL
+  Δ Règlement  sanitaire départemen-
+    tal. (Notamment et entre autre, ar-            Δ Maîtriser la pente des conduites. Plus la pente est faible et plus
+      ticle : « protection contre le reflux          la maîtrise de la régularité de cette pente est importante.
+      des égouts »)                                Δ Soigner le profilage hydraulique des ouvrages.
+  Δ   Règlement et préconisation des               Δ Soigner le remblaiement des tranchées.
+      gestionnaires des réseaux publics
+      sur lesquels seront connectés les            Δ Prévoir des dispositifs de visite en nombre suffisant et réaliser
+      ouvrages                                       un plan de récolement du réseau.
+
+
+
+
+Pour en savoir plus :
+                                                                                    Retrouvez l’ensemble des
+                                                                                    Fiches pathologie bâtiment sur :
+                                                                                    www.qualiteconstruction.com
+                                                                                    et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                       © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

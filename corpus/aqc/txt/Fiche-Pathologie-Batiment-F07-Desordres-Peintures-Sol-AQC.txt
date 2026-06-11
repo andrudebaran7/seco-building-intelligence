@@ -1,0 +1,146 @@
+                                                                          AMÉNAGEMENTS INTÉRIEURS                    FICHE
+                                                                                                                     F.07
+                                                                                                                        1/3
+
+
+
+                                        DÉSORDRES SUR
+                     Photo © DR AQC     PEINTURES DE SOL
+1. LE CONSTAT
+Les peintures de sol peuvent être le siège de divers
+désordres (décollements, craquelures, usure prématu-
+rée…) mettant en cause le choix du produit, sa mise en
+œuvre ou la qualité du support.
+
+
+
+
+2. LE DIAGNOSTIC
+Décollement du film seul                  ou de graisse sur des sols exis-      et temps de mûrissement du
+Plusieurs causes sont possibles.          tants de locaux professionnels.       mélange non respecté sont autant
+Δ  Des dalles béton neuves, trop          Une analyse par chromatogra-          de facteurs qui provoquent la for-
+   lisses et trop « fermées »             phie ou spectrométrie IR peut         mation de voiles ternes, voire un
+   La peinture se décolle en lam-         permettre de confirmer la pré-        retard au séchage avec un durcis-
+   beaux, la face en contact avec         sence de produits étrangers.          sement de film différé au-delà de
+   le béton est propre. Une goutte                                              la mise en service normalement
+   d’eau posée sur le béton ne         Décollement du complexe                  acceptable.
+   pénètre pas : la surface manque     film/fraction superficielle              L’erreur de dosage du mélange
+   de porosité et est inapte à rece-   du support                               peut aussi parfois provenir d’un vice
+   voir un revêtement de peinture.     Lorsque le film entraîne plus que de     de fabrication chez le fournisseur.
+Δ  L’humidité      résiduelle de  la   la laitance, le désordre résulte alors
+   dalle de béton                      d’un béton manquant de cohésion          Abrasion du film
+   Le film forme des cloques. L’hu-    superficielle ou d’un ragréage non       Les peintures de sol sont des films
+   midité ne se mesure véritable-      adhérent. Le décollement accom-          minces qui résistent plus ou moins
+   ment in situ que par la méthode     pagné d’un écaillage se manifeste        bien à l’abrasion. Les plus résis-
+   de la bombe à carbure. La pose      plus particulièrement dans les           tants sont les polyuréthanes puis
+   d’un film de polyane sur la dalle   zones de trafic.                         les époxy. Les moins résistantes
+   permet uniquement d’apprécier                                                sont les peintures alkyde-uréthane
+   de façon empirique la présence      Décollement entre couches                monocomposant.
+   ou l’absence d’humidité avant       de revêtement
+   mise en peinture.                   Le planning de chantier peut être        Attaque par des produits
+Δ  La présence de laitance de          mis en cause (première couche            chimiques
+   béton                               appliquée trop prématurément,            Dans tout environnement utili-
+   La peinture se décolle en lam-      dernière couche trop différée).          sant ou fabriquant des substances
+   beaux. On retrouve alors une                                                 chimiques, le choix du revête-
+   fine couche de poussière collée à   Erreur de dosage ou de                   ment doit prendre en compte ces
+   l’arrière du film de peinture.      malaxage des peintures                   contraintes spécifiques. Le fabri-
+Δ  Plus rarement, la présence de       bicomposant                              cant du revêtement doit être impé-
+   produits de cure, voire d’huile     Erreur de dosage, mélange manuel         rativement consulté.
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             AMÉNAGEMENTS INTÉRIEURS
+F.07              DÉSORDRES SUR PEINTURES DE SOL
+2/3
+
+
+      Support incompatible avec                      de dérochage à l’acide. Si cela        Veiller à la bonne compatibilité
+      une mise en peinture                           ne suffit pas, il faut envisager       des produits de peinture entre
+      D’autres types de phénomènes                   une méthode mécanique de               eux
+      peuvent être causes de désordres,              dépolissage.                           Il est conseillé de choisir un système
+      comme la détrempe des supports             Δ   Contrôler l’humidité                   complet chez un même fabriquant.
+      bitumineux par les solvants de la              Elle doit être inférieure à 4 % de
+      peinture. De plus, l’ancien revête-            la masse. On la détecte à l’aide       Respecter les proportions préco-
+      ment bitumineux doit avoir une                 d’un humidimètre, d’un film plas-      nisées par la fiche technique du
+      assez bonne cohésion interne                   tique ou d’une solution colorée.       produit
+      pour supporter les tensions du             Δ   Veiller à la cohésion superfi-         Le DTU 59.3 rappelle que la majo-
+      revêtement.                                    cielle du support                      rité des produits de peinture est
+                                                     C’est le point faible dans beau-       bicomposant. L’ajout de résine ou
+                                                     coup de parkings. La cohésion          de durcisseur, au lieu d’améliorer
+      3. LES BONNES                                  peut être appréciée par la résis-      le séchage, ne peut que le retarder
+      PRATIQUES                                      tance au lavage haute pression.        et conduire à un film terne, fragile,
+                                                     Dans les parkings souterrains,         encrassable. Il est essentiel éga-
+      Les sols reçoivent des sollicitations          faire attention aux zones qui ont      lement de respecter le temps de
+      mécaniques beaucoup plus impor-                pu être inondées juste après les       séchage entre les couches.
+      tantes que les murs et les plafonds.           coulages de béton. Si la mesure
+      La préparation du support est donc             est effectuée au dynamomètre,          Ne pas attendre des peintures
+      essentielle et tout défaut lors de             le DTU 59.3 indique un minimum         en film mince les performances
+      cette étape peut être source de                de 1 MPa, y compris pour les           des sols industriels (cf. fiche F8).
+      futurs désordres.                              bétons ragréés.                        Les peintures de sols sont bien
+                                                     Nota : le DTU renvoie, pour les        souvent employées très au-delà de
+      Réaliser les travaux prépara-                  ragréages proprement dits, à la        leurs capacités de résistance.
+      toires et les travaux d’apprêt en              norme NF P18-840 qui impose            À savoir : en réponse aux préoc-
+      fonction de la nature du subjec-               un minimum de 1,5 MPa. Cepen-          cupations environnementales, un
+      tile ou du support (DTU 59.3).                 dant cette norme ne figure plus        écolabel européen a été créé pour
+      Δ   Vérifier la porosité du béton et           dans le corpus normatif, bien          la certification des peintures, mais
+          sa perméabilité de surface                 qu’encore citée par le DTU.            les solvants restent encore très
+          La méthode d’essai à la goutte         Δ   La pulvérulence (test au ruban         présents dans la composition des
+          d’eau n’est pas détaillée dans le          adhésif) et le pH (à l’aide de solu-   peintures de sol.
+          DTU 59.3. Si la goutte reste en            tions colorées) sont également
+          surface sans pénétrer, il convient         des critères à contrôler.
+          de refaire le test après un essai
+
+
+
+
+                                                     L’ESSENTIEL
+                                                     Δ Porter une attention particulière à la bonne préparation du
+                                                       support.
+          À CONSULTER                                Δ Respecter les proportions entre les composants de la peinture
+          Δ NF  DTU 59.3 : Peintures de sol            et le temps de séchage entre les couches.
+          Δ NF EN ISO 4624 : Peintures et ver-
+            nis - Essais de traction
+                                                     Δ Respecter le domaine d’emploi.
+
+       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                             DÉSORDRES SUR PEINTURES DE SOL                            F.07
+                                                                                                                         3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Décollement généralisé de la peinture sur un balcon
+                                                       extérieur
+                                                       Il convient de rappeler la bonne pratique suivante : réaliser
+                                                       des travaux préparatoires et les travaux d’apprêt en fonction
+                                                       de la nature du subjectile ou du support (DTU 59.3).
+
+
+
+
+Photo © DR AQC
+
+
+                                                       Décollement généralisé de la peinture de sol
+                                                       Il convient de rappeler la bonne pratique suivante : vérifier
+                                                       la porosité du béton et sa perméabilité de surface ainsi de
+                                                       contrôler l’humidité du support.
+
+
+
+
+Photo © DR AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,230 @@
+                                                                               TOITURES ET CHARPENTES                 FICHE
+                                                                                                                      C.13
+                                                                                                                         1/4
+                                         TOITURES-TERRASSES,
+                                         BALCONS ET COURSIVES
+                     Photo © DR - AQC
+                                         EN MILIEU TROPICAL
+
+1. LE CONSTAT
+Les toitures-terrasses sont soumises dans les           Deux types d’ouvrages sont principalement rencontrés :
+DROM à des précipitations qui peuvent être très         Δ toitures-terrasses inaccessibles : dans l’habitat collectif ou les
+abondantes avec des rayonnements et des tem-              bureaux, elles sont principalement traitées par des revête-
+pératures en surface mettant à l’épreuve les revê-        ments de type bicouche élastomère en lés de type auto-pro-
+tements. Les malfaçons sont parfois semblables            tégés. Une protection lourde de type gravillon est exclue dans
+à celles rencontrées en Métropole : mauvaise              les DROM soumis à des risques cycloniques, au même titre
+exécution des relevés d’étanchéité, défaut de             que les tuiles ou ardoises sur les toitures en pentes (risque
+protection en tête de relevés, défaut de réalisa-         d’envol). Ponctuellement, dans le cas d’ouvrages tertiaires,
+tion des remontées d’étanchéité au niveau des             certaines toitures sont traitées par une étanchéité sur des
+émergences, et absence de joint de dilatation au          tôles d’acier nervurées.
+pourtour des protections lourdes.                       Δ toitures-terrasses accessibles et circulables : ces terrasses
+                                                          sont souvent traitées par une étanchéité liquide (trafic pié-
+Les toitures-terrasses sont des ouvrages sujets à         tonnier surtout), son usage sous les carrelages des terrasses
+des infiltrations :                                       étant beaucoup plus courant qu’en métropole, notamment
+Δ par défaut d’étanchéité des revêtements ;               sous protection carrelée. Les terrasses étanchées circulables
+Δ par décollements ;                                      (piéton ou véhicule) peuvent également recevoir des protec-
+Δ par fissuration ou dégradation du revêtement,           tions lourdes par dalle béton.
+  soit intrinsèquement soit du fait de la protec-
+  tion rapportée.
+
+
+
+
+2. LE DIAGNOSTIC                        Les désordres de décollement au           Parties courantes
+                                        niveau des relevés sont de plusieurs      Moins fréquemment, les défauts
+Toitures-terrasses                      types :                                   d’étanchéité résultent de décolle-
+Relevés d’étanchéité et points          Δ  défaut de tenue, pouvant résul-        ments de lés en partie courante.
+singuliers                                 ter d’un défaut d’imprégnation,        Ces décollements à la jonction des
+Les infiltrations sont dues dans           d’un support trop humide ;             lés correspondent à des défauts
+la plupart des cas à des défauts        Δ  d’un défaut ou de l’absence de         d’exécution des soudures des
+d’exécution des points singuliers.         protection en tête, entraînant         membranes ou à l’absence de ré-
+Elles se manifestent principalement        des décollements par la partie         alisation du complément de pon-
+au niveau des relevés d’étanchéité         supérieure ;                           tage dans certains cas.
+décollés ou mal protégés en tête et     Δ  des cisaillements de relevés
+des émergences des évacuations             consécutivement à des efforts          Toitures-terrasses
+au travers de l’étanchéité.                mécaniques, avec des tensions          accessibles et circulables
+Les relevés d’étanchéité ont pour          ou cisaillement par effets             Les désordres concernent autant
+fonction d’empêcher les pénétra-           de dilatation ou par effets            des défauts de mise en œuvre de
+tions d’eau au niveau des périphéries      thermiques.                            l’étanchéité que des défauts d’exé-
+des terrasses et au droit des sorties                                             cution des protections (carrelées,
+ou édicules.                                                                      béton, chape).
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          TOITURES ET CHARPENTES
+C.13           TOITURES-TERRASSES, BALCONS ET
+2/4            COURSIVES EN MILIEU TROPICAL
+
+      L’étanchéité liquide est souvent
+      appliquée par des entreprises
+      de peintures et non par des                                                                                              SCHÉMA 1 : DALLAGE POSÉ SUR UN
+      étancheurs.                                                                                                              NON-TISSÉ 170g/m2 + GRANULATS
+                                                                                                                               DE 3 À 15mm + NON-TISSÉ.
+      Pour la protection par carrelage,
+      le carreleur ne sait pas toujours
+      quel type d’étanchéité liquide                                                                 m
+                                                                                               d=2
+      a été utilisé. Exposé à des                                                                                            ≤I≤
+                                                                                                                                   5m
+                                                                                                                        4m
+      rayonnements solaires importants                                                       ep. = 6 cm
+      et des températures élevées, le
+      revêtement de carrelage se dilate
+      et se met en compression.                                                                                                                           Revêtement d’étanchéité
+      Dans le cas de dispositifs                                    E
+                                                                                           4m≤I≤5m
+                                                                                                                         E
+                                                                                                                                         Non-tissé synthétique
+      de       dilatation   périphériques         E ≥ 2 cm - joint garni de produit ou dispositif imputrescible                          + Couche de grannulats de 3 cm d’épaisseur
+                                                  apte aux déformations alternées                                                        + non-tissé synthétique
+      insuffisants, l’étanchéité peut être
+      cisaillée au niveau des relevés ou
+      des équerres d’étanchéité et des
+                                                                                                                               SCHÉMA 2 : EXEMPLE DE
+      infiltrations pénètrent sous les
+                                                                                                                               PROTECTION DURE COULÉE EN
+      terrasses.                                                                                                               PLACE POUR TOITURE-TERRASSE
+                                                                                                                               ACCESSIBLE AUX PIÉTONS
+                                                                                                                               (Revêtements de sol scellés non-ﬁgurés) (NF DTU 43.1)
+      Protection d’étanchéité
+      circulable aux véhicules                                                                 d=2
+                                                                                                     m
+                                                                                                                                             ≥4m
+      En général, la pose des couches de
+      protection lourde se fait sur un com-                                                  S ≤ 10m2
+
+      plexe non tissé + granulat ou sable
+      + non tissé + protection (schéma 1).
+      La protection béton doit avoir une                                                                                                                  Désolidarisation
+                                                                    E                                                                              Revêtement d’étanchéité
+      épaisseur adaptée à la sollicitation,                              e           ≤4m           e              ≤4m              e
+                                                  E ≥ 2 cm
+      au minimum 6 cm d’épaisseur com-            1 cm ≤ e ≤ 2 cm
+      portant un dosage minimum de
+      350 kg de ciment par m³ de béton
+      et l’incorporation d’un adjuvant :      entre le granulat et le béton. Les                                               joints de dilatation ;
+      réducteur d’eau plastifiant (NF P       problématiques de respect des                                              Δ une dégradation de l’étanchéité
+      18-336) ou superplastifiant (NF P       joints de fractionnement et des                                               en partie courante, par frotte-
+      18-333).                                joints périphériques sont similaires                                          ment de la chape sous les effets
+      La pathologie principale est un ci-     au cas précédent (schéma 2).                                                  de la dilatation et du retrait, dans
+      saillement des relevés d’étanchéité,    Dans le cas courant d’une protec-                                             le cas d’un défaut de désolidari-
+      lié à l’absence ou le non-respect des   tion par carrelage ou autre revête-                                           sation ou d’une constitution de
+      joints de fractionnement et/ou des      ment scellé, les règles APSEL font                                            chape défaillante.
+      joints périphériques.                   référence au DTU 52.1, renvoyant                                           Dans le cas d’un carrelage collé, la
+                                              au DTU 43.1 avec des préconisa-                                            pose se fait sur une étanchéité sa-
+      Protection d’étanchéité                 tions type : désolidarisation par                                          blée pour augmenter l’adhérence
+      accessible aux piétons                  polyane ou non tissé de 170 g/m²                                           de la colle. Les pathologies sont
+      Dans le cas du béton, la protection     + joint périphérique + surdosage de                                        similaires pour les cisaillements de
+      béton présente une épaisseur mi-        la chape de mortier à 400 kg/m3 de                                         relevés.
+      nimale de 4 cm, avec un dosage de       sable et adjuvant d’un plastifiant.                                        Nota : les protections par caille-
+      300 kg/m3 de béton et incorpora-        Les désordres rencontrés corres-                                           botis bois ponctuellement rencon-
+      tion d’un adjuvant. La pose s’opère     pondent à :                                                                trées apparaissent inadaptées et
+      sur granulats de 3 à 15 mm de dia-      Δ  un cisaillement des joints péri-                                        non visées par le DTU.
+      mètre et d’un non tissé de 170 g/m²        phériques lié au non-respect des
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                   TOITURES ET CHARPENTES              FICHE
+                                                                TOITURES-TERRASSES, BALCONS ET                         C.13
+                                                                   COURSIVES EN MILIEU TROPICAL                             3/4
+
+
+En effet, dans un cas la fixation des       toiture-terrasse sont les herbes         précisent les principes d’exécution.
+caillebotis entraîne un risque de           rampantes, appelées trainasses et        Le choix du type d’étanchéité et
+percement de l’étanchéité en partie         parfois des bambous. Ces 2 types         de sa protection éventuelle est
+courante. Dans l’autre cas, la mise         de végétaux sont particulièrement        important compte tenu des rayon-
+en œuvre de caillebotis en indé-            solides, notamment au niveau des         nements et des chocs thermiques
+pendance présente un risque d’en-           racines qualifiables de perforantes,     auxquels l’ouvrage est exposé.
+vol en cas d’épisode cyclonique.            même dans les premiers mois de           Les travaux d’étanchéité et leur
+                                            développement.                           protection mettent en jeu plusieurs
+Évacuation des eaux                         Parfois, l’absence d’entretien peut      intervenants, la gestion des inter-
+pluviales                                   empêcher le traitement préventif         faces et la coordination des entre-
+Les fortes quantités d’eau de pré-          dans le cas d’amorces de décolle-        prises apparaissent essentielles.
+cipitations conduisent à adopter            ment ou de désordre au niveau des
+des pentes de 2 % pour améliorer            protections. L’entretien des ter-        Nota : pour les toitures-terrasses
+l’évacuation des eaux et à surdi-           rasses est impératif pour maintenir      de surfaces importantes avec
+mensionner les évacuations (les             leur bon état, de fréquence a mini-      pentes, des dispositifs de surverse
+sections des eaux pluviales sont            ma annuelle voire plus selon l’ex-       sont conseillés afin d’éviter des
+majorées de 50 % et les terrasses           position (souscription d’un contrat      mises en charges lors de la période
+doivent comporter, soit 2 disposi-          d’entretien auprès d’une entreprise      cyclonique. La surverse est un dis-
+tifs d’évacuations distincts, soit une      spécialisée).                            positif de trop-plein en façade de
+évacuation doublée d’un trop-plein                                                   la terrasse (fermé sur 3 côtés maxi-
+de capacité d’évacuation au moins                                                    mum), permettant le passage libre
+équivalente).                               3. LES BONNES                            de l’eau en partie supérieure en
+                                            PRATIQUES                                cas d’obturation accidentelle des
+Défauts d’entretien                                                                  dispositifs d’évacuations verticaux
+Le défaut d’entretien des terrasses         Dans tous les cas, un respect des        (débris importants déposés par le
+entraîne le développement de                conditions de mise en œuvre              vent en période cyclonique et dé-
+micro-organismes et de végétaux.            des relevés est impératif, aussi         bits d’eau conséquents pouvant
+En région tropicale, le développe-          bien au niveau des relevés que           conduire à la mise en charge des
+ment de végétaux est bien plus              des émergences. Selon la nature          terrasses).
+rapide qu’en Métropole. Les prin-           des supports, les avis techniques
+cipaux végétaux rencontrés en               spécifiques aux régions tropicales
+
+
+
+
+  À CONSULTER
+  Δ DTU 20.12 : Gros œuvre en
+    maçonnerie des toitures desti-
+      nées à recevoir un revêtement
+      d’étanchéité
+  Δ   DTU 43.1 : Étanchéité des toi-
+      tures-terrasses et toitures incli-
+      nées avec éléments porteurs en           L’ESSENTIEL
+      maçonnerie en climat de plaine
+  Δ    DTU 43.3 : Mise en œuvre des            Δ Exécution avec soin des relevés, de leur adhérence et protec-
+      toitures en tôles d’acier nervurées        tion en tête.
+
+  Δ
+      avec revêtement d’étanchéité
+      DTU 43.5 : Réfection des ouvrages
+                                               Δ Veiller à la constitution adaptée de la protection (désolidari-
+                                                   sation) et respecter les joints de dilatation périphérique et de
+      d’étanchéitédestoitures-terrasses
+      ou inclinées                                 fractionnement.
+  Δ   DTU 52.1 : Revêtements de sols
+      scellés
+                                               Δ   Respecter les obligations d’entretien pour la pérennité des ou-
+                                                   vrages (contrat d’entretien).
+  Δ    ATec des fabricants
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             TOITURES ET CHARPENTES
+C.13              TOITURES-TERRASSES, BALCONS ET
+4/4               COURSIVES EN MILIEU TROPICAL
+
+      4. L’ŒIL DE L’EXPERT
+
+
+
+
+      Photo: © SARETEC - Pierre LAMORIL                             Photo: © SARETEC - Pierre LAMORIL
+      Étanchéité après cyclone Bejisa.                              Étanchéité après cyclone Bejisa.
+
+
+
+
+      Photo: © SARETEC - Pierre LAMORIL
+      Infiltrations sous toiture-terrasse.
+
+
+
+
+      Photo: © SARETEC - Pierre LAMORIL
+      Sondage réalisé pour déterminer l’origine de l’infiltration : cisaillement du relevé d’étanchéité.
+
+
+
+
+      Pour en savoir plus :
+                                                                                       Retrouvez l’ensemble des
+                                                                                       Fiches pathologie bâtiment sur :
+                                                                                       www.qualiteconstruction.com
+                                                                                       et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

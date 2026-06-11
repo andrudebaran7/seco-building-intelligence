@@ -1,0 +1,163 @@
+                                                                              FONDATIONS ET INFRASTRUCTURES                            FICHE
+                                                                                                                                       A.03
+                                                                                                                                         1/3
+                                          DÉSORDRES DES
+                                          FONDATIONS
+                      Photo © DR - AQC
+                                          PROFONDES PAR PIEUX
+
+1. LE CONSTAT
+On recourt à des fondations profondes par pieux lors-               Les désordres qui peuvent affecter ces pieux sont de
+qu’une solution superficielle (semelles, radier, puits)             deux ordres, tassement ou rupture du pieu.
+n’est pas réalisable au vu de l’adaptation au sol de l’ou-          Les réparations en cas de sinistre représentent un coût
+vrage projeté.                                                      élevé et peuvent aller jusqu’à nécessiter la destruction
+                                                                    de l’ouvrage.
+
+
+
+
+2. LE DIAGNOSTIC                                    FROTTEMENT NÉGATIF                                 EFFORTS OBLIQUES
+                                                                                                 LIÉS À L’ACTION DES REMBLAIS
+                                                                                                          SUR LES PIEUX
+Les désordres peuvent provenir de            Construction
+                                                                                                               Surcharge sur remblai
+plusieurs causes.
+                                                                       Remblai
+
+Une étude de sol                                                         Tassement
+incomplète, inadaptée                                                                                                Remblai
+                                                                  Frottement négatif
+ou l’absence d’étude
+                                                                                                                       Poussées
+géotechnique                                                          Couche
+                                                                    compressible                                       obliques
+Une étude de sol incomplète, ina-                                                                                      sur les pieux
+                                                                   Point neutre :
+daptée ou mal interprétée peut in-                                 tassement du pieu =
+duire le choix d’un type de pieu ina-                              tassement de la
+                                                                   couche compressible                             Sol compressible
+dapté au contexte géotechnique,
+tant au stade de l’exécution des                                 Couche compacte                                 Sol rocheux
+pieux qu’à celui de la conception du
+futur ouvrage.
+                                                                                           Δ En présence de couches com-
+Une mauvaise                                                                                   pressibles de surface, chargées
+interprétation de la                                                                           par des remblais dissymétriques,
+reconnaissance des sols                          BULBE DE PRESSION PIEU ISOLÉ                  le fluage des couches molles
+Δ Les       tassements de pieux
+                                              Pieu isolé
+                                                         ET GROUPE DE PIEUX
+                                                                         Massif de pieux
+                                                                                               peut engendrer des efforts laté-
+    peuvent résulter de la non-prise                                                           raux sur le fût des pieux allant
+    en compte d’un frottement néga-                                                            jusqu’à leur rupture en l’absence
+    tif, dû à des couches de surface                                                           d’armatures.
+    compressibles, qui s’ajoute, par                       Couche
+                                                        relativement
+                                                                                           Δ   Pour les pieux forés, la présence
+    conséquent, à la charge trans-                     incompressible                          d’anomalies (ex : vides souter-
+    mise au pieu par l’ouvrage.                                                                rains, moindre résistance locale
+Δ   Sur un même terrain, l’interac-                                                            du sol,…) autour de la position
+    tion des charges entre pieu isolé                                                          du pieu se manifeste par une
+                                                    Couche comprésible
+    et groupe de pieux ne sera pas la                                                          surconsommation de béton lors
+    même, ce qui peut être à l’origine                                                         de l’exécution.
+                                                      Couche rocheuse
+    de tassements importants.
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             FONDATIONS ET INFRASTRUCTURES
+A.03              DÉSORDRES DES FONDATIONS
+2/3               PROFONDES PAR PIEUX
+
+
+      Δ Les pieux battus peuvent ren-                  pieu fait que sa section n’est plus        tion) et G4 (supervision géotech-
+          contrer de faux refus ou pas de              entièrement comprimée, elle est            nique d’exécution), constitue un
+          refus dans certains sols. Ce type            le siège de tractions. Il y a alors        élément minoratif du risque.
+          de pieux se rencontre moins                  lieu de tenir compte de ce phé-        Δ   Effectuer un programme de re-
+          fréquemment compte tenu no-                  nomène (ex : par des longrines             connaissance comprenant au
+          tamment du risque vis-à-vis des              de redressement).                          minimum :
+          avoisinants (vibrations liées au         Δ   Rupture de pieu lors du bat-               Ω   un sondage avec prélèvement
+          battage).                                    tage, du recépage, ou du                       d’échantillons pour identifica-
+                                                       terrassement…                                  tion des sols en place ;
+      Les erreurs de                               Δ   Pour les pieux coulés en place,            Ω   une reconnaissance au pres-
+      dimensionnement,                                 un mauvais bétonnage peut                      siomètre,      éventuellement
+      d’implantation ou                                résulter de l’emploi d’un béton                complétée par des essais au
+      d’exécution                                      trop « sec », de ferrailles trop im-           pénétromètre statique ;
+      Δ Descente de charges du bâti-                   portantes gênant le coulage du             Ω   une profondeur de sondage
+        ment erronée.                                  béton ou d’une remontée trop                   conséquente : elle doit dépas-
+      Δ Pieu mis en flexion par l’exis-                rapide du tube.                                ser d’au moins 7 diamètres
+          tence d’efforts horizontaux en           Δ   Mauvaise implantation altimé-                  (avec un minimum de 5 m)
+          tête, non pris en compte dans le             trique nécessitant une reprise                 la cote d’ancrage des pieux
+          calcul.                                      des têtes de pieux plus impor-                 prévue. La prise en compte
+      Δ   Pieu exécuté avec une inclinai-              tante et donc une fragilisation                des effets provoqués par
+          son excessive par rapport à la               des pieux.                                     des groupes de pieux peut
+          verticale (ex : déviation du forage                                                         conduire à une augmentation
+          suite à la traversée de bloc).           L’agression des pieux par le                       de cette profondeur.
+      Δ   En cas d’écart entre implantation        sol environnant                            Δ   S’assurer de l’adéquation entre
+          théorique et la position réelle          Circulation d’eaux acides, d’eaux              l’implantation théorique des
+          d’un pieu, la charge verticale des-      contenant des sulfates… Cette pa-              pieux, leur capacité portante et
+          cendant sur ce pieu est excen-           thologie est en récession grâce à              le positionnement et la descente
+          trée. Un excentrement dépas-             l’emploi de ciments adaptés à ces              de charges du bâtiment.
+          sant le huitième du diamètre du          agressions.                                Δ   Apporter une attention parti-
+                                                                                                  culière à l’exécution de pieux :
+                                                                                                  réaliser le recollement des
+          À CONSULTER                              3. LES BONNES                                  pieux ; enregistrer les para-
+          Δ DTU 13.2 : Travaux de fondations       PRATIQUES                                      mètres de forages et les courbes
+            profondes pour le bâtiment                                                            de bétonnage permettant de dé-
+          Δ NF  P94-262 : Justification des
+            ouvrages géotechniques - Norme         Δ Faire réaliser une étude de sol              tecter toute anomalie dans le sol
+              d’application nationale de l’Euro-       préalable complète G1 suivant la           ou surconsommation de béton
+              code 7 - Fondations profondes            nomenclature géotechnique NF               suspectes.
+          Δ   NF EN-1536 : Exécution des tra-          P94-500.
+              vaux géotechniques spéciaux -
+              Pieux forés                          Δ   La faire suivre des missions G2
+          Δ   NF EN 12699 : Exécution de tra-
+              vaux géotechniques spéciaux -
+                                                       (étude géotechnique de concep-
+                                                       tion), G3 (étude et suivi d’exécu-
+              Pieux avec refoulement de sol
+          Δ   NF EN 14199 : Exécution des
+              travaux géotechniques spéciaux
+              - Micropieux                             L’ESSENTIEL
+          Δ   NF P94-500 : Missions d’ingénierie
+              géotechnique - Classification et
+                                                       Δ Faire réaliser par un BET sol une étude géotechnique complète
+                                                         et circonstanciée.
+              spécification
+          Δ   Communiqué de mise en obser-             Δ Dimensionner et positionner les pieux suivant la descente de
+              vation n°63 de la C2P relatif aux          charges du bâtiment.
+              procédés de fondation par vissage
+              de pieux métalliques dans le sol
+                                                       Δ Contrôler l’exécution des pieux.
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                     FONDATIONS ET INFRASTRUCTURES                   FICHE
+                                                                       DÉSORDRES DES FONDATIONS                      A.03
+                                                                            PROFONDES PAR PIEUX                           3/3
+
+
+4. L’ŒIL DE L’EXPERT
+
+
+
+
+Photos © DR - AQC                                             Photo © DR - AQC
+L’excentrement du pieu de fondation entraîne des ef-          Le sinistre peut être causé par une mauvaise liaison
+forts obliques lors de la répartition des charges, pou-       entre le pieu et la longrine en raison d’une discontinui-
+vant affecter la résistance de la fondation.                  té dans le ferraillage
+
+
+
+
+Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

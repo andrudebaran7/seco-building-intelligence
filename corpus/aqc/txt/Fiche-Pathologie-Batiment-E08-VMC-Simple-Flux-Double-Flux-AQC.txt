@@ -1,0 +1,186 @@
+                                                                                          ÉQUIPEMENTS                FICHE
+                                                                                                                     E.08
+                                                                                                                         1/3
+
+
+
+                                        VMC SIMPLE ET
+                    Photo © DR - AQC    DOUBLE FLUX
+1. LE CONSTAT                                              Ces défauts surviennent lorsque les règles de concep-
+                                                           tion, d’installation ou d’utilisation ne sont pas respec-
+L’objet de la ventilation est de maintenir dans les        tées. Les principaux défauts rencontrés sont liés :
+locaux un air sain grâce à son renouvellement en           Δ  à un mauvais dimensionnement du système : les
+quantité suffisante. Or les contraintes toujours plus         débits d’extraction (et de soufflage en VMC double
+sévères, imposées par l’évolution de la règlementation        flux) ne sont pas suffisants, entraînant l’apparition de
+thermique, sont en opposition avec ce principe. Il en         phénomènes de condensation ;
+résulte la nécessité de recourir à des systèmes de VMC     Δ  à des problématiques de bruits :
+optimisés, comme la VMC hygroréglable ou encore la             √ aérauliques excessifs ou parasites. Lorsque la
+VMC double flux, qui offrent des compromis intéres-              vitesse d’écoulement de l’air est trop importante
+sants entre la maîtrise des déperditions thermiques et           un sifflement se produit,
+les besoins en renouvellement d’air.                           √ découlant d’un mauvais positionnement du
+Ces systèmes obéissent à des règles de conception,               groupe,
+d’installation ou d’utilisation tenant compte de leurs         √ venant du milieu extérieur via les entrées d’air en
+spécificités et dont le non-respect peut-être source             façade ;
+d’inconvénients ou de dommages variés. Certains            Δ  à l’inconfort subi par la présence de bouches d’en-
+dommages peuvent aussi être la conséquence d’un               trée d’air mal situées ;
+manque d’entretien des installations.                      Δ  à des dégâts d’eau dus à une accumulation acciden-
+                                                              telle d’eau de condensation dans les gaines.
+
+
+
+
+2. LE DIAGNOSTIC                          d’usage (lit dans une chambre,       La condensation est favorisée par
+                                          bureau…).                            le passage du conduit mal ou non
+Mauvais dimensionnement/                                                       calorifugé dans un volume non
+conception du groupe et du             Mauvais positionnement                  chauffé.
+(des) réseau (x)                       des éléments
+Une absence ou une étude insuffi-      En ventilation double flux il arrive    Difficultés d’accès pour
+sante de conception et de dimen-       parfois que l’extraction soit raccor-   l’entretien et défauts
+sionnement, peut occasionner :         dée sur l’insufflation et réciproque-   d’entretien
+Δ  une mauvaise détermination des      ment. Les défauts d’assemblage          Parfois les débattements prévus
+   pertes de charges globales. Les     entre les différents éléments rigides   autour du groupe, ou bien la sec-
+   pertes de charges générées par      peuvent entraîner une perte de          tion de la trappe d’accès trop petite,
+   les coudes, les singularités, les   charges (due aux fuites) et dégra-      ne permettent pas d’accéder aux
+   éléments constitutifs du réseau     der l’étanchéité à l’air.               filtres. Leur remplacement régulier
+   (registres de réglages, pièges      Dans le cas de gaine souple, de la      est pourtant indispensable pour
+   à sons…) ne sont pas prises en      vapeur d’eau peut se condenser          préserver en bon état l’installation.
+   compte ;                            dans les parties basses jusqu’à         Il arrive souvent que l’occupant
+Δ  un calcul erroné des débits ;       atteindre une quantité suffisante       pour des raisons d’inconfort obture
+Δ  des gênes et sensations de          pour entraîner la rupture de la gaine   les entrées d’air entraînant d’iné-
+   courants d’air froid lorsque les    souple et provoquer un dégât des        vitables condensations dans le
+   bouches d’insufflation sont posi-   eaux sur les ouvrages sous-jacents,     logement. Il peut pour les mêmes
+   tionnées à proximité d’un lieu      par exemple des faux-plafonds.          motifs être amené à arrêter volon-
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              ÉQUIPEMENTS
+E.08               VMC SIMPLE ET DOUBLE FLUX
+2/3
+
+
+      tairement le ventilateur jugé trop                niques sur les colliers supports           de réseau, et limiter le nombre
+      bruyant.                                          de gaines rigides…) ;                      de coudes.
+      Faute d’entretien suffisant, les              Δ   d’un isolement insuffisant vis-à-      Δ   Positionner les bouches d’insuf-
+      entrées d’air et les bouches d’ex-                vis des bruits extérieurs, souvent         flation en fonction de l’utilisa-
+      traction    s’encrassent,   portant               par un mauvais choix d’entrées             tion faite des locaux afin qu’elles
+      atteinte à l’efficacité globale du                d’air. Attention également à l’in-         ne créent pas de gêne pour les
+      dispositif.                                       terface avec les coffres de volets         futurs utilisateurs.
+                                                        roulants.                              Δ   Les systèmes de VMC double
+      Non prise en compte des                                                                      flux relevant de la procédure
+      contraintes acoustiques                                                                      d’Avis technique, suivre scrupu-
+      Les nuisances acoustiques pro-                3. LES BONNES                                  leusement les prescriptions de
+      viennent généralement :                       PRATIQUES                                      ce document.
+      Δ  d’une vitesse trop importante
+         de circulation de l’air dans les           Dimensionnement et                         Soins lors de l’exécution
+         gaines, due à des sections trop            positionnement des                         Δ Éviter les longueurs de gaines
+         faibles ou une installation mal            groupes                                        excessives, surtout pour les
+         équilibrée, ayant pour effet               Δ Positionner le groupe de ventila-            gaines souples.
+         un sifflement au niveau des                    tion double flux idéalement dans       Δ   Veiller à éviter l’écrasement des
+         bouches ;                                      le volume chauffé.                         gaines souples, notamment au
+      Δ  de l’emplacement du moteur                 Δ   Penser à l’accessibilité pour              droit des raccordements avec les
+         de ventilation à proximité des                 intervenir ultérieurement sur le           bouches.
+         pièces de nuit ;                               groupe (changement des filtres).       Δ   Mettre en œuvre de manière
+      Δ  du traitement acoustique insuf-            Δ   Raccorder au réseau les conden-            soignée les gaines souples pour
+         fisant (supportage inadapté -                  sats par un circuit d’évacuation           éviter toutes blessures et tous
+         absence de fils de suspension,                 en ventilation double flux.                points bas.
+         absence de plots antivibratiles,           Δ   Prévoir une régulation avec les        Δ   Soigner l’étanchéité entre les
+         absence de bagues isopho-                      autres équipements participant             parties de gaines rigides.
+                                                        au chauffage (PAC, chaudières…)        Δ   Calorifuger des gaines situées
+                                                        en vue d’un bon fonctionnement             hors du volume chauffé.
+          À CONSULTER                                   de l’ensemble des équipements.         Δ   Si le groupe est utilisé en phase
+          Δ Arrêté  du 24 mars 1982, modi-
+            fié le 28 octobre 1983. Disposi-
+                                                                                                   chantier pour évacuer l’humidité
+                                                    Conception du réseau                           (chapes…) penser à changer les
+              tions relatives à l’aération des
+              logements                             aéraulique                                     filtres avant la réception et à net-
+          Δ   NF DTU 68.3 P1-1-1 : Installations    Δ Prendre en compte les niveaux                toyer les gaines.
+              de ventilation mécanique - Partie
+              1-1-1 : Règles générales de calcul,
+                                                        acoustiques     intérieur   et         Δ   Permettre le transit d’air en
+                                                        extérieur.                                 respectant le détalonnage des
+              dimensionnement et mise en
+              œuvre                                 Δ   Concevoir le cheminement des               portes (1 cm de 15 à 75 m3/h et
+          Δ   NF DTU 68.3 P1-1-2 : Installations
+              de ventilation mécanique - Par-
+                                                        réseaux pour n’avoir aucun                 2 cm jusqu’à 150 m3/h pour une
+                                                        points bas, éviter les change-             porte de 80 cm).
+              tie 1-1-2 : Ventilation mécanique         ments trop brusques de section
+              contrôlée autoréglable simple flux
+              - Règles de calcul, dimensionne-
+              ment et mise en œuvre - Cahier
+              des clauses techniques types +             L’ESSENTIEL
+              Amendement A1
+          Δ   NF DTU 68.3 P1-1-4 (avril 2017) :          Δ Dimensionner le groupe en tenant compte des pertes de
+              Installations de ventilation méca-           charges réelles y compris au niveau du rejet.
+              nique - Partie 1-1-4 : Ventilation         Δ Éviter les points bas dans le cas de gaines souples.
+              mécanique contrôlée autoré-
+              glable double flux - Règles de             Δ Prévoir le réglage et l’équilibrage des réseaux avant réception.
+              calcul, dimensionnement et mise            Δ Prévoir un entretien régulier des filtres des VMC DF et des
+              en œuvre (Indice de classement :             organes d’entrée et sortie d’air.
+              P50-413-1-1-4)
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                             ÉQUIPEMENTS               FICHE
+                                                                      VMC SIMPLE ET DOUBLE FLUX                         E.08
+                                                                                                                            3/3
+
+4. L’ŒIL DE L’EXPERT
+                                                       L’absence ou l’insuffisance des entrées d’air nuit à l’effica-
+                                                       cité de la ventilation et favorise l’apparition de phénomènes
+                                                       de condensation et de moisissures. Ici les percements en
+                                                       menuiseries sont de section très inférieure à celle des grilles
+                                                       d’entrée d’air. Ils ont été bricolés sur chantier au lieu d’être
+                                                       faits en atelier par le fabricant du bloc fenêtre.
+
+
+
+Photo © DR - AQC
+
+
+                                                       Les bouches d’extraction et les entrées d’air doivent faire l’ob-
+                                                       jet d’un entretien périodique et régulier. À défaut d’entretien,
+                                                       celles-ci s’encrassent.
+                                                       Le bon fonctionnement de la ventilation est altéré par la
+                                                       réduction du débit d’air extrait et/ou introduit, ce qui nuit à
+                                                       l’efficacité globale du dispositif.
+
+
+
+Photo © DR - AQC
+
+
+                                                       La mauvaise mise en œuvre du passage de gaines en
+                                                       membrane souple PVC, dans les combles perdus, conduit à
+                                                       des écrasements, à des diminutions de sections des gaines et
+                                                       à des points bas. L’air chargé de vapeur d’eau se condense.
+                                                       L’eau s’accumule dans les points bas jusqu’à obstruer
+                                                       presque complètement la gaine. Le débit d’extraction est
+                                                       réduit et le fonctionnement de la ventilation est compromis.
+                                                       Si la quantité d’eau est trop importante, cela peut rompre la
+Photo © DR - AQC                                       gaine.
+
+                                                       La résidence est équipée d’un système de ventilation simple
+                                                       flux collectif qui fonctionne en permanence. Plusieurs pro-
+                                                       priétaires d’appartement se plaignent d’entendre des sif-
+                                                       flements au niveau des bouches d’extraction. Un mauvais
+                                                       réglage des débits d’aspiration conduisant à une vitesse trop
+                                                       importante de la circulation de l’air dans les gaines est à l’ori-
+                                                       gine de cet inconfort.
+
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

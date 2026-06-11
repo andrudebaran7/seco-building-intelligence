@@ -1,0 +1,205 @@
+                                                                                 ENTRETIEN / MAINTENANCE                FICHE
+                                                                                                                        G.07
+                                                                                                                          1/4
+
+
+
+                                           LA PLOMBERIE
+                                           SANITAIRE
+
+
+1. LE CONSTAT
+Dans les métiers de la plomberie, l’entretien a pour           La plomberie regroupe ainsi notamment les réseaux
+objet de limiter le risque de fuite, tant sur les réseaux      d’alimentation en Eau Froide, en Eau Chaude Sanitaire,
+de distribution que sur ceux d’évacuation, de s’assurer        les réseaux d’évacuation d’Eaux Pluviales, Eaux Usées
+d’un fonctionnement optimal de l’installation et de            et Eaux Vannes intérieurs
+prévenir des risques sanitaires (légionelles, retours
+d'eaux). Les fuites sur réseaux relatives à l’absence          Nota : On précise que le périmètre de la fiche se limite
+d’entretien peuvent être générées par des défauts de           aux réseaux internes, après raccordement (à partir des
+vannes, de joints, de robinets, par l’action du gel ou de      attentes du gros œuvre en plancher bas).
+la corrosion…                                                  L’entretien des éléments de production de chaleur ou
+Les conséquences peuvent être majeures pour                    des systèmes d’assainissement font l’objet de fiches
+l’ouvrage, tant sur les embellissements que sur la             spécifiques.
+solidité structurelle lorsqu’elle est sensible à l’humidité
+(charpente et ossature bois) mais également pour les
+usagers.
+
+
+
+
+          2. LES POINTS D’ATTENTION INCONTOURNABLES
+Ils portent sur la santé et la sécurité des                    Δ Un autre point d’attention porte sur la détection des
+personnes et sur la détection des fuites.                         fuites qui engendrent surconsommations et dégra-
+L’obligation réglementaire porte sur la fourniture aux            dations éventuelles du bâti.
+usagers d’une eau de qualité en termes de dureté, de
+pH, d'absence de plomb ou d’autres substances dange-           Les typologies de contrôles sont rappelées dans les
+reuses mais également d'absence de développement               DTU 60.1, 60.11, 60.2, 60.31, 60.33, ou 60.5, dans des
+potentiel de micro-organismes, de parasites ou de              normes telles que la NF 806-5 qui préconise, pour
+légionelles.                                                   chaque organe et opération de maintenance, un mode
+Δ  Le gestionnaire du réseau est responsable de la             d’entretien et une périodicité.
+   qualité de l’eau distribuée sur les portions de ré-
+   seaux dont il a la propriété. C’est ainsi que le syndic
+   doit s’assurer, conformément au Code de la Santé               Remarque : Le rôle de l’usager au quotidien dans
+   Publique, de l’absence de micro-organismes, de                 la surveillance de son installation est primordial.
+   parasites ou de toute autre substance constituant
+   un danger pour les personnes (voir art. L1321-1 et
+   suivants).
+
+
+
+                       >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE      ENTRETIEN / MAINTENANCE
+G.07       LA PLOMBERIE SANITAIRE
+2/4
+
+
+
+      3. LE RÔLE DE L’USAGER (PROPRIÉTAIRES, LOCATAIRES OU SYNDIC)
+                          Les actions à mener par l’usager                    Hormis les cas de figure pour lesquels une
+                          consistent à :                                      périodicité est suggérée, les contrôles sont
+                          Δ inspecter visuellement les réseaux :              effectués aussi souvent que possible et au
+                              vérification de l’absence d’eau liquide, de     minimum une fois par an.
+                              suintements (coulures sèches, corrosion
+                              de type rouille ou vert de gris, etc.) ;        L’obligation de qualité imposée par les
+                          Δ   vérifier le compteur d’eau pour déce-           textes réglementaires doit conduire de fait
+                              ler une fuite invisible ;                       les gestionnaires de portions collectives
+                          Δ   faire fonctionner le groupe de sécuri-          (syndic par exemple) à déléguer la mainte-
+                              té une fois par trimestre ;                     nance des ouvrages de plomberie.
+                          Δ   surveiller quotidiennement le fonction-
+                              nement des pompes de relevage ;
+                          Δ   détartrer les appareils sanitaires et net-         Pour les installations individuelles,
+                              toyer les siphons ;                                chaque propriétaire est responsable
+                          Δ   vérifier l’ensemble des joints d’équi-             de la qualité de l’eau distribuée sur
+                              pements (lavabos, éviers, baignoire,               sa portion de réseau privatif, entre le
+                              douche) et reprendre les joints défail-            compteur et les organes de distribu-
+                              lants ;                                            tion . Le risque de contamination est
+                          Δ   manœuvrer les robinets et vannes pri-              généralement faible sur les ouvrages
+                              vatives ;                                          récents à condition de respecter les
+                          Δ   purger les portions de réseaux peu                 mesures ci-avant. Il appartient au pro-
+                              utilisées (chasses) ou, avant l’hiver, sou-        priétaire, lorsqu’il ne s’estime pas suf-
+                              mises au risque de gel ;                           fisamment compétent, de passer un
+                          Δ   porter attention aux variations de                 contrat d’entretien sur ces ouvrages.
+                              températures de l’eau aux puisages
+                              (EF > 25°C ou EC < 50°C)
+
+
+
+
+            >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                    ENTRETIEN / MAINTENANCE               FICHE
+                                                                                 LA PLOMBERIE SANITAIRE                   G.07
+                                                                                                                              3/4
+
+
+4. LE RÔLE DU PROFESSIONNEL
+                          L’établissement d’un contrat de maintenance est fortement recommandé pour des
+                          installations complexes pour laquelle l’usager ne peut assurer l’entretien.
+                          L’entretien doit être prévu dès la phase conception en termes d’équipements (filtres,
+                          présence de vannes de coupures, trappes de visites, etc.), d’accès aux pièces et de
+                          sécurité des intervenants.
+                          Il doit être régulier et périodique ; seul le professionnel est en mesure de préciser à
+                          l’usager cette périodicité.
+
+                          Les opérations à mener, suivant le                        anti retour ;
+                          contrat, consistent à :                               Δ analyser périodiquement la qualité
+                          Δ effectuer un diagnostic préalable de                    physico-chimique de l’eau (analyse de
+                           l’état général de l’installation avant propo-            légionelles), et si besoin procéder au
+                           sition d’un contrat d’entretien ;                        traitement ;
+                          Δconsigner les modifications apportées à              Δ   purger et remettre en eau les bras
+                           l’installation ;                                         sous-utilisés ;
+                                            Δ    vérifier l’équilibrage         Δ   nettoyer les filtres, siphons, cuves
+                                            du réseau (pression, étan-              de relevage, ballons d’eau chaude,
+                                            chéité, joints et des organes)          crépines, ou autres, graisser les méca-
+ À CONSULTER                                ;                                       nismes, actionner le groupe de sécuri-
+ Δ Code de la Santé Publique (art.
+   L1321-1 et suivants, R1321-1 et
+                                            Δ    vérifier le calorifu-              té, vérifier le bon fonctionnement des
+                                            geage et la température de              organes mécaniques ;
+
+ Δ
+   suivants)
+   Arrêté du 10 septembre 2021 re-
+                                            consigne, en sortie d’équi-         Δ   tenir un cahier d’entretien ;
+   latif à la protection des réseaux        pement de production, aux           Δ   remplacer les pièces défectueuses
+   d'adduction et de distribution           points de puisage (ECS) et              ou alerter l’usager sur la nécessité de
+   d'eau destinée à la consomma-            sur les bouclages et retours ;          remplacement préventif ;
+   tion humaine contre les pollu-
+   tions par retours d'eau                  Δ    contrôler les supports,        Δ   contrôler les organes de protection
+ Δ la qualité des eaux brutes et des
+   Arrêté du 11 janvier 2007 relatif à      les anti-béliers, les clapets           contre les retours d’eau.
+
+     eaux destinées à la consomma-
+     tion humaine
+ Δ   Arrêté du 30 novembre 2005 mo-
+     difiant l'arrêté du 23 juin 1978
+     relatifs aux installations fixes
+     (chauffage, alimentation en eaux
+     chaudes sanitaires…)
+ Δ   Règlement Sanitaire Départemen-
+     tal Type
+ Δ   Circulaire n°2007-126 du 3 avril
+     2007 (installations fixes destinées
+                                                L’ESSENTIEL
+     au chauffage et à l’alimentation
+     en eau chaude sanitaire)
+                                                Δ La maintenance des installations de plomberie relève d’une
+                                                    obligation légale dans une grande majorité des ouvrages (quali-
+ Δ   DTU série 60.1, 60.11, 60.2,
+     60.31, 60.33, ou 60.5 - plomberie              té de l’eau, santé et sécurité des personnes sur les installations
+ Δ   NF EN 806-5 : Spécifications tech-             collectives).
+     niques relatives aux installations
+     d'eau destinée à la consomma-
+                                                Δ   La vigilance de l’usager et sa faculté d’observation en font un
+                                                    acteur de l’entretien des ouvrages de plomberie, pour prévenir
+     tion humaine à l'intérieur des bâ-
+     timents - Partie 5 : Exploitation et           rapidement de l’apparition d’éventuels dommages.
+     maintenance                                Δ   L’intervention d’un professionnel permet de s’assurer d’un
+ Δ   EN 12056-4 : Réseaux d'évacua-
+     tion gravitaire à l'intérieur des
+                                                    fonctionnement optimisé, de limiter les consommations et
+                                                    d’anticiper les remplacements d’organes pour éviter les dom-
+     bâtiments Partie 4 : stations de
+     relevage d'effluents (art 8.2)                 mages majeurs aux ouvrages.
+
+
+                         >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           ENTRETIEN / MAINTENANCE
+G.07            LA PLOMBERIE SANITAIRE
+4/4
+
+
+
+      5. L’ŒIL DE L’EXPERT
+
+
+
+
+      Photo © DR - AQC                                                 Photo © DR - AQC
+
+
+      Suintement sur soudure d’une canalisation eau                    Fuite de joint, présence de corrosion, dépôt de calcite
+      chaude en cuivre (vert de gris) : Une fuite plus impor-          perturbant le bon fonctionnement du réseau. Risque
+      tante est certaine dans l’avenir si aucune reprise n’est         majeur de dégât des eaux
+      envisagée.
+
+
+
+
+      Photo © DR - AQC                                                 Photo © DR - AQC
+
+
+      Obstruction du siphon par un dépôt (savon-cheveux) – Mise en charge du receveur de douche.
+
+
+
+
+      Pour en savoir plus :
+                                                                                          Retrouvez l’ensemble des
+                                                                                          Fiches pathologie bâtiment sur :
+                                                                                          www.qualiteconstruction.com
+                                                                                          et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                                    © 2024- Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+                  >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+

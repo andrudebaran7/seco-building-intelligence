@@ -1,0 +1,224 @@
+                                                                                                                                                                ÉQUIPEMENTS                                   FICHE
+                                                                                                                                                                                                              E.12
+                                                                                                                                                                                                                1/4
+
+
+
+                                                                            POMPE À CHALEUR
+                                             Photo © DR - AQC               GÉOTHERMIQUE
+1. LE CONSTAT
+Le constat commun est une mise en sécurité du sys-
+tème thermodynamique qui entraîne l’absence de
+chauffage, souvent total, des locaux concernés.
+
+
+
+
+2. LE DIAGNOSTIC
+PAC géothermique sur
+nappe (schémas 1 et 2)                                                         de celui-ci par différentes parti-                                 geur de barrage (eau/eau), de
+Deux causes principales sont à                                                 cules ou encore par des boues                                      préférence en inox, est une exi-
+l’origine de ces mises en sécurité                                             issues de la corrosion (plus ou                                    gence indispensable afin d’assu-
+ou avarie du système thermodyna-                                               moins accentuée en fonction du                                     rer la protection de l’échangeur
+mique de la PAC.                                                               type de régulation [continu ou                                     eau/fluide frigorigène. En amont
+Δ  La première est le colmatage                                                asservi] de la pompe de forage).                                   de cet échangeur, la mise en
+   de l’échangeur ou la perforation                                            Ainsi, la présence d’un échan-                                     place d’un filtre adéquat (500
+
+                             SCHÉMA 1 : FORAGE EN NAPPE LIBRE                                                                       SCHÉMA 2 : FORAGE EN NAPPE CAPTIVE
+     Cette configuration est la plus courante pour les forages de petits diamètres (de 150 à 250 mm)                                 dans ce cas l’ouvrage est réalisé en deux étapes
+                                                                                                            Ciment
+            Niveau de l’eau dans le forage                                Tube dépassant du sol             (injecté par la base,
+                                                                                                                                                 PREMIÈRE ÉTAPE
+                                                                          (50 cm minimum)                   il assure l'étanchéité entre
+                                                                                                            les deux aquifères)                                               Tube dépassant du sol
+            Ciment                                                        Margelle en ciment
+            (injecté par la base)                                         (hauteur de 30 cm minimum)                                                                          Centreur
+                                                                                                               Terrain dénoyé
+                                                                                                                                                                              Tubage de protection
+                                                                                                               Nappe supérieure à occulter                                    Espace annulaire
+                                                                          Centreur                             (par exemple, eau polluée)                                     > 4 cm
+                                                                                                                                                                              Centreur obligatoire
+            Niveau de la                                                                                       Formation imperméable
+                                                                          Tubage de protection
+            nappe au repos
+                                                                                                               Toit de l’aquifère captif                                            Nappe inférieure
+                                                                                                                                                                                    captive à capter
+
+
+            Cône de rabattement                                                                                Niveau de la nappe
+                                                                                                                                                 DEUXIÈME ÉTAPE
+            du forage en production                                                                                                                                           Margelle
+                                                                                                               au repos
+                                                                                                                                                                              Centreur
+            Joint d'étanchéité                                                                                 Terrain dénoyé
+                                                                             Aquifère                                                                                         Tubage de protection
+            (argile)
+            évite l’invasion de l’aquifère                                                                     Nappe supérieure à occulter
+            et du gravier par le ciment                                                                        (par exemple, eau polluée)
+
+                                                                             Crépine                           Formation imperméable
+                                                                             (adaptée à la formation
+           Massif filtrant                                                   aquifère et sous le niveau                                                                   Nappe inférieure captive à capter
+           (gravier calibré)                                                 de l’eau en pompage)
+                                                                                                               Massif filtrant                                                Crépine
+                                                                                                               (gravier calibré)                                              (adaptée à la formation
+                                                                                                                                                                              aquifère et sous le niveau
+                                                                             Tube plein à la                                                                                  de l’eau en pompage)
+    D’après schéma du BRGM                                                   base de la crépine
+                                                                                                          D’après schéma du BRGM                                         Tube plein à la base de la crépine
+
+
+
+                     >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            ÉQUIPEMENTS
+E.12             POMPE À CHALEUR GÉOTHERMIQUE
+2/4
+
+
+          microns par exemple) est néces-           de mise en œuvre. La distance             le fluide frigorigène doit être
+          saire. Une analyse de l’eau de            entre les tubes doit être au mini-        au minimum de 40 cm et, dans
+          forage est indispensable.                 mum de 40 cm (et de 60 cm s’ils           certaines conditions, la mise en
+      Δ   La deuxième cause réside dans             sont superposés). Ainsi, l’espace-        œuvre d’un lit de sable d’environ
+          le manque d’échange qui trouve            ment entre les tubes où circule           15 cm peut s’avérer nécessaire
+          son origine dans un débit insuf-          le fluide frigorigène doit être           afin d’éviter des blessures sur le
+          fisant de la nappe. La déter-             au minimum de 40 cm et, dans              tube.
+          mination du débit est fonction            certaines conditions, la mise en      Δ   La deuxième cause est la rupture
+          de la puissance et de l’écart de          œuvre d’un lit de sable d’environ         de canalisation, liée au mouve-
+          température (prélèvement/rejet).          15 cm peut s’avérer nécessaire            ment du sol selon les caractéris-
+          Cet écart doit tenir compte de la         afin d’éviter des blessures sur           tiques de la terre et de la pose de
+          température d’eau de la nappe.            le tube. Les systèmes de purge            ces canalisations à proximité des
+          Plus l’écart est élevé, plus le           doivent être particulièrement             végétations. Ainsi, les canalisa-
+          débit sera faible. L’échangeur de         efficaces.                                tions doivent être à une distance
+          barrage doit être déterminé en        Δ   La deuxième cause est la rupture          minimale de 2 m d’un arbre, de
+          conséquence. Une fois le forage           de canalisation, liée au mouve-           1,5 m de réseaux enterrés non
+          réalisé (voir schémas), il y a lieu       ment du sol selon les caractéris-         hydrauliques et de 3 m de fonda-
+          de s’assurer du débit nominal             tiques de la terre et de la pose de       tions, puits, fosses septiques… Le
+          requis. Deux tests sont à réaliser,       ces canalisations à proximité des         respect de ces règles permet un
+          un essai de débit par palier et un        végétations. Ainsi, les canalisa-         échange optimal.
+          essai de longue durée. En outre,          tions doivent être à une distance     Δ   La troisième cause réside dans la
+          le choix de la pompe implique             minimale de 2 m d’un arbre, de            mise en œuvre de ces canalisa-
+          une connaissance du débit et de           1,5 m de réseaux enterrés non             tions. La surface de captage doit
+          la hauteur manométrique (déter-           hydrauliques et de 3 m de fon-            respecter une légère pente (1 %
+          minée en fonction du niveau de            dations, puits, fosses septiques…         minimum) vers le compresseur
+          rejet par rapport au niveau de            La surface de captage doit être           afin d’assurer le retour de l’huile.
+          prélèvement s’il s’agit de la même        dimensionnée de manière à                 Dans le cas d’une impossibilité
+          nappe). Une vanne de réglage en           assurer la puissance calorifique          de pente ou d’un dénivelé supé-
+          amont de l’échangeur s’avère              nominale de la PAC et en fonc-            rieur à 3 m, la mise en œuvre
+          souvent adaptée pour assurer le           tion de la composition géolo-             d’un siphon est nécessaire.
+          débit nominal à l’échangeur.              gique du terrain, notamment               Pour ce type d’installation,
+          Une précaution particulière est à         pour les sondes verticales.               lorsque la restitution de chaleur
+          mettre en œuvre lorsque la PAC            La dégradation dans le temps              s’effectue par plancher chauf-
+          assure le chauffage et le rafraî-         du glycol (diminution du pH)              fant, il y a lieu de s’assurer que
+          chissement. Le débit nécessaire           entraîne une perte de perfor-             la température du fluide frigori-
+          est différent et il est donc impé-        mance, son contrôle doit être             gène est compatible avec la tem-
+          ratif de rajouter un système de           périodique.                               pérature de surface du sol (28°C
+          régulation permettant de modi-                                                      en référence de l’article 5,5 du
+          fier le débit (V3V de bypass, par     PAC géothermique fluide                       DTU 65,14).
+          exemple).                             frigorigène
+                                                Trois causes principales peuvent
+      PAC géothermique                          être à l’origine des mises en             3. LES BONNES
+      sur sonde verticale ou                    sécurité.                                 PRATIQUES
+      horizontale                               Δ  La première est le mauvais
+      Deux causes principales sont à l’ori-        échange, dû essentiellement au         Δ La sélection d’une pompe à cha-
+      gine de ces mises en sécurité.               non-respect des écarts entre               leur dépend des déperditions du
+      Δ  La première est l’insuffisance            les tubes et la qualité de la              bâti dont le bilan thermique a été
+         de puissance de captage, due              terre de remblai. Ainsi, l’espace-         calculé selon la norme EN 12831.
+         au non-respect des conditions             ment entre les tubes où circule
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                               POMPE À CHALEUR GÉOTHERMIQUE                            E.12
+                                                                                                                         3/4
+
+Δ Vérifier les puissances en fonc- Δ Solliciter une étude de faisabi-
+  tion des points d’essai.           lité auprès d’un BE spécialisé en
+Δ L’entretien de la PAC est indis- géothermie.
+  pensable (nettoyage de l’échan-  Δ Établir les tests de débits par un
+  geur externe, du filtre à eau,            foreur pour valider la présence
+  contrôle périodique de l’an-              du débit d’eau nécessaire et les
+  tigel…), ainsi que le contrôle            caractéristiques de l’eau utilisée.
+  d’étanchéité obligatoire pour
+  les circuits dont la quantité est
+  supérieure à 2 kg de fluide fri-
+  gorigène (article R543-75 à R543-
+  123 du Code de l’Environnement).
+  Le règlement F GAS n°517-2014
+  exprime ces seuils en Teq CO2
+  (par exemple pour le R410A, le
+  seuil débute à 2,39 kg).
+
+
+
+
+  À CONSULTER
+  Δ Articles R543-75 à R543-123 du
+    Code de l’Environnement et l’ar-
+      rêté du 07/05/2007
+  Δ Loi sur l’eau (Code de l’Environ-
+    nement Livre II - Titre Ier et Code
+      minier) : Installations classées
+      soumises à déclaration ou auto-
+      risation selon les débits d’eau
+      prélevés
+  Δ   NF EN 14511-2 : Climatiseurs,
+      groupes refroidisseurs de liquide
+      et pompes à chaleur avec com-
+      presseur entraîné par moteur
+      électrique pour le chauffage et la
+      réfrigération des locaux
+  Δ   NF EN 378-1 à 4 : Exigences
+      de sécurité et d’environnement
+      des systèmes de réfrigération et
+      pompes à chaleur
+  Δ   Norme NF-X 10-999 : Forage
+      d’eau et de géothermie.
+  Δ   Norme NF X 10-970 : Sonde géo-
+      thermique verticale
+  Δ   NF EN 14868 : Protection des
+      matériaux métalliques contre la
+      corrosion                              L’ESSENTIEL
+  Δ   Les pompes à chaleur géother-
+      miques – COSTIC – Édition 2009         Δ Veiller au bon dimensionnement des surfaces de captage en
+  Δ   NF DTU 65.16 Installations de
+      pompes à chaleur - Partie 1.1,
+                                                 fonction de la nature géologique du terrain ou de la disponibi-
+                                                 lité du débit d’eau et de ses caractéristiques.
+      1.2 & 2
+  Δ   Article R543-75 à R543-123 du          Δ   Faire entretenir régulièrement son installation par un
+      Code de l’Environnement et l’ar-           professionnel.
+      rêté du 7 mai 2007
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            ÉQUIPEMENTS
+E.12             POMPE À CHALEUR GÉOTHERMIQUE
+4/4
+
+
+      4. L’ŒIL DE L’EXPERT
+
+
+
+
+      Photo © DR - AQC                                             Photo © DR - AQC
+
+
+      PAC sol/sol avec plancher chauffant dont l’installateur a modifié la conception. En effet, pensant à une erreur de
+      conception, il a réalisé une priorité ECS sur le ballon par un jeu d’électrovannes. En cas de production de chauffage,
+      la température élevée des vapeurs entraînait une température de surface de sol supérieure à 28°C.
+
+
+
+
+      Pour en savoir plus :
+                                                                                      Retrouvez l’ensemble des
+                                                                                      Fiches pathologie bâtiment sur :
+                                                                                      www.qualiteconstruction.com
+                                                                                      et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                               © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

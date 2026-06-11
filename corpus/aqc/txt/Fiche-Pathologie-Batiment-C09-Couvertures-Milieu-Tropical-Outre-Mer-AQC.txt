@@ -1,0 +1,275 @@
+                                                                              TOITURES ET CHARPENTES                  FICHE
+                                                                                                                      C.09
+                                                                                                                           1/5
+                                         INFILTRATIONS D’EAU
+                                         DES COUVERTURES
+                      Photo © DR AQC
+                                         EN MILIEU TROPICAL
+
+1. LE CONSTAT
+Les infiltrations par couverture constituent une       En outre, en fonction de l’altitude à laquelle est réalisé l’ouvrage,
+des principales causes de sinistres, y compris         il y a nécessité (ou pas) de prévoir une lame d’air ventilée en
+dans les DROM. Les modes constructifs relèvent         sous-face de couverture. Son absence peut générer des phéno-
+d’une utilisation principale de couvertures de         mènes de condensation en sous-face de tôles.
+type bacs acier ou aluminium, nervurés ou ondu-
+lés. Ces modes correspondent aux spécificités de       Les conditions météorologiques particulières entraînent des in-
+zones soumises aux phénomènes cycloniques, où          filtrations par le moindre interstice ou percement dans la cou-
+l’utilisation de couvertures en petits éléments est    verture. Poussée par le vent, l’eau peut remonter la pente et
+déconseillée (risque d’envol).                         pénétrer par les points les plus improbables. Des phénomènes
+                                                       de corrosion sont également observés.
+
+
+
+
+2. LE DIAGNOSTIC
+Causes principales                      et des recouvrements longitudi-         Δ Dégradation de la protection an-
+La majorité des infiltrations sont      naux et transversaux limités ou             ticorrosion lors de découpes des
+dues à des défauts d’étanchéité aux     réduits, que ce soit en bac acier           tôles (corrosion sur les champs
+points singuliers (faîtière, arêtier,   nervuré ou plus significativement           de tôles) à la disqueuse (utilisa-
+solin, noue). Les traversées de toi-    en tôle ondulée.                            tion de grignoteuse préconisée
+ture (ventilations, canalisations de                                                par les fournisseurs).
+CESI,…) et les émergences traitées      Les autres causes de                    Δ   Oxydation de l’aluminium par
+par des solins (lucarne, souche, édi-   désordres                                   électrolyse due à un contact alu/
+cule…) sont également concernées.       Δ Absence de joints de type bande           panne acier.
+                                          auto-adhésive au recouvrement         Δ   Corrosion accélérée et perce-
+Lorsque des infiltrations appa-           de tôles ondulées induisant un            ment de toitures zinc consécutifs
+raissent aux fixations des tôles,         effet de siphonnage vers l’in-            à un défaut de ventilation de la
+elles sont dues à de mauvais perce-       térieur, l’eau passant entre les          sous-face de la couverture zinc
+ments de la tôle, des tirefonds mal       deux tôles. Ce phénomène est              (condensation) et dans certains
+fixés, des écrasements de rondelles       surtout rencontré avec les tôles          cas à un contact du zinc avec
+d’étanchéité par force de serrage         ondulées malgré le double re-             certains bois classe IV (anciens
+inadaptée.                                couvrement (deux ondes). Il est           traitements utilisant de l’arsenic).
+                                          moins fréquent avec les cou-              Certaines essences de bois sont
+Les quelques infiltrations présentes      vertures en bacs acier nervurés           à éviter du fait de la mise en rela-
+en partie courante ont essentiel-         (meilleur ajustement des tôles au         tion des tanins en contact avec le
+lement pour origine des défauts           recouvrement).                            zinc : chênes, arbres tropicaux…
+d’étanchéité ponctuels de fixations
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE                  TOITURES ET CHARPENTES
+C.09                   INFILTRATIONS D’EAU DES COUVERTURES
+2/5                    EN MILIEU TROPICAL
+
+
+      Δ Condensation : en sous-face                               prévue dans le cahier des                 arêtier…) étant posée en partie
+          de couverture, tôle non ven-                            charges initiales, en raison              supérieure.
+          tilée (dans les bas – altitude <                        de la présence de nombreux            Δ   Lame d’air : adapter une lame
+          400 m) et/ou non isolée avec iso-                       équipements techniques et                 d’air de ventilation de hauteur
+          lant de type laine de verre avec                        notamment de panneaux                     supérieure aux recommanda-
+          pare-vapeur.                                            photovoltaïques     (nécessité            tions DTU de la Métropole.
+      Δ   Usure prématurée des joints                             de nettoyage régulier des             Δ   Le traitement des traversées
+          EPDM des sorties de canalisa-                           panneaux afin d’optimiser                 de toiture : l’élément d’étan-
+          tions d’eau chaude solaire en                           leur rendement sensible aux               chéité préfabriqué, dispositif
+          raison de leur inadaptation aux                         salissures).                              de sortie de toiture qui assure
+          températures en sortie de cap-                                                                    l’étanchéité entre la tôle et la
+          teur (> 120 °C en pointe).                                                                        canalisation PVC de ventilation,
+                                                            3. LES BONNES                                   est généralement à éviter car
+                               Isolateur ou isolant mince   PRATIQUES                                       c’est une cause de désordre
+                                    avec pare-vapeur
+                                                                                                            récurrente (piège à eau si posé
+        Closoir en mousse
+                                                            Δ Entoilage au faîtage : cette dis-             en bas de nervures ou d’ondes).
+                                                                position coutumière des régions             Les systèmes adoptés doivent
+                       Panne                                    ultramarines donne de bons ré-              être efficaces vis-àvis du risque
+                                    Vent                        sultats lorsqu’elle est bien mise           d’infiltration et résistants au vent
+                                           Suspente             en œuvre. Les bords des tôles               cyclonique. Les joints d’étanchéi-
+                                                                doivent être assez proches pour             té doivent être adaptés aux tem-
+                                                                éviter que l’eau ne s’infiltre entre-       pératures (eau chaude solaire à
+                       Panneau isolant autoporteur              deux. Le sommet est chapeauté               plus de 120 °C en pointe en sor-
+                           avec pare-vapeur
+                                                                d’un pontage étanche. Des ac-               tie de capteur), au type de profi-
+               Panne                                            cessoires complémentaires tels              lé et aux matériaux notamment
+                                                                que des plaques de tôle profilées           pour les fixations.
+                                                                pour faîtières ou des closoirs et       Δ   Le cas de la varangue : des pas-
+                                                                bandes de pontage viennent en               sages d’eau ponctuels peuvent se
+                                                                recouvrement sur les extrémités             produire au niveau des cassures
+                                           Fourrure             supérieures des tôles.                      de pente entre la couverture et
+                 Panneau avec pare-vapeur                   Δ   Étanchéité supplémentaire :                 la varangue, par siphonnage, au
+                                                                réalisation d’une étanchéité                niveau des recouvrements longi-
+      Δ Des défauts d’entretien :                               supplémentaire en traitant les              tudinaux en tôle ondulée. La cas-
+        √ corrosion par aggravation                             noues et chéneaux avec des                  sure de pente est réalisée soit
+              d’un point faible de la protec-                   résines d’étanchéité. Le risque             par une ligne de brisis, soit avec
+              tion anti-corrosion de type                       provient du traitement complexe             des croquages de tôles (tôles
+              couche de zinc + thermola-                        des noues réalisé pour réduire le           pliées prévues à cet effet).
+              quage (éraflure ou dégrada-                       risque de remontée d’eau sous               Les recouvrements longitu-
+              tion localisée non perceptible                    les ondes.                                  dinaux et transversaux : le
+              lors de la pose) ;                            Δ   Les recouvrements des points                recouvrement longitudinal com-
+          √   corrosion due à la dégrada-                       singuliers (bandes de rive, arê-            porte deux ondes (25 cm mi-
+              tion de végétaux non évacués                      tiers, solins) : le recouvrement            nimum) ou une nervure (20 à
+              en fond de chéneau ;                              assure généralement l’étanchéi-             30 cm minimum) en cas de bac
+          √   obstruction des eaux pluviales                    té. Ce dispositif est insuffisant           nervuré. Le recouvrement de la
+              par pousse de végétaux au                         dans les DROM. Il faut donc                 tôle ondulée présente davantage
+              niveau des naissances en toi-                     apporter une étanchéité com-                de risques d’infiltration par si-
+              ture mal nettoyées ou en pied                     plémentaire sous-jacente consti-            phonnage que le recouvrement
+              de descente ;                                     tuée d’un entoilage et d’une                trapézoïdal.
+          √   circulation parfois intense                       peinture d’étanchéité, la pièce             C’est la raison pour laquelle sa
+              en couverture, souvent non                        métallique (solin, bande de rive,
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                                   TOITURES ET CHARPENTES                 FICHE
+                                                                              INFILTRATIONS D’EAU DES COUVERTURES                         C.09
+                                                                                                 EN MILIEU TROPICAL                            3/5
+
+
+
+     FIXATIONS
+                                                       xi
+                                                    ma
+                                               cm
+                                           100
+
+
+
+                                                                                                                        Trop faible
+         Vents
+
+
+
+
+                                                                                                                          Correct
+                                                                                      20 cm maxi
+
+
+
+                                                            Étanchéités complémentaires
+
+
+                                                                                                                         Trop fort
+
+
+
+
+    pente doit être remontée à                           tôle est calée et serrée avec un                  cas de dégradation acciden-
+    25 %. Dans tous les cas, un joint                    maintien adapté.                                  telle ou bien en cas d’amorce
+    complémentaire         d’étanchéité            Δ     Pentes : il convient d’éviter les                 de corrosion, notamment
+    transversal et longitudinal (selon                   pentes minimales : 15 % pour le                   localisée en rive d’égout
+    norme NF P 30-305) doit être dis-                    nervuré et 25 % pour l’ondulé. La                 ou sur les recouvrements
+    posé dans les recouvrements.                         pente classique est à 30 % avec                   transversaux ;
+Δ   Les fixations : les principaux                       des particularités locales corres-            √   le maintien en bon état des
+    désordres sont liés à l’absence                      pondant à une pente de la cou-                    ouvrages qui contribuent à
+    de cales d’ondes ou “pontets” ;                      verture de la “varangue” faible.                  l’étanchéité de la couverture
+    de ce fait, les tôles sont en sous-            Δ     Les chants des tôles : les chants                 (solins, larmiers, bandeaux...) ;
+    serrage ou en sur-serrage. Les                       découpés à la disqueuse doivent               √   pour les surfaces non sou-
+    cales ou pontets offrent une ré-                     être traités.                                     mises au lavage naturel assuré
+    sistance lors du vissage et évitent            Δ     Un entretien adapté : les prin-                   par les précipitations atmos-
+    le poinçonnement des tôles au                        cipes d’entretien sont mention-                   phériques, un nettoyage régu-
+    droit des fixations. Sans cales,                     nés à l’annexe C du DTU 40.35.                    lier suivi, le cas échéant, d’un
+    l’onde peut s’élargir sous l’effet                   L’entretien normal comporte no-                   traitement systématique et im-
+    du vent. Même une fois revissée,                     tamment :                                         médiat des parties présentant
+    la tôle bouge et l’étanchéité n’est                  √  l’enlèvement périodique des                    des amorces de corrosion ;
+    plus assurée.                                           feuilles, herbes, mousses et               √   le resserrage des tirefonds au
+    Posé sur la panne, le “pontet”                          autres dépôts ou objets étran-                 maximum tous les deux ans
+    épouse la forme d’onde ou de                            gers ;                                         (phénomène de dilatation, de
+    nervure de la tôle. Le cavalier                      √  le maintien en bon état des                    vibration, vent).
+    rigidifie l’onde et réduit le risque                    évacuations d’eaux pluviales ;
+    de “déboutonnage” lorsque le                         √  s’il y a lieu, le maintien en bon
+    vent soulève la tôle. Les ron-                          état de la ventilation de la
+    delles d’étanchéité sous cava-                          sous-face de la couverture ;
+    lier ou sous rondelle métallique                     √  le maintien en bon état des
+    doivent être suffisamment ser-                          revêtements de protection en
+    rées mais non écrasées. Ainsi, la
+
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            TOITURES ET CHARPENTES
+C.09             INFILTRATIONS D’EAU DES COUVERTURES
+4/5              EN MILIEU TROPICAL
+
+
+
+
+        À CONSULTER
+        Δ Eurocode
+          structures
+                     1 - Actions sur les
+
+        Δ NF EN 1991-1-4 -
+          Eurocode 1 : actions sur les struc-
+            tures. Partie I-4 : actions géné-
+            rales. Actions du vent
+        Δ   NF EN 1991-1-4/NA -
+            Eurocode 1 : actions sur les struc-
+            tures. Partie I-4 : actions générales
+            Actions du vent. Annexe nationale
+            à la NF EN 1991-1- 4 : 2005 - Ac-
+            tions générales - Actions du vent.
+        Δ   NF DTU 40.35
+            Couvertures en plaques nervurées
+            issues de tôles d’acier revêtues.
+        Δ   NF DTU 40.36
+            Couverture en plaques d’alumi-
+            nium prélaqué ou non.
+        Δ   NF DTU 40.41
+            Couvertures par éléments mé-
+            talliques en feuilles et longues
+            feuilles en zinc
+        Δ   XP P34-301
+            Tôles et bandes en acier préla-
+            quées ou revêtues d’un film or-         L’ESSENTIEL
+            ganique contrecollé ou colaminé
+            destinées au bâtiment - Condi-
+                                                    Δ Assurer un entretien de la couverture adapté et régulier (a mi-
+                                                      nima annuel).
+            tions techniques de livraison
+        Δ   Memo chantier Couverture                Δ Soigner le traitement des points singuliers.
+            en grands éléments spécial
+            Outre-mer
+                                                    Δ Respecter les ATEC des fabricants et leurs prescriptions
+                                                      complémentaires.
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                               TOITURES ET CHARPENTES                   FICHE
+                                                        INFILTRATIONS D’EAU DES COUVERTURES                             C.09
+                                                                           EN MILIEU TROPICAL                             5/5
+
+
+4. L’ŒIL DE L’EXPERT
+
+                                                              Absence de joint au recouvrement longitudinal, phéno-
+                                                              mène de siphonnage.
+
+
+
+
+Photo : © SARETEC - Pierre LAMORIL
+
+
+
+
+                                                              Tôle déformée par la circulation excessive.
+
+
+
+
+Photo : © SARETEC - Pierre LAMORIL
+
+
+
+
+                                                              Corrosion de couverture acier en bord de mer.
+
+
+
+
+Photo : © SARETEC - Laurent CANU
+
+
+
+
+Pour en savoir plus :
+                                                                              Retrouvez l’ensemble des
+                                                                              Fiches pathologie bâtiment sur :
+                                                                              www.qualiteconstruction.com
+                                                                              et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

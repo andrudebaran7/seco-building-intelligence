@@ -1,0 +1,153 @@
+                                                                                                         FONDATIONS ET INFRASTRUCTURES                                          FICHE
+                                                                                                                                                                                A.06
+                                                                                                                                                                                  1/3
+                                                                        EFFONDREMENT DE
+                                                                        MURS DE SOUTÈNEMENT
+                          Photo © DR - AQC                              EN MAÇONNERIE
+
+1. LE CONSTAT
+Destinés au maintien de massifs de terre de faible hau-                                     Δ la poussée des terres ;
+teur (moins de 2 m en général), ces petits ouvrages                                         Δ les poussées hydrostatiques si les terres sont mal
+annexes de pavillons sont généralement construits                                             drainées ;
+en maçonnerie, très souvent sans l’aide d’un bureau                                         Δ les surcharges d’exploitation éventuelles (passage et
+d’études.                                                                                     stationnement de véhicules, …) ;
+                                                                                            Δ les chocs éventuels.
+La stabilité des murs de soutènement en maçonnerie                                          Une épaisseur insuffisante de la paroi ou une mau-
+(blocs de béton, briques pleines, pierres, béton banché                                     vaise évacuation des eaux de ruissellement peuvent
+non armé) est assurée par leur propre poids (on parle                                       entraîner des fissurations ou le bombement du mur,
+de « mur-poids »).                                                                          son basculement partiel (voir schéma 2), voire son
+Pour maintenir son équilibre, le poids du mur doit per-                                     effondrement.
+mettre de contrebalancer (voir schéma 1) :                                                  Enfin, suivant la pente générale du terrain surplombant
+                                                                                            l’ouvrage, le risque de grand glissement doit également
+                                                                                            être évalué.
+
+
+
+
+2. DIAGNOSTIC                                                           Les poussées sur le mur résultent :       Δ de la poussée due à la présence
+                                                                        Δ de la poussée due aux terres              d’eau. La réalisation d’un système
+Il y a deux principales causes de                                         en place et aux remblais sur le           de drainage vertical et horizontal
+désordres.                                                                mur. Cette poussée dépend des             et d’un système d’évacuation de
+                                                                          caractéristiques du sol (densité,         l’eau susceptible de s’accumuler
+Une erreur de                                                             cohésion et angle de frottement           le long de la paroi permettent de
+dimensionnement de                                                        interne) ainsi que de la hauteur          limiter ces efforts ;
+l’ouvrage                                                                 des terres à soutenir ;
+
+                SCHÉMA SIMPLIFIÉ DES SOLLICITATIONS D’UN MUR-POIDS                                                      CAS DE BASCULEMENT DE PAROI
+
+
+
+                       Barbacane                                                             Barbacane
+                                 Triangle
+                                de Coulomb
+                         Résultante                                 t                          Résultante             Joint de                                    Efforts dus
+                                                                 en
+                         de poussée                           sem                              de poussée             mortier                                     à la terre
+                                                      e   glis
+                                                   ed                                                                 « flaiblard »
+                                                n
+                      « Tiers central »      Lig
+                                                                                                    Basculement
+
+                                   Diagramme
+                                   des contraintes
+                        σm
+                                   sur le sol
+                                                                                                                      Angle de
+           σM                                                                                                         frottement
+                                                                                                                      interne
+                  Poids de                                                              Poids de                                         φ
+                  l’ouvrage                                                             l’ouvrage                                               δ
+                                Résultante générale                                                                                   Le massif sera stable si : δ < φ
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          FONDATIONS ET INFRASTRUCTURES
+A.06           EFFONDREMENT DE MURS DE
+2/3            SOUTÈNEMENT EN MAÇONNERIE
+
+
+      Δ de la poussée due à des sur-            L’action de l’eau                            Ω la vérification des surcharges
+         charges éventuelles : véhicules,       L’absence, la mauvaise conception               même non permanentes
+         stockage, …                            ou le mauvais fonctionnement des                (passage ou stationnement
+      Constitué d’un mur et d’une fonda-        systèmes de drainage et d’évacua-               de véhicules, aménagement
+      tion, l’ouvrage de soutènement est        tion des eaux de ruissellement sont             de terrain (remblai) effectué
+      considéré comme autostable. Cela          une cause fréquente de sinistre.                ultérieurement, ...) ;
+      signifie que le mur doit être suffi-      En s’accumulant derrière la paroi,           Ω  la vérification du risque de
+      samment lourd et rigide pour ré-          les eaux de ruissellement exercent              glissement.
+      sister sans déformation excessive         sur celle-ci une poussée hydro-          Δ   Apporter un soin particulier à
+      aux différentes poussées. La prise        statique qui vient s’ajouter à celle         la réalisation du drainage (po-
+      en compte des chaînages dans le           déjà exercée par le terrain sec. Or,         sitionnement par rapport aux
+      calcul de la stabilité n’est pas au-      aucun mur de soutènement, pré-               fondations, pente, orientation
+      torisée (cf. DTU 20.1 Partie 4). En       vu pour être autostable et calculé           des fentes du drain, présence
+      revanche, des raidisseurs (poteaux        pour résister à la seule poussée             de géotextile, remblaiement par
+      en béton armé incorporés dans             des terres, n’est capable de résister        couches successives) et des bar-
+      l’épaisseur du mur) ou des contre-        à des pressions hydrostatiques.              bacanes afin d’éviter l’accumula-
+      forts peuvent s’avérer nécessaires.       Remarque : relevant d’un cas par-            tion d’eau sur la face interne de
+      Les caractéristiques de la semelle        ticulier, la présence d’une nappe            la paroi.
+      (dimensions, ferraillage) doivent         phréatique n’est pas abordée dans        Δ   Prévenir le maître d’ouvrage des
+      également être calculées en pre-          cette fiche.                                 limites de l’ouvrage de soutène-
+      nant en compte les poussées.                                                           ment et des risques en cas de
+                                                                                             non-respect des consignes mini-
+      Une erreur d’exécution                    3. LES BONNES                                males (entretien des barbacanes
+      La liaison fondation-mur est un           PRATIQUES                                    et du drain, interdiction de sur-
+      point crucial. La liaison attentes-fer-                                                charger l’arrière du mur).
+      raillage du mur peut être négligée,       Δ Dans la mesure du possible, Δ              Utiliser des murs préfabriqués,
+      les ancrages chimiques d’attentes             faire réaliser une étude de sol          ou des solutions à base de blocs
+      oubliés ne peuvent pas remplacer              (ou compléter celle pour les             de coffrage, peut éviter des
+      la liaison des armatures des se-              fondations).                             désordres.
+      melles. La mise en œuvre des ar-          Δ   Faire intervenir un bureau
+      matures est à contrôler avec soin             d’études « structure » pour le di-
+      (armatures non symétriques).                  mensionnement de l’ouvrage, y
+                                                    compris :
+
+
+
+
+        À CONSULTER
+        Δ Eurocode
+          en béton
+                    2 : Calcul des structures
+
+        Δ Eurocode  7 : Calcul géotechnique
+        Δ DTU 13.11:Fondationssuperficielles
+        Δ DTU  13.12 : Règles pour le calcul
+          des fondations superficielles
+        Δ NF DTU 20.1 - Parties 1 et 4 :
+          Ouvrages en maçonnerie de petits
+                                                    L’ESSENTIEL
+           éléments.                                Δ Faire intervenir un bureau d’études de structure et vérifier le
+           NB : l’annexe de la partie 4 de            ferraillage sur chantier par rapport aux plans.
+           ce dernier document traite de la         Δ Bien drainer et évacuer les eaux de ruissellement.
+           conceptiondudrainagenécessaire
+           contre le mur                            Δ Entretenir drains et barbacanes.
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                    FONDATIONS ET INFRASTRUCTURES                    FICHE
+                                                                      EFFONDREMENT DE MURS DE                        A.06
+                                                                    SOUTÈNEMENT EN MAÇONNERIE                             3/3
+
+
+4. L’ŒIL DE L’EXPERT
+
+
+
+
+Photo © DR - AQC
+Mur ancien de soutènement en pierre sèche (ou
+hourdé à la terre) : éboulement dû à une surcharge
+d’exploitation sur la plateforme au-dessus.
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

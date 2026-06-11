@@ -1,0 +1,254 @@
+                                                                                                       ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                                          FICHE
+                                                                                                                                                                                     D.03
+                                                                                                                                                                                            1/4
+
+
+
+                                             DÉSORDRES DES
+                        Photo © DR - AQC
+                                             ENDUITS MONOCOUCHES
+
+1. LE CONSTAT
+Les maçonneries extérieures sont très souvent re-                                                                    Leur fonction première est l'imperméabilisation ; ils ont
+couvertes d'un enduit monocouche à base de liants                                                                    accessoirement vocation à parer les parois. (schéma 1)
+hydrauliques. Ces enduits, qui relèvent du DTU 26.1,                                                                 La plupart des dommages rencontrés sont liés à l'as-
+sont exécutés avec des mortiers performanciels prêts                                                                 pect et n'ont pas d'incidence sur la qualité et la dura-
+à l'emploi. Ils sont appliqués généralement en une ou                                                                bilité de l'enduit. D'autres, par contre, affectent l'imper-
+deux passes « frais sur frais » avec le même mortier.                                                                méabilité de la paroi.
+
+
+
+
+2. LE DIAGNOSTIC                               Sauf composition particulière de                                                           Les désordres affectant la
+                                               quelques enduits monocouches                                                               durabilité
+Les désordres affectant                        sous Avis Techniques spécifiques                                                           Δ La fissuration est due au com-
+l'aspect                                       à ces finitions, le DTU et les cer-                                                            portement du support (angles
+Δ Le nuançage désigne des varia-               tificats réservent ces aspects ta-                                                             de baies, au droit des plan-
+    tions de couleur ou d'aspect de            lochés aux petites surfaces (ban-                                                              chers, joints mal bourrés ou trop
+    l'enduit. Il résulte de l'irrégularité     deaux, entourage de baies…).                                                                   épais…) mais également au re-
+    de la préparation de l'enduit (do-                                                                                                        trait de l'enduit lié aux conditions
+    sage et malaxage) ou de l'appli-                                                                                                          d'application (excès d'eau, hu-
+    cation (reprises, épaisseur, uni-                                                                                                         midification insuffisante du sup-
+    formité du talochage…).                                                                                                                   port, temps sec, venté, chaud, va-
+Δ   Les spectres peuvent être per-                                                                                                            riations d'épaisseur…).(schéma 2)
+    manents ou visibles seulement                                                                                                         Δ   Les pénétrations d'eau par po-
+    lorsque l'enduit est mouillé. Ils        Δ Les mousses et salissures                                                                      rosité sont rares en l'absence
+    résultent du différentiel existant         sont dues au développement de                                                                  de fissures. Elles sont dues à
+    dans la prise ou la vitesse de             micro-organismes sur des zones                                                                 des épaisseurs insuffisantes
+    prise de l'enduit entre les joints         humides ou à des dépôts de                                                                     d'enduit.
+    des maçonneries et la surface              salissures urbaines.
+    courante. Ce phénomène, lié à
+    la nature des joints (porosité,                                                                  SCHÉMA 1                                                   SCHÉMA 2
+                                                                                                                                                  Mécanisme            ... et ﬁssures de
+    largeur, arasement…), est réduit                                                           Rôle de l’enduit                                 de l’adhérence...   retrait et de manque
+    par l'application de l'enduit en                                     Pluie                                          Fin de la pluie                                   d’adhérence
+
+    deux passes et le respect des
+                                                    Absorption superficielle par capillarité
+
+
+
+
+    épaisseurs.
+Δ   Le faïençage est particulière-
+    ment inesthétique : c'est une mi-
+                                                                                                                          Séchage
+                                                                                                       Évaporation
+                                                                                               Mur
+
+
+
+
+                                                                                                                                    Mur
+
+
+
+
+                                                                                                                                                                                      Mur
+                                                                                                                                                                           Retrait
+
+
+
+
+    crofissuration en forme de résille
+                                             Eau
+
+
+
+
+    qui affecte la surface de l'enduit.
+    Les finitions talochées et talo-
+    chées éponge sont particulière-
+    ment sensibles à ce désordre.
+                                                                                                                                                  Support                    Décollement
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.03           DÉSORDRES DES ENDUITS MONOCOUCHES
+  2/4
+
+
+
+
+    Δ Le décollement est consécutif              ACTION DU RAYONNEMENT SOLAIRE (SCHÉMA 3)                       Δ Respecter les épaisseurs recom-
+        à une mauvaise préparation du                                                                               mandées par le fabricant (mini-
+                                                          Température de surface en °C
+        support (support farineux ou             70                                                                 mum 10 mm).
+        trop lisse, présence de pous-            60
+                                                 50
+                                                                                              Noir              Δ   Protéger les têtes de murs et ap-
+        sières, humidification insuffi-          40
+                                                                                              Teintes foncées       puis d'ouvertures par un débord,
+                                                                                              Teintes claires
+        sante, support gorgé d'eau, ab-          30                                                                 muni d'une goutte d'eau.
+        sence de couche d'accrochage…).          20                                           Blanc             Δ   Incorporer des renforts d'arma-
+    Δ
+                                                 10
+        Le brûlage (ou grillage) est dû à         0                                            Temps                tures dans l'enduit à la jonction
+                                                      4      8    10    16    20    24   48    en heures
+        une dessiccation prématurée de                                                                              de deux matériaux support diffé-
+        l'enduit par absorption d'eau par                                                                           rents et au niveau des planelles
+        le support ou du fait des condi-         Δ Choisir un produit adapté au                                     de planchers.
+        tions atmosphériques (temps                support :                      Δ                                 Privilégier l'application en deux
+        chaud, vent sec).                          Ω bien préparer le support ;                                     passes.
+    Δ   Le cisaillement du support                 Ω utiliser une couche d'accro- Δ                                 Ne pas entreprendre les travaux
+        se rencontre sur les supports à                chage (gobetis).                                             d'enduits en période de gel, sur
+        faibles caractéristiques méca-           Attention, pour les maçonneries                                    des supports chauds ou dessé-
+        niques (béton cellulaire). Il est        isolantes avec isolation thermique                                 chés, par vent sec, et pour les
+        dû à l'application d'un enduit ina-      par l'intérieur ou répartie de type                                enduits colorés de parement,
+        dapté à ce type de support.              Rt3, les enduits monocouches OC3                                   par temps de pluie, brouillard
+                                                 ne sont pas recommandés.                                           ou forte humidité, afin d'éviter la
+    3. LES BONNES                                                                                                   formation d'efflorescences. On
+    PRATIQUES                                    Respecter les conditions                                           admet habituellement une tem-
+                                                 d'application                                                      pérature extérieure comprise
+    Respecter les conditions de                  Δ Respecter la quantité d'eau de                                   entre + 5 °C et + 30 °C.
+    préparation du support et                      gâchage.                        Δ                                Protéger l'enduit par bâchage
+    d'application du produit                     Δ Respecter le temps de malaxage.                                  après application en cas de
+    Δ Attention aux enduits de cou-              Δ Toujours gâcher le produit dans                                  temps chaud, de vent sec ou de
+        leur foncée, sensibles aux chocs              les mêmes conditions sur une                                  pluie.
+        thermiques. (schéma 3)                        même façade.
+
+
+
+
+        À CONSULTER
+        Δ NF  DTU 26.1 : Travaux d'enduits
+          de mortiers
+        Δ RAGE   : Maçonnerie isolante avec
+          isolation thermique par l'intérieur             L’ESSENTIEL
+            ou répartie. Partie 1 (§4.2). Août            Δ Choisir l'enduit adapté au support.
+        Δ
+            2014
+            Cahier du CSTB 1633 « Définition              Δ Respecter les conditions d'application (NF DTU 26.1).
+            et classification des ouvrages de             Δ N'entreprendre les travaux que dans les conditions climatiques
+            revêtement extérieur de façades                  appropriées.
+            en maçonnerie ou en béton »
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                           ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                         FICHE
+                                                       DÉSORDRES DES ENDUITS MONOCOUCHES                                D.03
+                                                                                                                             3/4
+
+
+4. L’ŒIL DE L’EXPERT
+                                                               Décollement d’enduit
+                                                               Le décollement est consécutif à une mauvaise pré-
+                                                               paration du support : support trop lisse, absence de
+                                                               couche d’accrochage.
+                                                               Attention également aux supports farineux ou trop
+                                                               lisses, poussiéreux, trop secs ou poreux ou trop
+                                                               humides, etc.
+
+
+
+
+Photo © DR - AQC
+
+
+                                                              Décollement d’enduit
+                                                              Les Règles de l’art imposent l’incorporation de renforts
+                                                              d’armatures dans l’enduit notamment à la jonction de
+                                                              deux matériaux supports différents et au niveau des
+                                                              planelles de planchers. Ces renforts limitent le risque
+                                                              de fissuration en répartissant les contraintes dans
+                                                              l’enduit.
+                                                              Le béton doit être rugueux et propre pour permettre
+                                                              une bonne adhérence de l’enduit. Les supports fa-
+                                                              rineux doivent être brossés. Les supports poreux
+Photo © DR - AQC                                              doivent être humidifiés. Les traces d’huiles de décof-
+                                                              frages sont éliminées. Sur béton lisse, une couche d’ac-
+                                                              crochage (gobetis) est obligatoire.
+
+                                                               Nuançage d’enduit
+                                                               Le nuançage désigne des variations de couleur ou d’as-
+                                                               pect de l’enduit. Il résulte de l’irrégularité de la prépa-
+                                                               ration de l’enduit (dosage en eau notamment et temps
+                                                               de malaxage) ou de l’application (reprises, épaisseur
+                                                               irrégulière, uniformité du talochage…).
+                                                               Les conditions d’application peuvent être en cause. Les
+                                                               temps secs, chauds, ventés ou changeants requièrent
+                                                               des précautions.
+
+Photo © DR - AQC
+
+
+                                                               Défaut de pente
+                                                               Le rejet d’eau en tête du revêtement collé entraîne des
+                                                               stagnations d’eau, qui génèrent le développement des
+                                                               mousses et le dépôt de salissures urbaines.
+
+
+
+
+Photo © DR - AQC
+
+
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.03          DÉSORDRES DES ENDUITS MONOCOUCHES
+  4/4
+
+
+
+                                                                Spectre et fissuration d’enduit
+                                                                Les spectres résultent du différentiel de la prise de l’en-
+                                                                duit entre les joints des maçonneries et la surface cou-
+                                                                rante. Ce phénomène, lié à la nature des joints (porosi-
+                                                                té, largeur, arasement…), est réduit par l’application de
+                                                                l’enduit en deux passes et le respect des épaisseurs.
+                                                                La fissuration est due au comportement du support
+                                                                (angles de baies, au droit des planchers) mais égale-
+                                                                ment au retrait de l’enduit lié aux conditions d’appli-
+                                                                cation (excès d’eau, humidification insuffisante du sup-
+    Photo © DR - AQC                                            port, temps sec, venté, chaud, variations d’épaisseur…).
+
+
+
+                                                                Faïençage d’enduit
+                                                                Le faïençage est une microfissuration en forme de ré-
+                                                                sille qui affecte la surface de l’enduit. Les finitions talo-
+                                                                chées et talochées éponge sont particulièrement sen-
+                                                                sibles à ce phénomène. Sauf composition particulière
+                                                                de quelques enduits monocouches sous Avis Tech-
+                                                                niques, le DTU et les certificats réservent ces aspects
+                                                                talochés aux petites surfaces (bandeaux, entourage de
+                                                                baies…).
+
+    Photo © DR - AQC
+
+
+
+
+   Pour en savoir plus :
+                                                                                Retrouvez l’ensemble des
+                                                                                Fiches pathologie bâtiment sur :
+                                                                                www.qualiteconstruction.com
+                                                                                et sur l’AppliQC
+    www.groupe-sma.fr
+    www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

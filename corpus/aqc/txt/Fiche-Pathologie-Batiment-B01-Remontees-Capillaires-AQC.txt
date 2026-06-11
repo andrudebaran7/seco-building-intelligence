@@ -1,0 +1,192 @@
+                                                                             STRUCTURES ET GROS ŒUVRE                  FICHE
+                                                                                                                       B.01
+                                                                                                                            1/4
+
+
+
+                                            REMONTÉES
+          Photo: © AQC - M. Compte - 2010
+                                            CAPILLAIRES
+
+1. LE CONSTAT
+On observe en façade des traces frangées ou ondu-                entraîne l’apparition de salpêtre, des moisissures, le
+lées qui peuvent s’élever à plusieurs mètres au-des-             décollement des revêtements et le pourrissement des
+sus du sol. La partie de façade située en dessous de             pièces de bois qui sont au contact.
+ces traces est généralement plus sombre que la par-              Les maçonneries anciennes sont fréquemment le siège
+tie de façade située au-dessus et saturée d’humidité.            de remontées capillaires, notamment avant réhabilita-
+Dans les cas extrêmes, les enduits et peintures de               tion, mais aussi parfois après si ces remontées ne sont
+façade se décollent et laissent apparaître du salpêtre.          pas, ou mal, traitées. En revanche, ce phénomène af-
+L’humidité, aussi bien à l’intérieur qu’à l’extérieur,           fecte très rarement les constructions récentes.
+
+
+
+
+2. LE DIAGNOSTIC
+                                            Absence d’arase étanche                    réalisée sur toute la section ho-
+L’eau présente dans le sol im-              (ou coupure de capillarité)                rizontale de tous les murs au
+prègne les embases de murs de               Les constructions anciennes n’en           contact du sol. C’est aussi le cas
+maçonnerie enterrée, puis elle re-          comportent généralement pas,               de certains traitements curatifs
+monte par capillarité à l’intérieur de      sauf emploi de pierres très peu            par injection de résine lorsque
+ceux-ci. Cette humidité s’évapore           capillaires type schistes, ardoises,       celle-ci n’imprègne pas la maçon-
+par les parements hors-sol du mur,          grès ou granit, en soubassement            nerie de manière homogène.
+abandonnant les sels minéraux               des murs porteurs.
+qu’elle avait dissous dans les ma-          Il est très rare qu’elle soit omise en   Présence de parements
+tériaux. Ce sont ces dépôts de sels         construction neuve de maçonnerie.        ou de revêtements de
+minéraux, et des développements                                                      façade peu perméables à
+de micro-organismes, qui consti-            Mauvaise exécution de                    la vapeur d’eau (enduits de
+tuent les franges visibles en façade.       l’arase étanche                          mortier, doublages, revêtements
+Ce désordre concerne essentiel-             Δ Arase étanche positionnée sous         d’imperméabilité)
+lement les murs construits en ma-               la surface des sols extérieurs :     C’est un facteur aggravant plus
+tériaux capillaires : pierres tendres,          l’eau provenant du sol passe au-     qu’une cause. En effet, ces pare-
+briques, bois et panneaux à base                dessus de l’arase étanche qui est    ments empêchent l’évaporation au
+de bois par exemple. Mais il peut               alors inefficace.                    plus près du sol de l’eau présente
+aussi affecter les enduits de fa-           Δ   Arase étanche positionnée à          dans la maçonnerie. Celle-ci mi-
+çade (s’ils touchent le sol) même               trop faible hauteur au-dessus du     gre alors toujours plus haut pour
+si la maçonnerie est correctement               sol extérieur, le bas des murs est   trouver une surface d’évaporation
+protégée contre les remontées                   éclaboussé par les eaux de rejail-   suffisante.
+capillaires.                                    lissement, l’efficacité de l’arase
+                                                étanche est alors partiellement      Effet mèche
+                                                compromise.                          Parfois, l’arase étanche étant cor-
+                                            Δ   Arase étanche discontinue. C’est     rectement réalisée, seul l’enduit de
+                                                le cas lorsqu’elle n’est pas bien    façade est affecté de remontées
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           STRUCTURES ET GROS ŒUVRE
+B.01            REMONTÉES CAPILLAIRES
+2/4
+
+
+      capillaires. Cela se produit lorsque         Δ un traitement curatif                               PROTECTION
+                                                                                                    CONTRE LES REMONTÉES
+      l’enduit de façade a été réalisé plus            Il existe de nombreuses tech-
+                                                                                                      D’HUMIDITÉ DU SOL
+      bas que l’arase étanche et que l’en-             niques pour tenter de mettre                    (source : NF DTU 20.1)
+      duit est inadapté à cet usage.                   fin aux remontées capillaires :
+                                                       injections de résines, inserts en
+                                                       tôles d’acier inoxydable, siphons    Maçonnerie                   Plancher du
+                                                                                            en élévation                 rez-de-chaussée
+      3. LES BONNES                                    atmosphériques, procédés par
+      PRATIQUES                                        électro-osmose ou électropho-
+                                                       rèse, procédés électroniques ou      Chaînage en
+                                                                                            béton armé
+      En construction neuve                            électromagnétiques, etc. Outre
+      Réaliser une arase étanche rigou-                la question du choix, se pose            5 cm
+      reusement continue sur tous les                  celle de la possibilité de mise en
+      murs porteurs, disposée 5 cm ou                  œuvre (accès impossible sur une
+                                                                                                                         Maçonnerie de
+      15 cm au-dessus de tous les sols                 des faces, par exemple) ;                                         soubassement
+      extérieurs, avec des matériaux               Δ   un traitement palliatif
+      étanches, selon les prescriptions                Ce type de traitement ne met-
+      de la norme NF DTU 20.1.                         tra pas fin aux remontées ca-
+      NB : en cas d’enduit extérieur, son              pillaires mais peut en réduire
+      arase inférieure doit être position-             notablement les conséquences :
+      née au-dessus de la coupure de                   drainage périphérique raccor-
+                                                                                             Chaînage en                  Plancher du
+      capillarité, sauf si l’enduit est conçu          dé sur un exutoire pour réduire       béton armé                   rez-de-chaussée
+      pour un emploi jusqu’au sol.                     la quantité d’eau en pied des
+      ATTENTION : les exigences du                     murs ; mise à nu des maçonne-
+      DTU 20.1 posent problème au re-                  ries de façade pour accélérer         Habillage
+      gard de la réglementation d’acces-               l’évaporation de l’eau ; doublage
+      sibilité des personnes à mobilité                avec vide d’air ventilé côté inté-
+                                                                                               15 cm                      Coupure de
+      réduites : seuils inférieurs à 20 mm,            rieur des murs.                                                    capillarité
+      longueur et pente des rampes
+      limitées.
+
+      En travaux sur existant
+      Réaliser un diagnostic préalable :
+      pour détecter la présence d’humi-
+                                                                                              Revêtement
+      dité, vérifier si celle-ci est bien d’ori-                                              exterieur
+      gine ascensionnelle et non liée à des
+      infiltrations ou de la condensation.
+      En présence de remontées, il faut                                                       Ventilation
+      analyser si la réalisation d’une arase
+      étanche efficace (dans les conditions
+      altimétriques visées plus haut) est
+      réalisable ou pas. Si elle ne l’est pas,
+      voici les solutions envisageables :
+                                                                                              HA 8 ou HA10
+                                                                                              tous les 0,25 m
+
+
+         À CONSULTER
+         Δ NF DTU 20.1 : Ouvrages en ma-               L’ESSENTIEL
+           çonnerie de petits éléments - Pa-
+             rois et murs                              Δ En travaux sur existant réaliser un diagnostic préalable.
+         Δ   NF EN 771-1, 4 et 6 :                     Δ Bien positionner et bien réaliser l’arase étanche, en construc-
+             Spécifications pour éléments de              tion neuve.
+             maçonnerie
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                              STRUCTURES ET GROS ŒUVRE                FICHE
+                                                                                REMONTÉES CAPILLAIRES                 B.01
+                                                                                                                           3/4
+
+
+4. L’ŒIL DE L’EXPERT
+
+
+
+
+Photo: © AQC - M. Compte – 2010                                Photo: © AQC - M. Royer – 2014
+Remontée d’humidité dans les murs d’une maison                 Remontées d’humidité dans une paroi de façade
+d’habitation (absence d’arase étanche : construction           enduite.
+ancienne constituée de mur en pierre absorbant l’eau).
+
+
+
+
+Photo: © AQC - M. Bajeux – 2011                                Photo: © GIE SOCABAT
+Remontées capillaires dans une façade avec un mur en           Remontée d’humidité dans les murs d’une maison
+pierre taillée. Ces remontées peuvent être issues d’un         d’habitation (façade située en contrebas d’un talus
+sol fortement humide ou bien d’un rejaillissement de           sans canalisation-drainage des eaux de pluie et de
+la pluie tombant sur le trottoir et par ricochet sur les       ruissellement).
+murs de façade.
+
+
+
+
+                >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           STRUCTURES ET GROS ŒUVRE
+B.01            REMONTÉES CAPILLAIRES
+4/4
+
+
+
+
+      Photo: © GIE SOCABAT                                           Photo: © AQC - M. Markiewicz - 2008
+      Mise en œuvre d’une coupure de capillarité sous le             Développement de moisissures sur une cloison légère
+      premier rang de briques posé sur plancher du rez-de-           en plaques de plâtre cartonnées, dû à des remontées
+      chaussée. (Mise en œuvre souvent rencontrée dans le            de l’humidité enfermée dans le ravoirage.
+      cadre de construction de maisons individuelles). L’écart
+      entre le niveau extérieur et la coupure de capillarité est
+      ici déjà inférieur à 15 cm. Ce cas montre l’importance
+      du niveau fini extérieur (non encore finalisé sur ce
+      chantier) sur la mise en œuvre de la coupure de ca-
+      pillarité afin de pouvoir se prémunir des remontées
+      capillaires
+
+
+
+
+      Photo: © GIE SOCABAT                                           Photo: © AQC - Mme Lefèvre
+      Remontée d’humidité dans les murs d’une maison                 Remontées d’humidité dans les murs d’un immeuble
+      d’habitation (absence d’arase étanche: construction            d’habitation en ville.
+      ancienne constituée de mur en pierre absorbant l’eau).
+
+
+
+
+      Pour en savoir plus :
+                                                                                        Retrouvez l’ensemble des
+                                                                                        Fiches pathologie bâtiment sur :
+                                                                                        www.qualiteconstruction.com
+                                                                                        et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                                  © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,214 @@
+                                                                  FONDATIONS ET INFRASTRUCTURES                    FICHE
+                                                                                                                   A.01
+                                                                                                                        1/4
+
+                                        MOUVEMENTS DE FONDATIONS
+                                        DE MAISONS INDIVIDUELLES
+                                        1° PARTIE : TASSEMENTS COURANTS
+                    Photo © DR - AQC
+
+
+
+
+1. LE CONSTAT
+Les maisons individuelles sont souvent fondées superfi-    Ce phénomène impose ainsi des déplacements iné-
+ciellement par des semelles en béton armé.                 gaux aux différentes parties du bâtiment qui est obligé
+Les charges apportées sur ces fondations provoquent        de s’y adapter. En l’absence de dispositions construc-
+des déformations du sol, qui dépendent de sa com-          tives adéquates, cela peut alors se traduire par l’appari-
+pressibilité. Comme il repose sur le sol, le bâtiment ne   tion de fissures ou lézardes sur les murs. Les aménage-
+peut alors que suivre ces déformations.                    ments intérieurs, surtout s’ils sont rigides (cloisons en
+La déformation du sol est rarement homogène d’une          carreaux de plâtre, carrelage), peuvent aussi subir les
+semelle à l’autre, sur l’ensemble du bâtiment. On parle    contrecoups de ces mouvements.
+alors de tassement différentiel.                           On estime qu’un tassement différentiel des fondations
+                                                           de l’ordre du centimètre peut suffire à induire ces
+                                                           phénomènes.
+
+
+
+
+2. LE DIAGNOSTIC                       rocheuses ou comporte une                la semelle ; pour y remédier, il faut
+                                       couche déformable (argileuse, li-        augmenter sa rigidité longitudinale
+Les maisons individuelles concer-      moneuse, sableuse).                      et pour y parvenir il faut augmenter
+nées ont généralement été                                                       l’épaisseur de la semelle.
+construites en maçonnerie (briques     Trois conditions concourent              En augmentant la hauteur de la
+ou blocs de béton), sans sous-sol      au déclenchement de la                   semelle :
+complet, sur des fondations en bé-     fissuration.                             Δ  on approfondit automatique-
+ton armé de faible profondeur (en                                                  ment l’horizon de fondation, ce
+général entre 0,50 m et 1 m).          Un sol compressible sous le                 qui, dans la plupart des cas, ré-
+Ces fondations ont pour fonction       niveau d’assise des fondations              pond à l’objectif recherché ;
+de transmettre les charges du          La présence de sols compressibles        Δ  on augmente l’effet répartiteur
+bâtiment (poids des matériaux et       dans cette limite d’influence des           de la semelle et diminue la va-
+charges d’exploitation) dans le sol.   fondations peut amener le sol à se          riation des déformations sous
+Celui-ci est impacté jusqu’à une       déformer trop fortement sous le             portance et descente de charges
+profondeur qui ne dépasse pas,         poids des structures.                       variables au cours de la vie du
+en principe, 3 à 4 m sous le niveau                                                bâtiment.
+d’assise des fondations.               Des charges irrégulièrement
+Si, dans ces limites, le terrain est   réparties aux fondations                 La fragilité de la superstructure
+composé d’éléments rocheux de          Ce déséquilibre des efforts sur le sol   Les déformations différentielles du
+façon homogène, aucun incident         provoque un tassement différen-          sol sont, pour la superstructure,
+grave n’est à craindre. Le pavillon    tiel. Le sol se déformera donc plus      des déplacements imposés qui en-
+risque, en revanche, de subir les      ou moins selon les points d’appui.       gendrent des contraintes dans la
+conséquences de mouvements             (voir schéma ci-après). La pathologie    superstructure. Les points les plus
+du sol si celui-ci contient, de ma-    provient essentiellement d’un mau-       faibles et notamment les joints de
+nière hétérogène, des inclusions       vais fonctionnement longitudinal de      maçonnerie seront les premiers à
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            FONDATIONS ET INFRASTRUCTURES
+A.01             MOUVEMENTS DE FONDATIONS DE MAISONS INDIVIDUELLES
+2/4              1° PARTIE : TASSEMENTS COURANTS
+
+
+                       SCHÉMA DE TRANSMISSION DES CHARGES (Q) D’UN PAVILLON AU SOL                                    Δ La rupture d’une canalisation en-
+                                                                                                                          terrée ou d’un regard d’eau plu-
+                                     Q1 est ici plus grande que Q2 et Q3                                                  viale, voire simplement la chute
+          Maçonnerie       Q1                                                            Poteaux
+          de pignon                                                                       en BA                           de précipitations dans les fonds
+          fortement                         Semelle en béton armé                      peu chargés
+          chargée                              (p1 > p2 ou p3
+                                                                               Q2                         Q3              de fouilles pendant l’exécution.
+                                                                                                                          Elles provoquent une arrivée
+                                     S1            Terre végétale                        S2                      S3       d’eau qui change localement la
+                           p1                                                  p2                          p3
+                                                                                                                          consistance du sol en pied de
+                                                Couche peu épaisse                                                        mur.
+                                                 de gravier sableux
+                                                      compact                                                         Δ   Le défaut de nivellement du ter-
+                                                                                                                          rain, conjugué à une absence de
+                                             TD Inévitable                            TD Négligeable
+                                                                                                                          drainage, qui fait qu’une partie
+                                           entre S1, S2 et S3                          entre S2 et S3                     du ruissellement s’accumule
+                                                                                                                          contre la maison et s’infiltre
+                                                 Courbes « limites » d’inﬂuence des charges dans le sol
+                                                                « Bulbes des pressions »                                  jusqu’aux fondations.
+
+                                            Couche compressible épaisse             TD = Tassement Diﬀérentiel
+                                                                                                                      Δ   La présence proche de certains
+                                          (argile, marne ou limon argileux)                                               arbres, notamment en terrain
+                                                                                                                          argileux sensible au retrait gon-
+                                                                                                                          flement (voir fiche A2).
+
+      ne pas résister à ces contraintes.                              Les autres causes de
+      L’ensemble semelle de fondation /                               désordres                                       3. LES BONNES
+      maçonnerie constitue de fait un                                 Δ L’implantation du bâtiment sur PRATIQUES
+      ensemble dont la rigidité dépasse                                 un sol hétérogène, renfermant
+      celle de la semelle. En fonction de                               des inclusions rocheuses qui   Δ Faire une étude de sol qui doit
+      la réalisation et de la conception de                               constituent autant de points                    tenir compte de la construction
+      la maison, la coupure de capillarité                                durs ou, au contraire, des débris               projetée et indiquer les valeurs
+      peut constituer une couche de glis-                                 végétaux (tourbe) ou des ma-                    de tassement prévisibles. C’est
+      sement entre fondation et mur en                                    tières organiques en décomposi-                 à partir de ces valeurs que le
+      élévation.                                                          tion (vase) qui forment des zones               BET structures sera à même de
+      Les chaînages sont déterminants                                     compressibles.                                  dimensionner son ouvrage. Les
+      pour faire fonctionner l’ensemble                               Δ   L’implantation de la maison                     sols compressibles ou argileux
+      semelle/façade de façon compatible.                                 directement sur la terre végé-                  nécessitent une vigilance toute
+                                                                          tale de surface ou à si faible                  particulière et l’adoption de me-
+      NB : lorsque des fouilles impor-                                    profondeur que le sol n’est pas                 sures spécifiques (voir fiche A2
+      tantes sont faites à proximité im-                                  à l’abri du gel (se référer au FD               déjà citée).
+      médiate de fondations existantes, il                                P18-326 Béton - Zones de gel en             Δ   Respecter les autres conditions
+      y a aussi lieu de tenir compte :                                    France).                                        de mise en œuvre des fonda-
+      Δ  d’éventuelles proximités entre                               Δ   La présence juxtaposée de deux                  tions superficielles fixées par le
+         semelles faisant que leurs bulbes                                remblais d’âge différent sous les               DTU 13.11.
+         de pression se croisent. Dans                                    fondations : un ancien, peu com-                Ω  Augmenter la hauteur de la
+         ce cas, une partie des effets de                                 pressible, et un récent, mal com-                  semelle, approfondir l’horizon
+         chaque semelle se cumule ;                                       pacté lors des travaux.                            de fondations.
+      Δ  de semelles à des niveaux diffé-                             Δ   La création ultérieure d’une                    Ω  Considérer la rigidité de la se-
+         rents (situation rencontrée sur                                  plate-forme contre une façade                      melle de fondations dans les
+         des terrains en pente) suscep-                                   du pavillon. Elle crée une charge                  3 dimensions et notamment
+         tibles de ce fait d’interagir entre                              parasite excessive au droit de la                  dans le sens longitudinal.
+         elles.                                                           semelle de ce mur.                              Ω  Veiller à la bonne répartition
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                         FONDATIONS ET INFRASTRUCTURES                 FICHE
+                                    MOUVEMENTS DE FONDATIONS DE MAISONS INDIVIDUELLES                                  A.01
+                                                      1° PARTIE : TASSEMENTS COURANTS                                       3/4
+
+
+       des aciers de ferraillage du          Δ Bien décaper et nettoyer le fond
+       béton des semelles (haut, bas,            de fouille. Consulter le géo-
+       cadres).                                  technicien qui a réalisé l’étude
+    Ω  Insister sur la bonne concep-             initiale à la réception et valida-
+       tion et la bonne mise en                  tion des fonds de fouille afin de
+       œuvre de chaînages. Plus le               s’assurer que l’on se fonde sur
+       différentiel entre hauteur de             le bon sol et dans les conditions
+       semelle et hauteur de mur                 d’hygrométrie requises.
+       dans une MI est important,            Δ   Faire une visite de fond de fouille
+       plus le rôle des chainages est            après terrassement et avant
+       déterminant, c’est générale-              réalisation des fondations, en
+       ment la partie d’ouvrage la               présence du Maître d’Ouvrage,
+       plus mal traitée !                        du Constructeur ou du Maître
+Δ   Ne pas utiliser en fondation les             d’œuvre, du géotechnicien éven-
+    procédés avec béton de fibre,                tuel, du terrassier, du maçon
+    qui relèvent d’un Avis Technique,            pour valider la consistance du
+    sans avoir informé l’assureur.               sol. Le cas échéant, effectuer un
+Δ   Dans le cas de constructions sur             terrassement complémentaire
+    terrain en pente :                           en cas de portance insuffisante
+    Ω  respecter la pente maxi entre             ou d’hétérogénéité.
+       deux semelles successives,            Δ   Reporter le coulage des fon-
+       qui est limitée à une pente de            dations en cas de pluies trop
+       3 pour 1 ;                                abondantes.
+    Ω  descendre le fond de fouille
+       dans les sols de même consis-
+       tance (en général à profon-
+       deur constante par rapport au
+       sol naturel) ;
+
+
+
+
+    À CONSULTER
+    Δ NFwww.georisques.gouv.fr
+    Δ riegéotechnique
+          P 94-500 : Missions d’ingénie-
+                       - Classification et
+        spécification
+    Δ NF EN 1997-1 : Calcul géotech-
+      nique (Eurocode 7) + Amende-
+        ment A1 + son Annexe nationale
+    Δ NF  EN 1997-2 : Eurocode 7,
+      Reconnaissance des terrains et
+        essais
+    Δ FD  P 18-326 : Béton - Zones de
+      gel en France
+    Δ DTU   13.11 : Fondations superfi-
+      cielles
+    Δ DTU   13.12 : Règles pour le calcul        L’ESSENTIEL
+      des fondations superficielles
+    Δ Communiqué                                 Δ Faire une étude de sol.
+                      n° 54 de la C2P re-
+      latif aux procédés de réalisation          Δ Faire prendre en compte les conclusions de cette étude lors
+        de fondations superficielles par            du dimensionnement des fondations (armatures, dimension-
+        semelles filantes en béton de               nement, profondeur).
+        fibres
+
+
+                 >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           FONDATIONS ET INFRASTRUCTURES
+A.01            MOUVEMENTS DE FONDATIONS DE MAISONS INDIVIDUELLES
+4/4             1° PARTIE : TASSEMENTS COURANTS
+
+      4. L’ŒIL DE L’EXPERT
+                                                                 Le sol encaissant non homogène provoque des
+                                                                 tassements de la structure. Celle-ci est insuffisamment
+                                                                 rigide pour encaisser ces tassements différentiels.
+
+
+
+
+      Photo © DR - AQC
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

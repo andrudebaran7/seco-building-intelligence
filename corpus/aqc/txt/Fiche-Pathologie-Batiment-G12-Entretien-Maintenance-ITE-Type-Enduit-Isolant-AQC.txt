@@ -1,0 +1,262 @@
+                                                                                ENTRETIEN / MAINTENANCE               FICHE
+                                                                                                                      G.12
+                                                                                                                          1/5
+
+
+
+                                          ITE DE TYPE ENDUIT
+                                          SUR ISOLANT
+
+1. LE CONSTAT
+                                                              Δ les facteurs environnementaux :
+Les façades exposées aux intempéries et autres agres-           Ω pollution atmosphérique,
+sions subissent des dégradations, en particulier celles         Ω pollution biologique avec développement de
+revêtues d’une isolation thermique par l’extérieur (ITE).           micro-organismes,
+Ces systèmes d’isolation assurent un rôle important           Δ l’architecture des façades :
+dans le cadre de la transition énergétique vers un habi-        Ω présence de coulures aux points singuliers,
+tat plus économe en énergie. Les ITE participent égale-         Ω cloquages selon le type de finition,
+ment à l’esthétique finale des façades.                         Ω fissuration et décollements,
+                                                                Ω mauvaise tenue dans le temps des profilés de pro-
+Performants d’un point de vue thermique, ces procé-                 tection périphériques,
+dés restent fragiles et imposent une grande vigilance           Ω spectres d’isolants,
+quant à leur vieillissement de par :                          Δ des actes malveillants ou accidentels (tags, chocs…).
+Δ leur constitution (nature des isolants, mode de fixa-
+  tions, protection rapportée) ;                              Il est donc essentiel d’assurer un entretien régulier de
+Δ la finesse des protections (briquette, peinture miné-       ces ITE dont toute dégradation de la finition protec-
+  rale, peinture organique) ;                                 trice aura un impact défavorable sur la durabilité du
+                                                              système.
+
+
+
+
+2. L'USAGE
+Le principal avantage de l’ITE est la suppression des         Δ conservation de la garde à l’eau en partie basse de
+ponts thermiques linéaires. Les principales recomman-             l’ITE (attention aux remblaiements, massifs à fleurs/
+dations à la bonne conservation de l’ITE sont :                   plantes décoratifs, accumulation de neige) ;
+Δ absence de fixation (percements) dans le complexe           Δ   éloignement des aires de jeu (ballon) par rapport aux
+  (objets décoratifs, maintien d’éléments ou équi-                façades ;
+  pements techniques tels que PAC, brise-soleil ou            Δ   protections mécaniques de type arceau pour préve-
+  stores, volets battants, enseignes) ;                           nir des chocs en bordure de parking.
+Δ interdiction des appuis ponctuels (échelle, stockage,
+  charges lourdes) contre les façades ;
+Δ maintien en bon état des ouvrages qui contribuent à
+  l’étanchéité de la façade (appuis de fenêtres, solins,
+  larmiers, bandeaux, chéneaux, gouttières, descentes
+  d’eau…) ;
+
+
+
+
+                      >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENTRETIEN / MAINTENANCE
+G.12          ITE DE TYPE ENDUIT SUR ISOLANT
+2/5
+
+
+                3. LES POINTS D'ATTENTION INCONTOURNABLES
+      Toute apparition de dommage autre qu’esthétique                Δ Vérification des accès pour l’entretien et de la ca-
+      (fissuration, déformation, présence d’humidité dans le             pacité portante des voiries, terrasses ou dalles (na-
+      complexe...) doit inciter à des diagnostics et réparations         celles, échafaudages).
+      rapides. La traçabilité des produits appliqués facilite        Δ   Prise en compte des règles de sécurité pour le tra-
+      tout entretien ultérieur.                                          vail en hauteur.
+                                                                     Δ   Vérification de la garde-à-l’eau en tout point, y
+      Réalisation d’un diagnostic préalable selon les règles             compris terrasses et balcons.
+      ETICS, avec reconnaissance des supports et détermi-            Δ   Protection, traitement et entretien concomitants
+      nation du point de rosée (maintien des transferts hy-              des ouvrages périphériques en interface (menui-
+      grométriques initiaux, perméance des parois, Sd). Ce-              series extérieures, couvertines et bavettes, volets
+      lui-ci impactera l’importance et la nature des travaux à           battants, autres ouvrages présents en habillage de
+      réaliser.                                                          façade).
+      Δ  Prise en compte de la présence d’isolants sen-              Δ   Réalisation d’études particulières pour toute in-
+         sibles à l’eau et/ou d’ossatures bois (développement            corporation d’équipements en façades (report des
+         rapide de pourrissements pouvant affecter le com-               charges aux supports et traitement des étanchéités
+         portement thermique et la stabilité de l’ouvrage).              autour des fixations).
+      Δ  Vérification préalable de l’existence et du bon fonc-       Δ   Vérification du comportement au feu des façades
+         tionnement de la ventilation des locaux qui devra               qui ne devra pas être aggravé. En cas de rénovation
+         être adaptée à toute intervention d’entretien ou de             lourde, une mise en conformité selon l’IT 249 est de
+         réparation.                                                     rigueur.
+      Δ  Prise en compte des surépaisseurs générées par
+         l’entretien et respect des limites de propriétés, des
+         éventuelles largeurs de cheminements extérieurs,
+         des accès PMR, des réductions potentielles de lumi-
+         nosité via les menuiseries extérieures.
+
+
+
+
+      4. LE RÔLE DE L’USAGER
+                              L’usager peut agir en premier lieu pour main-       Δ vérification régulière de la protection
+                              tenir l’ouvrage en bon état de conservation :           du système, des ouvrages annexes
+                              Δ  observation régulière des façades pour               (joints de fractionnement, de dilatation,
+                                 apprécier leur vieillissement afin d’agir le         protections périphériques bavettes,
+                                 plus rapidement possible ;                           couvertines...) ;
+                              Δ  intervention directe (lavage adapté              Δ   observations à l’intérieur des loge-
+                                 « basse pression » avec produit nettoyant            ments : moisissures révélant un défaut
+                                 compatible) lors d’apparition de salis-              provenant du complexe d’isolation ou
+                                 sures et algues/mousses sur les parties              une défaillance de la ventilation. Faire
+                                 accessibles en respectant les précau-                effectuer un diagnostic précis pour y
+                                 tions sécuritaires et les préconisations             remédier ;
+                                 des fournisseurs du système d’ETICS sur          Δ   choix d’un professionnel qualifié et
+                                 les produits à utiliser ;                            assuré pour les activités dédiées.
+                              Δ  appel à un professionnel pour des
+                                 dommages plus importants ou inacces-
+                                 sibles (fissures déformations...), directe-
+                                 ment ou par l’intermédiaire d’un syndic ;
+
+
+
+                >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                        ENTRETIEN / MAINTENANCE                 FICHE
+                                                           ITE DE TYPE ENDUIT SUR ISOLANT                       G.12
+                                                                                                                    3/5
+
+
+4. LE RÔLE DE L’USAGER (SUITE)
+              Nota : plusieurs professionnels du bâtiment         Δ Le couvreur : si des fuites d’eau sont
+              de différentes spécialités sont à même de               constatées sur la façade provenant des
+              protéger et d’entretenir une isolation ther-            dispositifs de toiture, des évacuations
+              mique par l’extérieur.                                  d’eaux pluviales, faire intervenir un cou-
+              Δ Le façadier : spécialisé dans la rénova-              vreur avant l’entretien de l’ITE.
+                tion et l’entretien des façades. Il peut être     Δ   Le professionnel du bâtiment tout
+                sollicité pour nettoyer la façade, réparer            corps d’état : il peut agir sur l’intégra-
+                les fissures ou remplacer le revêtement               lité d’une maison ou d’un collectif, dont
+                extérieur.                                            l’isolation.
+
+
+
+
+5. LE RÔLE DU PROFESSIONNEL
+              Il doit :                                           Δ se conformer à la réglementation du tra-
+              Δ  se conformer aux règles ETICS ;                      vail en hauteur, à celle sur l’intervention
+              Δ  se faire assister par un maître d'œuvre              à proximité des réseaux aériens (DICT) ;
+                 spécialisé pour les surfaces dépassant           Δ   obtenir, préalablement aux travaux, les
+                 250 m2 ;                                             autorisations administratives (autorisa-
+              Δ  s’assurer de l’absence d’amiante dans le             tion de voirie) ;
+                 complexe en cas de rénovation lourde             Δ   protection du chantier, bâchage au sol et
+                 (diagnostic amiante ou plomb) ;                      sur échafaudage afin de limiter la diffu-
+              Δ  vérifier si le système d'ITE prévu est               sion des particules (polystyrène, projec-
+                 conforme au regard des risques d’incen-              tion de peinture) et l’endommagement
+                 die et de la zone sismique concernée ;               des biens tiers ;
+              Δ  vérifier l'état des joints de dilatation exis-   Δ   assurer son devoir de conseil auprès
+                 tants et leur report dans le complexe ITE ;          du maître d’ouvrage ou du syndic. Par
+              Δ  vérifier la pérennité des protections pé-            exemple, le maître d’ouvrage doit être
+                 riphériques telles que solins, larmiers,             informé que toute réparation ponctuelle
+                 couvertines, appuis... ;                             de fissure risque de générer un dé-
+              Δ  vérifier le bon état des évacuations d’eaux          faut esthétique localisé. Des consignes
+                 pluviales à proximité des ouvrages ;                 d’usage et d’entretien doivent être don-
+              Δ  contrôler l’humidité dans les isolants ;             nées par l’entreprise à la réception des
+              Δ  associer et solliciter le fabricant dans le          travaux au maître d’ouvrage (ou syndic)
+                 diagnostic et la préconisation des répa-             qui en accuse réception par signature
+                 rations (choix de matériaux adaptés, fini-           (modèle de fiche existant chez les orga-
+                 tions à effet déperlant réduisant l’encras-          nisations professionnelles) ;
+                 sement, teintes à coefficient d’absorption       Δ   faire un constat préalable détaillé (type
+                 solaire inférieur 0,7) ;                             constat d’huissier) avant travaux.
+              Δ  utiliser des produits compatibles avec les
+                 exigences environnementales (causticité
+                 des produits, pollution…) ;
+
+
+
+
+             >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             ENTRETIEN / MAINTENANCE
+G.12              ITE DE TYPE ENDUIT SUR ISOLANT
+4/5
+
+
+      6. LE RÔLE DU SYNDIC
+      En cas de copropriété, la responsabilité du bon entretien des façades revient au syndic.
+
+      La loi n° 65-557 du 10 juillet 1965 fixe le statut de la           En cas de défaut d’isolation de la copropriété, le défaut
+      copropriété des immeubles bâtis. Son article 14 précise            de devoir de conseil du syndic pourra être recherché
+      notamment :                                                        s’il n’entreprend pas les démarches nécessaires pour
+      Δ qu’il a pour objet la conservation et l'amélioration             y remédier.
+        de l'immeuble ainsi que l'administration des parties
+        communes ;                                                       Outre l’aspect légal précité, l’entretien régulier
+      Δ que le syndic est responsable des dommages causés                permet :
+        aux copropriétaires ou aux tiers ayant leur origine              Δ d’assurer une esthétique durable de l’immeuble ;
+        dans les parties communes.                                       Δ de palier les dommages qui pourraient mettre en
+                                                                           cause la pérennité des façades s’ils n’étaient pas ra-
+      Une obligation légale de réalisation de travaux asso-                pidement traités ;
+      ciés au minimum tous les 10 ans est même souvent                   Δ de prendre en compte qu’en cas de ravalement im-
+      imposée selon l’article L126-2 du Code de la construc-               portant (au moins 50 % d'une paroi d'un bâtiment,
+      tion et de l’habitation (CCH) et arrêtés préfectoraux qui            hors ouvertures) de façades existantes, la réalisation
+      peuvent être localement rédigés.                                     d’une isolation thermique (ITE) pourra être imposée
+      Dans ce cadre règlementaire, une injonction de la mai-               conformément au CCH (articles L171-1, et R173-1 à
+      rie pourra ainsi être faite au syndic de copropriété pour            R173-11).
+      que des travaux de ravalement soient effectués.
+
+
+
+
+          À CONSULTER
+          Δ Règles  professionnelles entretien
+            et rénovation des ETICS
+          Δ Instruction Technique 249 : arrê-
+            té du 24 mai 2010
+          Δ Guide  de préconisations : Protec-
+            tion contre l’incendie des façades
+              béton ou maçonnerie d’ETICS
+          Δ FD   DTU 45.3 : Bâtiments neufs
+            isolés   thermiquement     par
+              l’extérieur
+          Δ Guide   de préconisation Protec-
+            tion Incendie – ETICS PSE + Note
+              d’information du 15 avril 2016
+          Δ Recommandations      profession-           L’ESSENTIEL
+            nelles PROFEEL - Bardages et PSE
+              sous enduit
+                                                       Δ Effectuer un examen visuel périodique.
+          Δ   Guide PROFEEL/RAGE Menuise-              Δ Maintenir un bon état des protections périphériques du
+              ries extérieures                           complexe.
+          Δ   Cahier CSTB n° 3035 et ses modi-         Δ Vérifier le bon état des évacuations pluviales.
+          Δ
+              ficatifs 3399 et 3696.
+              NF DTU 59.1 - Revêtements de
+                                                       Δ Faire intervenir un professionnel rapidement, dès l’apparition
+              peinture                                    des premiers désordres.
+
+
+
+                    >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                    ENTRETIEN / MAINTENANCE                FICHE
+                                                                     ITE DE TYPE ENDUIT SUR ISOLANT                        G.12
+                                                                                                                               5/5
+
+
+7. L’ŒIL DE L’EXPERT
+
+
+
+
+Photo © SOCABAT                           Photo © SOCABAT
+
+
+Prolifération d’algues rouges alimentée par ruissellement de l’eau des dé-
+bords de couvertines. L’exposition à la pluie et la rugosité de la finition d’ITE
+sont des paramètres importants. Nécessité d’entretien plus fréquent.
+
+
+
+
+Photo © SOCABAT                           Photo © SOCABAT                             Photo © SOCABAT
+
+Fissures anciennes dans les angles        Choc en partie basse. Infiltration          Détérioration de joint de dilatation.
+de la baie liées à des défauts de         dans le complexe probable et dé-            Protection à rétablir par apposition
+pose et des malfaçons d’origine.          gradations consécutives du com-             d’un couvre joint, sinon infiltrations
+Infiltrations et décollement dans le      plexe. Nécessité d’intervenir au plus       possibles dans le complexe.
+complexe probables et nécessité           vite en présence de tels désordres.
+d’intervenir rapidement.
+
+
+
+
+Pour en savoir plus :
+                                                                                Retrouvez l’ensemble des
+                                                                                Fiches pathologie bâtiment sur :
+                                                                                https://qualiteconstruction.com
+                                                                                et sur l’AppliQC
+www.groupe-sma.fr
+https://qualiteconstruction.com                              © 2025 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+                       >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,186 @@
+                                                                                                  STRUCTURES ET GROS ŒUVRE                       FICHE
+                                                                                                                                                 B.03
+                                                                                                                                                   1/3
+
+
+                                         FISSURES « STRUCTURELLES »
+                                         DES MAÇONNERIES DE MAISONS
+                        Photo: © AQC     INDIVIDUELLES
+
+1. LE CONSTAT
+Les murs extérieurs de structure des maisons indivi-                       L’apparition de fissures structurelles de la maçonnerie
+duelles sont souvent constitués d’éléments de maçon-                       liées au fonctionnement de la paroi, sous l’effet de cer-
+nerie assemblés par des joints de mortier. Leur face ex-                   taines sollicitations, est une des formes des désordres
+térieure est recouverte d’un enduit hydraulique à base                     qui peuvent affecter ce type de murs.
+de ciment, confectionné sur place, ou d’un enduit mo-                      Ces fissures peuvent être traversantes et à l’origine
+nocouche, prêt à l’emploi (fabriqué industriellement).                     d’infiltrations d’eau.
+
+
+
+
+2. LE DIAGNOSTIC
+Les fissurations structurelles des      matériaux (blocs de béton et pla-                              différent face à la chaleur et/ou
+murs extérieurs des maisons             nelles ou linteaux en béton coulé,                             l’humidité peut créer des fissures à
+peuvent avoir plusieurs causes.         par exemple), leur comportement                                leurs jonctions.
+
+Le retrait « différentiel »                          SCHÉMA DE FISSURES
+des matériaux de la paroi                             « STRUCTURELLES »
+                                                                                                       Fissures                     Bloc de
+Juste après la mise en œuvre, le                                                   Fissures
+                                                                                                       possibles                    maçonnerie
+mortier de pose se rétracte en                                                     faux plafond
+                                                                                                            Enduit                  Isolation
+perdant peu à peu son eau, alors                                                                                                    thermique
+que les éléments de maçonnerie                                         Fissures
+                                                                                                            « Planelle »
+préfabriqués en usine, qui ont ter-                                         Fissures
+miné leur retrait, conservent leurs                   -
+                                                                                                                                   Plancher
+dimensions, d’où fissuration.
+Le phénomène apparaît très rapi-             Fissures planchers              Fissures
+
+dement après le montage, et son
+intensité est proportionnelle à l’ex-
+cès d’eau de gâchage par rapport
+                                                             Fissures de retrait
+au dosage.                                                                                                  Mur peu
+                                                                                                                               Déformation
+Un temps très sec et l’utilisation                                                                          chargé
+                                                                                                                               (exagérée)
+d’éléments non humidifiés au préa-                                                                                             du plancher
+
+lable aggravent le phénomène.
+
+L’hétérogénéité des
+matériaux
+Les variations de température ou                       Remplissage en blocs de béton                   Fissures                Rotation
+d’humidité ont des effets différents                                                                   possibles               de l’appui
+                                                          Ossature en béton armé
+selon les matériaux : lorsque la
+                                             Fissures de décollement dues à l’utilisation
+paroi est constituée de plusieurs                    de blocs de béton trop frais
+
+
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           STRUCTURES ET GROS ŒUVRE
+B.03            FISSURES « STRUCTURELLES »
+2/3             DES MAÇONNERIES DE MAISONS
+                INDIVIDUELLES
+
+      La flexion et le retrait des             L’absence ou la mauvaise                Δ Limiter les flèches des plan-
+      planchers                                mise en œuvre de chaînages                  chers et prévoir une prolonga-
+      Le plancher sur vide sanitaire, de       horizontaux et verticaux                    tion des durées d’étaiement des
+      l’étage, ou haut de rez-de-chaussée      On les observe au niveau des plan-          planchers.
+      de la maison est généralement du         chers, des couronnements des            Δ   Respecter le plan de pose des
+      type poutrelles-hourdis, réalisé à       murs, des angles saillants ou ren-          poutrelles et le plan d’étaiement
+      l’aide de poutrelles préfabriquées       trants des maçonneries.                     le cas échéant.
+      en béton armé, portant dans un                                                   Δ   Mettre une planelle ou un U
+      seul sens, sur des longueurs pou-        Une mauvaise réalisation                    au droit des abouts de plan-
+      vant dépasser 5 m. Un tel plancher       des appuis, des allèges et                  chers, de même nature que la
+      peut subir une légère déformation        des linteaux                                maçonnerie.
+      de flexion dans sa partie centrale.      On la constate au niveau des            Δ   Réaliser     les     liaisons  en
+      Si la déformation ne nuit pas à la       fenêtres.                                   forme de harpe entre murs
+      solidité du plancher, elle peut tou-                                                 perpendiculaires.
+      tefois s’accompagner d’une rota-                                                 Δ   Pour les maçonneries enduites,
+      tion sur l’appui au niveau du mur de     3. LES BONNES                               prévoir un enduit renforcé par
+      façade et d’un soulèvement de la         PRATIQUES                                   pontage au moyen d’un grillage,
+      rive du plancher. Ces mouvements                                                     ou d’un tissu d’armature, débor-
+      peuvent engendrer une fissure            Δ Utiliser des blocs de maçonnerie          dant de 0,15 m au-dessus du
+      horizontale sous l’arête de la base        conformes aux normes.                     plancher et de 0,15 m au-des-
+      d’appui du plancher.                     Δ Prévoir des chaînages horizon-            sous de l’appui de plancher (voir
+      Le retrait du plancher en béton              taux au droit de chaque plancher        article 6.3.1.1 du DTU 20.1 P1,
+      peut aussi causer un cisaillement            et des arases de pignon.                articles 4.7 et 10.3.1 du DTU 26.1
+      en façade au niveau de l’appui.          Δ   Prévoir des chaînages verticaux         P1-1).
+                                                   et des raidisseurs intermédiaires
+                                                   avec des blocs spéciaux.
+
+
+
+         À CONSULTER                               L’ESSENTIEL
+         Δ NF DTU 20.1 : Ouvrages en ma-
+           çonnerie de petits éléments +
+                                                   Δ Veiller à la bonne exécution des appuis de planchers sur les
+                                                     murs porteurs.
+             amendement A1 de juillet 2012
+         Δ   DTU 21 : Exécution des ouvrages       Δ Bien mettre en œuvre les armatures de chaînage.
+             en béton                              Δ Soigner les jonctions entre la maçonnerie et les éléments en
+         Δ   NF DTU 26.1 : Travaux d’enduits
+             de mortiers
+                                                      béton armé et associés.
+
+
+
+
+      4. L’ŒIL DE L’EXPERT
+                                                                    Le plancher haut du rez-de-chaussée de la maison est
+                                                                    constitué de poutrelles et de hourdis, et d’une chape
+                                                                    de compression. La déformation de flexion de ce plan-
+                                                                    cher provoque une rotation de l’appui au niveau du
+                                                                    mur de façade et un soulèvement de la rive du plan-
+                                                                    cher, avec l’apparition d’une fissure horizontale au ni-
+                                                                    veau de la maçonnerie de parpaings de la façade.
+
+
+
+
+      Photo: © GIE SOCABAT
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                          STRUCTURES ET GROS ŒUVRE                   FICHE
+                                                                    FISSURES « STRUCTURELLES »                       B.03
+                                                                   DES MAÇONNERIES DE MAISONS                             3/3
+                                                                                  INDIVIDUELLES
+                                                              Maison d’un seul niveau à rez-de-chaussée avec
+                                                              combles non aménagés. Fissuration horizontale sur le
+                                                              mur pignon du fait d’un défaut d’exécution du chaînage
+                                                              horizontal entre la maçonnerie du rez-de-chaussée et
+                                                              la maçonnerie dans la hauteur du comble.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                                              Fissuration verticale au niveau du mur pignon en ma-
+                                                              çonnerie de parpaings de la maison. La fissure est ap-
+                                                              parue à la liaison entre le chaînage vertical en béton et
+                                                              la maçonnerie de parpaings. Cet angle entre les 2 murs
+                                                              n’a pas été exécuté avec des blocs préfabriqués pour
+                                                              chaînage d’angle.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                                              Fissuration verticale apparaissant au niveau de la liai-
+                                                              son de l’encadrement en béton de cette lucarne avec la
+                                                              maçonnerie de remplissage. Une mauvaise exécution
+                                                              de cette liaison et l’absence de mise en oeuvre d’un
+                                                              pontage au moyen d’une armature dans l’enduit sont
+                                                              à l’origine de ce désordre.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

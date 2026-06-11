@@ -1,0 +1,114 @@
+                                                                               TOITURES ET CHARPENTES                  FICHE
+                                                                                                                       C.03
+                                                                                                                            1/2
+                                        CHARPENTES EN
+                                        LAMELLÉ-COLLÉ : DE LA
+                    Photo © DR - AQC
+                                        FISSURATION À LA RUPTURE
+
+1. LE CONSTAT
+Le risque de rupture d’un élément en lamellé-          Il faut distinguer :
+collé est heureusement rare. Mais il ne faut pas       Δ   les gerces de dessiccation en partie courante et au droit des
+moins se préoccuper des fissures constatées sur            assemblages ;
+certaines pièces, afin d’en déterminer la ou les       Δ   les délaminages ;
+causes et d’en apprécier l’éventuelle gravité.         Δ   les fentes, amorces de futures ruptures.
+
+
+
+
+2. LE DIAGNOSTIC
+Les gerces de dessiccation             Les fentes sont le signe d’un             Lors des phases de levage en pé-
+Le lamellé-collé reste un matériau     comportement anormal du                   riode estivale, les poutres en LC
+à base de bois sensible à l’humidi-    bois                                      peuvent être exposées à de hautes
+fication et au séchage : mis dans      Le mode de travail de l’élément           températures, en particulier sur
+une ambiance sèche, le bois va pro-    considéré doit déjà pouvoir ren-          les essences de bois à fort retrait
+gressivement perdre son humidité       seigner sur la cause possible de la       tangentiel.
+et se rétracter jusqu’à présenter      fissuration. Notamment une sollici-
+des « gerces de dessiccation ». Ces    tation en traction transversale a été
+gerces peuvent se produire soit en     longtemps un élément défavorable          3 LES BONNES
+partie courante, soit au droit d’as-   de par la surestimation mainte-           PRATIQUES
+semblages importants bloquant le       nant bien connue de la contrainte
+retrait hydrique des bois.             admissible correspondante qui             Bien concevoir et préparer
+                                       existait dans les règles CB71.            la charpente
+Les délaminations                      Cette surestimation a depuis été          Δ Choix des essences et traite-
+Les délaminations sont la consé-       revue : la définition des classes de          ment des bois adaptés aux clas-
+quence d’un défaut de fabrication      résistance et les contraintes ad-             ses d’utilisation. Éviter d’utiliser
+en usine, plus précisément d’un        missibles associées sont fixées par           des essences de bois à fort re-
+mauvais collage entre les lamelles     la NF P 21- 400 qui prévoit, pour la          trait tangentiel.
+constituant un élément. La délami-     traction transversale, une valeur de      Δ   Une exposition en classe H3
+nation peut avoir plusieurs causes :   0,15 à 0,30 MPa suivant la classe             ou H4 nécessite un traitement
+Δ lamelles mal préparées ;             des bois utilisés.                            préalable des lamelles en au-
+Δ colle en quantité insuffisante ;     L’évaluation de l’importance de ces           toclave vide et pression avant
+Δ serrage insuffisant en terme d’in-   fentes et des modalités de leur ré-           fabrication.
+  tensité ou de durée ;                paration peut se faire en référence       Δ   Fabrication des éléments dans
+Δ température non contrôlée pen-       aux « Recommandations pour la                 un état hygroscopique proche
+  dant la fabrication.                 réparation de bois LC structural pré-         de l’état d’équilibre qu’ils auront
+                                       sentant des fissures et des fentes »,         en service.
+                                       émanant du SNCCBLC.                       Δ   Transport et montage évitant les
+                                                                                     reprises d’humidité :
+
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             TOITURES ET CHARPENTES
+C.03              CHARPENTES EN LAMELLÉ-COLLÉ :
+2/2               DE LA FISSURATION À LA RUPTURE
+
+
+         √ éviter le stockage prolongé sur       √ effectuer le transport, stoc-           √ coordonner la pose de la
+             le chantier ;                           kage et montage à l’abri des            charpente et l’intervention du
+                                                     variations hygrométriques ;             couvreur.
+                                                 √   protéger les éléments de          Δ   Conception d’assemblage per-
+         À CONSULTER                                 manière adéquate : les élé-           mettant au bois de se rétracter.
+         Δ des
+           Eurocode 5 - Conception et calcul
+                structures bois
+                                                     ments doivent être protégés,
+                                                     mais pas emballés de ma-          Porter une attention particulière
+         Δ NF  EN-14080 : Structures en bois
+           - Bois lamellé-collé et bois massif
+                                                     nière étanche afin d’éviter les   aux sollicitations qui engendrent
+             reconstitué - Exigences                 condensations et toutes varia-    des efforts de traction transversale
+         Δ NF   EN 1194 : Structure en bois -
+            Bois lamellé-collé
+                                                     tions de leur taux d’humidité     et de cisaillement longitudinal dans
+                                                     (reprise d’humidité ou dessic-    les plans de collage.
+         Δ NF  P21-400 : Bois de structure et
+            produits à base de bois
+                                                     cation) ;
+         Δ wtion-bois.fr
+              ww.catalogue-construc-
+                         site dédié aux recom-
+             mandations techniques de la         L’ESSENTIEL
+             construction neuve
+         Δ   www.solutions-rehabilitation.fr,    Δ Adapter les bois aux utilisations envisagées.
+             site dédié aux recommandations
+             techniques de la réhabilitation
+                                                 Δ Fabriquer les éléments à une température hygroscopique
+                                                     proche des conditions d’utilisation finale.
+             des bâtiments
+
+
+
+      4. L’ŒIL DE L’EXPERT
+                                                                   En cours de travaux, effondrement d’une charpente
+                                                                   constituée de portiques en lamellé-collé.
+
+
+
+
+      Photo: © SARETEC - Pierre LAMORIL
+
+
+
+
+      Pour en savoir plus :
+                                                                                   Retrouvez l’ensemble des
+                                                                                   Fiches pathologie bâtiment sur :
+                                                                                   www.qualiteconstruction.com
+                                                                                   et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

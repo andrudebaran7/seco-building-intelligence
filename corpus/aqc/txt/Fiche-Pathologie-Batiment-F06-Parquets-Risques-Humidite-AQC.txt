@@ -1,0 +1,155 @@
+                                                                            AMÉNAGEMENTS INTÉRIEURS                            FICHE
+                                                                                                                               F.06
+                                                                                                                                 1/3
+
+
+
+                                        PARQUET ET RISQUES
+                      Photo © DR AQC    LIÉS À L’HUMIDITÉ
+1. LE CONSTAT
+La sensibilité à l’humidité est la source principale des     Δ des attaques des bois par des champignons ligni-
+désordres qui affectent les parquets bois.                      vores (qui se nourrissent du bois) : champignons de
+Ils se traduisent par :                                         pourriture cubique (de type mérule) ou de pourri-
+Δ   des variations dimensionnelles : tuilages, gonfle-          ture fibreuse (de type polypore des caves).
+    ments ou retraits ;
+
+
+
+
+2. LE DIAGNOSTIC
+Deux grandes causes peuvent être        vores contre lesquels les parquets              de différentes essences de bois.
+à l’origine de désordres liés à l’hu-   considérés en classe d’emploi 1 ne              Δ Bien choisir les bois et s’infor-
+midité :                                sont pas protégés.                                mer des conditions de fabrica-
+Δ  la mise en œuvre prématurée                                                            tion du parquet
+   du parquet dans des chantiers                                                          Les différents DTU préconisent
+   dont l’état ne le permet pas         3. LES BONNES                                     des bois stabilisés entre 7 et 11 %
+   encore :                             PRATIQUES                                         d’humidité afin de limiter les
+    √ clos-couvert non totalement                                                         variations ultérieures.
+      assuré,                           Rappel : le bois est un matériau                  Certains fabricants disposent de
+    √ travaux     de      maçonnerie,   anisotrope dont le comportement                   lots dont l’état d’équilibre hygros-
+      carrelage, marbrerie inté-        à l’humidité est différent selon que              copique est stabilisé soit en par-
+      rieure, peinture, non encore      l’on se place dans un plan tangent,               tie haute, soit en partie basse
+      terminés,                         radiant, ou longitudinal aux fibres.              de la fourchette, ce qui permet
+    √ support insuffisamment sec,       À titre d’exemple, nous donnons                   d’adapter au mieux le parquet
+    √ conditions d’équilibre hygro-     ci-après les ordres de grandeur du                aux conditions locales (bâtiment
+      métrique     du     local  non    retrait tangentiel et du retrait radial           neuf, existant).
+      atteintes ;
+Δ  la réhumidification du parquet                Essences             Retrait tangentiel (en %)        Retrait radial (en %)
+   en service, dont les causes
+                                                  Iroko                           5,5                          3,5
+   peuvent être nombreuses :
+    √ fuite accidentelle,                        Framiré                          5,5                          3,7
+    √ remontée d’humidité dans le              Châtaignier                        6,9                          4,2
+      support,
+    √ défaut de maîtrise du taux                  Noyer                           8,1                          6,0
+      d’humidité des locaux.                      Chêne                           9,3                          6,0
+Dans les cas extrêmes où l’humi-
+                                              Pin maritime                        9,0                          4,5
+dité dans le bois est maintenue
+au-dessus de 20 % pendant une                     Hêtre                        12,3                            6,0
+longue période, il faut redouter une
+attaque par les champignons ligni-
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             AMÉNAGEMENTS INTÉRIEURS
+F.06              PARQUET ET RISQUES
+2/3               LIÉS À L’HUMIDITÉ
+
+
+      Δ Surveiller le transport et le            √ clos-couvert terminé, travaux Δ Pendant            l’utilisation,    tenter
+          stockage avant la pose                     de carrelage et peinture termi-     d’amoindrir les conséquences
+          Toutes les précautions doivent             nés ou mise en œuvre du par-        des     mouvements          hygromé-
+          être prises pour limiter les               quet en dernière opération ;        triques des bois
+          reprises d’humidité (emballage         √   installations   de     plombe-      Toutes les précautions doivent
+          des lames, stockage dans un                rie-chauffage    réalisée    et     être prises pour éviter des ampli-
+          endroit sec et ventilé…).                  contrôle d’étanchéité effectué      tudes importantes du taux d’hu-
+      Δ   Respecter les conditions de                et concluant ;                      midité des locaux.
+          mise en œuvre :                        √   stockage de parquet au pré-
+          √  vérification systématique de            alable dans le local où il doit
+             l’humidité du support en uti-           être posé ;
+             lisant l’essai normalisé de la      √   les conditions d’équilibre
+             bombe au carbure (et pros-              hygrométrique en usage du
+             crire les supports susceptibles         local doivent être atteintes
+             d’exposer le parquet posé à             lors de la pose du parquet
+             des remontées d’humidité) ;             (taux d’humidité des locaux).
+
+
+
+
+                                                  L’ESSENTIEL
+                                                  Δ Adapter l’humidité des bois à celle qu’ils auront à l’équilibre
+                                                    dans les locaux.
+          À CONSULTER                             Δ Prévoir des joints périphériques évitant le blocage du bois sur
+          Δ NF DTU 51.1 : Parquets - Pose des       les structures.
+            parquets à clouer
+          Δ NF DTU 51.11 : Pose flottante des
+                                                  Δ Contrôler strictement les conditions de mise en œuvre du
+                                                    parquet.
+            parquets contrecollés et revête-
+              ments de sol à placage bois         Δ Assurer des conditions d’utilisation évitant les fortes variations
+          Δ NF DTU 51.2 : Pose des parquets
+            à coller
+                                                     hygrométriques de l’air.
+
+
+
+       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                                                PARQUET ET RISQUES                     F.06
+                                                                                   LIÉS À L’HUMIDITÉ                     3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Tuilage d’un parquet stratifié sur sous-couche phonique,
+                                                       suite à dégât des eaux. Cause : fuite importante sur nour-
+                                                       rices de distribution d’eau (inondation de l’appartement).
+
+
+
+
+Photo © DR AQC
+
+
+                                                       Décollement et gonflement d’un parquet stratifié, dans l’angle
+                                                       d’un Séjour. Cause : infiltrations dans l’épaisseur du support,
+                                                       résultant d’un défaut d’étanchéité d’un regard d’eaux plu-
+                                                       viales extérieur.
+
+
+
+
+Photo © DR AQC
+
+
+                                                       Soulèvement d’un parquet collé. Cause : pose sur support
+                                                       fortement humide.
+
+
+
+
+Photo © DR AQC
+
+
+                                                       Détériorations en périphérie des lames d’un parquet stratifié
+                                                       collé. Cause : reprise d’humidité suite à remontées capillaires
+                                                       en provenance du dallage béton formant support.
+
+
+
+
+Photo © DR AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

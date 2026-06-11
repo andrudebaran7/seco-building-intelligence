@@ -1,0 +1,204 @@
+                                                                            AMÉNAGEMENTS INTÉRIEURS                   FICHE
+                                                                                                                       F.04
+                                                                                                                           1/4
+
+                                          FISSURATION ET
+                                          DÉCOLLEMENT DES CARRELAGES
+                       Photo © DR AQC     DE SOL DANS L’HABITAT
+
+1. LE CONSTAT
+Le raccourcissement des délais de construction et une         essentiellement du retrait excessif de la chape ou du
+mise en œuvre approximative ont été à l’origine de la         mortier de scellement constituant le support du revê-
+plupart des dommages, fissuration, décollements voire         tement. Les chapes sont mises en œuvre, soit seules,
+descellements, affectant les revêtements de sol en car-       soit associées à des isolants phoniques ou thermiques.
+relage ces dernières années.                                  Le plancher peut être chauffant ou non. Le rôle et le
+Aujourd’hui, c’est la fissuration qui représente l’essen-     comportement du support deviennent prépondérants
+tiel de la pathologie des carrelages. Son origine provient    dans la compréhension des phénomènes.
+
+
+
+
+2. LE DIAGNOSTIC                         Δ le retrait hydraulique du sup-               pièces et dans les angles dits
+                                            port : ce sont surtout les fissures         « rentrants » ;
+Les dommages les plus fréquents             et les déformations résultant           √   des constituants variables en
+sont présentés ici.                         d’un retrait excessif du sup-               terme d’usage et de qualité
+                                            port qui constituent l’essentiel            (surtout pour les chapes tradi-
+La fissuration                              de la pathologie « fissuration ».           tionnelles) ;
+La fissuration se développe linéai-         Outre les conditions locales lors       √   un non-respect des règles
+rement au droit des points sen-             de la mise en œuvre du sup-                 d’applications des chapes
+sibles (angles rentrants ou saillants,      port hydraulique (courant d’air,            fluides (voir Atec) ;
+passage de porte…), voire en milieu         hygrométrie, température, voir        Nota : le retrait hydraulique de la
+de pièce. Elle traduit la déformation       DTU), les facteurs à prendre en       chape n’est plus un paramètre nor-
+excessive du support. Plusieurs rai-        considération pour expliquer ce       malisé selon la norme NF EN13-813
+sons à cela :                               retrait sont alors :                  en vigueur.
+Δ  trop grande souplesse du plan-           √  l’âge du support : temps de        Ainsi, le support, soumis à un retrait
+   cher porteur (plancher bois                 séchage cf DTU ;                   excessif, génère des « vagues ». Le
+   notamment) ;                             √  la quantité d’eau de gâchage ;     revêtement carrelé, lui, ne subit
+Δ  présence de gaines ou canalisa-          √  la « nervosité » du ciment :       pas cette déformation. Il en résulte
+   tions n’ayant pas normalement               réactivité importante de cer-      la formation de « bosses » et de
+   leur place dans le mortier ou la            tains ciments dépendant de         « creux ».
+   chape et entraînant des réduc-              leur finesse blaine (surface
+   tions de leur épaisseur (absence            spécifique des grains de
+   de ravoirage) ;                             ciment) et de leur composition
+Δ  franchissement d’un joint de                (aluminates, alcalins,….) et de
+   gros œuvre sans précaution                  la quantité dans le matériau
+   (non-prise en compte des joints             final ;
+   de construction, de dilatation, de       √  le dosage excessif en ciment ;
+   rupture ou des changements de            √  le fractionnement insuffisant
+   matériaux) ;                                de la chape ou du mortier et
+Δ  absence de joint de fractionne-             l’absence de joint de fraction-
+   ment ;                                      nement au passage de deux
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           AMÉNAGEMENTS INTÉRIEURS
+F.04            FISSURATION ET DÉCOLLEMENT DES
+2/4             CARRELAGES DE SOL DANS L’HABITAT
+
+      Les fissures visibles sur le carrelage   Δ une mauvaise préparation du             Le « plan d’adhérence » (de collage)
+      se retrouvent également en conti-          mortier de scellement ;                 est cisaillé.
+      nuité dans le support hydraulique        Δ une mise en œuvre de la colle ne        Les facteurs à prendre en considé-
+      qui a accusé le retrait.                     respectant pas les prescriptions      ration seront les suivants :
+                                                   du fabricant (temps d’ouverture,      Δ  le retrait du support en béton
+      L’isolant thermique, s’il est présent,       simple ou double encollage,              (chape) ;
+      peut subir un enfoncement, quand             mortier colle périmé, absence de      Δ  les variations dimensionnelles
+      bien même aurait-il des caractéris-          primaire adéquat et compatible           thermo-hygrométriques du revê-
+      tiques intrinsèques satisfaisantes.          avec la colle…) ou tout simple-          tement ;
+      Dans ce cas, des « vides » sont par-         ment inadapté au support, voire       Δ  l’absence de joints périphériques
+      fois visibles au niveau des plinthes         au revêtement. Les carreaux fai-         et de fractionnement. Le revête-
+      en pourtour de local.                        blement poreux ou de grande              ment est bloqué, il ne peut pas
+                                                   dimension méritent une atten-            se dilater ou se dilate de façon
+                                                   tion toute particulière (difficulté      trop importante ;
+                                                   de transfert de la colle) ;           Δ  la flexion excessive des plan-
+                                               Δ   une décohésion du plan de col-           chers, circonstance plus rare.
+                                                   lage sous l’effet de l’humidité.      Si à ces différents facteurs s’ajoute
+                                                   Cette situation vise notamment        un collage ou un scellement défail-
+                                                   les chapes à base de sulfate de       lant, le revêtement carrelé se sou-
+                                                   calcium.                              lève par flambement.
+
+                                               Les descellements
+                                               Le scellement constitue un mode           3. LES BONNES
+                                               de pose ancestral.                        PRATIQUES
+                                               Les déboires qui pourront survenir
+                                               résulteront :                             Vérifier
+                                               Δ  d’un battage insuffisant des car-      Δ Le délai de séchage de la chape
+                                                  reaux. Le mortier ou la barbotine          ou du support avant pose du
+                                                  doit migrer en sous-face des car-          carrelage : c’est le paramètre
+                                                  reaux ;                                    essentiel qui rentre souvent en
+                                               Δ  de la mise en service trop rapide          contradiction avec le respect du
+                                                  du revêtement (absence d’un                délai de livraison de l’opération ;
+      Des carreaux de faible épaisseur ou         séchage optimal) ;                     Δ   la nature du support ;
+      émaillés superficiellement, moins        Δ  de la sévérité des circulations,       Δ   la hauteur de réservation ;
+      résistants ou plus sensibles, seront        notamment dans les grandes             Δ   la mise en œuvre d’un ravoirage
+      davantage affectés.                         surfaces, ou de passages préma-            si nécessaire ;
+                                                  turés (usage du local, inadéqua-       Δ   le type de support (chape ordi-
+      Le décollement des                          tion avec le classement UPEC).             naire, chape à base de sulfate
+      carreaux                                 D’autres circonstances, parfois               de calcium, chape à base de
+      Le décollement des carreaux peut         difficiles à mettre en évidence,              ciment ...) ;
+      résulter de plusieurs circonstances :    expliqueront le descellement (sous-       Δ   la présence de joints (périphé-
+      Δ une préparation insuffisante           dosage local en ciment).                      riques et de fractionnement) ;
+        du support (traces de plâtre ou                                                  Δ   le respect des joints de dilatation
+        présence de poussières, défaut         Les soulèvements                              et de structure de l’ouvrage ;
+        de planimétrie entraînant des          Le soulèvement peut survenir de           Δ   respect des caractéristiques
+        surépaisseurs de colle, fissures,      façon brutale, souvent après un               d’encollage des carreaux (simple,
+        ponçage et nettoyage mal effec-        réchauffement rapide du carrelage,            double, quantité de colle) ;
+        tués…) ;                               alors que le support est encore           Δ   l’épaisseur et le dosage du mor-
+                                               à une température inférieure. Le              tier de scellement, chape ou
+                                               revêtement se dilate.                         dalle ;
+
+
+       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                             FISSURATION ET DÉCOLLEMENT DES                            F.04
+                                                            CARRELAGES DE SOL DANS L’HABITAT                             3/4
+
+
+Δ la planéité du support (propreté,       Veiller à la bonne mise en
+  cohésion et état de surface...) ;       œuvre d’un carrelage sur un
+Δ la qualité de l’isolant (compressi-     plancher chauffant
+  bilité) ;                               La mise en œuvre du carrelage ne
+Δ le classement du carrelage              peut se faire que 48 heures après
+  adapté à l’usage (classement            extinction du plancher chauffant.
+  UPEC).                                  La remise en service du chauffage
+                                          ne peut avoir lieu qu’au moins 2
+Nota : une vigilance accrue sera          (pose collée) ou 7 (pose scellée)
+nécessaire lors de l’emploi de car-       jours après la fin des travaux de
+reaux de grands formats sous CPT          revêtement.
+(épaisseur réduite du carreau,
+faible linéaire de joints, planéité et
+rugosité irréprochables du support,
+adaptation aux charges en service,
+dimension de l’ouvrage,….).
+
+
+
+
+  À CONSULTER
+  Δ NF DTU 52-1 : Revêtements de sol
+    scellés. NF DTU 52-2 : Pose collée
+      des revêtements céramiques et
+      assimilés - Pierres naturelles
+  Δ   NF DTU 26.2 : Travaux de bâti-
+      ment - Chapes et dalles à base de
+      liants hydrauliques                    L’ESSENTIEL
+  Δ   DTU 52.10 : Mise en œuvre de
+      sous-couches isolantes sous            Δ Vérifier le temps de séchage du support.
+      chape ou dalle flottante et sous       Δ Vérifier le bon état du support.
+  Δ
+      carrelage scellé                       Δ Ne pas omettre les joints périphériques et de fractionnement.
+      e-Cahiers du CSTB 3666, 3526,
+      3527, 3528, 3529, 3530, 3578,          Δ Respecter les délais entre chaque étape et avant mise en
+      3606, etc…                               chauffe d’un plancher.
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            AMÉNAGEMENTS INTÉRIEURS
+F.04             FISSURATION ET DÉCOLLEMENT DES
+4/4              CARRELAGES DE SOL DANS L’HABITAT
+
+      4. L’ŒIL DE L’EXPERT
+                                                            Fissuration en angle rentrant, plancher rayonnant
+                                                            électrique.
+                                                            Le carrelage a été scellé sur des fils chauffants disposés sur
+                                                            un isolant. Les Règles de l’art imposent un fractionnement au
+                                                            droit des angles dits « rentrants ». En effet, des contraintes se
+                                                            développent dans ces angles avec le retrait et la dilatation du
+                                                            mortier. À la longue, et en l’absence de joint de fractionne-
+                                                            ment, le revêtement se fissure.
+      Photo © DR AQC
+
+
+                                                            Soulèvement de carrelage scellé ou collé sur chape.
+                                                            Le revêtement et son support n’ont pas été fractionnés. Des
+                                                            contraintes se développent dans le revêtement et son sup-
+                                                            port, dilatation des carreaux, et surtout retrait du mortier
+                                                            constitutif du support. À la longue, les carreaux se soulèvent.
+
+
+
+
+      Photo © DR AQC
+
+
+                                                            Décollement de carrelage, discontinuité du support consti-
+                                                            tué, à gauche, d’un plancher et à droite d’un dallage.
+
+
+
+
+      Photo © DR AQC
+
+
+
+
+      Pour en savoir plus :
+                                                                                  Retrouvez l’ensemble des
+                                                                                  Fiches pathologie bâtiment sur :
+                                                                                  www.qualiteconstruction.com
+                                                                                  et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                               © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,246 @@
+                                                           ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                               FICHE
+                                                                                                                              D.02
+                                                                                                                                   1/4
+
+
+
+                                        INFILTRATIONS D’EAU PAR
+                     Photo © DR - AQC
+                                        SEUIL DE PORTE-FENÊTRE
+
+1. LE CONSTAT
+Les seuils de portes-fenêtres sont des ouvrages où            Ces infiltrations surviennent généralement par fort
+les risques d'infiltrations sont importants, affectant        vent, car celui-ci rabat l'eau vers la menuiserie avec
+aussi bien la pièce d'habitation attenante que l'étage        souvent un effet ascendant. Une évacuation insuffi-
+inférieur.                                                    samment rapide des eaux collectées par le balcon ou la
+Ces désordres représentent 3 % de la sinistralité to-         terrasse peut aussi contribuer au désordre.
+tale. Les dommages vont de la simple flaque d'eau épi-
+sodique sur le carrelage à la dégradation des embellis-
+sements ou des cloisons en plâtre.
+
+
+
+
+2. LE DIAGNOSTIC                                                             Cordon d’étanchéité
+
+                                                                             Fond de joint
+Le défaut d'étanchéité entre
+rejingot et pièce d'appui est
+                                                                                                ≥ 25 mm
+
+
+                                                                             Calage
+la cause la plus fréquente
+Les dispositions constructives
+prévoient normalement :
+                                         ≥ 50 mm
+
+
+
+
+                                                                                      ≥ 50 mm
+
+
+
+
+Δ une hauteur de rejingot suffisante
+  (25 mm min) avec une pente
+  de l'appui maçonné de 10 %.
+  Les faces en contact doivent être                                                                         ≥ 10 %
+  régulières et horizontales afin de
+  réduire l'interstice existant. Le          souvent, ce calfeutrement est            Δ la déformation ou le retrait des
+  rejingot doit se retourner en ta-          réalisé par extrusion rapide et                ouvrants non compensé(e) par
+  bleau d'une seule pièce (évitant           sans fond de joint après la pose               les joints ;
+  ainsi la fissure fréquente de re-          de la porte-fenêtre. Des vides, en       Δ     le manque de résistance de la
+  prise de coulage), afin d'évacuer          particulier dans les angles, sont              pièce d'appui à la circulation. Ce
+  l'eau à l'extérieur du mur. (Voir          alors possibles, laissant l'eau                défaut est encore plus accentué
+  schéma du DTU) ;                           passer.                                        lors de la présence d’une Isolation
+Δ la mise en place d'un cordon                                                              Thermique par l’Extérieur (ITE).
+  d'étanchéité entre le rejingot        Les défauts propres à la                            La pièce d’appui avec sa bavette
+  et la menuiserie. La continuité       menuiserie                                          éventuelle est plus large donc
+  de ce cordon doit être parfaite       On peut relever :                                   plus exposée ;
+  et son épaisseur suffisante. Sa       Δ le plus fréquent est le colmatage           Δ     le défaut ou l'absence de larmier
+  mise en place, avant pose de la         des drains du seuil ou de la pièce                (goutte d'eau) afin d’éviter la sta-
+  menuiserie, permet de mieux en          d'appui ;                                         gnation d’eau devant le cordon
+  contrôler l'application. Mais, trop                                                       d’étanchéité.
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.02          INFILTRATIONS D’EAU PAR SEUIL
+  2/4         DE PORTE-FENÊTRE
+
+    Les défauts de la maçonnerie              3. LES BONNES                               Attention ! Prendre en compte
+    Δ Liaison incorrecte entre l'huisse- PRATIQUES                                        l'accessibilité des espaces pri-
+        rie et le tableau verticalement.                                                  vatifs extérieurs aux personnes
+        L'infiltration se manifeste, alors,   Adapter le type et la classe des            handicapées ou à mobilité
+        au niveau du seuil.                   menuiseries                                 réduite
+    Δ   Absence de rejingot ou insuf-         Bois, aluminium ou PVC blanc, les
+        fisance de pente du seuil en          menuiseries sont soumises à un NF           Δ Cela implique une adaptation
+        béton.                                DTU 36.5 unique et sont classées en             de plusieurs ouvrages dont les
+                                              fonction de leur étanchéité à l'eau             balcons, loggias et terrasses pri-
+    Les défauts conceptuels                   battante.                                       vatifs. La hauteur du ressaut des
+    Trois cas se présentent fréquem-                                                          seuils de menuiseries permet-
+    ment sur les balcons ou terrasses         Réduire les risques d'infiltration              tant l'accès à ces ouvrages doit
+    Δ Continuité du plancher avec             Δ Par une bonne conception pré-                 être inférieure à 2 cm.
+      pose directe de la menuiserie.            voyant tous les détails d'étan-           Δ   Dès la conception générale de
+      Cette configuration est souvent           chéité, d'écoulement des eaux                 l'ouvrage, les solutions construc-
+      aggravée par la mise en œuvre             et éclaboussures. Dans tous les               tives permettant d'assurer l'ac-
+      de carrelage ou chape en inté-            cas, il faut veiller à éloigner les           cessibilité requise, mais aussi
+      rieur et en extérieur.                    eaux de ruissellement et réduire              l'étanchéité des menuiseries,
+    Δ Absence ou insuffisance de                le nombre d'ouvertures expo-                  doivent être élaborées.
+      garde à l'eau. Constatée souvent          sées aux vents.                           Δ   Des solutions entraînent des
+      en réhabilitation de terrasse           Δ Par une réalisation soignée et                modifications touchant plusieurs
+      après mise en œuvre d'un isolant          bien supervisée.                              corps d'état. Une coordination
+      et d'une protection.                    Δ Par une coordination entre les                accrue des équipes en charge
+    Δ Pente d'écoulement vers les des-          corps d'état prenant en charge                des différents lots est de ce fait
+      centes EP réduite ou rallongée            ce risque spécifique.                         nécessaire.
+      (jusqu'à 2 %, le risque de réten-       Δ Par un entretien régulier des
+      tion d'eau subsiste).                     drains et calfeutrements (inspec-
+                                                tion, nettoyage et réparation).
+
+
+
+
+                                                  Pièce de bois massif
+                                                  ou autre
+                                                  (isolation thermique)
+                                                                          20 mm                   Caillebotis       0.014f   Dallette
+                                                     0.00f
+                                                                                                    85 mm
+
+
+
+
+                                                                                                                             ≥ 50 mm
+
+
+
+
+                                                                                  20 mm
+                                                                                                                Pente 1 %
+
+
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                             ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS                        FICHE
+                                                                      INFILTRATIONS D’EAU PAR SEUIL                      D.02
+                                                                                 DE PORTE-FENÊTRE                           3/4
+
+
+   À CONSULTER                                 Combinées à la RTAA DOM, les règles d’accessibilité PMR
+   Δ NF  DTU 20.1 : Ouvrages en ma-
+     çonnerie de petits éléments
+                                               ont multiplié l’usage de commandes déportées de type ma-
+                                               nivelle pour ouvrir les lames des jalousies. S’agissant d’un
+   Δ NF  DTU 36.5 : Mise en œuvre des
+     fenêtres et portes extérieures
+                                               mode de manœuvre inhabituelle, cette disposition est bien sou-
+   Δ NF   DTU 44.1 : Étanchéité des
+     joints de façade par mise en
+                                               vent mal réalisée.
+                                               Enfin, les manœuvres par manivelle font l’objet d’usures prématurées
+      œuvre des mastics                        en raison de sollicitations des genouillères (rotules de jonction de la
+   MOUSSES IMPRÉGNÉES :                        manivelle et du mécanisme dans le bâti) en dehors de leur axe.
+   Δ NF  P 85-570 « Produits pour
+     joints - Mousses imprégnées - Dé-
+      finitions, spécifications »
+   Δ NF  P 85-571 « Produits pour
+     joints - Mousses imprégnées –
+      Essais »
+   MASTIC EXTRUDÉ :
+   Δ NF EN ISO 11600 « Construction
+     immobilière - Produits pour joints
+                                               L’ESSENTIEL
+      - Classification et exigences pour       Δ Bien concevoir et réaliser la liaison entre menuiserie et maçon-
+      les mastics »                              nerie pour assurer l'étanchéité de l'ouvrage.
+
+   MEMBRANES D’ÉTANCHÉITÉ :
+                                               Δ Adapter les solutions constructives au regard de la réglementa-
+                                                 tion sur l'accessibilité.
+   Δ Norme  NF EN 13859-2 « Feuilles
+     souples d'étanchéité - Définitions        Δ Prendre en compte et gérer en amont les interfaces très sen-
+      et caractéristiques des écrans              sibles entre corps d'état (gros-œuvre, menuiserie, revêtement
+      souples - Partie 2 : écrans souples         de sol, étanchéité, isolation extérieure,…).
+      pour murs extérieurs »
+
+
+
+
+4. L’ŒIL DE L’EXPERT
+                                                                Cette photo montre l’absence de seuil en béton pour
+                                                                recevoir la porte. La porte a été posée sur des cales
+                                                                plastiques (en bas à gauche). Dans ces conditions, il
+                                                                est impossible de réaliser un seuil correct en béton. le
+                                                                risque d’infiltration par le seuil est très important. De
+                                                                plus, le calage de la menuiserie n’est pas pérenne.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+                 >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE         ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.02          INFILTRATIONS D’EAU PAR SEUIL
+  4/4         DE PORTE-FENÊTRE
+
+                                                                Les infiltrations d’eau, visibles sur le parquet, sont prin-
+                                                                cipalement dues à l’obstruction des évacuations d’eau
+                                                                par la pelouse ajustée au niveau du seuil. De plus, avec
+                                                                cette configuration, le joint entre le seuil béton et la
+                                                                menuiserie est très sollicité par l’humidité du terrain.
+                                                                La moindre pluie engendre une pression d’eau sur ce
+                                                                joint non prévu à cet effet.
+
+
+
+
+    Photo: © GIE SOCABAT
+
+
+                                                                Infiltration d’eau dans l’angle d’une porte d’entrée. Les
+                                                                infiltrations d’eau ont plusieurs origines cumulées :
+                                                                1. stagnation d’eau sur le seuil béton laissant appa-
+                                                                raître des traces de mousse verte. Le seuil présente
+                                                                une légère contrepente dans cet angle ;
+                                                                2. le faible rejingot béton (environ 1 cm) ne présente
+                                                                pas de retour sur les jambages. Le bas du montant
+                                                                de la menuiserie bois repose donc directement sur
+                                                                le seuil. On observe une légère pourriture du bois en
+                                                                pied du montant ;
+    Photo: © AQC - Géraud APPERT – 2010                         3. cette porte se situe sur une façade sud-ouest de la
+                                                                côte atlantique donc très exposée aux intempéries.
+
+
+
+
+                                                                Seuil d’une baie coulissante. La pièce d’appui est com-
+                                                                posée d’un simple rail de guidage. Les causes des infil-
+                                                                trations sont :
+                                                                1. la non-conformité de la pièce d’appui de la menuise-
+                                                                rie (pas de gorge de récupération entre autres) ;
+                                                                2. l’absence de larmier sur les ouvrants ;
+                                                                3. l’absence d’étanchéité côté intérieur et côté exté-
+                                                                rieur nécessaire en cas de seuil à niveau.
+                                                                N.B. Il faut préconiser le caniveau devant la baie plutôt
+                                                                que l’étanchéité horizontale côté intérieur qui s’avère
+    Photo: © GIE SOCABAT :                                      souvent insuffisante quand la baie est très exposée.
+
+
+
+
+   Pour en savoir plus :
+                                                                                Retrouvez l’ensemble des
+                                                                                Fiches pathologie bâtiment sur :
+                                                                                www.qualiteconstruction.com
+                                                                                et sur l’AppliQC
+    www.groupe-sma.fr
+    www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

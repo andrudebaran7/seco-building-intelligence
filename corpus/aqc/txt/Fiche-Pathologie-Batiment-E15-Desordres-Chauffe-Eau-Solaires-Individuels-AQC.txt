@@ -1,0 +1,185 @@
+                                                                                                                              ÉQUIPEMENTS                          FICHE
+                                                                                                                                                                    E.15
+                                                                                                                                                                         1/3
+
+                                           DÉSORDRES AFFECTANT
+                                           LES CHAUFFE-EAU SOLAIRES
+                       Photo © DR AQC      INDIVIDUELS
+1. LE CONSTAT
+Les désordres sont de deux types :                                        Δ Performanciels
+Δ fonctionnels                                                                L’énergie solaire est insuffisante pour produire de
+    √mauvaise implantation, orientation des capteurs                          l’eau chaude sanitaire toute l’année, un appoint avec
+     solaires ;                                                               une autre énergie est donc nécessaire. Une concep-
+    √circulation de fluide dans les capteurs insuffisante ;                   tion défectueuse ou un réglage mal maîtrisé de la
+    √surface de capteur surdimensionnée par rapport                           régulation peuvent générer une surconsommation
+     à la capacité de stockage et aux besoins ;                               de l’énergie d’appoint.
+    √infiltrations en toiture liées à des défauts d’étan-
+     chéité suite à une mauvaise mise en œuvre.
+
+
+
+2. LE DIAGNOSTIC                              la tuyauterie de liaison située à                                       ou bien si le réseau comporte
+                                              l’extérieur.                                                            un grand nombre de coudes,
+Il existe plusieurs types de chauffe-     Δ   Les fournisseurs de capteurs                                            sa résistance hydraulique aug-
+eau solaires individuels dont l’ap-           solaires proposent souvent, avec                                        mente et la pompe initiale
+point peut être soit séparé par               le ballon, un ensemble compre-                                          peut ne pas être suffisamment
+ballon, soit intégré par résistance           nant une pompe de circulation                                           puissante.
+dans le ballon, soit séparé et pro-           d’eau, une soupape de sécurité,                                 Δ       La présence d’air résiduel dans
+duit par une chaudière de chauf-              un vase d’expansion, un clapet                                          le réseau perturbe les échanges
+fage central (voir schéma ci-dessous).        de non-retour et quelquefois un                                         thermiques dans le capteur
+                                              dispositif de décharge.                                                 contribuant à l’élévation de sa
+Désordres fonctionnels                        La pompe fournit un débit d’eau                                         température, à diminuer la per-
+Δ Un arbre peut constituer un                 pour une hauteur manométrique                                           formance de l’installation et à
+    écran, de même que ses feuilles           disponible. Le dimensionnement                                          accélérer son vieillissement.
+    qui, en tombant, se déposent              de cette dernière est fonction de                               Δ       En cas de mauvais dimension-
+    sur les capteurs : des capteurs           la longueur de la liaison entre                                         nement ou de non-soutirage de
+    encrassés, et/ou avec une expo-           les capteurs et le ballon et de la                                      l’eau chaude sanitaire, l’eau pri-
+    sition ne permettant pas la               complexité de son parcours.                                             maire surchauffe. Son augmen-
+    réception optimale des rayons             Si la distance entre le capteur                                         tation de volume et de pression
+    du soleil, voient leur rendement          et le stockage est trop longue,                                         est absorbée dans les premiers
+    diminuer.
+Δ   En l’absence de soleil et par tem-                               CHAUFFE-EAU SOLAIRE EN APPOINT D’UNE CHAUDIÈRE
+
+    pérature extérieure négative, il
+                                                                                                                                       Mitigeur
+    y a risque de gel du fluide calo-
+    porteur circulant dans les cap-                                                                       Ballon                                            Eau chaude
+                                                                                                          d’eau chaude                                      Eau froide
+    teurs si les pentes (contribuant à              Capteur
+                                                    solaire
+    assurer la vidange automatique)
+    ne sont pas assurées. L’absence
+    ou l’insuffisance de protection                                                                                                             Chaudière
+    antigel est à l’origine du gel des
+                                                              Groupe de transfert                                                  Eau froide
+    tubes dans les capteurs et dans                           (pompe, soupape de sécurité, vase d'expansion       )
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              ÉQUIPEMENTS
+E.15               DÉSORDRES AFFECTANT LES
+2/3                CHAUFFE-EAU SOLAIRES INDIVIDUELS
+                                                                                             3. LES BONNES
+                                                                                             PRATIQUES
+          temps par le vase d’expansion.          Désordres liés au défaut de
+          Si l’installation est mal dimen-        performance                                Δ S’assurer         de l’absence de
+          sionnée, la soupape de sécurité         Δ Le contrôle du différentiel de               masques ou de risques d’oc-
+          s’ouvre.                                    température de l’eau, en sortie            cultation des capteurs lors de
+          En cas de défaut d’entretien elle           des capteurs et bas du ballon,             l’installation.
+          peut rester bloquée, entraînant             est indispensable. La pompe ne         Δ   Optimiser        l’orientation   des
+          la déformation des capteurs.                doit en effet fonctionner que              capteurs.
+          La mise en place d’un limiteur              lorsque l’énergie solaire est suffi-   Δ   Ne pas surdimensionner la sur-
+          de température en sortie du bal-            sante pour élever la température           face de capteurs.
+          lon, pour éviter les brûlures, est          de l’eau dans les capteurs.            Δ   Protéger l’installation contre le
+          obligatoire.                                En l’absence de ce contrôle, la            gel.
+      Δ   Si le volume total de stockage              pompe pourrait fonctionner et          Δ   La température minimale de
+          est supérieur à 400l, la tempé-             envoyer dans les capteurs de               55°C doit être respectée en
+          rature minimale à respecter est             l’eau chaude, produite par l’éner-         permanence, quelle que soit la
+          de 55°C.                                    gie d’appoint.                             configuration d’appoint ou de
+      Δ   En cas d’absence prolongée de           Δ   Un dysfonctionnement de ce                 régulation.
+          soutirage d’eau chaude sanitaire,           contrôle peut également entraî-        Δ   Mettre en place un limiteur de
+          les capteurs doivent être occul-            ner l’utilisation intempestive de          température afin de limiter les
+          tés ou un dispositif de décharge            l’énergie d’appoint alors que              risques de brûlures.
+          mis en place pour évacuer l’éner-           l’énergie solaire assure seule le      Δ   Mettre des purgeurs avec vannes
+          gie non consommée et éviter la              chauffage de l’eau.                        d’isolement en point haut de l’ins-
+          montée en température non                   Dans les deux cas, il y a surcon-          tallation et introduire l’eau gly-
+          maîtrisée de l’eau du circuit               sommation          de     l’énergie        colée en éliminant l’air contenu
+          primaire et de l’eau chaude                 d’appoint.                                 dans le réseau.
+          sanitaire.                                                                         Δ   Vérifier que les caractéristiques
+                                                  Défauts d’étanchéité                           de la pompe sont cohérentes
+                                                  Les défauts de mise en œuvre                   avec la configuration de la liaison
+                                                  d’étanchéités des capteurs inté-               capteurs/ballon.
+          À CONSULTER                             grés, ou pattes de fixation des            Δ   Vérifier les sécurités : soupapes
+          Δ NF   DTU 65.12 : Installations
+            solaires thermiques avec des cap-
+                                                  capteurs posés en creux d’onde
+                                                  constituent des barrages accumu-
+                                                                                                 de sécurité, asservissement de
+                                                                                                 la pompe aux contrôles de tem-
+              teurs vitrés                        lant des déchets et provoquant                 pérature de l’eau en sortie des
+          Δ NF DTU 60.1 : Plomberie sanitaire
+            pour bâtiments
+                                                  des infiltrations. Pour les capteurs           capteurs.
+          Δ DTU de la série 40 : Couverture.      posés, les fixations devront être en       Δ   Vérifier la régulation.
+          Δ Cahier 1612 du CSTB : Recom-
+            mandations générales de mise
+                                                  partie haute des ondes de tuiles.          Δ   Informer l’utilisateur sur la néces-
+                                                  Pour les capteurs intégrés, le sys-            sité de vérifier périodiquement
+              en œuvre de capteurs solaires
+              semi-incorporés ou intégrés sur
+                                                  tème d’étanchéité devra être réa-              son installation et faire réaliser
+              une couverture par éléments         lisé très soigneusement.                       l’entretien de l’installation par un
+              discontinus                                                                        professionnel.
+          Δ   Cahier 1614 du CSTB : Règles
+              générales de mise en oeuvre de
+              capteurs solaires indépendants
+              sur une couverture par éléments         L’ESSENTIEL
+          Δ
+              discontinus
+              Cahier 1827 : Capteurs solaires         Δ Concevoir l’implantation des capteurs en optimisant l’ensemble
+              plans à circulation de liquide            masques/orientation/inclinaison.
+              faisant l’objet d’un Avis Tech-         Δ Adapter le dimensionnement du dispositif aux besoins réels.
+              nique - Cahier des prescriptions
+              techniques
+                                                      Δ Vérifier et faire entretenir les dispositifs qui peuvent déclencher
+                                                        à mauvais escient la production d’énergie d’appoint.
+          Δ   Recommandations profession-
+              nelles RAGE - Chauffe-eau solaire       Δ Vérifier périodiquement la quantité de glycol.
+              en habitat individuel – neuf et         Δ Conseiller de souscrire un contrat de maintenance.
+              rénovation
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                                ÉQUIPEMENTS                FICHE
+                                                                  DÉSORDRES AFFECTANT LES                                   E.15
+                                                           CHAUFFE-EAU SOLAIRES INDIVIDUELS                                     3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Tuile percée
+                                                       La traversée dans la toiture a été réalisée par le percement
+                                                       de la toiture. Cette traversée est à l’origine d’infiltrations. L’uti-
+                                                       lisation d’une tuile chatière ou d’une tuile à douille en fonc-
+                                                       tion des cas permet de réduire le risque d’infiltration.
+
+
+
+
+Photo © DR AQC
+
+
+                                                       Mise à l’égout du glycol
+                                                       On constate que la soupape de sécurité du circuit primaire
+                                                       est reliée à l’égout via un conduit d’évacuation PVC. Le rejet
+                                                       à l’égout de l’antigel est interdit pour préserver l’environne-
+                                                       ment. La soupape de sécurité doit être raccordée à un récep-
+                                                       tacle vide et repéré par le nom de l’antigel.
+
+
+
+Photo © DR AQC
+
+
+                                                       Absence de calorifuge sur le circuit primaire extérieur.
+                                                       Ceci implique de fortes déperditions thermiques du circuit
+                                                       primaire et dégrade la performance de l’installation solaire.
+
+
+
+
+Photo © DR AQC
+
+
+
+
+Pour en savoir plus :
+                                                                              Retrouvez l’ensemble des
+                                                                              Fiches pathologie bâtiment sur :
+                                                                              www.qualiteconstruction.com
+                                                                              et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

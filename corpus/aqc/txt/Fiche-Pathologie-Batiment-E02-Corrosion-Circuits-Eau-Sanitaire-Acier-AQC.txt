@@ -1,0 +1,117 @@
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                                                                                        E.02
+                                                                                                                            1/2
+                                        CORROSION DES
+                                        CIRCUITS D’EAU
+                     Photo © DR - AQC
+                                        SANITAIRE EN ACIER
+1. LE CONSTAT
+L’acier galvanisé est un matériau traditionnel, utilisé     peuvent conduire à des désordres tels que la pollution
+depuis de nombreuses années pour les distributions          de l’eau (dissolution de zinc et de fer, effet de sable,
+d’eau sanitaire.                                            eau rouge…) et de perforations, dans des délais parfois
+Toutefois,    dans    certaines  circonstances,     les     courts.
+phénomènes de corrosion peuvent s’amorcer et
+
+
+
+
+2. LE DIAGNOSTIC                                                                3. LES BONNES
+                                                                                PRATIQUES
+L’emploi des tubes en acier galva-      La corrosion galvanique
+nisé est soumis à des règles strictes   Deux métaux différents, mis en          Δ Attacher une importance par-
+de conception, mise en œuvre et         présence dans un même milieu                ticulière à la qualité des tubes
+entretien. Ne pas les respecter         aqueux, deviennent respective-              Le respect des critères minimum
+expose aux désordres suivants, par      ment anode et cathode suivant               de fabrication imposés par les
+ordre d’apparition :                    leur facilité respective à s’ioniser.       normes est essentiel pour la
+Δ  coloration de l’eau (jaune à         Plus leur différence de potentiel est       pérennité de l’installation. En
+   rouge) aux points de puisage à       importante, plus grande va être la          effet, la qualité de l’acier et celle
+   utilisation irrégulière ;            dissolution de l’anode.                     de l’élaboration du tube sont
+Δ  pustules à l’intérieur des man-                                                  aussi importantes que l’épais-
+   chettes témoins ;                    La corrosion par aération diffé-            seur et la régularité de la galvani-
+Δ  colmatage des préfiltres des         rentielle                                   sation dans la pathologie relevée
+   robinetteries ;                      Un élément métallique, immergé              sur ce type d’installation. Vérifier
+Δ  fuites au droit des raccords vis-    dans une solution aqueuse et                l’affichage à intervalles réguliers
+   sés ;                                soumis à une oxygénation plus               (tous les 1,5 m) de la norme NF
+Δ  perforation de conduite, en der-     importante qu’un autre élément              de fabrication. (Se référer au
+   nier lieu.                           du même métal, va réagir en anode           NF DTU 60.1 P1-2 traitant des
+                                        vis-à-vis du second, qui va alors se        critères généraux de choix des
+Plusieurs phénomènes sont               corroder.                                   matériaux).
+à l’origine de ces désordres                                                    Δ   Ne jamais utiliser des métaux
+La corrosion par oxygène                La corrosion par développement              différents en particulier au
+dissous                                 de micro-organismes                         niveau des raccords.
+Elle donne lieu à des piqûres plus      Ce phénomène ne peut intervenir         Δ   Vérifier la qualité des eaux
+ou moins profondes avec un dépôt        qu’en cas de stagnation prolongée           Il faut rappeler que toutes les
+d’hydroxyde ferreux - Fe (OH)2 -        de l’eau dans le réseau. L’action           eaux distribuées ne sont pas
+lui-même recouvert d’hydroxyde          de bactéries sulfato-réductrices            aptes à être véhiculées dans des
+ferrique - Fe (OH)3 (pustules de        peut provoquer des corrosions               tubes en acier galvanisé, même
+corrosion).                             spectaculaires.                             après traitement des eaux.
+
+
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              ÉQUIPEMENTS
+E.02               CORROSION DES CIRCUITS
+2/2                D’EAU SANITAIRE EN ACIER
+
+          D’autant que ce traitement est                 √ Soigner la réalisation des            Des    précautions  particulières
+          parfois interdit (cf. article R1321-               assemblages, en particulier         doivent être prises pour évi-
+          55 du Code de la Santé publique et                 celles du filetage et de l’étan-    ter la stagnation prolongée de
+          la norme NF P 40.201 (DTU 60.1)).                  chéité au droit des raccords        l’eau et le développement de
+      Δ   Soigner         la     qualité   de                vissés, pour réduire les risques    micro-organismes.
+          l’installation                                     de corrosions localisées ou
+          √   Le concepteur et le réalisa-                   aéro-différentielles.
+              teur doivent veiller à assurer         Δ   Appliquer un traitement à                RAPPEL :
+              une parfaite compatibilité des             l’eau                                    L'arrêté du 30 novembre 2005
+              métaux entrant dans la com-                Les traitements de l’eau sont un         précise qu'« afin de limiter le
+              position de l’installation pour            moyen de lutter contre la corro-         risque lié au développement
+              éviter la création de couples              sion et l’entartrage dans les ins-       des légionelles dans les
+              galvaniques. En particulier, la            tallations. Ils consistent à injecter    systèmes      de     distribution
+              présence de cuivre en amont                en permanence un produit spé-            d'eau chaude sanitaire sur
+              du réseau en acier galvanisé               cifique (traitement filmogène).          lesquels sont susceptibles
+              est interdite.                             Ils doivent faire l’objet d’un Avis      d'être raccordés des points de
+          √   Dans le cas de l’acier galva-              Technique. Un contrat d’entre-           puisage à risque, les exigences
+              nisé, ne pas dépasser 60 °C                tien est vivement recommandé             suivantes      doivent        être
+              de température, et limiter à               pour vérifier la bonne marche du         respectées pendant l'utilisation
+              53 °C, voire moins, lors des               système, ainsi que les doses de          des systèmes de production et
+              premiers mois d’utilisation, car           produit injecté.                         de distribution d'eau chaude
+              les hautes températures favo-          Δ   Entretenir l’installation                sanitaire et dans les 24 heures
+              risent le dégazage de l’oxy-               L’ensemble des critères de com-          précédant leur utilisation :
+              gène et la dissolution du zinc.            patibilité avec une installation en      lorsque le volume entre le point
+          √   Réfléchir à la géométrie du                acier galvanisé doit être vérifié        de mise en distribution et le
+              réseau et au positionnement                non seulement lors de la concep-         point de puisage le plus éloigné
+              judicieux des purgeurs, pour               tion, mais tout au long de l’exploi-     est supérieur à 3 litres, la
+              faciliter la purge des gaz dis-            tation du réseau.                        température de l'eau doit être
+              sous, point-clé pour la longé-             Le cahier d’entretien devra              supérieure ou égale à 50 °C
+              vité de l’installation.                    attester :                               en tout point du système de
+                                                         √   d’analyses régulières des            distribution, à l'exception des
+                                                             caractéristiques        physico-     tubes finaux d'alimentation
+          À CONSULTER                                        chimiques de l’eau brute ;           des points de puisage. Le
+          Δ Arrêté du 29-05-97 modifié, relatif          √   des contrôles de réglages et         volume de ces tubes finaux
+            aux matériaux et objets utilisés                 d’alimentation en produits de        d'alimentation est le plus faible
+              dans les installations fixes de                traitement d’eau ;                   possible, et dans tous les cas
+              production, de traitement et de
+              distribution d’eau destinée à la           √   de la surveillance de la tempé-      inférieur ou égal à 3 litres ».
+              consommation humaine                           rature de l’eau distribuée ;
+          Δ   Arrêté du 30 novembre 2005
+              modifiant l’arrêté du 23 juin 1978
+                                                         √   de l’inspection des man-
+                                                             chettes témoin.
+              relatif aux installations fixes des-
+              tinées au chauffage et à l’alimen-
+              tation en eau chaude sanitaire
+              des bâtiments d’habitation, des
+              locaux de travail ou des locaux
+              recevant du public
+                                                          L’ESSENTIEL
+          Δ   Décret 2007-49 du 11-01-2007                Δ Veiller à la qualité des tubes.
+              relatif à la sécurité sanitaire des         Δ Vérifier la qualité de l’eau.
+              eaux destinées à la consomma-
+              tion humaine                                Δ Soigner particulièrement les assemblages.
+          Δ   NF DTU 60.1 : Plomberie sanitaire           Δ Entretenir régulièrement l’installation et éviter les périodes de
+              pour bâtiments                                 stagnation de l’eau.
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

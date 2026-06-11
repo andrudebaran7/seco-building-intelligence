@@ -1,0 +1,170 @@
+                                                                         AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                                                                                     F.08
+                                                                                                                       1/3
+
+
+
+                                        DÉSORDRES DES
+                      Photo © DR AQC    SOLS INDUSTRIELS
+1. LE CONSTAT                                               Δ usure ou traces d’impacts ;
+                                                            Δ fissurations ;
+Les revêtements de sols présents dans les locaux à          Δ glissance ;
+usage industriel peuvent subir des désordres divers :       Δ désordres au droit des joints de coulage ou de
+Δ décollements de l’interface béton/ couche d’usure           construction.
+  (ou revêtement) rapidement suivis d’un craquèle-          Dans le temps, les points 2 et 3 peuvent également
+  ment puis de la destruction du revêtement ;               évoluer vers des décollements.
+
+
+
+
+2. LE DIAGNOSTIC                        sif, propre, sans laitance, âgé de     tement ne sont pas le seul gage de
+                                        plus de 28 jours. Lors des travaux,    pérennité. La réalisation des points
+Ces désordres ont des origines          le support doit être sec en surface.   singuliers doit être également soi-
+variées :                               Il doit également être suffisamment    gnée et faire partie de la conception
+Δ le produit (défaut de préconisa-      poreux pour permettre la pénétra-      même des ouvrages, par exemple,
+  tion, de qualité, non adapté aux      tion du primaire d’accrochage.         les revêtements doivent être ancrés
+  contraintes de l’ouvrage) ;           L’humidité sous-jacente des dal-       au bord des caniveaux. Les relevés
+Δ le support (résistance méca-          lages peut être un facteur déclen-     en plinthes doivent être réalisés
+  nique insuffisante, humidité,         chant du décollement, il est           selon les règles en vigueur sur un
+  défaut de préparation) ;              indispensable d’appliquer un sys-      matériau résistant aux chocs, etc.
+Δ la mise en œuvre (qualité d’exé-      tème adapté, présentant une per-
+  cution, non-respect des préconi-      méance à la vapeur d’eau ou un         Les fissures
+  sations d’emploi des produits).       pare-vapeur.                           Les fissures résultent de mouve-
+Par le terme « sols industriels »,      Pour les dallages industriels en       ments du support ou de chocs
+on désigne trois types d’ouvrages       base ciment, la présence de gra-       thermiques (présence de machines,
+continus :                              nulats sensibles à l’alcali-réaction   lavages à l’eau chaude…). Les joints
+Δ les sols coulés à base de résines,    est un facteur de détérioration de     de dilatation du support et de frac-
+  d’épaisseur ≥ à 1 mm (à ne pas        la couche d’usure, inhérent au gon-    tionnement du revêtement doivent
+  confondre avec les peintures de       flement du support engendré par la     être respectés.
+  sol qui sont des revêtements fil-     réaction d’expansion.
+  mogènes cf. fiche F07) ;                                                     La glissance
+Δ les couches d’usure appliquées        L’usure et les impacts                 En présence de produits gras ou
+  sur béton frais par chape refluée     L’usure et les impacts résultent       d’humidité, les sols peuvent deve-
+  ou par chape incorporée (coulis) ;    d’une mauvaise analyse des             nir dangereusement glissants. La
+Δ les sols rapportés à base de          contraintes du sol, informations       norme expérimentale PR NF P05-011
+  liants hydrauliques adjuvantés        à prendre auprès du maître d’ou-       classe les locaux en fonction de
+  de résines en phase aqueuse.          vrage, ce dernier devant les faire     leur résistance à la glissance qui
+                                        figurer dans les données essen-        détermine les exigences en matière
+Les décollements                        tielles, de l’emploi d’un revêtement   de résistance à la glissance des
+Les décollements résultent la plu-      inadapté aux sollicitations méca-      revêtements.
+part du temps d’un défaut de pré-       niques ou chimiques vis-à-vis des
+paration du support.                    contraintes de l’ouvrage.
+Ce dernier doit être sain, donc cohé-   Les propriétés intrinsèques du revê-
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            AMÉNAGEMENTS INTÉRIEURS
+F.08             DÉSORDRES DES SOLS INDUSTRIELS
+2/3
+
+
+      3. LES BONNES                               industriel ou assimilés. Partie 4 :           tion de béton envisagée sera
+      PRATIQUES                                   Cahier des clauses spéciales.                 ensuite qualifiée en fonction,
+                                                                                                de la réactivité des granulats,
+      Bien connaître les documents de             Bien intégrer les contraintes in-             du bilan des alcalins, d’un
+      référence                                   hérentes à la réparation d’un sol             essai d’expansion, d’une réfé-
+      Le CSTB a établi un guide technique         industriel, beaucoup plus fortes              rence d’emploi similaire de la
+      pour les sols industriels qui synthé-       que lors de la réalisation initiale           formule ou de l’efficacité d’ad-
+      tise les points clefs à considérer          de l’ouvrage :                                ditions inhibitrices (Voir NF EN
+      lors de la conception d’un ouvrage          Δ  sol mouillé ou gras ;                      206/CN et FD P 18-464 Béton
+      de sol industriel. Il définit notam-        Δ  impossibilité d’arrêter la produc-         – Dispositions pour prévenir les
+      ment le principe d’un classement               tion ;                                     phénomènes d’alcali-réaction) ;
+      des locaux (classement I/CM) et             Δ  délais d’intervention plus courts    Δ   pour     la   prévention       des
+      d’un classement des revêtements                du fait de l’arrêt de production ;       désordres pour les sols coulés :
+      de sols (classement P/CM) visant            Δ  risque de pollution d’aliments           √ support : ne pas omettre les
+      à caractériser l’aptitude à l’emploi           par les émanations des produits ;          contrôles d’humidité (bombe
+      d’un revêtement de sol ou d’une             Δ  air ambiant saturé en humidité ;           au carbure) et de résistance
+      couche d’usure incorporée vis-à-            Δ  température ambiante basse ou              (compression,          cohésion,
+      vis des sollicitations mécaniques              négative ;                                 porosité), le nombre de tests
+      et chimiques du local. Le cahier en         Δ  impossibilité de déplacer cer-             permettant d’apprécier les
+      cours de validité est le N° 3577 V3 de         taines machines.                           caractéristiques du support
+      janvier 2010. Le NF DTU 54.1 Revête-        Nota : la réfection des sols indus-           (variable suivant la surface
+      ments de sols coulés à base de résine       triels alimentaires, constamment              des sols à réaliser) et porter
+      de synthèse (travaux neufs et rénova-       lavés, demandent une étude                    une attention particulière à la
+      tion). Partie 1-1 : Cahier des clauses      préalable.                                    préparation et au nettoyage
+      techniques, Partie 1-2 : Critères géné-     Dans tous les cas :                           du support,
+      raux de choix des matériaux, Partie 2 :     Δ  conception : le CCTP doit être           √ mise en œuvre : la réalisation
+      Cahier des clauses spéciales. Le DTU           détaillé et le cahier des charges          doit être soignée, contrôle du
+      13.3 Dallages, conception, calcul et           établi par le maître d’ouvrage             point de rosée, ordonnance-
+      exécution Partie 1 : Cahier des clauses        doit préciser toutes les exigences         ment des couches et respect
+      techniques des dallages à usage                inhérentes aux conditions d’ex-            des quantités fixées, respect
+                                                     ploitation et contraintes aux-             des délais d’attente, travail à
+                                                     quelles sera soumis l’ouvrage ;            l’abri des intempéries, et res-
+        À CONSULTER                               Δ  pour     la     prévention     des         pect du temps de séchage final,
+        Δ Article R4214-3 du Code du Tra-            désordres dus à l’alcali-réac-           √ système : l’aptitude à l’em-
+          vail relatif à la glissance des sols.      tion :                                     ploi des systèmes de revête-
+        Δ NF  DTU 13.3 – Dallage, concep-
+          tion, calcul et exécution
+                                                      √ le CCTP devra définir le niveau         ments de sols coulés à base
+        Δ NF   DTU 54.1 : Revêtements de
+          sols coulés à base de résine de
+                                                        de prévention suivant la caté-
+                                                        gorie de l’ouvrage et sa classe
+                                                                                                de résines de synthèse sur
+                                                                                                les supports susceptibles de
+            synthèse                                    d’exposition climatique,                remontées d’humidité est indi-
+        Δ NF  EN 206/CN – Béton – Spécifi-
+          cation, performance, production
+                                                      √ suivant les cas, la formula-            quée dans les Avis Techniques
+            et conformité – Complément                                                          des produits.
+            national norme NF EN 206 ;
+        Δ   PR NF P05-011 : Revêtement de
+            sol - Classement des locaux en
+            fonction de leur résistance à la
+                                                      L’ESSENTIEL
+            glissance                                 Δ Préconiser un sol industriel adapté aux contraintes et usage du
+        Δ   Guide Technique « Sols à usage              local.
+            industriel » - E-cahier n° 3577 V3
+            du CSTB                                   Δ Procéder aux contrôles nécessaires du support avant de
+        Δ   R.462 Recommandation de                     l’accepter.
+            l’Assurance Maladie- risques              Δ Procéder aux travaux de préparation nécessaires avant l’appli-
+            professionnels                                cation du système de revêtement.
+
+       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                             DÉSORDRES DES SOLS INDUSTRIELS                            F.08
+                                                                                                                         3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Revêtement de sol résine dans une cuisine centrale - Le
+                                                       revêtement apparaît cloqué sous les marmites, dans le local
+                                                       « Préparations chaudes », désordre provoqué par la chaleur
+                                                       des équipements de cuisson. Ce type de locaux n’est pas visé
+                                                       par le DTU 54.1. Les systèmes de revêtement de sols non
+                                                       traditionnels destinés à l’emploi dans les cuisines collectives
+                                                       relèvent d’AT ou DTA. Ces derniers prévoient des disposi-
+                                                       tions spéciales en dessous des équipements fonctionnant à
+                                                       chaud : ces surfaces doivent être traitées avec un revêtement
+                                                       adapté aux fortes températures.
+Photo © DR AQC
+
+
+                                                       Rupture adhésive de revêtement de sol résine dans un atelier
+                                                       de production agro-alimentaire - Le revêtement se détache
+                                                       par plaques de son support. Le support est constitué d’un
+                                                       ancien système de sol coulé, présentant une faible porosité.
+                                                       La couche de masse (polyuréthane ép. 5 mm) a été réalisée
+                                                       sur une couche primaire époxydique. Les décollements se
+                                                       situent à l’interface entre ces deux couches. Le désordre
+                                                       résulte de plusieurs erreurs de mise en œuvre :
+                                                       Δ  rabotage inégal du support, engendrant une rugosité diffé-
+                                                          rentielle ;
+Photo © DR AQC                                         Δ  absence de sablage du primaire (qui aurait permis une
+                                                          adhérence mécanique) ;
+                                                       Δ  probable présence d’un film de condensation sur le pri-
+                                                          maire, au moment de l’application de la couche de masse.
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,207 @@
+                                                                                                ÉQUIPEMENTS             FICHE
+                                                                                                                         E.03
+                                                                                                                             1/3
+                                           CORROSION ET
+                                           EMBOUAGE DES CIRCUITS
+                       Photo © DR - AQC
+                                           DE CHAUFFAGE
+1. LE CONSTAT
+La qualité de l’eau circulant dans le système de                Au fil du temps, l’embouage et l’entartrage d’un circuit
+chauffage est essentielle pour son bon fonctionnement           entraînent l’obstruction partielle ou complète du réseau
+et son rendement énergétique.                                   et également la corrosion de certains composants,
+                                                                notamment des émetteurs en tôle d’acier.
+
+
+
+
+2. LE DIAGNOSTIC
+                                               oxydes ferreux et ferriques, inso-   Lorsqu’il atteint un niveau
+Les origines de ces                            lubles et se déposant sous forme     conséquent, l’embouage se
+phénomènes sont                                de boue dans l’installation.         traduit par :
+nombreuses                                 Δ   Les appoints d’eau consécutifs       Δ des surchauffes locales de la
+Δ La        qualité   physico-chimique         à des fuites. De l’oxygène est à         chaudière. Elles conduisent à
+    de l’eau utilisée, mesurée par             nouveau introduite générant de           des vaporisations locales de l’eau
+    de nombreux paramètres : le pH,            nouveau oxydes.                          et, à terme, à l’éclatement des
+    la dureté (teneur en calcaire dis-     Δ   Les    problèmes      de   dimen-        parties qui atteignent les limites
+    sout), la conductivité (approxima-         sionnement ou défaillance du             d’élasticité du métal ;
+    tion de sa minéralisation totale),         vase d’expansion (entrées d’air      Δ   une baisse d’efficacité des échan-
+    les taux de fer/chlorures/ sul-            importantes)                             geurs de chaleur (impossibilité
+    fates, la présence de particules       Δ   Mauvaise qualité des purgeurs            d’atteindre une température de
+    abrasives en suspension.                   ou purgeurs inefficaces.                 confort dans les locaux concer-
+Δ   L’absence de rincage des cir-          Δ   Mauvais équilibrage des plan-            nés). Les radiateurs sont froids
+    cuits assurant la désagrégation            chers chauffants.                        dans les parties basses. Pour
+    des calamines au démarrage de          Δ   Perméabilité des tubes PER. La           arrêter les gargouillements dans
+    l’installation.                            présence d’oxygène favorise l’ap-        les radiateurs, les utilisateurs
+Δ   Les résidus de construction.               parition de boues.                       doivent les purger pour évacuer
+    Les liaisons des tubes, par des        Δ   Le contact direct cuivre ou              les gaz qui s’accumulent en par-
+    raccords mécaniques ou à sou-              alliage de cuivre tel que le             tie haute ;
+    der sont à l’origine de déchets            laiton et aluminium ou alliage       Δ   des fuites d’eau apparaissent sur
+    (morceaux de filasse, métal                d’aluminium est source de corro-         les faces externes de radiateurs
+    d’apport de soudure autogène               sion. Pour mémoire, il est pros-         en acier ;
+    ou de soudo-brasure, particules            crit par le DTU65.10.                Δ   de fréquents appoints d’eau
+    métalliques…).                         Δ   La typologie et la température           au niveau d’un chauffage indi-
+Δ   La corrosion : cette réaction              des installations, qui peuvent           viduel. Des écoulements d’eau
+    d’oxydation, qui a lieu entre l’oxy-       entraîner la prolifération de            se produisent parfois au niveau
+    gène de l’eau et les parties métal-        bactéries (ferrobactéries ther-          du groupe de sécurité de la
+    liques de l’installation, ramène           morésistantes) qui aggravent le          chaudière.
+    l’acier à son état d’origine en            processus de corrosion.
+
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE                                                                        ÉQUIPEMENTS
+E.03                                                                         CORROSION ET EMBOUAGE
+2/3                                                                          DES CIRCUITS DE CHAUFFAGE
+
+      Au niveau de la chaudière, les                                                                                                                             que des apports d’eau fréquents,                                                                                voire désionisée, afin de réduire
+      dépôts qui se forment sur les faces                                                                                                                        qui enrichissent l’eau du circuit en                                                                            sa conductivité et d’exclure
+      internes de l’installation peuvent                                                                                                                         minéraux et en oxygène dissout,                                                                                 la précipitation de composés
+      conduire à la déformation, voire                                                                                                                           favorisent. Ces corrosions peuvent                                                                              minéraux.
+      l’éclatement des surfaces de                                                                                                                               conduire, à terme, à une perfora-                                                                           Δ   Éliminer les boues en circu-
+      chauffe. En effet, la température de                                                                                                                       tion du métal sous-jacent.                                                                                      lation par la mise en place
+      la paroi chauffée (côté eau) est de                                                                                                                                                                                                                                        de pots à boues, filtres à car-
+      plus en180plus élevée quand l’épais-                                                                                                                                                                 60
+                                                                                                                                                                                                                                                                                 touches ou appareils cyclo-
+      seur de 160 tartre carbonaté calcique                                                                                                                                                                                          Pour 1 mm d’épaisseur en cuivre             niques avec, éventuellement, des
+                                                                                                                                                                                                           50
+      augmente (voir schéma 1).                                                                                                                                                                                                                                                  aimants pour fixer les particules
+                                                                                                                                                                                                                                     Pour 1 mm d’épaisseur en acier
+                                       Température du métal côté eau
+
+
+
+
+                                                                                                                                                                           Température du métal côté eau
+                                                                       140
+                                                                                                                                                                                                           40                                                                    ferromagnétiques.
+                                                180
+                                                                       120
+                                                                                                                                                                             60
+                                                                                                                                                                                                                                                                             Δ   Mettre en place un compteur
+                                                160
+                                                                                                      Pour 1 mm d’épaisseur en cuivre                                                                      30                  Pour 1 mm d’épaisseur en cuivre                   volumétrique sur l’eau d’appoint,
+                                                                       100                                                                                                   50
+                                                                                                      Pour 1 mm d’épaisseur en acier                                                                                                                                             ce qui permet d’évaluer la quan-
+                                                                                                                                                                                                                               Pour 1 mm d’épaisseur en acier
+       Température du métal côté eau
+
+
+
+
+                                                                                                                                           Température du métal côté eau
+
+
+
+
+                                                140                                                                                                                                                        20
+                                                                       80                                                                                                    40                                                                                                  tité d’eau ajoutée et de produit
+                                                120
+                                                                       60                                                                                                                                  10
+                                                                                                                                                                                                                                                                                 de traitement nécessaire. Inclure
+                                                                             0           0,1     Pour
+                                                                                                    0,21 mm d’épaisseur
+                                                                                                               0,3       en0,4cuivre 0,5                                     30                                  0         0,1        0,2        0,3         0,4       0,5       dans le contrat dexploitation des
+                                                100                                   Épaisseur de tartre carbonaté calcique en mm                                                                                   Épaisseur de tartre carbonaté calcique en mm
+                                                                                                 Pour 1 mm d’épaisseur en acier                                                                                                                                                  relevés fréquents.
+                                                                                                                                                                             20
+                                                80 SCHÉMA 1 : LA TEMPÉRATURE CROÎT TRÈS                                                                                         SCHÉMA 2 : LA TEMPÉRATURE DÉCROÎT TRÈS
+                                                     RAPIDEMENT QUAND L’ÉPAISSEUR DE
+                                                     TARTRE AUGMENTE AU NIVEAU DE LA                                                                                         10
+                                                                                                                                                                                  RAPIDEMENT QUAND L’ÉPAISSEUR DE
+                                                                                                                                                                                   TARTRE AUGMENTE AU NIVEAU DES
+                                                                                                                                                                                                                                                                             Le traitement curatif
+                                                                                                                                                                                                                                                                             Δ Dans les circuits « tout acier »,
+                                                60
+                                                   0     0,1    CHAUDIÈRE
+                                                               0,2   0,3    0,4   0,5                                                                                           0     0,1      RADIATEURS.
+                                                                                                                                                                                              0,2    0,3   0,4  0,5
+                                                                                 Épaisseur de tartre carbonaté calcique en mm                                                                                   Épaisseur de tartre carbonaté calcique en mm
+                                                                                                                                                                                                                                                                                 ajouter des produits à base
+                                        SCHÉMA 1 : LA TEMPÉRATURE CROÎT TRÈS                                                                                        SCHÉMA 2 : LA TEMPÉRATURE DÉCROÎT TRÈS                                                                       de soude, d’orthophosphates
+                                          RAPIDEMENT QUAND L’ÉPAISSEUR DE
+                                          TARTRE AUGMENTE AU NIVEAU DE LA
+                                                                                                                                                                 3. LES BONNES
+                                                                                                                                                                      RAPIDEMENT QUAND L’ÉPAISSEUR DE
+                                                                                                                                                                       TARTRE AUGMENTE AU NIVEAU DES
+                                                                                                                                                                                                                                                                                 de sodium et de carbonates
+                                                      CHAUDIÈRE                                                                                                  PRATIQUES         RADIATEURS.                                                                                   de sodium pour rester dans le
+      Au niveau des radiateurs, les dépôts                                                                                                                                                                                                                                       domaine de passivité du métal.
+      (côté eau) réduisent la température                                                                                                                        Traitement préventif                                                                                            Prévoir aussi des inhibiteurs
+      de surface (côté air). La perte de                                                                                                                         Δ Deux couches de peinture anti-                                                                                de corrosion, des séquestrants
+      température est proportionnelle à                                                                                                                                                      corrosion sur les tubes en acier                                                    d’ions    alcalino-terreux,  des
+      l’épaisseur du dépôt (voir schéma 2).                                                                                                                                                  noir.                                                                               réducteurs d’oxygène et des pro-
+      Sous les dépôts, la corrosion naît de                                                                                                                      Δ                           Tube PER avec barrière à                                                            duits de suspension-dispersion
+      la formation d’une pile galvanique,                                                                                                                                                    oxygène.                                                                            des boues.
+                                                                                                                                                                 Δ                           Ne jamais utiliser des métaux dif-                                              Δ   Éliminer, dans certains cas, les
+                                                                                                                                                                                             férents en particulier au niveau                                                    dépôts durs d’oxydes de fer
+                                                                                                                                                                                             des raccords.                                                                       en les remettant en circulation
+                                À CONSULTER
+                                Δ NF  DTU 65.10 : Canalisations                                                                                                  Δ                           Nettoyer et rincer impérative-                                                      grâce à des additifs spécifiques
+                                  d’eau chaude ou froide sous pres-                                                                                                                          ment l’installation lors des essais                                                 (attention, certaines pompes
+                                                             sion et canalisations d’évacuation                                                                                              de mise en pression afin d’élimi-                                                   supportent mal le passage des
+                                                             des eaux usées et des eaux plu-                                                                                                 ner la calamine et les résidus de                                                   résidus abrasifs).
+
+                                Δ
+                                                             viales à l’intérieur des bâtiments
+                                                             NF DTU 60.5 : Canalisations en
+                                                                                                                                                                                             mise en œuvre générateurs de                                                    Δ   Faire en sorte que les boues et
+                                                             cuivre - Distribution d’eau froide                                                                                              boue.                                                                               les dépôts ne se reforment pas.
+                                                             et chaude sanitaires, évacuation                                                                    Δ                           S’assurer que l’eau, de remplis-
+                                                             d’eaux usées, d’eaux pluviales,                                                                                                 sage et d’appoint, est adoucie,
+                                                             installations de génie climatique.
+                                Δ                            NF DTU 65.14 : Exécution de plan-
+                                                             chers chauffants à eau chaude
+                                Δ                            GS19 : Procédés de traitement                                                                                                                 L’ESSENTIEL
+                                                             des eaux de chauffage et de
+                                                             refroidissement par addition de                                                                                                               Δ Nettoyer et rincer le circuit avant mise en service.
+                                                             produits et rétention de particules                                                                                                           Δ Vérifier la bonne qualité de l’eau de circulation et d’appoint, et
+                                                             – e-cahiers du CSTB, Cahier 3614,                                                                                                                  si nécessaire la traiter, dans le respect de la réglementation.
+                                                             février 2008)
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                                        CORROSION ET EMBOUAGE                          E.03
+                                                                      DES CIRCUITS DE CHAUFFAGE                          3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                             Corps de chauffe en fonte défectueux
+
+
+
+
+Photo © DR - AQC
+                                                             Fissuration du corps de chauffe défectueux
+
+
+
+
+Photo © DR - AQC
+                                                             Dépôt de boue à l’intérieur du corps de chauffe
+
+
+
+
+Photo © DR - AQC
+                                                             Épaisse couche de dépôt de boue à l’intérieur du
+                                                             corps de chauffe
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

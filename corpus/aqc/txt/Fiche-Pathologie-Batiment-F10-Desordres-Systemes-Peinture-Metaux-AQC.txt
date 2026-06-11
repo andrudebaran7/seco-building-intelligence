@@ -1,0 +1,195 @@
+                                                                              AMÉNAGEMENTS INTÉRIEURS                    FICHE
+                                                                                                                          F.10
+                                          DÉSORDRES DES                                                                       1/3
+
+
+
+                                          SYSTÈMES DE PEINTURE
+                       Photo © DR AQC     SUR MÉTAUX
+1. LE CONSTAT                                                  Sur les métaux ferreux, les départs de corrosion appa-
+                                                               raissent souvent sur les supports mal préparés, ainsi
+Un revêtement de peinture a toujours une fonction              que dans les zones ou la peinture est peu épaisse.
+esthétique. Il peut également constituer la seule pro-         La galvanisation présente l’intérêt d’être plus durable
+tection anticorrosion d’un métal ou n’être qu’une partie       qu’une protection par peinture, qui doit être entrete-
+de celle-ci.                                                   nue de façon plus régulière.
+Sur l’acier galvanisé, le désordre le plus courant est un      Les menuiseries en aluminium prélaqué ont leur
+décollement généralisé à l’interface zinc/peinture.            propre pathologie liée à la corrosion filiforme de ce
+                                                               métal.
+
+
+
+
+2. LE DIAGNOSTIC                            dus à l’absence de primaire.                phosphorique, soit balayée à
+                                         Δ Le liant de la peinture glycéro-             faible pression à l’aide d’un abra-
+Généralités                                 phtalique peut réagir avec la               sif fin et doux (le sablage détruit
+Δ Avant application, tous les galvanisation pour former une                             la galvanisation).
+  oxydes doivent être éliminés.     couche de savons de zinc.         Δ                 Sur une galvanisation qui a été
+Δ La durée de protection anticor- Δ Si la nature du liant de la pein-                   longtemps exposée aux intem-
+    rosion d’une peinture dépend            ture n’est pas en cause, il faut            péries, les hydroxydes de zinc
+    de l’épaisseur du film. Vu au           s’intéresser à l’état de surface de         ont réagi avec le gaz carbonique
+    microscope, le détail de surface        la galvanisation au moment de               ambiant et forment une couche
+    d’un acier sablé ressemble à une        la mise en peinture. La surface             plus solide de carbonates de
+    chaîne de montagnes ; les som-          de la couche de zinc évolue, du             zinc. Un lavage soigneux suffit à
+    mets seront moins bien proté-           jour de la galvanisation jusqu’à            préparer la surface.
+    gés que les vallées. De même,           environ un an après. Pendant            Δ   La vitesse de corrosion d’un
+    les angles saillants doivent être       cette période où il se forme des            métal varie de manière significa-
+    chanfreinés ou « arrondis » pour        oxydes et hydroxydes de zinc                tive d’une zone géographique à
+    préserver l’épaisseur du film en        peu adhérents, les supports gal-            une autre. Celle du zinc est très
+    tout point.                             vanisés requièrent une prépara-             faible en atmosphère sèche et
+Δ   Un primaire dit d’atelier est           tion de surface plus poussée que            non polluée, et plus élevée en
+    une protection provisoire qui           les supports vieillis. Il faut élimi-       atmosphère humide et indus-
+    ne saurait constituer la pre-           ner la rouille blanche et/ou les            trielle. De même, une proximité
+    mière couche d’un revêtement            huiles ou graisses de protection            avec un milieu côtier augmente
+    anticorrosion.                          devant précisément éviter sa for-           aussi la vitesse de corrosion.
+Δ   L’application d’une peinture sur        mation (voir extrait DTU). Les bles-        Ainsi, il est possible de définir
+    une surface froide condensante          sures importantes de la couche              plusieurs types d’atmosphère
+    conduit à des défauts d’adhé-           de zinc dues aux manipulations              plus ou moins propices à la cor-
+    rence puis à des décollements.          ou aux assemblages doivent être             rosion du zinc, comme le fait la
+                                            protégées par une peinture riche            norme NF EN ISO 14713.
+L’acier galvanisé                           en zinc. Ensuite, la surface peut       Δ   La corrosion atmosphérique de
+Δ Les décollements de peinture              être soit brossée et dérochée               l’acier galvanisé se fait en trois
+    sur l’acier galvanisé peuvent être      à l’aide d’une solution d’acide             étapes :
+
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE                   AMÉNAGEMENTS INTÉRIEURS
+F.10                    DÉSORDRES DES SYSTÈMES
+2/3                     DE PEINTURE SUR MÉTAUX
+
+
+          √ une étape courte pendant                                            L’aluminium                               Δ Soigner la conception et le choix
+               laquelle une couche protec-                                      Δ Les profilés d’aluminium pré-               des produits : une bonne pro-
+               trice va se former : le carbo-                                       laqué exposés en milieu marin             tection anticorrosion nécessite
+               nate de zinc ;                                                       ou industriel peuvent être le             une conception soignée pour
+          √    une longue période où la                                             siège de cloquages en forme de            supprimer autant que possible
+               couche de zinc se corrode ;                                          petites galeries en relief. L’ana-        les rétentions d’eau, accompa-
+          √    et enfin, la corrosion de l’acier                                    lyse des éléments présents sous           gnée de préconisations détail-
+               là où le zinc a été entièrement                                      les cloques révèle la présence de         lées des modes opératoires de
+               consommé.                                                            chlorures qui en sont le facteur          préparation des supports, puis
+                                                                                    déclenchant.                              un choix de produits adaptés
+                                                                                Δ   Les entreprises labellisées Qua-          aux ambiances. Ces précautions
+                                                                                    licoat mettent en œuvre des               seront encore plus importantes
+                                                                                    gammes Qualimarine dont la                si les phases de reprises sont
+                                                                                    préparation de surface plus               nombreuses avec des interve-
+                                                                                    poussée du métal apporte                  nants multiples aux différents
+                                                                                    une meilleure résistance aux              interfaces « métal/subjectiles/
+                                                                                    ambiances chlorées.                       peinture de finition », entre la
+                                                                                                                              fabrication, le montage, et la
+                                                                                                                              finition de l’ouvrage. L’examen
+          zinc pur         6% Fe            10% Fe       acier de base          3. LES BONNES                                 des dossiers de sinistres fait
+               Diagramme d’une section de revêtement                            PRATIQUES                                     souvent apparaître une cascade
+                     galvanisé à chaud typique                                                                                d’entreprises, à qui la commande
+                                                                                Δ Réaliser une préparation de la              finale a été passée sans aucune
+                                                                                    surface du support bien spéci-            précision.
+                                                                                    fique à sa nature.
+                                                                                Δ   Respecter les épaisseurs mini-        DÉFORMATION DU FILM
+                                                                                                                          PAR LES PRODUITS
+      dégraissage rinçage nettoyage rinçage flux séchage immersion refroidis-       males des différentes couches,        DE CORROSION
+                          chimique                         dans le  sement
+                                                         zinc fondu                 gage du bon résultat final.                                                             CI-              H2O
+                   Processus de galvanisation typique                           Δ   Respecter      parfaitement     les
+                                                                                                                          Délaminage mécanique
+                                                                                                                          Peinture
+                                                                                                                                                                   AI3+
+                                                                                                                                                                   H+
+                                                                                                                                                                          AI(OH)3            O2
+
+                                                                                    conditions limites d’application      oxyde
+                                                                                                                                AI          AICI4-
+      © Tiré de l’ouvrage de l’Association Française de
+      génie Civil – La pérennité des ouvrages en acier.                             des produits : en température,
+                                                                                                                          La propagation se fait    Zone anodique désaérée chargée Zone cathodique
+                                                                                    humidité, ensoleillement, temps       dans la direction opposée en CI- et acide. Formation d’un aérée alcaline
+                                                                                                                          à la zone aérée           complexe chloruré soluble
+                                                                                    de séchage, et cela pour l’applica-
+                                                                                    tion et la phase de durcissement.
+                                                                                Δ   Choisir la protection anticorro-
+                                                                                    sion en fonction de l’agressivité
+          À CONSULTER                                                               du milieu et de la fréquence d’en-
+          Δ NF  DTU 32.1 : Travaux de bâti-
+            ment - Charpente en acier
+                                                                                    tretien souhaitée (pour l’acier, la
+                                                                                    protection la plus durable est
+          Δ NF  EN 1090-3 : Exécutions des
+            structures en acier et des struc-
+                                                                                    une galvanisation à chaud, qui
+                                                                                    peut être recouverte de peinture
+               tures en aluminium
+          Δ NF  EN-1062-1 : Peintures et vernis                                     pour des raisons esthétiques).
+          Δ NF  EN ISO 14713-1, 2 et 3 : Revê-
+            tements de zinc
+          Δ FD  T30-807 : Peintures et vernis -
+            Peinture pour le bâtiment
+                                                                                    L’ESSENTIEL
+          Δ EN  ISO 4618 : Peintures et vernis -
+            Termes et définitions
+                                                                                    Δ Soigner la préparation du support et l’exécution en respectant
+                                                                                      les conditions d’application des produits.
+          Δ NF  T36-005 : Peintures et vernis
+            - Classification                                                        Δ Prendre en compte l’interface entre les entreprises
+          Δ NF  EN ISO 4624 : Peintures et ver-
+            nis - Essais de traction
+                                                                                       intervenantes.
+
+
+
+       >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                           AMÉNAGEMENTS INTÉRIEURS                     FICHE
+                                                                        DÉSORDRES DES SYSTÈMES                         F.10
+                                                                         DE PEINTURE SUR MÉTAUX                            3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Corrosion de garde-corps en front de mer, ouvrage âgé
+                                                       de 7 ans.
+                                                       Corrosion des pièces d’assemblage : un garde-corps est un
+                                                       organe de sécurité. La « rouille blanche » rend les pièces cas-
+                                                       santes, générant un risque pour les personnes. Les pièces
+                                                       corrodées sont des pièces moulées constituées d’un alliage
+                                                       d’aluminium, zinc, magnésium, cuivre : le ZAMAK. Or le cuivre
+                                                       est particulièrement sensible en ambiance saline (couples
+                                                       électrolytiques). Le thermolaquage ne suffit pas à protéger
+                                                       ces pièces. Le support, sa préparation et la finition sont inter-
+Photo © DR AQC                                         dépendants. Leur adéquation est déterminante vis-à-vis de
+                                                       l’exposition.
+
+                                                       Corrosion filiforme de menuiseries alu
+                                                       Des menuiseries alu en atmosphère marine sont le siège de
+                                                       nombreuses cloques 5 ou 6 ans après les travaux. La cor-
+                                                       rosion de l’alu principalement à partir des arêtes ou assem-
+                                                       blages des profilés conduit à l’apparition des cloques sous
+                                                       l’effet de la réaction anodique. Il faut s’assurer de la bonne
+                                                       composition de l’alu (nuance d’alu 6060 bâtiment), de la
+                                                       bonne préparation de l’alu et de la qualité du laquage (label
+                                                       QUALICOAT ou QUALIMARINE). Les menuiseries alu doivent
+                                                       être nettoyées régulièrement en fonction de leur exposition.
+Photo © DR AQC
+
+
+
+
+                                                       Corrosion en parties courantes de menuiseries acier
+                                                       La corrosion est constatée en de nombreux endroits sur des
+                                                       menuiseries acier thermolaquées 6 ans après les travaux.
+                                                       Les analyses en laboratoire ont mis en évidence une sous-
+                                                       épaisseur de la peinture de protection de l’acier dans de très
+                                                       fortes proportions.
+                                                       Selon la norme NF T 34.550 il faut adapter la préparation, la
+                                                       nature et l’épaisseur des systèmes de protection au sup-
+                                                       port à l’ambiance (classe de corrosivité du site). Il existe
+                                                       une certification pour la qualité de la protection de l’acier :
+Photo © DR AQC                                         QUALISTEELCOAT.
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

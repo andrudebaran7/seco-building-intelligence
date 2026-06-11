@@ -1,0 +1,194 @@
+                                                                                                                 ÉQUIPEMENTS              FICHE
+                                                                                                                                           E.07
+                                                                                                                                               1/3
+                                         DÉSORDRES TOUCHANT
+                                         LES CONDUITS DE FUMÉE
+                     Photo © DR - AQC    (BISTRAGE ET SOUCHE)
+1. LE CONSTAT
+Les conduits de fumée sont parfois l’objet de désordres                L’échauffement du conduit peut provoquer, également,
+qui peuvent être lourds de conséquences. Des incen-                    le démarrage d’un incendie à l’extérieur de celui-ci sur
+dies peuvent se déclarer à l’intérieur du conduit et pro-              les éléments combustibles (bois principalement) situés
+voquer l’endommagement du conduit et, au pire, se                      à proximité.
+propager au bâtiment lui-même.
+
+
+
+
+2. LE DIAGNOSTIC
+                                                    DÉVOIEMENT DES CONDUITS                              conduit de la vapeur d’eau qu’ils
+Cause principale                                                                                         contiennent.
+L’évacuation trop lente des gaz                                                                      Δ   Une mauvaise géométrie du
+brûlés et le refroidissement trop                                                                        conduit.
+rapide de ceux-ci peuvent entraîner                                   20°                  45° max       Le tirage d’un conduit augmente
+une condensation des goudrons et                                                                         avec son élancement (l’élan-
+imbrûlés contenus par les fumées                                                                         cement étant proportionnel
+                                                        Plus de 5 m
+
+
+
+
+                                                                            Moins de 5 m
+
+
+
+
+sur les parois du conduit.                 Plus de 2
+                                                                                                         au rapport entre la hauteur et
+Avec l’augmentation des rende-          dévoiements                                                      les dimensions en coupe du
+                                             interdit
+ments des appareils, les tempé-                                                                          conduit). Plus le tirage est élevé,
+ratures de fumées baissent et le                                                                         plus la vitesse d’évacuation des
+risque de dépôts de bistre est                                                                           gaz est rapide ce qui diminue
+augmenté.                                        INTERDIT
+                                                                                                         les risques de refroidissement,
+L’insuffisance d’amenée d’air induit                                                                     condensation et bistrage.
+une combustion incomplète et par            des gaz (pour une maison indivi-
+conséquent une augmentation de              duelle de niveau R + 1 au plus, il                       Autres causes de sinistres
+la production de « déchets » dans           est autorisé deux dévoiements                            Δ Une hauteur insuffisante de la
+les fumées.                                 maximum dont l’angle ne doit                                 souche peut être à l’origine d’un
+Ces dépôts de bistre risquent               pas excéder 45°).                                            défaut de tirage ou même de
+ensuite de s’enflammer, provo-          Δ   Une insuffisance d’isolation du                              refoulement dans le conduit.
+quant un feu de cheminée.                   conduit et/ou de la souche.                              Δ   Afin de favoriser les dispersions
+                                            Une isolation correcte du conduit                            des gaz, la souche doit dépasser
+Les origines du phénomène                   et de la souche permet d’éviter                              de 40 cm minimum le niveau de
+Δ Une mauvaise géométrie du                 une baisse trop rapide de la tem-                            tout faîtage ou obstacle situé
+  conduit ralentissant la vitesse           pérature des gaz de combustion.                              à moins de 8 m (120 cm dans
+  d’évacuation.                             Une température trop froide des                              le cas d’une toiture terrasse ou
+  Les conduits doivent être ver-            gaz entraîne une élévation moins                             d’une pente inférieure à 15 °).
+  ticaux afin d’offrir le moins de          rapide de ceux-ci et favorise la
+  résistance possible à l’évacuation        condensation sur les parois du
+
+
+          >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              ÉQUIPEMENTS
+E.07               DÉSORDRES TOUCHANT LES CONDUITS
+2/3                DE FUMÉE (BISTRAGE ET SOUCHE)
+
+
+      Δ Une distance de sécurité (ancien-          DIFFÉRENTS TYPES DE HAUTEURS DE SOUCHE                    3. LES BONNES
+          nement appelée « écart au feu »)                                                                   PRATIQUES
+          insuffisante peut provoquer
+          également un incendie de                                                40 cm                      Δ Vérifier que l’isolation du conduit
+          charpente.                                                                                           et de la souche sont correctes.
+      Δ   En cas de feu de cheminée, l’in-                                                                   Δ Les éléments constitutifs des
+          cendie peut être propagé du                                                                            conduits (boisseaux, éléments
+          fait d’un défaut d’étanchéité                                                                          métalliques) déterminent l’étan-
+          du conduit à la charpente. Par                                                                         chéité des conduits et leur
+                                                                           R≥8m
+          ailleurs, en raison du simple                                                                          isolation.
+          échauffement par proximité                                                                         Δ   Réaliser des conduits verticaux.
+          (rayonnement) de la charpente,
+                                                                          40 cm                              Δ   Prévoir une hauteur de souche
+          ou d’autres matériaux com-                                                                             suffisante.
+          bustibles, un embrasement à                                                                        Δ   Vérifier la distance au feu.
+          l’extérieur du conduit peut se                                                                     Δ   Respecter la distance de sécu-
+          déclencher spontanément (cf.                                                                           rité entre conduit et éléments
+          fiche E6 : Cheminées à foyer fermé                                                                     combustibles.
+          et inserts).                                                                                       Δ   Vérifier la section de l’amenée
+      Δ   Selon le DTU 24.1, les conduits                        120 cm                   100 cm                 d’air.
+          préfabriqués isolés autorisent                                                                     Δ   Dimensionner le conduit de
+          une distance de sécurité réduite.                                                        ≤ 20 cm       fumée selon la norme NF EN
+          Cette réduction est autorisée en                                                                       13384, à partir des caractéris-
+                                                        Terrasse plane               Acrotère
+          fonction des températures de                   ou acrotère              dépassant 20 cm                tiques de l’installation (il existe
+                                                    ne dépassant pas 20 cm
+          fumées et du niveau d’isolation                                                                        des logiciels pour effectuer ces
+          du conduit.                                                                                            calculs).
+
+
+
+          À CONSULTER
+          Δ NF   DTU 24.1 : Travaux de
+            fumisterie                                L’ESSENTIEL
+          Δ Arrêté     interministériel
+            22 octobre 1969 relatif aux
+                                        du
+                                                      Δ Veiller à l’isolation, à la géométrie du conduit et à la hauteur
+              conduits de fumée desservant les          minimale de la souche.
+
+          Δ
+              logements
+              Règles RAGE concernant les appa-
+                                                      Δ Respecter les distances de sécurité, fonction de la nature des
+                                                          conduits.
+              reils de chauffage divisé à bûches
+
+
+
+
+      4. L’ŒIL DE L’EXPERT
+                                                                      Un tubage a été mis en œuvre dans un conduit de fumée
+                                                                      existant.
+                                                                      Il n’a pas été effectué de ramonage, ni de débistrage avant
+                                                                      pose du tubage. Cette opération préalable est obligatoire
+                                                                      selon l’article 15.4.1 du DTU 24.1 P1 de février 2006. La cha-
+                                                                      leur du tubage a enflammé le bistre sur la paroi en tête de
+                                                                      conduit. De plus, il n’y a pas de protection à la pluie en tête
+                                                                      du tubage
+
+      Photo © DR - AQC
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                          DÉSORDRES TOUCHANT LES CONDUITS                              E.07
+                                                              DE FUMÉE (BISTRAGE ET SOUCHE)                              3/3
+
+
+
+                                                       La souche du conduit de fumée en terre cuite est suppor-
+                                                       tée par un ouvrage en béton. Les planches de coffrage en
+                                                       bois de cet ouvrage n’ont pas été déposées après le séchage
+                                                       du béton. La distance de sécurité n’est donc pas respec-
+                                                       tée. Le bois, matériau éminemment inflammable, risque de
+                                                       s’enflammer.
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+                                                       Ce tronçon de conduit de fumée a été déposé. La couche de
+                                                       bistre à l’intérieur témoigne d’une insuffisance de ramonage.
+                                                       Ce dépôt inflammable doit être éliminé par un ramonage
+                                                       deux fois par an, dont une fois pendant la période d’utilisa-
+                                                       tion. La corrosion extérieure correspond à un mauvais choix
+                                                       de matériau (tôle galvanisée au lieu d’inox).
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+                                                       L’eau de pluie s’infiltre au travers du conduit de fumée en
+                                                       terre cuite. L’écoulement de l’eau, à l’intérieur du conduit,
+                                                       s’échappe vers l’extérieur du conduit. Il est probable qu’un
+                                                       mauvais raccord a été réalisé entre le conduit et la souche,
+                                                       par un boisseau recoupé. La protection vis-à-vis de l’eau de
+                                                       pluie n’est également pas suffisante, en tête du conduit
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

@@ -1,0 +1,265 @@
+                                                                                TOITURES ET CHARPENTES                FICHE
+                                                                                                                      C.07
+                                                                                                                           1/4
+                                         CONDENSATION EN
+                                         SOUS-FACE DES
+                      Photo © DR - AQC
+                                         COUVERTURES MÉTALLIQUES
+
+1. LE CONSTAT
+Une ventilation insuffisante sous la toiture ou un      similaires à ceux produits par des infiltrations d’eau : humidifi-
+excès d’humidité dans les locaux sous-jacents           cation des panneaux isolants, déformation voire effondrement
+peut causer une condensation en sous-face des           de faux-plafond.
+couvertures métalliques, engendrant des dégâts
+
+
+
+
+2. LE DIAGNOSTIC                         La ventilation de la                     ou moyenne hygrométrie, cf. DTU
+                                         couverture en bac acier                  40.35). Le respect des conditions
+Les ouvrages concernés par cette         L’air présent dans le plénum en          d’hygrométrie (quantité de vapeur
+fiche sont, pour la plupart, des         sous-face de couverture se charge        d’eau produite, renouvellement
+couvertures de bâtiments pour les-       de la vapeur d’eau contenue dans         d’air dans le local) évite la plupart
+quelles, de part et d’autre, règnent     l’air provenant de l’habitation ou       des désordres. L’excès d’humidité
+un écart de température ∆T et un         du local sous-jacent, malgré la pré-     peut également être dû à des dé-
+taux d’humidité défavorable ; cou-       sence du pare-vapeur destiné à           fauts ponctuels ou pérennes de
+vertures réalisées avec des plaques      limiter cette pénétration (blessure      ventilation des locaux (panne de
+nervurées issues de tôles d’acier        du pare-vapeur ...).                     VMC, défauts d’entrée d’air neuf…).
+galvanisé. Cette toiture comprend        Par ailleurs, le matériau de cou-
+habituellement cinq éléments :           verture peut avoir une tempéra-          La qualité de la conception
+le plafond, le pare-vapeur, l’isola-     ture inférieure à celle du plénum,       et de la mise en œuvre
+tion thermique, la lame d’air éven-      jusqu’à un point appelé point de         En cas de discontinuité dans le
+tuelle, la plaque métallique (avec       rosée en dessous duquel se pro-          pare-vapeur, il se produit des mi-
+ou sans régulateur de condensa-          duit la condensation. Si le matériau     grations de vapeur d’eau vers la
+tion), sinon dans certains cas un        de couverture est assez rugueux,         lame d’air et vers le matériau de
+panneau sandwich, traditionnel, à        les gouttelettes de condensation         couverture. Il y a alors un risque im-
+deux parements en acier et à âme         sont retenues pendant un cer-            portant de condensation par temps
+polyuréthane.                            tain temps. Avec les métaux, non         froid.
+Du fait de la forte conductivité ther-   poreux par nature, ces condensats        Dans le cas particulier des bâti-
+mique et de l’absence de porosité        tombent plus facilement sur l’iso-       ments à couverture en panneaux
+du matériau, les couvertures métal-      lant et le faux-plafond.                 sandwich, le parement intérieur
+liques sont naturellement exposées       Une ventilation correcte du plénum       a une température supérieure au
+au phénomène de condensation.            permet d’éliminer une grande par-        parement extérieur et il n’y a pas
+L’ampleur de ce phénomène peut           tie de cette humidité.                   systématiquement de plénum avec
+être réduite à l’aide d’une concep-                                               une isolation complémentaire.
+tion adéquate en toiture tel un          L’excès d’humidité dans les              Dans ces conditions, par temps
+système d’isolation continu avec         locaux sous-jacents                      froid particulièrement, des conden-
+pare-vapeur d’une part et, avec la       Le choix du système d’isolation, y       sations ne peuvent être totalement
+prise en compte de la classe d’hy-       compris le panneau sandwich de           exclues sur les fixations traver-
+grométrie et de la ventilation des       couverture, dépend de la classifi-       santes. Par ailleurs, elles peuvent
+locaux sous-jacents d’autre part.        cation des locaux selon la quantité      également se produire au droit
+                                         de vapeur d’eau produite (faible         des points singuliers en présence
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           TOITURES ET CHARPENTES
+C.07            CONDENSATION EN SOUS-FACE
+2/4             DES COUVERTURES MÉTALLIQUES
+
+      de ponts thermiques (jonction de                        ISOLATION ENTRE PANNES                                       droit des points singuliers,
+      la couverture avec d’autres parois                        « TOITURES FROIDES »                                       pénétrations, accessoires de
+                                                        Exemple de réalisation en égout
+      de l’enveloppe) ou en cas de défaut             Closoir en                                                           toiture et jonctions avec les
+      d’étanchéité à l’air aux jonctions              mousse                                                               plaques éclairantes. Aucune
+      entre panneaux.                                                                                                      nécessité d’avoir, dans ce cas,
+                                                                                                                           un régulateur entre tôle et
+                                                    Panne                              Panneau isolant autoporteur         isolant.
+      3. LES BONNES                                                                                                    √   Si l’isolant est sur pannes,
+      PRATIQUES                                                    ISOLATION SUR PANNES                                    la couverture est dite chaude,
+                                                                   « TOITURES CHAUDES »
+                                                        Exemple de réalisation en égout
+                                                                                                                           sans lame d’air. Aucune né-
+      Il convient en amont du propos, de              Closoir en                                                           cessité d’avoir dans ce cas
+      rappeler les définitions du DTU.                mousse                                                               un régulateur entre tôle et
+      Toitures froides : toitures caracté-                                                                                 isolant. Le pare-vapeur est ici
+      risées par la présence en sous-face        Cornière                                                                  également situé sous l’isolant.
+                                                 métallique                            Isolant avec pare-vapeur
+      de la plaque nervurée d’une lame                                                                                     Ce procédé relève de l’avis
+      d’air ventilée avec l’air extérieur. Par                                                                             technique.
+      exemple, il s’agit d’une couverture                      Exemple de réalisation
+                                                               aux parties éclairantes
+      non isolée ou dont l’isolation est                                                                             Le cas particulier des couver-
+      placée sous les pannes.                                      Tube pontet                  Proﬁlé               tures en panneaux sandwich
+                                                               Bac acier                        translucide
+      Toitures chaudes : toitures isolées                                                                            impose un traitement des points
+      en sous-face des plaques nervu-                                                                                singuliers, notamment avec des
+      rées et caractérisées très générale-                                           Cornière repliée                compléments d’isolation et d’étan-
+      ment par l’absence d’une lame d’air                           Isolant avec pare-vapeur                         chéité à l’air aux jonctions de la
+      entre la sous-face de la couverture                                                                            couverture avec d’autres parois de
+      et l’isolation. Lorsqu’une lame d’air        NB : Les plaques d’éclairement                                    l’enveloppe, assurant la continuité
+      existe (au moins 2 cm), elle n’est           simple peau, incorporées dans le                                  thermique (voir Recommandation
+      pas ventilée avec l’air extérieur.           plan de la toiture, constituent des                               professionnelle RAGE sur les cou-
+                                                   points froids non protégés par un                                 vertures en panneaux sandwich à
+      Δ Adapter       les précautions à            pare-vapeur. Dans ce cas, les
+                                                   condensations ne peuvent être
+                                                                                                                     deux parements en acier et à âme
+        prendre pour éviter les sinistres                                                                            polyuréthane). Ces couvertures se-
+                                                   évitées sous ces plaques.
+        en fonction de la position de                                                                                ront dédiées à des locaux dont les
+        l’isolant, sous pannes (toiture                  disposé sur pannes d’une per-                               températures sont positives, dont
+        froide), entre ou sur pannes                     méance minimale bénéficiant                                 l’hygrométrie intérieure est faible à
+        (toiture chaude) et traiter spé-                 d’un Avis Technique pour                                    moyenne (voir DTU).
+        cifiquement le cas particulier                   cet emploi. Vérifier ensuite
+        des panneaux sandwich de                         la bonne ventilation de l’en-                               Δ Définir et tenir compte de l’hygro-
+        couverture.                                      semble de la couverture, en                                   métrie du local en considérant :
+        Contrairement à la toiture froide                particulier les bas de rampant.                               √ le taux d’occupation ;
+        (passage franc de l’air extérieur           √    Si l’isolant est entre pannes,                                √ la quantité de vapeur d’eau
+        en sous-face de la couverture),                  la couverture (toiture) doit                                      produite à l’intérieur du local
+        la toiture chaude interdit la pé-                être chaude avec une lame                                         par heure ;
+        nétration de l’air extérieur vers la             d’air non ventilée ou sans                                    √   le niveau de chauffage ;
+        sous-face du métal.                              lame d’air (l’isolant est contre                              √   la présence de conditionne-
+        √   Si l’isolant est sous pannes,                la couverture). Le pare-vapeur                                    ment d’air.
+            un régulateur de condensa-                   est sous l’isolant. Ce système                              Le soin apporté aux jonctions et à
+            tion (feutre ou produit absor-               s’emploie dans les locaux à                                 la continuité du système d’isolation
+            bant) doit en plus être prévu                faible hygrométrie unique-                                  et du pare-vapeur peut éviter des
+            en sous-face du bac, ou un                   ment (voir DTU 40.35). Véri-                                sinistres.
+            isolant de faible épaisseur                  fier l’absence d’entrées d’air
+            comportant un pare-vapeur                    en périphérie (closoirs) et au
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                                                         TOITURES ET CHARPENTES                     FICHE
+                                                                                                 CONDENSATION EN SOUS-FACE                                          C.07
+                                                                                               DES COUVERTURES MÉTALLIQUES                                            3/4
+                                LIAISON FAÎTAGE CONTRE MUR                                                                  LIAISON FAÎTAGE SIMPLE :
+                                                                                                                                                       ≥ 120
+                                                                                                                                                               mm
+                                            Joint mastic   1                                                      Bandeau de faîtage à saillie     1
+                                   Bande porte solin       2                                                Panneau sandwich de couverture         2
+                                 Faîtière contre mur       3                                                          Complément d’isolation       3
+    Coupe                                                                                    Coupe
+                             Complément d’isolation        4                                                                           Cornière    4
+                                  Panneau sandwich         5                                                                Joint d’étanchéité     5
+                                   Joint d’étanchéité      6                                                   Panneau sandwich de bardage         6
+                                                   Mur     7
+
+
+Travaux d’étanchéité à l’air                                                             Travaux d’étanchéité à l’air
+Mise en oeuvre de joints d’étanchéité (6)                                                Mise en oeuvre de joints d’étanchéité (5)
+Travaux de correction du pont thermique                                                  Travaux de correction du pont thermique
+Mise en oeuvre d’un complément d’isolation                                               Mise en oeuvre d’un complément d’isolation
+(en laine minérale ; λ ≤ 0,042 W/m.K (4)                                                 (en laine minérale ; λ ≤ 0,042 W/m.K (3)
+
+
+
+
+                                   LIAISON FAÎTAGE DOUBLE :                                                            LIAISON BARDAGE / COUVERTURE
+
+                               Faîtière double pente       1                                               Panneau sandwich de couverture 1
+                             Complément d’isolation        2                                                               Joint d’étanchéité 2
+    Coupe                          Joint d’étanchéité      3                                 Coupe                   Complément d’isolation 3
+                                  Panneau sandwich         4                                                                         Gouttière 4
+                                   Tôle sous faîtière      5
+                                                                                                                           Joint d’étanchéité 5
+
+                                                                                                              Panneau sandwich de bardage 6
+
+
+Travaux d’étanchéité à l’air                                                             Travaux d’étanchéité à l’air
+Mise en oeuvre de joints d’étanchéité (3)                                                Mise en oeuvre de joints d’étanchéité (2+5)
+Travaux de correction du pont thermique                                                  Travaux de correction du pont thermique
+Mise en oeuvre d’un complément d’isolation                                               Mise en oeuvre d’un complément d’isolation
+(en laine minérale ; λ ≤ 0,042 W/m.K (2)                                                 (en laine minérale ; λ ≤ 0,042 W/m.K (3)
+
+
+
+     À CONSULTER                                               Source : Recommandation professionnelle RAGE - Couvertures en panneaux sandwich à deux parements en
+
+     Δ NF    P30-101 : Couverture
+       - Terminologie
+                                                               acier et à âme polyuréthane
+
+
+     Δ NF   P34-401 : Couvertures -
+       Plaques nervurées en acier galva-
+          nisées prélaquées ou non
+     Δ Pacier
+          34-310 : Tôles et bandes en
+              de construction galvanisées
+          à chaud en continu destinées au
+          bâtiment
+     Δ    NF DTU 58.1 : Travaux de bâti-
+          ment - Plafonds suspendus
+     Δ    DTU 40.35 : Couverture en
+          plaques nervurées issues de tôles
+                                                                   L’ESSENTIEL
+          d’acier revêtues                                         Δ Identifier la classe du local (fonction de la quantité de vapeur
+     Δ    Couvertures en panneaux sand-
+          wich à deux parements en acier et
+                                                                       d’eau produite dans le local et du renouvellement d’air) lorsqu’il
+                                                                       est ventilé naturellement ou selon la pression de vapeur d’eau
+          à âme polyuréthane - Conception
+                                                                       lorsqu’il est conditionné en température ou en humidité.
+          et mise en œuvre - Neuf - Réno-
+          vation (Recommandation profes-                           Δ   Concevoir le système (cas du bac acier en toiture chaude ou
+          sionnelle Règles de l’Art Grenelle                           froide, positionnement de l’isolant) en tenant compte de cette
+          Environnement 2012, décembre                                 classe.
+
+     Δ
+          2014)
+          Liste des mises en observation de                        Δ   Apporter un soin particulier lors de la pose aux points sen-
+          la C2P (Commission Prévention                                sibles (jonctions et continuité du système d’isolation plus pare-
+          Produits mis en œuvre) de l’AQC :                            vapeur, par exemple).
+          vérifier les recommandations
+          éventuelles
+                                                                   Δ   Ventiler efficacement les locaux sous-jacents.
+
+
+
+                     >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            TOITURES ET CHARPENTES
+C.07             CONDENSATION EN SOUS-FACE
+4/4              DES COUVERTURES MÉTALLIQUES
+
+      4. L’ŒIL DE L’EXPERT
+                                                                 La lame d’air sous le bac sec est absente. Il n’y a donc
+                                                                 aucune ventilation en sous-face. L’air ne circule pas et
+                                                                 se charge de vapeur d’eau. La laine de verre est dé-
+                                                                 trempée. Ce matériau est sujet à une hydrophylie
+                                                                 prononcée.
+
+
+
+
+      Photos: © GIE SOCABAT
+
+
+                                                                 Condensations sous bacs secs avec engorgement de
+                                                                 la laine de verre liées à une absence de ventilation. À
+                                                                 noter qu’en période humide, une simple ventilation na-
+                                                                 turelle peut s’avérer insuffisante.
+
+
+
+
+      Photos: © GIE SOCABAT
+
+
+                                                                 Sur ces 2 photos en sous-face des tôles neuves de cou-
+                                                                 verture, mais aussi des tôles d’origine plus ancienne,
+                                                                 on note la présence d’innombrables gouttelettes d’eau
+                                                                 de condensation. Ces eaux de condensation glissent
+                                                                 le long de la pente et tombent au sol de l’entrepôt à
+                                                                 l’aplomb des pannes. L’expert met en cause la ventila-
+                                                                 tion de sous-face de la couverture. Le DTU 40.35, Cou-
+                                                                 verture en plaques nervurées, prescrit effectivement
+                                                                 de ventiler la sous-face de ce type de couverture. Pour
+                                                                 chaque versant, entrée d’air de 1/500 de la surface ho-
+      Photos: © GIE SOCABAT                                      rizontale, et autant pour les sorties d’air, sans dépasser
+                                                                 400 cm² par mètre de façade. Ici, aucun dispositif spé-
+                                                                 cifique de ventilation n’existe, ni sur la partie neuve ni
+                                                                 sur la partie ancienne remaniée.
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

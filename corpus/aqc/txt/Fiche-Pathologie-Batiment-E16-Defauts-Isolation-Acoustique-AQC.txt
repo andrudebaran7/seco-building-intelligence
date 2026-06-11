@@ -1,0 +1,189 @@
+                                                                                                                   ÉQUIPEMENTS            FICHE
+                                                                                                                                          E.16
+                                                                                                                                             1/3
+
+
+
+                                                 DÉFAUTS
+                        Photo © DR AQC           D’ISOLATION ACOUSTIQUE
+1. LE CONSTAT
+Les niveaux de pression acoustique (bruits) sont consi-                    Les bruits dans les bâtiments se décomposent en
+dérés comme non conformes lorsqu’ils ne respectent                         quatre grandes familles :
+pas les exigences de la réglementation en vigueur.                         Δ les bruits aériens (1) dont la source est intérieure ou
+Toutefois, il peut exister des cas de bruits considérés                      extérieure ;
+comme anormaux, même dans le respect de la régle-                          Δ les bruits d’impact (2) correspondent à des chocs
+mentation : un bruit émergent (différence entre bruit                        intérieurs ;
+de fond et niveau de bruit émis) important et apparais-                    Δ les bruits d’équipements internes du bâtiment (3) ;
+sant fréquemment, par exemple.                                             Δ la réverbération du son au sein même d’une pièce
+                                                                             (4).
+
+                                                      LES DÉFAUTS D’ISOLATION ACOOUSTIQUE
+                                     Plinthe             Chape flottante                                         Pièce où est émis
+                                               Pénétration                                                       le bruit à traiter
+
+
+
+                                                                           cuisine          chambre
+
+                                                                               séjour            asc
+
+
+
+
+         1                                      2                                       3                                             4
+
+
+
+
+2. LE DIAGNOSTIC
+La plupart des défauts d’isolation             Défauts de conception                                       ratives ou encore, par exemple,
+acoustique proviennent d’erreurs               Δ Insuffisance de l’affaiblissement                         interphonie entre locaux super-
+de conception, quelques-uns d’er-                   acoustique procuré par la paroi                        posés via les bouches de VMC.
+reurs d’exécution.                                  séparative :                                       Δ   Mauvaise étanchéité à l’air des
+                                                    √  trop grande légèreté d’une                          parois séparatives (défauts de
+Les défauts d’isolement aux                            paroi séparative simple et                          calfeutrement de menuiseries de
+bruits aériens                                         homogène ;                                          coffres de volets roulants).
+Les bruits aériens se propagent :                   √  performances       inadaptées                   Δ   Défauts de calfeutrement des
+Δ par transmissions directes au                        d’une paroi séparative double.                      pénétrations dans le plancher.
+  travers des parois séparatives,              Δ    Absence de prise en compte
+  pour environ 1/3 ;                                de la présence dans la paroi de                    Défauts de mise en œuvre
+Δ par transmissions latérales par                   parties aux performances plus                      Δ Mauvaise étanchéité à l’air des
+  des parois liées à la paroi sépa-                 faibles (exemple : entrées d’air                     parois séparatives (exemple :
+  rative, pour environ 2/3 ;                        incorporées dans une fenêtre).                       défauts de calfeutrement de
+Δ par des transmissions parasites              Δ    Absence de prise en compte                           menuiseries de coffres de volets
+  mettant en communication les                      des transmissions latérales par                      roulants).
+  locaux (ex : via le réseau de VMC)                les parois liées aux parois sépa-
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE              ÉQUIPEMENTS
+E.16               DÉFAUTS D’ISOLATION ACOUSTIQUE
+2/3
+
+
+      Δ Défauts de calfeutrement des Δ Installation               défectueuse des           Autres bâtiments
+          pénétrations dans le plancher.            équipements (exemple / chau-            Certains types de bâtiments
+                                                    dière murale non désolidarisée          tertiaires (locaux scolaires, éta-
+      Défauts d’isolation aux                       ou fixée sur une cloison légère.        blissements de santé et hôtels),
+      bruits d’impact                                                                       font l’objet d’arrêtés en date du
+      Défauts de conception                                                                 25 avril 2003 définissant les carac-
+      Δ Mauvais choix des couches                 3. LES BONNES                             téristiques acoustiques intérieures
+        isolantes intermédiaires entre            PRATIQUES                                 qu’ils doivent respecter et de l’ar-
+        élément porteur et sol (chape                                                       rêté du 30 mai 1996 modifié pour
+        flottante sur une couche rési-            Prendre connaissance de la                les bruits extérieurs.
+        liente     aux      performances          réglementation particulière
+        insuffisantes).                           applicable au projet (France              Apporter une attention
+      Δ Choix d’une sous-couche rési-             métropolitaine)                           particulière au traitement
+        liente ne présentant pas de               Logements                                 des points particuliers
+        garantie suffisante quant à sa            L’arrêté du 30 juin 1999, relatif         Sont visés :
+        tenue dans le temps.                      aux bâtiments d’habitation, fixe les      Δ les détails de jonction entre élé-
+                                                  modalités d’application de la régle-        ments de construction ;
+      Défauts de mise en œuvre                    mentation acoustique. Vérifier la         Δ l’étanchéité à l’air de l’enveloppe
+      Existence de ponts phoniques acci-          conformité par rapport à cette régle-       (exigence commune avec la
+      dentels (poinçonnement des sous-            mentation de manière simple grâce           réglementation thermique) ;
+      couches résilientes par un matériau         à un « exemple de solution » et du        Δ la désolidarisation, ou l’incorpo-
+      dur, absence de continuité du rési-         « guide de suivi de la mise en œuvre        ration de dispositifs résilients
+      lient, en périphérie ou au droit de         acoustique dans le logement collectif       limitant la transmission des
+      pénétrations).                              neuf » du CSTB ou à l’intervention          bruits solidiens via les structures.
+                                                  d’un bureau d’études spécialisé.
+      Défauts d’isolation aux                     L’arrêté du 30 mai 1996 modifié par       Attestation de prise en compte
+      bruits d’équipements                        l’arrêté du 23 juillet 2013, relatif au   de la réglementation acoustique
+      Δ Choix d’un équipement aux per-            mode de classement des infrastruc-        applicable aux bâtiments d’habi-
+          formances inadaptées (exemple           tures de transports terrestres, et à      tation neufs
+          : groupe de VMC trop bruyant).          l’isolement acoustique des bâtiments      Elle est basée sur les constats en
+      Δ   Emplacement maladroit des               d’habitation dans les secteurs affec-     phase étude et chantier et sur des
+          équipements (exemple : gaine            tés par le bruit fixe les exigences       mesures acoustiques ponctuelles à
+          d’ascenseur contiguë à une              d’isolement aux bruits extérieurs en      l’achèvement des travaux. Confor-
+          chambre).                               présence d’un trafic routier, ferro-      mément à l’arrêté du 27 novembre
+                                                  viaire ou aérien.                         2012, cette attestation est obliga-
+                                                                                            toire pour les PC déposés à partir
+                                                                                            du 1er janvier 2013 pour les bâti-
+                                                                                            ments neufs d’habitation soumis à
+          À CONSULTER                                                                       PC, collectifs, groupe de maisons
+          Δ CCH   (Code de la Construction et
+            de l’Habitation) : art. L. 111-4 et
+                                                                                            individuelles accolées ou contiguës
+            11, et R.111-4
+                                                                                            à un local d’activité.
+          Δ Arrêté  du 30 mai 1996 modifié
+            par l’arrêté du 23 juillet 2013.
+          Δ Arrêtés du 30 juin 1999                  L’ESSENTIEL
+          Δ Arrêtés  et circulaire du 25 avril
+            2003                                     Δ Appliquer les réglementations propres au projet.
+          Δ Décret
+            2011
+                     n°2011-604 du 30 mai            Δ S’assurer de la désolidarisation entre ouvrages et parties
+                                                       d’ouvrages.
+          Δ Arrêté du 27 novembre 2012
+                                                     Δ Apporter un soin particulier au traitement des points particu-
+          Δ Façade   décret n°20146-798 du
+            14 juin 2016 et arrêté du 13 avril          liers et à l’étanchéité à l’air.
+            2017
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                              DÉFAUTS D’ISOLATION ACOUSTIQUE                           E.16
+                                                                                                                         3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       Le bruit aérien généré par l’unité extérieure de la PAC posi-
+                                                       tionnée d’une part à proximité des fenêtres et d’autre part
+                                                       contre un mur réverbérant est source de nuisances sonores.
+                                                       Ces nuisances sont aggravées par des transmissions soli-
+                                                       diennes provoquées par la fixation de l’unité sur le mur de
+                                                       façade sans dispositif de désolidarisation.
+
+
+
+Photo © DR AQC
+
+
+                                                       L’écrasement des gaines peut être à l’origine d’une vitesse
+                                                       trop forte dans le réseau aéraulique à l’origine d’un bruit
+                                                       important, source de gêne. Les coudes formant un angle
+                                                       droit peuvent être à l’origine de turbulences sur le réseau
+                                                       aéraulique générant également un bruit important. Il est pré-
+                                                       férable d’éviter les angles droits et d’utiliser des coudes de
+                                                       grand rayon de courbure.
+
+Photo © DR AQC
+
+
+                                                       Lorsque la sous-couche résiliente mise en œuvre entre la
+                                                       chape et le parquet flottant présente une efficacité au bruit
+                                                       d’impact insuffisante, il en résulte un défaut d’isolation aux
+                                                       bruits d’impact susceptibles d’entraîner une gêne pour l’oc-
+                                                       cupant du logement inférieur (bruit des pas).
+
+
+
+
+Photo © DR AQC
+
+
+                                                       Le défaut de calfeutrement des menuiseries extérieures
+                                                       entraînera une mauvaise étanchéité à l’air de la paroi ayant
+                                                       pour conséquence directe une diminution de l’indice d’af-
+                                                       faiblissement de la paroi aux bruits aériens et aux bruits
+                                                       routiers.
+
+
+
+
+Photo © DR AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

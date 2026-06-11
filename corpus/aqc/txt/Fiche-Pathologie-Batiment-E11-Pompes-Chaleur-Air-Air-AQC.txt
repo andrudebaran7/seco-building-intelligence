@@ -1,0 +1,162 @@
+                                                                                                          ÉQUIPEMENTS                  FICHE
+                                                                                                                                       E.11
+                                                                                                                                         1/3
+
+
+
+                                           POMPES À CHALEUR
+                      Photo © DR - AQC     AIR / AIR
+
+1. LE CONSTAT                                                                 SCHÉMA 1 : POMPE À CHALEUR AIR/AIR
+
+
+
+Les Pompes À Chaleur (PAC) air/air captent les calo-                                                                Unité intérieure
+ries contenues dans l’air extérieur par l’intermédiaire
+d’une unité extérieure pour les restituer à l’air intérieur
+(schéma 1). Il existe deux familles de PAC air/air : les
+gainables, où l’unité intérieure est reliée à des grilles
+                                                                                   Unité extérieure
+de soufflage par un réseau de conduits aérauliques                                 (pompe à chaleur)
+en plénums, et les multisplit, composées de plusieurs
+unités intérieures (type allège ou mural) à émission
+directe.                                                                                    Compresseur
+
+Ces équipements peuvent être utilisés en neuf ou en
+                                                                      Échangeur
+remplacement total avec un appoint, ou en rempla-
+cement partiel d’une production de chaleur à énergie
+fossile ou à effet joule avec des unités intérieures de
+type mural ou allège. Ils exigent une approche globale,
+tant dans le dimensionnement des installations que
+dans le positionnement des équipements, afin d’as-
+                                                                      Détendeur
+surer un confort optimal des occupants. L’insuffisance
+de chauffage est le principal désordre affectant ce type
+d’équipement.
+
+
+
+
+2. LE DIAGNOSTIC
+Plusieurs causes peuvent entraîner        Dans certains cas on pourra avoir          Le surdimensionnement de
+une insuffisance de chauffage.            givrage voire prise en glace du            la puissance calorifique de
+                                          compresseur.                               la PAC
+Le sous-dimensionnement                   Selon le type du compresseur               Un surdimensionnement de la PAC
+de la puissance calorifique               (variable ou fixe), un appoint sera        peut également être préjudiciable
+de la PAC et de l’appoint                 nécessaire pour assurer le confort         car la PAC va alors effectuer des
+Le sous-dimensionnement sera              requis lors des températures exté-         cycles trop courts, ce qui diminuera
+accentué par un fonctionnement            rieures négatives. L’absence d’ap-         sa durée de vie. La présence d’un
+continu de la PAC, ce qui augmen-         point peut générer des problèmes           ballon d’inertie de taille suffisante
+tera le nombre de dégivrages,             de chauffage en hiver.                     permet d’atténuer ce phénomène.
+diminuera alors le rendement
+de l’équipement et entraînera
+l’avarie du compresseur qui fonc-
+tionnera en dehors de sa plage.
+
+
+           >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            ÉQUIPEMENTS
+E.11             POMPES À CHALEUR AIR / AIR
+2/3
+
+
+      3. LES BONNES                              La norme NF EN 14511-2 définit les      l’air, le flux d’air doit être dans la
+      PRATIQUES                                  puissances des PAC pour une tempé-      plus grande longueur. Enfin, pour
+                                                 rature extérieure de base de + 7 °C.    éviter la sensation d’inconfort, les
+      Établir un bilan thermique                 Or, la sélection de la PAC doit être    unités intérieures ne doivent pas
+      Il est nécessaire d’établir un bilan       déterminée à la température exté-       souffler sur les occupants en posi-
+      thermique dans tous les cas. L’ins-        rieure de base et non au point d’es-    tion statique (lit, bureau, canapé…).
+      tallation d’une PAC en rénovation          sai de + 7 °C.                          Il faut également veiller à ce que la
+      ne peut s’envisager que dans le            Il faut s’assurer de la compatibilité   pression acoustique de l’appareil
+      cadre d’une réflexion globale por-         de la PAC (puissance, tension, ali-     soit conforme à la réglementation
+      tant sur le bâti, la ventilation, l’iso-   mentation en mono ou triphasé)          en habitat neuf.
+      lation, les menuiseries extérieures.       avec le réseau électrique.
+      Une étude thermique approfondie                                                    Entretenir
+      du bâtiment doit être réalisée afin        Positionner l’unité                     L’entretien de la PAC est indispen-
+      de bien estimer les déperditions et        extérieure                              sable (échangeur externe, filtres
+      de pouvoir correctement dimen-             L’unité extérieure doit être située     internes…), ainsi que le contrôle
+      sionner la PAC.                            de manière à être suffisamment          d’étanchéité obligatoire pour les
+                                                 ventilée, à l’abri de tout courant      circuits dont la quantité est supé-
+      Faire valider le choix de                  d’air froid qui favorise les prises     rieure à 2 kg de fluide frigorigène
+      technologie                                en glace. En outre, la nuisance         (article R543-75 à R543-123 du Code
+      Il faut s’assurer de l’acceptabilité       sonore émanant de l’unité exté-         de l’Environnement).
+      par l’occupant de la diffusion d’air       rieure nécessite que sa position
+      pulsé.                                     soit la plus éloignée possible d’une
+                                                 fenêtre, d’un mur réverbérant ou à
+      Bien dimensionner                          proximité de la limite de propriété.
+      Les besoins calorifiques d’une
+      habitation doivent être calculés           Positionner l’unité
+      pour l’obtention d’une tempéra-            intérieure
+      ture ambiante maximale de + 19 °C          L’emplacement des unités inté-
+      (article R 131-20 du Code de la            rieures doit répondre non seule-
+      Construction) par une température          ment à des exigences d’esthétisme,
+      extérieure de base définie selon           mais aussi à des contraintes aérau-
+      la norme EN 12831 variant selon la         liques. Pour assurer une meilleure
+      région d’implantation.                     homogénéité de la répartition de
+
+
+
+
+        À CONSULTER
+        Δ NF DTU 65.16 Installations de
+          pompes à chaleur - Parties 1.1,
+            1.2 & 2
+        Δ NF EN 14511-2 : Climatiseurs,
+          groupes refroidisseurs de liquide
+            et pompes à chaleur avec com-
+            presseur entraîné par moteur
+            électrique pour le chauffage et la
+            réfrigération des locaux
+        Δ   NF EN 378-1 à 4 : Exigences             L’ESSENTIEL
+            de sécurité et d’environnement
+            des systèmes de réfrigération et
+                                                    Δ Veiller au bon dimensionnement de la PAC, de son appoint et
+                                                      au positionnement des différentes unités.
+            pompes à chaleur
+        Δ   Article R543-75 à R543-123 du           Δ Faire entretenir régulièrement son installation par un
+            Code de l’Environnement et l’ar-           professionnel.
+            rêté du 7 mai 2007
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                            ÉQUIPEMENTS                FICHE
+                                                                      POMPES À CHALEUR AIR / AIR                       E.11
+                                                                                                                         3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                                       PAC air/air sans résistance électrique de bac ce qui entraîne
+                                                       une formation de glace en hiver dans le bac à condensats
+                                                       (suite à l’écoulement d’eau lors du dégivrage de l’échangeur),
+                                                       de la glace au sol et un risque de déformation des ailettes
+                                                       voire des tubes.
+
+
+
+
+Photo © DR - AQC
+
+
+                                                       Lors des phases de dégivrage hivernal de la PAC, l’eau s’est
+                                                       écoulée sans pouvoir s’évacuer et a formé une épaisseur de
+                                                       glace de plusieurs centimètres sur le radié.
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+            >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

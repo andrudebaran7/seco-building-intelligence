@@ -1,0 +1,170 @@
+                                                                                 ENTRETIEN / MAINTENANCE              FICHE
+                                                                                                                      G.05
+                                                                                                                          1/3
+
+
+                                           LES POMPES À CHALEUR
+                                           AÉROTHERMIQUES
+                                           (AIR/AIR OU AIR/EAU)
+                                           À USAGE DOMESTIQUE INFÉRIEUR À 70 KW
+
+
+
+
+                                                               D’autre part, les installations de PAC à usage
+1. LE CONSTAT                                                  domestique sont soumises fréquemment à des
+Le principal dommage sur les PAC concerne l’arrêt ou           dysfonctionnements liés à des défauts de conception
+l’insuffisance du chauffage et de la production d’ECS.         (dimensionnement), de mise en œuvre, d’utilisation et
+Ce dommage est d’autant plus grave quand la PAC                d’entretien.
+est la seule source de production de chaleur dans              L’entretien régulier est essentiel au maintien des
+l’habitation.                                                  performances de la PAC et à sa durée de vie.
+
+
+
+
+2. L'USAGE
+Le Décret n° 2020-912 du 28 juillet 2020 relatif à l'ins-     Ces actions doivent être confiées à un professionnel
+pection et à l'entretien des chaudières, des systèmes         qualifié de la maintenance (attestation de capacité obli-
+de chauffage et des systèmes de climatisation et son          gatoire pour les opérateurs). Confier l’entretien de ces
+arrêté d’application du 24 juillet 2020 relatif à l'entre-    installations à un professionnel permet également d’ob-
+tien des systèmes thermodynamiques dont la puis-              tenir les recommandations essentielles sur le bon usage
+sance nominale est comprise entre 4 kW et 70 kW,              du système et sur les améliorations possibles.
+publié au JO du 31 juillet 2020 rendent désormais
+l’entretien des pompes à chaleur (Pac), comme dans
+le cas des chaudières, obligatoire.                                L’entretien doit être prévu dès la phase concep-
+                                                                   tion en termes d’emplacement de la machine,
+L'entretien périodique des pompes à chaleur est ef-                d’accès aux pièces, de dégagement suffisant et
+fectué à l'initiative de l’usager. Les actions d’entretien         de sécurité des intervenants.
+courants d’une pompe à chaleur sont délicates. Elles
+nécessitent globalement des compétences et des
+qualifications particulières. Néanmoins, certaines ac-        Chaque acteur en fonction de ses connaissances et
+tions lui sont donc dévolues.                                 compétences a un rôle à jouer dans l’entretien des
+                                                              ouvrages.
+En effet, l’entretien d’une PAC comprend des inter-
+ventions sur les circuits électriques et frigorifiques
+avec des exigences règlementaires.
+
+
+
+
+                       >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE       ENTRETIEN / MAINTENANCE
+G.05        LES POMPES À CHALEUR AÉROTHERMIQUES
+2/3
+
+
+
+
+      3. LE RÔLE DE L’USAGER
+                           Les actions à mener par l’usager                     Δ contrôler la pression de l’eau dans le
+                           consistent à :                                         cas d’une PAC air-eau (contrôle visuel) ;
+                           Δ s’assurer du respect d’une circulation             Δ nettoyer les bouches d’insufflation des
+                               de l’air autour de l’unité extérieure.               unités intérieures (utiliser une éponge ou
+                               Veiller à ce que cette circulation d’air et la       un chiffon, ne pas projeter de l’eau) dans
+                               grille de l’unité extérieure ne soient pas           le cas d’une PAC air-air ;
+                               entravées par des objets encombrants,            Δ   changer ou nettoyer les filtres d’air (la-
+                               des branchages, des feuilles d’arbres… ;             vage à l’eau tiède ou à l’aspirateur).
+                           Δ   enlever le givre qui peut s’accumuler
+                               sur les côtés de la pompe à chaleur ;
+
+
+
+
+      4. LE RÔLE DU PROFESSIONNEL
+                           L’établissement d’un contrat de maintenance est fortement recommandé.
+                           La maintenance de l’installation doit être assurée par une entreprise qualifiée respectant
+                           les décrets et la réglementation en vigueur (en particulier le code de l’environnement ar-
+                           ticles R. 543-75 à R. 543-123 avec focus sur article R543-79 relatif au contrôle d’étanchéité
+                           du circuit fluide frigorigène).
+                           Aussi, le prestataire chargé de l’entretien doit être titulaire d’une attestation de capacité pré-
+                           vue par l’article R543-99 du code de l’environnement et délivrée par un organisme agréé.
+
+                           Les opérations à mener par un                            tilateurs, accessoires, évacuations des
+                           professionnel consistent à :                             condensats…) ;
+                           Δ effectuer un diagnostic préalable de Δ                 vérifier le bon fonctionnement du dé-
+                             l’état général de l’installation avant pro-            givrage si possible ;
+                             position de l’établissement d’un contrat    Δ          contrôler le circuit de chauffage dans
+                             d’entretien ;                                          le cas de PAC air/eau (pression, appoint,
+                           Δ contrôler le circuit et l’alimentation                 soupape de sécurité, vannes, vase d’ex-
+                             électrique (protections, connexions, ten-              pansion, température entrée-sortie…) ;
+                             sion, intensité absorbée, régulation…) ;    Δ          contrôler le circuit d’ECS (groupe de
+                           Δ contrôler le circuit frigorifique (étan-               sécurité, fonctionnement de l’appoint
+                             chéité, calorifugeage…) ;                              électrique…) ;
+                           Δ contrôler le circuit aéraulique et le bon Δ            remplacer les pièces défectueuses ;
+                               fonctionnement de ses organes (évapo-
+                               rateur, condenseur, filtres, grilles, ven-
+
+
+        Fréquence :
+        au minimum annuelle
+
+
+              Pour intervenir en toute sécurité :
+              intervenir en toute sécurité : port des EPI, coupure des alimentations électriques
+
+
+             >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                   ENTRETIEN / MAINTENANCE              FICHE
+                                                         LES POMPES À CHALEUR AÉROTHERMIQUES                             G.05
+                                                                                                                            3/3
+
+
+   À CONSULTER
+   Δ NF DTU 65.16 - Travaux de bâti-
+     ment - Installations de pompes à
+       chaleur
+   Δ Fiche technique AFPAC : Pompes
+     à Chaleur – Optimiser votre               L’ESSENTIEL
+   Δ
+       installation
+       Décret n° 2020-912 du 28 juillet
+                                               Δ Les PAC aérothermiques exigent un entretien régulier par un
+                                                 professionnel ;
+       2020 et son arrêté d’application
+       du 24 juillet 2020 relatif à l'en-      Δ Cet entretien permet de garantir le bon fonctionnement de l’ins-
+       tretien des systèmes thermody-            tallation, sa longévité et la maîtrise de bonnes performances ;
+       namiques dont la puissance no-
+       minale est comprise entre 4 kW et
+                                               Δ Le contrôle obligatoire de l’étanchéité du circuit frigorifique
+                                                  doit s’étendre à l’ensemble des équipements de l’installation
+       70 kW, publié au JO du 31 juillet
+       2020                                       (PAC, distribution, émission).
+
+
+
+
+5. L’ŒIL DE L’EXPERT
+
+
+
+                                                                  Problème ou défaut de calorifugeage qui doit être
+                                                                  remis en état lors de des opérations de maintenance.
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+                                                                  Malgré l’affichage la filtre n’a pas été changé.
+
+
+
+
+Photo © DR - AQC
+
+
+
+
+Pour en savoir plus :
+                                                                                  Retrouvez l’ensemble des
+                                                                                  Fiches pathologie bâtiment sur :
+                                                                                  www.qualiteconstruction.com
+                                                                                  et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                    © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+                         >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+

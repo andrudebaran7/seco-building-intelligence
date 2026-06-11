@@ -1,0 +1,409 @@
+                                                             ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+
+                                                                                                                                       1/5
+
+
+                                         SYSTÈME D’ISOLATION THERMIQUE
+                                         PAR L’EXTÉRIEUR NON VENTILÉ SUR
+                     Photo © DR - AQC    STRUCTURE BOIS
+
+1. LE CONSTAT
+Le parc immobilier existant est soumis à rénovation            Δ Le niveau de gravité et l’enjeu des sinistres liés à l’eau
+énergétique. En neuf, la RE2020 impose une améliora-             sont plus lourds dans le cas de parois non ventilées.
+tion ambitieuse de la qualité environnementale de la           Δ Le développement de la préfabrication et d’un as-
+construction.                                                      semblage a posteriori implique la gestion des inter-
+L’Isolation Thermique par l’Extérieur (ITE) est une com-           faces entre les opérations en usine et sur site.
+posante de la performance énergétique. Elle devient            Δ   La protection vis-à-vis des intempéries sur chantier
+potentiellement biosourcée dans ses composants, sou-               devient primordiale.
+vent couplée à des constructions à ossature bois (COB
+ou MOB). Avec des procédés de plus en plus industriali-
+                                                               Système d’enduit, de type RPE ou minéral
+sables, les projets ainsi conçus permettent de répondre
+aux exigences fortes de sobriété énergétique et de mi-                                          Armature
+nimisation des émissions de gaz à effet de serre.                   Panneaux isolants – potentiellement
+                                                                    biosourcés – collés, vissés ou agrafés
+Le fort accroissement de ces modes constructifs s’ac-                          Voile de contreventement
+compagne de problématiques dont certaines sont déjà                             Isolation entre montant
+connues sur des supports plus traditionnels :                                potentiellement biosourcée
+
+Δ  Les matériaux biosourcés, par opposition à la filière
+                                                                                                Ossature
+                                                                                          Vide technique
+   minérale ou pétrochimique, sont sensibles à l’eau                                        Pare-vapeur
+   et ne tolèrent ni l’approximation ni l’adaptation sur                              Parement intérieur
+   chantier.
+Δ  Les infiltrations et transferts de vapeur d’eau mal gé-
+   rés sont sources de désordres.
+
+
+
+
+2. LE DIAGNOSTIC                         2.2. Phase conception                                      du produit bois, perméance du
+                                         Le support bois est sujet à des dé-                        système…).
+2.1. Définition                          sordres d’instabilités structurelles :
+La    composition      des     modes     Δ En cas d’erreurs de calcul ou                       Les pathologies sont régulièrement
+constructifs MOB + ITE peut varier         d’exécution sur l’ossature. Cer-                    liées à l’absence d’études adaptées :
+sensiblement. Un système « géné-           tains désordres d’ITE résultent                     Δ  Étude structurelle de dimension-
+rique » est décrit ci-dessus :             d’un défaut de dimensionne-                            nement.
+                                           ment de l’ossature bois sans                        Δ  Étude hygrothermique globale,
+Comme dans les systèmes tradi-             respect des règles de calcul des                       statique voire dynamique du
+tionnels, les désordres concernant         Eurocodes et en particulier des                        bâtiment, a fortiori sur le bâti
+ces techniques résultent en général        critères de limitation des dépla-                      ancien**.
+de facteurs concomitants.                  cements horizontaux.                                Δ  Étude de conception - exécution
+                                         Δ Du fait d’une exposition anor-                         des interfaces avec carnet de dé-
+                                           male à l’eau et à l’humidité (choix                    tail complet.
+
+
+
+             >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE                 ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.14                  SYSTÈME D’ISOLATION THERMIQUE PAR
+  2/5                 L’EXTÉRIEUR NON VENTILÉ SUR STRUCTURE BOIS
+
+    ATTENTION : Risque de « boucles                                                                Des logiciels en libre accès per-          meilleure maîtrise d’exécution, elle
+    de rétroaction pathologiques ».                                                                mettent de réaliser une simulation         accroît les besoins en conception
+                                                                                                   numérique en statique.                     et l’enjeu des sinistres en cas de
+                                Mouvement
+                                du support                                                                                                    défaillance de conception (démul-
+                                                                                                   La perméance de chaque matériau            tiplication de la défaillance, sériels
+                 Dégradation                                          Fissuration                  est mesurée par la valeur Sd, en           éventuels, répétabilité des défauts).
+                 structurelle                                          d’enduit                    mètres, correspondant à l’épais-
+                                                                                                   seur de lame d’air équivalente.            ATTENTION : Les DTU 31.2 et 31.4
+                                 Infiltrations                                                                                                excluent de leur domaine d’emploi
+                                                                                                   Les points de rosée ont plusieurs          les parois non ventilées. Dans les
+                                                                                                   causes :                                   Avis Techniques du CSTB relatifs
+    ** FOCUS sur la perméance                                                                      Δ Des composants inadaptés :               aux procédés d’ITE sur construc-
+    La vapeur d’eau produite par les oc-                                                               Ω
+                                                                                                       Une perméance trop forte du            tion ossature bois (COB), c’est l’in-
+    cupants d’une construction (respi-                                                                 pare-vapeur intérieur (Valeur          tégralité de la paroi qui est visée,
+    ration, activités humaines, équipe-                                                                Sd trop faible)                        du pare-vapeur intérieur à l’enduit
+    ments…) doit être évacuée. Lorsque                                                                 Ω
+                                                                                                       Une perméance trop faible du           extérieur.
+    l’eau à l’état de gaz migre dans la                                                                revêtement extérieur (valeur
+    paroi, elle peut être bloquée par                                                                  Sd trop forte des revêtements          2.3. Phase exécution
+    l’ITE et refroidir jusqu’à atteindre le                                                            de type imperméabilité)                La mise en place du support
+    stade de condensation ou « point                                                                                                          Une inadaptation de la classe d’em-
+    de rosée », au sein de matériaux                                                               Δ Un défaut d’étanchéité à l’air de        ploi est fréquemment source de
+    biosourcés sensibles à l’eau, indui-                                                               l’enveloppe intérieure générant        pathologies.
+    sant une perte des caractéristiques                                                                des phénomènes de convection           La qualité de pose du support
+    mécaniques (développement fon-                                                                     parasites                              est également importante (désaf-
+    gique) et thermiques des matériaux                                                                                                        fleures du support, défaut de pla-
+    constitutifs.                                                                                      Intérieur               Extérieur      néité de l’isolant, conséquences
+                                                                                                                                              sur les épaisseurs d’enduisage et
+                                                                                                    éco
+
+
+
+
+                       DIAGRAMME DE MOLLIER
+                                                                                                       ule
+
+
+
+
+                                                                                                                               Condensation   fissuration consécutive potentielle
+                                                                                                          me
+                                                                                                            nt
+
+
+
+
+                     Grammes d’eau par kg d’air sec
+                                                                              0%
+                                                                              %
+                                                                              %
+
+
+
+
+                                                                                                                                              du complexe enduit/finition).
+                                                                             %
+
+
+
+
+                                                                                                           aé
+                                                                           90
+                                                                           10
+
+                                                                           80
+
+
+
+
+          14,7
+                                                                          70
+
+
+
+
+                                                                                                            rau
+
+
+
+
+                         zone de
+                                                                                                                 liq
+
+
+
+
+                                                     Saturation
+                                                                                    %
+
+
+
+
+                                                                                                                                              Toute hétérogénéité de la structure
+                                                                                   60
+
+
+
+
+                                                                                                                    ue
+
+
+
+
+                        brouillard                  (HR=100%)
+                                                                                    %
+                                                                                   50
+
+
+
+
+                     Condensation                                                                                                             et/ou du pare-vapeur (nez de plan-
+                                                                                    %
+                                                                                   40
+
+
+
+
+                                                                                                                                              cher, pénétrations, ouvertures…)
+                                     « Point de rosée »
+
+
+
+
+                                                                                    %
+                                                                                   30
+
+
+
+
+                                                                                                   Δ Des ponts thermiques (défaut
+          5,4
+                                                                                                                                              est génératrice de dilatations dif-
+                                                                                    %
+                                                                                   20
+
+
+
+
+                                                          Zone de l’air
+                                                                                    %
+
+
+
+
+                                                                                                       d’isolation). En cas d’isolant sen-    férentielles, source de fissuration
+                                                                                   10
+
+
+
+
+                                                            humide
+                                                                               Température en °C
+     -5          0         5                       12                     20      25                   sible au tassement, un embal-          d’enduit.
+    Source : Guide du CSTB, Transferts d’humidité à
+                                                                                                       lement est à craindre (manque
+    travers les parois
+                                                                                                       d’isolant / point froid / condensa-    La protection des matériaux vis-
+    En première approche, pour éviter                                                                  tion / tassement)                      à-vis des intempéries
+    la condensation dans un complexe,                                                              Δ   Un défaut de ventilation avec          La protection des matériaux sur
+    on applique :                                                                                      des équipements souvent sous           chantier et sur façade demeure une
+    Δ  La règle thermique des 1/3 - 2/3,                                                               dimensionnés, ou mal entrete-          priorité pour ces techniques (sensi-
+       la performance d’isolation de-                                                                  nus                                    bilité à l’eau).
+       vant être a minima 2 fois supé-                                                                                                        Une mauvaise organisation de
+       rieure en face extérieure qu’en                                                             Le dommage apparent est souvent            chantier, des interfaces non maî-
+       face intérieure du pare-vapeur,                                                             la partie émergée de l’iceberg, l’es-      trisées, une planification non opti-
+    Δ  La règle des 5/1, la perméance                                                              sentiel de la pathologie demeurant         male, peuvent générer un stockage
+       extérieure devant être 5 fois plus                                                          masqué.                                    inapproprié des matériaux, les
+       élevée en extérieur qu’en inté-                                                                                                        laissant exposés aux intempéries,
+       rieur.                                                                                      Nota : La construction s’industria-        entrainant a posteriori des gonfle-
+                                                                                                   lise. Si la préfabrication tend à une
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                             ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+                                                          SYSTÈME D’ISOLATION THERMIQUE PAR
+                                                 L’EXTÉRIEUR NON VENTILÉ SUR STRUCTURE BOIS                                    3/5
+
+
+ments, des développements fon-             La réparabilité                          Δ Intervention en macro-lot avec
+giques, des fissurations en façade.        Sur ces systèmes, certains dom-              des acteurs (sous-traitance ou
+Ces systèmes nécessitent une pro-          mages se soldent régulièrement               co-traitance) sensibilisés aux pa-
+tection en cours de pose, avant            par une démolition-reconstruction.           thologies des biosourcés.
+enduisage. Les éléments humides,           En cas de désordre généralisé re-        Δ   Carnet de détails des points sin-
+endommagés ou souillés sont à as-          latif au transfert d’humidité, deux          guliers et interfaces. Se confor-
+sécher voire à remplacer.                  options se présentent :                      mer aux règles et recomman-
+Le risque d’enfermer de l’humidité         Δ   Le remplacement du pare-va-              dations professionnelles – aux
+dans le système s’accroît avec le ni-          peur intérieur, supposant la             schémas et croquis de mise en
+veau de préfabrication et renforce             réfection complète des embel-            œuvre (calepins et guides de
+le besoin de protection des élé-               lissements et le relogement des          chantier) :
+ments. Le coût d’un sinistre dans ce           occupants.                               Ω Pied de paroi
+contexte s’en trouve augmenté.             Δ   La réfection de l’ITE non ventilé        Ω Couvertines
+                                               en ITE ventilé, de type enduit ou        Ω Bavettes, angles, tableaux
+Les infiltrations                              bardage                                  Ω Nez de plancher (pare-vapeur
+Les sources d’infiltrations sont           Les causes étant souvent multiples             continu et joint de fractionne-
+nombreuses :                               et certains ancrages de charpente              ment éventuel)
+Δ Défaut de traitement des enca-           pouvant être gravement atteints,             Ω Pénétrations          (trop-plein,
+  drements de menuiseries                  il s’agit de chiffrer les solutions de         console, etc.)
+Δ Défaut de calfeutrement et / ou          réparation complète d’une part / de      Δ   En cas de préfabrication :
+  d’encastrement de bavettes               démolition-reconstruction d’autre            Ω Plan d’Assurance Qualité (fa-
+Δ Défaut de protection en tête             part et de choisir la mieux-disante.           brication / transport / stoc-
+  (couvertine, solin, etc)                                                                kage sur chantier / procédures
+Δ Défaut de garde au sol ou de lar-                                                       d’autocontrôle)
+  mier en pied                             BONNES PRATIQUES                             Ω Détail des jonctions de pan-
+Δ Défaut de traitement des péné-                                                          neaux
+  trations (balcons, ouvrages sail-        Formation indispensable                      Ω Potentiels      capteurs       de
+  lants, brises soleil, équipements,       des entreprises :                              contrôle d’humidité
+  etc.)                                    Δ Sensibilisation aux systèmes               Ω Planning
+Δ Fissuration de l’ITE. Elle peut ré-      Δ Connaissance des matériaux
+  sulter d’un désordre structurel          Δ Soin à apporter sur la mise en         En phase chantier :
+  ou d’un manque de renforts au                œuvre                                Δ Prévoir de bonnes conditions
+  droit de mouvements différen-                                                         de stockage des matériaux ain-
+  tiels (nez de plancher, angles de        Anticiper en conception                      si qu’une protection provisoire
+  menuiseries, défaut de collage           et pendant la phase de                       des panneaux préfabriqués en
+  ou de fixation, multiplicité et hé-      préparation du chantier :                    adéquation avec leur sensibilité
+  térogénéité des supports d’ITE           Δ Choix d’un système ITE sous avis           à l’eau.
+  au sein d’une même façade - su-              technique (ATEc ou DTA) et res-      Δ   Gérer la récupération et l’évacua-
+  rélévation - ...). Elle est régulière-       pect dans son intégrité (notam-          tion des eaux sur planchers.
+  ment à la fois une cause et une              ment Sd pare-vapeur > 90 m)          Δ   Veiller à l’enchaînement des in-
+  conséquence.                                 et dans son domaine d’emploi             terventions pour protection défi-
+                                               (hauteur de bâtiment). - Ne pas          nitive au plus tôt.
+L’impact sur la qualité de l’air in-           hésiter à recourir à l’assistance    Δ   Vérifier l’humidité des bois du
+térieur (QAI)                                  technique du fabricant.                  support – état sec considéré os-
+Les développements fongiques               Δ   Note de calcul structure.                satures et panneaux < 18%.
+peuvent créer de l’inconfort et im-        Δ   Étude hygrothermique statique        Δ   À proximité de toitures terrasses,
+pacter la santé des occupants (ma-             voire dynamique. Prendre en              l’étancheur devra veiller à ne pas
+ladies respiratoires, champignons              compte les aspects ventilation et        brûler le pare-vapeur (le plus
+allergènes).                                   chauffage surtout en rénovation          souvent inaccessible et irrépa-
+                                           Δ   Classe d’emploi 2 (minimum) des          rable).
+                                               bois d’ossature.© 2019 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+D.14           SYSTÈME D’ISOLATION THERMIQUE PAR
+  4/5          L’EXTÉRIEUR NON VENTILÉ SUR STRUCTURE BOIS
+
+
+
+    Δ Proscrire la mousse polyuré- Δ Réaliser des contrôles et au- Δ En neuf comme en rénovation,
+        thanne entre les panneaux iso-              tocontrôles – support, isolant,        avoir une démarche systémique.
+        lants pouvant créer des points              couche de base.                        Examiner le drainage, l’étanchéi-
+        durs.                                   Δ   Ouvrir les caissons pour assè-         té des points singuliers, la venti-
+    Δ   Soin important à apporter à la              chement en cas d’humidification        lation, le pare-vapeur.
+        structure, support et pare-va-              accidentelle en phase chantier     Δ   Ne pas faire l’économie de son-
+        peur. Prévoir ainsi des renforts            de panneaux caissons.                  dages destructifs et de l’examen
+        d’armature, des joints de frac-         Δ   Contrôler le taux d’humidité des       de la structure. De manière non
+        tionnement ainsi que des bandes             composants biosourcés avant            destructive, il existe des outils
+        de pare-vapeur intégrées en nez             fermeture du complexe.                 tels que le sapromètre pour véri-
+        de plancher.                                                                       fier la résistance mécanique des
+    Δ   Repérer préalablement les mon-          En cas de sinistre :                       bois de structure, au droit des
+        tants de l’ossature bois pour           Réaliser un diagnostic complet             assemblages notamment.
+        l’implantation du chevillage des        Δ En cas de condensation dans
+        panneaux isolants, vérifier les           les parois, ne pas conclure trop     Pour éviter un sur-sinistre, faire
+        profondeurs d’ancrage dans les            rapidement au dommage esthé-         appel à un maître d’œuvre spécia-
+        montants.                                 tique.                               lisé et à des entreprises qualifiées
+                                                                                       pour une solution complète et
+                                                                                       pérenne.
+
+
+
+
+        À CONSULTER
+        Δ DTU 31.2 : Construction de mai-
+          sons et bâtiments à ossature en
+            bois
+        Δ DTU
+          bois
+                31.4 : Façades à ossature
+
+        Δ NF   EN 1995 (Eurocode 5) :
+          Conception et calcul des struc-
+            tures bois
+        Δ NF EN 335 Durabilité du bois et
+          des matériaux à base de bois
+            – Classes d’emploi : définitions,
+            application au bois massif et aux
+            matériaux à base de bois
+        Δ   Guide pratique et mémento
+            chantier du CODIFAB avril 2020
+            – Construction bois et gestion de       L’ESSENTIEL
+        Δ
+            l’humidité en phase chantier
+            Cahier du CSTB 3729_V2 de dé-           Δ Utiliser des procédés évalués techniquement.
+            cembre 2014 « Systèmes d’iso-           Δ Recourir à la formation et à l’assistance technique des
+            lation thermique extérieure par           fabricants.
+            enduit sur isolant appliqués sur        Δ Réaliser des études structurelle et hygrothermique du bâtiment.
+            parois de constructions à ossa-
+            ture en bois – Dispositions com-        Δ Réaliser une étude sur le traitement des points singuliers po-
+            munes aux Groupes Spécialisés             tentiellement sources d’infiltrations.
+            n°2 et n°7 », dénommé « Cahier          Δ Veiller à la protection des complexes et des supports en phase
+            ETICS sur COB »                           chantier.
+        Δ   Fiche pathologie connexe : Fiche
+            E.09 : « Condensations dans les         Δ Réaliser systématiquement un contrôle des supports et un au-
+            logements »                                tocontrôle des ouvrages.
+
+
+    >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                           ENVELOPPES ET REVÊTEMENTS EXTÉRIEURS
+                                                        SYSTÈME D’ISOLATION THERMIQUE PAR
+                                               L’EXTÉRIEUR NON VENTILÉ SUR STRUCTURE BOIS                                   5/5
+
+
+4. L’ŒIL DE L’EXPERT
+
+
+
+
+Photo: © GIE SOCABAT                                          Photo: © GIE SOCABAT
+Dégradation fongique structurelle résultant d’une infiltration de tableaux de châssis. Dépose de l’enduit. Infiltra-
+tions en pied de châssis et migration de vapeur d’eau en acrotère. La façade montrait seulement quelques fissures
+(voir ci-dessous).
+
+
+
+
+Photo: © GIE SOCABAT                                          Photo: © GIE SOCABAT
+
+Vue sur les désordres (suite). L’isolant et la structure      Défaillance de jonction couvertine façade ITE sur COB.
+bois sont très dégradés.
+                                                       Défauts d'exécution
+                                                       des sorties des ven-
+                                                       tilateurs individuels
+                                                       sur collectif ossa-
+                                                       ture bois : dégrada-
+                                                       tions des panneaux
+                                                       OSB constatées de
+                                                       façon systématique
+                                                       au droit des grilles
+Photo: © GIE SOCABAT                                                                  Photo: © GIE SOCABAT
+                                                       de sorties des ven-
+tilateurs. Absence de pièce spécifique de raccordement des gaines souples             Défaut de traitement de point
+sur le panneau OSB, une partie de l'air chaud et humide rejeté est injectée           singulier, jonction ITE et appui de
+dans l'épaisseur du mur à l'arrière de ce panneau OSB.                                fenêtre.
+
+
+
+
+Pour en savoir plus :
+                                                                                Retrouvez l’ensemble des
+                                                                                Fiches pathologie bâtiment sur :
+                                                                                www.qualiteconstruction.com
+                                                                                et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2023- Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

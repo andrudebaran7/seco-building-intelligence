@@ -1,0 +1,202 @@
+                                                                                      ENTRETIEN / MAINTENANCE                FICHE
+                                                                                                                             G.06
+                                                                                                                                 1/4
+
+
+
+                                                LES VMC SIMPLE ET
+                                                DOUBLE FLUX
+
+
+1. LE CONSTAT
+L’évolution de la réglementation thermique aboutit à rendre l’enveloppe des constructions très étanches à l’air.
+La ventilation est donc un élément essentiel et incontournable pour le maintien de la qualité de l’air intérieur et la
+conservation du bâti.
+
+
+
+
+             2. LES POINTS D’ATTENTION INCONTOURNABLES
+Il importe que l’installation de ventilation mécanique              Chaque élément doit permettre de faire entrer le dé-
+fasse l’objet d’attention et de visites régulières pour             bit d’air neuf suffisant par les bouches d’entrée d’air
+maintenir son bon fonctionnement.                                   et d’extraire l’air vicié à l’extérieur du bâtiment. Aucun
+ Une installation de VMC est composée :                             élément ne doit diminuer le taux de renouvellement
+Δ   d’un extracteur mécanique d’air,                                d’air qui a été prévu en fonction des volumes d’air à
+Δ   d’un réseau de gaines,                                          renouveler.
+Δ   de bouches d’extraction,
+Δ   de bouches d’entrée d’air                                       Le ventilateur de VMC doit être en fonctionnement per-
+Δ   de passages de transit (sous les portes).                       manent. Tout arrêt de la ventilation induit une dégra-
+                                                                    dation très rapide de la qualité de l’air intérieur. Outre
+                                            Entrée d’air            l’absence d’évacuation des pollutions de l’air, des dé-
+                                            unique
+                                                                    veloppements de bactéries et champignons peuvent
+                                          Échangeur transférant     apparaître à l’intérieur de la construction. Dans les cas
+                                          à l’air neuf la chaleur   extrêmes, par exemple de constructions bois, l’arrêt de
+                                          de l’air extrait
+    Gaines distribuant                                              la VMC peut être nuisible pour la solidité de l’ouvrage
+    l’air neuf réchauﬀé
+                                                                    (développement de champignons, moisissures…).
+                                                                    Une baisse du débit de renouvellement d’air peut être
+                                             Gaines                 provoqué par un encrassement des bouches et/ou du
+                                             d’extraction           ventilateur. Le taux de renouvellement d’air est alors
+                                                                    diminué, entraînant la dégradation de la qualité de l’air
+                                                                    intérieur.
+
+
+
+
+         Principe d'une VMC double flux
+
+
+
+                            >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE          ENTRETIEN / MAINTENANCE
+G.06           LES VMC SIMPLE ET DOUBLE FLUX
+2/4
+
+
+      Tout ce qui peut augmenter de façon excessive la quan-         Les différentes actions d’entretien, qu’il s’agisse du net-
+      tité d’eau dans l’air ou le polluer doit être banni, car les   toyage des bouches ou de la maintenance du groupe
+      débits d’extraction d’air sont limités par la réglementa-      d’extraction doivent être menées en respectant les
+      tion thermique, la marge de sécurité étant faible avant        règles de sécurité (notamment celles concernant le tra-
+      de dégrader la Qualité de l’Air Intérieur. Celle-ci est bien   vail en hauteur).
+      sûr liée au taux de renouvellement d’air, mais égale-
+      ment à la limitation des polluants.                            Chaque acteur en fonction de ses connaissances et
+                                                                     compétences a un rôle à jouer dans l’entretien des ou-
+      Par ailleurs, les aménagements intérieurs ne doivent           vrages. La première attention ou surveillance est rela-
+      pas perturber la circulation de l’air. Pour cela il faut       tive à l’usager qui procède avant tout au nettoyage des
+      veiller à ne pas masquer les entrées d’air par des ri-         bouches d’amenée d’air et d’extraction. L’intervention
+      deaux épais, par exemple, ou placer du mobilier de-            d’un professionnel doit s’envisager pour le groupe d’ex-
+      vant les bouches d’extraction. De même, les éventuels          traction, dans le cadre d’un contrat définissant la nature
+      nouveaux revêtements de sol ne doivent pas diminuer            et les limites des prestations.
+      l’espace libre sous les portes, destiné au transit de l’air
+      entre pièces sèches et pièces humides.                         Pour mémoire, la VMC Gaz fait l’objet d’obligations ré-
+                                                                     glementaires d’entretien spécifique (arrêté du 25 avril
+                                                                     1985) et n’est pas traitée dans cette fiche.
+
+
+
+
+      3. LE RÔLE DE L’USAGER
+                               Les actions d’entretien relèvent de :                  Ω Bouche d’extraction de cuisine : 1
+                               Δ l’usage normal des locaux, afin de ne                  fois par trimestre avec un produit
+                                   pas majorer les apports d’humidité et de             dégraissant
+                                   polluants dans les pièces : pas de jacuzzi,        Ω Bouches d’extractions des sanitaires :
+                                   ni d’aquarium produisant une évapora-                2 fois par an
+                                   tion importante, cuisson ménagère (par         Δ   le remplacement des piles des
+                                   opposition à une cuisine profession-               bouches qui en sont équipées ;
+                                   nelle), limitation des bougies parfumées
+                                   et autres bâtons d’encens, … ;
+                               Δ   le nettoyage des bouches d’amenée                  Le groupe d’extraction relève, en
+                                   d’air et d’extraction :                            général des compétences d’un pro-
+                                   Ω  Entrée d’air au minimum : 1 fois par an         fessionnel et il est souhaitable que
+                                      minimum et suivant fréquence de la              l’usager confie cette opération à ce
+                                      notice de l’industriel                          dernier, afin de sécuriser le fonction-
+                                                                                      nement de l’installation.
+
+
+
+
+                >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                                ENTRETIEN / MAINTENANCE                 FICHE
+                                                                    LES VMC SIMPLE ET DOUBLE FLUX                       G.06
+                                                                                                                            3/4
+
+
+4. LE RÔLE DU PROFESSIONNEL
+                        L’installateur d’origine aura pris soin, lors des travaux, de permettre l’accès sécurisé
+                        aux équipements (groupe VMC entre autre). Il peut idéalement reprendre toutes les
+                        actions de l’usager, par exemple dans le cadre d’un contrat d’entretien.
+                        L’intervention d’un professionnel est justifiée pour la maintenance du groupe d’ex-
+                        traction. D’une part, parce que son accès peut nécessiter des moyens appropriés (lo-
+                        calisation sur toiture terrasse) et d’autre part, parce que l’extracteur est un équipe-
+                        ment qui requiert l’œil avisé d’un spécialiste.
+
+                        Les opérations de maintenance, qui
+                        seront annuelles, comprennent au                     Les éventuelles manchettes de liaison
+                        moins :                                              anti vibratile entre le caisson d’extraction
+                        Δ le nettoyage des pales de ventilateur ;            et les gaines doit faire l’objet d’un examen
+                        Δ le contrôle de la tension de la courroie de        approfondi en vue d’un remplacement
+                            transmission et son remplacement préven-         préventif.
+                            tif éventuel ;
+                        Δ   la surveillance des galets et axes de rou-       En présence d’une VMC double flux, les
+                            lement ;                                         opérations d’entretien et de maintenance
+                        Δ   la vérification de l'état général du caisson     sont plus fréquentes, car elles concernent
+                            ou de la tourelle et également du rejet d’air;   un double circuit et un échangeur. Les
+                        Δ   la vérification des connexions électriques.      filtres font notamment l’objet d’un rem-
+                                                                             placement régulier. La bonne évacuation
+                        Idéalement, la mesure et le contrôle du débit        des condensats est contrôlée. Les gaines
+                        ou de la dépression au niveau des bouches            de soufflage peuvent faire l’objet d’une
+                        d’extraction permettra de constater rapide-          hygiénisation.
+                        ment le bon fonctionnement de l’installation.        L’intervention du professionnel sera va-
+                        Par ailleurs, lorsqu’il est visible, notamment       lablement complétée par l’examen de la
+                        en terrasse et en combles, le réseau d’extrac-       propreté et de la vacuité des réseaux et
+                        tion doit faire l’objet d’un examen visuel, par-     des conseils sur le bon usage de la VMC
+                        ticulièrement au niveau des assemblages et           et l’aération des logements. L’impossibili-
+                        du rejet d’air. Il ne doit pas exister de dégra-     té de raccord de hotte de cuisine ou de
+                        dation des conduits (corrosion, écrasements,         sèches linge sera rappelée.
+                        perforation, …).
+
+
+                                              L’ESSENTIEL
+                                              Véritable poumon de la construction, la VMC apporte l’air néces-
+                                              saire aux occupants et permet de maintenir un air intérieur de
+                                              bonne qualité.
+                                              Un usage normal des locaux et le maintien en bon état de
+                                              l’installation sont essentiels pour conserver un air sain, éviter le
+                                              développement de moisissures sur les ponts thermiques et stabi-
+                                              liser l’hygrométrie des matériaux de construction.
+                                              Le mauvais fonctionnement, voire l’arrêt de la ventilation méca-
+                                              nique peut être rapidement dommageable pour la construction
+ À CONSULTER                                  qui deviendrait trop humide, mais également pour la santé des
+ Δ Règlement    sanitaire départemen-
+   tal, article 31.2
+                                              occupants.
+                                              Le nettoyage régulier et la maintenance préventive de l’en-
+ Δ DTU   68.3 (VMC)
+ Δ Guide RAGE VMC double flux                 semble de l’installation de VMC sont essentiels.
+
+
+                      >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           ENTRETIEN / MAINTENANCE
+G.06            LES VMC SIMPLE ET DOUBLE FLUX
+4/4
+
+
+      5. L’ŒIL DE L’EXPERT
+
+
+
+
+      Photo © DR - AQC                                                 Photo © DR - AQC
+
+
+      Aube en PVC du ventilateur d’une maison. Le ven-                 Piquage de gaine en tôle : La protection aluminium
+      tilateur produit un bruit suspect. L’axe de rotation a           qui est sensée étancher l’assemblage a disparu
+      commencé à brûler le plastique. Une maintenance pré-             La dépression dans la gaine aspire l’air extérieur, au dé-
+      ventive doit être adoptée, pour éviter, comme dans cet           triment des logements.
+      exemple, un début d’incendie. Un nettoyage fréquent              L’assemblage d’origine était de mauvaise qualité
+      de l’aube est nécessaire.
+
+
+
+
+      Photo © DR - AQC
+
+
+      Intérieur d’une bouche de salle de bain : le débit
+      d’extraction d’air est complétement dégradé.
+
+
+
+
+      Pour en savoir plus :
+                                                                                          Retrouvez l’ensemble des
+                                                                                          Fiches pathologie bâtiment sur :
+                                                                                          www.qualiteconstruction.com
+                                                                                          et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                                    © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+                  >>> Retrouvez l’ensemble des Fiches métier sur www.qualiteconstruction.com et sur l’AppliQC
+

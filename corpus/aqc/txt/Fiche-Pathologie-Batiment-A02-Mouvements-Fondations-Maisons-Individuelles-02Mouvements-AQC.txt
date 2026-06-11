@@ -1,0 +1,236 @@
+                                                                                                     FONDATIONS ET INFRASTRUCTURES                   FICHE
+                                                                                                                                                     A.02
+                                                                                                                                                          1/4
+
+                                                              MOUVEMENTS DE FONDATIONS
+                                                              DE MAISONS INDIVIDUELLES
+                                                              2° PARTIE : MOUVEMENTS EXCEPTIONNELS
+                              Photo © DR - AQC                EN SOLS SENSIBLES
+
+
+1. LE CONSTAT
+Les sols fins, limons et argiles, sont sensibles aux varia-                                  Cette alternance de tassements et de soulèvements
+tions de teneur en eau :                                                                     provoque des dégâts dans les murs, car ils se pro-
+Δ  retrait avec perte de volume lors de la dessiccation ;                                    duisent de façon hétérogène sous les fondations.
+Δ  réhydratation et gonflement pour les argiles les plus                                     Ces sollicitations fatiguent les maçonneries et les as-
+   fines ;                                                                                   semblages des éléments en béton armé et conduisent,
+Δ  changements de consistance (du solide à une                                               à terme, à l’apparition de fissures et de lézardes (ouver-
+   consistance de plastique, voire liquide, lors d’une                                       ture supérieure à 2 mm). Elles peuvent aussi affecter les
+   hydratation prolongée avec pour consé-                                                    aménagements extérieurs (trottoirs, escaliers, plages
+   quence une perte de la capacité portante).                                                de piscine), les voiries d’accès et les réseaux enterrés.
+                                                                                             Dans les cas graves, les fissures peuvent nécessiter la
+                                                                                             déconstruction totale de l’ouvrage.
+
+
+
+
+2. LE DIAGNOSTIC                                             une forte évaporation, parfois sous                 donc entre le centre du pavillon et
+                                                             le niveau des fondations, jusqu’à                   sa périphérie, d’où l’apparition de
+Une dessication estivale normale                             2 à 4 m de profondeur.                              fissures ou de lézardes.
+modifiera les teneurs en eau sur                                                                                 Ce processus est aggravé, voire dé-
+environ 1 m à 1,50 m de pro-                                 Ces mouvements du sol ne sont                       clenché par la présence, sous les
+fondeur sur une courte période.                              pas uniformes sous les bâtiments                    fondations, de racines et radicelles
+Quand la durée de l’épisode se pro-                          car ceux-ci forment un écran contre                 de la végétation, d’arbres de haute
+longe en automne et lors d’un hiver                          l’évaporation. Des efforts différen-                tige et d’arbustes, plantés volontai-
+sec, cette « sécheresse » entraîne                           tiels importants se manifestent                     rement proches des constructions,
+                                                                                                                 dont les besoins en eau sont im-
+                                   PROFIL HYDRIQUE DES SOLS ARGILEUX                                             portants (chênes, peupliers, frênes,
+                           Variation de la teneur en eau (W%) en fonction de la profondeur                       saules …). On doit en effet imagi-
+0            10              20               30                40               50             60        W%
+                                                                                                                 ner les sols sous les constructions
+                                                                                                                 comme des réserves d’humidité à
+                                                                                                                 faible profondeur, non sujettes à
+                                                            ∆W%
+                                                                                                                 l’évaporation des terrains ouverts.
+                                                                                                                 La végétation va y développer pré-
+                                                                                                                 férentiellement les racines et ra-
+                           Après une                                               Après une                     dicelles pour y puiser les quantités
+                           période                                                période de                     d’eau nécessaires à sa croissance ;
+                           de sécheresse                                      réhumidiﬁcation                    on parle d’hydrotropisme.
+    Front de dessication   ou de ﬁn d’été                                     ou en ﬁn d’hiver                   Les mouvements de sol, retrait et
+    entre 2 et 4 m                                                                                               gonflement, ne sont pas uniformes
+                                                                                                                 entre le centre du pavillon et sa
+Profondeur
+                                                                                                                 périphérie.
+
+
+
+                   >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE            FONDATIONS ET INFRASTRUCTURES
+A.02             MOUVEMENTS DE FONDATIONS DE MAISONS INDIVIDUELLES
+2/4              2° PARTIE : MOUVEMENTS EXCEPTIONNELS EN SOLS SENSIBLES
+
+
+
+                                                         6                                       3. LES BONNES
+                                                                                                 PRATIQUES
+                                                                                    7
+
+                              1
+                                                                 2m
+                                                                                    8            Δ Consulter en amont des cartes
+                                                                                                     géologiques et repérer si
+                                                                                    9
+                              2                                  10                                  le terrain se trouve sur une
+                                                                                                     zone concernée par le phé-
+                              3
+                                                                                                     nomène d’argiles gonflantes :
+                              4                                                                      www.georisques.gouv.fr/aléare-
+                              5
+                                                                              ATTENTION              trait-gonflementdesargiles
+          Légende                                                                                Δ   Faire une étude de sol pour
+          1 Sable              6 Dallage périphérique éventuel                                       connaître les principales carac-
+          2 Gravillons         7 Coupure de capillarité                                              téristiques géotechniques et la
+          3 Cailloux           8 Revêtement extérieur                                                transmettre au BET structures.
+          4 Grosses pierres    9 Sous-sol
+                                                                                                     Des essais en laboratoire (limites
+          5 Drain             10 Terrain imperméable
+                                                                                                     d’Atterberg, valeur au bleu, gra-
+                                                                                                     nulométrie,      sédimentométrie,
+      Des tensions apparaissent dans                     Δ d’une tranchée et de fourreaux            essai à l’œdomètre) sont indis-
+      la structure. Les fissures et les lé-                  de raccordements (alimentation          pensables pour reconnaître pré-
+      zardes sont l’expression de la li-                     d’eau, courants forts, courants         cisément le type de sol rencontré
+      bération des contraintes dans les                      faibles, gaz),  qui canalisent          et le potentiel de gonflement de
+      matériaux.                                             les eaux directement sous la            toute couche argileuse d’assise.
+      La nature même des argiles concer-                     construction.                       Δ   Maîtriser les circulations d’eau
+      nées peut donner naissance, lors                                                               autour de la construction dès le
+      d’une période ultérieure très plu-                 Le talutage des terres en contre-           début du chantier.
+      vieuse, à un phénomène opposé                      pente vers le pavillon, les remblais    Δ   Vérifier l’existence locale d’un
+      de gonflement qui tend à refermer                  et les aménagements périmé-                 PPRn RGA (Plan de Prévention
+      les fissures.                                      triques avec des matériaux granu-           des Risques naturels Retrait
+      Les fissures se referment après une                laires, sables, cailloux ou calcaire,       Gonflement des Argiles) spéci-
+      saison hivernale pluvieuse et/ou à                 ramènent les eaux de ruisselle-             fique, et prendre les précautions
+      l’occasion d’une hydratation acci-                 ment contre les murs de soubasse-           nécessaires :
+      dentelle provenant :                               ment et sous les fondations.                Ω  ancrer plus profondément les
+      Δ  d’une remontée de nappe                                                                        semelles de fondation avec
+         phréatique ;                                    Plusieurs paramètres sont en géné-             une profondeur minimale de
+      Δ  d’une absence de drainage en                    ral concomitants : un ou plusieurs             80 cm en aléa faible à moyen,
+         amont d’une maison assise sur                   facteurs de prédisposition, des sols           120 cm en aléa fort ;
+         un terrain en pente ;                           sensibles au retrait gonflement des         Ω  sur un terrain en pente, ancrer
+      Δ  d’un branchement intempestif                    argiles, un terrain en pente, une              la semelle aval dans la même
+         d’un drain sur réseau d’éva-                    structure légère… et un facteur de             couche de sol que la semelle
+         cuation des eaux pluviales aux                  déclenchement de la variation hy-              amont, via des redans ;
+         abords de la construction ;                     drique, une hydratation acciden-
+      Δ  d’un défaut d’étanchéité dans                   telle, et/ou une dessication (esti-
+         un regard de pied de chute des                  vale ou la succion de la végétation).
+         eaux de toiture ;
+      Δ  d’un défaut d’étanchéité d’un
+         réseau d’eau pluviale ou d’eau
+         usée ;
+
+
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                      FONDATIONS ET INFRASTRUCTURES                   FICHE
+                               MOUVEMENTS DE FONDATIONS DE MAISONS INDIVIDUELLES                                      A.02
+                           2° PARTIE : MOUVEMENTS EXCEPTIONNELS EN SOLS SENSIBLES                                          3/4
+
+
+Ω rigidifier la structure en multi-            hydrofuge (DTU 20.1 P1-1 art          Ω laisser les réseaux de drai-
+    pliant les chaînages verticaux,            9.1 conception des enduits de             nage et d’évacuation des eaux
+    formant une poutre échelle                 soubassements) ;                          pluviales séparatifs jusqu’au
+    avec les chaînages horizon-            Ω   proscrire les remblais et les             collecteur ou fossé situé en
+    taux et le ferraillage de la se-           aménagements périmétriques                aval de la construction (à plus
+    melle de fondation. Penser                 des constructions avec des                de 5 m) ;
+    aussi à soigner les assem-                 matériaux granulaires (sable,         Ω   éloigner la construction des
+    blages entre les ouvrages en               cailloux, calcaire) formant un            arbres et arbustes ou implan-
+    béton armé avec des équerres               piège à eau vers les fonda-               ter des écrans anti-racines
+    métalliques de renforts ;                  tions ;                                   pour la végétation ne res-
+Ω   prévoir un joint de rup-               Ω   en périmétrie du pavillon,                pectant pas les distances de
+    ture entre les structures de               réaliser un trottoir ou une               sécurité.
+    charges et de niveaux d’as-                géomembrane pour stabili-
+    sises différents (la maison et le          ser la teneur en eau sous les
+    garage, par exemple) ;                     semelles de fondations, limiter
+Ω   réaliser un enduit extérieur               l’évaporation des couches su-
+    sur toute la hauteur du mur                perficielles de sol, et éloigner du
+    de soubassement (du des-                   pied des murs les eaux de pluie
+    sous du premier rang de                    ruisselant sur les façades ;
+    briques jusqu’à la semelle de          Ω   réaliser et concevoir le réseau
+    fondation) avec un mortier                 de drainage selon les préconi-
+                                               sations de l’annexe A de la par-
+                                               tie 4 du DTU 20.1 « conception
+                                               des réseaux de drainage » ;
+À CONSULTER                                Ω   éloigner du pied du mur de
+Δ www.georisques.gouv.fr                       soubassement le drain amont
+Δ Reconnaissances  de sol :                    chargé de capter les eaux
+ √ NF  P94-500 Missions d’ingénie-
+   rie géotechnique - Classification
+                                               de ruissellement de surface
+     et spécification                          (drain de surface), les eaux
+ √ NF EN 1997-2 : Eurocode 7,
+   Reconnaissance des terrains et
+                                               épidermiques sous le sol de
+                                               couvert perméable (tranchée
+     essais                                    drainante) et les eaux prove-
+Δ Calcul : NF EN 1997-1 : calcul
+  géotechnique (Eurocode 7) + son              nant des fourreaux et de la
+    Annexe nationale                           tranchée des raccordements
+Δ Mise en œuvre :                              des réseaux (article A4.4 de
+ √ NF  P94 261 Fondations super-
+   ficielles
+                                               l’annexe A) ;
+ √ NF  P11-301 exécution de terras-
+   sements
+ √ NF  DTU 20.1 ouvrages en ma-
+   çonneries de petits éléments,
+     dont l’annexe A de la partie 4
+     relative au drainage
+ √   Guide pratique du CSTB de juil-        L’ESSENTIEL
+     let 2014 fondations, concep-
+     tion, dimensionnement et réali-        Δ Respecter les bonnes pratiques de la fiche A1.
+     sation de maisons individuelles        Δ Consulter le site www.georisques.gouv.fr.
+     les bâtiments assimilés                Δ Faire réaliser une étude géotechnique par un BET spécialisé et
+ √    Guide AQC / CSTB de décembre            l’étude béton qu’elle induit.
+     2014, la pathologie des fonda-
+     tions superficielles, diagnostic,      Δ Descendre le fond de fouille (-0,80 m à -1,20 m selon aléa).
+     réparation et prévention, mai-         Δ Éloigner la végétation.
+     sons individuelles et bâtiments
+     assimilés
+                                            Δ Prévoir la bonne circulation et évacuation des eaux pluviales.
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE           FONDATIONS ET INFRASTRUCTURES
+A.02            MOUVEMENTS DE FONDATIONS DE MAISONS INDIVIDUELLES
+4/4             2° PARTIE : MOUVEMENTS EXCEPTIONNELS EN SOLS SENSIBLES
+
+      4. L’ŒIL DE L’EXPERT
+                                                                 Le sol argileux sensible subit des variations de volume
+                                                                 en fonction de sa teneur en eau; celle-ci fluctue
+                                                                 au gré des saisons et de la végétation présente à
+                                                                 proximité des fondations. Les variations volumiques
+                                                                 entraînent l’apparition de fissures suite au tassement
+                                                                 des fondations en cas de rétractation de l’argile. Les
+                                                                 fissures peuvent être très importantes (lézardes).
+
+
+
+
+      Photo © DR - AQC
+
+
+                                                                 Lors de réhydratation des sols argileux, ceux-ci
+                                                                 reprennent leur volume initial, voire augmentent
+                                                                 de volume lors d’épisodes pluvieux intenses, ou de
+                                                                 fuites de réseaux et induisent des soulèvements sur
+                                                                 les structures plus légères comme les dallages et les
+                                                                 ouvrages annexes (allées, escaliers).
+
+
+
+
+      Photo © DR - AQC
+
+
+
+
+      Pour en savoir plus :
+                                                                                 Retrouvez l’ensemble des
+                                                                                 Fiches pathologie bâtiment sur :
+                                                                                 www.qualiteconstruction.com
+                                                                                 et sur l’AppliQC
+      www.groupe-sma.fr
+      www.qualiteconstruction.com                              © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+

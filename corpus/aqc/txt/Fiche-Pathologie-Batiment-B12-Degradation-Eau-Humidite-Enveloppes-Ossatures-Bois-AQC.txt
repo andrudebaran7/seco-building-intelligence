@@ -1,0 +1,154 @@
+                                                                           STRUCTURES ET GROS ŒUVRE                  FICHE
+                                                                                                                     B.12
+                                                                                                                          1/3
+
+                                           DÉGRADATION PAR L’EAU
+                                           ET L’HUMIDITÉ DES ENVELOPPES ET
+          Photo: ©AQC - Mme Bazin - 2014
+                                           OSSATURES BOIS
+
+1. LE CONSTAT
+Le bois reste un matériau « vivant ». L’action de l’eau
+à l’état de liquide ou de vapeur pourra donc avoir des
+conséquences importantes sur le comportement des
+bois.
+
+
+
+
+2. LE DIAGNOSTIC
+Influence de l’hygrométrie                 Les infiltrations                       3. LES BONNES
+sur le bois                                Les     infiltrations   accidentelles   PRATIQUES
+Une grande partie des ouvrages est         existent aussi au même titre que
+montée en atelier dans des condi-          pour les autres types d’ouvrages        Bien choisir la qualité des
+tions d’hygrométrie et de tempéra-         mais avec des conséquences par-         bois
+ture contrôlées et réduites. Ces ou-       fois plus importantes compte tenu       (Attention différencier classe
+vrages sont par la suite assemblés         de la sensibilité à l’eau des parois    d’emploi et classe de service)
+sur chantier dans des conditions           ou des supports : fuites diverses       Choisir des bois structurels mar-
+complètement différentes.                  par le clos couvert ou fuites d’équi-   qués CE.
+Les bois subissent des variations di-      pements tels que douches…               Utiliser des essences dont le
+mensionnelles plus ou moins mar-                                                   comportement est parfaitement
+quées selon les écarts d’hygromé-          Impact sur la structure                 connu : l’équilibre hydrique sera
+trie entre l’atelier et l’extérieur mais   La structure est évidemment direc-      en effet différent et plus ou moins
+également suivant la nature et l’hy-       tement affectée en cas de dégrada-      long à atteindre selon les essences
+grométrie initiale des bois utilisés.      tion des bois porteurs sous l’effet     utilisées.
+Un bois utilisé trop sec a alors           de l’eau mal gérée.                     S’assurer également de la cohé-
+tendance à gonfler après mise en           Les attaques parasitaires d’insectes    rence du traitement des bois uti-
+œuvre, contrairement à un bois             xylophages diversement présents         lisés avec la position de ces bois
+plus humide qui subit en général           selon les régions ont leur impor-       dans l’ouvrage. Tenir compte, en
+du retrait.                                tance et génèrent parfois des dom-      outre, de la région concernée.
+Les déformations sont par ailleurs         mages également irréversibles. La       Δ  Classe d’emploi 1 : si l’élément
+différentes selon la position origi-       présence d’humidité dans les bois          est abrité des intempéries et non
+nelle du bois débité dans le tronc         peut d’ailleurs représenter un ter-        exposé à l’eau sous toutes ses
+de l’arbre : les sections peuvent ain-     rain favorable au développement            formes.
+si se déformer de façon homogène           de ces attaques. Un mauvais choix       Δ  Classe d’emploi 2 : si l’élément
+sur toutes les faces ou de façon           des essences et de qualité de trai-        est abrité des intempéries mais
+bien plus hétérogène par vrillage,         tement amoindrira la durabilité            pouvant recevoir une humidité
+tuilage, etc.                              face aux larves de ces insectes.           occasionnelle temporaire.
+
+
+
+
+              >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+FICHE             STRUCTURES ET GROS ŒUVRE
+B.12              DÉGRADATION PAR L’EAU ET L’HUMIDITÉ
+2/3               DES ENVELOPPES ET OSSATURES BOIS
+
+
+      Δ Classe d’emploi 3 : si l’élément           Anticiper les déformations à ve-       centes de charges, mouvements
+          n’est pas abrité des intempéries         nir. Les variations dimensionnelles    causés par le sol…) étudiées à
+          mais reste hors contact du sol.          étant inévitables eu égard à la        l’avance : espaces de dilatation,
+      Δ   Classe d’emploi 4 : si l’élément         composition même des ouvrages          joints souples étanches aux in-
+          est en contact avec le sol ou de         exposés, le taux d’hygrométrie des     terfaces avec les parties rigides
+          l’eau douce.                             bois devra être systématiquement       indéformables,…
+      Δ   Classe d’emploi 5 : si l’élément         contrôlé et les sollicitations (des-
+          est en permanence exposé à de
+          l’eau salée.
+
+
+
+
+          À CONSULTER
+          Δ NF DTU 31.2 : « Construction de
+            maisons et bâtiments à ossature
+              en bois »
+          Δ NF DTU 31.1 : « Travaux de bâti-
+            ment - Charpente en bois »
+          Δ FD P20-651 Durabilité des élé-
+            ments et ouvrages en bois (juin
+              2011)
+          Δ Recommandations
+            nelles RAGE
+                                  profession-
+
+          Δ Les Eurocodes pour le dimension-
+            nement structurel avec notam-             L’ESSENTIEL
+              ment l’Eurocodes 5 « Conception
+              et calcul des structures en bois »      Δ Bien choisir son bois, son essence, son classement, en fonction
+          Δ   http://www.developpement-du-
+              rable.gouv.fr ou http://termite.
+                                                         de la région de mise en œuvre de l’ouvrage afin d’obtenir une
+                                                         bonne durabilité face aux déformations, à l’eau et aux insectes.
+              com.fr
+
+
+      >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+                                                                          STRUCTURES ET GROS ŒUVRE                   FICHE
+                                                          DÉGRADATION PAR L’EAU ET L’HUMIDITÉ                        B.12
+                                                           DES ENVELOPPES ET OSSATURES BOIS                               3/3
+
+
+4. L’ŒIL DE L’EXPERT
+                                          Exemple d’un bâtiment industriel. Portiques en lamellé collé traité classe 2.
+                                          Une partie des portiques est exposée aux intempéries. Le traitement des
+                                          bois n’est pas en accord avec la classe d’emploi (classe d’emploi 3) concer-
+                                          nant les parties exposées. La conception est défectueuse. De nombreuses
+                                          salles de sports ou autres bâtiments en lamellé collé des années 80 ont dû
+                                          être repris :
+                                          Δ  reconstitution des bois de structure (à la résine et broches métalliques,
+Photo: © GIE SOCABAT                         en pied de portiques notamment) ;
+                                          Δ  recouvrement des bois exposés.
+
+                                          Découpe d’une lame de terrasse en pin traité autoclave classe 4 (brun) et
+                                          d’une lambourde en pin traité autoclave classe 4 (vert).
+                                          On distingue sur la tranche la profondeur de pénétration du produit de
+                                          traitement, coloré. Le traitement « à cœur » est un abus de langage. Le bois
+                                          de cœur est peu voire non imprégnable.
+                                          Au-delà du rôle prépondérant de la conception pour éradiquer les pièges
+                                          à eau, toute découpe doit être traitée. Une charpente extérieure (pergola
+Photo: © GIE SOCABAT                      etc.) doit être traitée autoclave après taille. Dans les autres cas (terrasse
+                                          etc.), il existe des produits de traitement des découpes et usinages des bois
+                                          traités par autoclave, à appliquer sur chantier.
+
+                                          Exemple d’un limon d’escalier âgé de 5 ans dont les découpes n’ont pas
+                                          été traitées.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+                                          Exemple de bois rond en pin traité autoclave classe 4, âgé de 5 ans. Le bois
+                                          de cœur est non imprégné. La découpe n’a pas été traitée. Naturellement
+                                          classe 3, le bois de cœur est dégradé au contact du sol et en tête de poteau
+                                          tandis que l’aubier est préservé.
+
+
+
+
+Photo: © GIE SOCABAT
+
+
+
+
+Pour en savoir plus :
+                                                                             Retrouvez l’ensemble des
+                                                                             Fiches pathologie bâtiment sur :
+                                                                             www.qualiteconstruction.com
+                                                                             et sur l’AppliQC
+www.groupe-sma.fr
+www.qualiteconstruction.com                                 © 2024 - Agence Qualité Construction - Fondation EXCELLENCE SMA
+
+               >>> Retrouvez l’ensemble des Fiches pathologie bâtiment sur www.qualiteconstruction.com et sur l’AppliQC
+
