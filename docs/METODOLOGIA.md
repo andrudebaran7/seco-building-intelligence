@@ -29,6 +29,7 @@ método de acceso real que funcionó (que no siempre coincide con el documentado
 | GRB (BE-Flandes) | WFS 2.0 | Funciona **sin** la cuenta que exige la descarga masiva |
 | VEKA (BE-Flandes) | Descarga directa de CSV bajo `/Data/` | La raíz del portal responde 403 (WAF) pero los ficheros sirven; rutas halladas en el catálogo DCAT de metadata.vlaanderen.be |
 | Fichas AQC (corpus) | API REST de WordPress (`/wp-json/wp/v2/media`) + descarga de PDFs | Sin scraping de HTML; el texto se extrae con `pdftotext -layout` |
+| Prescripciones ITM (corpus) | Parseo HTML de la página conditions-types + descarga directa de PDFs | Página estable, sin API; títulos extraídos de la cabecera de cada PDF; el plan original incluía los informes JRC Eurocodes pero su repositorio (DSpace) bloquea con WAF a los clientes no-navegador |
 
 Convenciones comunes de extracción en todos los scripts:
 
@@ -249,9 +250,10 @@ Ordenado por valor/esfuerzo estimado:
    ortofoto (estado de cubierta) con transferencia desde SDNET2018/METU
    (ambos CC-BY, aptos para uso comercial según el reporte). Los chips ya
    salen etiquetados con altura/parcela/dirección.
-6. **Ampliar el corpus RAG**: prescripciones ITM (LU), Legilux XML,
-   informes JRC Eurocodes, TABULA/EPISCOPE — todos gratuitos según el
-   reporte; el esquema fragmento+metadatos+embedding ya está montado.
+6. **Ampliar el corpus RAG** — *parcialmente hecho*: las prescripciones ITM
+   (LU, 143 docs FR/DE) están indexadas con fuente/idioma por fragmento.
+   Queda abierto: Legilux XML, TABULA/EPISCOPE y los informes JRC Eurocodes
+   (bloqueados: su repositorio rechaza clientes no-navegador).
 7. **Robustez de ingeniería** (deuda consciente del prototipo): reintentos
    con backoff, point-in-polygon con índice espacial (R-tree) para zonas
    grandes, anillos interiores de polígonos, tests automatizados, y un

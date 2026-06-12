@@ -54,16 +54,19 @@ cruce espacial point-in-polygon                join exacto por ID ACT_<uuid>
 lu_<zona>_batiments.* (+3 .geojson)       →    lu_<zona>_batiments_3d.*
 ```
 
-### Cadena corpus RAG (patología constructiva)
+### Cadena corpus RAG (patología + normativa)
 
 ```
-ingest_aqc.py                                  rag_aqc.py
-API WordPress de qualiteconstruction.com  →    troceado (~1200 chars, solape 200)
-89 PDFs + texto (pdftotext -layout)            + embeddings multilingual-e5-small
-+ manifiesto con código/tema/título            + búsqueda coseno (FR/ES/EN)
-
-corpus/aqc/{pdf,txt}/ + manifest.*        →    corpus/aqc/rag_index.db
+ingest_aqc.py: fichas patología AQC (FR)       rag_aqc.py
+  API WordPress → 89 PDFs + texto         →    troceado (~1200 chars, solape 200)
+ingest_itm.py: prescripciones ITM (LU)         + embeddings multilingual-e5-small
+  página conditions-types → 143 PDFs           + búsqueda coseno, columnas fuente/idioma
+  (serie edificación/incendio, FR + DE)
+corpus/{aqc,itm}/ + manifiestos           →    corpus/rag_index.db (232 docs, 7.551 frag.)
 ```
+
+Los informes de riesgo citan **solo AQC** (patología); la búsqueda de la UI
+abarca ambos corpora con filtro de fuente.
 
 ### Conector: informe de riesgo por edificio
 
@@ -115,7 +118,8 @@ make report LANGS=fr PDF=1 LLM=gemini
 | `ingest_geoportail_lu.py` | WFS INSPIRE LU | `--bbox`, `--zona` | `data/lu_<zona>_batiments.{csv,jsonl}` + 3 GeoJSON |
 | `ingest_lu_3d.py` | Bâtiments 3D 2023 LU | `--commune` | `data/lu_<commune>_batiments_3d.{csv,jsonl}` + CSV de alturas |
 | `ingest_aqc.py` | Fichas patología AQC | `--out`, `--skip-text` | `corpus/aqc/{pdf,txt}/` + `manifest.{csv,jsonl}` |
-| `rag_aqc.py` | Corpus AQC local | `build` / `search "consulta"` | `corpus/aqc/rag_index.db` (SQLite con embeddings) |
+| `ingest_itm.py` | Prescripciones ITM (LU) | `--series` | `corpus/itm/{pdf,txt}/` + `manifest.{csv,jsonl}` |
+| `rag_aqc.py` | Corpora AQC + ITM | `build` / `search "consulta"` | `corpus/rag_index.db` (SQLite con embeddings) |
 | `informe_edificio.py` | Dataset final FR + índice RAG | `--max-riesgo` / `--numero-dpe`, `--llm <proveedor>`, `--idiomas es,en,fr`, `--pdf` | `informes/informe_<dpe>_<modo>_<lang>.{md,pdf}` |
 | `ingest_be_geo.py` | UrbIS (BXL) / GRB (VL) vía WFS | `--region`, `--bbox`, `--zona` | `data/be_<region>_<zona>_batiments.{csv,jsonl}` + GeoJSON |
 | `ingest_veka.py` | VEKA open data (Flandes) | `--dataset` | `data/veka_<dataset>.csv` |
@@ -207,20 +211,24 @@ VEKA: CSV de e-peil medio por comuna descargado (12.379 filas, 322 comunas,
 serie temporal por año de permiso y tipo de uso). Es el equivalente flamenco
 agregado del DPE francés — no hay certificado individual abierto.
 
-### Corpus RAG (AQC)
+### Corpus RAG (patología AQC + normativa ITM)
 
 | Métrica | Valor |
 |---|---|
-| Fichas descargadas (PDF) | 89 (temas A:10 B:13 C:13 D:14 E:16 F:10 G:13) |
-| Texto extraído | 89/89, mediana ~14.500 caracteres/ficha |
-| Fragmentos indexados | 1.011 × 384 dimensiones |
-| Tamaño del índice | ~12 MB (SQLite) |
+| Fichas AQC (FR) | 89 (temas A:10 B:13 C:13 D:14 E:16 F:10 G:13) |
+| Prescripciones ITM (LU, serie edificación/incendio) | 143 (140 FR + 3 DE), mediana ~29.000 caracteres |
+| Fragmentos indexados | 7.551 × 384 dimensiones (232 documentos) |
+| Tamaño del índice | ~30 MB (SQLite), fuente e idioma por fragmento |
 
 Consultas de validación (top-1 correcto en ambas):
 - FR: *"fissures dans les murs causées par le retrait-gonflement des argiles"*
   → A.05 y A.02 (movimientos de fundaciones en suelos arcillosos), score ~0,89.
 - ES (translingüe): *"humedad y condensación en ventanas por mala ventilación"*
   → E.09 "Condensations dans les logements" y E.08 "VMC", score ~0,85.
+- ITM (FR): *"désenfumage des bâtiments élevés sécurité incendie"* →
+  prescripciones ITM-SST 1500/1503, score ~0,91.
+- ITM (DE): *"Sicherheitsvorschriften für Aufzüge"* → documentos en alemán.
+  Las consultas de patología siguen dominadas por AQC (sin ruido entre corpora).
 
 ### Informes de riesgo (conector estructurado ↔ RAG)
 
@@ -327,7 +335,7 @@ Demostrado con dos perfiles distintos (modo plantilla):
     la API de Anthropic no ofrece endpoint de embeddings (recomienda Voyage
     AI, de pago), así que el índice usa `intfloat/multilingual-e5-small`
     (~120 MB, licencia MIT) vía sentence-transformers. El corpus troceado son
-    1.011 fragmentos × 384 dimensiones en un SQLite de consulta directa. La
+    7.551 fragmentos × 384 dimensiones en un SQLite de consulta directa. La
     búsqueda es **translingüe verificada**: consultas en español recuperan
     fichas francesas correctas (p.ej. "humedad y condensación en ventanas por
     mala ventilación" → E.09 "Condensations dans les logements" y E.08 "VMC").

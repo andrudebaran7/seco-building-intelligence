@@ -222,6 +222,7 @@ sintetizar_informes.py       # synthetic inspection reports + ground truth
 extraer_informes.py          # PDF → structured defects DB (hybrid classifier)
 evaluar_extraccion.py        # metrics vs ground truth
 data/ corpus/ informes*/     # all outputs, shipped for reproducibility
+CHANGELOG.md                 # how the project was built, phase by phase
 docs/PIPELINE.md             # full technical documentation (17 findings, results)
 docs/METODOLOGIA.md          # extraction/normalization/join methodology (ES)
 docs/INVENTARIO.md           # data inventory (ES)

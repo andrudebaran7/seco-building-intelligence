@@ -71,10 +71,12 @@ normalizó y cruzó cada dato: ver `METODOLOGIA.md`.
 
 ## Totales
 
-- **~8.250 edificios cruzados en 3 países**: 325 Francia (cadena completa de
-  4 fuentes), 2.825 Luxemburgo (dirección/parcela, 1.411 con altura 3D),
+- **~8.850 edificios cruzados en 3 países**: 913 Francia (cadena completa de
+  4 fuentes, cobertura 90-98% tras el fallback por dirección BAN),
+  2.825 Luxemburgo (dirección/parcela, 1.411 con altura 3D),
   5.104 Bélgica (CAPAKEY catastral; 1.786 con dirección en Bruselas).
-- **89 documentos de patología** indexados en 1.011 fragmentos vectorizados.
+- **232 documentos** (89 fichas de patología AQC + 143 prescripciones ITM)
+  indexados en 7.551 fragmentos vectorizados con fuente e idioma.
 - **1 dataset energético agregado** (VEKA, 322 comunas flamencas).
 - **24 chips de ortofoto a 10 cm/píxel** con etiquetas estructuradas (módulo CV).
 - Licencias: Licence Ouverte (Etalab), CC0, Gratis Open Data Licentie

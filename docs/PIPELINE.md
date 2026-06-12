@@ -385,7 +385,7 @@ a hybrid of embeddings over cleaned per-sheet profiles + TF-IDF).
 17. **Embeddings were solved 100% locally, with no API keys**: the Anthropic
     API has no embeddings endpoint (it recommends Voyage AI, paid), so the
     index uses `intfloat/multilingual-e5-small` (~120 MB, MIT license) via
-    sentence-transformers. The chunked corpus is 1,011 fragments × 384
+    sentence-transformers. The chunked corpus is 7,551 fragments × 384
     dimensions in a directly queryable SQLite file. The search is
     **verified cross-lingual**: Spanish queries retrieve the correct French
     sheets (e.g. "humedad y condensación en ventanas por mala ventilación" →
