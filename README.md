@@ -27,6 +27,39 @@ reports on demand. Center: multilingual semantic search over the 89 AQC
 pathology sheets with citations. Right: defects extracted from inspection
 PDFs, classified to the AQC taxonomy — evaluation metrics shown up front.*
 
+## How it works
+
+```mermaid
+flowchart LR
+    subgraph FR["🇫🇷 France — structured chain"]
+        DPE["ADEME DPE API<br/>energy diagnoses"] -->|id_rnb| RNB["RNB API<br/>identity + geometry"]
+        RNB -->|id_rnb| BDNB["BDNB API<br/>materials, height, use"]
+        BDNB -->|lon/lat gaps| RGA["Géorisques API<br/>clay-shrinkage risk"]
+    end
+    subgraph LU["🇱🇺 Luxembourg — geospatial chain"]
+        WFS["INSPIRE WFS<br/>buildings · addresses · parcels"] -->|ACT id| GML["CityGML 3D<br/>heights"]
+        GML --> ORTO["2025 orthophoto WMS<br/>labeled CV chips"]
+    end
+    subgraph BE["🇧🇪 Belgium"]
+        URBIS["UrbIS / GRB WFS<br/>buildings + CAPAKEY"] ~~~ VEKA["VEKA CSV<br/>energy stats"]
+    end
+    subgraph CORPUS["📚 AQC pathology corpus"]
+        AQC["89 sheets (PDF→text)"] --> IDX["RAG index<br/>local embeddings, SQLite"]
+    end
+    subgraph AI["🤖 Evaluated AI"]
+        PDFS["inspection PDFs<br/>(synthetic + ground truth)"] --> EXTR["extraction +<br/>hybrid classifier"]
+        EXTR -->|"top-3 73%, F1 0.59"| DB[("defects DB")]
+    end
+    RGA --> SIG["risk signals"]
+    SIG --> IDX
+    IDX --> REP["📄 per-building risk report<br/>with [AQC] citations<br/>(template or LLM)"]
+    IDX --> EXTR
+    RGA --> UI["🖥️ Streamlit UI"]
+    DB --> UI
+    REP --> UI
+    IDX --> UI
+```
+
 ---
 
 ## 1. What problem, and for whom?
@@ -194,19 +227,18 @@ docs/research/               # challenge brief + product research reports
 ## Setup & reproduce
 
 ```bash
-# 1. Environment (Python 3.10+; pdftotext from poppler-utils for the corpus)
-python3 -m venv .venv          # add --without-pip + get-pip.py if ensurepip is missing
-.venv/bin/pip install sentence-transformers scikit-learn fpdf2 streamlit pandas anthropic
+make setup     # creates .venv and installs pinned dependencies
+make ui        # launches the app — all demo data ships in the repo
 
-# 2. Everything is shipped pre-computed — just run the UI:
-.venv/bin/streamlit run app.py
-
-# 3. Or regenerate any stage from scratch, e.g.:
-python3 ingest_dpe.py --departement 33 --limit 500          # data pipeline (stdlib only)
-python3 ingest_aqc.py && .venv/bin/python rag_aqc.py build  # corpus + RAG index
-.venv/bin/python sintetizar_informes.py && .venv/bin/python extraer_informes.py
-.venv/bin/python evaluar_extraccion.py                      # metrics
+# Regenerate any stage from scratch:
+make pipeline-fr DEPT=33 LIMIT=500   # French chain (live APIs, stdlib only)
+make corpus rag                      # AQC corpus + RAG index
+make extract eval                    # synthetic reports -> extraction -> F1 metrics
+make report LLM=gemini               # LLM-drafted risk report (needs GEMINI_API_KEY)
+make help                            # all targets
 ```
 
-Full per-stage commands: [`docs/PIPELINE.md`](docs/PIPELINE.md). Spanish
-versions: [`docs/PIPELINE.es.md`](docs/PIPELINE.es.md).
+(Python 3.10+; `pdftotext` from `poppler-utils` for corpus/report text
+extraction.) Full per-stage commands and options:
+[`docs/PIPELINE.md`](docs/PIPELINE.md). Spanish versions:
+[`docs/PIPELINE.es.md`](docs/PIPELINE.es.md).
