@@ -356,13 +356,31 @@ with tab_cv:
                        "surface photos like an inspector takes on site — not aerial "
                        "imagery. METU is a clean benchmark; real-world photos will "
                        "be harder. Triage assistance: the inspector decides.")
+        from PIL import Image
+
+        st.markdown("##### Try the built-in samples")
+        st.caption("Never seen by the model during training. NG = cracked, "
+                   "OK = sound — click *Classify* and check the verdict. "
+                   "Six more samples in `data/cv_demo/`.")
+        MUESTRAS = ["NG_01.jpg", "OK_01.jpg", "NG_02.jpg", "OK_02.jpg"]
+        cols = st.columns(4)
+        for col, nombre in zip(cols, MUESTRAS):
+            ruta = Path("data/cv_demo") / nombre
+            if not ruta.exists():
+                continue
+            col.image(str(ruta), caption=nombre, width="stretch")
+            if col.button("Classify", key=f"cv_{nombre}", width="stretch"):
+                st.session_state["cv_muestra"] = nombre
+        if (sel := st.session_state.get("cv_muestra")):
+            prob = prob_fisura(Image.open(Path("data/cv_demo") / sel))
+            verdict = "🔴 Crack detected" if prob >= 0.5 else "🟢 No crack"
+            st.markdown(f"**{sel}** — {verdict}")
+            st.progress(prob, text=f"crack probability {prob:.1%}")
+
+        st.markdown("##### Or upload your own")
         fotos = st.file_uploader("Upload inspection photos (jpg/png)",
                                  type=["jpg", "jpeg", "png"],
                                  accept_multiple_files=True)
-        if not fotos:
-            st.caption("No photos handy? Ten never-seen samples ship in "
-                       "`data/cv_demo/` (5 cracked `NG_*`, 5 sound `OK_*`).")
-        from PIL import Image
         for f in fotos or []:
             img = Image.open(f)
             prob = prob_fisura(img)
