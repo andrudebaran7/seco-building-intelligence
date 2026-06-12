@@ -21,8 +21,9 @@ import json
 import sys
 import time
 import urllib.error
-import urllib.request
 from pathlib import Path
+
+from red import http_get
 
 API_URL = "https://www.georisques.gouv.fr/api/v1/rga"
 SLEEP_BETWEEN_CALLS = 0.2  # la API pública admite ~10 req/s; margen amplio
@@ -39,10 +40,8 @@ NOT_EXPOSED = "Non exposé"
 
 def fetch_rga(lon: float, lat: float) -> str | None:
     """Devuelve la exposición RGA normalizada para un punto, o None si falla."""
-    url = f"{API_URL}?latlon={lon},{lat}"
-    req = urllib.request.Request(url, headers={"User-Agent": "ingest-test/0.1"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        body = resp.read().decode("utf-8").strip()
+    body = http_get(f"{API_URL}?latlon={lon},{lat}",
+                    timeout=30).decode("utf-8").strip()
     if not body:
         return NOT_EXPOSED
     data = json.loads(body)

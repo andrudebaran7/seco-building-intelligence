@@ -22,8 +22,9 @@ import sys
 import time
 import urllib.error
 import urllib.parse
-import urllib.request
 from pathlib import Path
+
+from red import http_json
 
 API_BASE = "https://api.bdnb.io/v1/bdnb/donnees"
 CHUNK = 50                 # ids por petición con el filtro in.()
@@ -62,10 +63,7 @@ def fetch_table(table: str, key: str, values: list[str], select: str) -> list[di
                 "select": select,
                 "offset": str(offset),
             })
-            url = f"{API_BASE}/{table}?{qs}"
-            req = urllib.request.Request(url, headers={"User-Agent": "ingest-test/0.1"})
-            with urllib.request.urlopen(req, timeout=60) as resp:
-                page = json.load(resp)
+            page = http_json(f"{API_BASE}/{table}?{qs}", timeout=60)
             rows.extend(page)
             time.sleep(SLEEP_BETWEEN_CALLS)
             if len(page) < PAGE:

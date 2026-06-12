@@ -29,8 +29,9 @@ import sys
 import time
 import urllib.error
 import urllib.parse
-import urllib.request
 from pathlib import Path
+
+from red import http_json
 
 PAGE = 1000
 SLEEP_BETWEEN_CALLS = 0.3
@@ -86,10 +87,8 @@ def fetch_layer_arcgis(layer_url: str, bbox: str) -> list[dict]:
             "where": "1=1", "outFields": "*",
             "f": "geojson", "resultOffset": str(offset),
         })
-        req = urllib.request.Request(f"{layer_url}/query?{params}",
-                                     headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            page = json.load(resp)
+        page = http_json(f"{layer_url}/query?{params}",
+                         headers={"User-Agent": UA}, timeout=120)
         feats = page.get("features", [])
         features.extend(feats)
         time.sleep(SLEEP_BETWEEN_CALLS)
@@ -114,9 +113,7 @@ def fetch_layer(wfs: str, type_name: str, bbox: str) -> list[dict]:
             "count": str(PAGE),
             "startIndex": str(start),
         })
-        req = urllib.request.Request(f"{wfs}?{params}", headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            page = json.load(resp)
+        page = http_json(f"{wfs}?{params}", headers={"User-Agent": UA}, timeout=120)
         feats = page.get("features", [])
         features.extend(feats)
         time.sleep(SLEEP_BETWEEN_CALLS)

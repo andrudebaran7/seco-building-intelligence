@@ -40,21 +40,15 @@ def descargar_metu() -> None:
     Nota: el 7z "libre" de Debian no trae el códec RAR ("Unsupported
     Method"); libarchive sí lo decodifica, de ahí la dependencia.
     """
-    import urllib.request
-
     import libarchive
+
+    from red import descargar, http_json
     rar = DATA_DIR.parent / "metu_crack.rar"
     DATA_DIR.parent.mkdir(exist_ok=True)
     if not rar.exists():
-        req = urllib.request.Request(MENDELEY_API,
-                                     headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            url = json.load(r)[0]["content_details"]["download_url"]
+        url = http_json(MENDELEY_API, timeout=60)[0]["content_details"]["download_url"]
         print("Descargando dataset METU (241 MB) ...")
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=900) as r, rar.open("wb") as f:
-            while chunk := r.read(1 << 20):
-                f.write(chunk)
+        descargar(url, rar, timeout=900)
     print("Extrayendo 40.000 imágenes (libarchive) ...")
     with libarchive.file_reader(str(rar)) as a:
         for entry in a:

@@ -23,9 +23,11 @@ import argparse
 import csv
 import json
 import sys
-import urllib.request
+import urllib.error
 from collections import defaultdict
 from pathlib import Path
+
+from red import descargar
 
 STATBEL_URL = ("https://statbel.fgov.be/sites/default/files/files/opendata/"
                "Buildstock/building_stock_open_data_2023.zip")
@@ -45,10 +47,7 @@ def asegurar_statbel() -> None:
     STATBEL_TXT.parent.mkdir(exist_ok=True)
     zip_path = STATBEL_TXT.parent / "statbel_building_stock.zip"
     print(f"Descargando Statbel ({STATBEL_URL}) ...")
-    req = urllib.request.Request(STATBEL_URL, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=300) as resp, zip_path.open("wb") as f:
-        while chunk := resp.read(1 << 20):
-            f.write(chunk)
+    descargar(STATBEL_URL, zip_path, headers={"User-Agent": UA}, timeout=300)
     with zipfile.ZipFile(zip_path) as z:
         z.extractall(STATBEL_TXT.parent)
 

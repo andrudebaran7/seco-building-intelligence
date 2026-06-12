@@ -23,8 +23,9 @@ import json
 import sys
 import time
 import urllib.parse
-import urllib.request
 from pathlib import Path
+
+from red import http_json
 
 WFS_URL = "https://wms.inspire.geoportail.lu/geoserver/wfs"
 PAGE = 1000
@@ -54,10 +55,7 @@ def fetch_layer(type_name: str, bbox: str) -> list[dict]:
             "count": str(PAGE),
             "startIndex": str(start),
         })
-        req = urllib.request.Request(f"{WFS_URL}?{params}",
-                                     headers={"User-Agent": "ingest-test/0.1"})
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            page = json.load(resp)
+        page = http_json(f"{WFS_URL}?{params}", timeout=120)
         feats = page.get("features", [])
         features.extend(feats)
         time.sleep(SLEEP_BETWEEN_CALLS)

@@ -22,19 +22,18 @@ import csv
 import json
 import re
 import sys
-import urllib.parse
-import urllib.request
+import urllib.error
 import zipfile
 from pathlib import Path
+
+from red import descargar, http_json
 
 DATASET_API = ("https://data.public.lu/api/1/datasets/"
                "base-de-donnees-nationale-des-batiments-3d-2023/")
 
 
 def resolve_url(commune: str) -> str:
-    req = urllib.request.Request(DATASET_API, headers={"User-Agent": "ingest-test/0.1"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        dataset = json.load(resp)
+    dataset = http_json(DATASET_API, timeout=30)
     wanted = f"act2023v2-bati3d-{commune.lower()}.zip"
     for r in dataset["resources"]:
         if r["title"].lower() == wanted:
@@ -47,10 +46,7 @@ def download(url: str, dest: Path) -> None:
         print(f"Ya descargado: {dest}")
         return
     print(f"Descargando {url} ...")
-    req = urllib.request.Request(url, headers={"User-Agent": "ingest-test/0.1"})
-    with urllib.request.urlopen(req, timeout=600) as resp, dest.open("wb") as f:
-        while chunk := resp.read(1 << 20):
-            f.write(chunk)
+    descargar(url, dest, timeout=600)
     print(f"  guardado: {dest} ({dest.stat().st_size / 1e6:.0f} MB)")
 
 

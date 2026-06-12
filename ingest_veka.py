@@ -20,8 +20,9 @@ import argparse
 import csv
 import sys
 import urllib.error
-import urllib.request
 from pathlib import Path
+
+from red import descargar
 
 BASE = "https://open-data.energiesparen.be/Data"
 UA = "Mozilla/5.0 (compatible; ingest-test/0.1)"
@@ -32,10 +33,7 @@ def download(dataset: str, out_dir: Path) -> Path:
     url = f"{BASE}/{dataset}.csv"
     dest = out_dir / f"veka_{dataset.lower()}.csv"
     print(f"Descargando {url} ...")
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=300) as resp, dest.open("wb") as f:
-        while chunk := resp.read(1 << 20):
-            f.write(chunk)
+    descargar(url, dest, headers={"User-Agent": UA}, timeout=300)
     print(f"  guardado: {dest} ({dest.stat().st_size / 1e6:.1f} MB)")
     return dest
 

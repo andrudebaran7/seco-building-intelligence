@@ -24,8 +24,9 @@ import sys
 import time
 import urllib.error
 import urllib.parse
-import urllib.request
 from pathlib import Path
+
+from red import http_get
 
 WMS_URL = "https://wms.geoportail.lu/opendata/service"
 SLEEP_BETWEEN_CALLS = 0.3
@@ -47,9 +48,7 @@ def fetch_chip(lon: float, lat: float, half_m: float, pixels: int, capa: str) ->
         "width": pixels, "height": pixels,
         "format": "image/jpeg", "styles": "",
     })
-    req = urllib.request.Request(f"{WMS_URL}?{params}", headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        data = resp.read()
+    data = http_get(f"{WMS_URL}?{params}", headers={"User-Agent": UA}, timeout=60)
     if not data.startswith(b"\xff\xd8"):  # firma JPEG
         raise ValueError(f"respuesta no JPEG ({len(data)} bytes): {data[:80]!r}")
     return data

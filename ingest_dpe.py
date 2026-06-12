@@ -19,8 +19,9 @@ import json
 import sys
 import time
 import urllib.parse
-import urllib.request
 from pathlib import Path
+
+from red import http_json
 
 API_BASE = "https://data.ademe.fr/data-fair/api/v1/datasets/dpe03existant/lines"
 PAGE_SIZE = 250          # registros por petición (la API admite hasta 10000)
@@ -49,9 +50,7 @@ FIELDS = [
 
 
 def fetch_page(url: str) -> dict:
-    req = urllib.request.Request(url, headers={"User-Agent": "ingest-test/0.1"})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.load(resp)
+    return http_json(url, timeout=60)
 
 
 def build_first_url(departement: str) -> str:

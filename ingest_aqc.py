@@ -25,8 +25,9 @@ import subprocess
 import sys
 import time
 import urllib.error
-import urllib.request
 from pathlib import Path
+
+from red import http_get as red_http_get
 
 WP_API = "https://qualiteconstruction.com/wp-json/wp/v2/media"
 SEARCH = "Fiche-Pathologie"
@@ -39,9 +40,7 @@ CODE_RE = re.compile(r"-([A-G])(\d{1,2})-")
 
 
 def http_get(url: str) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        return resp.read()
+    return red_http_get(url, headers={"User-Agent": UA}, timeout=120)
 
 
 def list_fiches() -> list[dict]:

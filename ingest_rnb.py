@@ -28,8 +28,9 @@ import sys
 import time
 import urllib.error
 import urllib.parse
-import urllib.request
 from pathlib import Path
+
+from red import http_json
 
 API_BASE = "https://rnb-api.beta.gouv.fr/api/alpha/buildings"
 SLEEP_BETWEEN_CALLS = 0.25  # cortesía con una API beta sin límite documentado
@@ -46,11 +47,8 @@ RNB_FIELDS = [
 
 
 def fetch_building(rnb_id: str) -> dict | None:
-    url = f"{API_BASE}/{rnb_id}/"
-    req = urllib.request.Request(url, headers={"User-Agent": "ingest-test/0.1"})
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            return json.load(resp)
+        return http_json(f"{API_BASE}/{rnb_id}/", timeout=30)
     except urllib.error.HTTPError as e:
         if e.code == 404:
             return None  # id_rnb del DPE ya no existe en el RNB actual
@@ -66,10 +64,7 @@ def cle_ban_completa(identifiant_ban: str | None) -> bool:
 def fetch_by_cle_ban(cle: str) -> dict | None:
     """Busca edificios por clave BAN; prefiere estado 'constructed'."""
     qs = urllib.parse.urlencode({"cle_interop_ban": cle})
-    req = urllib.request.Request(f"{API_BASE}/?{qs}",
-                                 headers={"User-Agent": "ingest-test/0.1"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        results = json.load(resp).get("results", [])
+    results = http_json(f"{API_BASE}/?{qs}", timeout=30).get("results", [])
     if not results:
         return None
     construidos = [b for b in results if b.get("status") == "constructed"]
