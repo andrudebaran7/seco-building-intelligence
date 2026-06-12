@@ -113,6 +113,26 @@ def pdf_bytes(md: str) -> bytes:
         ruta.unlink(missing_ok=True)
 
 
+CV_MODEL = Path("models/cv_fisuras.joblib")
+CV_EVAL = Path("docs/evaluacion_cv.json")
+
+
+@st.cache_resource(show_spinner="Loading CV model (first run only)...")
+def get_cv():
+    import joblib
+    from entrenar_cv import get_backbone
+    backbone, transform = get_backbone()
+    return joblib.load(CV_MODEL), backbone, transform
+
+
+def prob_fisura(imagen) -> float:
+    import torch
+    clf, backbone, transform = get_cv()
+    with torch.no_grad():
+        x = transform(imagen.convert("RGB")).unsqueeze(0)
+        return float(clf.predict_proba(backbone(x).numpy())[0, 1])
+
+
 def recuperar_fichas_ui(senales: list[dict], top_por_senal: int = 2) -> None:
     """Versión cacheada de informe_edificio.recuperar_fichas para la UI."""
     import numpy as np
@@ -143,9 +163,9 @@ st.caption(
     "All sources are public; reports are synthetic (SECO's are confidential)."
 )
 
-tab_port, tab_rag, tab_ext, tab_about = st.tabs(
+tab_port, tab_rag, tab_ext, tab_cv, tab_about = st.tabs(
     ["🏢 Portfolio & buildings", "🔎 Pathology search (RAG)",
-     "📄 Inspection reports (extraction)", "ℹ️ About"])
+     "📄 Inspection reports (extraction)", "📷 Photo triage (CV)", "ℹ️ About"])
 
 # ----------------------------------------------------------------- tab 1
 
@@ -316,7 +336,43 @@ with tab_ext:
                     "code_pred", "titulo_pred", "score"]],
             width="stretch", height=300)
 
-# ----------------------------------------------------------------- tab 4
+# ----------------------------------------------------------------- tab 4 (CV)
+
+with tab_cv:
+    st.subheader("Crack triage for inspection photos")
+    if not CV_MODEL.exists():
+        st.warning("Train the model first: .venv/bin/python entrenar_cv.py")
+    else:
+        if CV_EVAL.exists():
+            ev = json.loads(CV_EVAL.read_text(encoding="utf-8"))
+            m1, m2, m3, m4 = st.columns(4)
+            m1.metric("Accuracy", f"{ev['accuracy']:.1%}",
+                      help=f"Held-out test set, {2*ev['n_test_por_clase']} images")
+            m2.metric("Precision", f"{ev['precision']:.1%}")
+            m3.metric("Recall", f"{ev['recall']:.1%}")
+            m4.metric("F1", f"{ev['f1']:.3f}")
+            st.caption("MobileNetV3 (frozen) + logistic head, trained on the METU "
+                       "concrete-crack dataset (CC BY 4.0). **Domain**: close-up "
+                       "surface photos like an inspector takes on site — not aerial "
+                       "imagery. METU is a clean benchmark; real-world photos will "
+                       "be harder. Triage assistance: the inspector decides.")
+        fotos = st.file_uploader("Upload inspection photos (jpg/png)",
+                                 type=["jpg", "jpeg", "png"],
+                                 accept_multiple_files=True)
+        if not fotos:
+            st.caption("No photos handy? Two samples ship in `data/cv_demo/` "
+                       "(one cracked, one sound).")
+        from PIL import Image
+        for f in fotos or []:
+            img = Image.open(f)
+            prob = prob_fisura(img)
+            c1, c2 = st.columns([1, 3])
+            c1.image(img, width=160)
+            verdict = "🔴 Crack detected" if prob >= 0.5 else "🟢 No crack"
+            c2.markdown(f"**{f.name}** — {verdict}")
+            c2.progress(prob, text=f"crack probability {prob:.1%}")
+
+# ----------------------------------------------------------------- tab 5
 
 with tab_about:
     st.markdown("""
@@ -336,7 +392,7 @@ and why* — with sources they can verify.
 |---|---|
 | 🏢 Portfolio | Real French buildings enriched across 4 open government APIs (energy diagnosis → registry → materials/height → clay-shrinkage risk). Pick a building and generate its risk report: every pathology is **cited to an AQC sheet**. |
 | 🔎 Search | Multilingual semantic search (FR/ES/EN) over the 89 *Fiches Pathologie* of the Agence Qualité Construction — the French reference taxonomy for decennial claims. |
-| 📄 Reports | The extraction pipeline: inspection PDFs → structured defects, each classified to the AQC taxonomy. Reports are **synthetic** (SECO's are confidential) so accuracy can be *measured* against ground truth — the metrics above the tab are real. |
+| 📷 Photo triage | A crack classifier for close-up inspection photos (99.9% accuracy on the METU benchmark) — detections can be registered as observations in the same defects DB. |\n| 📄 Reports | The extraction pipeline: inspection PDFs → structured defects, each classified to the AQC taxonomy. Reports are **synthetic** (SECO's are confidential) so accuracy can be *measured* against ground truth — the metrics above the tab are real. |
 
 ### Honest limits
 

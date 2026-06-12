@@ -96,8 +96,13 @@ countries and four languages.
    per-building report with citations — in **Spanish, English and/or French**
    (`--idiomas es,en,fr`), as Markdown and optionally **PDF** (`--pdf`),
    template-based or LLM-drafted (anthropic / gemini / openrouter).
-5. **UI** (Streamlit): portfolio dashboard with map and filters, semantic
-   search, and the extraction demo with its metrics displayed up front.
+5. **CV photo triage**: a crack classifier for close-up inspection photos
+   (frozen MobileNetV3 + logistic head, 99.9% accuracy on the METU
+   benchmark); positive detections can be registered as observations in the
+   same defects DB, classified to the AQC taxonomy.
+6. **UI** (Streamlit): portfolio dashboard with map and filters, semantic
+   search, the extraction demo with its metrics up front, and live photo
+   upload for the CV triage.
 
 ## 2. Why is this relevant to SECO?
 
@@ -207,10 +212,10 @@ once real labeled data exists).
    context). The address-based join for DPEs is also done (90–98% French
    coverage). Remaining: a cadastral-division→municipality lookup to perfect
    Wallonia's NIS derivation.
-4. **CV module**: the pipeline already produces labeled 10 cm orthophoto
-   chips per building; train a roof-condition classifier (SDNET2018/METU
-   transfer, both CC-BY) and inject detections as observations into the same
-   defects DB.
+4. ~~CV module~~ — **done** for inspector photos: METU-trained crack
+   classifier with measured metrics, integrated into the defects DB and the
+   UI. Still open: roof-condition models on the labeled orthophoto chips
+   (needs labels + likely GPU fine-tuning).
 5. **React UI + auth + traceability logs**, positioned as an EU-AI-Act-ready
    assistance tool (human validation, citations, decision logs).
 

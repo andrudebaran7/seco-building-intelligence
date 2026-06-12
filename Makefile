@@ -49,6 +49,9 @@ report: ## Per-building risk report (LLM=gemini|openrouter|anthropic, LANGS=es,e
 	$(PY) informe_edificio.py --max-riesgo $(if $(LLM),--llm $(LLM),) \
 	    $(if $(LANGS),--idiomas $(LANGS),) $(if $(PDF),--pdf,)
 
+cv: ## Train + evaluate the crack classifier (auto-downloads the METU dataset)
+	$(PY) entrenar_cv.py
+
 test: ## Run the test suite
 	$(PY) -m pytest -q
 

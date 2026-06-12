@@ -1,0 +1,16 @@
+{
+  "dataset": "METU Concrete Crack (CC BY 4.0)",
+  "backbone": "mobilenet_v3_small (ImageNet, congelado)",
+  "n_train_por_clase": 2000,
+  "n_test_por_clase": 500,
+  "accuracy": 0.999,
+  "precision": 0.998003992015968,
+  "recall": 1.0,
+  "f1": 0.999000999000999,
+  "confusion": {
+    "tp": 500,
+    "fp": 1,
+    "fn": 0,
+    "tn": 499
+  }
+}

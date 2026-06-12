@@ -62,6 +62,14 @@ normalizó y cruzó cada dato: ver `METODOLOGIA.md`.
 | `ACT2023_Buildings3d_footprints.json` | data.public.lu | Ídem (versión GeoJSON) |
 | `lod1.zip` + `Luxembourg.gml` | data.public.lu | LOD1 2013 explorado y descartado (sin IDs ni atributos) |
 
+## Módulo CV
+
+| Fichero | Fuente | Contenido |
+|---|---|---|
+| `models/cv_fisuras.joblib` (3 KB) | Entrenado sobre METU (Mendeley, CC BY 4.0) | Cabeza logística sobre MobileNetV3 congelado; accuracy 99,9% en test |
+| `data/cv_demo/` | Muestras del test METU | 2 fotos de ejemplo (con/sin fisura) para probar la pestaña CV |
+| `downloads/metu/` (no en git) | Mendeley API | 40.000 fotos 227×227 (20k/20k), re-descargable automáticamente |
+
 ## Generados a partir de lo anterior (en `informes/`)
 
 | Fichero | Generado por | Contenido |

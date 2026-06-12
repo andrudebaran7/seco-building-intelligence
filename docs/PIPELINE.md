@@ -307,6 +307,27 @@ Demonstrated on two distinct profiles (template mode):
   in French via Gemini (`--llm gemini --idiomas fr`), each with its PDF
   export rendering title, identity table and citations correctly.
 
+### CV module: crack triage for inspection photos
+
+CPU-friendly transfer learning: frozen MobileNetV3-Small (ImageNet) +
+logistic head, trained on the METU concrete-crack dataset (CC BY 4.0,
+auto-downloaded; the free Debian 7z lacks the RAR codec — extraction uses
+libarchive). Measured on a held-out 1,000-image test set:
+
+| Metric | Value |
+|---|---|
+| Accuracy | **99.9%** |
+| Precision / Recall (crack) | 99.8% / 100% |
+| F1 | 0.999 |
+
+**Domain**: close-up surface photos (what an inspector shoots on site) —
+not aerial/orthophoto imagery, and METU is a clean benchmark (real-world
+photos will be harder). Integration: `clasificar_fotos.py --a-defectos REF`
+registers positive detections as observations in the same defects DB,
+classified to the AQC taxonomy by the existing hybrid classifier
+(`origen='cv'`) — the "document+vision hybrid" from the product research.
+The UI gains a Photo-triage tab with live upload.
+
 ### Extraction pipeline (measured)
 
 | Metric | Value |

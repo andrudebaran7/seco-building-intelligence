@@ -30,6 +30,7 @@ method that actually worked (not always the documented one):
 | PICC (BE-Wallonia) | ArcGIS REST `query` with `f=geojson`, `resultOffset` pagination | A different protocol from WFS; building footprints with use description |
 | Federal cadastre (BE) | ArcGIS REST, INSPIRE/CP service on `ccff02.minfin.fgov.be` | Serves all-Belgium parcels with the national CAPAKEY — used for Wallonia |
 | Statbel building stock (BE) | Direct zip download (pipe-delimited txt) | Per-NIS stats incl. construction-period distribution; municipality = level 5 |
+| METU crack dataset (CV) | Mendeley public API → signed S3 URL → 241 MB RAR | Debian's free 7z lacks the RAR codec ("Unsupported Method", produces empty files silently); libarchive decodes it |
 | VEKA (BE-Flanders) | Direct CSV download under `/Data/` | The portal root answers 403 (WAF) but the files are served; paths found in the DCAT catalog of metadata.vlaanderen.be |
 | AQC sheets (corpus) | WordPress REST API (`/wp-json/wp/v2/media`) + PDF downloads | No HTML scraping; text extracted with `pdftotext -layout` |
 | ITM prescriptions (corpus) | HTML parse of the conditions-types page + direct PDF downloads | Stable page, no API; titles extracted from each PDF's header block; JRC Eurocodes reports were the original plan but their repository (DSpace) is WAF-blocked for non-browser clients |
@@ -252,10 +253,10 @@ Ordered by estimated value/effort:
    context + VEKA e-peil joined by NIS (`ingest_be_stats.py`); Wallonia
    added via PICC + the federal cadastre. Remaining niggle: a cadastral
    division→municipality lookup for Wallonia's NIS derivation.
-5. **CV module**: train/evaluate a classifier on the orthophoto chips (roof
-   condition) with transfer from SDNET2018/METU (both CC-BY, commercially
-   usable per the source report). Chips already come labeled with
-   height/parcel/address.
+5. ~~CV module~~ — **done** for the inspector-photo domain: frozen
+   MobileNetV3 + logistic head on METU (CC BY), 99.9% accuracy on held-out
+   test, integrated with the defects DB and the UI. Orthophoto roof-condition
+   models remain future work (need labels and likely GPU fine-tuning).
 6. **Expand the RAG corpus** — *partially done*: ITM prescriptions (LU,
    143 docs FR/DE) are indexed with per-chunk source/lang. Still open:
    Legilux XML, TABULA/EPISCOPE, and JRC Eurocodes reports (blocked: the

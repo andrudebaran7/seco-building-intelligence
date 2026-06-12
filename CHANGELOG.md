@@ -104,6 +104,20 @@ more thematic commits; details live in the linked docs.
   prefix (cadastral division ≈ pre-merger communes), so only ~44% match
   directly there.
 
+## Phase 9 — CV module: crack triage (2026-06-12)
+
+- CPU transfer learning on the METU concrete-crack dataset (CC BY 4.0,
+  auto-downloaded via the Mendeley API; extraction needs libarchive because
+  Debian's free 7z silently fails on the RAR codec): frozen MobileNetV3 +
+  logistic head — **99.9% accuracy, F1 0.999** on a 1,000-image held-out
+  test set.
+- `clasificar_fotos.py`: photo triage CLI; positive detections register as
+  observations in the defects DB, classified to the AQC taxonomy by the
+  existing hybrid classifier (`origen='cv'`) — the "document+vision hybrid".
+- UI: Photo-triage tab with live upload, measured metrics up front and the
+  honest domain caveat (close-up surface photos, not aerial; METU is a
+  clean benchmark). Sample photos ship in `data/cv_demo/`.
+
 ## Reference
 
 | Document | Content |
