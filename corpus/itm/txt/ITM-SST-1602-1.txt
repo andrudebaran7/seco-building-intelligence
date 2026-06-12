@@ -1,0 +1,280 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                             Strassen, 14 mars 2012
+
+
+
+
+                                                                                        ITM-SST 1602.1
+                                                                                        (ancien N° ITM-CL 630.2)
+
+
+
+
+                                 Rohrpostanlagen in Einrichtungen
+                                     des Gesundheitswesens
+
+                                                                      (6 Seiten)
+
+                                                             Inhaltsverzeichnis
+
+    Kapitel                                                                                                        Seite
+
+    1      Gesetzliche Grundlagen ....................................................................................... 2
+    2      Gegenstand und Anwendungsbereich ................................................................. 2
+    3      Allgemeine Anforderungen................................................................................... 2
+    4      Transport von Gefahrstoffen ................................................................................ 3
+    5      Transport von Medikamenten .............................................................................. 4
+    6      Transport von biologischen Materialien................................................................ 4
+
+
+
+
+    Direction
+    Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+    Bureaux : 3, rue des Primeurs, L-2361 Strassen   Tél: 247-86145     Fax: 49 14 47
+    Site Internet : http://www.itm.lu
+1. Gesetzliche Grundlagen
+
+1.1. Der Code du travail ist zu beachten.
+
+1.2. Des Weiteren sind die Empfehlungen zur Unfallverhütung der Association
+d'Assurance Accidents (AAA) zu beachten. Dies gilt insbesondere betreffend der
+Kapitel:
+- „Allgemeine Empfehlungen“
+- „Gesundheitswesen“
+
+1.3. Europäische Normen (EN) sind anzuwenden, so wie sie erscheinen und
+nationale Vorschriften ersetzen.
+
+2. Gegenstand und Anwendungsbereich
+
+2.1. Diese Vorschriften     gelten   für    Rohrpostanlagen    in   Einrichtungen    des
+Gesundheitswesens.
+
+2.2. Diese Vorschriften beziehen sich ausschließlich auf die spezifischen
+Gegebenheiten bezüglich der Sicherheit und Gesundheit an Arbeitsplätzen in
+Einrichtungen des Gesundheitswesens. Gegebenenfalls sind bei Installation und
+dem Betrieb von Rohrpostanlagen weitere Anforderungen der Gewerbeinspektion in
+Bezug auf Brandschutz und andere sicherheitstechnische Aspekte, welche nicht
+Gegenstand dieser Vorschrift sind, zu beachten.
+
+3. Allgemeine Anforderungen
+
+3.1. Die Rohrpostanlage dient der Beförderung von Dokumenten und sonstigen
+kleinformatigen Materialien ohne problematische (toxikologische) chemische,
+biologische oder physikalische Eigenschaften.
+
+3.2. Rohrpostanlagen müssen so konstruiert sein und so betrieben werden, dass
+kein Luftaustausch zwischen hygienisch kontaminierten und nicht kontaminierten
+Bereichen stattfindet.
+
+3.3. Die Transportbüchsen müssen             grundsätzlich    aus   splitterfreien   und
+bruchsicheren Materialien bestehen.
+
+3.4. Die Entnahmestellen für Transportbüchsen müssen so gestaltet oder
+abgesichert sein, dass Verletzungen des Personals (z.B. durch Quetschungen)
+ausgeschlossen sind.
+
+3.5. Mit Versandgut befüllte Transportbüchsen sind vor unberechtigtem Zugriff zu
+schützen.
+
+3.6. Die Transportbüchsen müssen regelmäßig, möglichst einmal pro Woche,
+gereinigt werden.
+
+3.7. Beim Transport von Gefahrstoffen, Medikamenten und biologischen Materialien
+sind besondere Bestimmungen und Anforderungen zu beachten.
+
+
+
+
+Page 2 de 6 pages                                                         ITM-SST 1602.1
+4. Transport von Gefahrstoffen
+
+4.1. Als Gefahrstoffe im Sinne dieser Vorschrift gelten Stoffe und
+Gemische/Zubereitungen, welche gemäß der europäischen Gesetzgebung als
+„gefährlich“ eingestuft sind.
+
+4.2. Beim Transport müssen sich die Gefahrstoffe innerhalb bruchfester Behälter
+bzw. bruchfest verpackter Behälter befinden.
+
+4.3. Die Behälter bzw. deren Verpackungen müssen entsprechend der europäischen
+Gesetzgebung gekennzeichnet sein.
+
+4.4. Die Büchsen müssen von außen die Kennzeichnung der transportierten
+Gefahrstoffe erkennen lassen (z.B. durch Verwendung transparenter Büchsen oder
+durch Anbringung der entsprechenden Kennzeichnung auf der Büchse).
+
+4.5. Büchsen in welchen flüssige Gefahrstoffe transportiert werden, müssen
+folgende Eigenschaften aufweisen:
+    • nur von einer Seite zu öffnen
+    • im geschlossenen Zustand auslaufsicher
+    • formstabil
+    • bruchsicher
+    • transparent
+    • am Boden ausgelegt mit saugfähigem Material
+
+4.6. Beim Transport von Gefahrstoffen die mit dem Signalwort „Gefahr“
+gekennzeichnet sind, müssen zusätzlich die nachfolgenden Sicherheitsmaßnahmen
+ergriffen werden. 1)
+
+4.7. Sofern keine Büchsen mit speziellen Einsätzen zur Aufnahme der
+Gefahrstoffbehältnisse zur Verfügung stehen, muss sich das Gefahrstoffbehältnis
+zusätzlich innerhalb eines zweiten Transportbehälters befinden. Dieser zweite
+Transportbehälter muss transparent und ebenfalls flüssigkeitsdicht sowie im Falle
+von flüssigen Gefahrstoffen mit einem dem Transportvolumen angepassten,
+saugfähigem Material, welches in der Lage ist die gesamte Flüssigkeit zu binden,
+ausgelegt sein (analog zu einer posttransportfähigen Verpackung).
+
+4.8. Es muss sichergestellt sein, dass eine Entnahme nur am Bestimmungsort und
+durch berechtigte Personen erfolgen kann. Gegebenenfalls sind verplombte oder
+codierte Büchsen zu verwenden.
+
+
+
+
+1)   Für Gemische, welche während der Übergangsfrist (bis zum 1. Juni 2015) noch nicht gemäß der CLP-
+     Verordnung gekennzeichnet wurden, gilt dies, wenn wenigstens einer der folgenden R-Sätze in deren
+     aktueller Einstufung enthalten ist: R2, R5, R6, R7, R8, R9, R11, R12, R15, R17, R23, R24, R25, R26, R27,
+     R28, R34, R35, R39, R41, R42, R45, R46, R48, R49, R60, R61, R62, R65, R39/23, R39/24, R39/25,
+     R39/26, R39/27, R39/28, R48/23, R48/24, R48/25
+
+
+Page 3 de 6 pages                                                                             ITM-SST 1602.1
+5. Transport von Medikamenten
+
+5.1. Flüssige Medikamente müssen bruchsicher verpackt sein und die verwendeten
+Büchsen müssen folgende Eigenschaften aufweisen:
+   • nur von einer Seite zu öffnen
+   • im geschlossenen Zustand auslaufsicher
+   • formstabil
+   • bruchsicher
+   • transparent
+   • am Boden ausgelegt mit saugfähigem Material
+
+5.2. Betäubungsmittel dürfen nur dann per Rohrpost befördert werden, wenn
+sichergestellt ist, dass eine Entnahme nur am Bestimmungsort und durch berechtigte
+Personen erfolgen kann. Gegebenenfalls sind verplombte oder codierte Büchsen zu
+verwenden.
+
+5.3. Der Transport von Zytostatika, antineoplastischen Substanzen, CMR-
+Arzneimitteln 2) sowie von Zubereitungen, in welchen eine der vorgenannten
+Stoffgruppen enthalten ist, wird in der Vorschrift ITM-CL 632.2 oder einer
+Nachfolgevorschrift geregelt.
+
+5.4. Der Transport radioaktiver Medikamente oder Präparate, z.B. für die
+Brachytherapie, mittels Rohrpostanlagen ist nicht gestattet.
+
+6. Transport von biologischen Materialien
+
+6.1. Im Sinne dieser Vorschrift werden die folgenden Materialien als biologische
+Materialien angesehen:
+   • Ausscheidungen (Stuhl, Urin, Speichel)
+   • Sekrete (Trachealsekret, Wundsekret)
+   • Blut
+   • Abstriche
+   • Zellkulturen
+   • Organteile
+   • Punktate
+   • Biopsiematerial
+   • Gewebeproben
+   • beimpfte Nährböden
+   • sonstige, potentiell infektiöse Materialien.
+
+6.2. Werden biologische Materialien mit der Rohrpostanlage befördert, muss eine
+Risikoabschätzung gemäß des modifizierten Großherzoglichen Beschlusses
+„Règlement grand-ducal du 4 novembre 1994 concernant la protection des
+travailleurs contre les risques liés à l’exposition à des agents biologiques au travail“
+durchgeführt werden.
+
+
+
+2)   Krebserzeugende (cancerogen), erbgutverändernde (mutagen), fortpflanzungsgefährdende (reproduktions-
+     toxische) Arzneimittel
+
+
+Page 4 de 6 pages                                                                          ITM-SST 1602.1
+Alle biologischen Materialien sind grundsätzlich als potentiell infektiös anzusehen.
+Bei dem Transport solcher Materialien mittels der Rohpostanlage handelt es sich um
+eine nicht gezielte Tätigkeit.
+
+Die Risikoabschätzung muss sowohl die Tätigkeiten im Zusammenhang mit dem
+Versand (z.B. Probenverpackung) als auch im Zusammenhang mit dem Empfang
+(z.B. Öffnen der Büchse und Entnahme der Probe) sowie die Möglichkeiten von
+Leckage, Bruch, Fehlbedienung und Fehlleitung im Rohrpostsystem umfassen.
+
+6.3. Beim Transport biologischer Materialien müssen grundsätzlich die nachfolgend
+definierten Mindestanforderungen erfüllt sein.
+
+6.4. Die zum Transport biologischer Materialien verwendeten „Labor-Büchsen“
+müssen folgende Eigenschaften aufweisen:
+   • nur von einer Seite zu öffnen
+   • im geschlossenen Zustand auslaufsicher
+   • formstabil
+   • bruchsicher
+   • desinfizierbar
+   • transparent
+   • gekennzeichnet mit dem Warnsymbol „Biogefährdung“
+   • bei flüssigen Materialien am Boden mit saugfähigem Material ausgelegt
+
+6.5. Sofern keine Labor-Büchsen mit speziellen Einsätzen zur Aufnahme der
+Probenbehälter zur Verfügung stehen, muss sich das biologische Material zusätzlich
+innerhalb   eines    zweiten     Transportbehälters    befinden.  Dieser   zweite
+Transportbehälter muss transparent und ebenfalls flüssigkeitsdicht sowie im Falle
+von flüssigen Materialien mit einem dem Transportvolumen angepassten,
+saugfähigem Material, welches in der Lage ist die gesamte Flüssigkeit zu binden,
+ausgelegt sein (analog zu einer posttransportfähigen Verpackung).
+
+6.6. Die Auslaufbereiche der Rohrpostanlagen an welchen biologisches Material
+angeliefert wird, müssen so beschaffen sein, dass die beim Abbremsen auftretenden
+Kräfte nicht zur Zerstörung der Probenbehälter führen.
+
+Der Abwurf bzw. die Ausschleusung der Labor-Büchsen im freien Fall in
+Auffangkörbe oder Behälter ist nicht zulässig.
+
+Generell muss sichergestellt sein, dass das Probenmaterial und die
+Probenbehältnisse durch das Transportsystem nicht nachteilig beeinflusst werden.
+
+6.7. An allen Versand- und Empfangstellen für biologische Materialien sind für das
+Personal Einrichtungen zur Händedesinfektion vorzusehen.
+
+6.8. Alle Versand- und Empfangstellten für biologische Materialien müssen im
+Hygieneplan Berücksichtigung finden.
+
+
+
+
+Page 5 de 6 pages                                                     ITM-SST 1602.1
+6.9. Die Aufbereitung (Reinigung und Desinfektion) der zum Transport biologischer
+Materialien verwendeten Transportbüchsen muss mindestens einmal täglich
+erfolgen. Diese muss im Hygieneplan berücksichtigt sein.
+
+6.10. Beim Auftreten eines Transportschadens am Transportgut (z.B. Glasbruch,
+Auslaufen von Flüssigkeiten etc.) ist unverzüglich eine desinfizierende Reinigung der
+betroffenen Transportbüchse vorzunehmen.
+
+6.11. Die Reinigung und Desinfektion der Transportbüchsen hat in einem Wasch-
+und Desinfektionsautomaten zu erfolgen.
+
+
+
+
+             Visa du directeur adjoint                    Mise en vigueur
+             de l’Inspection du travail                   le 14 mars 2012
+                     et des mines
+
+
+
+                                                           Paul WEBER
+                    Robert Huberty                            Directeur
+                                                      de l’Inspection du travail
+                                                            et des mines
+
+
+
+
+Page 6 de 6 pages                                                             ITM-SST 1602.1
+

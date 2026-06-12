@@ -1,0 +1,409 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                          Strassen, décembre 2007
+
+
+
+                                                                                  Ancien N° ITM-CL 91.2
+
+
+                                                                                  Nouveau N° ITM-SST 1213.1
+
+
+
+
+                                                     MONTE - CHARGES
+
+
+                                                   Prescriptions de sécurité types
+                                              Les présentes prescriptions comportent 8 pages
+
+
+
+                                                                  Sommaire
+
+
+
+    Article                                                                                                  Page
+
+     1.                     Objectif et domaine d'application                                                  2
+     2.                     Définitions                                                                        2
+     3.                     Normes et règles techniques                                                        2
+     4.                     Prescriptions générales                                                            2
+     5.                     Equipements des monte-charges                                                      3
+     6.                     Installations électriques                                                          6
+     7.                     Entretien                                                                          6
+     8.                     Accidents - Incidents                                                              7
+     9.                     Réceptions et contrôles périodiques                                                7
+    10.                     Registre                                                                           8
+
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 LUXEMBOURG Tél : 2478-1   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1 Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité relatives aux monte-charges.
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si des mesures de rechange garantissant une protection au moins
+équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de sécurité
+équivalent par un organisme de contrôle et acceptées comme telles par l'Inspection du travail
+et des mines.
+
+Art. 2. - Définitions
+
+2.1 Par la dénomination "monte-charge" est à comprendre dans le contexte des présentes
+prescriptions un appareil de levage installé à demeure, desservant des niveaux définis, qui
+comporte une cabine ou un plateau accessible aux personnes pour le chargement ou
+déchargement, qui se déplace le long d'un ou de plusieurs guides verticaux ou dont
+l'inclinaison est inférieure par rapport à la verticale à 15°, dont la commande ne peut se faire
+que de l'extérieur, et qui est interdit au transport de personnes.
+
+2.2 Sous la dénomination "organisme de contrôle" est à comprendre, dans le contexte des
+présentes prescriptions tout organisme autorisé par le règlement ministériel concernant
+l’intervention des organismes de contrôle dans le cadre des compétences et attributions de
+l’Inspection du travail et des mines le plus récent en date du Ministre du Travail et de
+l’Emploi, à contrôler les appareils de levage et appareils similaires.
+
+Art. 3. - Normes et règles techniques
+
+Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à appliquer
+lors de la conception, de la construction, du montage, de l'aménagement et de l'exploitation
+des monte-charges sont en particulier les présentes prescriptions et en général les normes
+européennes (E.N.) afférentes les plus récentes en vigueur et à défaut les normes les plus
+récentes en vigueur du pays de l'Union Européenne fournisseur de l'installation.
+
+Art. 4. - Prescriptions générales
+
+4.1 Lors des travaux de montage, de réparation et d'entretien sont à suivre les stipulations du
+Code du travail et des arrêtés et règlements grand-ducaux pris en exécution de ce Code.
+
+4.2 Sont à observer en plus les prescriptions afférentes de prévention contre les accidents
+édictées par l'Association d'Assurance contre les Accidents.
+
+4.3 Il est interdit d'introduire dans un monte-charge des charges plus lourdes que celles
+prévues par le constructeur.
+
+4.4 Il est interdit de transporter des personnes avec le monte-charge.
+
+
+
+
+page 2 de 8 pages                                                                ITM-SST 1213.1
+Art. 5. - Equipements des monte-charges
+
+5.1 Gaine
+
+5.1.1 Toute la gaine doit être entièrement close par des parois, un plancher et un plafond
+pleins.
+
+5.1.2 Seules les ouvertures suivantes sont admises:
+
+a) les baies de portes palières;
+b) les baies des portes de visite de la gaine;
+c) les orifices d'évacuation des gaz et fumées en cas d'incendie;
+d) les orifices de ventilation;
+e) les ouvertures permanentes entre la gaine et le local des machines ou de poulies de renvoi.
+
+5.1.3 Lorsque la gaine n'a pas à participer à la protection du bâtiment contre la propagation
+d'un incendie, il peut être admis:
+
+a) de limiter la hauteur des parois sur les faces, autres que les faces d'accès à une hauteur de
+   2,5 m au-dessus de tous les endroits où des personnes peuvent normalement accéder;
+b) d'utiliser sur les faces d'accès des protections grillagées ou perforées à partir d'une hauteur
+   de 2,5 m au-dessus du sol des paliers. Les dimensions des mailles ou des perforations des
+   protections grillagées doivent être au maximum de 75 mm x 75 mm.
+
+5.1.4 Il doit être aménagé aux parties inférieures et supérieures de la gaine un espace de
+sécurité d'au moins 1 m de hauteur. Cet espace de sécurité peut aussi être garanti par des
+mesures constructives comme par exemple l'installation de béquilles ou de limiteurs de
+course.
+
+Toutes autres mesures de rechange donnant des garanties de sécurité au moins équivalentes et
+reconnues comme telles par un organisme de contrôle peuvent être acceptées.
+
+Si l'espace de sécurité en cuvette prévu aux normes EN 81 est garanti, aucune autre mesure de
+sécurité n'est à prendre.
+
+5.1.5 La gaine doit être exclusivement affectée au service du monte-charge. Elle ne doit
+renfermer ni canalisations, ni organes étrangers au service du monte-charge quels qu'ils
+soient.
+
+5.1.6 La gaine doit être munie d'un éclairage électrique placé à demeure permettant d'assurer
+son éclairement lors des opérations de dépannage ou d'entretien, même lorsque toutes les
+portes sont fermées.
+
+5.2 Locaux de machines et de poulies
+
+5.2.1 Les machines, leur appareillage et les poulies ne doivent être accessibles qu'aux
+personnes autorisées (p.ex. pour la maintenance, l'inspection et les secours).
+
+La machine et son appareillage doivent se trouver dans un local qui leur est spécialement
+affecté comportant des murs, un plafond, une porte et/ou une trappe pleins.
+
+page 3 de 8 pages                                                                 ITM-SST 1213.1
+Les machines, leur appareillage et les poulies, peuvent se trouver dans des locaux servant à
+d'autres usages s'ils sont séparés du reste du local par une clôture d'une hauteur minimale de
+1,8 m munie d'une porte d'accès fermant à clé.
+
+5.2.2 Les accès depuis la voie publique jusqu'à l'intérieur des locaux de machines et des
+poulies doivent pouvoir être correctement éclairés par des lampes électriques placées à
+demeure et doivent pouvoir être parcourus aisément en toute sécurité, en toutes circonstances
+et sans nécessiter le passage dans un local privé.
+
+5.2.3 Les dimensions du local doivent être suffisantes pour permettre au personnel d'entretien
+d'accéder en toute sécurité et facilement à tous les organes mécaniques, ainsi qu'aux
+équipements électriques (voir normes européennes EN 81).
+
+5.2.4 Les locaux de machines et de poulies doivent être ventilés et éclairés. Un ou plusieurs
+socles de prises de courant (230V, 16A) doivent être disponibles dans ces locaux.
+
+5.3 Portes palières
+
+5.3.1 Les ouvertures dans la gaine servant d'accès à la cabine doivent être munies de portes
+palières pleines. Les portes et leurs bâtis doivent être construits de manière à ce que leur
+indéformabilité soit assurée dans le temps. Il est conseillé d'employer à cet effet des portes
+métalliques.
+
+5.3.2 Il ne doit pas être possible, en fonctionnement normal, d'ouvrir une porte palière (ou l'un
+quelconque des vantaux, si la porte en comporte plusieurs), à moins que la cabine ne soit
+arrêtée ou sur le point de s'arrêter dans la zone de déverrouillage de cette porte.
+
+5.3.3 Chacune des portes palières doit pouvoir être déverrouillée de l'extérieure à l'aide d'une
+clé s'adaptant au triangle normalisé.
+
+5.3.4 Chaque porte palière doit être munie d'un dispositif électrique de contrôle de fermeture
+conforme.
+
+5.4 Cabine
+
+5.4.1 La charge nominale admissible de la cabine doit être calculée pour l'utilisation prévue de
+l'installation mais doit être au moins de 200 kg par mètre carré de surface utile de la cabine.
+
+5.4.2 La cabine doit être entièrement fermée par des parois, un plancher et un toit pleins ayant
+une résistance mécanique suffisante.
+
+Elle doit pouvoir résister au poids de la charge et du personnel y accédant pour le chargement
+et le déchargement.
+
+5.4.3 Le toit de cabine doit être capable de supporter, en n'importe quel endroit, deux
+personnes, c'est-à-dire qu'elle doit résister à une force de 2000 N sans déformation
+permanente.
+
+5.4.4 Sur le toit de la cabine doit être installé un coffret de manoeuvre d'inspection, un
+dispositif d'arrêt d'urgence et un socle de prise de courant.
+
+page 4 de 8 pages                                                                ITM-SST 1213.1
+Le dispositif d'arrêt d'urgence doit être facilement accessible depuis les portes palières.
+
+5.4.5 L'intérieur de la cabine ne peut pas être équipé d'organes de commande de l'installation.
+
+5.5 Organes de suspension - Précautions contre la chute libre et la dérive de la cabine
+
+5.5.1 Les cabines et contrepoids doivent être suspendus par des câbles en acier ou par des
+chaînes.
+
+Le diamètre nominal des câbles doit être au minimum de 8 mm.
+
+Le cœfficient de sécurité des câbles de suspension doit être au moins de 12 dans le cas
+d'utilisation de treuils à adhérence avec 3 câbles et de plus de 16 dans le cas de treuils à
+tambour avec 2 câbles.
+
+5.5.2 Chaque cabine de monte-charge doit être équipée d'un dispositif évitant la mise en
+service du monte-charge en cas de surcharge de la cabine (par exemple un limiteur de charge).
+
+5.5.3 Un dispositif évitant toute dérive intempestive de la cabine lors du chargement et du
+déchargement de celle-ci doit être prévu afin de garantir la sécurité des personnes (par
+exemple des taquets).
+
+5.5.4 La cabine et le contrepoids doivent être équipés d'un système de parachute actionné par
+des limiteurs de vitesse au cas où existent des espaces accessibles aux personnes situés sous la
+trajectoire de la cabine.
+
+5.6 Guides - Dispositifs hors-course de sécurité
+
+5.6.1 La cabine et le contrepoids éventuel doivent être guidés par au moins deux guides
+rigides en acier.
+
+5.6.2 Des amortisseurs à l'extrémité inférieure de la course ne sont pas nécessaires. Des butées
+de fin de course sont à installer en pareil cas.
+
+5.6.3 Des dispositifs hors-course de sécurité évitant le déplacement de la cabine sur les butées
+et garantissant aux parties inférieures et supérieures de la course un espace de sécurité
+conforme aux normes européennes EN 81 doivent être installés.
+
+5.7 Jeux entre cabine et paroi de service
+
+La distance horizontale entre la paroi de service et le seuil ou les montants verticaux de
+l'encadrement de la baie de cabine ne doit pas excéder 20 mm.
+
+5.8 Machine
+
+Chaque monte-charge doit comporter au moins une machine qui lui soit propre.
+
+5.9 Commandes
+
+5.9.1 Aucune boîte de commande de l'installation ne peut être installée dans la cabine.
+
+page 5 de 8 pages                                                                  ITM-SST 1213.1
+5.9.2 Les commandes aux faces palières doivent être du type envoi/appel.
+
+5.10 Affiches
+
+5.10.1 Il doit exister en cabine une affiche indiquant la charge maximale admissible.
+
+En cas d'utilisation d'un élévateur à fourches pour le chargement et déchargement de la
+cabine, un écriteau d'avertissement doit être fixé dans la cabine et sur les faces palières pour
+attirer l'attention des utilisateurs sur le poids supplémentaire de l'élévateur en cabine.
+
+5.10.2 Une affiche indiquant que le transport de personnes est interdit et ayant des dimensions
+suffisantes est à apposer de façon indélébile dans la cabine.
+
+Art. 6. - Installations électriques
+
+6.1 Les installations électriques doivent être conçues, réalisées, entretenues et exploitées
+conformément aux normes, prescriptions et directives de sécurité et aux règles de l'art et de
+sécurité normalement applicables du Grand-Duché de Luxembourg, à savoir:
+
+-   les prescriptions allemandes afférentes DIN/VDE;
+-   les normes européennes CENELEC, au fur et à mesure que celles-ci paraissent et
+    remplacent les prescriptions DIN/VDE précitées;
+-   le règlement ministériel du 8 août 1989 concernant les prescriptions de raccordement aux
+    réseaux de distribution de l'énergie électrique à basse tension au Grand-Duché de
+    Luxembourg.
+
+6.2 L'installation électrique des locaux humides doit être du type étanche.
+
+Art. 7. - Entretien
+
+7.1 Les installations sont à maintenir continuellement en bon état d'entretien, de sécurité et de
+fonctionnement. Il doit être remédié sans délai à toutes les défectuosités et anomalies
+constatées.
+
+7.2 Sans préjudice de la situation d'entreprises ou d'administrations disposant d'un propre
+personnel qualifié et expérimenté, l'entretien doit s'effectuer sur la base d'un contrat écrit
+prévoyant, à côté des redressements de pannes et de dérangements, au moins une intervention
+régulière courante par an à moins que la notice d'instruction de fabrication n'en prévoie
+davantage.
+
+Chaque installation doit subir au moins tous les 12 mois une opération d'entretien et ce sans
+préjudice du nombre d'interventions pour l'entretien prévu par le constructeur ou demandé par
+l'organisme de contrôle.
+
+7.3 Lors des travaux de montage, d'entretien ou de réparation des installations toutes mesures
+efficaces doivent être prises pour protéger les travailleurs contre tout risque d'accident et toute
+atteinte à leur santé.
+
+
+
+
+page 6 de 8 pages                                                                  ITM-SST 1213.1
+7.4 Le personnel chargé d'effectuer des travaux aux installations doit être instruit des
+précautions à prendre pour éviter les dangers et doit disposer du matériel et de l'équipement
+de sécurité nécessaires pour sa propre protection et pour l'exécution des travaux.
+
+7.5 Ce même personnel doit avoir acquis les aptitudes nécessaires et doit avoir reçu les
+instructions, formations et formations continues requises.
+
+7.6 L'exécution des travaux doit être placée sous la surveillance permanente d'un responsable.
+
+7.7 Toutes précautions appropriées doivent être prises pour empêcher la mise en mouvement,
+soit accidentelle, soit par inadvertance d'une installation sur laquelle sont effectués des
+travaux.
+
+7.8 Toutes précautions appropriées doivent être prises pour empêcher la mise sous tension,
+soit accidentelle, soit par inadvertance d'une installation électrique sur laquelle sont effectués
+des travaux.
+
+Art. 8. - Accidents - Incidents
+
+8.1 Sont à mettre hors service, chaque monte-charge ayant été la cause d'un accident ou d'un
+incident grave ainsi que chaque monte-charge ayant subi des avaries pouvant influencer la
+sécurité des personnes.
+
+8.2 Ces monte-charges ne peuvent être remis en service qu'après délivrance d'un certificat de
+sécurité visé par l'Inspection du travail et des mines, certificat établi par un organisme de
+contrôle (voir article 9 ci-après).
+
+Art. 9. - Réceptions et contrôles périodiques
+
+9.1 Des examens, vérifications et essais de réception doivent être effectués par un organisme
+de contrôle avant toute mise en service d'un monte-charge nouveau ainsi qu'après chaque
+transformation, chaque réaménagement, chaque incident et accident subis par le monte-charge
+pouvant avoir eu une influence sur la sécurité de l'installation et ce avant la remise en service
+de ces installations.
+
+9.2 Des contrôles périodiques de l'installation sont à effectuer au moins tous les 12 mois par
+un organisme de contrôle.
+
+9.3 Il est recommandé que le propriétaire et l'exploitant ou une personne qu'ils délèguent à cet
+effet, ainsi qu'un représentant de l'entreprise chargée de l'entretien courant de l'installation
+accompagnent l'inspecteur de l'organisme de contrôle lors des réceptions, contrôles et
+vérifications.
+
+9.4 Lorsque l'inspecteur de l'organisme de contrôle qui procède aux examens, vérifications et
+essais constate une anomalie telle que la sécurité des personnes n'est plus garantie, il est tenu
+d'en avertir d'urgence l'exploitant de l'installation, de préférence en lui faisant contresigner son
+rapport provisoire de contrôle.
+
+
+
+
+page 7 de 8 pages                                                                   ITM-SST 1213.1
+L'inspecteur de l'organisme de contrôle doit en plus indiquer dans un pareil cas les mesures à
+prendre immédiatement et il doit s'assurer qu'il y est obtempéré et que les risques
+inacceptables sont éliminés. A défaut, l'organisme de contrôle doit en informer sans délai
+l'Inspection du travail et des mines.
+
+9.5 L'organisme de contrôle fait la distribution des rapports de réception ou de contrôle à
+raison de:
+
+- 1 exemplaire à l'Inspection du travail et des mines;
+- 3 exemplaires à son commettant qui les répartira de la façon suivante:
+       * 1 exemplaire pour le registre tel que prévu à l'article 10 ci-dessous;
+       * 1 exemplaire au propriétaire de l'installation;
+       * 1 exemplaire à l'exploitant, si celui-ci n'est pas en même temps le propriétaire.
+
+9.6 L'exploitant doit se conformer aux délais pour réparations et mise en état figurant sur les
+rapports de réception et de vérification de l'organisme de contrôle.
+
+Art. 10. - Registre
+
+10.1 Un registre tel que prévu à l'article 21 du règlement grand-ducal du 25 octobre 1999
+relatif aux ascenseurs doit être ouvert pour chaque monte-charge.
+
+10.2 Ce registre doit être tenu à disposition des organes de contrôle et de l'organisme de
+contrôle effectuant les réceptions et vérifications.
+
+10.3 Ce registre doit être déposé à cet effet dans la salle des machines dans une armoire
+fermée par une clef à trois pans.
+
+
+
+
+              Visa du directeur adjoint                           Mise en vigueur
+              de l’Inspection du travail                                le
+                     et des mines
+
+
+                                                                    Paul WEBER
+                    Robert Huberty                                    Directeur
+                                                              de l’Inspection du travail
+                                                                     et des mines
+
+
+
+
+page 8 de 8 pages                                                                    ITM-SST 1213.1
+

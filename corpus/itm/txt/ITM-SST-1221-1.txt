@@ -1,0 +1,573 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        Strassen, décembre 2007
+
+
+
+
+                                                                               Ancien N° ITM-CL 48.3
+
+
+                                                                               Nouveau N° ITM-SST 1221.1
+
+
+
+
+                                                Grues automotrices
+
+
+                                            Prescriptions de sécurité types.
+                                       Les présentes prescriptions comportent 11 pages.
+
+
+
+                                                                Sommaire
+
+
+
+          Article                                                                                          Page
+
+          1.              Objectif et domaine d'application                                 2
+          2.              Définitions                                                       2
+          3.              Normes et règles techniques                                       3
+          4.              Prescriptions générales                                           3
+          5.              Protection des travailleurs                                       3
+          6.              Dispositions concernant la construction et l'équipement des grues 5
+          7.              Dispositions concernant le montage des grues                      6
+          8.              Installations électriques et hydrauliques                         6
+          9.              Exploitation                                                      6
+          10.             Grues dont les zones d'action interfèrent avec un obstacle        8
+          11.             Accidents-Incidents                                               9
+          12.             Réceptions et contrôles périodiques des grues                     9
+          13.             Registres et manuels                                             10
+
+
+        _____________________________________________________________________________________________________________________
+        Direction
+        Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs L-2763 STRASSEN Tél : 2478-1 Fax: 49 14 47
+        Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité relatives aux grues automotrices (Autokrane).
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si des mesures de rechange garantissant une protection au moins
+équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de sécurité
+équivalent par un organisme de contrôle et acceptées comme telles par l'Inspection du travail
+et des mines.
+
+Art. 2. - Définitions
+
+2.1. Sous la dénomination "grues" sont à comprendre dans le contexte des présentes
+prescriptions les grues automotrices (Autokrane).
+
+2.2. Les présentes prescriptions ne couvrent pas les grues auxiliaires sur le camion (LKW-
+Ladekrane).
+
+2.3. Sous la dénomination "organisme de contrôle" est à comprendre, dans le contexte des
+présentes prescriptions tout organisme autorisé par le règlement ministériel concernant
+l’intervention des organismes de contrôle dans le cadre des compétences et attributions de
+l’Inspection du travail et des mines le plus récent en date du Ministre du Travail et de
+l’Emploi, à contrôler les appareils de levage et appareils similaires.
+
+2.4. Sous la dénomination "accrocheurs" (Anschläger) sont à comprendre dans le contexte des
+présentes prescriptions tous les travailleurs pouvant effectuer les travaux d'accrochage, de
+décrochage, de manutention et de stockage de charges par l'intermédiaire de la grue.
+
+2.5. Par "dispositifs concernant la sécurité" des grues sont à comprendre toutes les
+installations garantissant la sécurité des personnes, telles par exemple:
+
+-   les protections contre la chute et le renversement des grues;
+-   les freins arrêtant la giration, la levée et la descente de la flèche des grues;
+-   les freins arrêtant la descente et le déplacement des charges;
+-   les limiteurs de charge;
+-   les limiteurs de course et de giration;
+-   les limiteurs de vitesse de déplacement des charges;
+-   les commandes type homme-mort;
+-   les dispositifs automatiques contrôlant la zone d'action de grues pouvant interférer;
+-   les dispositifs d'arrêt d'urgence;
+-   les systèmes d'avertissement et de signalisation;
+-   les moyens de communication entre grutiers sur un même chantier et entre grutier et
+    préposé à la manoeuvre;
+-   les nacelles de transport pour personnes fixées directement à la flèche de la grue;
+-   les anémomètres.
+
+
+
+
+page 2 de 11 pages                                                      ITM-SST 1221.1
+Art. 3. - Normes et règles techniques
+
+3.1. Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à
+appliquer lors de la conception, de la construction, du montage et de l'exploitation des grues
+automotrices sont en particulier les présentes prescriptions et en général les normes et règles
+techniques nationales appliquées dans les pays de la Communauté Européenne, ou alors celles
+reconnues comme équivalentes par l'Inspection du travail et des mines.
+
+3.2. Sont d'application les normes européennes (E.N.), au fur et à mesure qu'elles paraissent et
+remplacent les diverses normes nationales.
+
+Art. 4. - Prescriptions générales
+
+L'exploitant doit se conformer aux stipulations du Code du travail et des arrêtés et règlements
+pris en exécution de ce Code et aux prescriptions afférentes de prévention contre les accidents
+édictées par l'Association d'Assurance contre les accidents, section industrielle.
+
+Art. 5. - Protection des travailleurs
+
+5.1. Les ouvriers souffrant d'attaques d'épilepsie, de crampes, de syncopes, de convulsions, de
+vertiges ainsi que les personnes atteintes de toute autre infirmité ou maladie apparente ne
+peuvent être occupés comme grutiers et comme monteurs de grues.
+
+Les accrocheurs ne doivent souffrir d'aucune maladie les empêchant d'effectuer leur fonction
+sans mettre en danger leur sécurité et celle des autres travailleurs du chantier.
+
+5.2. Les grutiers et les monteurs de grue doivent se soumettre avant leur prise de fonction à
+une visite médicale constatant leur aptitude à effectuer ces tâches.
+
+La surveillance médicale doit être effectuée conformément aux dispositions :
+
+    -   des articles L.-326-2 et L.-326-3 du Livre III du Code du travail;
+        ainsi que
+    -   du règlement grand-ducal modifié du 17 juin 1997 concernant la périodicité des
+        examens médicaux en matière de médecine du travail.
+
+5.3. L'exploitant doit mettre à la disposition des travailleurs des équipements de protection
+individuelle (p. ex. vêtements de protection, casques, lunettes, harnais de sécurité, gants,
+chaussures de sécurité, etc.).
+
+5.4. Les travailleurs sont en cas de besoin obligés à porter les vêtements et équipements de
+protection mis à leur disposition.
+
+5.5. Les travailleurs doivent faire bon usage de tous les dispositifs de protection ou de sécurité
+et de tous les autres moyens destinés à assurer leur propre protection ou celle d'autrui.
+
+5.6. Le personnel doit porter des vêtements bien ajustés et non flottants.
+
+
+
+
+page 3 de 11 pages                                                           ITM-SST 1221.1
+5.7. L'exploitant respectivement l'entreprise de montage de grues doivent assurer la
+surveillance nécessaire pour que les grutiers, les monteurs de grues et les accrocheurs
+accomplissent leur travail dans les meilleures conditions possibles de sécurité, de santé,
+d'hygiène et d'ergonomie.
+
+5.8. Les propriétaires, les exploitants et les entrepreneurs qui montent des grues sont tenus
+chacun en ce qui le concerne d'assurer une formation spécifique et continue appropriée et
+suffisante des grutiers, des monteurs et des accrocheurs, notamment pour ce qui est du
+fonctionnement des grues, de leur conduite et de leur montage ainsi que de la manipulation du
+matériel. La formation doit également porter sur: l'usage des équipements protecteurs,
+l'entretien et le contrôle de l'équipement, les équipements de protection individuelle, la
+prévention des accidents, le comportement en cas d'urgences, l'hygiène et les premiers
+secours.
+
+5.9. Les grutiers doivent en plus être toujours bien initiés à leur tâche. Ils doivent être à
+mêmes d'accomplir les travaux élémentaires et courants de surveillance, d'entretien et de
+dépannage.
+
+5.10. Les travailleurs doivent prendre connaissance de toutes les consignes de sécurité
+concernant leur travail et s'y conformer.
+
+Le chef de chantier doit s'assurer que les travailleurs connaissent les consignes et les ont bien
+comprises.
+
+5.11. Seuls les travailleurs dûment formés et autorisés par l'exploitant doivent prendre part
+aux opérations de travail dangereuses.
+
+5.12. Les travailleurs effectuant seuls des travaux de montage, d'entretien ou de réparation en
+hauteur aux grues doivent être accompagnés par une autre personne en mesure de leur porter
+ou de leur faire porter secours en cas de besoin.
+
+Cette personne pourra être mise à disposition par l'entreprise du chantier à condition de
+répondre aux critères définis sub 5.10. et 5.11. ci-dessus.
+
+5.13. Dans les limites de leurs responsabilités, les travailleurs doivent faire tout ce qui est
+dans leur pouvoir pour préserver leur santé et leur sécurité, ainsi que celles de leurs collègues
+de travail.
+
+5.14. Sont à suivre les prescriptions afférentes de sécurité et de santé relatives à la
+manutention manuelle de charges.
+
+5.15. En cas d'accident ou d'indisposition grave, le patron, le chef d'entreprise ou le chef du
+chantier est tenu de prendre les mesures pour assurer les premiers soins aux victimes.
+
+5.16. Les accidents du travail et les cas de maladie professionnelle doivent obligatoirement
+être déclarés à l'Inspection du travail et des mines dans la huitaine.
+
+La déclaration des accidents mortels ou entraînant une incapacité de travail de 13 semaines au
+moins selon certificat médical doit être effectuée sans délai à l'Inspection du travail et des
+mines soit verbalement, soit par téléphone ou télégramme. En dehors des heures de bureau le
+service "Urgences" de la Police Grand-Ducale est à avertir.
+
+
+
+page 4 de 11 pages                                                        ITM-SST 1221.1
+Les accidents du travail autres que ceux visés à l'alinéa qui précède doivent être déclarés par
+écrit dans la huitaine à l'Inspection du travail et des mines.
+
+L'Inspection du travail et des mines doit être informée de tout incident qui aurait pu causer un
+accident du travail grave.
+
+Art. 6. - Dispositions concernant la construction et l'équipement des grues
+
+6.1. Il est interdit d'utiliser des grues ou éléments de grues qui ne sont pas construits, disposés
+ou mis en oeuvre dans des conditions assurant la sécurité et l'hygiène des travailleurs et qui ne
+sont pas conformes au règlement grand-ducal modifié du 4 novembre 1994 concernant les
+prescriptions minimales de sécurité et de santé pour l'utilisation par les travailleurs au travail
+d'équipements de travail.
+
+Les grues et leurs éléments doivent satisfaire aux stipulations afférentes reprises à l'article 4
+ci-dessus.
+
+6.2. Il est interdit d'utiliser des protecteurs de machines ainsi que des dispositifs, équipements
+ou produits de protection qui ne sont pas de nature à protéger efficacement les travailleurs
+contre les dangers de tout ordre auxquels ils peuvent être exposés.
+
+6.3. Toutes les parties des machines telles que par exemple les passerelles, échelles, pièces en
+mouvement, pièces chaudes etc., pouvant donner lieu à atteinte au personnel travailleur,
+doivent être entourées d'enveloppes protectrices appropriées ou munies de garde-corps
+solides. Les béquilles de soutènement doivent être signalisées clairement de jour et de nuit,
+lorsqu'elles se trouvent en position de travail.
+
+6.4. Toute grue doit être équipée de dispositifs d'arrêt d'urgence facilement repérables et
+accessibles, placés en des endroits judicieusement choisis et permettant de l'arrêter
+instantanément en cas d'urgence (p.ex. bouton "STOP" arrêtant tout mouvement).
+
+6.5. Les dispositifs de mise en marche et d'arrêt (tels qu'interrupteurs, leviers, boutons-
+poussoir, commandes au pied ou au genou) doivent être conçus, construits et installés de
+sorte:
+
+-   qu'ils puissent être commandés facilement et en toute sécurité;
+-   que la grue ne puisse être mise en marche involontairement;
+-   que tout mouvement de la grue s'arrête, dès que le grutier n'est plus à même d'effectuer les
+    commandes (commandes type homme-mort).
+
+6.6. Des mesures appropriées sont à prendre pour que les grues ne puissent être mises ou
+remises en marche de façon intempestive.
+
+6.7. Tout crochet de levage simple doit être muni d'un dispositif de sécurité contre le
+décrochage accidentel d'une charge.
+
+6.8. Tout crochet de levage doit être accompagné d'un certificat de conformité émanant du
+fabricant du crochet ou doit comporter le marquage "CE" de conformité. Sur ce certificat doit
+figurer un numéro d'identification qui doit se trouver aussi sur le crochet même.
+
+
+
+
+page 5 de 11 pages                                                         ITM-SST 1221.1
+Art. 7. - Dispositions concernant le montage et la mise en position de travail des grues
+
+7.1. Les grues doivent être mises en position de travail et être assemblées conformément aux
+instructions de montage du constructeur de la grue.
+
+7.2. Il est interdit d'apporter des modifications à la grue sans l'accord écrit du constructeur de
+la grue (voir aussi au paragraphe 9.9. ci-dessous).
+
+7.3. Le grutier doit avoir suivi une formation spéciale de préférence par le constructeur, sinon
+par l'importateur de la grue, et doit connaître parfaitement du matériel lui confié et avoir une
+expérience pratique dans le montage et la mise en position de travail de sa grue.
+
+7.4. Les grues doivent être mises en position de travail et être assemblées de façon à ce que
+soient données en tout temps toutes les garanties de stabilité et de solidité, même lors
+d'intempéries (telles que vent, tempête, gel, givre et neige) et lors de tremblements de terre
+possibles au Grand-Duché de Luxembourg.
+
+7.5. Les abords du lieu de montage de la grue doivent être tels que la stabilité de la grue est
+garantie en tenant compte d'éventuelles fouilles et excavations.
+
+7.6. Il doit être exclu qu'une partie quelconque de grue puisse pénétrer lors du montage et de
+la mise en position de la grue dans la zone de sécurité (telle que définie par les normes
+DIN/VDE) entourant une ligne électrique aérienne se trouvant éventuellement au voisinage du
+chantier.
+
+Art. 8. - Installations électriques et hydrauliques
+
+8.1. Les installations électriques et hydrauliques sont à maintenir continuellement en bon état
+d'entretien, de sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les
+défectuosités et anomalies constatées.
+
+8.2. Le personnel chargé d'effectuer des travaux d'entretien aux installations électriques et
+hydrauliques doit avoir reçu des consignes écrites concernant les précautions à prendre pour
+éviter tout danger et doit disposer du matériel et de l'équipement de sécurité nécessaires pour
+sa propre protection et pour l'exécution des travaux.
+
+8.3. Toutes précautions appropriées doivent être prises pour empêcher la mise sous tension ou
+sous pression, soit accidentellement, soit par inadvertance d'une installation électrique ou
+hydraulique sur laquelle sont effectués des travaux.
+
+Art. 9. - Exploitation
+
+9.1. Les grues doivent être installées de façon à ce que leur zone de travail puisse être
+convenablement éclairée de nuit.
+
+9.2. Les abords des grues et les passages ne doivent pas être encombrés de matériel.
+
+9.3. Sont interdites les opérations d'entretien telles que nettoyage, huilage et graissage des
+grues avec appareils en marche.
+
+9.4. Les opérations de réglage d'appareils en marche doivent être effectuées avec la prudence
+et la prévoyance requises.
+
+
+page 6 de 11 pages                                                         ITM-SST 1221.1
+9.5. L'exploitant doit informer de manière appropriée les travailleurs des dangers pouvant
+survenir lors du montage des grues et de ceux résultant de la conduite et de l'utilisation des
+grues ainsi que des précautions à prendre.
+
+9.6. Les travailleurs doivent recevoir consigne de ni enlever ni modifier les dispositifs de
+protection.
+
+9.7. Les divers organes des grues sont à maintenir en tout temps en parfait état d'entretien et
+de sécurité. Il doit être remédié sans délai à toutes les défectuosités et anomalies constatées.
+
+9.8. Il est interdit à toute personne n'ayant pas la qualification professionnelle requise et
+certifiée d'effectuer des travaux de réfection ou d'apporter des modifications aux grues.
+
+9.9. L'entretien régulier des grues doit être assuré d'après les instructions du constructeur par
+un personnel qualifié et expérimenté. L'exploitant est responsable, soit de s'assurer que les
+intéressés ont acquis les aptitudes nécessaires, soit de faire mettre en oeuvre les instructions,
+formations et formations continues requises.
+
+9.10. L'entretien doit s'effectuer suivant les instructions du constructeur de la grue et dans le
+strict respect des règles de la sécurité du travail; les aménagements, équipements et moyens de
+sécurité doivent être prévus en conséquence.
+
+9.11. Lors des travaux de montage, d'entretien ou de réparation des grues toutes mesures
+efficaces doivent être prises pour protéger les travailleurs contre tout risque d'accident ou
+toute atteinte à leur santé.
+
+9.12. Le personnel chargé d'effectuer des travaux aux grues doit être instruit des précautions à
+prendre pour éviter les dangers et doit disposer du matériel et de l'équipement de sécurité
+nécessaires pour sa propre protection et pour l'exécution des travaux.
+
+9.13. Les accessoires de levage, tels par exemple les câbles, élingues métalliques ou
+synthétiques, les chaînes de manutention et les dispositifs similaires pour l'amarrage, le
+soulèvement et le transport de charges doivent être de bonne qualité et prévus pour les charges
+à manipuler.
+
+9.14. La visibilité sur la zone d'action de la grue depuis le poste de commande de la grue doit
+être garantie en tout temps.
+
+9.15. Aucune zone ne faisant pas partie du chantier ne doit être balayée par la grue lorsque
+celle-ci transporte des charges et lorsqu'on ne s'est pas assuré que cette zone est libre de toute
+personne.
+
+9.16. La manutention d'objets de grande surface doit être arrêtée lorsque la vitesse du vent
+dépasse la vitesse fixée par le constructeur de la grue (en tenant compte de la configuration de
+la grue) mais au plus tard lorsque la vitesse du vent dépasse 60 km/h.
+
+9.17. Tout travail par grue doit être arrêté lorsque la vitesse de vent dépasse la vitesse fixée
+par le constructeur de la grue (en tenant compte de la configuration de la grue) en tenant
+compte du paragraphe 9.16 ci-dessus.
+
+
+
+
+page 7 de 11 pages                                                         ITM-SST 1221.1
+9.18. Les grues, leurs composants et tous leurs équipements connexes et annexes sont à mettre
+hors usage, tant qu'ils présentent des défauts pouvant mettre en danger la santé et la sécurité
+des travailleurs et des personnes se trouvant dans les alentours des chantiers.
+
+9.19. Les grues ayant subi une avarie grave ou qui ont été la cause d'un accident ou d'un
+incident grave ne peuvent être remises en service qu'après réception par un organisme de
+contrôle et autorisation écrite de l'Inspection du travail et des mines.
+
+9.20. Il doit être exclu qu'une partie quelconque de la grue puisse pénétrer dans la zone de
+sécurité (telle que définie par les normes DIN/VDE) entourant une ligne électrique aérienne se
+trouvant éventuellement au voisinage du chantier.
+
+9.21. Il est interdit de soulever, en fonction de la portée de travail, des charges plus lourdes
+que celles prévues par le constructeur de la grue.
+
+9.22. Il est interdit de transporter des personnes par les grues.
+
+9.23. Le transport de personnes peut toutefois être autorisé par l'Inspection du travail et des
+mines sur demande motivée, et limité dans le temps. Lors de cette autorisation, l'Inspection du
+travail et des mines fixe les conditions qu'elle juge nécessaires pour garantir la sécurité.
+
+Art. 10. - Grues dont les zones d'action interfèrent avec un obstacle
+
+10.1. L'exploitant est tenu d'arrêter par écrit des consignes afin d'éviter toute collision entre
+les parties fixes et mobiles de grues en présence ainsi qu'avec des obstacles fixes (lignes à
+haute-tension, arbres, bâtiments, etc.).
+
+10.2. Ces consignes doivent être remises au(x) chef(s) de chantier(s), aux grutiers et à toutes
+les autres personnes concernées.
+
+Les consignes sont à expliquer aux travailleurs concernés.
+
+Avant que les grues ne soient mises en service, le(s) chef(s) de chantier(s) doivent s'assurer
+personnellement que les grutiers et toutes les autres personnes concernées connaissent ces
+consignes et les ont bien comprises.
+
+10.3. En plus des consignes de sécurité, il y a lieu d'installer des dispositifs automatiques de
+contrôle du mouvement des grues.
+
+10.4. Un tel dispositif de contrôle automatique doit consister en un appareillage ralentissant
+puis arrêtant tout mouvement de grue susceptible de provoquer une collision entre les parties
+fixes et mobiles des grues en présence ou entre la grue et un éventuel obstacle fixe.
+
+10.5. Après cet arrêt, il doit être possible au grutier de manoeuvrer sa grue avec les
+précautions requises dans la zone dangereuse, tout en activant un bouton spécial ou une
+pédale spéciale.
+
+Un son d'avertissement doit retentir dans la cabine de conduite, tant que dure la présence de la
+grue dans la zone dangereuse.
+
+
+
+
+page 8 de 11 pages                                                        ITM-SST 1221.1
+10.6. Il est recommandé de pourvoir les grutiers des grues dont les zones d'action interfèrent
+d'appareils radio, afin qu'ils puissent communiquer verbalement entre eux.
+
+Art. 11. - Accidents-Incidents
+
+11.1. Les grues ayant été la cause d'un accident ou d'un incident grave et les grues ayant subi
+des avaries pouvant influencer la sécurité sont à mettre hors service.
+11.2. Ces grues ne peuvent être remises en service qu'après délivrance par un organisme de
+contrôle d'un certificat constatant l'absence de tout danger, certificat visé par l'Inspection du
+travail et des mines.
+
+Art. 12. - Réceptions et contrôles périodiques des grues
+
+12.1. Les grues doivent être réceptionnées par un organisme de contrôle avant leur mise en
+service et après chaque incident ou accident pouvant avoir eu une influence sur la sécurité de
+la grue et après chaque modification substantielle, et ce avant leur mise ou remise en service.
+
+Le contrôle de réception doit comprendre toutes les composantes de la grue ayant une
+influence sur la stabilité et de solidité de la grue, toutes les composantes intervenant dans le
+levage de charges, les éventuelles nacelles fixées à la flèche de la grue pour le transport de
+personnes, tous les dispositifs concernant la sécurité ainsi que toutes les composantes
+essentielles des installations électriques et hydrauliques.
+
+12.2. Tout crochet de levage ayant plus d'un an d'âge doit être démonté et présenté à
+l'organisme de contrôle effectuant les contrôles de réception de la grue s'il n'a pas subi ce
+contrôle dans les derniers douze mois.
+
+12.3. Les grues doivent être soumises à un contrôle annuel au moins tous les douze mois par
+un organisme de contrôle.
+
+12.4. Les grues doivent être soumises entre deux contrôles annuels à des vérifications
+trimestrielles à effectuer au moins tous les trois mois par un organisme de contrôle.
+
+Ces vérifications trimestrielles constituent des contrôles annuels simplifiés.
+
+12.5. Il est recommandé que le propriétaire et l'exploitant de la grue ou une personne qu'ils
+délèguent à cet effet accompagne l'inspecteur de l'organisme de contrôle lors des réceptions,
+contrôles annuels et vérifications trimestrielles.
+
+12.6. Au cas où l'agent de contrôle délégué par l'organisme de contrôle constate un défaut ou
+une situation pouvant présenter des dangers pour les personnes, il doit en informer
+immédiatement l'exploitant par le moyen de communication le plus direct et le plus rapide
+possible, sans préjudice du rapport écrit ultérieur.
+
+L'agent concerné doit dans un pareil cas indiquer en plus les mesures à prendre
+immédiatement et il doit s'assurer qu'il y est obtempéré et que les risques inacceptables sont
+éliminés. A défaut, il doit en informer sans délai l'Inspection du travail et des mines.
+
+
+
+
+page 9 de 11 pages                                                         ITM-SST 1221.1
+12.7. L'organisme de contrôle fait la distribution des rapports de réception ou de contrôle à
+raison de:
+
+- 1 exemplaire pour l'Inspection du travail et des mines;
+- 3 exemplaires à son commettant qui les répartira de la façon suivante:
+       * 1 exemplaire pour le registre tel que prévu à l'article 13.1 ci-dessous;
+       * 1 exemplaire au propriétaire de la grue;
+       * 1 exemplaire à l'exploitant si celui-ci n'est pas en même temps le propriétaire.
+
+12.8. Les rapports de réception, de contrôle et de vérification remis à l'exploitant doivent être
+tenus à disposition des autorités de contrôle dans la grue même (voir aussi paragraphe 13.1 ci-
+dessous.
+
+12.9. Les exploitants des grues doivent se conformer aux délais pour réparation et mise en
+conformité figurant sur les rapports des réceptions, contrôles et vérifications de l'organisme de
+contrôle.
+
+12.10. Les réceptions et contrôles se baseront notamment sur les présentes prescriptions, sur
+les normes et règles techniques suivies lors de la construction de la grue et sur les données
+techniques figurant dans les manuels descriptifs concernant la grue.
+
+12.11. Les accessoires de levage, tels par exemples câbles, élingues métalliques ou
+synthétiques, les chaînes de manutention, les crochets secondaires et dispositifs similaires
+pour l'amarrage, le soulèvement et le transport des charges doivent être contrôlés et acceptés
+tous les 3 mois par un organisme de contrôle.
+
+Art. 13. - Registres et manuels
+
+13.1. Toutes les réceptions, tous les contrôles et toutes les vérifications concernant la grue
+doivent faire l'objet d'une inscription sur un registre (ou d'une insertion dans un dossier)
+ouvert à cet effet par le propriétaire de la grue.
+
+Les pièces de ce registre (ou dossier) doivent comprendre au moins les mentions suivantes:
+
+    -   la date et la nature de la réception, du contrôle et de la vérification;
+    -   la personne ou l'organisme ayant effectué le contrôle;
+    -   le motif du contrôle effectué suite à un incident ou accident, la cause et la nature de cet
+        incident ou accident;
+    -   le résultat et les commentaires des examens, vérifications et essais de réception, de
+        contrôle ou de vérification;
+    -   la contresignature éventuelle par l'exploitant (ou par une personne que celui-ci a
+        déléguée à cet effet) des résultats des réceptions, contrôles ou vérifications.
+
+13.2. Pour chaque grue doit être tenu un registre d'entretien séparé.
+
+Ce registre doit comprendre au moins les mentions suivantes:
+
+    -   les dates et la nature des opérations de maintenance;
+    -   les descriptions des opérations de maintenance que la grue a subies;
+    -   les rapports des contrôles et vérifications effectués;
+
+
+
+
+page 10 de 11 pages                                                        ITM-SST 1221.1
+    -   un descriptif de toutes les interventions et modifications effectuées sur la grue et
+        pouvant avoir une influence sur la sécurité;
+    -   les dates des interventions;
+    -   le personnel ou l'organisme ayant effectué les interventions.
+
+13.3. Tous ces registres, les manuels de montage, d'utilisation, d'entretien, de dépannage, ainsi
+que les manuels comprenant les descriptions techniques de la grue doivent être tenus à
+disposition des organes de contrôle et de l'organisme de contrôle effectuant les réceptions et
+contrôles.
+
+13.4. Les consignes prévues à l'article 10 ci-dessus, les documents du constructeur concernant
+l'entretien courant et le dépannage courant, le manuel d'utilisation et de montage, une fiche
+reprenant les principales caractéristiques de la grue ainsi que les registres repris sub 13.1 et
+13.2 doivent être tenus dans la grue à disposition des grutiers, du personnel d'entretien et du
+personnel de contrôle.
+
+13.5. La documentation complète technique, d'entretien, de montage et d'utilisation doit être
+disponible dans les bureaux du propriétaire de la grue.
+
+
+
+
+              Visa du Directeur adjoint                           Mise en vigueur
+           de l’Inspection du travail et des                            le
+                        mines
+
+
+                                                                    Paul WEBER
+                 Robert HUBERTY                                       Directeur
+                                                              de l’Inspection du travail
+                                                                     et des mines
+
+
+
+
+page 11 de 11 pages                                                         ITM-SST 1221.1
+

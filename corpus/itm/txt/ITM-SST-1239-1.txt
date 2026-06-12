@@ -1,0 +1,245 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                         Strassen, 9 février 2015
+
+
+
+                                                                                         ITM-SST 1239.1
+
+
+
+
+                   Escaliers mécaniques et trottoirs roulants
+                             avec marquage « CE »
+
+
+                                              Prescriptions de sécurité types
+                                  Les présentes prescriptions comportent 5 pages
+
+                                 Est aussi applicable la prescription ITM-SST 1230
+
+                                                                  Sommaire
+
+
+
+    Article                                                                                                             Page
+
+     1.                                  Objectif et domaine d'application                                                2
+     2.                                  Définitions                                                                      2
+     3.                                  Construction et équipements                                                      2
+     4.                                  Entretien                                                                        4
+     5.                                  Examens et essais lors des réceptions et contrôles périodiques                   4
+
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2763 STRASSEN Tél : 2478-6213 Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les règles de sécurité et de
+santé types à observer lors de l’implantation, de l’exploitation et du contrôle d’un escalier
+mécanique ou trottoir roulant et conçu d’après les exigences de la directive 98/37/CE
+respectivement 2006/42/CE relative aux machines.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de
+cas en cas par l’Inspection du travail et des mines, selon le cas sur avis d’un organisme de
+contrôle, si des mesures de rechange garantissant une protection au moins équivalente sont
+prises.
+
+
+Art. 2. - Définitions
+
+2.1. Escalier mécanique: Installation entraînée mécaniquement, comportant une suite de
+marches sans fin, destinée au transport des personnes dans une direction montante ou
+descendante.
+
+2.2. Trottoir roulant: Installation entraînée mécaniquement, comportant une bande sans fin
+exempte de marches (par exemple plateaux, bande) destinée au transport de personnes.
+
+2.3. Main courante: Elément mobile destiné à servir de prise aux passagers.
+
+2.4. Peignes: Eléments qui, aux entrées et sorties, s'engrènent avec les marches, plateaux
+ou bande pour faciliter la transition des passagers.
+
+2.6. Capacité théorique: Nombre de personnes pouvant théoriquement être transportées par
+l'escalier mécanique ou le trottoir roulant en un lapse de temps défini.
+
+2.7 L’escalier mécanique et le trottoir roulant sont appelés « appareil » par la suite
+
+
+Art. 3. - Construction et équipement
+
+3.1 Abords de l'escalier et du trottoir roulant
+
+Des espaces libres suffisants doivent être prévus comme surface de dégagement aux
+entrées et sorties d’un appareil. Ces espaces libres doivent être déterminés en fonction de
+sa capacité théorique.
+
+L'entrée et la sortie d’un appareil doivent présenter une surface de foulée antidérapante
+(trittsicher) permettant un accès et une sortie de l’appareil sûre. La hauteur libre au-dessus
+des marches d’un escalier mécanique, du plateau ou de la bande d’un trottoir roulant doit
+être en tout point au moins égale à 2,30 m.
+
+Dans le cas de plusieurs appareils se succédant sans issue intermédiaire, tous les appareils
+doivent avoir la même capacité théorique.
+
+
+
+
+Page 2 sur 5                                                                     ITM-SST 1239.1
+3.2 Interférence avec le bâtiment dans lequel il est installé.
+
+La structure porteuse doit être conçue pour supporter le poids propre de l'installation
+augmenté d'une charge d'exploitation indiquée par le fabriquant.
+Sans préjudice des dispositions des présentes prescriptions, les dispositions réglementaires
+concernant les produits destinés à la construction ou à être intégrés dans un bâtiment sont
+applicables pour les aspects liés à l’installation d’un appareil dans un bâtiment ou dans une
+construction.
+
+Lors de l’intégration de l’appareil dans un bâtiment, une évaluation des risques doit être
+réalisée afin de déterminer les risques de coincement résultant de l’interférence entre les
+parties en mouvement de l’appareil et le bâtiment.
+
+La personne responsable de la réalisation du bâtiment ou de la construction et l’installateur
+de l’appareil doivent:
+    - d’une part s’informer mutuellement des éléments nécessaires,
+    et
+    - d’autre part prendre les mesures appropriées pour assurer le bon fonctionnement et
+        la sécurité de l’appareil.
+
+3.3 L'éclairage
+
+L'appareil et ses abords doivent être éclairés suffisamment et de manière appropriée en
+particulier à proximité des peignes. Une intensité lumineuse de 50 lux doit être installée.
+
+3.4 Locaux des machines
+
+Les stations d'entraînement et de retournement, les locaux de machines intérieurs à la
+charpente ainsi que les locaux de machines séparés doivent être inaccessibles à toutes
+personnes non autorisées.
+
+Les locaux de machines ne peuvent renfermer que les équipements nécessaires au
+fonctionnement des escaliers mécaniques ou trottoirs roulants. Cependant, il peut être admis
+que ces locaux contiennent:
+a) des machines d'ascenseurs ou de monte-charges;
+b) des détecteurs d'incendie ou des installations d'extinction d'incendie.
+
+Les accès aux locaux de machines doivent être utilisables aisément et en toute sécurité.
+
+Les locaux doivent être construits de manière à supporter les charges et les efforts auxquels
+ils peuvent être normalement soumis.
+
+Les dimensions du local de machines doivent être suffisantes pour permettre au personnel
+d'entretien et de contrôle d'accéder en toute sécurité et facilement à tous les organes,
+notamment aux équipements électriques.
+
+L'éclairage des locaux machines doit être installé à demeure. Une intensité lumineuse de
+200 lux doit être atteinte à 1 m du sol.
+
+3.5 Main courante
+
+Chaque balustrade doit être munie d'une main courante qui se déplace dans la même
+direction, à la même vitesse que les marches, plateaux ou bande.
+
+
+
+
+Page 3 sur 5                                                                  ITM-SST 1239.1
+Les mains courantes doivent être construites de façon à ce que la possibilité de pincement
+des doigts ou des mains soit réduite à un minimum.
+
+3.6 Marches, plateaux, bandes et peignes
+
+Si l’appareil est implanté dans des lieux où les passagers circuleront avec des objets
+encombrants (valises, gros paquets, gros sacs de voyage) la largeur minimum des marches,
+plateaux ou bandes doit être de 0,80m.
+
+Si un trottoir roulant en pente est prévisiblement utilisé par des personnes poussant des
+chariots mis à disposition dans le même bâtiment, sa bande doit dans la mesure du possible
+être conçue de façon à agir autobloquant sur les roues des chariots afin d’éviter la mise en
+marche involontaire des chariots.
+
+3.7 Affiches consignes et signaux:
+
+Les affiches, consignes et signaux prévues par le fabricant doivent être apposés de façon à
+ce que l'utilisateur puisse les lire et interpréter facilement.
+
+L'utilisation de pictogrammes est recommandée.
+
+Les affiches et consignes de sécurité doivent être maintenues dans un bon état lisible.
+
+Des mesures de sécurité en matière de consignes et signaux sont à prendre lors des
+opérations d'entretien d'inspection ou similaires afin d'empêcher l'accès aux installations
+pour toutes les personnes non autorisées.
+
+Art. 4. - Entretien
+
+4.1 L'entretien régulier des installations doit être assuré par un personnel qualifié et ce au
+moins 11 fois par an pour toutes les installations implantées dans les bâtiments recevant du
+public. La même périodicité de 11 fois par an est à appliquer pour des installations circulant
+à l'extérieur.
+
+4.2 Cette périodicité de 11 visites par an peut être augmentée si les exigences du fabricant
+le prévoient.
+
+
+Art. 5. - Examens et essais lors des réceptions et contrôles périodiques
+
+5.1 Des contrôles périodiques sont à effectuer sur chaque installation au moins tous les
+douze mois par un organisme de contrôle.
+
+5.2 Outre les vérifications spécifiées dans la prescription ITM-SST 1230, les vérifications,
+essais et examens lors des contrôles périodiques comprennent notamment:
+
+Lors du premier contrôle périodique:
+a)     la vérification des plans d'installation et descriptifs de l'installation. (Schémas
+       électriques);
+b)     l'examen visuel général notamment en ce qui concerne la conformité de l'installation
+       par rapport aux plans et schémas;
+c)     les essais des organes de sécurité;
+d)     les vérifications du dispositif de protection contre la survitesse;
+e)     les essais du dispositif de dépannage manuel;
+f)     les vérifications des affiches, consignes et signaux;
+
+
+Page 4 sur 5                                                                  ITM-SST 1239.1
+g)     les essais des freins et mesures des distances de freinage, si le fabricant ne les a pas
+       effectués ;
+h)     la vérification visuelle de la continuité électrique entre la borne de terre et les
+       différentes parties de l'installation, susceptible de rester accidentellement sous
+       tension.
+
+Lors de contrôles périodiques:
+a)     les essais des organes de sécurité;
+b)     les essais de freinage (à vide);
+c)     la vérification des éléments d'entraînement;
+d)     la vérification des marches plateaux ou de la bande. (Endommagement, guidage,
+       usure, jeu, etc.);
+e)     la vérification de l'état et positionnement des peignes;
+f)     le contrôle de l'état des balustrades;
+g)     le contrôle de l'état des mains courantes.
+
+
+                                      Mise en vigueur, le
+                                        9 février 2015
+
+                                                s.
+
+
+                                           Marco BOLY
+                                           Directeur f.f.
+                                    de l’Inspection du travail
+                                           et des mines
+
+
+
+
+Page 5 sur 5                                                                   ITM-SST 1239.1
+

@@ -32,7 +32,7 @@ from pathlib import Path
 
 PDF_DIR = Path("informes_sinteticos/pdf")
 DB_PATH = Path("informes_sinteticos/defectos.db")
-RAG_DB = Path("corpus/aqc/rag_index.db")
+RAG_DB = Path("corpus/rag_index.db")
 MODEL_NAME = "intfloat/multilingual-e5-small"
 
 # --- parseo de metadatos (tolerante a las 3 plantillas) ----------------------

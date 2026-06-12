@@ -1,0 +1,250 @@
+                                          GRAND-DUCHÉ DE LUXEMBOURG
+
+
+
+                                           Le présent texte a été établi par
+                                       l’Inspection du travail et des mines et
+                                  le Corps grand-ducal d’incendie et de secours.
+
+
+
+
+                                                  ITM-SST 1504.4
+                                            Version du 19 décembre 2024
+
+                         Prescriptions de prévention incendie
+                                   DISPOSITIONS SPECIFIQUES
+                           Immeubles et surfaces de bureau
+                                          Le présent document comporte 6 pages
+
+
+
+
+Inspection du travail et des mines
+Adresse postale :         B.P. 27                  L-2010 Luxembourg               Tel. : +352 247-76100
+Bureaux :                 3, rue des Primeurs      L-2361 Strassen                 Fax : +352 247-96100
+Site internet :           https://itm.public.lu
+                                                            Table des matières
+
+
+Article 1er Objectifs et domaine d’application ............................................................................... 3
+     1.1. Généralités ........................................................................................................................... 3
+     1.2. Domaine d’application ......................................................................................................... 3
+Article 2. Définitions ..................................................................................................................... 3
+     2.1. Bureau cloisonné et unité de bureaux ................................................................................. 3
+     2.2. Superficie de bureau ............................................................................................................ 3
+Article 3. Implantation.................................................................................................................. 3
+Article 4. Aménagements extérieurs ............................................................................................ 3
+Article 5. Construction .................................................................................................................. 3
+Article 6. Aménagements intérieurs ............................................................................................ 4
+Article 7. Compartimentage ......................................................................................................... 4
+     7.1. Unités d’exploitation ............................................................................................................ 4
+     7.2. Escaliers ................................................................................................................................ 4
+Article 8. Evacuation de personnes .............................................................................................. 5
+Article 9. Eclairage ........................................................................................................................ 5
+Article 10. Gestion des fumées ...................................................................................................... 5
+Article 11. Installations techniques ................................................................................................ 5
+Article 12. Installations au gaz ........................................................................................................ 5
+Article 13. Installations électriques ................................................................................................ 5
+Article 14. Equipements et procédures d’urgence ........................................................................ 5
+Article 15. Moyens de secours et d’intervention ........................................................................... 6
+     15.1. Installation de détection incendie, d’alarme et d’alerte ................................................... 6
+     15.2. Robinets d’incendie armés ................................................................................................. 6
+     15.3. Service de sécurité incendie ............................................................................................... 6
+Article 16. Registre de sécurité ...................................................................................................... 6
+Article 17. Réceptions et contrôles ................................................................................................ 6
+
+
+
+
+ 2                                                                                                                          ITM-SST 1504.4
+Article 1er   Objectifs et domaine d’application
+1.1. Généralités
+Les présentes dispositions spécifiques sont applicables en complément des dispositions
+générales, ITM-SST 1501, 1502 respectivement 1503, sur lesquels ils priment en cas de
+contradiction.
+1.2. Domaine d’application
+Les présentes prescriptions ont pour objectif de spécifier les prescriptions de sécurité par
+rapport au personnel et au public, auxquelles doivent répondre la conception, la construction
+et l’aménagement d’immeubles ou de surfaces de bureaux.
+Note : Les petites surfaces de bureaux en annexe à d’autres activités ne font pas l’objet de la
+présente prescription.
+
+
+Article 2.    Définitions
+2.1. Bureau cloisonné et unité de bureaux
+On entend par bureau cloisonné un local à usage de bureau dont la surface est limitée à 50 m²
+par des parois résistantes au feu.
+On entend par une unité de bureaux combinés une unité d’exploitation comprenant des locaux
+à usage de bureau qui sont séparées entre eux par des parois d’une hauteur supérieure à 1,60 m
+sans critère coupe-feu.
+On entend par une unité de bureaux paysagers une surface de bureaux ouverte sans séparation
+par des cloisons ou des meubles au-delà d’une hauteur de 1,60 m. Toutefois cette unité peut
+comprendre, sur un maximum de 30 % de sa superficie, des locaux séparés à usage de bureaux,
+délimités par des parois majoritairement vitrées permettant une bonne visibilité de l’ensemble
+de l’unité.
+Note : Sont à considérer comme locaux à usage de bureau tous les bureaux et locaux liés à
+l’activité de bureau, tels que les salles de réunions, locaux d’imprimante, kitchenette, salle de
+repos, petits locaux d’archives, etc.
+2.2. Superficie de bureau
+La superficie de bureau correspond à la superficie totale des surfaces aménagées en bureaux y
+compris les circulations, les salles de réunions, les locaux annexes, et, déduction faite des
+compartiments d’issue et des locaux techniques.
+
+
+Article 3.    Implantation
+Voir dispositions générales.
+
+
+Article 4.    Aménagements extérieurs
+Voir dispositions générales.
+
+
+Article 5.    Construction
+Voir dispositions générales.
+ 3                                                                              ITM-SST 1504.4
+Article 6.       Aménagements intérieurs
+En atténuation à l’article 6.2.3. des dispositions générales, les différents éléments de structure
+et de fixation des cloisons intérieures de distribution et les éléments décoratifs en relief ne
+nécessitent pas de stabilité au feu.
+
+
+Article 7.       Compartimentage
+7.1. Unités d’exploitation
+7.1.1. La superficie d’une unité de bureaux paysagers ne doit pas être supérieure à 800 m². Cette
+superficie peut être doublée si elle est protégée par une installation d’extinction automatique.
+7.1.2. La superficie d’une unité de bureaux combinés ne doit pas dépasser 400 m². Cependant,
+cette valeur peut être ponctuellement dépassée de maximum 10 % sans que la superficie
+moyenne des unités de bureaux présentes sur le niveau concerné ne dépasse 400 m². Cette
+superficie peut être doublée si elle est protégée par une installation d’extinction automatique.
+7.1.3. Une unité de bureaux paysagers ou combinés est à compartimenter coupe-feu 60
+minutes (EI 60) au moins. Les portes d’accès sont au moins coupe-feu 30 minutes et coupe-
+fumée (EI 30-C) (compartiment secondaire). En atténuation à l’article 7.6.2. des dispositions
+générales, les locaux à usage de bureau à faible risque et à risque moyen, intérieurs à l’unité de
+bureau, ne nécessitent pas de compartimentage coupe-feu.
+7.1.4. Un bureau cloisonné est à compartimenter par des parois résistantes au feu 30 minutes
+(EI 30) et des portes pleines.
+7.2. Escaliers
+7.2.1. Dans les bâtiments moyens, l’évacuation vers un escalier dans un compartiment d’issue,
+à partir d’une unité de bureaux paysagers ou d’une unité de bureaux combinés, doit se faire par
+un sas conforme à l’article 7.7. des dispositions générales, avec des parois EI 90.
+Conformément à l’article 7.8.1. des dispositions générales, ce sas peut faire office de palier
+d’accès à l’ascenseur si, aux autres niveaux, la cage d’ascenseur n’est pas en communication
+directe avec le compartiment comprenant l’escalier.
+Toutefois ce sas n'est pas obligatoire si une des trois conditions suivantes est remplie :
+     ➢ l'établissement est équipé d'une installation d’extinction automatique ;
+     ➢ la cage d'escalier est mise en surpression en cas d'un incendie, dans ce cas la porte doit
+       être coupe-feu 60 minutes et coupe-fumée (EI 60-C) ;
+     ➢ si la surface utile par niveau est inférieure à 300 m², la porte doit être coupe-feu 60
+       minutes et coupe-fumée (EI 60-C).
+7.2.2. En atténuation de l’article 7.1.1. ci-dessus et de l’article 7.3.3. des dispositions générales
+applicables aux bâtiments bas et moyens, des escaliers de communication internes, sans
+compartimentage, peuvent être aménagés entre deux niveaux de bureaux paysagers si la
+superficie totale de ces surfaces ne dépasse pas 1 200 m² avec un maximum de 800 m² pour un
+des deux niveaux. Les unités reliées sont à compartimenter comme indiqué à l’article 7.1.3.
+Cette surface de 1 200 m² peut être doublée si elle est protégée par une installation d’extinction
+automatique avec un maximum de 1 600 m² pour un des deux niveaux.
+
+
+
+
+ 4                                                                                 ITM-SST 1504.4
+7.2.3. En atténuation de l’article 7.1.2. ci-dessus et de l’article 7.3.3., des dispositions générales
+applicables aux bâtiments bas et moyens, des escaliers de communication internes, sans
+compartimentage, peuvent être aménagés entre 2 niveaux de bureaux combinés si la superficie
+totale de ces surfaces ne dépasse pas 600 m² avec un maximum de 400 m² pour un des niveaux.
+Les unités reliées sont à compartimenter comme indiqué à l’article 7.1.3.
+Cette surface de 600 m² peut être doublée si elle est protégée par une installation d’extinction
+automatique avec un maximum de 800 m² pour un des deux niveaux.
+7.2.4. En atténuation de l’article 7.3.3., des dispositions générales applicables aux bâtiments bas
+et moyens, des escaliers de communication intérieurs, sans compartimentage, entre deux
+niveaux aménagés en bureaux cloisonnés peuvent être réalisés si la superficie totale forme un
+compartiment secondaire qui ne dépasse pas 1 600 m². Les parois de ce compartiment
+secondaire sont résistantes au feu 60 minutes (EI 60) et les portes coupe-feu et coupe-fumée 30
+minutes (EI 30-C).
+Cette surface peut être doublée si elle est protégée par une installation d’extinction
+automatique.
+
+
+Article 8.     Evacuation de personnes
+L’effectif théorique est à calculer en fonction de 1 personne par 10 m² de la surface utile.
+
+
+Article 9.     Eclairage
+Voir dispositions générales.
+
+
+Article 10. Gestion des fumées
+Voir dispositions générales.
+
+
+Article 11. Installations techniques
+Voir dispositions générales.
+
+
+Article 12. Installations au gaz
+Voir dispositions générales.
+
+
+Article 13. Installations électriques
+Voir dispositions générales.
+
+
+Article 14. Equipements et procédures d’urgence
+Voir dispositions générales.
+
+
+
+
+ 5                                                                                  ITM-SST 1504.4
+Article 15. Moyens de secours et d’intervention
+15.1. Installation de détection incendie, d’alarme et d’alerte
+Tous les immeubles de bureau recevant du public ou non sont à équiper d’une installation de
+détection automatique d’incendie intégrale.
+15.2. Robinets d’incendie armés
+En atténuation à l’article 15.3.2 des dispositions générales applicables aux bâtiments moyens,
+des robinets d'incendie armés (R.I.A.) ne sont pas nécessaires pour la couverture des
+compartiments d’une surface inférieure à 400 m2 comprenant essentiellement des surfaces de
+bureaux et ne comprenant pas de risque important suivant l’article 7.6. des dispositions
+générales.
+15.3. Service de sécurité incendie
+Le service de sécurité incendie est composé, en fonction du nombre de personnes présentes,
+selon le tableau suivant :
+
+        Niveau de
+                                           Nombre de personnes présentes
+       qualification
+
+                               160 – 500              500 – 2000              > 2000
+
+ Préposé à la sécurité
+                                               1 (présence non requise)
+      incendie*
+
+     Agents de sécurité                                                   1 par tranche de
+                                     *                     *
+         Type M1                                                                2000
+
+     Agents de sécurité
+                                     1*                    2*
+         Type M2
+
+     Agents de sécurité   2 % du nombre de personnes présentes avec un minimum d’un agent
+         Type M3                 pour tout étage d’une superficie de bureau > 400 m2
+
+*Type M2 pour les bâtiments bas, moyens et élevés de type A, type M1 pour les bâtiments élevés
+de type B et C
+
+
+Article 16. Registre de sécurité
+Voir dispositions générales.
+
+
+Article 17. Réceptions et contrôles
+Voir dispositions générales.
+
+
+
+
+ 6                                                                           ITM-SST 1504.4
+

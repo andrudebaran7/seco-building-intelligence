@@ -1,0 +1,431 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                              Strassen, février 2009
+
+
+                       Le présent texte a été établi par l’Inspection du Travail et des Mines et
+                           le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                                  ITM-SST 1508.2
+
+
+                                          Prescriptions de sécurité incendie
+
+                                              DISPOSITIONS SPÉCIFIQUES
+       Etablissements de vente – Centres Commerciaux
+
+                                               Le présent document comporte 8 pages
+
+                                                                    SOMMAIRE
+    Article                                                                                                            Page
+
+     1)                     Objectifs et domaine d'application                                                          2
+     2)                     Définitions                                                                                 2
+     3)                     Implantation                                                                                3
+     4)                     Aménagements extérieurs                                                                     3
+     5)                     Construction                                                                                3
+     6)                     Aménagements intérieurs                                                                     3
+     7)                     Compartimentage                                                                             4
+     8)                     Evacuation de personnes, issues et dégagements intérieurs                                   5
+     9)                     Eclairage                                                                                   6
+    10)                     Désenfumage (Evacuation de fumée et de chaleur)                                             6
+    11)                     Installations techniques                                                                    7
+    12)                     Installations au gaz                                                                        7
+    13)                     Installations électriques                                                                   7
+    14)                     Prévention de panique en cas d'alarme                                                       7
+    15)                     Moyens de secours et d'intervention                                                         7
+    16)                     Registre de sécurité                                                                        8
+    17)                     Réception et contrôles                                                                      8
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction, Département Sécurité et Santé
+          Adresse postale : Boîte postale 27   L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs, L-2361 Strassen    Tél : 247-86145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er. - Objectif et domaine d'application
+
+1.1. Généralités
+Les établissements sont soumis aux dispositions générales ITM-SST 1501 ; ITM-SST 1502 ;
+ITM-SST 1503 ; applicables à tous les établissements et aux présentes dispositions.
+
+1.2. Domaine d’application
+
+Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité, de santé, d'hygiène, de salubrité et de commodité par rapport au personnel et au
+public de tous les établissements dont la surface est supérieure à 300 m².
+
+Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en cas,
+mais uniquement si sont prises de mesures de rechange présentant des garanties de sécurité au
+moins équivalentes.
+
+Art. 2. - Définitions
+
+2.1. Les définitions générales sont données par la prescription ITM-SST 1500.
+
+2.2. Etablissements de vente / Centres commerciaux
+
+Les établissements concernés par les dispositions ci-après sont :
+              ¾ les magasins,
+              ¾ les centres commerciaux avec ou sans mail,
+              ¾ les supermarchés et tout autre établissement dont l’activité principale est la
+                  vente de produits destinés au public, professionnel ou non.
+Ces établissements sont composés d’une ou plusieurs surfaces de vente proprement dites et de
+locaux dits attenants directement liés à l’activité des établissements (stockages, préparations
+des produits...).
+
+Il y a lieu de considérer la surface totale d’un établissement comme étant la somme des
+surfaces de vente et des locaux attenants.
+
+2.3. Centre commercial
+
+Le centre commercial est composé de plusieurs établissements de vente et d’autres
+établissements recevant du public comme par exemple des bars, restaurants, salles de
+spectacles, cinémas, reliés ou non par un mail.
+
+2.4. Mail
+
+Les mails sont des espaces qui s’assimilent aux passages couverts fermés voire à des galeries
+de liaison (galeries marchandes). Ils servent de liaison, de communication et d’évacuation
+pour les différents établissements composant le centre commercial.
+
+2.5. Etablissements de vente à risques particuliers
+
+Certains établissements de vente présentent des risques particuliers d’incendie qu’il s’agisse
+du potentiel calorifique ou du risque élevé de propagation du feu.
+
+
+page 2 de 8 pages                                                                ITM-SST 1508.2
+Il s’agit principalement des magasins de meubles, de vêtements, de peintures, solvants et
+produits divers, de jouets, de matériaux de construction (bois et dérivés).
+
+2.6. Les différents établissements sont classés en trois catégories :
+         ¾ Etablissements de catégorie I
+              ¾ tout établissement ayant une surface totale supérieure à 3.000 m2,
+              ¾ tout établissement de plus de trois niveaux ayant une surface totale
+                   supérieure à 2.000 m2.
+         ¾ Etablissements de catégorie II
+              ¾ tout établissement ayant une surface totale comprise entre 2.000 m2 et
+                   3.000 m2,
+              ¾ tout établissement de plus de trois niveaux ayant une surface totale
+                   comprise entre 1.000 m2 et 2.000 m2.
+         ¾ Etablissements de catégorie III
+               ¾ tout établissement ayant une surface totale comprise entre 300 m2 et
+                   2.000 m2,
+
+Art. 3. - Implantation
+
+Voir dispositions générales.
+
+Art. 4. - Aménagements extérieurs
+
+4.1. En complément des dispositions générales, toutes les mesures devront être prises pour
+sécuriser au maximum le public au droit des sorties de secours qu’il s’agisse des accès
+principaux ou des sorties non utilisées habituellement. Une distance de sécurité de 6 m entre
+la voie de circulation et les accès principaux de l’établissement, pour les établissements de
+1ère catégorie est à prévoir.
+
+4.2. Pour les établissements dont la surface au sol est supérieure à 2.000 m² (emprise au sol
+des constructions), une voie de circulation périphérique devra être conçue de façon à
+permettre la libre circulation des services de secours. Au droit des accès de livraisons, des
+élargissements de chaussées doivent être prévus afin de libérer en permanence cette voie.
+
+4.3. Dans le cas où des barrières ou tout autre système de fermeture étaient mis en place afin
+de sécuriser l’établissement pendant ou en dehors des heures d’ouverture, ils devront être
+soumis à l’avis et à l’autorisation des services d’incendie. Ils ne doivent en aucun cas
+empêcher ou freiner l’intervention des services d’incendie.
+
+Art. 5. - Construction
+
+Aucune exigence de stabilité au feu de la structure n’est requise pour les établissements à
+simple rez-de-chaussée équipé d’une extinction automatique.
+
+Art. 6. - Aménagements intérieurs
+
+6.1. Réaction au feu des matériaux et des aménagements intérieurs
+
+6.1.1. Les draperies, tentures et tout autre élément de décoration permanente doivent être
+difficilement inflammables (Euroclasse C s2d1).
+
+
+
+page 3 de 8 pages                                                                ITM-SST 1508.2
+6.1.2. Les éléments de décoration ou d’habillages flottants non permanents doivent être
+moyennement inflammables (Euroclasse D s2d2). Toutefois, des dérogations pourront être
+accordées par l'autorité compétente en ce qui concerne les guirlandes et objets légers de
+décoration.
+
+6.2. Aménagement des mails
+
+6.2.1. Les mails peuvent recevoir des aménagements fixes ou provisoires du type ventes
+promotionnelles, bars, aires de repos, kiosques divers. Ces aménagements seront situés
+obligatoirement sur l’axe du mail. Des circulations principales d’une largeur minimale de 3 m
+sont à prévoir de part et d’autre des aménagements (le long des boutiques formant le mail)
+recoupées par des circulations secondaires d’une largeur minimale de 2 m espacée au
+maximum de 10 m.
+
+6.2.2. Un plan d’aménagement sera établi dès le permis de construire et sera soumis aux
+autorités compétentes.
+
+Ce plan indiquera clairement les zones qui pourront recevoir ces aménagements.
+
+6.3. Aménagement des surfaces de vente
+
+6.3.1. Les circulations principales devront avoir une largeur libre minimale de 3,00 m.
+
+6.3.2. Les circulations secondaires devront avoir une largeur libre minimale de 2,00 m.
+
+6.3.3. Les rayonnages devront avoir une longueur maximale de 15 m.
+
+6.3.4. Aucune de ces circulations ne devra être en cul-de-sac.
+
+6.3.5. Les îlots aménagés sans rayonnage devront être conçus de façon à permettre, dans tous
+les cas, une évacuation facile et rapide du public en cas de panique.
+
+6.3.6. Un plan d’aménagement sera établi dès le permis de construire et sera soumis aux
+autorités compétentes.
+
+6.4. Mesures particulières
+
+L’utilisation d’appareils présentant des dangers devra faire l’objet d’informations voire de
+formations spécifiques (par exemple les appareils à laser....).
+
+Art. 7. - Compartimentage
+
+7.1. L’article 7.2.1 des dispositions générales n’est pas applicable.
+
+7.2. Les commerces installés dans les mails ou galeries marchandes doivent être isolés les
+uns par rapport aux autres par des parois (murs et planchers) coupe-feu 60 minutes (EI60) au
+moins. Dans le cas où l’établissement est équipé d’une installation d’extinction automatique,
+aucune résistance au feu de ces parois n’est exigée.
+
+Les façades vers le mail de ces commerces n’ont pas de critère de résistance au feu à
+respecter.
+
+
+
+page 4 de 8 pages                                                                 ITM-SST 1508.2
+7.3. Toutefois au droit des écrans de cantonnements situés dans les mails (article 10.8), il y a
+lieu de mettre en place un isolement de façade latéral de 1 m satisfaisant au critère pare
+flamme une heure.
+
+Art. 8. - Evacuation de personnes, issues et dégagements intérieurs
+
+8.1. L'effectif du public est déterminé en prenant en compte les nombres suivants :
+         Mail                             1p / 5 m2           indépendamment du niveau
+         Les mails ne sont pas comptabilisés pour les étages réservés exclusivement à la
+         restauration.
+         Etablissement de moins de 600 m2 1p / 10 m2                  au rez-de-chaussée
+                                              1p / 20 m2              aux étages et sous-sols
+         20 % de la surface brute est déduite pour stocks, sanitaires, réfectoire, bureau
+         Etablissement de plus de 600 m2      1p / 3,3 m2            indépendamment du niveau
+
+         Magasin de meubles, de jardinage     1p / 25 m2             indépendamment du niveau
+
+         Restaurants                          1p / 1 m2               indépendamment du niveau
+         30 % de la surface brute est déduite pour cuisine, sanitaires, comptoirs etc.
+
+8.2. En aggravation de l’article 8.4.1 des dispositions générales, pour les différents
+établissements et les mails dont la surface est supérieure à 600 m², la largeur de ces sorties
+doit être calculée sur la base de 1 cm par personne pour les 300 premiers visiteurs et 0,75 cm
+par personne pour plus de 300.
+
+8.3. En aggravation de l’article 8.8.3 des dispositions générales, pour les différents
+établissements et les mails dont la surface est supérieure à 600 m², la largeur de ces escaliers
+doit être calculée sur la base de 1,25 cm par personne pour un escalier descendant et de 2 cm
+par personne pour un escalier montant.
+
+8.4. Les établissements d’une surface supérieure à 300 m2 doivent offrir à 50 % de l’effectif
+des sorties indépendantes des mails soit directement sur l’extérieur soit par des compartiments
+d’issues.
+
+8.5. Les escalators peuvent être pris en considération dans le calcul des largeurs d’évacuation
+réglementaires. Toutefois ils ne peuvent être pris en compte dans le nombre de ces escaliers.
+
+La largeur d’évacuation considérée pour les escalators est calculée sur la base de 3,75 cm par
+personne pour un escalator descendant et de 6,00 cm par personne pour un escalator montant.
+Les escalators doivent s’arrêter lors d’une détection incendie.
+
+Les travellators par contre ne doivent pas être pris en considération dans le calcul des largeurs
+d’évacuation réglementaires. Ils doivent continuer à fonctionner même lors d’une détection
+incendie.
+
+8.6. En allègement des dispositions générales, pour le calcul de la largeur des escaliers, un
+taux d’occupation de 75 % peut être appliqué pour le cumul des personnes à évacuer de deux
+ou plusieurs niveaux.
+
+
+
+
+page 5 de 8 pages                                                                    ITM-SST 1508.2
+8.7. Le calcul du nombre et de la largeur des sorties doit se faire à partir de l’effectif théorique
+total pour chaque niveau et chaque établissement.
+
+Au niveau d’évacuation le calcul du nombre et de la largeur des sorties doit se faire à partir de
+l’effectif total des personnes du niveau d’évacuation et des personnes en provenance des
+étages supérieurs, par les escaliers intérieurs et escalators.
+
+Le nombre de sorties du mail doit être calculé à partir de l’effectif cumulé du mail et de tous
+les établissements donnant vers le mail.
+
+8.8. De tout point d’un établissement, le public doit parcourir au maximum 35 m pour
+atteindre une issue de secours donnant, directement ou par l’intermédiaire d’un compartiment
+d’issue, sur l’extérieur ou pour atteindre le mail (par exemple au droit des caisses).
+
+8.9. De tout point du mail, le public doit parcourir au maximum 35 m pour atteindre une sortie
+donnant directement sur l’extérieur ou vers un compartiment d’issues donnant vers l’extérieur.
+
+8.10. Les caisses doivent respecter les dispositions suivantes :
+             ¾ de part et d'autres de l’ensemble des caisses des dégagements de 1,20 m au
+               moins devront être aménagés.
+             ¾ si le nombre de caisses est supérieur à dix, il y a lieu d’aménager des
+               dégagements intermédiaires de 1,20 m au moins, par groupe de dix caisses et
+               judicieusement répartis.
+
+Art. 9. - Eclairage
+
+Pour les établissements de catégorie I, un éclairage de remplacement devra être mis en œuvre
+conformément à l’article 9.2 des dispositions générales.
+
+Art. 10. - Désenfumage (Evacuation de fumée et de chaleur)
+
+10.1. Tous les établissements d’une surface supérieure à 600 m² doivent être désenfumés.
+Cette surface est ramenée à 300 m² pour les établissements présentant des risques particuliers
+d’incendie.
+
+10.2. Tous les locaux de réserve, de stockage d’une surface supérieure à 600 m² doivent être
+désenfumés. Cette surface est ramenée à 300 m² pour les espaces de stockage des
+établissements de vente présentant des risques particuliers d’incendie.
+
+10.3. Les mails étant assimilés à des passages couverts fermés ou à des galeries de liaison
+devront être désenfumés.
+
+10.4. Le désenfumage des locaux situés en sous-sol devra obligatoirement être mécanique et
+asservie à la détection incendie.
+
+10.5. Le désenfumage des locaux situés en étage ou en rez-de-chaussée peut être naturel ou
+mécanique.
+
+
+
+
+page 6 de 8 pages                                                                     ITM-SST 1508.2
+10.6. La hauteur du niveau inférieur de la couche de fumée par rapport au sol doit être d'au
+moins 2,50 m.
+
+10.7. Si les risques d'inflammation et d'embrasement généralisés sont importants (stockage), le
+niveau inférieur de la couche de fumée doit se trouver à 0,5 m au dessus des marchandises
+stockées.
+
+10.8. La superficie d'un canton de fumée ne peut être supérieure à 1.600 m2. Les
+établissements doivent être séparés des mails par des écrans de cantonnement. La longueur
+d'un canton de fumée ne peut excéder 40 m pour les surfaces de vente, 60 m pour les mails et
+galeries marchandes. Les écrans de cantonnement devront être coupe fumée 30 minutes et au
+moins difficilement inflammables (Euroclasse B s1d0).
+
+Art. 11. - Installations techniques
+
+Voir dispositions générales.
+
+Art. 12. - Installations au gaz
+
+Voir dispositions générales.
+
+Art. 13. - Installations électriques
+
+Voir dispositions générales.
+
+Art. 14. - Prévention de panique en cas d'alarme
+
+Voir dispositions générales.
+
+Art. 15. - Moyens de secours et d'intervention
+
+15.1. Alarme
+
+15.1.1. Le fonctionnement de l'alarme générale doit être interrompu par diffusion d'un
+message préenregistré préconisant en clair l'ordre d'évacuation. Il doit également mettre à
+l'arrêt la sonorisation et commander la mise en lumière normale ou d'ambiance.
+
+15.1.2. Toutefois, les établissements de catégorie I seront équipés d’une alarme sélective
+adressée au service de sécurité qui prendra alors toutes les dispositions pour évacuer le public
+sans panique ou qui prendra la décision de donner l’alarme générale.
+
+15.2. Détection automatique d’incendie
+
+Tous les établissements devront être équipés d’une détection automatique d’incendie.
+Tous les locaux et espaces, accessibles ou non au public, devront être équipés de détecteurs à
+incendie.
+
+15.3. Robinets d’incendie armés
+
+Dans les établissements d’une surface supérieure à 600 m2 des robinets d’incendie armés sont
+obligatoires.
+
+
+
+
+page 7 de 8 pages                                                                 ITM-SST 1508.2
+15.4. Extinction automatique
+
+15.4.1. Les établissements de catégorie I devront être équipés d’un système d’extinction
+automatique.
+
+15.4.2. Les établissements de catégorie II, de plus de trois niveaux ou présentant des risques
+particuliers d’incendie, devront être équipés d’un système d’extinction automatique.
+
+15.4.3. Les établissements de catégorie III, de plus de trois niveaux ou présentant des risques
+particuliers d’incendie, pourront à la demande des autorités compétentes, être équipés d’un
+système d’extinction automatique.
+
+15.4.4. Lorsque l’établissement doit être équipé d’une installation d'extinction automatique,
+tous les locaux, qu’ils soient à risques ou non, devront être équipés.
+
+15.5. Service de sécurité
+
+15.5.1. L'exploitant doit prendre toutes les mesures nécessaires pour organiser un service de
+sécurité. Celui-ci devra être en mesure d'assurer une première intervention en cas d'incendie et
+les premiers secours en cas de malaise.
+
+15.5.2. L'effectif minimal de ce service est de deux personnes pour un effectif inférieur à
+3.000 et une personne supplémentaire par tranche de 1.000 personnes supplémentaires.
+
+15.5.3. Le personnel formant ce service de sécurité devra avoir été formé aux premiers
+secours, à la manipulation des extincteurs et RIA et aux mesures à prendre quant à la gestion
+de l'évacuation des personnes.
+
+15.5.4. Pour un effectif inférieur à 3.000 personnes, le service de sécurité est mis à disposition
+par l'exploitant conformément à l’article 15.4.3. ci-dessus.
+
+15.5.5. Pour un effectif supérieur à 3.000 personnes, le service de sécurité est obligatoirement
+composé de professionnels ayant toutes les qualifications requises. De plus la sécurité devra
+être assuré nuit et jour, sans discontinuité.
+
+Art. 16. - Registre de sécurité
+
+Voir dispositions générales.
+
+Article 17. - Réception et contrôles
+
+Voir dispositions générales.
+
+
+                    Visa du Directeur adjoint                Mise en vigueur, le 27 février 2009
+                    de l’Inspection du travail
+                           et des mines                                       s.
+
+                                s.                                      Paul WEBER
+                                                                          Directeur
+                       Robert HUBERTY                             de l’Inspection du travail
+                                                                         et des mines
+
+
+
+
+page 8 de 8 pages                                                                       ITM-SST 1508.2
+

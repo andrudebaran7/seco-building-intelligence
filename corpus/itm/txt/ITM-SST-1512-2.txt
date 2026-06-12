@@ -1,0 +1,512 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                            Strassen, septembre 2012
+
+
+
+
+                                                                                            ITM-SST 1512.2
+
+
+                                              Installations de natations
+
+                                                Dispositions spécifiques
+
+
+                                                Prescriptions de sécurité types
+                                                U
+
+
+
+
+                                              Le présent document comporte 10 pages
+
+
+                                                                   Sommaire
+                                                                   U
+
+
+
+
+    Article                                                                                                         Page
+
+     1.                              Objectifs et champ d'application                                                  2
+     2.                              Terminologie                                                                      2
+     3.                              Implantation                                                                      2
+     4.                              Aménagements extérieurs                                                           3
+     5.                              Construction                                                                      3
+     6.                              Aménagements intérieurs                                                           5
+     7.                              Compartimentage                                                                   5
+     8.                              Evacuation de personnes, issues et dégagements intérieurs                         5
+     9.                              Eclairage                                                                         5
+    10.                              Désenfumage (évacuation de fumée et de chaleur)                                   6
+    11.                              Installations techniques                                                          6
+    12.                              Installations au gaz                                                              6
+    13.                              Installations électriques                                                         6
+    14.                              Prévention de panique en cas d’alarme                                             7
+    15.                              Moyens de secours et d’intervention                                               7
+    16.                              Registre de sécurité                                                              7
+    17.                              Réceptions et contrôles                                                           7
+    18.                              Encadrement des bassins                                                           8
+          _____________________________________________________________________________________________________________________
+          Direction, Département Sécurité et Santé
+          Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+          Bureaux: 3, rue des Primeurs, L-2361 Strassen    Tél: 247-86145   Fax: 49 14 47
+          Site Internet: http://www.itm.lu
+Art. 1. - Objectifs et champ d'application
+
+1.1 Généralités
+
+Les établissements comportant des installations de natation sont en principe soumis aux
+dispositions générales ITM-SST 1501 / 1502 / 1503, applicables à tous les établissements et
+aux dispositions spécifiques qui leur sont propres.
+
+1.1.1 Prescriptions particulières
+
+Pour la conception et le fonctionnement des installations de natation, il y a lieu d'appliquer la
+norme européenne EN 15288-1 « Schwimmbäder Teil 1 : Sicherheitstechnische
+Anforderungen an Planung und Bau » et EN 15288-2 « Schwimmbäder Teil 2 :
+Sicherheitstechnische Anforderungen an den Betrieb ».
+
+1.2 Domaine d’application
+
+Les présentes prescriptions ont pour objectif de spécifier les règles générales de sécurité, de
+santé, d’hygiène, de salubrité et de commodité par rapport au public et au personnel,
+auxquelles doivent répondre la conception, la construction et l’aménagement des installations
+de natation.
+
+Des allégements ou dispenses aux présentes prescriptions peuvent être accordés, mais
+uniquement si des mesures complémentaires, présentant des garanties de sécurité au moins
+équivalentes, sont proposées.
+
+1.3 Normes et règles techniques
+
+Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à appliquer
+lors de la conception, de la réalisation et de l'exploitation des installations de natation sont en
+particulier les présentes prescriptions, la norme allemande DIN 19643 pour la détermination
+du type de traitement des eaux à mettre en œuvre, l’Eurocode en ce qui concerne le calcul des
+structures, les documents Merkblätter 822,823 et 831 de l’ISER (Informationsstelle Edelstahl
+Rostfrei) et en général les normes et règles techniques nationales appliquées dans les pays de
+la Communauté Européenne, ou celles reconnues comme équivalentes par l'Inspection du
+travail et des mines.
+
+
+Art. 2. - Terminologie
+
+2.1. Installations de natation
+
+Les établissements concernés par les dispositions ci-après sont les installations de natation,
+prévues par la nomenclature relative aux établissements classés.
+
+Art. 3. - Implantation
+
+Voir dispositions générales ci-dessus (article 1.1)
+
+
+
+
+Page 2 sur 10 pages                                                                ITM-SST 1512.2
+Art. 4. - Aménagements extérieurs
+
+Voir dispositions générales ci-dessus (article 1.1)
+
+
+Art. 5. - Construction
+
+5.1. Stabilité et résistance au feu des constructions
+
+Au cas où les prescriptions ITM-SST 1501 / 1502 / 1503 ne sont pas d’application, la stabilité
+au feu de la construction ainsi que les éléments structuraux assurant la stabilité de l'ensemble
+ou d'une partie du bâtiment, tels que colonnes, parois portantes, poutres principales, planchers
+finis et autres parties essentielles constituant la structure du bâtiment, présenteront une
+stabilité au feu qui est à convenir cas par cas avec les autorités compétentes en fonction de
+l'utilisation du bâtiment et de la charge calorifique présente.
+
+5.2. Résistance à l’humidité et à l’environnement riche en chlorures
+
+La construction, et en particulier tous les éléments porteurs de la structure doivent être
+parfaitement résistants à l'humidité et à l'environnement riches en chlorures présents dans les
+installations de natation.
+
+En général, toutes les parties de la construction et tous les équipements et dispositifs qui ont
+une fonction statique doivent être facilement accessibles pour un contrôle visuel régulier.
+L'emploi de faux plafonds non visitables est interdit.
+
+5.2.1. Matériaux destinés aux supports et fixations
+
+5.2.1.1 Aciers galvanisés
+
+L'acier galvanisé s'est avéré suffisamment résistant à l'environnement riche en chlorures
+présents dans les piscines. Pour conserver ses propriétés, il est primordial que l'élément soit
+complètement recouvert d'une couche de galvanisation intacte. Toutes les détériorations de la
+couche de galvanisation protectrice suites à des découpes ou manutentions sont à protéger de
+façon adéquate. Il en est de même pour les éléments recouverts d'une couche de peinture
+protectrice, qui est à réparer de façon adéquate en cas de lésion.
+
+Les constructions doivent être conçues de façon à éviter les interstices afin de minimiser le
+risque de corrosion par fissurage. En cas de pliage, les rayons de courbure minimaux
+empêchant la détérioration de la couche protectrice et l'apparition de fissures sont à respecter
+(rayon de courbure minimum de 2 x s, pour les sections plates d'une épaisseur s allant jusqu'à
+12 mm).
+
+5.2.1.2. Aciers inoxydables
+
+En particulier, l'emploi d'aciers inoxydables demande des précautions accrues. La résistance
+aux chlorures et aux atmosphères chlorées des aciers inoxydables couramment employés dans
+le domaine de la construction est souvent insuffisante. La sélection de l'acier inoxydable doit
+tenir compte des contraintes et des concentrations en chlorures prévisibles.
+
+
+
+
+Page 3 sur 10 pages                                                              ITM-SST 1512.2
+En général, l'emploi d'aciers inoxydables est fortement déconseillé dans des endroits où un
+nettoyage et des inspections visuelles régulières ne sont pas possibles.
+
+L’utilisation d'aciers inoxydables doit tenir compte des conditions et recommandations les
+plus récentes en vigueur de la prescription allemande Allgemeine bauaufsichtliche Zulassung
+Z 30.3-6, Erzeugnisse, Verbindungsmittel und Bauteile aus nichtrostenden Stählen, éditée par
+Deutsches Institut für Bautechnik et des recommandations des guides Merkblatt 831,
+Edelstahl Rostfrei in Schwimmbädern, Merkblatt 822, Die Verarbeitung von Edelstahl
+Rostfrei édités par Informationsstelle Edelstahl Rostfrei et Merkblatt 823, Schweißen von
+Edelstahl Rostfrei.
+
+En cas de traitement mécanique, thermique ou chimique d'éléments en acier inoxydable, il est
+important de veiller à ce que la passivité des surfaces reste intacte et soit rétablie, le cas
+échéant, par un décapage et une passivation adaptés.
+
+Les constructions en acier inoxydable doivent être conçues de façon à éviter les interstices
+afin de minimiser le risque de corrosion par fissurage. En cas de pliage, les rayons de
+courbure minimaux empêchant l'apparition de fissures sont à respecter (rayon de courbure
+minimum de 1 x s pour les sections plates d'une épaisseur s jusqu'à 12 mm, 6 x ∅ pour les
+tuyaux).
+
+5.2.1.3. Matières plastiques
+
+L’utilisation de matières plastiques doit être accordée au préalable par les autorités
+compétentes.
+
+5.2.2. Structures en bois
+
+En cas d’utilisation de structures en bois du type lamellé-collé, la résistance aux chlorures des
+éléments en lamellé-collé doit être garantie (compatibilité au niveau de la colle utilisée). Les
+éléments de fixation doivent résister aux ions de chlorures.
+
+5.2.3. Béton armé
+
+Les éléments en béton armé en contact avec l'environnement riche en chlorures sont à
+dimensionner en conséquence (enrobage suffisant, type de béton adapté).
+
+5.3. Charges de neige
+
+Les charges de neige susceptibles de solliciter les constructions sont à définir en accord avec
+l’autorité compétente conformément à la norme Eurocode 1 ou toute autre norme au moins
+équivalente.
+
+
+
+
+Page 4 sur 10 pages                                                               ITM-SST 1512.2
+Art. 6. - Aménagements intérieurs
+
+6.1. Aménagement des locaux des produits chimiques dangereux
+
+Les différents produits chimiques, utilisé pour la chloration d’eau, dont le mélange peut
+provoquer de gaz nocifs, sont à séparer d’une manière efficace.
+
+
+Art. 7. - Compartimentage
+
+7.1. Locaux à risques
+
+7.1.1. Locaux de stockage de produits chimiques
+
+Le stockage des produits chimiques utilisés pour le traitement des eaux de piscine doit se faire
+dans un local séparé du local technique où le traitement des eaux est mis en œuvre, sauf s’il
+s’agit de produit chimiques non classés comme dangereux (sel NaCl utilisé dans les
+installations de production de chlore par électrolyse).
+
+Les locaux de stockage des produits chimiques sont à considérer comme des locaux à risques
+importants. Ces locaux doivent être ventilés de façon efficace.
+
+7.1.2. Vestiaires
+
+Les vestiaires peuvent former une unité avec les bassins de natation.
+
+
+Art. 8. - Evacuation de personnes, issues et dégagements intérieurs
+
+Lors de l’approche d’un orage, les usagers des piscines à l’air libre doivent quitter l’eau.
+L’exploitant de la piscine doit en informer les usagers par des moyens appropriés.
+
+
+Art. 9. - Eclairage et Equipements électriques
+
+9.1. L’intensité de l’éclairage doit être de 200 Lux pour les bassins de natation, les locaux de
+douches et les vestiaires.
+
+9.2. Les luminaires installés dans la zone des bassins et leurs fixations doivent être en
+matériaux résistants à la corrosion par le chlore (voir également article 11. « Installations
+techniques »).
+
+9.3. Tous les circuits électriques sans exceptions sont à protéger par des interrupteurs
+différentiels 30 mA.
+
+9.4. L’éclairage des bassins est à réaliser de façon indirecte, pour éviter les problèmes
+d’éblouissement des nageurs. Les aires de repos peuvent être équipées d’un éclairage direct.
+
+9.5. Le fond du bassin doit être bien visible en permanence.
+
+9.6. Un éclairage de sécurité doit garantir que le fond du bassin ainsi que le plan d’eau soit
+bien visible en cas de défaillance de l’éclairage normal.
+
+
+Page 5 sur 10 pages                                                              ITM-SST 1512.2
+Art. 10. - Désenfumage (évacuation de fumée et de chaleur)
+
+En aggravation des dispositions générales le désenfumage est à convenir cas par cas avec
+l’autorité compétente en fonction de l'utilisation du bâtiment et de la charge calorifique
+présente.
+
+
+Art. 11. - Installations techniques
+
+11.1. Généralités
+
+Toutes les installations techniques et leurs systèmes de fixation utilisés dans la zone des
+bassins doivent être parfaitement résistants à l'environnement riche en chlorures présents dans
+les installations de natation.
+
+Le dimensionnement de l’installation de ventilation de la zone des bassins doit se faire suivant
+les normes DIN actuellement en vigueur ou toute autre norme reconnue comme au moins
+équivalente par l’autorité compétente. L'installation de ventilation doit être conçue de façon à
+éviter des volumes d'air stagnants dans la zone des bassins.
+
+Le maître-nageur doit procéder régulièrement au contrôle de l’installation de traitement des
+eaux (contrôle des paramètres de la qualité de l’eau) pour s’assurer du bon fonctionnement de
+l’installation.
+
+11.2. Traitements de l’eau
+
+D’éventuels installations de chloration d’eau doivent répondre aux prescriptions de la
+publication ITM-CL 175.1 Installations de chloration d’eau.
+D'éventuels installations d’ozonisation d’eau doivent répondre aux prescriptions de la
+publication ITM-CL 201.1 Installations d’ozonisation d’eau, et sont soumise d’office à la
+présentation d’une étude des risques et d’un rapport de sécurité requis en vertu du règlement
+grand-ducal du 14 septembre 2000 concernant les études des risques et les rapports de
+sécurité.
+
+Le traitement des eaux de piscine par du chlore liquéfié sous pression n’est plus accepté.
+
+11.3. Fond mobile
+
+Les fonds mobile éventuels doivent répondre à la norme EN 13451 Équipement de piscine -
+Partie 11 : exigences de sécurité et méthodes d'essai complémentaires spécifiques aux fonds
+mobiles et cloisons mobiles de piscines.
+
+
+Art. 12. - Installations au gaz
+
+Voir dispositions générales ci-dessus (article 1.1)
+
+
+Art. 13. - Installations électriques
+
+Voir dispositions générales ci-dessus (article 1.1)
+
+
+
+Page 6 sur 10 pages                                                              ITM-SST 1512.2
+Art. 14. - Prévention de panique en cas d’alarme
+
+Voir dispositions générales ci-dessus (article 1.1)
+
+
+Art. 15. - Moyens de secours et d’intervention
+
+
+15.1. Robinets d’incendie armé (RIA)
+
+La nécessité d’installer des robinets d’incendie armés est à discuter avec l’autorité
+compétente.
+
+15.2. Installations de détection
+
+15.2.1. Installation de détection incendie, d’alarme et d’alerte
+
+Une installation de détection incendie automatique est obligatoire dans tous les locaux hors
+eau (restaurants, vestiaires, locaux techniques, etc.)
+
+15.2.2. Installation de détection de gaz chlorés
+
+Une installation de détection de gaz chlorés doit être mise en place dans tous les locaux
+(locaux techniques principalement), où un tel gaz est susceptible de se dégager.
+
+
+Art. 16. - Registre de sécurité
+
+Voir dispositions générales ci-dessus (article 1.1)
+
+
+Art. 17. - Réception et contrôles
+
+
+17.1. Contrôle préalable
+
+17.1.1 Sans préjudice des dispositions légales concernant certaines installations spécifiques
+       tels que: les ascenseurs et les appareils à pression, un contrôle préalable peut être
+       demandé par l’Inspection du travail et des mines, dont notamment :
+         - un contrôle préalable des plans de construction,
+         - un contrôle préalable des installations existantes de l’établissement dans le cadre
+             d’une extension,
+         - un contrôle préalable des installations existantes dans le cadre d’une mise en
+             conformité de l’établissement,
+
+17.2. Réception
+
+17.2.1 Une réception générale comprenant la réception des installations techniques et de
+       sécurité est obligatoire.
+
+
+
+
+Page 7 sur 10 pages                                                            ITM-SST 1512.2
+17.2.2 Afin d’être conforme aux exigences de l’article 5.2., des échantillons doivent être mis à
+       disposition aux organismes de contrôle agréé.
+
+17.2.3 Les rapports de réception sont à soumettre par l’organisme pour visa à l'Inspection du
+       travail et des mines et dont il fait tenir ensuite des copies à son commanditaire et à
+       l'exploitant. L'ensemble de ces pièces doit être versé au registre de sécurité.
+
+17.3. Contrôles périodiques
+
+17.3.1 Sans préjudice de leur entretien conforme et régulier, les dispositifs de sécurité et les
+       installations techniques doivent subir un premier contrôle par un organisme de
+       contrôle après une durée de fonctionnement d'une année. Si le contrôle ne fait pas état
+       d'anomalies, le prochain contrôle est prescrit après une période de fonctionnement de 5
+       ans. En cas d'anomalie constatée, la date du prochain contrôle est fixée par l'Inspection
+       du travail et des mines compte tenu de la nature et de la gravité du défaut.
+
+17.3.2 Ces contrôles périodiques sont à effectuer suivant les dispositifs légaux et
+       réglementaires en vigueur et, à défaut, suivant les règles de l'art.
+
+17.3.3 Au-delà des périodicités normales, des contrôles intermédiaires ou supplémentaires
+       doivent être effectués, notamment en cas de doute justifié, en cas de dérangements
+       fréquents et à la suite de réparations ou de transformations.
+
+17.3.4 Les rapports des contrôles doivent être soumis pour visa par l'organisme de contrôle à
+       l'Inspection du travail et des mines.
+
+
+Art. 18. - Encadrement des bassins
+
+La surveillance des bassins de natation est à garantir en fonction du type d’exploitation. A cet
+effet, il y a lieu de faire la distinction entre les établissements où la natation est l’activité
+principale, y compris les sites de baignades exploités commercialement, dénommé par la suite
+piscine publique, et les piscines dans les hôtels, campings ou établissements similaires où la
+natation est considérée comme un service complémentaire à l’activité primaire de
+l’établissement.
+
+Dans tous les cas, la natation solitaire est interdite sans surveillance du bassin. Cette
+surveillance pourra être assurée par toute personne sans qualification qui devra se trouver
+dans ou près du bassin, ou par un dispositif de surveillance autonome (p.ex. caméras
+appropriées).
+
+Toute personne habilitée à porter du secours doit indépendamment de son degré de formation
+être détenteur d’une attestation de formation de base en matière de secourisme (formation de
+premiers secours).
+
+Les critères fondamentaux cités ci-dessous sont à prendre sans préjudice des dispositions du
+règlement grand-ducal du 31 juillet 1990 établissant des mesures de sécurité dans l’intérêt de
+la natation scolaire.
+
+
+
+
+Page 8 sur 10 pages                                                               ITM-SST 1512.2
+18.1. Hôtels et établissements similaires
+
+Les installations de natation dans les hôtels et établissements similaires sont à surveiller en
+permanence par du personnel majeur, ayant au moins le « Brevet Elémentaire de Sauvetage de
+la Fédération Luxembourgeoise de Natation et de Sauvetage (FLNS) » (ancien 1e degré)
+dispensé par cette fédération, ou un brevet au moins équivalent.
+
+En allégement à ce qui précède, pour les piscines dans les hôtels ou établissements similaires
+non ouverts au public accueillant moins de 15 personnes simultanément, le personnel de
+surveillance précité n’est pas obligé de surveiller en permanence le bassin pendant les heures
+d’ouverture de la piscine, mais doit être présent dans l’établissement, accessible à tout
+moment et devra ainsi, lors d’une alarme, être en mesure de porter secours.
+L’alarme peut être déclenchée de trois façons, à savoir :
+   - par un bouton poussoir installé près du bassin ;
+   - par un système de surveillance automatique ;
+   - par un bouton poussoir installé près du poste de la vidéosurveillance du bassin ; ce
+       poste doit obligatoirement être occupé en permanence.
+
+Toutefois, les installations de natation dans les hôtels, campings ou établissements similaires
+où la natation n’est pas à considérer comme activité principale, ouvertes occasionnellement au
+public accueillant jusqu’à 100 personnes simultanément, doivent être surveillées en
+permanence par du personnel majeur ayant au moins le brevet de nageur-sauveteur FLNS
+(ancien 2e degré) dispensé par cette fédération, ou un brevet au moins équivalent. Dans le cas
+où ces installations de natation accueillent simultanément 100 personnes ou plus, elles sont à
+traiter comme des piscines publiques.
+
+
+18.2. Piscines publiques
+
+Dans les piscines publiques au moins un maître instructeur de natation, ayant la responsabilité
+des activités de natation et des installations techniques, doit être titulaire d’un Brevet de
+Maîtrise dans le métier d’instructeur de natation ou être titulaire d’un brevet reconnu comme
+équivalent par le Ministère de l’Education Nationale et de la Formation Professionnelle. Cette
+personne doit ou bien être présente dans l’établissement ou bien être joignable.
+
+Les bassins doivent être surveillés en permanence. Afin de pouvoir définir le nombre de
+surveillants, l’exploitant assisté par le maître instructeur de natation précité doit faire une
+évaluation des risques et en conséquence prévoir du personnel de surveillance supplémentaire,
+titulaire du CATP ou d’un Brevet de Maîtrise dans le métier d’instructeur de natation ou être
+titulaire d’un brevet reconnu comme équivalent par le Ministère de l’Education Nationale et
+de la Formation Professionnelle. Cette évaluation des risques est faite en fonction, entre autre
+de la surface du ou des plans d’eau, de l’affluence des nageurs ainsi que des risques
+particuliers comme bassin à vagues, sautoir, toboggan, etc. L’évaluation des risques est à
+contresigner par le maître instructeur de natation responsable.
+
+Le personnel titulaire du CATP ou d’un Brevet de Maîtrise dans le métier d’instructeur de
+natation ou titulaire d’un brevet reconnu comme équivalent par le Ministère de l’Education
+Nationale et de la Formation Professionnelle, peut être assisté occasionnellement, le cas
+échéant, par des surveillants de bassin ayant au moins le « Brevet Elémentaire de Sauvetage
+de la Fédération Luxembourgeoise de Natation et de Sauvetage (FLNS) » (ancien 1e degré),
+
+
+
+Page 9 sur 10 pages                                                              ITM-SST 1512.2
+ou un brevet au moins équivalent. Ces surveillants de bassin doivent être âgés d’au moins 16
+ans.
+
+A titre d’exception à ce qui précède, pour les séances d’entraînements des clubs (y compris
+des séances d’Aquagym ou similaire) et les compétitions de natation, il est impératif que les
+bassins de natation soient surveillés par du personnel respectivement par des entraîneurs de
+natation ayant au moins le brevet de nageur-sauveteur FLNS (ancien 2e degré) dispensé par
+cette fédération, ou un brevet au moins équivalent, afin de garantir la sécurité des nageurs.
+Toutefois, en cas de problèmes au niveau des installations techniques, un maître instructeur de
+natation responsable de l’établissement doit être joignable.
+
+
+
+
+               Visa du Directeur adjoint                          Mise en vigueur, le
+               de l’Inspection du travail
+                      et des mines
+
+
+                                                                     Paul WEBER
+                  Robert HUBERTY                                       Directeur
+                                                               de l’Inspection du travail
+                                                                      et des mines
+
+
+
+
+Page 10 sur 10 pages                                                               ITM-SST 1512.2
+

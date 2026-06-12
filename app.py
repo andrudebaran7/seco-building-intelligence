@@ -31,7 +31,7 @@ st.set_page_config(page_title="SECO Building Intelligence", page_icon="🏗️",
                    layout="wide")
 
 MODEL_NAME = "intfloat/multilingual-e5-small"
-RAG_DB = Path("corpus/aqc/rag_index.db")
+RAG_DB = Path("corpus/rag_index.db")
 MANIFEST = Path("corpus/aqc/manifest.jsonl")
 DEFECTOS_DB = Path("informes_sinteticos/defectos.db")
 EVAL_JSON = Path("docs/evaluacion.json")
@@ -53,9 +53,10 @@ def get_model():
 def get_rag_index():
     import numpy as np
     con = sqlite3.connect(RAG_DB)
-    data = con.execute("SELECT code, titulo, texto, embedding FROM chunks").fetchall()
+    data = con.execute("SELECT fuente, code, titulo, texto, embedding "
+                       "FROM chunks").fetchall()
     con.close()
-    matrix = np.frombuffer(b"".join(r[3] for r in data), dtype=np.float32) \
+    matrix = np.frombuffer(b"".join(r[4] for r in data), dtype=np.float32) \
                .reshape(len(data), -1)
     return data, matrix
 
@@ -72,18 +73,18 @@ def get_titulos() -> dict:
             for l in open(MANIFEST, encoding="utf-8")}
 
 
-def buscar(query: str, top: int) -> list[dict]:
+def buscar(query: str, top: int, fuentes: tuple[str, ...]) -> list[dict]:
     import numpy as np
     data, matrix = get_rag_index()
     q = get_model().encode([f"query: {query}"], normalize_embeddings=True)[0]
     scores = matrix @ q.astype("float32")
     out, seen = [], set()
     for i in np.argsort(-scores):
-        code, titulo, texto, _ = data[int(i)]
-        if code in seen:
+        fuente, code, titulo, texto, _ = data[int(i)]
+        if fuente not in fuentes or code in seen:
             continue
         seen.add(code)
-        out.append({"code": code, "titulo": titulo,
+        out.append({"fuente": fuente, "code": code, "titulo": titulo,
                     "score": float(scores[int(i)]),
                     "extracto": " ".join(texto.split())[:600]})
         if len(out) >= top:
@@ -122,8 +123,8 @@ def recuperar_fichas_ui(senales: list[dict], top_por_senal: int = 2) -> None:
         scores = matrix @ q.astype("float32")
         fichas, vistos = [], set()
         for idx in np.argsort(-scores):
-            code, titulo, texto, _ = data[int(idx)]
-            if code in vistos:
+            fuente, code, titulo, texto, _ = data[int(idx)]
+            if fuente != "AQC" or code in vistos:  # informes: solo patología
                 continue
             vistos.add(code)
             fichas.append({"code": code, "titulo": titulo,
@@ -239,16 +240,22 @@ with tab_port:
 # ----------------------------------------------------------------- tab 2
 
 with tab_rag:
-    st.subheader("Semantic search over the 89 AQC pathology sheets")
-    st.caption("Works in French, Spanish or English (multilingual embeddings). "
-               "Try: *fissures causées par les argiles* · *humedad en muros "
-               "antiguos* · *condensation on windows*")
+    st.subheader("Semantic search: AQC pathology + ITM regulations")
+    st.caption("89 AQC pathology sheets (FR) + 143 Luxembourg ITM safety "
+               "prescriptions (FR/DE), multilingual queries. Try: *fissures "
+               "causées par les argiles* · *humedad en muros antiguos* · "
+               "*désenfumage bâtiment élevé* · *Sicherheitsvorschriften Aufzüge*")
     q = st.text_input("Query", value="fissures dans les murs causées par les argiles")
-    top = st.slider("Results", 1, 10, 5)
-    if q:
-        for r in buscar(q, top):
+    c_top, c_src = st.columns([1, 2])
+    top = c_top.slider("Results", 1, 10, 5)
+    fuentes = c_src.multiselect(
+        "Sources", ["AQC", "ITM"], default=["AQC", "ITM"],
+        help="AQC: construction pathology (FR) · ITM: Luxembourg safety "
+             "prescriptions (FR/DE)")
+    if q and fuentes:
+        for r in buscar(q, top, tuple(fuentes)):
             with st.container(border=True):
-                st.markdown(f"**[{r['code']}]** {r['titulo']}  \n"
+                st.markdown(f"`{r['fuente']}` **[{r['code']}]** {r['titulo'][:110]}  \n"
                             f"*similarity {r['score']:.3f}*")
                 st.caption(f"…{r['extracto']}…")
 

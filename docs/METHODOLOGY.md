@@ -29,6 +29,7 @@ method that actually worked (not always the documented one):
 | GRB (BE-Flanders) | WFS 2.0 | Works **without** the account the bulk download requires |
 | VEKA (BE-Flanders) | Direct CSV download under `/Data/` | The portal root answers 403 (WAF) but the files are served; paths found in the DCAT catalog of metadata.vlaanderen.be |
 | AQC sheets (corpus) | WordPress REST API (`/wp-json/wp/v2/media`) + PDF downloads | No HTML scraping; text extracted with `pdftotext -layout` |
+| ITM prescriptions (corpus) | HTML parse of the conditions-types page + direct PDF downloads | Stable page, no API; titles extracted from each PDF's header block; JRC Eurocodes reports were the original plan but their repository (DSpace) is WAF-blocked for non-browser clients |
 
 Shared extraction conventions across all scripts:
 
@@ -244,9 +245,11 @@ Ordered by estimated value/effort:
    condition) with transfer from SDNET2018/METU (both CC-BY, commercially
    usable per the source report). Chips already come labeled with
    height/parcel/address.
-6. **Expand the RAG corpus**: ITM prescriptions (LU), Legilux XML, JRC
-   Eurocodes reports, TABULA/EPISCOPE — all free per the source report; the
-   fragment+metadata+embedding scheme is already in place.
+6. **Expand the RAG corpus** — *partially done*: ITM prescriptions (LU,
+   143 docs FR/DE) are indexed with per-chunk source/lang. Still open:
+   Legilux XML, TABULA/EPISCOPE, and JRC Eurocodes reports (blocked: the
+   JRC repository rejects non-browser clients; would need a browser-based
+   fetch or the EU Cellar identifiers).
 7. **Engineering hardening** (conscious prototype debt): retries with
    backoff, point-in-polygon with a spatial index (R-tree) for large zones,
    polygon inner rings, more automated tests, and an orchestrator chaining

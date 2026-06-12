@@ -1,0 +1,845 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                             Strassen, décembre 2007
+
+
+
+
+                                                                                             ITM-SST 1703.1
+
+
+
+                               Dépôts aériens de gaz de pétrole liquéfié
+                                                  Soumis à la directive 97/23/CE
+
+
+                                                  Prescriptions de sécurité types
+                                          Les présentes prescriptions comportent 17 pages
+
+
+                                                                      Sommaire
+    Article                                                                                                    Page
+
+     1.                     Objectif et domaine d'application                                                    3
+     2.                     Définitions                                                                          3
+     3.                     Prescriptions générales                                                              4
+     4.                     Plaque signalétique                                                                  4
+     5.                     Implantation du réservoir                                                            4
+     6.                     Installation et fondation du réservoir                                               5
+     7.                     Equipement du réservoir                                                              6
+     8.                     Borne de remplissage déportée ne faisant pas                                         7
+                            partie du réservoir marqué « CE »
+     9.                     Tuyauteries, robinetteries et accessoires ne                                         8
+                            faisant pas parties du réservoir marqué « CE »
+    10.                     Evaporateurs                                                                        9
+    11.                     Installations électriques, mise à la terre et liaisons                             10
+                            équipotentielles
+    12.                     Protection contre la foudre                                                        10
+    13.                     Protection contre l'incendie                                                       10
+    14.                     Premier contrôle périodique                                                        10
+    15.                     Visites périodiques et réépreuves du dépôt                                         11
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs       L-2763 STRASSEN   Tél : 2478-1 Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+16.              Rapports de contrôle                                       12
+17.              Modifications et réparations du dépôt,                     12
+                 installations ayant été la cause d'un accident
+                 ou d'un incident grave
+18.              Installations de distribution et appareils d'utilisation   14
+19.              Déchargement des véhicules-citernes                        14
+20.              Exploitation et surveillance                               15
+21.              Registre de sécurité                                       16
+22.              Vidange du réservoir                                       16
+23.              Remplacement du réservoir                                  16
+
+
+
+
+page 2 de 17 pages                                                          ITM-SST 1703.1
+Art. 1er - Objectif et domaine d'application
+
+1.1 Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité relatives aux dépôts aériens de gaz de pétrole liquéfié (tels que définis sub. 2.2 ci-
+dessous) et à leurs installations annexes et connexes.
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas par l'Inspection du travail et des mines, mais uniquement si des mesures de rechange
+garantissant un niveau de sécurité au moins équivalent sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de sécurité
+équivalent par un organisme de contrôle et acceptées comme telles par l'Inspection du travail
+et des mines.
+
+Art. 2. - Définitions
+
+2.1. Par la dénomination «réservoir» est à comprendre dans le contexte des présentes
+prescriptions tout réservoir aérien, dont la capacité géométrique ne dépasse pas 3000 litres et
+qui est prévu pour emmagasiner du gaz de pétrole liquéfié (GPL). Le réservoir doit porter le
+marquage «CE» et doit respecter le règlement grand-ducal du 21 janvier 2000 concernant les
+équipements sous pression.
+
+2.2. Sous la dénomination «dépôt» sont regroupés :
+- le réservoir (ou les réservoirs),
+- la tuyauterie principale,
+- un éventuel évaporateur et ses accessoires,
+- toute tuyauterie utilisée en phase liquide,
+- le cas échéant, la borne de remplissage déporté,
+- tous leurs accessoires jusqu'à et y compris le robinet de délimitation installé à l'entrée de
+     cette tuyauterie dans le bâtiment, ou le cas échéant dans le bâtiment.
+
+2.3. Par la dénomination «installations de distribution» et «appareils d'utilisation» sont à
+comprendre les installations se trouvant en aval du robinet de délimitation installé à l'entrée de
+la tuyauterie principale dans le bâtiment.
+
+2.4. Sous la dénomination «organisme de contrôle» est à comprendre tout organisme autorisé
+à contrôler les appareils à pression par le règlement ministériel le plus récent en date du
+Ministre ayant le travail dans ses attributions concernant l'intervention d'organismes de
+contrôle dans le cadre des compétences et attributions de l’Inspection du travail et des mines.
+
+2.5. Par «personne compétente» est à comprendre toute personne qui offre la garantie qu'elle
+peut exécuter d'une manière sûre les charges qui lui sont confiées, grâce à sa formation, ses
+connaissances et son expérience professionnelle dans son domaine d'intervention.
+
+Les personnes compétentes sont désignées par le constructeur, l'installateur, le réparateur, le
+distributeur de gaz de pétrole liquéfié et l'exploitant sous leur seule et unique responsabilité
+suivant leur domaine d’intervention.
+
+2.6. Par «abri simple» est à comprendre une construction légère, entièrement ouverte sur au
+moins deux côtés et dont seuls les éléments porteurs peuvent être réalisés en bois ou en
+matériaux inflammables.
+
+
+
+page 3 de 17 pages                                                                 ITM-SST 1703.1
+2.7. Par «exploitant» est à comprendre la personne qui utilise le gaz emmagasiné dans le
+réservoir.
+
+Art. 3. - Prescriptions générales
+
+3.1. Lors des travaux de montage, de réparation et d'entretien sont à suivre les stipulations des
+articles L. 311 à L. 314 du Code du travail et des arrêtés et règlements grand-ducaux pris en
+exécution de ce code.
+
+3.2. Sont à observer en plus lors des travaux de montage, de modification, de réparation et
+d'entretien les prescriptions afférentes de prévention contre les accidents édictées par
+l'Association d'Assurance contre les Accidents.
+
+Art. 4. - Plaque signalétique
+
+4.1. Outre le marquage «CE» et le numéro d'identification de l'organisme notifié, chaque
+appareil ou ensemble doit porter une plaque signalétique comportant au moins les mentions
+suivantes :
+
+-   le nom du fabricant
+-   l’année de fabrication
+-   le numéro de fabrication (le cas échéant l’identification de la série ou du lot)
+-   le volume géométrique «V» de l´équipement sous pression, exprimé en litres «L»
+-   la pression maximale de service admissible «PS» en bar (pression de timbre,
+    «Auslegungsdruck»)
+-   la pression d’essai appliquée «PT» en bar et la date
+-   la température maximale de service
+-   au moins cinq emplacements permettant à un organisme de contrôle de marquer par
+    poinçon les dates des réépreuves hydrauliques et son symbole
+-   le cas échéant : la dimension nominale «DN» de la tuyauterie.
+
+4.2. Chaque appareil ou ensemble, lors de sa mise sur le marché doit être accompagné en tant
+que de besoin d’une notice d’instructions destinée à l’utilisateur, contenant toutes les
+informations utiles à la sécurité en ce qui concerne:
+
+-   le montage de l’ensemble, y compris l’assemblage des différents équipements sous
+    pression
+-   la mise en service
+-   l’utilisation
+-   la maintenance, y compris les contrôles par l’utilisateur.
+
+Art. 5. - Implantation du réservoir
+
+Autour du réservoir, le cas échéant y inclus l’évaporateur, des zones de sécurité mesurées par
+projection horizontale à partir des parois extérieures du réservoir sont à respecter sous réserve
+de conditions plus contraignantes imposées par toute autre autorité compétente :
+
+5.1 Zone 0
+1. La zone 0 s’étend à un rayon de 1 m autour du réservoir. Cette zone doit être
+    complètement dégagée de toute construction ou plantation (à l’exception du gazon).
+
+
+
+
+page 4 de 17 pages                                                                ITM-SST 1703.1
+2. Les dispositions pour la zone 1 et 2 sont également valables.
+
+5.2 Zone 1
+1. La zone 1 s’étend à un rayon de 3 m autour du réservoir. Dans cette zone ne peut se
+    trouver :
+    - une propriété voisine,
+    - une voie ou un chemin public,
+    - un moteur à combustion fixe,
+    - un parking public,
+    - des installations électriques non prévues pour fonctionner en atmosphère explosible.
+
+2. Il est interdit de faire fonctionner un téléphone portable
+3. Il est interdit d’approcher avec du feu nu, de faire du feu ou de fumer
+4. Lors du remplissage, y inclus une période d’une demi-heure après le remplissage, il est
+   interdit de faire fonctionner des moteurs à combustion interne dans cette zone
+5. Les dispositions pour la zone 2 sont également valables.
+
+5.3 Zone 2
+1. La zone 2 s’étend à un rayon de 5 m autour du réservoir. Dans cette zone ne peut se
+    trouver :
+    - un bâtiment
+    - des bouches d’égout non protégées par un siphon adéquat
+    - un dépôt de matières combustibles et /ou comburantes
+2. L'emploi de désherbants chloratés est interdit aux abords du dépôt.
+3. Aucune plantation dont les racines risquent d'endommager les fondations sur lesquelles
+    repose le réservoir et une tuyauterie souterraine éventuelle n'est admise dans les alentours
+    du réservoir et de cette tuyauterie.
+
+Les interdictions relatives au comportement de personnes autour du réservoir sont à signaler
+par des pictogrammes normalisés.
+
+Art. 6. - Installation et fondation du réservoir
+
+6.1. La pose du réservoir doit être effectuée par des personnes compétentes.
+
+6.2. Les réservoirs doivent être implantés au niveau du sol ou en superstructure.
+
+6.3. Si le sol au voisinage du réservoir présente une déclivité, telle qu'en cas d'écoulement
+massif accidentel, le gaz liquéfié puisse atteindre des propriétés appartenant à des tiers, des
+foyers ou pénétrer dans un égout, toutes dispositions doivent être prises pour y pallier.
+
+6.4. Le dépôt doit être d'accès facile et convenablement aéré. Il ne doit pas être surmonté d'un
+local habité ou occupé par des tiers. Il ne doit pas être situé à l'intérieur d'un local fermé, dans
+une fosse maçonnée, sur le toit d'un immeuble ou sur une terrasse.
+
+6.5. Les réservoirs doivent reposer par l'intermédiaire de berceaux, pieds ou supports sur un
+sol stable. Les fondations doivent être conçues pour supporter le poids du réservoir supposé
+rempli d'eau.
+
+
+
+
+page 5 de 17 pages                                                                  ITM-SST 1703.1
+6.6. Les supports du réservoir doivent être construits en matériaux solides et incombustibles.
+Si la distance entre la paroi inférieure du réservoir et le sol est supérieure à 0,50 m, les
+supports doivent en plus être résistants à la déformation en présence de feu pendant au moins
+120 minutes.
+
+6.7. Une distance d'au moins 0,10 m doit être laissée libre sous la génératrice ou le pôle
+inférieur du réservoir.
+
+6.8. Afin d'interdire l'approche du réservoir à toute personne étrangère au service, celui-ci doit
+comporter une clôture solide et incombustible d'une hauteur minimale de 2 m. Cette clôture
+doit comporter une porte s'ouvrant dans le sens de la sortie et fermée à clef en dehors des
+besoins de service. L'interdiction d'accès doit être affichée d'une façon apparente sur la
+clôture.
+Sont à signaler de façon apparente sur la clôture :
+     - l’interdiction d’accès,
+     - le danger d’explosion.
+
+Cette clôture peut être supprimée à condition que les organes de soutirage et de remplissage
+soient couverts d'un capot de protection verrouillé et que la propriété où est installé le dépôt
+est délimitée par des clôtures, des murs ou des haies vertes continues.
+
+Pourtant, au cas où la propriété, même délimitée, où est installé le dépôt est accessible par le
+public, la clôture ne pourra pas être supprimée.
+
+6.9. Les réservoirs se trouvant près de places de jeu ou un camping public aux parages
+immédiats des logements, doivent en plus être clôturés dans le sens horizontal à une hauteur
+minimale de 2 m.
+
+6.10. Lorsque le dépôt contient plus d'un réservoir, ceux-ci doivent être séparés par un mur
+solide, étanche, ayant une résistance au feu d'un degré de 120 minutes au moins et dont la
+hauteur excède de 50 cm la hauteur du point de raccordement du réservoir le plus élevé, sans
+que la hauteur du mur puisse être inférieure à 2 m.
+
+Ce mur doit s'étendre de part et d'autre des réservoirs de sorte qu'il dépasse de 50 cm le point
+extérieur de chaque réservoir. Un espace libre de 1 m au moins est à prévoir entre le mur et
+chaque réservoir.
+
+6.11. Le réservoir doit être mis à la terre conformément aux prescriptions des normes de
+sécurité DIN 57100/VDE 0100, DIN 50164/VDE 0185.
+
+Art. 7. - Equipement du réservoir
+
+7.1. Tout réservoir doit être équipé au minimum:
+
+     -    d’un robinet d’isolement du dépôt de la tuyauterie de distribution,
+     -    en cas d’une borne déportée : d’un robinet d’isolement du dépôt de la tuyauterie de
+          remplissage,
+     -    d'un ou de plusieurs clapets porte soupape,
+     -    d'une ou de plusieurs soupapes de sûreté appropriées empêchant que la pression de
+          service du réservoir puisse être dépassée de plus de 10%,
+
+
+
+
+page 6 de 17 pages                                                                 ITM-SST 1703.1
+     -    d'une jauge de contrôle, indéréglable et facilement accessible, du niveau maximal de
+          remplissage, c.à.d. 85% de la capacité volumétrique maximale du réservoir,
+     -    d'un dispositif automatique évitant que le niveau de remplissage maximal puisse être
+          dépassé (Überfüllsicherung),
+     -    d'un dispositif de jaugeage approprié permettant de contrôler à tout moment le niveau
+          du gaz contenu,
+     -    d'un dispositif automatique de sécurité, tel un limiteur de débit, sur chaque tubulure
+          de sortie,
+     -    d'un double clapet de remplissage,
+     -    d'un bouchon de vidange sous le réservoir (check-lock) ou d'un tube plongeur
+          effleurant le fond du réservoir, afin de pouvoir vidanger celui-ci. La sortie de ce tube
+          doit être équipée en plus du limiteur de débit, d'une vanne et d'un bouchon,
+     -    en principe d'un détendeur, limitant la pression dans la tuyauterie de distribution à au
+          plus 0,15 MPa (1,5 bar).
+
+7.2 A défaut d'un dispositif automatique évitant que le remplissage maximal puisse être
+dépassé (Überfüllsicherung) tel que repris ci-dessus, les soupapes de sûreté doivent être
+raccordées à des conduites d'évacuation ayant une hauteur minimale de 4 m au-dessus du sol
+et munies de clapets éjectables (ou de dispositifs équivalents), conduites fixées à un support
+solide leur servant de protection mécanique, ou munies d'un chanfrein de rupture
+(Sollbruchstelle).
+
+7.3. Les réservoirs installés sous abri simple doivent comporter dans tous les cas des
+conduites d'évacuation sortant du toit et munies de clapets éjectables (ou de dispositifs
+équivalents).
+
+7.4. Les installations de contrôle et de sécurité, les raccords et orifices de purge exposés ainsi
+que les conduites éventuelles d'évacuation des soupapes de sûreté sont à protéger
+efficacement contre les chocs susceptibles de les détériorer.
+
+Art. 8. - Borne de remplissage déportée ne faisant pas partie du réservoir marqué «CE»
+
+8.1. La borne de remplissage déportée doit être placée à l’extérieur du bâtiment. Le tuyau la
+reliant au réservoir ne peut pas traverser des locaux occupés normalement par des personnes
+ou des maisons d’habitation.
+
+8.2 La borne de remplissage déportée doit comporter un double clapet à son orifice d'entrée.
+La borne doit comporter en outre un dispositif de branchement du câble de liaison
+équipotentielle entre le véhicule ravitailleur et la borne (voir sub 11.3. et 19.8. ci-dessous).
+
+8.3 Lorsque le réservoir n’est pas visible à partir du véhicule de ravitailleur, la borne doit être
+équipée d’une prise pour le branchement au dispositif « fill-stop ».
+
+8.4. Autour de l’orifice d'entrée de la borne déportée des zones de sécurité telles que
+présentées sur la figure ci-dessous sont définies. La zone 1 est une zone de sécurité
+permanente. La zone de sécurité 2 est une zone à respecter lors de l’ouverture du coffret défini
+au point 6.5 et lors du remplissage.
+
+
+
+
+page 7 de 17 pages                                                                 ITM-SST 1703.1
+Dans ces zones ne peuvent se trouver :
+- des locaux contenant des foyers ou autres feux nus ou des installations électriques non
+   prévues pour une atmosphère explosible zone 1 conformément au règlement grand-ducal
+   du 21 mars 2005 concernant les prescriptions minimales visant à améliorer la protection
+   en matière de sécurité et de la santé des travailleurs susceptibles d’être exposés au risque
+   d’atmosphères explosives,
+- des bouches d'égout non protégées par un siphon approprié,
+- des dépôts de matières combustibles,
+- des ouvertures des locaux,
+Dans ces zones il est interdit
+- de faire fonctionner un téléphone portable lors du remplissage,
+- d’approcher avec du feu nu, de faire du feu ou de fumer,
+Les dispositions de sécurité concernant la zone 2 de la figure ci-dessous sont à respecter au
+moins 1 demi-heure après le remplissage.
+
+
+
+
+8.5. La borne doit être placée de manière à ce que les opérations de remplissage ne puissent
+gêner, ni les accès, ni les dégagements des bâtiments avoisinants.
+
+8.6. Si la borne de remplissage déportée est placée en bordure de la voie publique, elle doit
+être enfermée dans un coffret incombustible et verrouillé et doit être protégée efficacement
+contre le choc de véhicules. Le coffret doit être complètement clos et ne pourra comporter des
+ouvertures. Lors de l’ouverture du coffret les consignes définies ci-dessus sont à respecter.
+Avant la connexion de la liaison équipotentielle entre le véhicule-citerne et l'orifice de la
+borne, le coffret est à ouvrir au moins 5 minutes à l’avance afin de bien aérer le coffret.
+
+Art. 9. - Tuyauteries, robinetteries et accessoires ne faisant pas parties du réservoir
+marqué «CE»
+
+9.1. Les tuyauteries, canalisations, robinetteries, vannes, détendeurs, soupapes, clapets, tuyaux
+flexibles, joints, etc., doivent être conçus et construits suivant les normes de sécurité
+allemandes concernant les installations de gaz de pétrole liquéfié ou suivant des normes
+reconnues comme équivalentes par un organisme de contrôle et acceptées comme telles par
+l'Inspection du travail et des mines.
+
+9.2. Toutes les tuyauteries, robinetteries et tous les accessoires doivent être montés selon les
+règles de l'art par des personnes compétentes.
+
+
+
+
+page 8 de 17 pages                                                                ITM-SST 1703.1
+9.3. Les matériaux constitutifs des tuyauteries, leurs dimensions et leur mode d'assemblage
+doivent être choisis pour garantir avec un coefficient de sécurité suffisant la résistance aux
+actions mécaniques, physiques et chimiques dues aux produits véhiculés. La résistance
+mécanique et l'étanchéité de l'ensemble des tuyauteries doivent être contrôlées par
+l'installateur (qui doit être une personne compétente) après montage par des moyens
+appropriés et notamment des épreuves.
+
+Les essais doivent être renouvelés toutes les fois qu'une réparation pouvant intéresser la
+résistance et l'étanchéité des tuyauteries ou de l'équipement annexe a été faite.
+
+9.4. Toute tuyauterie prévue pour contenir du gaz liquéfié doit être soumise à un essai de
+résistance et d'étanchéité à effectuer à l'aide d'une épreuve hydraulique à une pression égale à
+la pression d’épreuve initiale. Cet essai est à effectuer par un organisme de contrôle.
+
+Dans le cas où l’essai de pression hydrostatique serait nocif ou ne peut pas être effectué,
+d’autres essais d’une valeur reconnue peuvent être réalisés sous la responsabilité de
+l’exploitant de l’installation. Pour les essais autres que l’essai de pression hydrostatique, des
+mesures complémentaires, telles que des contrôles non-destructifs ou d’autres méthodes
+d’efficacité équivalente, doivent être mis en oeuvre avant ces essais. Un essai pneumatique ne
+peut toutefois seulement être effectué que si une épreuve de résistance initiale a été effectuée.
+
+9.5. L'installateur doit transmettre un certificat de ces essais de résistance mécanique et
+d'étanchéité à l'organisme de contrôle réceptionnant l'installation.
+
+9.6. Un robinet doit être monté à l'extérieur du bâtiment dans le collecteur de la conduite
+principale, à l'entrée de ce collecteur dans le bâtiment, afin que l'on puisse isoler rapidement
+les appareils d'utilisation en cas d'urgence.
+
+L'emplacement de ce robinet doit être facilement accessible.
+
+Ce robinet est seulement requis si le réservoir se trouve à plus de 6 m de l'entrée de la
+conduite principale dans le bâtiment.
+
+9.7. L'utilisation de flexibles est interdite, sauf en ce qui concerne le flexible de chargement
+dont est muni le camion approvisionnant le réservoir.
+
+Art. 10. - Evaporateurs
+
+10.1. Tout évaporateur doit être en communication permanente avec une soupape de sûreté
+qui le garantit contre tout excès de pression.
+
+10.2. Les évaporateurs doivent pouvoir être isolés des réservoirs auxquels ils sont reliés par
+des vannes ou des robinets appropriés.
+
+10.3. Les appareils d’évaporation peuvent être installés à l'air libre, ou sous abri dans un local
+incombustible à toiture légère, convenablement ventilé et affecté exclusivement à leur usage.
+
+10.4. La porte du local renfermant l'installation d’évaporation doit s'ouvrir dans le sens de la
+sortie.
+
+
+
+
+page 9 de 17 pages                                                                 ITM-SST 1703.1
+10.5. Les évaporateurs dont l'installation électrique n'est pas du type antidéflagrant (p.ex. DIN
+57165/VDE 0165) sont à installer à distance suffisante des réservoirs de stockage.
+
+Art. 11. - Installations électriques, mise à la terre et liaisons équipotentielles
+
+11.1. Tout appareillage électrique utilisé dans les zones telles que définies à l’article 5 doivent
+être du type destiné aux atmosphères explosibles (p.ex.: EN 60079/VDE 0165).
+
+11.2. Le réservoir, les tuyauteries, supports et accessoires métalliques doivent être interliés
+par des liaisons équipotentielles et être mis à la terre de manière à permettre l'écoulement des
+charges d'électricité statique éventuellement développées (p.ex.: voir DIN 57100/VDE 0100).
+
+11.3. Une borne de raccordement doit être prévue pour pouvoir réaliser une liaison
+équipotentielle entre le véhicule-citerne et l'équipement de remplissage du réservoir (voir sub
+8.1. ci-dessus et sub 19.8. ci-dessous).
+
+Art. 12. - Protection contre la foudre
+
+Le réservoir doit être protégé contre les effets de la foudre (p. ex. DIN 60164 resp. VDE 185).
+
+Art. 13. - Protection contre l'incendie
+
+13.1. L'exploitant doit installer à proximité du réservoir à gaz un équipement suffisant et
+adapté aux circonstances pour combattre l'incendie (p.ex. bouches d'eau, robinets d'incendie
+armés, etc.).
+
+13.2. L'exploitant doit disposer d'un extincteur dans un bâtiment à proximité du dépôt pour
+pouvoir intervenir contre un incendie dans le voisinage du dépôt.
+
+Art. 14. - Premier contrôle périodique
+
+14.1. L'installation du dépôt doit être contrôlée par un organisme de contrôle à sa mise en
+service et notamment les points suivants:
+    - la conformité de l'installation aux prescriptions de l'arrêté ministériel d'autorisation
+    - la présence du certificat de conformité « CE » et du marquage « CE » de conformité
+    - la conformité des éléments ne portants pas le marquage « CE »
+    - le registre de sécurité
+    - l’état général de l’installation
+    - l’équipement de l’installation
+    - vérification des procédures de sécurité
+
+Toutes les pièces en relation avec les vérifications du 1er contrôle périodique sont à verser
+après réception au registre de sécurité (voir à l'art. 21).
+
+14.2. Le contrôle de l’étanchéité des installations du dépôt est à effectuer par une personne
+compétente sous la surveillance d’un inspecteur de l’organisme de contrôle.
+
+14.3. L’organisme de contrôle procédant au premier contrôle périodique doit en général
+accepter les certificats établis en relation avec la conformité du réservoir, sauf s’il y a des
+doutes fondés sur la conformité aux règlementations en vigueur.
+
+
+
+
+page 10 de 17 pages                                                                ITM-SST 1703.1
+L’organisme de contrôle avertit, en pareil cas, l’Inspection du travail et des mines en
+fournissant une motivation circonstanciée de ses doutes.
+
+Art. 15. - Visites périodiques et réépreuves du dépôt
+
+15.1. Chaque réservoir doit subir tous les 5 ans une visite consistant en une visite des parties
+extérieures du réservoir, visite complétée le cas échéant par des contrôles non destructifs et
+des mesures d'épaisseur par ultrasons.
+
+Cette visite complète est à effectuer par un organisme de contrôle.
+
+15.2. Sont soumis à vérification lors de la même visite par un organisme de contrôle:
+   - les circuits de mise à la terre, les liaisons équipotentielles et les circuits de protection
+       contre la foudre;
+   - les équipements du réservoir;
+   - les moyens de lutte contre l'incendie et de secours.
+
+15.3. A la demande motivée de l'organisme de contrôle, les visites du réservoir doivent être
+complétées par une épreuve de résistance (voir aussi art. 15.5).
+
+15.4. Lorsque le réservoir aura atteint l'âge de 25 ans, il devra subir tous les 10 ans une
+réépreuve consistant en une visite des parties extérieures et de l'intérieur du réservoir, visite
+complétée par une épreuve de résistance.
+
+La réépreuve doit être complétée à la demande motivée de l'organisme de contrôle par des
+contrôles non destructifs tels que des mesures d'épaisseur par ultrasons ou des mesures par
+magnétoscopie.
+
+15.5. L'épreuve de résistance est à effectuer à une pression égale à la pression de l’épreuve de
+résistance initiale.
+
+15.6. Les épreuves de résistance doivent être effectuées sous la surveillance d'un organisme
+de contrôle.
+
+15.7. Il est recommandé que le propriétaire et l'exploitant ou une personne qu'ils délèguent à
+cet effet, ainsi qu'un représentant de l'entreprise chargée de l'entretien courant de l'installation
+accompagnent l'inspecteur de l'organisme de contrôle lors des réceptions, contrôles et
+vérifications.
+
+15.8. Lorsque l'inspecteur de l'organisme de contrôle qui procède aux examens, vérifications
+et essais constate une anomalie telle que la sécurité des personnes n'est plus garantie, il est
+tenu d'en avertir d'urgence le propriétaire et l'exploitant de l'installation, de préférence en
+faisant contresigner son rapport provisoire de contrôle.
+
+L'inspecteur de l'organisme de contrôle doit en plus indiquer dans un pareil cas les mesures à
+prendre immédiatement et il doit s'assurer qu'il y est obtempéré et que les risques
+inacceptables sont éliminés. A défaut, l'organisme de contrôle doit en informer sans délai
+l'Inspection du travail et des mines.
+
+
+
+
+page 11 de 17 pages                                                                 ITM-SST 1703.1
+15.9. Le propriétaire et l'exploitant doivent se conformer aux délais pour réparations et mise
+en état figurant sur les rapports de réception et de vérification de l'organisme de contrôle
+chacun en ce qui le concerne. Les délais étant échus sans que les réparations ou mises en état
+ayant eu lieu, l’installation est à mettre hors service.
+
+Art. 16. - Rapports de contrôle
+
+16.1. Lors de toute intervention (réception, contrôle périodique, contrôle après accident ou
+incident, à l’occasion d’un contrôle effectué à la demande de l’Inspection du travail et des
+mines, contrôle à la suite de réparations etc.), l’organisme de contrôle dresse un rapport
+complet décrivant :
+     - la base réglementaire de l’intervention ou toute autre raison,
+     - l’étendu de l’intervention,
+     - les résultats des essais éventuels (résistance, étanchéité, contrôle électrique etc.),
+     - les conclusions de l’intervention ainsi que les remarques éventuelles concernant
+         l’état de l’installation,
+     - le cas échéant, les mesures à prendre pour redresser des non-conformités éventuelles
+         et un délai dans lequel l’installation pourra encore être exploitée,
+     - le délai pendant lequel l’installation pourra encore être exploitée en sécurité avant de
+         devoir subir le prochain contrôle.
+
+16.2. L'organisme de contrôle dresse un rapport de la réception complète ainsi que des essais
+de résistance et d'étanchéité, rapport qui est remis en double exemplaire avec une copie à
+l'Inspection du travail et des mines pour visa :
+     - un exemplaire du rapport visé est remis à l'exploitant pour être versé au registre de
+          sécurité (voir art. 21),
+     - un exemplaire du rapport est archivé par l’organisme de contrôle,
+     - la copie du rapport est archivée auprès de l’Inspection du travail et des mines.
+
+Tout rapport de contrôle effectué par un organisme de contrôle est à verser au registre prévu à
+l’article 21.
+
+Art. 17. - Modifications et réparations du dépôt, installations ayant été la cause d'un
+accident ou incident grave
+
+17.1. Toute modification ou toute réparation effectuée sur les installations du dépôt ne doit
+être exécutée que par des personnes compétentes.
+
+Les réservoirs ainsi que les installations faisant partie de l’ensemble portant le marquage
+«CE» qui font l’objet de modifications ou de réparations significatives doivent être reconduits
+à la procédure de déclaration de conformité «CE».
+
+Les réparations ou modifications pouvant avoir une influence sur la sécurité de l'installation
+sont à exécuter sous la surveillance d'un organisme de contrôle. L’installation doit ensuite être
+soumise à une visite complète et à une réépreuve de résistance à effectuer par le même
+organisme de contrôle. Un rapport de la réception de ces travaux est établi par l'organisme de
+contrôle.
+
+17.2. Le réservoir doit être vidé avant toute réparation importante.
+
+
+
+
+page 12 de 17 pages                                                               ITM-SST 1703.1
+Il doit être isolé du reste de l'installation par des joints étanches. Il est à nettoyer
+convenablement. L'atmosphère à l'intérieur du réservoir est à contrôler à l'explosimètre par
+une personne compétente afin de vérifier l'absence de vapeurs inflammables.
+
+17.3. Si les travaux à exécuter comportent l'emploi de flammes ou d'objets portés à
+incandescence, ou s'ils sont de nature à provoquer des étincelles, de la vapeur vive doit être
+injectée dans le réservoir et les tuyauteries jusqu'à élimination de toute trace de gaz
+inflammable.
+
+Toute autre méthode garantissant des résultats équivalents est également admissible.
+
+17.4. La vapeur doit seulement être injectée si l'on est sûr que le récipient ne peut contenir un
+mélange tonnant. En cas de présence d'un mélange tonnant, une purge au gaz inerte doit
+éliminer toute trace de gaz inflammable.
+
+17.5. L'injection de vapeur ou de gaz inerte terminée, le réservoir doit être soigneusement
+ventilé pendant au moins deux heures.
+
+Toute autre méthode garantissant un même niveau de sécurité est également admissible.
+
+17.6. Si les travaux à exécuter ne comportent pas l'emploi de flammes ou d'objets
+incandescents et ne sont pas de nature à provoquer des étincelles, l'emploi de vapeur vive peut
+être remplacé par un remplissage du réservoir par de l'eau pendant vingt-quatre heures au
+moins.
+
+17.7. Les travaux de nettoyage doivent être exécutés par des personnes compétentes.
+
+17.8. Lorsqu'il est nécessaire de pénétrer dans un réservoir, la personne qui pénètre dans le
+réservoir doit:
+    - être dûment autorisée à le faire;
+    - être au courant des dangers auxquels elle est exposée;
+    - être équipée d'un appareil respiratoire approprié;
+    - être surveillée par une autre personne autorisée, en mesure de lui porter secours en cas
+       de besoin;
+    - porter un harnais de sécurité muni d'une corde d'assurance.
+
+17.9. Pendant les nettoyages et réparations, un courant d'air doit être entretenu dans le
+réservoir.
+
+17.10. Chaque dépôt de gaz de pétrole liquéfié ayant été la cause d'un accident ou d'un
+incident grave ou ayant été impliqué dans un accident ou un incident grave doit être mis à
+l’arrêt. L’Inspection du travail et des mines est à informer. Avant une remise en service, le
+dépôt doit être vérifié par un organisme de contrôle, et l’Inspection du travail et des mines
+doit donner son accord écrit.
+L'exploitation de ce dépôt ne peut être reprise qu'après visa par l'Inspection du travail et des
+mines du rapport de vérification de l'organisme de contrôle, rapport à verser au registre prévu
+à l'article 21 ci-après.
+
+
+
+
+page 13 de 17 pages                                                               ITM-SST 1703.1
+Art. 18. - Installations de distribution et appareils d'utilisation
+
+18.1. Les installations de distribution ainsi que l’installation des appareils de combustion y
+compris leur tuyauterie à l’intérieur du bâtiment sont soumis au règlement grand-ducal du 14
+août 2000 relatif aux installations de combustion alimentées en gaz si leur pression maximale
+du gaz ne dépasse pas 0,5 bar.
+
+Les appareils à gaz tombent sous les applications du règlement grand-ducal du 3 février 1992
+relatif aux appareils à gaz.
+
+Art. 19. - Déchargement des véhicules-citernes
+
+19.1. Les véhicules-citernes livrant le gaz doivent être conformes aux dispositions
+réglementant le transport des marchandises dangereuses (Prescriptions ADR).
+
+19.2. Les véhicules-citernes livrant le gaz pour des installations munies d'un dispositif
+automatique évitant que le niveau de remplissage maximal du réservoir puisse être dépassé
+(Überfüllsicherung) doivent être munis d'une vanne interrompant automatiquement le
+transvasage lorsque le niveau maximal d'emplissage du réservoir est atteint, à moins que le
+dispositif monté sur le réservoir (p.ex. du type mécanique) n'exige pas une telle installation.
+
+19.3. Les voies et aires desservant le poste de déchargement de citernes-routières doivent être
+disposées de façon à ce que l'évacuation des véhicules puisse s'effectuer en marche avant.
+
+19.4. Les voies de passage à circulation réglementée doivent être signalées d'après les
+dispositions du Code de la Route.
+
+19.5. L'emplacement de déchargement des véhicules-citernes doit être aménagé à au moins 3
+m du réservoir.
+
+19.6. L'opération de déchargement doit être conduite par une personne compétente et
+responsable de l'usage en toute sécurité du matériel, ainsi que des mesures à prendre en cas
+d'accident.
+
+19.7. Cette personne doit être présente pendant toute la durée des opérations de transvasement
+du gaz de pétrole liquéfié.
+
+19.8. Avant le raccordement du flexible de remplissage au réservoir, le véhicule-citerne doit
+être relié par une liaison équipotentielle (voir art. 8.1 et art. 11.3 ci-dessus) à l'équipement de
+remplissage du réservoir ou à la borne d'emplissage déportée.
+
+19.9. Le remplissage d'un réservoir moyennant un tuyau flexible à travers des locaux fermés
+est interdit.
+
+Les tuyaux flexibles ne peuvent être utilisés qu'en plein air.
+
+19.10. Aucune opération de transvasement de gaz ne peut commencer si le dépôt ne se trouve
+pas en parfait état de fonctionnement et de sécurité, s'il n'est pas couvert par une autorisation
+d'exploitation et s'il n'a pas subi avec succès les contrôles de réception et de réépreuve ainsi
+que les visites périodiques.
+
+
+
+
+page 14 de 17 pages                                                                ITM-SST 1703.1
+17.11 Les dispositions du point 5.1 se rapportant à la zone 1 du réservoir sont également
+applicables pendant le remplissage dans un rayon de 3 m autour du camion citerne et de la
+borne déportée.
+
+Art. 20. - Exploitation et surveillance
+
+20.1. Il est interdit d'utiliser des véhicules-citernes comme réservoirs de stockage ou
+d'alimentation, même si ces véhicules sont immobilisés.
+
+20.2. Les installations à gaz sont à maintenir constamment en bon état d'entretien, de
+fonctionnement et d'étanchéité.
+
+20.3. L'entretien et la réparation des installations du dépôt ne peuvent être confiés qu'à des
+personnes compétentes.
+
+20.4. Il doit être porté immédiatement remède à toute défectuosité pouvant compromettre la
+sécurité.
+
+20.5. Le propriétaire et l'exploitant doivent se conformer aux délais de réparation et de mise
+en conformité fixés par l'organisme de contrôle dans ses rapports de réception, de réépreuve et
+de visite.
+
+20.6. Chaque soupape de sûreté doit être remplacée par une soupape neuve chaque fois que
+son état l'exige.
+
+Chaque soupape de sûreté doit être remplacée en tout cas au moins tous les 5 ans par une
+soupape neuve ou révisée.
+
+Les soupapes de sûreté doivent être réglées et plombées par une personne compétente.
+
+20.7. La quantité de gaz liquide à emmagasiner ne peut jamais dépasser 85% de la capacité
+géométrique maximale indiquée sur le réservoir par son fournisseur, et ceci dans les
+conditions les plus défavorables.
+
+20.8. Les outils utilisés pour les opérations de transvasement doivent être anti-étincelles.
+
+20.9. La surface de l'aire affectée au stockage ne peut être constituée que de matériaux non
+inflammables ou à faible pouvoir calorifique.
+
+20.10. Les abords du dépôt doivent être entretenus en bon état de propreté.
+
+Tout déchet combustible doit être enlevé.
+
+20.11. La mise en service, l'exploitation et l'entretien de l'installation ne peuvent être confiés
+qu'à une personne compétente et parfaitement mise au courant de son fonctionnement et des
+mesures de sécurité à observer par l'installateur, les fournisseurs d'installations et par le
+distributeur de gaz de pétrole liquéfié, chacun en ce qui le concerne.
+
+
+
+
+page 15 de 17 pages                                                                ITM-SST 1703.1
+Art. 21. - Registre de sécurité
+
+21.1. Un registre de sécurité doit être établi pour chaque réservoir. Le registre doit être
+disponible auprès de l’exploitant et doit contenir les documents suivants :
+
+    1. Une copie de l'autorisation d'exploitation
+    2. Un dossier technique renfermant toutes les informations techniques du dépôt
+       (comprenant notamment les calculs, plans, certificats du matériel utilisé, certificats de
+       soudeurs, le cas échéant les certificats de contrôle des soudures, les notices d'entretien
+       et d'exploitation).
+    3. Une copie de tous les rapports, du premier contrôle périodique, des visites périodiques
+       et des réépreuves du dépôt effectués par un organisme de contrôle.
+    4. Une copie des déclarations de conformité « CE ».
+    5. Toutes les modifications apportées à l'installation, tous les travaux d'entretien, essais,
+       contrôles et vérifications.
+
+21.2. Le registre doit être présenté aux inspecteurs de l’organisme de contrôle ainsi qu’aux
+inspecteurs de l’Inspection du travail et des mines et aux agents de l’administration des
+douanes et accises sur demande.
+
+Art. 22. - Vidange du réservoir
+
+22.1. La vidange du réservoir ne peut être effectuée:
+    - qu’en vue du remplacement du réservoir
+    - qu'en vue d'une réparation importante à effectuer
+    - qu'en vue d'une réépreuve du réservoir
+    - qu'à la mise hors service du réservoir
+    - qu'à la demande de l'Inspection du travail et des mines ou
+    - qu'en cas de danger grave
+
+22.2. Cette vidange ne peut être réalisée qu'en pompant le GPL dans un camion-citerne par
+aspiration ou par tout autre procédé garantissant un même niveau de sécurité.
+
+22.3. L'élimination des restes de la phase gazeuse peut se faire en brûlant ce gaz par une
+torchère, tout en remplissant lentement le réservoir d'eau.
+
+22.4. L'opération de vidange doit être conduite par une personne compétente et responsable de
+l'usage en toute sécurité du matériel, ainsi que des mesures à prendre en cas d'accident.
+
+22.5. Cette personne doit être présente pendant toute la durée des opérations de vidange.
+
+22.6. Avant le raccordement des tuyaux de vidange au réservoir, le camion-citerne doit être
+relié par une liaison équipotentielle (voir art. 11.3 et art. 19.8. ci-dessus) à la borne de
+raccordement équipotentielle du réservoir.
+
+Art. 23. - Remplacement du réservoir
+
+23.1. Le réservoir ne peut être remplacé que par un réservoir ayant la même capacité
+géométrique ou ayant une capacité géométrique inférieure à celle du réservoir à remplacer.
+
+
+
+
+page 16 de 17 pages                                                               ITM-SST 1703.1
+Si le réservoir devait être remplacé par un réservoir d’une capacité géométrique supérieure à
+celle du réservoir à remplacer, cet échange ne peut être effectué que sur base de nouvelles
+autorisations telles que prévues par la loi modifiée du 10 juin 1999 relative aux établissements
+classés.
+
+23.2. Avant son remplacement, le réservoir doit être vidangé et neutralisé en le remplissant
+d’un gaz inerte (de préférence par de l’azote).
+
+23.3. Le réservoir remplacé doit être enlevé immédiatement des lieux.
+
+23.4. Aucun réservoir contenant encore du gaz en phase liquide ne peut être transporté sur la
+voirie publique (Prescriptions ADR).
+
+23.5. Après le remplacement du réservoir et avant le premier remplissage, l’installation doit
+subir un premier contrôle périodique devant tenir compte des stipulations afférentes du
+présent document.
+
+23.6. L’Inspection du travail et des mines doit être informée sans délai de tout remplacement
+d’un réservoir.
+
+
+
+
+               Visa du directeur adjoint                         Mise en vigueur
+               de l’Inspection du travail                         le 11.01.2008
+                      et des mines
+                                                                         s.
+
+                                                                   Paul WEBER
+                      Robert Huberty                                 Directeur
+                                                             de l’Inspection du travail
+                                                                    et des mines
+
+
+
+
+page 17 de 17 pages                                                                  ITM-SST 1703.1
+

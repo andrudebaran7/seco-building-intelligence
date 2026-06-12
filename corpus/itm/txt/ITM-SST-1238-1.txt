@@ -1,0 +1,156 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                Strassen, 9 février 2015
+
+
+
+
+                                                                                           ITM-SST 1238.1
+
+
+
+
+                                                       Monte-charges
+                                                    avec marquage « CE »
+
+
+                                               U   Prescriptions de sécurité types
+                                              Le présent document comporte 3 pages
+
+                                 Est aussi applicable la prescription ITM-SST 1230
+
+                                                                    U   Sommaire
+
+
+    Article                                                                                                                Page
+
+     1.                              Objectif et domaine d'application                                                      2
+     2.                              Définition                                                                             2
+     3.                              Equipement du monte-charge                                                             2
+
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs       L-2763 STRASSEN Tél : 2478-6213   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les règles de sécurité et de
+santé types à observer lors de l’implantation, de l’exploitation et du contrôle d’un monte-
+charge et conçu d’après les exigences de la directive 98/37/CE respectivement 2006/42/CE
+relative aux machines.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de
+cas en cas par l’Inspection du travail et des mines, selon le cas sur avis d’un organisme de
+contrôle, si des mesures de rechange garantissant une protection au moins équivalente sont
+prises.
+
+
+Art. 2. - Définition
+
+2.1. Par la dénomination « monte-charge » est à comprendre dans le contexte des présentes
+prescriptions un appareil de levage installé à demeure, desservant des niveaux définis, qui
+comporte un habitacle, qui se déplace le long d'un ou de plusieurs guides rigides, dont la
+commande ne peut se faire que de l'extérieur, et qui est interdit au transport de personnes.
+
+
+Art. 3. - Equipement du monte-charge
+
+3.1. Gaine
+
+3.1.1. Une gaine dans laquelle circule le monte charge ne peut influencer le
+compartimentage contre l’incendie du bâtiment.
+
+3.1.2. La gaine doit être exclusivement affectée au service du monte-charge. Elle ne doit
+renfermer ni canalisations, ni organes étrangers au service du monte-charge quels qu'ils
+soient.
+
+3.1.3. La gaine doit être munie d'un éclairage électrique placé à demeure permettant
+d'assurer son éclairement lors des opérations de dépannage ou d'entretien, même lorsque
+toutes les portes sont fermées. Cet éclairage peut être omis si la gaine est conçue en verre
+et l’éclairage de l’entourage est suffisant pour permettre les travaux à l’intérieur de la gaine
+dans des conditions adéquates.
+
+3.2. Locaux de machines et de poulies
+
+3.2.1. Les machines, leur appareillage respectivement armoire de commande et les poulies
+ne doivent être accessibles qu'aux personnes autorisées et initiées (p.ex. pour la
+maintenance, l'inspection et les secours).
+
+La machine et son appareillage doivent se trouver dans un local qui leur est spécialement
+affecté comportant des murs, un plafond, une porte et/ou une trappe pleins.
+
+Les machines, leur appareillage et les poulies, peuvent se trouver dans des locaux servant à
+d'autres usages s'ils sont séparés du reste du local par une clôture d'une hauteur minimale
+de 1,8 m munie d'une porte d'accès fermant à clé.
+
+3.2.2. Les accès depuis la voie publique jusqu'à l'intérieur des locaux de machines et des
+poulies doivent pouvoir être correctement éclairés par des lampes électriques placées à
+demeure et doivent pouvoir être parcourus aisément en toute sécurité, en toutes
+circonstances et sans nécessiter le passage dans un local privé.
+
+
+
+Page 2 sur 3                                                                    ITM-SST 1238.1
+3.2.3. Les dimensions du local doivent être suffisantes pour permettre au personnel
+d'entretien d'accéder en toute sécurité et facilement à tous les organes mécaniques, ainsi
+qu'aux équipements électriques.
+
+La hauteur du local doit être de 2 m au moins
+
+En plus doivent être prévues :
+1. Une surface libre horizontale devant les tableaux de manœuvre et les armoires. Cette
+surface est définie comme suit :
+             - profondeur, mesurée à partir de la surface extérieure des enveloppes d’au
+                  moins 0,7 m ;
+             - largeur, la plus grande des dimensions suivantes : 0,5 m ou la largeur totale
+                  de l’armoire ou du tableau ;
+
+2. Une surface libre horizontale minimale de 0,5 m x 0,6 m pour la maintenance et la
+vérification des parties en mouvement où cela est nécessaire et, le cas échéant, la
+manœuvre manuelle de secours.
+
+Lorsque le sol du local des machines compte des volumes en creux dont la profondeur est
+supérieure à 0,5 m et la largeur inférieure à 0,5 m, ou des caniveaux, ils doivent être
+couverts.
+
+3.2.4. Les locaux de machines et de poulies doivent être ventilés et éclairés. Au moins une
+prise de courant (230V, 16A) doit être disponible dans ces locaux.
+
+3.3. Affiches
+
+3.3.1. Dans l’habitacle, une affiche indiquant la charge maximale admissible est à placer.
+
+En cas d'utilisation d'un engin pour le chargement et déchargement de l’habitacle, un
+écriteau d'avertissement doit être fixé dans l’habitacle et sur les faces palières pour attirer
+l'attention des utilisateurs sur le poids supplémentaire de l'engin dans l’habitacle.
+
+3.3.2. Une affiche indiquant que le transport de personnes est interdit et ayant des
+dimensions suffisantes est à apposer de façon indélébile dans la cabine.
+
+3.3.2 Les affiches doivent être faites dans une des langes luxembourgeoise, française, ou
+allemande.
+
+
+
+                                       Mise en vigueur
+                                       le 9 février 2015
+
+                                               s.
+
+                                          Marco BOLY
+                                          Directeur f.f.
+                                   de l’Inspection du travail
+                                          et des mines
+
+
+
+
+Page 3 sur 3                                                                   ITM-SST 1238.1
+

@@ -1,0 +1,564 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                     Strassen, le 28/02/2013
+
+
+                                                                                                         ITM-SST 1524.1
+
+
+
+                                Prescriptions de sécurité et de santé types
+
+                                             DISPOSITIONS SPECIFIQUES
+
+                                   Structures d’éducation et d’accueil
+                                pour enfants scolarisés et enfants précoce
+
+
+                                       Les présentes prescriptions comportent 11 pages
+
+                                                               Sommaire
+      Article                                                                                                                Page
+
+             Article 1. - Objectifs et domaine d'application ......................................................... 2
+             Article 2. - Définitions ............................................................................................. 2
+             Article 3. - Implantation .......................................................................................... 3
+             Article 4. - Aménagements extérieurs .................................................................... 3
+             Article 5. - Construction .......................................................................................... 4
+             Article 6. - Aménagements intérieurs ..................................................................... 4
+             Article 7. - Compartimentage.................................................................................. 6
+             Article 8. - Evacuation de personnes, issues et dégagements intérieurs ............... 7
+             Article 9. - Eclairage ............................................................................................... 7
+             Article 10. - Désenfumage (Evacuation de fumée et de chaleur) ............................. 8
+             Article 11. - Installations techniques ......................................................................... 8
+             Article 12. - Installations au gaz ............................................................................... 8
+             Article 13. - Installations électriques ......................................................................... 8
+             Article 14. - Prévention de panique en cas d'alarme ................................................ 9
+             Article 15. - Moyens de secours et d'intervention ................................................... 10
+             Article 16. - Registre de sécurité ............................................................................ 10
+             Article 17. - Réception et contrôles ........................................................................ 11
+
+
+
+      Direction, Département Sécurité et Santé
+      Adresse postale :    Boîte postale 27       L- 2010 Luxembourg
+      Bureaux :            3, rue des Primeurs    L-2361 Strassen         Tél : 247-86213       Fax: 40 60 47
+      Site Internet :      http://www.itm.lu
+Article 1. - Objectifs et domaine d'application
+
+1.1. Généralités
+
+Les établissements figurant à l’intitulé sont soumis aux dispositions générales, ITM-SST 1501 –
+Bâtiments bas ou 1502 – Bâtiments moyens et aux présentes dispositions.
+
+1.2. Domaine d'application
+
+       1.2.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions de
+       sécurité et de santé par rapport au personnel et au public, auxquelles doivent répondre la
+       conception, la construction et l’aménagement des structures d’éducation et d’accueil pour
+       enfants scolarisés et enfants précoce. Pour l’exploitation des établissements sont
+       également à considérer d’autres législations comme p.ex. la loi modifiée du 8 septembre
+       1998 réglant les relations entre l’Etat et les organismes œuvrant dans les domaines social,
+       familial et thérapeutique dans la version la plus récente.
+
+       1.2.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés
+       de cas par cas, mais uniquement si des mesures de rechange garantissant une protection
+       au moins équivalente sont prises.
+
+       Ces mesures de rechange doivent être reconnues comme garantissant un niveau de
+       sécurité équivalent par un organisme de contrôle et acceptées comme telles par
+       l'Inspection du travail et des mines.
+
+       1.2.3. Les présentes prescriptions ne sont applicables que pour les établissements ainsi
+       que pour les installations connexes à ceux-ci et faisant partie intégrante du dossier de
+       demande d’autorisation, respectivement couvert par l’autorisation d’exploitation et ne
+       couvre pas les activités organisés en dehors du périmètre couvert par l’autorisation
+       d’exploitation.
+
+1.3. Mise en sécurité d'établissements existants
+
+       1.3.1. À l'occasion de la mise en sécurité d'un établissement existant, il peut être suppléé
+       à certaines prescriptions réglementaires d'ordre architectural, matériel ou technique, d'un
+       commun accord préalable avec l'Inspection du travail et des mines, à condition toutefois:
+
+                    que les mesures de rechange garantissent une protection au moins
+                     équivalente,
+                    que celles-ci ne soient pas assorties de façon prédominante ou exclusive
+                     de moyens d'organisation ou de comportement incontrôlables et faillibles,
+                    qu'il ne subsiste aucun risque à qualifier d'inacceptable,
+                    que les possibilités de mise à l'abri et d'évacuation des personnes soient
+                     prioritairement assurées.
+
+
+
+Article 2. - Définitions
+
+2.1. « Établissement » : L’ensemble cohérent des bâtiments, installations et aménagements
+intérieurs et extérieurs destinés exclusivement ou occasionnellement au déroulement d’une
+activité assujettie.
+
+    2/11                                                                        ITM-SST 1524.1
+2.2. « Enfant scolarisé » : Chaque enfant, soumis à l’obligation scolaire.
+
+2.3. « Enfant précoce » : Chaque enfant en bas âge non soumis à l’obligation scolaire ayant
+atteint l’âge pour fréquenter l’école précoce.
+
+Loi du 6 février 2009 relative à l’obligation scolaire :
+       « […] Art. 7. Tout enfant habitant le Luxembourg âgé de quatre ans révolus avant le
+       premier septembre, doit fréquenter l’École. Cette obligation s’étend sur douze années
+       consécutives à partir du premier septembre de l’année en question. […] »
+
+Loi du 6 février 2009 portant organisation de l’enseignement fondamental :
+       « […] Art. 18. Chaque enfant habitant le Grand-Duché et âgé de trois ans révolus avant le
+       1er septembre peut fréquenter une classe d’éducation précoce dans une école de sa
+       commune de résidence. L’admission se fait en principe au début de l’année scolaire sur
+       demande écrite des parents adressée à l’administration communale avant le 1er avril. Le
+       conseil communal peut également décider des admissions au début du deuxième et du
+       troisième trimestre. […] »
+
+Dans le présent document, le terme « enfant » sera utilisé comme synonyme pour le terme
+« enfant scolarisé » respectivement « enfant précoce ».
+
+2.4. « Service d’éducation et d’accueil » : tout établissement soumis à l’agrément gouvernemental
+au sens du projet de règlement grand-ducal concernant l’agrément à accorder aux gestionnaires
+de services d’éducation et d’accueil pour enfants par le Ministère de la Famille.
+
+
+
+Article 3. - Implantation
+
+Les locaux destinés à recevoir des enfants précoce, ne peuvent se situer à plus d’un étage d’un
+niveau qui permet de gagner soit de plain-pied la voie publique, soit de plain-pied un espace
+extérieur qui donne sur la voie publique.
+
+
+
+Article 4. - Aménagements extérieurs
+
+4.1. La circulation, le stationnement et l’arrêt des véhicules de tout genre dans l’enceinte de
+l’établissement doivent se dérouler dans le respect des règles en vigueur sur la voie publique et
+doivent être adaptées à l’activité exercée dans l’établissement. Les voies de circulation accessible
+aux véhicules ne peuvent pas servir d’aire de jeux.
+
+4.2. Aires de sports et de jeux en plein air :
+
+       4.2.1. Les aires de jeux doivent respecter la norme EN 1176 ou toute autre norme au
+       moins équivalente.
+
+       4.2.2. Le sol des aires de jeux doit être aménagé conformément à la norme EN 1177 ou
+       toute autre norme au moins équivalente. En dessous et autour des équipements de jeux,
+       le sol doit être recouvert d’un matériau mou ou élastique. Indépendamment de la hauteur
+
+
+
+    3/11                                                                         ITM-SST 1524.1
+       de chute, les revêtements tels que le béton, asphalte ou autres matériaux bitumineux ne
+       doivent pas être utilisés dans la zone d’impact autour d’un équipement de jeu.
+
+       4.2.3. Les fondations et autres aménagements d’ancrage durs doivent être recouverts ou
+       protégés.
+
+       4.2.4. Les aires de sports et de jeux et tous ses équipements, agrès et installations
+       doivent être contrôlées régulièrement par une personne compétente. Tous les défauts,
+       dérangements ou facteurs de risques quelconques doivent être éliminés sans délai.
+
+4.3. La plantation de haies ou d’arbustes épineux ou vénéneux n’est pas autorisée.
+
+4.4. En cas d’installation de clôtures, de portails, respectivement de garde-corps, ceux-ci doivent
+avoir une hauteur minimale de 1 m et être réalisés de manière qu’on ne puisse y grimper, s’y
+coincer un doigt ou un pied, engager la tête dans une ouverture ou passer en-dessous.
+
+4.5. Garde-corps et mains courantes
+
+En aggravation de l’article 4.3.6. des dispositions générales, une main courante supplémentaire
+pour enfants inférieur à 6 ans doit être placée à une hauteur d’au moins 50 cm et d’au plus 60 cm
+dans les escaliers accessibles aux enfants. Le diamètre de cette main-courante doit être
+supérieur à 3 cm et inférieur à 4,5 cm.
+
+Pour la conception et le calcul des garde-corps il y a lieu d’appliquer la norme française NF P 01 -
+012 la plus récente en date ou toute autre norme au moins équivalente.
+
+
+
+Article 5. - Construction
+
+Voir dispositions générales ITM-SST-1501 et ITM-SST-1502.
+
+
+
+Article 6. - Aménagements intérieurs
+
+6.1. Les conditions climatiques à l’intérieur des établissements doivent être telles que les
+personnes puissent se sentir à l’aise et qu’il n’y ait pas de risque d’atteinte à leur intégrité
+physique.
+
+6.2. Acoustique :
+Le niveau du bruit et des perceptions acoustiques dans les établissements et les locaux doit être
+tenu dans des limites telles que les personnes ne puissent se sentir incommodées et qu’il n’y ait
+aucun risque de nuisance ou d’atteinte à leur intégrité physique.
+
+Dans les salles, locaux et espaces à activités essentiellement intellectuelles, la moyenne des
+niveaux d’exposition au bruit ne doit pas dépasser 50 dB(A).
+
+Le temps de réverbération pour tous les locaux ne doit pas dépasser 1s.
+
+Les mesures et moyens à mettre en œuvre pour limiter le niveau du bruit aux valeurs fixées sont
+dans l’ordre de leur mise en application:
+
+
+    4/11                                                                         ITM-SST 1524.1
+       -   le choix adéquat du lieu d’implantation, du mode de construction, des matériaux, des
+           équipements et des installations,
+       -   l’élimination ou la diminution des sources de bruit,
+       -   la protection ou le blindage des sources de bruit par des aménagements ou dispositifs
+           d’amortissement ou d’absorption,
+       -   la coupure ou l’atténuation de la transmission du bruit par des mesures d’isolation et
+           d’insonorisation adéquates,
+       -   la réduction des temps d’exposition.
+
+6.3. La hauteur libre minimale sous plafond des locaux destinés au séjour et au repos des
+enfants, ainsi que les locaux servant comme lieu de travail (p.ex. bureau), doit être de 2,50 m au
+moins.
+
+Les locaux mansardés, destinés au séjour et au repos des enfants ainsi que les locaux servant
+comme lieu de travail, doivent disposer d’une hauteur minimale de 2,50 m sur au moins 2/3 de la
+surface et une hauteur minimale de 1,80 m sur au plus 1/3 de la surface. Les surfaces de ces
+locaux disposant d’une hauteur inférieure à 1,80 m, ne sont pas à considérer pour le calcul qui
+précède.
+
+La hauteur libre minimale sous plafond des locaux sanitaires doit être de 2,30 m au moins.
+
+6.4. En aggravation de l’article 6.5.3 des dispositions générales, une main courante
+supplémentaire pour enfants inférieur à 6 ans doit être placée à une hauteur d’au moins 50 cm et
+d’au plus 60 cm dans les cages escaliers accessibles aux enfants. Le diamètre de cette main-
+courante doit être supérieur à 3 cm et inférieur à 4,5 cm.
+
+6.5. Les matériaux, le placage, le revêtement et la peinture du mobilier ainsi que des jouets et
+matériels didactiques, surtout s’ils sont manipulés par des enfants, doivent être dépourvus de tout
+risque, tant du point de vue mécanique qu’en ce qui concerne les dangers d’intoxication ou
+d’émanations nocives, à l’état normal ou sous l’influence d’agents tels que l’humidité et la chaleur.
+
+Dans les locaux accessibles aux enfants, les parois ne peuvent pas être revêtues avec du crépis
+jusqu’une hauteur de 2,20 m.
+
+6.6. Le mobilier doit être choisi et mis en place de façon à correspondre aux critères d’ergonomie
+lors de leur utilisation.
+
+6.7. Les équipements et endroits pouvant comporter des risques de blessures en cas de heurt, de
+chute, de coincement ou de brûlures, (tels que les radiateurs, les bancs et bacs à fleurs, les
+armoires et vitrines suspendues, les portes, les zones ouvertes sous escaliers, etc.) et placés
+dans les voies de circulation et dans les lieux de séjour, doivent être masqués, cachés, protégés
+ou être aménagés de façon à éviter tout risque lors de l’exploitation.
+
+6.8. Dans les locaux accessibles aux enfants, la température de l’eau chaude devra être limitée
+par thermostat à une température qui ne peut être supérieure à 40 °C.
+
+Les radiateurs ayant une température supérieure à 60 °C doivent être protégés pour éviter tout
+risque de brûlure pour les enfants.
+
+6.9. Les fenêtres dans les pièces accessibles aux enfants doivent disposer d’un système pour
+éviter l’ouverture par les enfants.
+
+
+
+    5/11                                                                          ITM-SST 1524.1
+6.10. Les jouets destinés aux enfants doivent respecter la directive 2009/48/CE du parlement
+européen et du conseil du 18 juin 2009 relative à la sécurité des jouets, transposé en droit
+national par la loi du 15 décembre 2010 relative à la sécurité des jouets.
+
+6.11. Equipements de jeux à l’intérieur :
+
+       6.11.1. Les équipements de jeux doivent respecter la norme EN 1176 ou toute autre
+       norme au moins équivalente.
+
+       6.11.2. Le sol autour les équipements de jeux doit être aménagé conformément à la
+       norme EN 1176 ou toute autre norme au moins équivalente.
+
+       6.11.3. Les aménagements d’ancrage durs doivent être recouverts ou protégés.
+
+       6.11.4. Les équipements de jeux doivent être contrôlés régulièrement par un service
+       compétent. Tous les défauts, dérangements ou facteurs de risques quelconques doivent
+       être éliminés sans délai.
+
+6.12. Hygiène
+
+Les différents locaux, les jouets, tables à langer, tables de repas, etc. doivent être nettoyés et/ou
+si nécessaire désinfectés régulièrement tout en utilisant des produits adéquats.
+
+Chaque établissement doit établir un plan d’hygiène selon les règles de l’art, reprenant les
+différentes procédures de nettoyage et de désinfection, ainsi que les produits à utiliser.
+
+Les exploitants de l’établissement doivent s’assurer que le personnel en charge du nettoyage et
+de la désinfection dispose d’une formation adéquate en matière d’hygiène.
+
+Des lavabos hygiéniques équipés de distributeurs de savon liquide et d’un désinfectant sont à
+prévoir dans les stations d’hygiène, ainsi que dans les cuisines professionnelles.
+
+Les produits de nettoyage et de désinfection sont à installer hors portée des enfants.
+
+Les brosses à dents sont à changer régulièrement et sont à conserver individuellement dans un
+gobelet pour chaque enfant.
+
+Des essuies mains à usage unique doivent être disponibles près des stations d’hygiène.
+
+Les langes usés sont à déposer dans des poubelles hermétiquement fermés. Elles sont à vider
+tous les jours.
+
+Les bacs de jeux de sable sont à protéger. Le sable est à changer régulièrement, ceci au moins
+une fois par an et lors de souillures importantes.
+
+
+
+Article 7. - Compartimentage
+
+7.1. En allègement à l’article 7.2.3. des dispositions générales applicables aux bâtiments bas et
+moyens, les niveaux entre eux ne doivent pas être compartimentés coupe-feu si la surface
+continue ne dépasse pas 1.600 m2. Pour toute surface continue supérieure à 1.600 m2 des
+conditions d’exploitation supplémentaires peuvent être exigées par les autorités compétentes.
+
+    6/11                                                                          ITM-SST 1524.1
+7.2. Au cas où, dans un bâtiment bas, un escalier réglementaire s’avère nécessaire, celui-ci est à
+compartimenter coupe-feu 60 minutes (REI 60) pour les parois et coupe-fumée 30 minutes pour
+les portes.
+
+7.3. Les spécifications de l’article 7.5. des dispositions générales concernant le compartimentage
+coupe-feu des locaux à risques sont d’application.
+
+7.4. En allègement à l’article 7.5.1. des dispositions générales, les buanderies ayant une
+puissance nominale inférieure à 10 kW peuvent être considérées comme des locaux à faibles
+risques.
+
+
+
+Article 8. - Evacuation de personnes, issues et dégagements intérieurs
+
+8.1. Pour l’évacuation des enfants scolarisés, le nombre du personnel est à calculer en fonction
+de 1 personne par 20 enfants, et pour les enfants précoces, le nombre du personnel est à
+calculer en fonction de 1 personne par 12 enfants susceptibles d’être présents dans
+l’établissement.
+
+8.2. En allègement à l’article 8.4.1. des dispositions générales, les couloirs et les corridors doivent
+avoir une largeur minimale libre de 1 m.
+
+En aggravation à l’article 8.4.1. des dispositions générales, les largeurs des couloirs, portes,
+corridors et sorties doivent être calculées sur la base minimale de 1 cm au moins par personne.
+
+8.3. En allègement à l’article 8.7.1. des dispositions générales, les portes à simple vantail doivent
+avoir une largeur minimale libre de 0,80 m.
+
+8.4. En allègement à l’article 8.8.1. des dispositions générales, les escaliers doivent avoir une
+largeur minimale libre de 1 m.
+
+En aggravation de l'article 8.8.3 des dispositions générales, la largeur de ces escaliers doit être
+calculée sur la base de 1,25 cm pour un escalier descendant et 2 cm par personne pour un
+escalier montant.
+
+
+
+Article 9. - Eclairage
+
+9.1. Les locaux destinés au séjour et au repos, ainsi que les lieux de travail occupés
+régulièrement, doivent disposer en plus de la lumière naturelle d'un éclairage artificiel permettant
+aux occupants de se déplacer et d'effectuer leur activité dans de bonnes conditions de sécurité et
+de santé, sans éblouir les occupants.
+
+9.2. L’ouverture nette des fenêtres pour les locaux de séjour des enfants doit être au minimum
+d’1/10ème de la surface du local. Ces fenêtres doivent être disposées verticalement.
+
+9.3. L’éclairage naturel, artificiel ou mixte des espaces et locaux doit être adapté aux activités
+respectives :
+
+
+
+    7/11                                                                           ITM-SST 1524.1
+           Genre d’activité                                                  Intensité lumineuse
+                                                                              nominale [Lux] (*)
+           Voies de circulation extérieures                                           20
+           Voies de circulation intérieures                                          100
+           Réfectoires, locaux de repos, salles de pause                             100
+           Bureaux                                                                   500
+           Locaux de premier secours                                                 500
+           Locaux techniques                                                         100
+           Locaux de séjour sans travail intellectuel                                300
+           Locaux de séjour avec travail intellectuel                                500
+           Dortoirs                                                                  300
+           Toilettes, douches, lavabos                                               100
+           Vestiaires                                                                100
+           Salles à manger, cantines, restaurants scolaires                          200
+           Cuisines de réchauffement                                                 300
+           Cuisines de production                                                    500
+
+       (*) « L’Intensité lumineuse nominale » mesurée en Lux est l’intensité lumineuse moyenne
+       d’un lieu de travail, mesurée lorsque l’installation d’éclairage artificiel a atteint sa moyenne de
+       durée de vie.
+
+9.4. L'éclairage artificiel est à tenir dans un parfait état d'entretien et de fiabilité. Les fenêtres et
+autres éclairages naturels sont à tenir dans un état de propreté de façon à ce qu'une vue sur
+l'extérieur soit garantie.
+
+
+
+Article 10. - Désenfumage (Evacuation de fumée et de chaleur)
+
+Voir dispositions générales ITM-SST-1501 et ITM-SST-1502.
+
+
+
+Article 11. - Installations techniques
+
+Voir dispositions générales ITM-SST-1501 et ITM-SST-1502.
+
+
+
+Article 12. - Installations au gaz
+
+Voir dispositions générales ITM-SST-1501 et ITM-SST-1502.
+
+
+
+Article 13. - Installations électriques
+
+13.1. Dans les locaux fréquentés par les enfants, les installations électriques (les prises, les
+prolongateurs et fiches à raccordement multiples, etc.) doivent être sécurisées pour éviter des
+risques comme par exemple l’électrocution, l’étranglement, etc.
+
+    8/11                                                                                   ITM-SST 1524.1
+13.2. L'alimentation électrique des machines, appareils, installations et équipements accessibles
+au personnel, aux enfants et au public doit être protégée par des disjoncteurs différentiels
+déclenchant au plus tard en présence d'un courant de défaut de 0,03 A.
+
+
+
+Article 14. - Prévention de panique en cas d'alarme
+
+14.1. Formation du personnel
+
+       14.1.1. La formation des membres du personnel en matière de sécurité et d'évacuation
+       doit être organisée suivant les besoins respectifs par l'exploitant.
+
+       14.1.2. Chaque membre du personnel doit recevoir une formation à la fois suffisante et
+       adéquate à la sécurité et à la santé, notamment sous forme d’informations et
+       d’instructions.
+
+       La formation prévue au paragraphe précédent doit se dérouler durant le temps de travail,
+       soit à l’intérieur, soit à l’extérieur de l’établissement.
+
+       14.1.3. Les formations ne peuvent en aucun cas entraîner des charges financières pour le
+       personnel. Elles doivent être adaptées à l'évolution des risques et à l'apparition de
+       nouveaux risques; elles doivent être répétées périodiquement si nécessaire.
+
+       14.1.4. Les programmes de formation portent dans les grandes lignes sur notamment:
+       -    la manutention manuelle et mécanique de charges,
+       -    les moyens et mesures de sécurité mis en oeuvre, notamment en matière de
+            prévention des incendies et de la panique,
+       -    la signalisation de sécurité et le contrôle du dégagement permanent des issues,
+       -    la prévention générale des accidents et les moyens et mesures inhérents à la
+            sécurité du travail, de même que les moyens de protection individuelle ou collective,
+       -    l'hygiène et l'emploi des substances et produits dangereux,
+       -    les moyens et mesures à mettre en oeuvre afin de maintenir la sécurité, constater et
+            remédier aux situations et comportements dangereux,
+       -    le concours à d'éventuelles opérations d'évacuation, de secours et d'intervention
+            simples.
+
+       14.1.5. Pendant les heures d’ouverture de l’établissement, au moins une personne ayant
+       reçu une formation sur les premiers secours et l'emploi des extincteurs portatifs d'incendie
+       doit se trouver en permanence dans l’établissement.
+
+14.2. Exercices d’évacuation
+
+       14.2.1. Un exercice d’évacuation doit être organisé au moins deux fois par an.
+
+       14.2.2. Des précautions particulières doivent être prises et la préparation aux exercices
+       d’évacuation doit être judicieuse et progressive, afin que tout risque d’émotion
+       préjudiciable soit évité aux enfants.
+
+
+
+
+    9/11                                                                        ITM-SST 1524.1
+       14.2.3. L’exploitant doit dresser après chaque exercice d’évacuation un rapport sur son
+       déroulement comprenant des remarques éventuelles. Ce rapport est à intégrer au registre
+       de sécurité.
+
+14.3. Pendant les heures d’ouverture de l’établissement, l’exploitant est tenu d’entretenir une liste
+de présence des membres du personnel et des enfants présents dans l’établissement. En cas
+d’alarme dans l’établissement, cette liste sert à l’appel nominal et au recensement des présences
+au point de rassemblement. Les visiteurs sont à prendre en charge par les membres du
+personnel leur ayant permis l’accès au bâtiment.
+
+14.4. Les plans et consignes d’urgences sont à intégrer dans le registre se sécurité.
+
+
+
+Article 15. - Moyens de secours et d'intervention
+
+15.1. Extincteurs portatifs
+
+Pour le choix des extincteurs portatifs dans les locaux de séjour et les locaux de stockage, les
+extincteurs à mousse sont à préférer aux autres agents d’extinction.
+
+Pour le calcul du nombre des extincteurs à installer, les locaux de séjour sont à considérer
+comme étant des locaux à risque incendie moyen et les locaux de stockage sont à considérer
+comme étant des locaux à risque incendie important.
+
+15.2. Robinets d’incendie armés
+
+Des robinets d’incendie armés ne doivent pas être prévus.
+
+15.3. Détection incendie
+
+Tous les établissements sont à équiper d’une installation de détection incendie automatique et
+d’alarme, susceptible de détecter et de signaler tout début d’incendie dans n’importe quel local,
+compartiment, dégagement et espace, y compris dans les compartiments techniques, les dépôts
+et les annexes.
+
+L’installation automatique de détection incendie doit être conçue conformément aux normes EN
+54, VDE 0833, NBN S21-100, règle R7 APSAD Française, NF S 61 et ISO 8201 ou toute autre
+norme au moins équivalente.
+
+15.4. Alerte
+
+L'établissement sera raccordé directement aux services de secours via le Réseau Public de
+Transmission d’Alarmes (ALARMIS). Cette transmission peut être temporisée.
+
+
+
+Article 16. - Registre de sécurité
+
+16.1. Le registre de sécurité doit être présenté, sur simple demande orale, au personnel de
+l’établissement ainsi qu’aux autorités de contrôle.
+
+
+
+    10/11                                                                         ITM-SST 1524.1
+Article 17. - Réception et contrôles
+
+17.1. Les aires de sports et de jeux et tous ses équipements, agrès et installations doivent être
+réceptionnés par un organisme de contrôle agréé.
+
+17.2. Quant aux réceptions des installations de sécurité, celles-ci sont à réaliser par un organisme
+de contrôle suivant les dispositions indiquées aux articles 17.2 et 17.3 des dispositions générales.
+
+En ce qui concerne les contrôles périodiques des installations de sécurité (détection incendie,
+détection gaz, éclairage de sécurité, extincteurs, etc.), celles-ci sont à réaliser annuellement par
+un service compétent et tous les trois ans par un organisme de contrôle agrée.
+
+
+
+            Visa du Directeur adjoint                       Mise en vigueur, le 4 mars 2013
+            de l’Inspection du travail
+                   et des mines                                             s.
+
+                        s.                                             Paul Weber
+                                                                         Directeur
+               Robert HUBERTY                                   de l’Inspection du travail
+                                                                       et des mines
+
+
+
+
+    11/11                                                                        ITM-SST 1524.1
+

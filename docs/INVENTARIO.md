@@ -48,7 +48,8 @@ normalizó y cruzó cada dato: ver `METODOLOGIA.md`.
 | `pdf/` | qualiteconstruction.com (AQC, vía API WordPress) | 89 PDFs | Fichas de patología constructiva, temas A–G (fundaciones, envolvente, ventilación, mantenimiento…) |
 | `txt/` | Extracción con pdftotext | 89 textos | Texto plano de cada ficha (~14.500 caracteres de mediana) |
 | `manifest.{csv,jsonl}` | Generado | 89 entradas | Código de ficha (A.01–G.13), tema, título, URL origen, fecha publicación, rutas locales |
-| `rag_index.db` (4,3 MB) | Generado (embeddings locales e5-small) | 1.011 fragmentos | Texto troceado + vector de 384 dimensiones + metadatos, consultable por similitud en FR/ES/EN |
+| `rag_index.db` (30 MB, en `corpus/`) | Generado (embeddings locales e5-small) | 7.551 fragmentos / 232 docs | AQC + ITM troceados, vector de 384 dims + fuente + idioma por fragmento, consultable en FR/ES/EN/DE |
+| `itm/pdf/` + `itm/txt/` + `manifest.*` | itm.public.lu (conditions-types) | 143 prescripciones (140 FR, 3 DE) | Serie edificación/incendio ITM-SST 1100-2000: prescripciones de seguridad obligatorias de Luxemburgo |
 
 ## Intermedios (en `downloads/`, ~1,5 GB — **borrable entero**)
 

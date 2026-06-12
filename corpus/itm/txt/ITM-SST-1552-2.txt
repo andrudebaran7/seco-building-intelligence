@@ -1,0 +1,2003 @@
+GRAND-DUCHE DE
+LUXEMBOURG
+
+
+
+
+                                                                                           Strassen, novembre 2014
+
+                       Le présent texte a été établi par l’Inspection du travail et des mines et
+                          le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                             ITM-SST 1552.2
+
+                           Prescriptions de prévention incendie
+                                   INSTRUCTION TECHNIQUE
+                Conception du désenfumage
+    Calcul des installations d’évacuation de fumées et de
+                        chaleur (EFC)
+                                                Le présent document comporte 44 pages
+
+                                                                  SOMMAIRE
+    Article                                                                                                             Page
+
+    1)        Objectif et domaine d'application                                                                          2
+    2)        Définition                                                                                                 3
+    3)        Prescriptions                                                                                              4
+    4)        Analyse des risques liés à la fumée                                                                        5
+    5)        Choix des règles de conception                                                                             6
+    6)        Choix des scénarios courants d'incendie                                                                   32
+    7)        Choix de la méthode de dynamique des fluides CFD                                                          33
+    8)        Procédure de validation et de contrôle                                                                    41
+    9)        Transposition des hypothèses de dimensionnement et des résultats de
+              calcul dans les documents d'exécution et d'exploitation                                                   44
+
+
+
+         ________________________________________________________________________________________________________________
+         Direction, Département Sécurité et Santé
+         Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+         Bureaux: 3, rue des Primeurs, L-2361 Strassen    Tél: 247-86145   Fax: 49 14 47
+         Site Internet: http://www.itm.lu
+Article 1. - Objectifs et domaine d’application
+La présente Instruction Technique a pour but d’aider l’applicateur à comprendre les choix à
+faire et à choisir les données de base de conception et de calcul d'une installation de
+désenfumage appelée ci-après EFC (Evacuation de Fumées et de Chaleur).
+Les gaz et fumées de combustion produits par tout foyer d’incendie se mélangent à de l’air
+ambiant dans son voisinage. Le mélange gazeux ainsi formé, dilaté par la chaleur, est plus
+léger que l’air ambiant, et s’élève en panache au-dessus du foyer.
+La masse gazeuse du panache de fumée augmente progressivement en hauteur avec
+entraînement d’air ambiant, par suite de l’effet du frottement de la fumée (en mouvement
+ascensionnel) sur l’air ambiant à la périphérie du panache.
+Le mouvement ascensionnel de la fumée se poursuit jusqu’à être empêché par la présence
+d’une paroi horizontale étanche aux fumées (plancher, faux-plafond, écran, etc.), qui a pour
+effet de dévier la fumée horizontalement. La fumée prolonge son mouvement en s’étalant
+sous la paroi horizontale dans toutes les directions possibles, jusqu’à rencontrer une paroi
+verticale qui la dévie à son tour vers le bas.
+Une couche de fumée (plus chaude, donc plus légère que l’air ambiant qui est en-dessous) se
+forme ainsi au plafond et s’épaissit progressivement au fur et à mesure qu’elle est alimentée
+par le développement de la masse gazeuse produite par le foyer.
+Une installation EFC a généralement pour but de rendre libre de fumées les itinéraires requis
+pour l’évacuation des occupants et l’accès des services d’incendie et de sauvetage. D'autre
+part une installation EFC peut aussi avoir comme but d'éviter une propagation généralisée de
+la fumée. Plusieurs options de conception sont possibles :
+1.    Une première option consiste à maintenir une hauteur libre de fumée suffisante au-
+      dessus du sol pour permettre le déplacement de personnes sous la couche de fumée
+      pendant un temps suffisant pour l’évacuation des occupants et pour l’intervention des
+      services d’incendie et de sauvetage. Dans cette option de conception, il s’agit de
+      stabiliser la couche de fumée à une hauteur suffisante en l’évacuant, soit par ventilation
+      naturelle, soit par ventilation mécanique.
+2.    Lorsque la hauteur sous plafond du local est trop faible pour stabiliser la couche de
+      fumée à une hauteur suffisante, une alternative à cette première option consiste à créer
+      le débit d’air de ventilation mécanique horizontale nécessaire pour s’opposer au
+      mouvement horizontal des fumées, et à maintenir ainsi, dans la direction de provenance
+      de l’air frais de ventilation, un itinéraire horizontal libre de fumée permettant
+      l’évacuation des occupants et l’accès des services d’incendie et de sauvetage à une
+      distance suffisamment proche du foyer pour l’intervention.
+3.    Pour un volume libre intérieur du type "Atrium", c'est-à-dire un volume disposé comme
+      une cour ou une rue intérieure, recouvert ou non et entouré par des niveaux à
+      destinations des plus variés on donne les principes et règles empiriques de bonne
+      pratique. Cela permet d'obtenir pour un désenfumage naturel les ouvertures AV en
+      partie haute de l'atrium, et pour un désenfumage mécanique le volume de fumée à
+      extraire par unité de temps.
+      Les ouvertures d'amenée d'air AI sont à réaliser en partie basse de l'atrium.
+4.    Pour des petits espaces tels que des cages d'escaliers, des locaux sans ouvertures
+      extérieures (locaux techniques, petites salles recevant du public, etc.), ou des locaux à
+      risques particuliers (réserves, stockage, archives, etc.) on donne les principes et règles
+
+
+
+Page 2 sur 44 pages                                                            ITM-SST 1552.2
+      empiriques de bonne pratique qui se réfèrent au désenfumage naturel, au désenfumage
+      mécanique ou à la mise à l’abri des fumées par surpression des locaux en question.
+Dans certains cas on peut considérer que le local est un espace ouvert à l’air libre et que donc
+la ventilation naturelle permanente suffit, comme par exemple dans le cas des parkings
+ouverts (voir ITM-SST 1506) ou d’un grand atrium pour lequel la toiture est ouverte sur au
+moins 50 % de la surface et la hauteur est inférieure à la plus grande dimension en plan.
+Par ailleurs, les corps de pompiers peuvent disposer de matériels mobiles de désenfumage.
+Ceci ne dispense pas de réaliser les installations EFC fixes décrites dans les présentes
+prescriptions et dont le but premier est la sécurité des personnes avant l’arrivée des pompiers.
+Généralement le volume à désenfumer doit comprendre dans sa partie haute les ouvertures
+d'évacuation des fumées et en partie basse les ouvertures d'amenée d'air. Un faux-plafond
+entravant la libre circulation des fumées vers les ouvertures d'évacuation,       situées entre le
+faux-plafond et le plancher supérieur, n'est pas autorisé si le faux-plafond présente moins de
+25% d'ouvertures uniformément réparties, sauf si une approche d'ingénierie conforme à
+l'article 5.7 prouve que l'évacuation des fumées permet l’évacuation des personnes et
+l’intervention du service d’incendie et de sauvetage.
+
+Article 2. - Définitions
+- foyer stationnaire: le foyer stationnaire est le plus grand incendie à prendre en
+  considération pour le calcul d’un scénario. La forme du foyer est conventionnellement de
+  forme carrée ce qui donne la surface Af [m2] du foyer stationnaire.
+- débit massique de fumée Mf [ks/s]: le débit massique de fumée est la masse de fumée
+  entrant dans la couche de fumée par unité de temps.
+- hauteur libre de fumée Y [m] : distance verticale entre le niveau du sol le plus bas et la
+  face inférieure de la couche de fumée ; cette hauteur est considérée comme libre de fumée
+  si la toxicité des fumées et la visibilité subsistante dans les chemins de fuite sont conformes
+  aux critères de l’ITM-SST 1553.
+- installation EFC naturelle : installation d’évacuation de fumées et de chaleur (EFC)
+  constituée exclusivement d’ouvertures permanentes ou activées en cas d’incendie (exutoires
+  de fumée et entrées d’air fonctionnant exclusivement de façon naturelle).
+- installation EFC mécanique : installation EFC utilisant des extracteurs mécaniques pour
+  l’évacuation de la fumée et de la chaleur ; les entrées peuvent être naturelles ou
+  mécaniques.
+- exutoire de fumée et de chaleur (exutoire EFC): ouverture débouchant à l'air libre
+  évacuant la fumée et les gaz chauds par tirage naturel. L'exutoire EFC s'étend à toute
+  l'épaisseur de la toiture, jusqu'à la face inférieure du faux-plafond. Lorsque le faux-plafond
+  présente plus de 25% d'ouvertures uniformément réparties, l'exutoire s'étend jusqu'à la face
+  inférieure de la toiture.
+- extracteur de fumée et de chaleur (extracteur EFC): ventilateur évacuant
+  mécaniquement la fumée et les gaz chauds vers l'air libre.
+- surface aérodynamique d’une entrée d'air AICI [m²] : section utile de l’ouverture pour
+  l’introduction de l’air.
+- surface géométrique d’une entrée d’air AI [m²]: section libre de l’ouverture
+  d’introduction d’air, déduction faite de tout obstacle au passage de l’air.
+
+
+
+Page 3 sur 44 pages                                                             ITM-SST 1552.2
+- surface aérodynamique d’un exutoire de fumée AVCV [m²]: section utile de l’ouverture
+  d’un exutoire de fumée déterminée suivant la norme EN 12101-2.
+- surface géométrique d’un exutoire de fumée AV [m²] : section libre de l’ouverture d’un
+  exutoire de fumée, déduction faite de tout obstacle au passage de la fumée.
+- débit des extracteurs de fumée VTc [m³/s] : débit de fumée de température Tc à extraire par
+  ventilation mécanique d’un canton de fumée.
+NB: Pour l'ensemble des définitions non reprises aux endroits précis de cette Instruction
+Technique-ci ITM-SST 1552, on se réfère aux documents CEN TR 12101-5, ainsi que
+TS/EN 12101-11 et TS/EN 12101-12 en élaboration.
+
+Article 3. - Prescriptions
+Les prescriptions ITM définissent des exigences en matière de désenfumage en termes
+généraux et renvoient aux normes européennes de la série EN 12101 pour la conception et le
+calcul des installations.
+Les normes européennes en matière de désenfumage sont établies par le CEN (Comité
+européen de normalisation) au sein duquel le Luxembourg est représenté par l’ILNAS
+(Institut Luxembourgeois de la Normalisation, de l’Accréditation, de la Sécurité et qualité des
+produits et services).
+Le CEN établit 3 types de documents qui sont publiés par les organismes nationaux de
+normalisation membres:
+     les normes européennes EN (remplacent obligatoirement les normes nationales sur le
+      même sujet),
+     les spécifications techniques CEN/TS (publication facultative comme norme nationale,
+      à l’exemple d’une norme ISO) et
+     les rapports techniques CEN/TR (document informatif).
+Pour les installations EFC, on dispose d’un ensemble de 12 normes européennes (EN 12101)
+ou rapports techniques du CEN (CEN/TR 12101) qui peuvent être utilisées au Grand Duché :
+ EN 12101-1 : smoke barriers
+            EN 12101-2 : natural smoke and heat exhaust ventilators
+            EN 12101-3 : powered smoke and heat control ventilators
+            TR 12101-4 : installations
+            TR 12101-5 : recommendations and calculation methods (steady state fires)
+            EN 12101-6 : pressure differential systems – Kits
+            EN 12101-7 : smoke duct sections
+            EN 12101-8 : smoke control dampers
+            EN 12101-9 : control panels
+            EN 12101-10 : power supplies
+            TS/EN 12101-11 : car parks (en élaboration)
+            TS/EN 12101-12 : recommendations and calculation methods (time dependent fires)
+               (en élaboration)
+            prEN 12101-13 : testing and maintenance (en elaboration).
+NOTE : L'application des documents précités suppose d’accepter des données de base définissant le
+foyer (dimensions, puissance en kW/m²) pour lesquelles l’installation EFC est dimensionnée pour un
+feu stationnaire – « steady state fire » (Tableau 1 du TR 12101-5) ou un feu évolutif « time dependent
+fires » (TS/EN 12101-12). Ces données couvrent les cas de commerces, bureaux, chambres d’hôtels et
+parkings ; elles devraient être complétées pour les autres applications courantes (usines, stockages,
+etc.).
+
+
+Page 4 sur 44 pages                                                                 ITM-SST 1552.2
+Article 4. - Analyse des risques liés à la fumée
+Les installations EFC sont à dimensionner pour permettre l’évacuation des personnes et
+l’intervention du service d’incendie et de sauvetage, en fonction de la production de la masse
+de fumée, du volume du canton de fumée ainsi que de la hauteur libre de fumée requise.
+
+4.1 Risques liés à l'évacuation des personnes.
+Le temps nécessaire à l'ensemble des occupants pour évacuer ou temps requis treq peut se
+situer autour de 10 minutes pour les bâtiments courants. Notons que le temps treq s'appelle
+RSET, " Required Safe Escape or Egress Time", selon les "Guidelines CFPA-E N°19:2009"
+de la "Confederation of Fire Protection Associations in Europe".
+Cela exige l'estimation de la toxicité des fumées et de la visibilité subsistante dans les
+chemins de fuite et donne le temps maximum disponible tdis permettant encore une
+évacuation. Ce temps s'appelle aussi ASET, "Available Safe Escape or Egress Time", selon la
+CFPA-E.
+Notons qu'en cas d'un incendie la visibilité subsistante dans les couloirs ainsi que dans les
+locaux à désenfumer doit être telle que chaque occupant puisse repérer la ou les sorties les
+plus proches et que les sapeurs-pompiers puissent voir aisément une personne à sauver et
+trouver le foyer de l'incendie dans tout local sinistré.
+Ainsi la visibilité pendant la durée de l’évacuation, et du sauvetage le cas échéant, des
+personnes doit être telle qu'elle ne soit pas inférieure à la distance qui sépare n'importe quel
+endroit d'un volume à désenfumer de la ou des sorties les plus proches, sans toutefois être
+inférieure à 35 mètres.
+
+4.2 Risques liés à l’intervention du service d’incendie et de sauvetage.
+Le temps nécessaire aux pompiers pour arriver sur les lieux du sinistre se situe en moyenne
+autour de 15 minutes.
+L'intervention du service d’incendie et de sauvetage nécessite, pour éteindre le feu, un temps
+text, généralement plus long que tdis.
+La température dans la couche de fumée sera comparée à la température de l’air au-dessus de
+laquelle la stabilité de la structure portante n'est plus garantie. Le temps critique
+correspondant tst doit rester supérieur à t dis et à text, et les installations EFC sont à
+dimensionner en conséquence.
+Ce qui veut dire qu'il faut respecter treq < tdis < text < tst .                        (1)
+Pour estimer la toxicité des fumées et la visibilité subsistante dans les chemins de fuite et
+pour l’intervention du service d’incendie et de sauvetage, ainsi que pour évaluer les temps treq
+(≡RSET) et tdis (≡ASET) les critères à respecter sont définis dans le projet ITM-SST 1553.
+Le temps tst peut être calculé à l’aide des prescriptions ITM-SST 1551.
+
+4.3 Risques restants
+Pour la détermination du temps requis treq et pour le dimensionnement de l'installation de
+désenfumage EFC l’autorité compétente peut exiger qu’une des sorties de secours soit
+considérée comme non praticable, ou que l’installation de sprinklage soit considérée comme
+défectueuse.
+
+
+
+
+Page 5 sur 44 pages                                                            ITM-SST 1552.2
+Article 5. - Choix des règles de conception
+
+5.0 Généralités
+
+5.0.1 Implantation des évacuations de fumées et des amenées d’air
+5.0.1.1 Les amenées d’air et les évacuations de fumées doivent être implantées en
+considérant, dans la mesure du possible, l’orientation des vents dominants. Les évacuations
+de fumées doivent être implantées de manière à ce qu’aucun élément de construction ou
+aménagement ne gêne l’écoulement des fumées.
+5.0.1.2. Le débouché des exutoires et des conduits d’évacuation doit se trouver en dehors des
+parties de couverture pour lesquelles une protection particulière est demandée. De plus, ces
+débouchés doivent être situés à une distance horizontale de 4 mètres au moins des baies de
+bâtiments tiers.
+5.0.1.3. Les prises extérieures d’air neuf ne peuvent pas être situées dans une zone susceptible
+d’être enfumée.
+5.0.1.4 Sauf dispositions spéciales mentionnées ci-après, l'évacuation des fumées d'un
+canton se fait en tirage naturel par des ouvertures de désenfumage situées dans le plafond de
+ce canton et, en cas d'extraction mécanique, par des bouches extrayant dans la partie haute
+enfumée du canton. Ces dispositifs doivent être conçus et disposés pour éviter
+l'entraînement, à travers la couche de fumées, d'air aspiré depuis la zone libre de fumées du
+canton.
+
+5.0.2 Caractéristiques des équipements de désenfumage
+5.0.2.1 Les commandes manuelles doivent assurer le fonctionnement du désenfumage dans
+la zone de désenfumage concernée. Dans le cas d’évacuation de fumée et d’amenées d’air,
+leur ouverture doit être obtenue simultanément à partir du même organe à manipuler du
+dispositif de commande.
+5.0.2.2 De manière générale, le désenfumage de la zone de fumée doit être commandé
+automatiquement par la détection incendie installée dans le volume correspondant. Cette
+commande automatique est doublée par la commande manuelle. La commande automatique
+des dispositifs de désenfumage des autres parties du bâtiment desservies par le même réseau
+de désenfumage est neutralisée, tant que n’a pas disparu la cause ayant provoqué la mise en
+route initiale. Toutefois, le désenfumage des autres parties du bâtiment doit pouvoir être
+commandé manuellement.
+5.0.2.3 En exploitation normale, le réarmement c'est-à-dire la fermeture des exutoires,
+ouvrants ou volets, doit être possible à partir du sol de la zone de fumée ou à partir de la
+centrale de surveillance.
+
+5.0.3 Interaction entre sprinklers et désenfumage
+En cas d'existence simultanée dans un même compartiment d'une installation de sprinklage et
+d'une installation d'évacuation de fumées et de chaleur, il faut analyser les effets réciproques
+pouvant engendrer un fonctionnement non correct.
+Un sprinklage par gouttelettes suffisamment grosses est notamment à prévoir, ainsi qu’une
+vitesse d’air d’extraction suffisamment faible au début de l’incendie.
+
+
+
+
+Page 6 sur 44 pages                                                            ITM-SST 1552.2
+5.0.4 Effets du vent
+
+Les effets du vent sur l’écoulement des fumées hors des exutoires et sur les amenées d’air
+vers l’intérieur sont à considérer lors du dimensionnement d’une installation de désenfumage
+EFC. Les autorités publiques compétentes peuvent exiger de réaliser des essais sur modèle
+réduit.
+
+5.1 Grands locaux non cloisonnés s'étendant sur un niveau
+
+5.1.1 Conditions générales
+Les conditions générales d'utilisation suivantes sont à respecter et il est conseillé de les
+étudier avant de se lancer dans un calcul détaillé explicité au chapitre suivant 5.1.2.
+Pour information il est clarifié que les règles de ces deux chapitres-ci proviennent de la NBN
+S21-208-1 de 1995, elle-même apparentée à la BS 7346-4:2003 et au Rapport Technique
+CEN/TR 12101-5 de mai 2000. Cette dernière est actuellement en voie d'être intégrée dans le
+nouveau document CEN TS/EN 12101-12, " Requirements and calculation methods for
+smoke and heat exhaust systems, employing time-dependent design fires", qui deviendra
+opérationnel vers 2014.
+Les règles présentées ici resteront d'application jusqu'au moment où la nouvelle norme CEN
+12101-12 sera publiée.
+5.1.1.1 Le dimensionnement d'une installation EFC par la méthode présente est limité à un
+compartiment ne dépassant pas 2000 m2, ou si cette surface est supérieure à cette valeur il
+faut qu'elle soit subdivisée en cantons de fumée ne dépassant pas 2000 m2 chacun. Notons
+que la longueur d'un canton de fumée ne pourra dépasser 60 m.
+5.1.1.2 Les écrans de fumée limitant un canton de fumée doivent descendre jusqu'à 0,5 m en
+dessous du niveau inférieur de la couche de fumée calculée.
+5.1.1.3 L’installation EFC (exutoires ou extracteurs, entrées d’air et écrans de fumée) doit
+être activée par une installation de détection automatique de fumée agréée. L’activation doit
+également être possible par une commande manuelle à proximité du canton sinistré.
+5.1.1.4 La surface libre des évacuations de fumée est réalisée par des exutoires de fumée en
+toiture. Lorsque le désenfumage de locaux de surface < 300 m² est exigé, il peut être réalisé
+par des ouvrants en façade, en alternative aux ouvertures dans le plafond. Dans ce cas, la
+surface libre prise en compte pour le désenfumage doit se trouver dans la moitié supérieure
+du local, être à plus de 1,8 m du plancher et avoir une surface libre double de celle nécessaire
+pour des exutoires au plafond.
+5.1.1.5 Le dimensionnement du désenfumage est basé sur un foyer stationnaire pour lequel
+on admet, dans des bâtiments courants (sprinklés ou non sprinklés), les valeurs sécuritaires
+suivantes pour la puissance ou le débit calorifique par unité de surface du foyer :
+
+                      RHRf = 250 kW/m2 pour le désenfumage naturel et
+                      RHRf = 500 kW/m2 pour le désenfumage mécanique.
+
+Dans les cas de surfaces de vente et parkings fermés (sprinklés ou non sprinklés) les valeurs
+du tableau 1 suivant doivent être utilisées.
+Dans le cas de bâtiments de stockage, des valeurs plus élevées sont à considérer, suivant par
+exemple l’Annexe B de la NBN S21-208-1.
+
+
+
+Page 7 sur 44 pages                                                            ITM-SST 1552.2
+NOTE 1 : Les valeurs de RHRf ci-dessus ne sont pas nécessairement les mêmes que les valeurs
+sécuritaires considérées pour le calcul de la résistance sous feu naturel.
+NOTE 2: Les valeurs de RHRf ci-dessus sont des valeurs sécuritaires :,
+   inférieure pour le désenfumage naturel, étant donné que la température favorise le tirage
+      naturel et qu’une basse température des fumées nécessite plus d’ouvertures d’évacuation de
+      fumée, et
+   supérieure pour le désenfumage mécanique, vu que le débit volumique à extraire augmente
+      avec la température, et donc demande des débits d’extraction plus élevés.
+
+                  Tableau 1: Valeurs par défaut d'incendies stationnaires
+         (sources - CEN/TR 12101-5 et norme en élaboration CEN TS/EN 12101-12)
+
+                                                                            Débit calorifique par
+                          Périmètre d'incendie Surface d'incendie
+         Usage                                                               unité de surface du
+                                W f (m)             A f (m2)
+                                                                            foyer RHRf (kW/m2)
+   Surface de vente
+* sprinkleurs standard              12                        9                       625
+* sprinkleurs rapides                9                        5                       625
+* sans sprinkleurs1)       largeur d'ouverture          pièce entière                1200
+                              vers la galerie
+    Parking fermé
+* sprinkleurs standard              14                 12 (1 voiture)                 330
+* sans sprinkleurs                  20                 24 (2 voitures)                330
+1) Uniquement pour des surfaces de vente s’ouvrant sur une galerie commerciale et séparée des
+surfaces voisines par des parois résistantes au feu.
+
+5.1.1.6 La hauteur libre de fumée Y doit être au moins de 2,5 m pour que l'évacuation des
+occupants et l'intervention des secours soit possible, à condition que la température moyenne
+des gaz de la couche de fumée tc reste inférieure à 200°C. Toutefois, si l’alarme d’évacuation
+est activée automatiquement et sans délai dès que la détection est confirmée, la température
+de la couche de fumée peut dépasser 200°C, à condition qu’elle reste inférieure à 300°C.
+
+NOTE : Ceci tient compte du fait que l’évacuation du compartiment est généralement achevée après
+environ 10 minutes, alors que le feu n’est pas encore entièrement développé. Passé ce délai, la
+température de la couche de fumée obtenue par les équations (5) et (7) peut être nettement supérieure
+à 300°C.
+
+5.1.1.7 L'entrée d'air doit se faire par des ouvertures à bas niveau, portes ou fenêtres, soit par
+les exutoires des cantons autres que celui en feu et doivent s'ouvrir simultanément et
+automatiquement lorsque les exutoires ou extracteurs de fumées du canton en feu sont
+actionnés.
+5.1.1.8 Dans un même canton de fumée il n'est pas permis d'utiliser simultanément exutoires
+et extracteurs de fumée.
+
+
+
+
+Page 8 sur 44 pages                                                                ITM-SST 1552.2
+5.1.2 Détails de calcul
+
+5.1.2.1 Choix de la catégorie d'usage
+La catégorie d'usage est déterminée à partir des tableaux 2 et 3 en se servant de l'Annexe A
+de la norme NBN S 21-208-1, qui attribue aux différents établissements un risque d'incendie
+léger (L), normal (N1 à N4 ), élevé en fabrication (D1 à D4 ) ou élevé en stockage (S1 à S4),
+auxquels correspondent, suivant la norme EN 12845 "Systèmes d’extinction automatique du
+type sprinkleur", respectivement les risques légers LH (light hazard), normaux OH1 à OH4
+(ordinary hazard), élevés en fabrication HHP1 à HHP4 (high hazard production) ou élevés en
+stockage HHS1 à HHS4 (high hazard storage).
+
+
+
+    Tableau 2: Risque élevé en stockage (S1 à S4) menant aux catégories de stockage
+                          SC1 à SC4 selon la NBN S21-208-1
+
+                                                                              Matériaux stockés
+                                 Emballages
+                                                                             S1     S2      S3     S4
+   C1       incombustibles, éventuellement posés sur palette en bois         SC1 SC2 SC3 SC4
+           en papier, carton, carton ondulé, bois ou matière plastique,
+   C2      à l'exclusion des mousses plastiques éventuellement posées SC2 SC2 SC3 SC4
+                                sur palette en bois
+   C3                            non repris en C1 ou C2                      SC3 SC3 SC3 SC4
+Note: Dans ce tableau les emballages sont détaillés ; pour les matériaux stockés S1 à S4, voir Annexe
+A de la NBN S 21-208-1.
+
+      Tableau 3: Risque d'incendie léger (L), risque normal (N1 à N4), risque élevé
+            en fabrication (D1 à D4) ou catégories de stockage (SC1 à SC4)
+      menant aux catégories d'usage 1 à 4 ainsi qu'à la hauteur critique de stockage
+
+                                         Espaces à protéger                               Hauteur
+  Catégories
+                                       Risque                Risque élevé                critique de
+   d'usage            Risque léger
+                                       normal       Fabrication       Stockage            stockage
+
+  Catégorie 1            L(LH)         N1(OH1)            ----       SC1(HHS1)              4m
+  Catégorie 2             ---          N2(OH2)            ----       SC2(HHS2)              3m
+  Catégorie 3             ---          N3(OH3)            ----       SC3(HHS3)             2,1 m
+                                                      D1 à D4
+  Catégorie 4             ---          N4(OH4)        (HHP1 à        SC4(HHS4)             1,2 m
+                                                       HHP4)
+
+
+
+
+Page 9 sur 44 pages                                                                ITM-SST 1552.2
+Note 1: Les indications entre parenthèses correspondent aux abréviations reprises dans la norme EN
+12845 "Systèmes d’extinction automatique du type sprinkleur". En alternative au tableau 3 ci-dessus,
+la détermination des catégories d'usage pour les risques élevés en stockage peut être réalisée en
+utilisant la méthodologie de classement en risque HHS1 à HHS4 de la norme EN 12845.
+Note 2: La hauteur critique de stockage est la hauteur à ne pas dépasser dans les risques LH et OH1
+à OH4 ; en cas de dépassement, il y a lieu d’utiliser les règles de la norme EN 12845 correspondant
+aux classes HHS.
+
+Des règles particulières sont données aux équations (8) et (13) pour tenir compte de l'effet des
+sprinkleurs. Au cas où la hauteur de stockage est supérieure à la hauteur critique donnée au
+tableau 3, il est vivement recommandé de prévoir une installation de sprinklage sous la
+toiture et dans les rayonnages. Pour obtenir les dimensions normalisées du foyer dans le cas
+d'espaces avec stockage en hauteur, il est recommandé de se référer aux chapitres 4.2.1 à
+4.2.3 de la NBN S21-208-1 (à revoir en fonction de l’élaboration de la TS/EN 12101-12).
+
+5.1.2.2 Détermination des dimensions normalisées du foyer
+La catégorie d'usage déterminée ci-devant est introduite dans le tableau 4 et donne de la sorte
+les dimensions normalisées du foyer stationnaire.
+
+                  Tableau 4: Dimensions normalisées du foyer pour espaces
+                        sans stockage ou stockage bas en rayonnage
+
+  Catégorie d'usage      Dimensions du foyer          Périmètre W f              Surface A f
+      Catégorie 1               3mx3m                      12 m                      9 m2
+      Catégorie 2             4,5 m x 4,5 m                18 m                   20,25 m2
+      Catégorie 3               6mx6m                      24 m                     36 m2
+      Catégorie 4               9mx9m                      36 m                     81 m2
+5.1.2.3 Détermination des surfaces aérodynamiques des exutoires EFC et des entrées
+d'air (désenfumage naturel)
+
+5.1.2.3.1 La surface aérodynamique des entrées d'air d'un canton de fumée doit être au moins
+égale à 1,5 fois la surface aérodynamique d'évacuation c'est-à-dire des exutoires de fumée du
+même canton
+                                  AI ∙ CI ≥ 1,5 (AV ∙ CV)                              (2)
+où:
+AI          est la surface géométrique des entrées d'air (m2)
+CI          est le coefficient aérodynamique des entrées d'air
+AV          est la surface géométrique des exutoires de fumée (m2)
+CV         est le coefficient aérodynamique des exutoires de fumée
+
+Les entrées d’air doivent être des ouvertures en partie basse du local. Dans le cas de plusieurs
+cantons de fumée, les exutoires des cantons autres que celui en feu peuvent servir d’entrée
+d’air. Toutefois, dans le cas de seulement deux cantons, les exutoires du canton autre que
+
+
+
+Page 10 sur 44 pages                                                              ITM-SST 1552.2
+celui en feu ne suffisent pas et des entrées d’air supplémentaires en partie basse sont
+nécessaires.
+
+NOTE : Le coefficient 1,5 est donné au paragraphe 5.5 de la DIN 18232-2, alors que la BS 7346-
+4:2003, au paragraphe F.5, préconise que la méthode que voici n'est plus d'application si AI ∙ CI n'est
+pas beaucoup plus grand que AV ∙ CV. Notons que le Rapport Technique CEN/TR 12101-5 confirme
+cette dernière règle. Dans le cas où AI ∙ CI < 1,5 (AV ∙ CV), il faut avoir recours à une méthode
+d’ingénierie selon le paragraphe 5.7.
+
+5.1.2.3.2 Le coefficient aérodynamique CV est à fournir par le fabricant des exutoires de
+fumée suivant la méthode d'essai décrite dans la norme EN 12101-2.
+
+5.1.2.3.3 Le coefficient aérodynamique CI des entrées d'air peut être choisi selon le tableau 5
+basé sur la DIN 18232-2 (Tabelle 1, 2003).
+
+                Tableau 5: Coefficients aérodynamiques CI des entrées d'air
+
+               Type d'ouverture          Angle d'ouverture             Coefficient CI
+                  Porte ouverte                   90°                        0,7
+               Jalousies ouvertes                 90°                       0,65
+                                                  90°                       0,65
+                                                  ≥60°                       0,5
+                Fenêtre ouverte
+                                                  ≥45°                       0,4
+                                                  ≥30°                       0,3
+
+5.1.2.3.4 Le calcul de la surface aérodynamique des exutoires AV∙CV est réalisé comme suit :
+
+     La masse de fumée entrant dans la couche de fumée par unité de temps ou débit
+      massique de fumée Mf est donné par
+
+                                  Mf = 0,188 Wf (Y)1,5        [kg/s]                                  (3)
+
+où    Wf est le périmètre du foyer [m], extrait du tableau 4,
+      Y est la hauteur libre de fumée [m].
+NOTE 1 : Il s’agit d’une équation empirique qui fut analysée par P.L. Hinkley et comparée à d'autres
+formules et à des résultats de tests de désenfumage (Fire Safety Journal, 10, 1986).
+La formule est en pratique applicable pour les grands locaux (auditoires, stades, grands bureaux
+paysagers, atriums, etc.).
+NOTE 2 : Pour les petits locaux où la charge calorifique est plus faible (petits locaux définis au 5.4),
+on peut utiliser l’équation Mf = 0,337 Wf (Y)1,5
+     Le flux de chaleur convectif Qf des gaz de combustion est donné par
+
+                                  Qf = α ∙ RHRf ∙Af       [kW]                                        (4)
+
+
+Page 11 sur 44 pages                                                                  ITM-SST 1552.2
+où    α est la part convective du flux de chaleur total prise égale à 0,7 sauf dans le cas de
+      stockage en hauteur sprinklé où il est pris égal à 0,5.
+      RHRf est la puissance ou débit calorifique par unité de surface du foyer
+          [kW/m2], donnée en 5.1.1.5,
+                Af est la surface du foyer, extraite du tableau 4.
+
+     La différence de température ∆θc entre la température moyenne des gaz entrant dans la
+      couche de fumée et la température ambiante se calcule par
+
+                                        ∆θc = Qf / (Mf ∙ cf )     [K]                              (5)
+
+où    cf est la chaleur spécifique de l'air qui pour une température moyenne de 300°C vaut
+      1,05 kJ/kg K
+
+     La surface aérodynamique AV ∙ CV des exutoires de fumée dans un canton de fumée est
+      obtenue par la relation :
+
+
+         AV ∙ CV = Mf [ Tc2 + (AVCV / AICI )2 ToTc)] 0,5 / ρo [2g∙d b∙∆θc∙To] 0,5        [m2]      (6)
+
+NOTE : Cette formule a été développée par Thomas P.H. & al en 1963 dans sa publication
+"Investigations into the Flow of hot Gases in Roof Venting, Appendix III. formula (95)"
+
+où    To est la température thermodynamique ambiante dans l'espace intérieur avant l'incendie
+      donnée par (15 + 273)= 288 K
+      Tc est la température thermodynamique moyenne de la couche de fumée, donnée par
+
+                                       Tc = (To +∆θc)       [K]                              (7)
+
+       en cas de sprinklage,           Tc = 1,5∙ts + 273K                                    (8)
+
+où    ts est la température d’activation des sprinkleurs en °C,
+      ρo est la masse volumique de l'air donnée à 15°C par 1,25 kg/m3,
+      g est l'accélération de la gravité terrestre 9,81m/s2,
+      db est l'épaisseur de la couche de fumée (m).
+
+Si le rapport AVCV / AICI n’est pas connu, le calcul de AVCV est effectué à travers l'équation
+(6) par itérations successives en partant d'une valeur supposée de AVCV / AICI.
+
+Pour le contrôle d'une installation EFC existante on utilisera l'équation suivante donnant
+l'épaisseur db de la couche de fumée
+         db = Mf3∙ cf [ Tc2 + (AVCV / AICI )2 ToTc)] / [ρo AVCV]2 ∙ [2g ∙ Qf ∙To]          [m] (9)
+
+
+
+
+Page 12 sur 44 pages                                                                ITM-SST 1552.2
+Sachant que le débit massique de fumée Mf est fonction de Y = hc - d b, où hc est la hauteur
+totale du canton de fumée suivant la figure 1, cette équation (9) est aussi à résoudre par
+itérations successives.
+
+
+
+
+      Figure 1: Bâtiment sans étage avec notations principales pour un seul canton
+
+5.1.2.3.5 Pour éviter l'entraînement d'air à travers la couche de fumée, la surface
+aérodynamique AV ∙ CV de chaque exutoire ne peut dépasser la valeur critique suivante
+
+                               (AV ∙ CV )crit = 1,4 (d b )2                              (10)
+
+où    db    est l'épaisseur de la couche de fumée (m).
+
+Si la distance D entre deux exutoires est inférieure à 3db, c'est la surface aérodynamique
+totale des deux exutoires qui ne peut dépasser 1,4 (db )2.
+
+La longueur maximale de l’ouverture d’un exutoire ne peut dépasser 3 m et ne peut être
+supérieure à db.
+
+Les exutoires doivent être installés à la partie supérieure des cantons de fumée et ne peuvent
+être distants de plus de 20 m l’un de l’autre.
+
+Le nombre minimum d’exutoires de fumée est de un par 400 m² de surface au sol.
+
+
+
+
+Page 13 sur 44 pages                                                         ITM-SST 1552.2
+5.1.2.4 Détermination du débit d'extraction EFC et des entrées d'air (désenfumage
+mécanique)
+
+5.1.2.4.1 En cas d'extraction mécanique la vitesse de l'air vTo dans les entrées d'air ne doit pas
+dépasser 5 m/s.
+
+5.1.2.4.2 Le calcul du débit total de fumée à extraire par canton se fait comme suit:
+
+     Le débit massique à extraire de la couche de fumée Mf,Tc peut s'écrire
+
+                                Mf,Tc = VTc∙ ρo (To / Tc)           [kg/s]                       (11)
+
+ Le débit total VTc de fumée à température Tc à extraire d'un canton de fumée est donné
+par la relation suivante, sachant qu'en situation d'équilibre la masse entrant dans la couche de
+fumée Mf en [kg/s] est égale à la masse à extraire de la même couche Mf,Tc
+
+                          VTc = (Mf,Tc∙ Tc ) / (ρo ∙To ) = (Mf ∙ Tc ) / (ρo ∙To )    [m3/s]      (12)
+
+ Les températures To et Tc sont obtenues par les équations (3), (4) et (5), en prenant
+comme puissance calorifique par unité de surface du foyer RHR f = 500 kW/m2.
+     o Ces températures sont valables pour des espaces non sprinklés.
+     o Si l'espace est sprinklé l'effet de refroidissement sur les fumées peut être considéré,
+        en prenant comme température thermodynamique Tc une valeur réduite par rapport à
+        l’équation (7), et qui est donnée par
+                               Tc = 0,5(t s + 15 + ∆θc ) + 273              [K]             (13)
+   où t s est la température d'activation des sprinklers en °C.
+
+5.1.2.4.3 Le nombre de points d'extraction de fumée doit être suffisant pour que la
+somme de leurs débits soit au moins égal au débit total VTc donné par l'équation (12).
+Afin de ne pas rompre néanmoins la couche de fumée et donc pour éviter l'entraînement d'air
+à travers cette couche-même, aucun point d'extraction ne peut             dépasser le débit critique
+donné par
+                              Vcrit = (2 / Tc ) [ g(db)5(Tc - To ) To ] 0,5      [m3/s]           (14)
+
+5.1.2.4.4 Comme en cas d'extraction mécanique la vitesse de l'air vTo dans les entrées d'air ne
+doit pas dépasser 5 m/s, la surface aérodynamique minimale d'introduction naturelle d'air (AI ∙
+CI) est fournie par
+                                (AI ∙ CI) vTo = VTo = VTc (To / Tc )        [m3/s]          (15)
+
+                             (AI ∙ CI) ≥ 0,2VTc (To / Tc ) = 0,2Mf /0              [m2]         (16)
+
+Il est à noter que l’effet favorable du sprinklage sur les dimensions du foyer peut être pris en
+compte en utilisant les valeurs du tableau 1, valable pour des surfaces de vente ou des
+parkings fermés.
+NOTE : Les équations précédentes (1) à (16) sont conformes aux documents NBN S21-208-1 de 1995,
+BS 7346-4:2003, CEN/TR 12101-5 de 2005 et CEN TS/EN 12101-12 de 2011 (projet).
+
+
+Page 14 sur 44 pages                                                                 ITM-SST 1552.2
+5.2 Locaux de faible hauteur
+
+5.2.1 Conditions générales
+Dans le cas de locaux de faible hauteur (inférieure à 3 m sous plafond) à désenfumer suivant
+les dispositions spécifiques (par exemple surfaces de vente, parkings), la hauteur sous plafond
+du local peut être trop faible pour stabiliser la couche de fumée à une hauteur suffisante
+(Y>2,5 m selon 5.1.1.6) et la méthode du paragraphe 5.1 n’est pas adaptée. Dans ce cas on
+crée le débit d’air de ventilation mécanique horizontale nécessaire pour s’opposer au
+mouvement horizontal des fumées et maintenir ainsi un itinéraire horizontal libre de fumée
+pour l’intervention du service d’incendie et de sauvetage, et si possible, pour l’évacuation des
+occupants.
+
+Lorsque le système d'évacuation EFC ne permet pas de maintenir un accès libre de fumées à
+toutes les sorties de secours, il ne peut être activé qu’après un délai de 5 minutes à partir du
+début de l’alarme d’évacuation, afin de laisser le temps d’évacuer (voir 5.2.2). L’alarme
+d’évacuation doit être activée automatiquement et sans délai par la détection d’incendie.
+Pendant l’évacuation, les chemins d’évacuation (de tout point vers la sortie de secours la plus
+proche) doivent être signalés (pictogrammes) et éclairés (éclairage de sécurité) en partie basse
+(hauteur au-dessus du sol ne dépassant pas 30 cm).
+
+Si l’objectif est aussi d’augmenter la sécurité de l’évacuation des personnes, le système EFC
+doit être étudié en conséquence (voir 5.2.3).
+
+Pour assurer l’accès libre de fumée, les détails de dimensionnement sont repris ci-après pour
+les parkings fermés ; ils sont fournis par la NBN S21-208-2:2006 et l'Annexe A de son
+Addendum 1:2012, ainsi que par l'Annexe C de la norme en élaboration CEN TS/EN 12101-
+11, version mars 2011.
+
+Pour d’autres applications comme les surfaces commerciales de hauteurs inférieures à 3 m
+sous plafond, le concepteur peut s’inspirer des règles applicables aux parkings fermés
+données au chapitre 5.2.2 si, et seulement si, ces surfaces sont sprinklées. Si ce n’est pas le
+cas, vu la puissance calorifique beaucoup plus élevée (voir tableau 1), il y a lieu de recourir à
+une approche d’ingénierie (chapitre 5.7).
+
+5.2.2 Accès libre de fumée pour l’intervention du service d’incendie - cas des parkings
+fermés
+
+5.2.2.1 Objet et domaine d’application
+
+Le paragraphe 5.2.2 a pour objet de définir une solution-type pour la conception et la
+réalisation des systèmes EFC par ventilation mécanique horizontale applicables au plus grand
+nombre possible de configurations de parkings rencontrées dans la pratique.
+
+NOTE : La solution-type explicitée ci-après consiste à canaliser la fumée à l’aide d’écrans fixes ou
+mobiles en vue de se ramener à une configuration similaire à un tunnel. D’autres conceptions de
+désenfumage de parkings utilisant des ventilateurs jets (« boosters ») combinés avec une extraction
+mécanique sont possibles, mais les présentes prescriptions ne donnent pas de règles dans ce cas, et il
+
+
+Page 15 sur 44 pages                                                                ITM-SST 1552.2
+y a lieu de justifier l’efficacité du système choisi quel que soit l’emplacement du véhicule en feu.
+
+Un système EFC répondant aux conditions du présent paragraphe 5.2.2 est validé comme
+conforme aux exigences de performance suivantes:
+
+L’accès pour l’intervention doit être maintenu libre de fumée sur toute sa longueur depuis la
+voie publique jusqu’à moins de 15 m du foyer, quel que soit l’emplacement du foyer. En effet
+la distance de moins de 15 m est nécessaire pour atteindre le foyer par le jet de la lance
+d’incendie, comme indiqué à la figure 2.
+
+
+
+
+                       Figure 2: Distance maximum en fumée jusqu'au foyer
+                             permettant encore une attaque à la lance
+
+NOTE : Lorsque la ventilation journalière, la ventilation requise en cas de fuite de gaz naturel et la
+ventilation EFC sont combinées et réalisées par une même installation, celle-ci doit répondre aux
+exigences propres à chaque mode de fonctionnement.
+
+5.2.2.2 Principes
+
+(1)   Le parking, y compris ses rampes et ses voies d’accès intérieures, est divisé en zones
+      EFC dont la largeur de référence Wref définie en 5.2.2.3 (3) ne dépasse pas 20 m.
+
+      NOTE : Le foyer crée une force thermique qui a tendance à s’opposer au passage du flux d’air
+      et à dévier celui-ci. Le principe de forcer le débit de ventilation à passer dans une zone EFC de
+      largeur limitée à 20 m permet d’assurer le passage du flux de ventilation suffisamment près du
+      foyer, tout en évitant une recirculation des fumées.
+
+(2)   Le parking est équipé d’une installation de détection de fumée d’incendie. Une
+      détection confirmée active automatiquement et immédiatement l’alarme d’évacuation et
+      les dispositifs existants destinés à empêcher l’accès des véhicules (feux de signalisation,
+      barrières, affichage dynamique,…).
+      Le scénario EFC correspond à la première détection. Une détection confirmée est
+      donnée par :
+         soit deux détecteurs dans la même zone de détection,
+         soit deux détecteurs dans des zones de détection différentes,
+         soit un détecteur (qui détermine le scénario EFC) et un bouton-poussoir.
+
+      NOTE : Le signal sonore d’alarme d’évacuation est doublé d’une signalisation lumineuse
+      (lampes flash).
+
+(3)   En cas d’incendie dans une zone EFC, l’ensemble du débit de la ventilation EFC doit
+      être canalisé de façon à être forcé au travers de la zone EFC du foyer, sans possibilité de
+      contournement de celle-ci (voir figure 5):
+           soit par la présence de parois fixes,
+
+
+Page 16 sur 44 pages                                                                   ITM-SST 1552.2
+           soit par la fermeture automatique d’écrans mobiles de cantonnement de fumée, qui
+            doivent être tenus latéralement afin de rester en place en toutes circonstances.
+      Pour chaque zone EFC, on définit une entrée d’air et une sortie d’air en fonction du
+      scénario EFC. L’entrée et la sortie d’air peuvent être composées chacune de plusieurs
+      baies, séparées par des éléments de construction (colonnes, parois).
+
+(4)   Afin de permettre l’accès en sécurité à l’intérieur de la zone EFC du foyer, il y a lieu
+      d’assurer le balayage des fumées à travers celle-ci.
+
+(5)   En cas d’incendie dans une zone EFC, afin de permettre un accès libre de fumée depuis
+      l’extérieur jusqu’à cette zone EFC, la propagation des fumées en amont de la zone EFC
+      du foyer est limitée par la réalisation d’une vitesse horizontale d’air au droit de l’entrée
+      d’air, qui doit néanmoins être inférieure ou égale à 2 m/s en cas de ventilation naturelle,
+      ou à 5 m/s en cas de ventilation mécanique.
+
+(6)   La propagation des fumées du parking vers le reste du bâtiment doit être empêchée.
+
+5.2.2.3 Prescriptions
+
+(1)   Les parois fixes ou écrans mobiles qui canalisent le débit de ventilation EFC doivent
+         être de classe D60060 suivant la Décision de la Commission du 27 août 2003
+            (2003/629/CEE),
+         être étanches aux fumées suivant la norme EN 12101-1,
+         résister à une surpression de 20 Pa dans la zone EFC.
+      Les exigences en matière de distance maximale à parcourir pour l’évacuation doivent
+      être respectées en tenant compte de la fermeture des écrans mobiles. Au besoin, des
+      portes à fermeture automatique supplémentaires doivent être prévues.
+(2)   Pour assurer le balayage des fumées à travers la zone EFC du foyer, on définit les
+      grandeurs suivantes (figure 3) :
+         D est la distance horizontale la plus courte à parcourir à l’intérieur de la zone EFC
+           entre les points les plus éloignés de la zone EFC ;
+         d est la distance horizontale la plus courte à parcourir à l’intérieur de la zone EFC
+           entre le centre de la baie de sortie d’air et le bord latéral le plus proche de la baie
+           d’entrée d’air.
+
+      Les distances D et d sont déterminées en excluant les box de parking et on vérifie que
+                                           d > 0,6∙D                                       (17)
+      Les baies qui ne respectent pas ces conditions doivent être fermées par des écrans
+      mobiles à fermeture automatique en cas d’incendie.
+
+
+
+
+Page 17 sur 44 pages                                                            ITM-SST 1552.2
+             Figure 3 : Distances entre l'entrée et la sortie d’air de la zone EFC
+                                    (schémas de principe)
+
+
+(3)   Le débit de dimensionnement Vd [m³/h] de l’installation, pour chaque zone EFC, est la
+      valeur la plus grande entre les débits d’air suivants :
+
+      Le débit minimal Vmin est défini comme suit :
+           o Parking fermé sans sprinklers :
+               Vmin = 120.000 m³/h
+           o Parking fermé avec sprinklers : Vmin = 100.000 [m³/h]                   (18a)
+
+       Le débit de référence Vref est calculé comme suit :
+           o La largeur de référence Wref de la zone EFC est donnée par Wref = S/d, où S
+                est la surface de la zone EFC déterminée en excluant les box de parking et d
+                est la distance horizontale définie en (2). Toutefois, si la largeur de la zone
+                EFC est supérieure à S/d sur une distance ininterrompue de plus de 15 m, c’est
+                cette largeur supérieure qui est prise comme Wref.
+           o La hauteur de référence href est la hauteur libre pour le passage du flux d’air
+                dans la zone EFC.
+           o La vitesse de référence vref est la vitesse requise donnée au tableau 6 en
+                fonction de la largeur W = Wref.
+           o Vref = vref.Wref.href     [m³/h]                                         (18b)
+
+       Le débit d’entrée Vin est calculé comme suit :
+           o La largeur Win est la largeur de la baie d’entrée d’air de la zone EFC.
+           o La hauteur hin est la hauteur libre de la baie d’entrée d’air de la zone EFC.
+           o La vitesse vin est la vitesse requise donnée au tableau 6 en fonction de la
+                largeur W = Win.
+           o Vin = vin.Win.hin         [m³/h]                                          (18c)
+
+
+
+
+Page 18 sur 44 pages                                                          ITM-SST 1552.2
+                            Tableau 6 : Vitesses requises vref ou vin
+
+       Largeur W        Parking fermé sans sprinklers          Parking fermé avec sprinklers
+          <8m                        1,5 m/s                                1,2 m/s
+          12 m                       1,4 m/s                                1,1 m/s
+          16 m                       1,3 m/s                                1,0 m/s
+          20 m                       1,2 m/s                                0,9 m/s
+
+      NOTE 1 : Le tableau 6 donne, pour une section donnée, la vitesse requise en l’absence de foyer
+      d’incendie (mesurée « à froid »). Cette vitesse correspond à la vitesse d’air de la ventilation
+      d’extraction des fumées en aval du foyer d’incendie (vitesse va « à chaud » en aval du foyer
+      d’incendie selon la figure 4), qui est nécessaire pour obtenir une vitesse d’air en amont du foyer
+      suffisante pour s’opposer à la propagation des fumées à contresens de la ventilation (vitesse
+      critique amont vo en situation d’incendie selon la figure 4).
+
+      NOTE 2 : Les parkings fermés ont toujours des pentes de sol conformes aux prescriptions SST
+      1506.
+
+
+
+
+               Figure 4 : Vitesses critiques amont vo de l'air à température To
+               et vitesse d’extraction aval va de la fumée à la température Ta.
+
+(4)   Lorsque le scénario de la zone EFC est activé, les vérifications suivantes doivent être
+      effectuées au droit de l’entrée d’air de chaque zone EFC :
+         La vitesse d’air mesurée par section de maximum 6 m de largeur, conformément à
+            la méthode de mesure détaillée au chapitre 5.2.2.4 doit être au moins égale dans
+            chaque section de mesure à la vitesse requise au tableau 5 correspondant à la
+            largeur Win de l’entrée d’air.
+         Le débit d’air total, calculé en faisant la somme des produits des vitesses d’air
+            mesurées par les sections de mesure, doit être au moins égal au débit de
+            dimensionnement Vd.
+
+(5)   En cas d’incendie dans une zone EFC, la propagation des fumées en aval de la zone
+      EFC du foyer est limitée de façon à ce que la distance depuis n’importe quel point de la
+      zone EFC, du foyer jusqu’à la bouche d’extraction la plus éloignée, activée par le
+      scénario d’incendie correspondant, ne dépasse pas 200 m.
+
+(6)   Les introductions d’air extérieur peuvent être réalisées par ventilation naturelle ou
+      mécanique. En cas d’entrée d’air par ventilation mécanique (pulsion), le parking doit
+      être maintenu en dépression par rapport au reste du bâtiment.
+
+      NOTE : La mise en dépression du parking permet d’éviter la propagation des fumées vers le
+      reste du bâtiment, quel que soit le scénario d’incendie activé. Pour ce faire, le débit de pulsion
+      doit être inférieur au débit d’extraction.
+
+
+Page 19 sur 44 pages                                                                  ITM-SST 1552.2
+5.2.2.4 Mesure des vitesses
+(1)   Les mesures de vitesses sont effectuées à froid, en l’absence de véhicules, lorsque la
+      vitesse du vent est inférieure à 4 m/s.
+
+(2)   La vitesse est mesurée à + 5 % près.
+
+(3)   La composante horizontale de la vitesse de l’air est mesurée, en grandeur et en
+      direction, à l’entrée de l’air dans les zones EFC les plus défavorables pour chaque
+      scénario incendie, par sections (tranches verticales) de largeur maximale 6 m, par la
+      méthode en boucle définie par la norme EN 12599.
+         La boucle consiste en un balayage horizontal à trois niveaux correspondant à ¼, ½
+            et ¾ de la hauteur sous obstacles (poutres, nervures, écrans ou conduits au
+            plafond).
+         Les mesures ne sont pas effectuées à moins de 0,5 m des murs et colonnes.
+         La durée du balayage est de 30 secondes par niveau.
+
+      NOTE : Conformément à la norme EN 12599, la durée de balayage de 30 secondes par niveau
+      correspond à une vitesse de déplacement de l’appareil de mesure inférieure à 1/5 de la vitesse à
+      mesurer.
+
+                                                                            Scénario incendie dans
+                                                                             ZONE 1       ZONE 2
+                                                             Ecran 1          fermé        ouvert
+                                                             Ecran 2          ouvert       fermé
+
+
+
+                                                         Figure 5 : Exemple d’application
+                                                         NOTE : Pour cet exemple de parking,
+                                                         d’autres positions d’écrans et d’autres
+                                                         concepts d’extraction (plénum de
+                                                         répartition sur toute la largeur,
+                                                         registres motorisés, …), également
+                                                         conformes au paragraphe 5.2.2
+                                                         pourraient s’appliquer.
+
+
+
+
+5.2.2.5 Effet du vent
+
+L’influence du vent sur le fonctionnement du système EFC est prise en compte comme suit :
+
+   soit le sens de fonctionnement du système EFC est asservi à la direction de
+    l’écoulement d’air naturel dans le parking, dû au vent, durant les 10 dernières minutes
+    avant la détection d’incendie ;
+
+
+
+Page 20 sur 44 pages                                                                ITM-SST 1552.2
+   soit les extracteurs EFC sont dimensionnés en tenant compte d’une perte de charge
+    supplémentaire due au vent de 100 Pa. Cette valeur peut être réduite à 50 Pa si les rejets
+    d’air sont implantés dans des zones de la toiture où ils ne sont jamais mis en
+    surpression, quelle que soit la direction du vent, conformément à la norme EN 1991-1-
+    4 :2005 « Actions du vent » et son AN-LU.
+
+NOTE : Pour tenir compte des effets défavorables du vent (à contresens de l’EFC), on considère une
+vitesse moyenne de vent égale à 10 m/s à la hauteur des rejets d’air. La perte de charge due à la mise
+en surpression du rejet d’air d’un extracteur et la perte de charge due à la mise en dépression d’une
+entrée d’air, pour certaines directions de vent, sont toutes deux de 50 Pa. La mise en surpression d’un
+rejet d’air peut être évitée s’il est implanté dans une zone de toiture toujours en dépression, quelle
+que soit la direction du vent. La mise en dépression d’une entrée d’air ne peut en général pas être
+exclue pour toutes les directions de vent.
+
+
+5.2.3 Accès libre de fumée pour l'évacuation des occupants et l’intervention
+du service d'incendie - cas d’espaces souterrains peuplés, de faible hauteur
+(gare souterraine, foyers de salles de spectacle, etc.)
+La ventilation horizontale mécanique est requise pour garder les voies d’évacuation libres de
+fumée
+
+5.2.3.1 Principes
+(1) Les exigences de 5.2.2.1 et 5.2.2.2 sont à appliquer.
+(2) La longueur de la zone affectée par la fumée ne devrait pas dépasser deux fois la distance
+    maximale, c'est à dire 2 x 35 m, à parcourir pour l’évacuation définie dans les
+    prescriptions de prévention incendie, ITM-SST série 1500.
+
+(3) Toutes les zones en dehors du volume considéré comme enfumé et se situant entre le
+    foyer du feu et les bouches d’extraction doivent être suffisamment libres de fumée.
+(4) Il devrait y avoir à tous les niveaux un nombre suffisant de sorties maintenues libres de
+    fumée pour évacuer en toute sécurité l’effectif estimé de personnes, conformément aux
+    prescriptions en vigueur.
+(5) Une fois en-dehors du volume affecté par la fumée, les occupants qui s’évacuent
+    devraient être capables de passer à au moins une sortie libre de fumée et non affectée par
+    la chaleur générée par l'incendie au niveau concerné.
+
+5.2.3.2 Solutions d'ingénierie
+Pour satisfaire aux exigences performancielles du contrôle de fumée et de chaleur, la
+validation par CFD est essentielle. Les conditions à respecter sont définies au chapitre 7.
+
+5.2.3.3 Programme d’activation
+(1) Les exigences de 5.2.2.2 (1) et (2) sont à appliquer.
+
+(2) Lors d’une détection d’un incendie, toute ventilation courante doit être arrêtée
+    immédiatement et le système d'entrée et d’extraction d’air doit être mis en mode « feu ».
+
+
+Page 21 sur 44 pages                                                                ITM-SST 1552.2
+      Après le délai nécessaire requis pour permettre au système de désenfumage d'atteindre
+      son taux d'extraction maximum, les ventilateurs éventuels doivent diriger la fumée
+      efficacement vers les principales bouches d’extraction.
+
+5.2.3.4 Les effets du vent
+Les exigences du point 5.2.2.5 sont à appliquer.
+
+5.3 Volumes libres intérieurs du type "Atrium"
+5.3.1 Objet
+
+Certains projets de construction, de par leur conception architecturale, prévoient la
+réservation d'un volume libre disposé comme une cour ou une rue intérieure, recouvert ou
+non et entouré par des niveaux ouverts ou fermés aux destinations les plus variées (boutiques,
+bureaux, chambres d'hôtel, circulations etc.). L'éclosion d'un incendie dans ce volume ou son
+environnement immédiat engendre des risques de propagation du feu, des fumées et des gaz
+chauds.
+Le présent chapitre 5.3 a pour objet de définir les règles de construction et les principes de
+désenfumage de ces volumes, décrit un certain nombre de configurations et propose des
+solutions qui sont réputées satisfaire l’exigence de protection contre les fumées.
+Les réalisations qui diffèrent de ces configurations, soit par leur architecture, soit par leurs
+dimensions, soit par les dimensions de leurs volumes adjacents (p.ex. : hauteur sous plafond
+> 4 m), nécessitent une étude particulière.
+
+5.3.2 Terminologie
+5.3.2.1 Atrium
+Conventionnellement, un atrium, qu’il soit à l’air libre ou couvert, est un espace dont la plus
+petite dimension Dpp (définie en 5.3.2.4) doit être au moins égale à (7H)0,5, H étant la hauteur
+sous plafond du dernier niveau par rapport au niveau bas de l’atrium (figure 9), sans être
+inférieure à 7 m.
+5.3.2.2 Atrium à l’air libre
+Il s’agit d’un volume libre fermé sur toutes ses faces latérales qui ne comporte aucune
+occlusion en partie supérieure.
+
+5.3.2.3 Atrium couvert
+Il s’agit du même volume que ci-dessus avec une couverture totale ou partielle. Dans cette
+catégorie d’atriums, il faut distinguer :
+a)     ceux, dont un ou plusieurs niveaux sont ouverts en permanence sur le volume central :
+       donc des atriums couverts ouverts (voir figure 6),
+b)     ceux, dont tous les niveaux (à l’exception du niveau inférieur) sont fermés par une
+       paroi, même si celle-ci comporte des ouvrants, des balcons ou une circulation
+       horizontale ouverte : atriums couverts fermés (voir figures 7 et 8).
+
+5.3.2.4 Plus petite dimension d’un atrium
+La plus petite dimension en [m] d’un atrium, Dpp, est définie comme étant le diamètre du
+cylindre droit s’inscrivant sur toute la hauteur de l’atrium, dans l’espace libre compris entre :
+      les nez de balcons pour les atriums ouverts (voir figure 6);
+
+
+Page 22 sur 44 pages                                                           ITM-SST 1552.2
+     les parois verticales pour les atriums fermés (voir figures 7 ou 8);
+     les nez de balcons et les parois verticales pour les atriums ouverts sur une face et fermés
+      sur l’autre (voir figure 9).
+
+5.3.2.5 Section de base d'un atrium
+La section de base d'un atrium en [m2] est la plus grande des valeurs, (π /4) Dpi2, obtenues à
+différents niveaux (voir figure 9).
+
+5.3.2.6 Volume de base d'un atrium
+Le volume de base d'un atrium en [m3] est obtenu en multipliant la section de base par la
+hauteur totale H.
+
+
+
+
+      Figure 6: Atrium couvert ouvert                  Figure 8: Atrium couvert fermé
+
+
+
+
+      Figure 7: Atrium couvert fermé                Figure 9: Section de base et volume de
+                                                      base, et plus petite dimension, Dpp
+5.3.3 Principes
+La présente méthode donne les principes et règles empiriques de bonne pratique qui,
+      pour un désenfumage naturel, donnent les ouvertures AV en partie haute de l'atrium,
+      pour un désenfumage mécanique, donnent le volume de fumée à extraire par unité de
+       temps.
+Les ouvertures d'amenée d'air AI sont à réaliser en partie basse de l'atrium.
+
+
+
+Page 23 sur 44 pages                                                            ITM-SST 1552.2
+NOTE : Cette méthode est basée sur l'Instruction Technique n°263 de l'Arrêté français du 6 mars
+2006. En complément à cette instruction technique, les règles suivantes sont d’application.
+
+Le désenfumage naturel n’est autorisé que pour les atriums de hauteur H < 10 m dont les
+niveaux ne sont pas sprinklés.
+
+Pour H > 10 m ou lorsque les niveaux sont sprinklés, seul le désenfumage mécanique est
+autorisé dans les atriums, sauf si le concept de désenfumage naturel est validé par une étude
+CFD selon l’article 7.
+
+Le désenfumage d’un atrium couvert ouvert doit être complété par une ventilation mécanique
+EFC fonctionnant indépendamment à chaque niveau. Tel est le cas pour un atrium d'une
+hauteur de plus de 30 m si les occupants sont familiarisés avec les lieux, et pour un atrium
+d'une hauteur de plus de 18 m si les occupants peuvent ne pas être familiarisés.
+
+NOTE 1 : Cette dernière disposition provient du document BS 5588-7:1997 "Code of practice for the
+incorporation of atria in buildings"
+NOTE 2 : La présente méthode est une approche simplifiée. Selon les circonstances, une approche
+performancielle basée sur des calculs CFD peut être appliquée (voir chapitre 7).
+NOTE 3 : Dans certains cas de désenfumage naturel il peut s’avérer nécessaire de démarrer le
+désenfumage par des moyens mécaniques.
+
+5.3.4 Règles de construction
+5.3.4.1. Façades
+La règle du saut de flamme dite du (C+D) ≥ 1m s’applique obligatoirement à l’ensemble des
+façades intérieures des atriums (voir ITM-SST 1502.1, 7.1.1 du 27.2.2009).
+Les revêtements extérieurs des façades intérieures des atriums couverts doivent être
+conformes à l’Euroclasse A1 ou A2, c'est-à-dire non combustibles.
+
+5.3.4.2. Circulations autour d’un atrium couvert
+5.3.4.2.1 Escaliers
+Un escalier non encloisonné, situé dans le volume de l’atrium, ne constitue pas un escalier
+réglementaire.
+5.3.4.2.2 Bâtiments comportant des locaux à sommeil
+Les circulations horizontales ouvertes sur un atrium sont considérées comme des voies
+d’issue réglementaire dès lors que leur longueur n’excède pas 15 m entre la porte d’une
+chambre et un escalier ou une voie d’issue réglementaires.
+Les circulations d’une longueur supérieure à 15 m entre la porte d’une chambre et un escalier
+ou une voie d’issue réglementaires, et qui sont séparées de l’atrium par une paroi E30, sont
+considérées comme des issues réglementaires. Dans ce cas, la distance maximale entre la
+porte d’une chambre et l’accès à un escalier réglementaire doit être inférieure à 30 m.
+
+5.3.4.2.3 Bâtiments ne comportant pas de locaux à sommeil
+Les circulations horizontales ouvertes sur l’atrium sont prises en compte dans le calcul des
+dégagements. La distance maximale entre la porte d’un local accessible au public et l’accès à
+un escalier réglementaire doit être inférieure à 30 m.
+
+
+
+Page 24 sur 44 pages                                                           ITM-SST 1552.2
+5.3.5 Désenfumage
+5.3.5.1. Atriums à l’air libre
+Leur désenfumage se fait naturellement par la partie supérieure.
+
+5.3.5.2. Atriums couverts
+
+5.3.5.2.1. Règles générales :
+    a) Si on veut éviter tout mouvement de fumée vers l’atrium, les locaux ou les
+       circulations horizontales adjacentes doivent être désenfumés.
+    b) Dans les établissements dont l’activité principale entraîne un classement « à risques
+       particuliers », les locaux adjacents doivent être équipés d’un système d’extinction
+       automatique du type « sprinkleur ».
+    c) Le déclenchement des dispositifs d’évacuation de fumées et d’amenée d’air doit être
+       automatique et être commandé par un système de détection automatique d’incendie.
+       La commande automatique doit toujours être doublée par une commande manuelle
+       située au niveau d’accès des secours ou au poste central de sécurité, s’il existe.
+    d) En désenfumage naturel, la surface libre des évacuations de fumée est réalisée par des
+       exutoires de fumée en toiture. Toutefois, un exutoire en toiture peut être remplacé par
+       un ouvrant en façade de surface libre double. En position de fonctionnement, le
+       dispositif d’obturation de ces ouvertures ne doit pas faire obstacle à l’écoulement
+       normal des fumées. Les amenées d’air doivent avoir une surface aérodynamique
+       respectant l’équation (2). En outre, à chaque niveau, la section de passage de la fumée
+       entre éléments de construction doit être au moins égale à la moitié de la section de
+       base définie en 5.3.2.5.
+    e) En désenfumage mécanique, lorsque les amenées d’air sont naturelles, leur section
+       doit être telle que, pour le plus grand débit extrait (correspondant soit à l’atrium, soit
+       au plus grand des niveaux), la vitesse moyenne de passage de l’air soit inférieure ou
+       égale à 2 m/s. Lorsque les amenées d’air sont mécaniques, leur débit est égal au plus
+       grand débit extrait et la vitesse de soufflage limitée à 5 m/s.
+
+5.3.5.2.2. Atriums couverts avec potentiel calorifique très faible
+Lorsque l’atrium comporte un potentiel calorifique très faible (qf,80% < 125 MJ/m²), son
+désenfumage sera réalisé :
+  - soit naturellement par des ouvertures AV installées en partie haute de l’atrium et
+     représentant une surface libre égale à 1 % de la section de base du volume à désenfumer
+     (figure 9), avec un minimum de 2 m2,
+  - soit mécaniquement, avec un débit extrait de 1m3/s pour 100 m2 de section de base,
+     avec un minimum de 3 m3/s.
+Dans ces deux cas, l’amenée d’air AI, qu’elle soit naturelle ou mécanique, est réalisée en
+partie basse de l’atrium.
+
+5.3.5.2.3. Autres atriums couverts
+
+(1) Afin d’empêcher l’envahissement des étages supérieurs par les fumées, il est
+    indispensable d’isoler de l’atrium les niveaux situés dans la moitié supérieure du volume
+    désenfumé par des éléments de construction de l'Euroclasse B de réaction au feu, disposés
+
+
+Page 25 sur 44 pages                                                            ITM-SST 1552.2
+    tels des éléments verriers à la périphérie du vide entre éléments de construction tels les
+    nez de balcons ou parois verticales (voir figure 10). S’il s’agit de chemins d’évacuation
+    de locaux à sommeil, ces éléments de construction doivent être E30.
+
+
+
+
+                       Figure 10 : Isolement des niveaux supérieurs
+
+    La mise en place de ces éléments est sans influence sur la détermination de la plus petite
+    dimension de l’atrium; de plus, les locaux ou dégagements ainsi isolés sont désenfumés
+    séparément dans les mêmes conditions que les niveaux inférieurs.
+
+(2) Désenfumage naturel :
+    L’évacuation naturelle des fumées sera assurée par des exutoires en partie haute de
+    l’atrium et représentant une surface libre Av au moins égale à 7 % de la section de base du
+    volume à désenfumer.
+    Les amenées d’air naturelles seront situées en partie basse de l’atrium.
+
+(3) Désenfumage mécanique :
+    L’extraction mécanique, effectuée en partie haute, assurera un débit horaire d’extraction
+    minimal égal à 12 fois le volume de base de l’atrium défini en 5.3.2.6.
+    Les amenées d’air qui sont situées en partie basse de l’atrium, seront soit naturelles, soit
+    mécaniques.
+
+
+5.3.5.3. Désenfumage des volumes adjacents à l’atrium
+5.3.5.3.1 Généralités
+a) Dans tous les cas, les locaux et les circulations ouverts sur l’atrium sont désenfumés.
+b) Les locaux et les circulations ouverts sur l’atrium doivent être séparés de l’atrium par des
+   écrans de cantonnement fixes. La retombée sous plafond sera au minimum de 0,50 m et,
+   pour les hauteurs libres de fumée supérieures à 2 m elle descendra 0,50 m en dessous du
+   point bas de la bouche d’extraction (voir figure 11).
+
+
+
+
+Page 26 sur 44 pages                                                           ITM-SST 1552.2
+                             Figure 11: Dimensions des retombées
+
+    Le désenfumage, obligatoirement mécanique, est mis en route automatiquement par
+    canton. On doit pouvoir désenfumer simultanément tous les cantons d’un même niveau et
+    l’installation doit être calculée pour le niveau correspondant au plus grand débit.
+    La mise en route du désenfumage dans un niveau interdit la commande automatique de
+    dispositifs de désenfumage des autres niveaux desservis par le même réseau.
+c) Les volumes fermés adjacents à l’atrium sont désenfumés ou non en application des
+   prescriptions ITM.
+
+
+5.3.5.3.2 Locaux de moins de 300 m² ouverts sur une circulation, elle-même ouverte sur
+l’atrium
+Il s’agit de locaux ouverts sur la circulation en exploitation normale tels les locaux
+commerciaux ou d’exposition, etc. Les circulations, y compris le plénum (s’il existe), sont
+recoupées tous les 30 m par des écrans de cantonnement d’une hauteur équivalente à celle des
+retombées.
+Dans ce cas, on peut désenfumer les circulations seulement. Leur désenfumage est réalisé
+mécaniquement par au moins deux bouches d’extraction situées dans le réservoir de fumées,
+sous le plafond de la circulation.
+Ces bouches sont espacées au maximum de 10 m en parcours rectiligne et de 7 m en parcours
+non rectiligne. Quelle que soit la largeur de cette circulation, le débit extrait est de 8 m3/s au
+moins dans chaque tronçon et la vitesse moyenne d’entrée d’air aux bouches est limitée à
+5 m/s.
+L’arrivée d’air frais doit se faire en dessous de la zone enfumée depuis le pied de l’atrium ou
+depuis les cantons voisins mis en surpression.
+5.3.5.3.3 Locaux ou espaces de circulation de plus de 300 m² directement ouverts sur
+l’atrium
+Il s’agit de bureaux paysagers, de surfaces commerciales ou d’exposition, ou bien de locaux
+similaires donnant directement sur l’atrium. Ces locaux sont recoupés en cantons de
+désenfumage d’une surface maximale de 1.600 m2.
+Le désenfumage est réalisé par extraction mécanique des fumées au plafond des locaux, avec
+un débit de 1 m3/s pour 100 m2 de surface, avec un minimum de 10,5 m3/s par local ou par
+
+
+
+Page 27 sur 44 pages                                                            ITM-SST 1552.2
+canton, la vitesse moyenne d’entrée de l’air aux bouches étant limitée à 5 m/s. De plus, le
+système de désenfumage est calculé pour le niveau exigeant le plus grand débit.
+L’amenée d’air s’effectue, soit naturellement depuis le pied de l’atrium, soit depuis les
+volumes ou cantons adjacents mis en surpression.
+
+5.3.5.4 Atriums de faible hauteur (< 10 m)
+5.3.5.4.1 Définition
+Les atriums de faible hauteur sont ceux dont la hauteur du plafond du dernier niveau H ne
+dépasse pas 10 m par rapport au niveau bas de l’atrium. Leur section de base est d’au moins
+25 m² (puits de lumière).
+
+5.3.5.4.2 Désenfumage
+  a) Atrium
+          Leur désenfumage est réalisé :
+          - soit naturellement par des ouvertures installées en partie haute de l’atrium et
+          représentant une surface libre égale à 1% de la section de base avec un minimum de
+          2 m2 ,
+          - soit mécaniquement avec un débit extrait égal à 1 m3/s pour 100 m2 de section de
+          base, avec un minimum de 3 m3/s.
+          Les amenées d’air situées au pied de l’atrium sont soit naturelles, soit mécaniques.
+          En désenfumage naturel, les amenées d’air doivent avoir une surface libre
+          équivalente à celle des évacuations de fumée, c’est-à-dire avoir une surface
+          aérodynamique respectant l’équation (2).
+          En désenfumage mécanique, la vitesse de passage de l’air doit être inférieure ou
+          égale à 1 m/s pour les amenées d’air naturelles et à 5 m/s pour les amenées d’air
+          mécaniques.
+
+  b) Volumes adjacents
+          Si le désenfumage des circulations et des locaux situés en périphérie du puits est
+          exigé dans les dispositions particulières, ces volumes sont séparés de l’atrium par
+          des écrans de cantonnement et désenfumés. Toutefois, l’extraction est
+          obligatoirement mécanique, si le bâtiment comporte des locaux à sommeil.
+          Les amenées d’air, situées au pied de l’atrium, sont soit naturelles, soit mécaniques
+          et réalisées dans les mêmes conditions qu’au paragraphe 5.3.5.3.
+
+5.4 Petits espaces
+
+5.4.1 Objet
+Le présent chapitre a comme objet les principes, les obligations du désenfumage et les règles
+d’exécution du dit désenfumage en décrivant des solutions qui permettent d’assurer dans les
+établissements recevant du public :
+   la mise à l’abri des fumées ou le désenfumage des cages d'escaliers,
+
+
+
+
+Page 28 sur 44 pages                                                          ITM-SST 1552.2
+   le désenfumage de petits locaux accessibles au public sans ouvertures extérieures
+    (surface comprise entre 150 m² et 600 m²),
+   locaux à risques particuliers (réserves, stockage, archives, etc.) d’une surface de 300 m²
+    à 600 m², ou d’un volume supérieur à 1000 m³, sans ouvertures extérieures.
+
+Les solutions de désenfumage mises en place devront être compatibles entre elles. Ce
+document-ci n’exclut pas la possibilité d’adapter les solutions de désenfumage des chapitres
+suivants, sous réserve d’obtenir des résultats équivalents à savoir :
+
+   un balayage satisfaisant de la zone concernée doit être assuré,
+   la stratification et le mouvement naturel des fumées ne doivent pas être contrariés.
+   Ces dispositions, les cas échéant, sont précisées par les dispositions particulières propres à chaque type
+
+NOTE : Les principes et règles empiriques de bonne pratique décrits au présent chapitre sont basés
+sur l'Instruction Technique n°246 de l'Arrêté français du 22 mars 2004, et se réfèrent au désenfumage
+naturel et au désenfumage mécanique des locaux en question.
+
+5.4.2 Dispositions relatives aux cages d’escaliers
+Les exigences réglementaires de mise à l’abri des fumées sont fixées par le paragraphe 10.2
+des prescriptions ITM-SST 1501, 1502 et 1503 (bâtiments bas, moyens et élevés).
+
+NOTE : Il faut tenir compte de l’influence du vent sur la capacité de mise à l’abri des fumées. En
+pratique, une solution possible consiste à choisir l’ouverture des entrées d’air et des exutoires en
+fonction de la direction du vent.
+
+
+5.4.3 Dispositions relatives au désenfumage mécanique des petits locaux
+accessibles au public et/ou des locaux à risque particulier
+
+5.4.3.1 Principe de fonctionnement
+5.4.3.1.1 Le désenfumage par tirage mécanique est assuré par des extracteurs mécaniques
+          de fumée et des amenées d’air naturelles ou mécaniques. Ce balayage peut être
+          complété par une mise en surpression relative des espaces à mettre à l’abri des
+          fumées.
+5.4.3.1.2 Si un local est ventilé en permanence (renouvellement d’air, chauffage ou
+          conditionnement d’air), son système de ventilation peut être utilisé pour le
+          désenfumage dans la mesure où il répond aux dispositions du présent chapitre, et
+          ne contrarie pas le mouvement naturel des fumées. La présence de filtres ou de
+          pièges à son est admise sur le réseau de soufflage, mais pas sur le réseau
+          d’extraction.
+5.4.3.2 Bouches et volets
+Les amenées d’air naturel doivent être dimensionnées pour la totalité du débit extrait. Les
+amenées d’air mécaniques doivent avoir un débit de l’ordre de 0,9 fois le débit extrait.
+
+
+
+
+Page 29 sur 44 pages                                                               ITM-SST 1552.2
+5.4.3.3 Caractéristiques des ventilateurs
+5.4.3.3.1 Les ventilateurs de soufflage et d’extraction doivent être dimensionnés en fonction
+          des caractéristiques du réseau desservi et pour un débit égal au débit nominal
+          augmenté du débit de fuite tolérable (de l’ordre de 20 %).
+
+5.4.3.3.2 Les ventilateurs d’extraction et leur liaison avec les conduits doivent assurer leur
+          fonction pendant une heure à la température Tmax calculée, avec un minimum de
+          300°C.
+
+5.4.3.3.3 L’état ouvert ou fermé du sectionneur des ventilateurs doit être reporté à la
+          centrale de surveillance.
+
+5.4.3.3.4 Les câbles électriques alimentant les ventilateurs de désenfumage doivent
+          correspondre à la classe de résistance P60.
+
+5.4.3.4 Désenfumage mécanique
+5.4.3.4.1   Le débit horaire d’extraction est au moins 12 fois le volume du local. Ce débit
+            d’extraction est limité à 3 m3/s pour «100 m2» de section horizontale du local.
+5.4.3.4.2   Concernant le désenfumage des volumes créés par la communication entre trois
+            niveaux au plus, ce désenfumage mécanique est calculé avec les débits précédents
+            et concerne :
+               soit l’ensemble du volume, les bouches d’extraction des fumées se trouvant à
+                 l’aplomb des trémies de communication et aucun écran de cantonnement ne
+                 s’opposant à l’écoulement des fumées,
+               soit chaque niveau, les niveaux étant isolés de la trémie commune par des
+                 écrans de cantonnement.
+
+
+5.5 Ouvrages spéciaux (tunnels, galeries de liaison, etc.)
+
+Les systèmes EFC sont à définir cas par cas en accord avec les autorités publiques
+compétentes.
+
+5.6 Dimensionnement du désenfumage selon CEN/TR 12101-5
+
+Alternativement à l’article 5.3, le dimensionnement pour un atrium d'une installation EFC
+pourra être fait par l'intermédiaire de la méthode décrite à l'Annexe J des documents CEN/TR
+12101-5 de 2000 et BS 7346-4:2003.
+
+La chaleur dégagée par un incendie dans un bâtiment provoque un effet de cheminée. Cet
+effet engendre :
+- en partie basse, une dépression par rapport à l'ambiance extérieure, avec rentrées d'air
+    provenant de l'extérieur,
+- en partie haute, une surpression par rapport à l'ambiance extérieure, avec sortie des
+    fumées vers l'extérieur,
+- l'existence dans la couche de fumées d'un plan de pression neutre (PPN) où la pression à
+    l'intérieur du bâtiment est égale à la pression atmosphérique extérieure (voir figure 12).
+
+
+Page 30 sur 44 pages                                                         ITM-SST 1552.2
+La position de ce plan peut être déterminée en exprimant d'une part que la perte de charge à
+l'entrée "4" est égale à l'effet de tirage dû à la hauteur ψ entre le bas de la couche de fumées et
+le point neutre PPN et, d'autre part, que la perte de charge au niveau des exutoires est égale au
+tirage dû à la hauteur de fumées entre le point neutre et les exutoires (db – ψ). Physiquement
+la position du point neutre est déterminée au prorata des pertes de charges en tenant compte
+d'une température moyenne TC de la couche de fumée.
+
+
+
+
+                              Figure 12: Plan de Pression Neutre.
+
+      Légende: 1-exutoires, 2-fuites d'air, 3-plan de pression neutre, 4-entrées d'air.
+
+Pour les bâtiments ayant un certain développement en hauteur, ceci signifie qu'en dessous du
+PPN, l'espace enfumé est en dépression par rapport aux locaux qui lui sont adjacents, et
+qu'au dessus du PPN, l'espace enfumé est en surpression par rapport aux locaux adjacents.
+Selon l'étanchéité à l'air des partitions internes du bâtiment, il peut en résulter un transfert de
+fumées du local enfumé vers les locaux adjacents situés au dessus du PPN. Ce phénomène
+doit être pris en compte lors de la conception de l'installation EFC.
+NOTE : De même il faut tenir compte de l’influence du vent sur la capacité d’extraction des exutoires.
+En pratique, une solution possible consiste à choisir l’ouverture des entrées d’air et des exutoires en
+fonction de la direction du vent.
+
+5.7 Prescriptions relatives aux approches d’ingénierie du désenfumage
+
+Les caractéristiques des systèmes de désenfumage pourront, en alternative aux prescriptions
+quantitatives, être déterminées à l’aide d’une approche d’ingénierie. Ces caractéristiques
+devront être telles que les objectifs du désenfumage des chapitres 5.1 à 5.6 soient satisfaits.
+Cette approche d’ingénierie, notamment par l'intermédiaire d'un programme de calcul CFD
+basé sur la méthode de la dynamique des fluides selon l'article 7, doit permettre de simuler
+l’évolution des phénomènes liés à l’enfumage et à son contrôle par des systèmes de
+désenfumage en ventilation naturelle et/ou mécanique. Dans le cas de configurations
+particulièrement difficiles cette approche s'avère être la seule valable. Elle doit comporter
+nécessairement :
+   une présentation exhaustive de l’ensemble des hypothèses, paramètres et données
+    quantitatives utilisés, y compris une copie du manuel d'utilisation du programme de
+    calcul CFD utilisé ;
+
+
+
+
+Page 31 sur 44 pages                                                                ITM-SST 1552.2
+   la réalisation de simulations mettant en évidence un contrôle satisfaisant de l’enfumage
+    pour certaines valeurs, bien identifiées, des paramètres quantitatifs relatifs aux systèmes
+    de désenfumage pris en compte dans ces simulations ;
+   une présentation des résultats de simulation et des conclusions quant à l’efficacité des
+    systèmes de désenfumage préconisés.
+Les autorités compétentes peuvent éventuellement exiger la réalisation d’essais in situ, avec
+fumées chaudes artificielles, par exemple pour valider les caractéristiques des systèmes de
+désenfumage retenus.
+
+Article 6. - Choix des scénarios courants d’incendie
+Les données de base essentielles sont la densité de charge calorifique qf (MJ/m²), ainsi que
+le débit calorifique par unité de surface RHRf (kW/m²).
+NOTES :
+1) La densité de charge calorifique qf (MJ/m²) est donnée au tableau E.4 de la EN1991-1-2,
+complété pour différentes exploitation industrielles par le tableau 1 de l'Annexe 1 de l'Instruction
+Technique ITM-SST 1551.
+2) Le débit calorifique par unité de surface RHRf (kW/m²) est donné au 5.1.1.5 du présent document
+pour les bâtiments courants et au tableau 2 de l'Annexe 1 de l'Instruction Technique ITM-SST 1551
+pour l’industrie.
+Dans le cas d'un foyer stationnaire, appelé "steady-state design fire" selon la BS 7346-4:2003,
+les données supplémentaires sont fixées à l'Article 5 ci-devant. On détermine de la sorte tout
+un ensemble de grandeurs physiques dans le but de dimensionner l'installation de
+désenfumage, devant permettre l’évacuation des occupants et l’intervention des services
+d’incendie et de sauvetage.
+Les grandeurs ainsi fixées de façon conventionnelle sont la grandeur maximum d'un canton
+de fumée, le débit calorifique par unité de surface du foyer et les dimensions normalisées du
+foyer. Notons que le sprinklage peut être utilisé ici pour limiter les dimensions du foyer
+stationnaire suivant le tableau 1 du présent document.
+
+Si ces limites ainsi fixées sont dépassées, l’installation de désenfumage devient insuffisante.
+Or cette approche du foyer stationnaire ne comprend, à part la phase de l'incendie stabilisé
+avec son débit calorifique constant par unité de surface RHRf , ni de phase croissante ni de
+phase décroissante de l'incendie.
+Dès lors cette approche reste d'application limitée, et ne pourra pas être utilisée ni pour
+déterminer l'évolution des températures dans la couche de fumée, qui influencent la stabilité
+de la structure portante, ni pour fixer l'effet réel des sprinklers.
+Dans le cas d'un foyer évolutif, appelé "time-dependent design fire ", selon la BS 7346-
+5:2005, les trois phases essentielles d'un feu réel sont prises en compte à savoir la phase
+d'ignition et de croissance à certaine vitesse de développement, la phase de l'incendie
+pleinement développé avec son débit calorifique RHRf et la phase de décroissance. Des règles
+de dimensionnement bien précises sont données aux Annexes C, D et E de la EN1991-1-2 et
+de son AN-LU, permettant d'analyser en fonction du temps l'évolution à l'intérieur de la zone
+supérieure chaude et remplie de fumée ainsi qu'à l'intérieur de la zone inférieure libre de
+fumée.
+
+
+
+
+Page 32 sur 44 pages                                                              ITM-SST 1552.2
+Dans cette approche les conditions physiques sont supposées varier uniformément dans le
+temps, avec au début de l'incendie les deux zones précitées existant jusqu'à l'embrasement
+général à partir duquel n'existe plus qu'une zone chaude et remplie de fumée.
+Cette approche permet de déterminer en fonction du temps l'évolution de la température et de
+la hauteur de la couche de fumée ainsi que la concentration en oxygène nécessaire à la
+combustion.
+Tout cela est à analyser en fonction de la qualité thermique des surfaces enveloppant le
+compartiment sous feu, de la densité de charge calorifique qf,d de dimensionnement, des
+surfaces des exutoires et entrées d'air ou des extracteurs avec leur débit total de fumée à
+extraire du compartiment en [m3/s] et de l'introduction mécanique éventuelle d'air ainsi que
+des ouvertures créées notamment par le bris de glace suite à l'échauffement. Dans ce cas, les
+mesures actives de lutte contre l’incendie (sprinkleurs, etc.) sont prises en compte de façon
+explicite au niveau de la détermination de la densité de charge calorifique q f,d de
+dimensionnement.
+Lorsque la stratification peut être mise en doute (effets du vent, configuration du bâtiment), il
+peut être nécessaire, pour bien simuler la réalité de l’évolution des températures et des
+fumées, d’avoir recours à l’ingénierie basée sur des calculs CFD.
+
+Article 7. - Choix de la méthode de dynamique des fluides CFD
+7.1 Généralités
+Dans certaines situation, lorsque le compartiment a une forme plutôt mouvementée, ou
+lorsque les charges au feu sont réparties de façon ponctuelles et désordonnées, ou lorsque le
+vent peut influencer le bon fonctionnement, ou encore lorsque les conditions de ventilation
+sont soumises à controverse, il faut recourir à un modèle de calcul de dynamique des fluides,
+appelé " Computational Fluid Dynamics " ou CFD.
+Un calcul CFD permet d’analyser l'évolution spatiale et temporelle de la température dans le
+compartiment sous feu, de la concentration de la suie, de la concentration de l'air en O2, CO2
+et CO etc, ainsi que de la vitesse d'évacuation des fumées. D'autre part des surfaces à
+distribution uniforme (iso-valeur) peuvent être établies à tout instant pour toutes ces
+grandeurs physiques, permettant ainsi en connaissance de cause un choix vraiment
+méticuleux des paramètres de désenfumage et aussi d'échauffement de la structure portante.
+A titre d'exemple illustratif, les figures 13 et 14 présentent des résultats du calcul CFD du
+désenfumage d'une halle de section au sol de 21 m x 37 m et de hauteur 9 m, où les
+conditions de l'équation (2) ne sont pas remplies. Il faut dans ce cas avoir recours au bris du
+verre de la façade vitrée, afin d'obtenir des vitesses de désenfumage adéquates ainsi qu'un
+échauffement de l'air modéré.
+Vu la complexité des calculs CFD, ces calculs sont à présenter impérativement dans un
+dossier, sous forme écrite, reprenant les références du logiciel utilisé, les paramètres
+physiques relatifs au projet étudié, les résultats en fonction du temps de l'espace enfumé, des
+vitesses de l'air et des températures atteintes. Mais il faut aussi présenter des tests de
+sensibilité en faisant varier les paramètres cruciaux, afin de montrer que le logiciel et son
+application sont conformes aux principes reconnus de l’ingénierie.
+
+
+
+
+Page 33 sur 44 pages                                                           ITM-SST 1552.2
+    Figure 13: Section transversale à mi longueur de la halle, avec champs thermique
+                  vers 55 minutes et température maximale de 270°C.
+
+
+
+
+      Figure 14: Section transversale à mi longueur de la halle, avec vitesses de l'air
+                    vers 60 minutes et une vitesse maximale de 6m/s.
+
+7.2 Conditions d'utilisation de la méthode CFD
+
+7.2.1 Objectifs
+(1) Le chapitre 7.2 a pour objectif de définir les conditions à respecter par un calcul de
+    dynamique des fluides par ordinateur (CFD – Computational Fluids Dynamics) utilisé
+    pour valider la conformité d’un système EFC pour tout emplacement possible d’un foyer.
+    Les validations par calculs CFD sont applicables à la situation d’un foyer, sans
+    sprinkleurs ou avec sprinkleurs, aux conditions définies par exemple en 7.2.2.2.
+
+
+Page 34 sur 44 pages                                                        ITM-SST 1552.2
+    NOTE: Un calcul suivant 7.2 peut permettre, pour certains scénarii d’incendie, d’admettre
+    d’autres valeurs des paramètres (vitesse minimale d’air, débit d’air,…) que celles requises par
+    5.2.2. p.ex.
+(2) Le système EFC doit être validé pour les positions les plus défavorables, par exemple de
+    véhicules en feu dans chaque zone EFC, objet d’un scénario incendie. Le nombre de
+    positions à considérer est déterminé en fonction des obstacles et autres discontinuités dans
+    les cheminements des flux d’air.
+    Il en résulte qu’un certain nombre de calculs CFD sont nécessaires. Un calcul CFD
+    correspond à une position d’un foyer.
+
+7.2.2 Données relatives au logiciel CFD
+7.2.2.1 Données générales
+(1) Le calcul par logiciel CFD permet d’établir, en fonction du temps, le développement, la
+    répartition et les mouvements des fumées, en termes d’espaces enfumés et non enfumés
+    (concentrations), de températures, de vitesses (amplitudes et directions) dans les zones
+    EFC concernées.
+(2) Le logiciel CFD, qui est soit générique, soit spécifique pour les calculs EFC, doit être
+    reconnu, couramment employé et disposer de références et de validations dans le domaine
+    des simulations EFC.
+    Ce logiciel doit disposer des modèles mathématiques permettant la résolution d’un
+    ensemble d’équations différentielles établissant localement les principes de conservation
+    de masse, d’énergie et de quantité de mouvement, et des concentrations.
+    Ce logiciel doit intégrer les équations de comportement et de déplacement des fumées
+    utilisant un modèle de turbulence, soit du type « LES » (Large Eddy Simulations –
+    simulations de grands tourbillons).
+(3) Dans le cas p.ex, d’un parking fermé sprinklé avec pentes de sol (une seule voiture en
+    feu), on admet que les effets défavorables ou favorables du sprinklage peuvent être
+    négligés.
+    NOTES :
+        1) Il peut y avoir des effets défavorables dus au sprinklage :
+           - vaporisation de l’eau projetée sur le foyer et à proximité de celui-ci ;
+          - condensation de cette vapeur d’eau dans les fumées, en aval du foyer, dans le sens
+          d’écoulement des fumées ;
+        2) Il peut y avoir aussi des effets favorables dus au sprinklage avec pente de sol :
+          - non propagation du feu à une seconde voiture ;
+          - réduction de la puissance totale et du flux de chaleur convectif du foyer.
+        La condensation de la vapeur d’eau en aval du foyer n’est pas considérée comme gênante
+        pour l’intervention des services incendie ; la réduction du flux de chaleur n’est pas prise en
+        compte, entraînant ainsi une évaluation sécuritaire du débit d’extraction de fumée et de la
+        température moyenne des fumées.
+(4) La méthode de calcul consiste :
+      - à diviser l’espace tridimensionnel du compartiment en feu en un nombre de cellules,
+         de dimensions finies et localisées dans les axes: x, y et z de cet espace ;
+      - à résoudre, à chaque intervalle de temps, pour chaque cellule et aux limites de
+         celles-ci, les équations citées ci-dessus gouvernant les phénomènes physiques.
+(5) Le logiciel utilisé intègre les modules d’application spécifiques à la simulation d’un foyer
+    et de son développement dans le temps définis p,ex. en 7.2.3. L’intégration de ces
+
+
+
+Page 35 sur 44 pages                                                                ITM-SST 1552.2
+    modules d’application est validée et reconnue par le concepteur responsable du logiciel
+    CFD générique utilisé.
+    Ces modules d’application comprennent les modèles mathématiques relatifs :
+      - au feu c.à.d. le flux de chaleur convectif ;
+      - à la fumée c.à.d. la masse de fumée produite, sa température et sa concentration ;
+      - aux systèmes dynamiques externes c.à.d. les ventilateurs d’introduction et
+          d’extraction d’air, les accélérateurs, et les orifices d’introduction d’air.
+(6) Le logiciel permet la saisie des données géométriques, en trois dimensions. Les obstacles
+    fixes et les éléments de structure des espaces du parking fermé (poutres, parois et
+    colonnes, …), qui dimensionnent le système EFC, doivent être incorporés.
+    NOTE : L’influence des poutres sur la propagation du « ceiling jet » (jet d’air chaud au plafond)
+           doit notamment être prise en compte .
+           La saisie des données peut être réalisée :
+    - soit par importation de fichiers externes (plans d’architectures et de structure) ;
+    - soit par la création manuelle de fichiers recréant le tracé des limites de l’enveloppe de
+      l’espace parking fermé, reprises sur les plans d’architecture et de structure.
+       Les types de parois délimitant le parking (murs, plafond, plancher) sont introduits dans le
+      logiciel.
+
+7.2.2.2. Données particulières
+(1) L’air de compensation introduit dans le compartiment en feu est considéré à 15°C.
+(2) Les échanges thermiques entre l’ambiance du compartiment en feu et ses parois verticales
+    et horizontales peuvent ne pas être pris en considération en ventilation mécanique, mais
+    doivent l’être en ventilation naturelle.
+    NOTE : La non prise en compte des échanges thermiques réels (convectifs, radiatifs) entre le
+    foyer et les fumées d’une part, et les parois du compartiment d’autre part, entraîne un débit
+    d’extraction de fumée et une température moyenne des fumées supérieurs à la réalité, ce qui peut
+    être considéré comme sécuritaire en ventilation mécanique, mais donne des résultats non
+    réalistes en ventilation naturelle.
+(3) Les dimensions maximales des cellules de calcul sont :
+      - en plan : 0,5 m x 0,5 m dans la zone du foyer et 1 m x 1 m hors cette zone;
+      - en élévation : 0,5 m.
+      avec un minimum de dix cellules dans chaque direction.
+    Une réduction de la taille des cellules doit être appliquée :
+      - pour assurer la convergence et la stabilité des grandeurs calculées,
+      - pour s’adapter aux dimensions du compartiment sous feu,
+      - pour examiner des configurations particulières.
+(4) Si la température maximale calculée à proximité du foyer (verticalement et
+    horizontalement) est inférieure à 800oC, il faut refaire le calcul en divisant les dimensions
+    des cellules de calcul par deux, jusqu’à obtenir une différence de températures maximales
+    inférieure à 10% entre deux calculs successifs.
+(5) Le nombre d’itérations de calcul sur l’ensemble de la zone calculée doit être adapté et
+    suffisant pour atteindre la stabilité des résultats calculées et une évidence de convergence.
+(6) Le contrôle de la convergence est généralement automatique ; sa visualisation doit être
+    possible.
+
+
+
+
+Page 36 sur 44 pages                                                               ITM-SST 1552.2
+7.2.3 Données caractérisant le foyer et les fumées
+L’évolution du débit calorifique total [MW] en fonction du temps [min] doit être déterminée.
+La figure 15 donne par exemple la courbe pour le foyer d'une voiture en feu.
+
+
+
+
+ Figure 15: Exemple de débit calorifique total dégagé par l'incendie d'une voiture avec
+    RHRmax de 8,3 MW à 25 minutes; ces valeurs sont basées sur des feux réels avec
+          mesures sous hotte calorimétrique (référence: CEC Agreement 7210-
+                     SA/211/318/518/620/933-Final Report 1997).
+
+NOTE : Ces données proviennent de l’analyse d’essais réels instrumentés d’incendies de voitures
+jusqu’à extinction naturelle. Les flux de chaleur sont relatifs à des puissances nettes. Celles-ci
+tiennent compte du rendement de combustion.
+Le flux de chaleur convectif Qf est basé sur l'équation (4) qui peut s'écrire Qf = (1 – χ’R) Qt
+où χ'R = part du flux de chaleur total rayonnée ; en cas de feux de voitures : χ’R = 0,3.
+La part du flux de chaleur total rayonnée, qui pourrait être plus élevée, tient compte :
+      - de la diversité des matériaux combustibles composant une voiture ;
+      - du caractère peu ventilé de la combustion de ces matériaux.
+Le choix de cette valeur forfaitaire est sécuritaire ; ceci a pour conséquence une évaluation de la
+température moyenne des fumées supérieure à la réalité.
+L’énergie totale dégagée par la combustion jusqu’à extinction est de l'ordre de 7GJ.
+Dans le cas d’autres types de foyers, l’évolution du débit calorifique et de la taille du foyer peut être
+déterminée en fonction du temps en utilisant par exemple :
+                        la méthode de l’Annexe E de l’EN 1991-1-2.
+
+
+
+
+Page 37 sur 44 pages                                                                  ITM-SST 1552.2
+7.2.4 Dossier des résultats des calculs CFD
+
+7.2.4.1 Présentation et contenu du dossier
+(1) Le dossier doit comporter au moins les parties suivantes :
+      - Les références du logiciel utilisé et les informations nécessaires pour l’examen de
+         son acceptabilité
+                i. Descriptif ;
+               ii. Modèle de turbulence ;
+              iii. Modèle d’introduction du flux de chaleur convectif ;
+              iv. Références d’utilisations du logiciel ;
+               v. Validation du logiciel par rapport à des feux réels instrumentés.
+      - Les valeurs (graphes ou tableaux) des données introduites, relatives au foyer, les
+         conditions aux limites, les données de vent etc. permettant le contrôle par un tiers au
+         moyen du même logiciel ou d’un autre logiciel similaire ;
+      - Un chapitre « analyse » ;
+      - Un chapitre « conclusions » ;
+      - Des annexes éventuelles.
+(2) Pour chaque compartiment, le dossier comprend un plan schématique de modélisation et
+    d’implantations des
+      - limites architecturales et dimensions des lieux ;
+      - obstacles architecturaux et de structure pris en compte ;
+      - chemins d’évacuation et escaliers de secours ;
+      - rampes et voies d’accès depuis l’extérieur ;
+      - rampes d’accès internes éventuelles ;
+      - points d’introduction d’air (naturelle et/ou mécanique) ;
+      - points d’extraction et accélérateurs;
+      - parois et écrans de cantonnement de fumées éventuels.
+(3) Pour les scénarios incendie, le dossier comprend les
+      - descriptifs fonctionnels de chaque scénario ;
+      - les états des équipements pour chaque scénario activé, comme par exemple « en
+         service » ou « à l’arrêt », « ouvert » ou « fermé », « remonté » ou « descendu » etc.
+(4) Pour chaque calcul CFD, les données suivantes sont à annoncer :
+      - dimensions des cellules de calcul et leurs distributions ;
+      - points d’introduction d’air, naturelle et/ou mécanique avec leurs débits ;
+      - points d’extraction d’air mécanique avec leurs débits ;
+      - accélérateurs en service et leurs sens de soufflage ;
+      - éventuels écrans de cantonnement de fumées ou autres fermetures.
+(5) Pour chaque calcul CFD, les informations minimales suivantes sont à présenter :
+      - vues en plans schématiques et les vues en coupe/élévation ou en 3D ;
+      - localisation du foyer ;
+      - traces vectorielles des vitesses des flux de fumées et d’air ;
+      - amplitudes des vitesses des flux de fumées et d’air ;
+      - températures des flux de fumées et d’air ;
+      - concentrations des fumées.
+
+(6) Pour chaque endroit critique indiqué sur la vue en plan, les informations suivantes sont à
+    présenter :
+        - amplitudes des vitesses des flux de fumées et d’air en mouvement ;
+
+
+
+Page 38 sur 44 pages                                                           ITM-SST 1552.2
+       - températures des flux de fumées et d’air en mouvement ;
+       - concentration des fumées.
+(7) Pour chaque calcul CFD, la distribution des concentrations de fumées doit figurer sur la
+    vue en plan.
+
+7.2.4.2 Analyse des résultats
+(1) Les résultats sont à analyser pour chaque calcul CFD. L’analyse doit porter
+    principalement sur la vérification de la conformité aux exigences de performance, telles
+    que la température moyenne de la couche de fumée et la hauteur libre de fumée définies
+    en 5.1.1.6. La hauteur est considérée comme libre de fumée si la concentration de fumée
+    due au foyer n’est pas supérieure à 0,02 g/m³.
+(2) Si dans des endroits particuliers du compartiment en feu il s’avère impossible d’atteindre
+    une des performances, les résultats obtenus feront l’objet d’un examen particulier. Pour
+    ces cas critiques l’analyse des conditions de sécurité obtenues en cas d’intervention des
+    équipes de secours sera effectuée et présentée à l’autorité compétente. Les conditions de
+    sécurité admissibles sont déterminées en accord avec celle-ci.
+
+7.2.4.3. Moyens à mettre en œuvre en conclusion de l’étude
+(1) Le chapitre « conclusions » doit établir les moyens à mettre en œuvre pour assurer le
+    respect des critères de cette Instruction Technique ITM-SST 1552, sur base des calculs
+    CFD et de leur analyse.
+(2) Pour chacun des scénarios incendie validés par un calcul CFD, le chapitre « conclusions »
+    doit confirmer les débits à assurer ainsi que les vitesses d’air calculées à « chaud » (avec
+    foyer) et à « froid » (sans foyer) et les températures minimales auxquelles les installations
+    EFC doivent résister. Les vitesses d’air doivent être mesurées sur site.
+(3) Le chapitre « conclusions » doit préciser, pour les cas critiques, les conditions de sécurité
+    admises par l'autorité compétente (voir 7.2.4.2(2)).
+
+7.3 Programmes de calcul CFD disponibles
+
+Ce chapitre donne une brève description de deux types de modèles-feu informatisés, incluant
+les modèles dits « zones » et les modèles dits « champs ».
+7.3.1 Les modèles "Zones"
+Il s’agit en fait de programmes d'ordinateur, qui prédisent les effets du développement d’un
+incendie au sein d’un espace relativement compartimenté. Dans la plupart des applications,
+l’espace n’est pas totalement compartimenté, ce qui s’explique notamment par le fait que les
+portes, les fenêtres et les dispositifs d’aération sont pris en compte lors du calcul. Les
+modèles dits de Zones pour les compartiments ont été développés pour les configurations
+mono-espace et multi-espace.
+Cette approche divise le volume considéré dans un certain nombre de zones, qui étant
+combinées, décrivent le volume visé comme étant une entièreté. A l'intérieur de chaque zone
+sont résolues les équations de conservation de la masse et de l'énergie. Normalement un
+compartiment est divisé en deux zones distinctes, la zone supérieure avec le réservoir de
+fumée chaude et la zone inférieure avec de l'air plus froide. Le foyer avec sa flamme agit
+comme une pompe thermique entre la zone inférieure et la zone supérieure remplie de
+fumée.
+
+
+
+Page 39 sur 44 pages                                                           ITM-SST 1552.2
+En réalité cependant, en tenant compte de la taille des locaux et du taux de dégagement de
+chaleur, il s’ensuit qu’il n’y a pas d’interface parfaitement définie entre la couche de fumée
+chaude supérieure et celle qui se situe bien plus au bas. Par conséquent, il ne s’agit en réalité
+pas d’une température uniforme, comme des températures nettement plus élevées sont
+observées à proximité du foyer même.
+Toutefois, l’utilisation de l'approche des deux zones uniformes permet une simulation
+raisonnable du développement d’un incendie dans un compartiment sous l'effet de
+nombreuses variables.
+Le tableau 7 ci-après donne quelques-uns des modèles dits de zone.
+
+
+                       Tableau 7: Liste non exhaustive de modèles "Zones"
+ MODÈLE PAYS                                      DESCRIPTION
+  ARGOS Denmark                        Modèle zone à plusieurs compartiments
+  CFAST     US                  Modèle zone avec ensemble de pré-et postprocesseurs
+ CFIRE-X Germany                     Modèle zone pour des feux de compartiments
+   CiFi   France                       Modèle zone à plusieurs compartiments
+  FIRST     US                           Modèle zone pour un compartiment
+ HYSLAV Sweden                              Modèle zone avant Flash-over
+  MRFC    Austria                      Modèle zone à plusieurs compartiments
+                           Modèle deux zones avec ventilation, masse d'oxygène, pression des
+   OZONE         B/Lux
+                              gaz, incendie contrôlé par la ventilation ou le combustible
+
+
+
+7.3.2 Les modèles "Champs"
+ Les modèles dits de champs, tout comme les modèles dits de zone, sont utilisés pour modeler
+le développement d’un incendie à l’intérieur d’un compartiment ou d’une série de
+compartiments. Alors qu’un modèle dit de zones divise le compartiment en deux zones et
+résout les équations de conservation de la masse et de l'énergie à l'intérieur de ces zones, un
+modèle dit de champs divise le compartiment en un grand nombre - de l’ordre de plusieurs
+milliers - d’espaces de contrôle et résout ensuite les équations de conservation à l’intérieur de
+chaque volume de contrôle, tout en respectant les conditions de contact entre deux volumes
+adjacents.
+Ceci permet une solution plus détaillée, comparé aux modèles dits de zones. En plus, étant
+donné la présence de plus de deux zones uniformes, un modèle dit de champ peut être
+approprié pour des géométries bien plus complexes, où deux zones ne décrivent plus
+correctement le phénomène physique de l'incendie. Il peut même être utilisé pour un incendie
+en-dehors d'un compartiment, tel que pour un incendie de réservoir contenant du carburant et
+situé à l'air libre.
+
+
+
+
+Page 40 sur 44 pages                                                           ITM-SST 1552.2
+Le tableau 8 ci-après donne certains des modèles dits de champ, qui ont été identifiés.
+
+                       Tableau 8: Liste non exhaustive de modèles "Champs"
+   MODÈLE                PAYS                         DESCRIPTION
+    VESTA                 NL          Modèle général de dynamique de fluide sous incendie
+     FDS                US/ NIST      Modèle général de dynamique de fluide sous incendie
+   FLUENT                 US                         Modèle CFD général
+                                       Modèle avec évolution des fumées et transfert de la
+  KOBRA_3D               Germany
+                                            chaleur pour des géométries complexes
+   PHOENICS      UK                             Modèle CFD à usage multiple
+            US/Thunderhead
+   PYROSIM                 Modèle général de dynamique de fluide sous incendie
+              Engineering
+  SMARTFIRE      UK                  Modèle champs sous incendie
+    SOFIE    UK/SWEDEN               Modèle champs sous incendie
+
+
+
+Article 8. - Procédures de validation et de contrôle
+
+8.1 Procédure de validation
+
+Il s’agit d’une procédure qui valide et vérifie la méthode de calcul et qui teste l’exactitude des
+résultats. Le choix des scénarios d’évacuation et les programmes de calcul qui seront utilisés
+sont à soumettre préalablement aux autorités compétentes, selon le schéma de la figure 16 se
+trouvant à la page suivante.
+
+
+
+
+Page 41 sur 44 pages                                                            ITM-SST 1552.2
+                Définir l'envergure
+                     du projet
+                (première ébauche)
+
+
+
+                                                       Déterminer les scénarios
+                       Définir
+                                                        de dimensionnement
+                  les exigences de
+                   performance
+
+
+
+                                                             Définir le
+                Définir la stratégie de
+                                                         concept de sécurité
+              protection des personnes
+                                                              incendie
+               et du service d'incendie
+
+
+
+                                                         Evaluer le concept de
+                Définir les exigences                  sécurité incendie par des
+                fonctionnelles et les                    méthodes d'ingénieur
+                critères quantitatifs
+
+
+
+             Analyser ou modifier
+             le concept de sécurité         NON              Respect des
+             incendie, les exigences de                       Critères
+             performance ou la
+             stratégie de protection
+                                                         OUI
+
+                                                       Concept de sécurité
+                                                        incendie valable
+
+    Figure 16: Méthodologie comprenant les phases successives de développement du
+                   concept de sécurité incendie selon ISO TC92 SC4
+
+Toute étude relative au calcul des installations d'évacuation de fumées et de chaleur (EFC)
+doit être accompagnée d'une documentation comprenant :
+   des informations générales qui doivent instruire sur des imperfections éventuelles du
+      modèle choisi, surtout sur des déficiences du modèle en rapport avec le feu. Ceci est un
+      point très important, parce que la bonne interprétation des résultats en dépend.
+   la documentation technique et le mode d’emploi du modèle montrant que les utilisateurs
+      sont en mesure de connaître les références scientifiques de base en matière
+      d’algorithmes. La documentation technique doit fournir aux utilisateurs des
+      informations utiles et pratiques, notamment pour comprendre les caractéristiques du
+      modèle.
+
+
+
+
+Page 42 sur 44 pages                                                           ITM-SST 1552.2
+Il s’agit en l’occurrence des informations et caractéristiques suivantes :
+    définition du type d’incendie utilisé, ou les conditions physiques à respecter,
+    description des lois théoriques et physiques qui sont à la base du modèle,
+    équations qui règlent le processus,
+    identification des hypothèses les plus importantes et leurs limites d’application,
+    description des techniques et processus mathématiques, et les algorithmes utilisés,
+    liste contenant les programmes auxiliaires ou les fichiers de données nécessaires,
+    informations concernant les sources des données, contenus et utilisation.
+
+8.2 Qualification des concepteurs
+
+Les concepteurs appelés à procéder à un dimensionnement d’installation EFC, doivent être
+ingénieurs et présenter à l’autorité compétente un certificat de réussite des épreuves d’un
+cours de « fire safety engineering » ou un dossier démontrant leur expérience personnelle
+dans ce domaine.
+
+8.3 Procédure de contrôle
+
+Ce contrôle, considéré comme indispensable, est demandée par l’autorité compétente, et peut
+s'opérer de différentes façons:
+   contrôle basé sur des normes,
+   contrôle basé sur des données issues des exercices de prévention incendie et des tests en
+      matière d'évacuation de fumées et de chaleur,
+   contrôle basé sur des données provenant de la littérature ayant trait aux tests en matière
+      d’évacuation de fumées et de chaleur,
+   contrôle basé sur d’autres modèles.
+Les organismes spécialisés qui souhaitent intervenir dans la procédure de contrôle des calculs
+d'une installation EFC, et d'une réalisation conforme aux résultats des calculs, doivent être
+préalablement agréés à cet effet comme "organisme de contrôle" par le Ministre ayant le
+Travail dans ses attributions.
+Les conditions d'agrément et les règles d'intervention des organismes de contrôle sont
+déterminées par l'article 614 du Code du travail et les règlements grand-ducaux et ministériels
+qui en découlent dans le cadre des compétences et attributions de l'Inspection du travail et des
+mines.
+Ceci implique notamment pour l'organisme de contrôle :
+- de présenter lors de la demande d'agrément un dossier établissant la compétence du
+   personnel dans l'ingénierie du désenfumage et démontrant que l'organisme dispose de
+   moyens de calcul [et de matériels] appropriés.
+-   d'être organisé et de réaliser ses interventions de manière à garantir une totale
+    indépendance par rapport à la démarche de conception, ce qui n'exclut pas la possibilité
+    d'échange d'informations techniques entre l'organisme de contrôle et les auteurs de projet
+    [et les firmes réalisant les installations].
+-   d'être accrédité pour ses activités au titre des normes applicables des séries EN ISO/CEI
+    17000 respectivement EN 45000 par l’Office Luxembourgeois d’Accréditation et de
+    Surveillance (OLAS) de l’Institut Luxembourgeois de la Normalisation, de
+
+
+
+Page 43 sur 44 pages                                                           ITM-SST 1552.2
+    l’Accréditation de la Sécurité et la qualité des produits et services (ILNAS) ou par tout
+    autre organisme d’accréditation équivalent signataire de l’accord multilatéral pris dans le
+    cadre de la coordination européenne des organismes d’accréditation.
+
+Article 9. - Transposition des hypothèses de dimensionnement et des
+résultats de calcul dans les documents d’exécution et d’exploitation
+Les aménagements prévus par le concepteur, lors du calcul des installations d’évacuation de
+fumées et de chaleur (EFC), doivent clairement figurer dans les notes justificatives ainsi que
+sur les plans de construction, afin de vérifier sans équivoque leur existence lors de la mise en
+exploitation de l'ouvrage.
+Les notes justificatives fixent les conditions d’exploitation et décrivent les hypothèses
+utilisées pour l’étude d’ingénierie incendie ainsi que les recommandations déduites des
+résultats de cette étude. Elles donnent les différents scénarios qui impliquent la définition :
+   des compartiments au feu et des cellules étudiés avec les caractéristiques de parois et
+       des ouvertures,
+   des données relatives au feu (densité de charge calorifique, débit calorifique maximal,
+       les tailles des foyers considérés, tailles et position des foyers, vitesses de propagation),
+   des mesures actives de lutte contre le feu, telles la détection des fumées, l'alarme
+       acoustique, l'activation du désenfumage et du sprinklage, etc.
+   les surfaces aérodynamiques et géométriques des entrées d'air, des exutoires de fumée et
+       leur disposition spatiale,
+   le débit des extracteurs de fumée et de la ventilation mécanique éventuelle dans les
+       entrées d'air avec la vitesse de l'air dans les entrées d'air.
+Les documents en question seront tenus à la disposition des autorités compétentes. Il est de la
+responsabilité du propriétaire et de l'exploitant de garantir le respect des conditions
+d’exploitation.
+
+
+
+
+                                         Mise en vigueur, le
+
+                                                  s.
+
+                                         Robert HUBERTY
+                                               Directeur
+                                      de l’Inspection du travail
+                                             et des mines
+
+
+
+
+Page 44 sur 44 pages                                                             ITM-SST 1552.2
+

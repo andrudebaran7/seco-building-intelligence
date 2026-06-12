@@ -1,0 +1,1152 @@
+GRAND-DUCHE DE LUXEMBOURG                                                           Strassen, le 18 septembre 2017
+
+
+
+
+                        Le présent texte a été établi par l’Inspection du travail et des mines et
+                            le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                ITM-SST 1500.3
+
+
+
+                        Prescriptions de prévention incendie
+                                         DEFINITIONS GENERALES
+
+                                          Le présent document comporte 24 pages
+
+
+
+
+         Les définitions générales suivantes sont indiquées
+                       par ordre alphabétique
+
+                                                      SOMMAIRE
+                   er
+       Article 1         Alarme                                                                           3
+       Article 2.        Alerte                                                                           3
+       Article 3.        Aménagement extérieur                                                            3
+       Article 4.        Aménagement intérieur                                                            3
+       Article 5.        Ascenseurs « pompier » et « d’évacuation »                                       4
+       Article 6.        Chemin d'évacuation (Chemin de fuite)                                            4
+       Article 7.        Chemin d'accès et surfaces de manœuvre                                           4
+       Article 8.        Classification des bâtiments                                                     4
+       Article 9.        Classification des établissements                                                5
+       Article 10. Colonnes sèches / colonnes en charge                                                   5
+       Article 11. Compartiment                                                                           5
+       Article 12. Compartiment d'issue                                                                   5
+
+       Inspection du travail et des mines
+       Adresse postale:        B.P. 27                 L-2010 Luxembourg                    Tel.: +352 247-76100
+       Bureaux:                3, rue des Primeurs     L-2361 Strassen                      Fax: +352 247-96100
+       Site internet:          http://www.itm.lu
+Article 13. Conformité des matériaux et matériels                                 6
+Article 14. Conduits et gaines techniques                                         6
+Article 15. Constructions annexes                                                 6
+Article 16. Densité de charge calorifique « Qm » (fire load density)              6
+Article 17. Désenfumage (Evacuation de fumée et de chaleur (E.F.C.)).             7
+Article 18. Détection incendie                                                    7
+Article 19. Eclairage                                                             8
+Article 20. Écran de fumée                                                        8
+Article 21. Effectif de personnes                                                 8
+Article 22. Eléments de construction                                              9
+Article 23. Entretien, surveillance, maintenance et contrôles périodiques         9
+Article 24. Escaliers de secours                                                  9
+Article 25. Exutoire de fumée                                                     10
+Article 26. Galerie                                                               10
+Article 27. Garde-corps et rampes d'escalier                                      10
+Article 28. Hauteur libre de fumée                                                10
+Article 29. Installations de sécurité                                             10
+Article 30. Isolement par rapport au tiers                                        11
+Article 31. Issues et sorties de secours                                          11
+Article 32. Locaux à risques                                                      11
+Article 33. Mezzanine                                                             11
+Article 34. Moyens de secours et d'intervention                                   12
+Article 35. Niveau d'évacuation                                                   12
+Article 36. Niveau de référence                                                   12
+Article 37. Organisme de contrôle                                                 12
+Article 38. Passage de liaison                                                    13
+Article 39. Plans                                                                 13
+Article 40. Portes                                                                14
+Article 41. Préposé à la sécurité incendie                                        15
+Article 42. Procédures d’évacuation en cas d’urgence                              15
+Article 43. Réaction au feu d'un matériau de construction                         16
+Article. 44. Résistance au feu d'un élément de construction                       20
+Article. 45. Sas                                                                  22
+Article. 46. Service de sécurité incendie                                         22
+Article. 47. Signalisation de sécurité                                            23
+Article. 48. Source autonome de courant                                           24
+Article. 49. Sous-sol (locaux dits en sous-sol)                                   24
+Article. 50. Tribunes et gradins                                                  24
+Article. 51. Vitrages de sécurité                                                 24
+Article. 52. Volumes libres intérieurs                                            24
+
+
+
+2                                                                       ITM-SST 1500.3
+Article 1er Alarme
+L'alarme est le signal d'évacuation partielle ou totale. Par signal sonore et/ou visuel,
+déclenché par une personne ou par un dispositif automatique pour signaler un incendie ou
+tout autre incident, elle s'adresse à toutes les personnes présentes dans les espaces, locaux
+et compartiments où l'alarme est déclenchée.
+ Alarme générale (AG): signal sonore ou message préenregistré ou autre forme d’ordre
+  d’évacuation, ayant pour but de prévenir tous les occupants d’avoir à évacuer les lieux.
+  Dans certains cas, elle peut être complétée par un signal visuel. Elle peut être immédiate
+  ou temporisée.
+ Alarme restreinte (AR): dans le cas d’effectifs très importants à évacuer ou d’incapacités
+  physiques, ce signal a pour but d’avertir:
+     soit le poste de sécurité de l’établissement;
+     soit la direction ou le gardien;
+     soit le personnel désigné à cet effet.
+ Alarme sélective (AS): signal sonore ou message préenregistré ayant pour but de
+  prévenir une partie des occupants d’un bâtiment ou d’un établissement, d’avoir à évacuer
+  les lieux. Dans certains cas, elle peut être complétée par un signal visuel. Elle peut être
+  immédiate ou temporisée.
+Le message ou l’ordre d’évacuation peut concerner le seul niveau sinistré ou le seul
+compartiment sinistré ou le seul bâtiment sinistré (si l’établissement est composé de
+plusieurs bâtiments) ou le seul établissement (si le bâtiment est composé de plusieurs
+établissements).
+Le système d’alarme qu’il soit sélectif ou restreint doit toujours permettre une alarme
+générale.
+
+Article 2. Alerte
+L’alerte est l’action de demander l’intervention des services de secours. L’alerte doit pouvoir
+être immédiate et peut être assurée, soit manuellement, soit automatiquement:
+ par réseau de téléphone public;
+ par ligne téléphonique directement reliée au centre de secours;
+ par Réseau Public de Transmission d’Alarmes (ALARMIS).
+
+Article 3. Aménagement extérieur
+L'aménagement extérieur recouvre les accès, les circulations et l’évacuation des piétons,
+des personnes à mobilité réduite et des véhicules. Il intègre les accès des services de
+secours dont la définition est développée au paragraphe intitulé « chemins d’accès et
+surfaces de manœuvre ».
+
+Article 4. Aménagement intérieur
+Pour éviter dans un local, dans un compartiment ou dans un établissement, le
+développement rapide d’un incendie qui pourrait compromettre l’évacuation du public et
+l’intervention des services de secours, les revêtements des sols, murs et plafonds, la
+décoration et le mobilier doivent répondre aux critères de réaction au feu des dispositions
+générales et spécifiques à chaque type d’établissement.
+
+
+
+
+3                                                                             ITM-SST 1500.3
+Article 5. Ascenseurs « pompier » et « d’évacuation »
+ L'ascenseur « pompier » est un ascenseur à appel prioritaire pour les services de
+  secours en cas d'intervention. Il doit être réalisé conformément à la norme EN 81-72.
+ L'ascenseur « d’évacuation » est un ascenseur à appel prioritaire dont les dimensions
+  minimales de la cabine sont 2,10 m x 1,10 m.
+Note: Pour la réalisation d'un ascenseur d'évacuation, il y a lieu de se référer à la prénorme pr EN 81-
+76.
+
+Article 6. Chemin d'évacuation (Chemin de fuite)
+Voie de circulation intérieure ou extérieure qui permet à tout occupant d'un établissement
+une évacuation rapide et sûre vers la voie publique.
+On distingue:
+ le chemin d’évacuation réglementaire :
+    Chemin réglementaire comptant dans le nombre des chemins imposés par la
+    réglementation.
+ le chemin d’évacuation supplémentaire :
+    Chemin réglementaire en surnombre des chemins d’évacuation réglementés.
+ le chemin d’évacuation accessoire :
+    Chemin d’évacuation ne pouvant pas respecter toutes les contraintes liées à la définition
+    d’un chemin d’évacuation réglementaire.
+Les chemins d’évacuation supplémentaires et accessoires sont:
+     soit proposés par la maîtrise d’œuvre et acceptés par les autorités compétentes;
+     soit imposés en aggravation ou en dérogation des dispositions générales et spécifiques.
+
+Article 7. Chemin d'accès et surfaces de manœuvre
+Les chemins d'accès et les surfaces de manœuvre sont des espaces extérieurs, libres de
+tout obstacle, circulables et permettant aux services de secours d'intervenir rapidement en
+cas d'incendie.
+Tous les établissements doivent être facilement accessibles de l’extérieur par les services de
+secours. Suivant les dispositions spécifiques, ils doivent avoir une ou plusieurs façades en
+bordure de voies ou surfaces de manœuvre permettant d’une part, l’accès et la mise en
+service des moyens de secours et de lutter contre l’incendie et d’autre part, l’évacuation du
+public.
+
+Article 8. Classification des bâtiments
+Par bâtiment, il faut entendre une construction solide qui offre des qualités de résistance et
+d'isolement au feu en cas d'incendie.
+Les bâtiments sont classés selon leur hauteur « h » qui est la distance entre le niveau fini du
+plancher exploitable de l’étage le plus élevé et le niveau de référence.
+On distingue:
+ les bâtiments bas dont la hauteur « h » est inférieure ou égale à 7m;
+ les bâtiments moyens dont la hauteur « h » est supérieure à 7 m et inférieure ou égale à
+  22m;
+ les bâtiments élevés dont la hauteur « h » est supérieure à 22m.
+
+
+
+4                                                                                     ITM-SST 1500.3
+Article 9. Classification des établissements
+Par établissement, il faut entendre tout bâtiment ou partie de bâtiment, tout local et espace
+construit dans lesquels des personnes sont admises pour exercer une ou plusieurs activités
+similaires.
+Ainsi, un établissement peut être constitué de plusieurs bâtiments ou occuper partiellement
+un bâtiment, qui lui comportera plusieurs établissements.
+Les établissements sont classés selon la nature des activités qui s'y déroulent, leurs
+surfaces et le nombre de personnes (personnel et public) pouvant y accéder simultanément
+et ce, conformément au règlement grand-ducal portant nouvelles nomenclature et
+classification des établissements classés.
+
+Article 10. Colonnes sèches / colonnes en charge
+Ces colonnes servent aux services de secours de se raccorder avec leur propre équipement
+pour combattre un incendie à partir de n’importe quel niveau en présence de grandes
+longueurs, hauteurs ou profondeurs dans un immeuble.
+Les colonnes sèches sont des canalisations d'un diamètre de 80mm. Elles sont mises en
+charge par les services de secours au moyen des engins pompes au moment d'une
+intervention.
+Les colonnes en charge sont des canalisations d'un diamètre approprié, alimentées en
+permanence, soit par un réservoir en charge, soit par des pompes à surpression, soit encore
+par le réseau si ce dernier le permet.
+
+Article 11. Compartiment
+Un compartiment est une partie d’un bâtiment délimité par des parois dont la fonction est
+d’empêcher la propagation du feu, des fumées et des gaz nocifs en cas d’incendie à d’autres
+parties contiguës pendant une durée déterminée et de faciliter ainsi l'évacuation rapide,
+facile et sûre des personnes, ainsi que l'intervention des services de secours.
+Le degré de résistance au feu de ces parois est défini par les dispositions générales et
+spécifiques.
+On distingue deux types de compartiment coupe-feu:
+ les compartiments principaux,
+ les compartiments secondaires,
+Les contraintes liées à ces deux types de compartiment sont données dans les dispositions
+générales et spécifiques.
+
+Article 12. Compartiment d'issue
+Les compartiments d'issues assurent la communication entre les issues des compartiments
+et les sorties du bâtiment vers la voie publique. Les compartiments d'issues types sont les
+cages d'escaliers, couloirs, halls, etc. comprenant les sorties vers la voie publique.
+Les synonymes que l'on trouve couramment dans la littérature technique sont les passages
+protégés et les tunnels d'évacuation ou même les tunnels de fuite.
+
+
+
+
+5                                                                            ITM-SST 1500.3
+Article 13. Conformité des matériaux et matériels
+Les matériaux, matériels, appareils et équipements divers doivent être conformes :
+ aux normes européennes du Comité Européen de Normalisation (CEN) harmonisées,
+  autant qu’elles existent et qu’elles paraissent,
+ aux spécifications techniques d’un autre Etat membre de l’Union européenne ou de
+  l’espace économique européen reconnues équivalentes, possédant un agrément
+  technique européen et après avis positif des organismes compétents responsables de la
+  publication.
+
+Article 14. Conduits et gaines techniques
+Un conduit est un volume fermé servant de passage à un fluide ou à une énergie
+déterminée comme p.ex. eau, air, gaz, électricité, etc.
+Une gaine technique est un volume fermé généralement accessible à des personnes et
+renfermant un ou plusieurs conduits.
+La littérature technique peut faire état également de gaines d’ascenseur et de monte-charge,
+de gaines ou de conduits de ventilation, de désenfumage, de canalisation, de vide-ordures,
+de vides-linges, etc. L’ensemble de ces gaines et de ces conduits y compris tous les
+dispositifs d’accès à ces éléments, portes et trappes, sont conçus de façon à limiter, voire à
+éviter toute propagation du feu d’un compartiment à un autre.
+
+Article 15. Constructions annexes
+Sont considérées comme des constructions annexes, les avancées de toiture, les auvents,
+les ouvrages en encorbellement ou toutes autres adjonctions architecturales.
+
+Article 16. Densité de charge calorifique « Qm » (fire load density)
+La densité de charge calorifique, encore désignée par « Qm » est la charge calorifique d’un
+incendie rapportée à la surface au sol de l'espace considéré. La densité de charge
+calorifique totale est la somme des énergies calorifiques pouvant être dégagées par la
+combustion complète de tous les matériaux contenus dans un compartiment. Elle varie en
+fonction de l’exploitation d’une surface.
+L'unité spécifique à cette énergie est exprimée en mégajoules par m² (MJ/m²).
+Il est distingué entre plusieurs niveaux de densité de charge calorifique :
+
+
+    densité de charge calorifique très faible       allant jusqu'à            125 MJ/m²
+
+    densité de charge calorifique faible            allant jusqu'à            250 MJ/m²
+    densité de charge calorifique moyenne           allant jusqu'à            500 MJ/m²
+
+    densité de charge calorifique élevée            allant jusqu'à            1.500 MJ/m²
+    densité de charge calorifique très élevée          plus de                1.500 MJ/m²
+
+
+Les valeurs indiquées considèrent un fractile de 80 %.
+(Comme tout le combustible ne se consomme pas, il est choisi le 80ème percentile de la
+densité de charge calorifique réelle pour représenter le cas le plus improbable).
+
+
+
+
+6                                                                               ITM-SST 1500.3
+A titre indicatif le tableau ci-dessous donne quelques grandeurs de densités de charges
+calorifiques moyennes que l'on retrouve dans certains locaux :
+
+
+                    Habitation                               780 MJ/m²
+
+                    Hôpital / clinique                       230 MJ/m²
+
+                    Hôtel                                    310 MJ/m²
+
+                    Bureaux                                  420 MJ/m²
+                    Commerce                                 600 MJ/m²
+
+                    Production industriel sans stockage      300 MJ/m²
+                    Production industriel avec stockage      1180 MJ/m²
+
+                    Bibliothèque                             1500 MJ/m²
+
+                    Ecole                                    285 MJ/m²
+
+Article 17. Désenfumage (Evacuation de fumée et de chaleur
+(E.F.C.)).
+Le désenfumage est une installation technique qui lors d’un incendie permet de maintenir les
+chemins d’évacuation praticables pour le personnel, le public et les services de secours et
+de limiter la propagation de l’incendie.
+Le terme « désenfumage » résume aussi bien l’évacuation que la mise à l’abri de fumée et
+de chaleur.
+ L’évacuation de fumée et de chaleur assure le désenfumage par l’extraction de fumée
+  et de chaleur, soit naturellement, soit mécaniquement.
+ La mise à l'abri de fumée et de chaleur est une installation technique qui permet, par la
+  mise en surpression du volume à protéger (escalier, sas, dégagement ou local) de créer
+  une pression positive dans ce volume. Cette surpression empêchera la fumée et les gaz
+  d'y pénétrer: min. 20 Pa, max. 50 Pa, voir norme ISO 8421-5/1988 (E/F).
+
+Article 18. Détection incendie
+Le système de détection incendie est une installation technique, qui permet de déceler
+automatiquement, de signaler, sans intervention humaine, tout début d’incendie dans les
+meilleurs délais, de mettre en œuvre les éventuels équipements de sécurité qui lui sont
+asservis, de donner une alarme et éventuellement de déclencher une alerte. L'installation de
+détection est composée de détecteurs d’incendie pouvant réagir sur un ou plusieurs
+paramètres tels que la fumée, la chaleur ou les flammes. Cette installation a pour but
+principal la protection des occupants.
+Les équipements de sécurité qui peuvent être asservis à la détection incendie sont de cinq
+types et concernent :
+ le compartimentage: fermeture des portes automatiques et des clapets coupe-feu,
+ l’évacuation des personnes: diffusion de l’alarme générale, sélective ou restreinte, gestion
+  des issues de secours,
+ l’évacuation des fumées et de la chaleur,
+ l’extinction automatique,
+ la mise à l’arrêt de certaines installations techniques.
+
+
+7                                                                             ITM-SST 1500.3
+Article 19. Eclairage
+L’éclairage naturel, artificiel ou mixte des espaces et locaux doit être adapté aux activités
+respectives. L'intensité lumineuse, la localisation et la répartition de l'éclairage doivent être
+telles que les personnes puissent exercer leurs activités en toute sécurité, sans fatigue des
+yeux et sans autre atteinte quelconque à leur bien-être et à leur intégrité physique. Pour les
+intensités lumineuses respectives des locaux, il y a lieu de se référer à la condition type ITM
+CL-55 concernant l'éclairage sur les lieux de travail.
+On distingue trois types d'éclairage:
+ un éclairage normal: doit être prévu dans les locaux où la lumière naturelle est
+  insuffisante pendant la présence du public et du personnel.
+ un éclairage de remplacement: éclairage qui, en cas de défaillance de l’alimentation de
+  l’éclairage normal, permet à l’exploitant de poursuivre l’exploitation de son établissement.
+ l’éclairage de sécurité: éclairage qui, lorsque l’éclairage normal et l’éclairage de
+  remplacement sont défaillants, doit permettre l’évacuation sûre et facile du public et du
+  personnel vers l’extérieur ainsi que les manœuvres concernant la sécurité. Selon
+  l’exploitation cet éclairage peut être du type permanent ou non permanent.
+    Il est composé des éclairages dits de balisage et d’ambiance.
+     L’éclairage d’ambiance permet une visibilité suffisante dans un local en cas de
+      défaillance des éclairages normal et de remplacement assurant notamment
+      l’orientation et la reconnaissance des obstacles.
+     L’éclairage de balisage est la signalisation lumineuse d’orientation vers les issues. Il
+      doit permettre à toute personne d’accéder à l’extérieur à partir d’un local et d’un
+      couloir. A l’aide de foyers lumineux la reconnaissance des escaliers et autres,
+      l’indication des changements de direction et l’indication des sorties est assurée.
+
+Article 20. Écran de fumée
+Un écran de fumée, synonyme d'écran de cantonnement ou de rideau de fumée est un
+élément de construction vertical, situé en sous face de couverture, de plafond ou de faux
+plafond, ayant pour objectif d'éviter le passage des fumées et des gaz d'un espace à l'autre.
+Les écrans de fumée doivent être réalisés en matériaux non combustibles et présentant une
+résistance au feu de 600°C pendant 30 minutes (cf. norme EN 12101-1). La hauteur de ces
+écrans découle directement de la « hauteur libre de fumée » des espaces à protéger (voir
+définition ci-après).
+
+Article 21. Effectif de personnes
+L’effectif est le nombre de personnes susceptible d’être présentes dans l’établissement. Il est
+composé du public et du personnel. Ce nombre sert à la détermination des largeurs des
+couloirs, du nombre d'issues de secours, des largeurs des escaliers, etc.
+On distingue deux types de calcul de l’effectif:
+ l’effectif théorique est l’effectif qui est déterminé selon les dispositions spécifiques à
+  chaque type d’établissement, en prenant en considération les surfaces utiles exploitables.
+ l’effectif déclaré est l’effectif établi par la déclaration du maître d’ouvrage et / ou de
+  l’exploitant et accepté par les autorités compétentes.
+En cas d'acceptation de l'effectif déclaré par les autorités compétentes, celui-ci relève de la
+responsabilité du déclarant qui s’engage à fixer un effectif maximal et à prendre toutes les
+dispositions correspondantes et par conséquent à faire en sorte que celui-ci ne soit jamais
+dépassé.
+L’effectif déclaré doit être inférieur à l’effectif théorique.
+
+
+8                                                                               ITM-SST 1500.3
+Article 22. Eléments de construction
+Un élément est formé d’un ou de plusieurs matériaux de construction qui ont les fonctions
+suivantes:
+ fonction portante,
+ fonction séparante,
+ fonction portante et séparante.
+Tous les éléments de construction tels que les dalles, planchers, plafonds, murs, parois,
+portes, clapets, etc. ayant à remplir une des fonctions définies ci-dessus doivent offrir des
+caractéristiques de résistance et de réaction au feu, étant définies dans les dispositions
+générales et/ou spécifiques à chaque type d’établissement.
+
+Article 23. Entretien, surveillance, maintenance et contrôles
+périodiques
+Toutes les installations techniques, installations de sécurité et tous les éléments de
+construction concourant à la sécurité des personnes et des services de secours, doivent
+être tenus dans un état permanent de parfait fonctionnement par une surveillance et une
+maintenance continues, soutenues et correctes.
+L’ensemble des installations doit faire l’objet de contrôles périodiques établis par des
+organismes de contrôle figurant au règlement ministériel le plus récent en date.
+
+Article 24. Escaliers de secours
+Un escalier de secours est un compartiment de fuite comportant un escalier dans lequel le
+personnel, le public et les services de secours sont à l'abri des flammes et des fumées. Les
+portes des locaux donnant accès à un escalier de secours offrent une résistance au feu
+définie dans les dispositions générales et spécifiques.
+Un escalier de secours peut être:
+ Intérieur au bâtiment
+Il a un accès direct vers l’extérieur ou par l’intermédiaire d’un tunnel de fuite.
+ Extérieur au bâtiment
+On distingue entre deux types d’escalier extérieur au bâtiment:
+     Escalier à l’air libre
+Un escalier est dit à l'air libre lorsque le niveau le plus élevé respecte une des deux
+conditions suivantes :
+        - avoir une ouverture permanente en toiture d'une surface supérieure ou égale à 50%
+          de la section horizontale de la cage d'escalier,
+        - avoir une ouverture permanente sur les différentes faces d'une surface supérieure
+          ou égale à 100 % de la section horizontale de la cage d'escalier.
+        Escalier extérieur
+Un escalier est dit extérieur lorsque chaque niveau de cet escalier possède des ouvertures
+d'une surface supérieure ou égale à 50 % de la surface totale verticale des murs extérieurs
+du même niveau.
+Par analogie aux chemins d’évacuation, on distingue trois types d’escaliers de secours:
+ Escalier réglementaire :
+Escalier réglementaire comptant dans le nombre d'escaliers imposés par la réglementation.
+
+
+
+9                                                                                    ITM-SST 1500.3
+ Escalier supplémentaire :
+Escalier réglementaire en surnombre des escaliers réglementés.
+ Escalier accessoire :
+Escalier ne respectant pas toutes les contraintes liées à la définition d’un escalier
+réglementaire mais comptant dans le nombre d'escaliers imposés par la réglementation.
+Les escaliers supplémentaires et accessoires sont:
+      soit proposés par la maîtrise d’œuvre et acceptés par les autorités compétentes,
+      soit imposés, en aggravation ou en dérogation de la réglementation.
+
+Article 25. Exutoire de fumée
+Un exutoire de fumée est un équipement spécifique permettant d’évacuer les fumées et la
+chaleur provenant d’un incendie. Il est situé en toiture (toiture à pente nulle ou non), son
+angle d’ouverture doit être au minimum de 110° et débouche directement à l’air libre. La
+surface d’ouverture géométrique de l’exutoire à prendre en compte pour l’évacuation des
+fumées et de la chaleur est la surface calculée à partir des dimensions réelles du passage
+libre après ouverture de l’exutoire. Cette surface peut également être donnée par des essais
+en laboratoire. Dans ce cas la surface à prendre en compte est donnée par les essais et
+l’ouverture à 110° n’est pas obligatoire.
+
+Article 26. Galerie
+Une galerie est un espace couvert qui peut être considéré comme étant une rue, une ruelle,
+une voie piétonne, un passage, permettant de se mettre à l’abri, partiellement ou totalement,
+des intempéries, pluie, neige, vent, soleil et d’accéder à un ensemble de commerces,
+magasins, bars cafés, restaurants, artisanats, etc.
+Les galeries peuvent être ouvertes à chaque extrémité ou fermées à leurs extrémités.
+
+Article 27. Garde-corps et rampes d'escalier
+Afin d’éviter tout risque de chute, il y a lieu de mettre en place des garde-corps et des
+rampes d’escalier. Les principaux ouvrages concernés sont notamment les vides d’escaliers,
+les baies vitrées basses, les paliers, les gradins, les plates-formes et passerelles surélevées,
+les balcons, les escaliers, les ouvertures dans les planchers, les trappes, les fosses et tous
+les autres endroits présentant des risques de chute d’une hauteur supérieure à un mètre (h >
+1m).
+
+Article 28. Hauteur libre de fumée
+Hauteur d'un volume qui lors d'un incendie est considéré libre de fumée et qui doit permettre
+l'évacuation des personnes par les services de secours. S'il y a présence d'écrans de fumée
+ou de cantonnements, la hauteur libre de fumée correspond à la hauteur située sous l'écran
+en question.
+
+Article 29. Installations de sécurité
+Par installations de sécurité sont à comprendre toutes installations devant garantir la sécurité
+des personnes dans l'établissement, telles que par exemples (liste non exhaustive) :
+ les dispositifs d'obturation coupe-feu;
+ les installations de détection incendie;
+ les installations de couverture de radiocommunication;
+ les installations d'extinction automatique;
+ les équipements de lutte contre l'incendie;
+
+10                                                                             ITM-SST 1500.3
+ les clapets d'évacuation des fumées et de la chaleur;
+ les portes et installations coupe-feu et coupe-fumée;
+ les installations et les commandes d'arrêt d'urgence;
+ les installations de surveillance de l'air ambiant;
+ les installations de détection de gaz;
+ l'éclairage de sécurité;
+ la signalisation.
+
+Article 30. Isolement par rapport au tiers
+Afin d’éviter qu’un incendie ne puisse se propager rapidement d’un établissement à un autre,
+d’un bâtiment à un autre, d’un local de l’établissement à un local occupé par un tiers, il y a
+lieu de créer un isolement coupe-feu dont les caractéristiques sont définies dans les
+dispositions générales.
+L’isolement par rapport au tiers concerne les parois verticales, les parois horizontales, les
+façades situées en vis-à-vis ou formant un angle inférieur à 135°, les couvertures situées en
+contrebas d’une façade, les passerelles et les passages souterrains de communication et
+tout autre élément de construction situé en limite entre un établissement et un espace
+occupé par un tiers.
+
+Article 31. Issues et sorties de secours
+Par issue de secours, on entend les portes permettant l'évacuation des personnes, qu'il
+s'agisse d'un local, d’un compartiment, d’un niveau vers un compartiment d'issue.
+Par sortie de secours, on entend les portes permettant l'évacuation des personnes d'un
+bâtiment vers l'extérieur.
+Le nombre, la position et les qualités de ces issues et sorties de secours sont précisés dans
+les dispositions générales et spécifiques.
+
+Article 32. Locaux à risques
+Les locaux sont classés en quatre catégories suivant les risques qu’ils présentent:
+ les locaux sans risques,
+ les locaux à faibles risques,
+ les locaux à risques moyens,
+ les locaux à risques importants.
+A chacune de ces catégories correspondent des contraintes d’isolement coupe-feu et de
+réaction au feu des revêtements, qui sont définies dans les dispositions générales et
+spécifiques.
+Les locaux entrant dans les différentes catégories sont listés dans les dispositions générales
+et spécifiques.
+
+Article 33. Mezzanine
+On entend par « mezzanine », un plancher intermédiaire, créant ainsi un volume ouvert ou
+fermé lui-même situé dans un espace plus important.
+Toutefois, si une des conditions suivantes est remplie, une mezzanine est considérée
+comme formant un niveau:
+ toute mezzanine ouverte, dont la surface est supérieure à la moitié de la surface du
+  plancher qu'elle surplombe,
+
+11                                                                            ITM-SST 1500.3
+ toute mezzanine fermée et non accessible au public, dont la surface est supérieure au
+  tiers de la surface du plancher qu'elle surplombe,
+ toute mezzanine fermée et accessible au public.
+En ce qui concerne l’évacuation toute mezzanine est à considérer comme un niveau.
+
+Article 34. Moyens de secours et d'intervention
+On entend par « moyens de secours et d’intervention » toute installation ou tout matériel
+permettant soit automatiquement soit manuellement de combattre un incendie avant l’arrivée
+des services de secours.
+Les moyens de secours sont classés en trois catégories:
+
+ les installations d’extinction fixes (automatique et manuelle) servant à la protection
+  de l’établissement:
+      installation d’extinction automatique à eau pulvérisée (sprinkler),
+      installation d’extinction de déluge à eau,
+      installation d’extinction à gaz (CO2, Inergen, Argonite ou autres),
+      installation d’extinction à poudre,
+      installation d’extinction à mousse.
+
+ les moyens de secours de 1ère intervention, manœuvrables en priorité par
+  l’occupant de l’établissement:
+      les couvertures d’extinction,
+      les extincteurs,
+      les Robinets d’Incendie Armés (R.I.A.).
+
+ les moyens de secours destinés aux services de secours:
+      les bouches d’incendie,
+      les colonnes sèches,
+      les colonnes en charge.
+Les dispositions spécifiques aux différents types d’établissements précisent les moyens
+d’extinction à installer dans chaque type d’établissement.
+
+Article 35. Niveau d'évacuation
+Il s’agit d’un niveau qui permet de gagner l'extérieur, soit la voie publique directement, soit un
+espace qui donne sur la voie publique.
+
+Article 36. Niveau de référence
+Par niveau de référence, on entend le niveau de la voirie desservant l’établissement et qui
+est utilisable par les véhicules des services de secours.
+
+Article 37. Organisme de contrôle
+Sous la dénomination « organisme de contrôle » sont à comprendre les organismes figurant
+au règlement ministériel le plus récent en date concernant l'intervention d'organismes de
+contrôle dans le cadre des compétences et attributions de l'Inspection du travail et des
+mines.
+
+
+
+12                                                                               ITM-SST 1500.3
+Article 38. Passage de liaison
+Un passage de liaison est un dispositif constructif qui permet d’accéder d’un établissement
+ou d'un bâtiment à un autre; les deux étant isolés au sens isolement par rapport au tiers:
+(voir définition 30). Il peut être ouvert ou fermé.
+Le passage de liaison, sauf dérogation des autorités compétentes, ne peut donner accès à
+d’autres locaux.
+Les passages de liaison peuvent être de trois types:
+ en souterrain,
+ en rez-de-chaussée,
+ en passerelle.
+
+Article 39. Plans
+On distingue trois types de plans qui s’adressent chacun à un autre groupe de personnes. Ils
+contiennent des plans du bâtiment, des consignes, des scénarios et des procédures qui
+concernent les personnes ciblées.
+ Plan graphiques et consignes d’évacuation
+Les plans graphiques et consignes d’évacuation sont un ensemble d’informations tenues à
+la disposition du personnel et du public en permanence et qui indiquent le plus clairement
+possible les dispositions à prendre immédiatement en cas d’alarme.
+Le plan graphique d’évacuation règle l'ordre d'évacuer les lieux. Il comporte les informations
+suivantes dans l'ordre:
+      un jeu de plans de dimension réduite indiquant les voies d'issues principales et
+       secondaires, l’endroit où on se trouve, les moyens d’extinction, les boutons poussoirs
+       et tous les autres dispositifs d’alerte manuelle,
+      la localisation des équipements d’alarme et des moyens de secours,
+      les différents signaux et messages d'alarme de même que les formes d'évacuation
+       subséquente,
+      les endroits de regroupement, les zones de sécurité et les accès aux voies publiques à
+       l'extérieur,
+      les consignes relatives aux gestes utiles à effectuer: fermetures de portes et de
+       fenêtres, objets à emporter ou à laisser sur place, débranchement de réseaux
+       d'alimentation en électricité ou au gaz, fermeture de coffres forts, éloignement de
+       matières et matériaux susceptibles d'aggraver les dangers,
+      les personnes et équipes disponibles pour prêter secours et les moyens pour les
+       appeler.
+ Plan d'intervention
+Le plan d’intervention s’adresse aux services de secours et peut être exigé par celui-ci. Il se
+rapporte plus particulièrement à l’extinction de l’incendie, à l’élimination des risques ainsi
+qu’aux lourdes opérations des services de secours.
+Il comporte les informations suivantes:
+      un jeu de plans de dimension DIN A3 indiquant les accès des services de secours, les
+       voies d’entrée principales et secondaires à l’immeuble, le compartimentage coupe-feu,
+       les locaux techniques et les locaux à risque important, les équipements de sécurité et
+       autres,
+      une liste des personnes à contacter en cas d’alerte,
+      une liste des sources de danger particulier,
+
+13                                                                            ITM-SST 1500.3
+      une liste des équipements de sécurité.
+
+Article 40. Portes
+Toutes les portes situées dans les chemins d'évacuation doivent être conformes aux normes
+EN 179 et EN 1125.
+ Portes non-résistantes au feu :
+      Porte courante: se dit des portes n’ayant aucune contrainte de fabrication.
+      Porte pleine: se dit des portes massives, sans section tubulaire et qui peuvent assurer
+       une certaine étanchéité à la fumée de température dite « froide » dont les
+       températures sont inférieures ou égales à 70° C.
+ Portes résistantes au feu :
+      Porte coupe-fumée
+       La porte coupe-fumée est un bloc porte qui par sa fabrication et son installation dans
+       un mur ou une cloison, est étanche à la fumée de température dite « chaude » et
+       résiste à des chaleurs et fumées dont les températures sont inférieures ou égales à
+       200° C.
+       La porte coupe-fumée doit comporter au moins sur trois de ses cotés (les deux côtés
+       verticaux et le côté horizontal supérieur) des joints d’étanchéité dont les
+       caractéristiques de résistance à la chaleur sont identiques à ceux de la porte de
+       support.
+      Porte pare-flammes
+       La porte pare-flamme est un bloc porte qui par sa fabrication et son installation dans un
+       mur ou une cloison, résiste à des chaleurs et des fumées dites « brûlantes » qui sont
+       celles de la courbe d’incendie normalisé de l’ISO pendant un temps défini.
+      Porte coupe-feu
+       La porte coupe-feu est un bloc porte qui par sa fabrication et son installation dans un
+       mur ou une cloison, assure une étanchéité, une isolation thermique (I1) et une
+       résistance mécanique au feu en référence à la courbe d’incendie normalisé de l’ISO
+       pendant un temps défini.
+Sauf indication contraire, toute porte résistante au feu doit être sollicitée à la fermeture. La
+fermeture d’une porte peut être obtenue à l'aide :
+ d’un ferme-porte,
+ par une fermeture automatique asservie à la détection incendie.
+L’asservissement de la fermeture automatique peut se faire par une détection incendie locale
+ou une détection incendie centrale.
+L’asservissement peut se faire:
+ sur un contact électro-aimant pour une porte qui hors détection pour des raisons
+  d’exploitation peut être maintenue ouverte;
+ sur un ferme-porte pour une porte qui hors détection permet une utilisation normale de la
+  porte.
+Ces derniers sont des systèmes homologués de fermeture automatique des portes qui ne
+fonctionnent qu'en cas de détection incendie.
+
+
+
+
+14                                                                             ITM-SST 1500.3
+Article 41. Préposé à la sécurité incendie
+Sans préjudice d'éventuelles dispositions réglementaires relatives au statut et aux missions
+du préposé à la sécurité incendie, le responsable de l'entreprise peut charger celui-ci de
+tâches en rapport avec tous les projets ayant une incidence sur la sécurité incendie et
+notamment:
+ la collecte, le recensement et la sélection des doléances en matière de sécurité incendie,
+  leur transmission aux personnes concernées et la surveillance de leur élimination,
+ la surveillance de l’entretien et de l'état des installations de sécurité,
+ des visites de sécurité régulières,
+ la formation et la formation continue du personnel,
+ la gestion des registres de sécurité incendie et la tenue des livres d'entretien,
+ l’élaboration, la tenue à jour et la communication des plans d'alerte, d'alarme,
+  d'intervention et d'évacuation,
+ la préparation, l’organisation et la direction des exercices d'évacuation,
+ les relations avec l'Inspection du travail et des mines, les organismes de contrôle agréés,
+  les autres autorités de contrôle et les services de secours,
+ la surveillance générale du respect des dispositions légales et réglementaires en vigueur
+  en matière de sécurité, en particulier à l'occasion de commandes, de constructions
+  nouvelles, de réaménagements importants et de la maintenance.
+L'exploitant doit investir le préposé à la sécurité incendie d'une autorité et de compétences à
+la mesure de ses charges et doit notamment:
+ mettre à sa disposition les informations, le matériel et les moyens budgétaires
+  nécessaires,
+ pourvoir à sa formation et à sa formation continue,
+ demander son avis sur les projets influant sur la sécurité incendie (p.ex. projets
+  d'aménagement, de construction et d'équipement), sur les propositions de règlements et
+  de consignes intéressant la sécurité incendie de même que sur les répartitions
+  budgétaires influant sur la sécurité.
+En matière de sécurité, le préposé à la sécurité incendie ne peut dépendre directement que
+du responsable de l'établissement même, sans préjudice d'une hiérarchie différente en ce
+qui concerne ses autres attributions et fonctions éventuelles.
+Le préposé à la sécurité incendie doit pouvoir se vouer exclusivement à ses missions
+relatives à la sécurité pendant une période de temps en rapport à l'envergure et à
+l’affectation.
+
+Article 42. Procédures d’évacuation en cas d’urgence
+Les procédures d’évacuation en cas d’urgence sont un ensemble d’informations tenues à la
+disposition uniquement du personnel en permanence et qui indiquent le plus clairement
+possible les dispositions à prendre immédiatement en cas d’alarme.
+Les procédures d’évacuation en cas d’urgence comportent les mesures et les gestes à
+mettre en œuvre à l'occasion d'une alarme et d'une évacuation. Elles comportent les
+informations suivantes :
+ un jeu de plans graphiques de dimension réduite indiquant les voies d'issues principales
+  et secondaires, les locaux techniques, les équipements de sécurité et autres,
+ les différents comportements susceptibles d'être adoptés en cas d'alarme, les urgences,
+  les priorités respectives ainsi que les justes appréciations y relatives,
+
+
+15                                                                              ITM-SST 1500.3
+ le combat élémentaire d'un incendie,
+ l'éloignement de matières, matériaux et substances susceptibles d'aggraver les dangers,
+ les modalités, moyens et le déclenchement du plan d'évacuation et du plan d’urgence,
+ le transport de personnes à mobilité réduite et les moyens disponibles,
+ le contrôle des lieux et le recensement des présences,
+ l'encadrement des personnes à l'extérieur,
+ la fin de l'alarme.
+Les procédures d’évacuation en cas d’urgence s’adressent à certains membres du personnel
+formant l’équipe de sécurité et se rapportent en particulier à la prise en charge des autres
+membres du personnel. Ils renferment des précisions selon les besoins sur notamment :
+ l'alerte des services de secours,
+ les accès des véhicules des services de secours,
+ les hydrants extérieurs,
+ les moyens d'extinction intérieurs,
+ les locaux, stocks et dépôts dangereux,
+ le guidage des services de secours.
+
+Article 43. Réaction au feu d'un matériau de construction
+La réaction au feu d'un matériau caractérise son influence sur la naissance et le
+développement d’un incendie.
+Suivant ses qualités de réaction au feu, un matériau doit:
+ ne pas propager le feu,
+ limiter l’apport d’énergie,
+ suffire à certaines qualités d’inflammabilité,
+ ne pas se détacher, se renverser ou tomber,
+ ne pas produire de gouttes enflammées,
+ ne pas dégager en quantités abondantes des gaz ou d'autres émanations ou produits
+  nocifs, toxiques ou inflammables.
+Sont assimilés aux matériaux au sens du présent texte tous leurs matériels, produits,
+supports, substances et autres moyens de fixation, de collage, de suspension et d'attache.
+Sont considérés comme aménagements intérieurs aux termes des présentes prescriptions
+en particulier les murs, parois, planchers et plafonds qui ne font pas partie du gros - œuvre
+et qui ne sont pas des éléments de construction coupe-feu de même que les revêtements
+des sols, des murs, des cloisons et des plafonds ainsi que surtout les faux plafonds et faux
+planchers, y compris leurs éléments constitutifs et de suspension, à l'exclusion du mobilier.
+Les EUROCLASSES définissent la réaction au feu des matériaux en fonction de trois
+critères principaux :
+1. Le développement du feu caractérise la nature intrinsèque des matériaux :
+Les matériaux sont répartis en 6 classes de réaction au feu de A à F
+ Matériaux définis comme étant non-combustibles :
+     A1, A2 pour non-combustible,
+     aucune contribution au feu, même dans le cas d’un feu très développé
+
+
+16                                                                           ITM-SST 1500.3
+ Matériaux définis comme combustibles :
+     B pour faiblement combustible,
+     pas de propagation lors d’un début de feu, peu d’apport d’énergie
+     C pour combustible,
+     propagation limitée lors d’un début de feu, apport d’énergie limitée
+     D pour très combustible,
+     propagation limitée lors d’un début de feu, inflammabilité et apport d’énergie acceptable
+     E pour très inflammable et propagateur de flamme,
+     inflammabilité et propagation acceptable lors d’une petite flamme
+     F pour non classé ou non testé
+     ne répondant à aucun des critères précités.
+Les tableaux ci-dessous, indiquant des équivalences entre critères de réaction au feu des
+trois pays voisins, sont donnés à titre indicatif.
+En aucun cas, il ne s’agit d’équivalences strictes entre les critères de ces trois pays, mais un
+élément peut toutefois être accepté par l’autorité compétente s’il suffit à ces critères. Dans le
+cas où il ne correspondait pas, l’élément devra remplir les conditions du ou des critères du
+niveau supérieur de classe.
+
+
+                                         BELGIQUE
+     Euroclasses       Exigences exprimées en classes selon la décision        Classes selon
+                        2000/147/CE (tous les produits à l’exception des       NBN S 21-203
+                                     revêtements de sol)
+
+         A1                                                                          A0
+
+                                  s1                         d0
+         A2                       s2                         d1                     A0
+                                  s3                         d2
+
+                                  s1                         d0
+          B                       s2                         d1                      A1
+                                  s3                         d2
+                                  s1                         d0
+          C                       s2                         d1                      A2
+                                  s3                         d2
+
+                                  s1                         d0
+          D                       s2                         d1                      A3
+                                  s3                         d2
+
+          E                                                  d2                      A4
+
+          F                                                                          A4
+
+
+
+
+17                                                                              ITM-SST 1500.3
+                                        FRANCE
+              Classes selon NF EN 13501-1 (Euroclasses)             Exigence
+                                                                  (classement M)
+     Comportement           Production de          Gouttelettes
+                                                   enflammées
+        au feu                 fumée
+
+         A1                                                        Incombustible
+
+
+
+         A2                      s1                    d0               M0
+
+         A2                      s1                    d1
+         A2                      s2                    d0
+                                 s3                    d1               M1
+
+                                 s1                    d0
+          B                      s2                    d1
+                                 s3
+
+                                 s1                    d0
+          C                      s2                    d1               M2
+                                 s3
+
+          D                      s1                    d0               M3
+                                 s2
+
+                                                                        M4
+                                                                   (non gouttant)
+                                 s3                    d1
+
+                 Toutes classes autres que E-d2 et F                    M4
+
+
+
+
+18                                                                   ITM-SST 1500.3
+                                   ALLEMAGNE
+europäische Klassen   KIassen nach DIN       Zusatzanforderung   Zusatzanforderung
+nach DIN EN 13501          4102-1                  keine          kein brennendes
+                                             Rauchentwicklung        Abtropfen
+        A1                    A1
+     A2 – S1 d0               A2                                        
+                        (nicht brennbar)
+
+     A2 – s2 d0
+     A2 – s3 d0
+     B – s2 d0
+     B – s3 d0                                                           
+     C – s2 d0
+     C – s3 d0
+
+     A2 – s1 d1
+     A2 – s1 d2
+     B – s1 d1                B1
+                      (schwer entflammbar)
+     B – s1 d2                                          
+     C – s1 d1
+     C – s1 d2
+
+     A2 – s3 d2
+     B – s3 d2
+     C – s3 d2
+     D – s1 d0
+     D – s2 d0
+     D – s3 d0                                                            
+                              B2
+         E
+                      (normal entflammbar)
+     D – s1 d2
+      Ds2 d2
+      Ds3 d2
+         E
+
+         F                    B3
+                      (leicht entflammbar)
+
+
+
+
+19                                                                   ITM-SST 1500.3
+2. Les revêtements de sol: « FL » pour « floor », classification de A1FL à FFL
+Les réactions au feu les plus usuelles sont: A2FL-s1 / DFL-s1
+3. Le comportement au feu
+ production de fumées: « s » pour « smoke »
+      s1 dégagement de fumées très limité,
+      s2 dégagement de fumées limité,
+      s3 matériau ne répondant ni au critère s1 ni au critère s2,
+ production de gouttelettes/particules enflammées: « d » pour « droplets »
+      d0 pas de gouttelettes,
+      d1 dégagement de gouttelettes persistant pendant au plus 10 s,
+      d2 matériau ne répondant ni au critère d0 ni au critère d1,
+Les réactions au feu les plus usuelles sont : A2 s1d0 / B s1d0 / C s2d1 / D s2d2
+
+Article. 44. Résistance au feu d'un élément de construction
+Conformément aux exigences essentielles des Communautés Européennes la durée de
+résistance au feu de la construction même, des éléments de construction et des
+aménagements intérieurs, ainsi que des matériaux de construction, est le temps exprimé en
+minutes pendant lequel la construction, les éléments et les matériaux respectifs se
+comportent, réagissent et résistent d'une manière déterminée au feu.
+On distingue cinq critères de base pour caractériser la résistance au feu d’un élément dont
+un pour caractériser la réduction de passage de fumée :
+ R Résistance au feu
+      explique la capacité de garantir la stabilité d'un élément porteur d’une construction en
+       cas d'une exposition à un feu;
+      est exprimée en terme de stabilité au feu R xx;
+     Exemples : murs, piliers, poutres, planchers, parties portantes d'une toiture, etc.
+ E Etanchéité au feu
+      explique la capacité d'un élément de construction d'assurer l'étanchéité aux flammes et
+       aux fumées d'un volume envers un autre en cas d'une exposition à un feu;
+      est exprimée en termes de pare-flamme (RE xx ou E xx);
+Exemples : portes, fenêtres, éléments de façade, etc.
+ I Isolation thermique
+      explique la capacité d'un élément de construction de limiter le passage de la chaleur
+       en cas d'une exposition à un feu;
+      est exprimée en terme de coupe-feu (REI xx ou EI xx)
+Exemples : murs, portes, verre, etc.;
+NOTE: Pour ce qui concerne les portes, il faut entendre I 1 pour une limitation de l'augmentation de la
+température normale à 140°C, 180°C maxi.
+ S coupe-fumée (smoke leakage),
+      explique la capacité de réduire le passage de fumées d’une température inférieure ou
+       égale à 200 °C ce qui correspond au critère Sm de l’Exigence Essentielle n°2 de la
+       CEE,
+
+
+20                                                                                   ITM-SST 1500.3
+      est exprimé en termes de coupe-fumée (xx-S).
+ P      résistance au feu des câbles,
+      explique la capacité de garantir la continuité de l’approvisionnement électrique des
+       appareils; courbe température/temps normalisé,
+      est exprimé en termes de coupe-feu (P xx).
+Des classifications spécifiques à des éléments de constructions telles que : « W » pour le
+rayonnement, « M » pour action mécanique, « C » pour fermeture automatique, etc. peuvent
+être appliquées.
+Le tableau ci-après indiquant des équivalences entre critères de résistance au feu des trois
+pays voisins est donné à titre indicatif. En aucun cas il ne s’agit d’équivalences strictes entre
+les critères de ces trois pays mais un élément peut être accepté par l’autorité compétente s’il
+suffit à ces critères. Dans le cas où il ne correspondait pas, l’élément devra remplir les
+conditions du ou des critères du niveau supérieur de classe.
+On distingue entre 8 classes principales de résistance au feu :
+
+     Critère EN       Critères                 Allemagne             Belgique         France
+
+         R         stabilité au feu                  F                   Rf             SF
+
+        RE        stabilité au feu et                F                   Rf             PF
+                    pare-flamme
+                   stabilité au feu,
+                   pare-flamme et
+        REI                                          F                   Rf             CF
+                       isolation
+                      thermique
+                     (coupe-feu)
+                                        T portes,
+                                        L conduits d’air,
+                   pare-flamme et       K clapets coupe-feu,
+                      isolation
+         EI                             E câbles électriques,            Rf             CF
+                     thermique
+                    (coupe-feu)         I gaines techniques,
+                                        S passages de câbles,
+                                        R passages de conduits
+
+         E          pare-flamme                 G (verre)                Ef             PF
+                                               W (façades)           (façades)
+
+        E-S        pare-flamme et             T-RS (portes)              Rf             PF
+                    coupe-fumée
+                                           critères des 200°C       avec joints     avec joints
+                                                                    des 3 côtés     des 3 côtés
+
+                    pare-flamme,
+                       isolation
+        EI-S                                  T-RS (portes)              Rf             CF
+                     thermique et
+                    coupe-fumée         (Le joint en partie basse    avec joints    avec joints
+                    (coupe-feu et            n’est pas exigé)       des 3 côtés)    des 3 côtés
+                    coupe-fumée)
+         P            coupe-feu           E Câbles électriques           Rf            CR1
+
+
+
+21                                                                                ITM-SST 1500.3
+Article. 45. Sas
+Espace fermé et compartimenté qui permet la communication entre deux volumes
+spécifiques, dont la composition et les caractéristiques doivent :
+ avoir deux ou plusieurs (avec un maximum de quatre) portes coupe-feu et coupe-fumée
+  sollicitées à la fermeture s'ouvrant dans le sens de l'évacuation,
+ avoir des parois coupe-feu,
+ avoir une superficie minimum de 3 m² et une distance minimale de 2,50 m entre les
+  portes, cette distance étant prise à partir de leur milieu,
+ n’avoir aucune gaine, canalisation ou conduit qui traverse le volume du sas,
+ dans certains cas, suivant les prescriptions, disposer d’une mise en surpression entre 20
+  et 50 Pa.
+
+Article. 46. Service de sécurité incendie
+Le service de sécurité incendie est une équipe de personnes qui, sous la responsabilité du
+Préposé à la sécurité incendie ou du Travailleur désigné selon le Code du Travail, devra être
+en mesure d'assurer une première intervention aussi bien en cas de malaise (premiers
+secours aux personnes) qu'en cas d'incendie ou tout autre sinistre.
+L’effectif et la qualité de l’effectif est en fonction de la taille et des activités de l’établissement.
+Ces personnes ont une responsabilité :
+ pour faire des recommandations à la gestion, notamment en identifiant les points faibles
+  en matière de la prévention incendie,
+ pour remédier à des situations dangereuses ainsi que
+ pour contribuer, le cas échéant, à la gestion d’un sinistre éventuel.
+L’effectif et le degré d’occupation sont définis dans les dispositions spécifiques respectives.
+Niveau des compétences
+Le personnel constituant ce service de sécurité incendie doit avoir été formé et prouver leurs
+compétences dans les domaines suivants :
+ les premiers secours à l’exception du personnel du type M3,
+ comprendre la nature (l’origine) et les dangers résultant d’un incendie,
+ savoir comment un incendie se propage et comprendre son développement;
+ connaître les mesures à prendre en cas d’un incendie respectivement d’un sinistre,
+ être plus conscient des dangers et des dégâts résultant d’un incendie probable,
+ être en mesure de faire des distinctions entre les différents types d’extincteurs et les
+  incendies pour lesquels les extincteurs sont désignés,
+ savoir attaquer des incendies de petite taille avec confiance et conscience (capacité de
+  lutter contre un incendie),
+ connaître la responsabilité du personnel concerné à l’égard de la prévention et de la
+  prévision d’un incendie,
+ prise de toutes les mesures pour l'évacuation du public et du personnel,
+ savoir exécuter les responsabilités en matière de la sécurité incendie,
+ comprendre comment sont exécutées les procédures d’urgence.
+
+
+
+
+22                                                                                    ITM-SST 1500.3
+Types de niveaux de Service de sécurité incendie
+Les personnes composant ce Service de sécurité incendie sont classées en trois niveaux
+différents:
+ Type M1 :
+     Ces personnes sont des professionnels dont l'objectif principal est la sécurité incendie de
+     l'établissement. Le service de sécurité incendie qu’ils assurent est de type permanent et
+     continu, jour et nuit. Ils peuvent travailler exclusivement pour la sécurité incendie ou bien
+     exécuter d’autres tâches en relation avec la sureté (intrusion, contrôle d’accès, etc.).
+     Elles doivent connaître la règlementation incendie, les dispositions générales, les
+     dispositions spécifiques, les procédures d’urgence, cf. annexe III des dispositions
+     générales.
+     Leur principal objectif est d’être en mesure d’organiser et de maîtriser les premières
+     actions en cas d’incendie dans tout l’établissement en coordonnant les différentes
+     équipes d’agents.
+     Par ailleurs, elles doivent en permanence s’assurer du bon fonctionnement des
+     installations de sécurité incendie et sensibiliser tout le personnel ainsi que la direction de
+     tout dysfonctionnement lié à la sécurité incendie.
+     Elles sont les responsables du service de sécurité et elles encadrent de fait toutes les
+     équipes et tous les intervenants de type M2 et M3.
+ Type M2 :
+     Ces personnes sont désignées parmi le personnel et dispensées à temps partiel à
+     exécuter les tâches.
+     Elles doivent connaître au minimum la règlementation incendie qui concerne
+     l’établissement dont elles sont les employés, les dispositions générales, les dispositions
+     spécifiques, les procédures d’urgence, cf. annexe III des dispositions générales.
+     Leur principal objectif est d’être en mesure d’organiser et de mener les premières actions
+     en cas d’incendie : alerter les secours, secourir et évacuer les personnes, première
+     intervention sur l’incendie.
+     Elles sont amenées à encadrer une équipe d’agents de type M3.
+ Type M3 :
+     Ces personnes sont désignées parmi le personnel de l’établissement et sont
+     responsables pour un étage ou un compartiment.
+     Elles doivent connaître au minimum la règlementation incendie qui concerne
+     l’établissement dont elles sont les employés, les dispositions générales, les dispositions
+     spécifiques, les procédures d’urgence, cf. annexe III des dispositions générales.
+     Leur principal objectif est d’être en mesure de mener les premières actions en cas
+     d’incendie : alerter les secours, secourir et évacuer les personnes, première intervention
+     sur l’incendie.
+
+Article. 47. Signalisation de sécurité
+On entend par signalisation de sécurité l'ensemble des indications, sous forme de panneaux,
+d'inscriptions, d'écriteaux, d'affiches, de plans normalisés, de pancartes, de consignes,
+permettant de renseigner le public, le personnel et les services de secours sur la conduite à
+tenir en cas d'incendie.
+Cette signalisation peut être opaque ou transparente, illuminée ou non. Elle doit être bien
+visible.
+
+
+
+
+23                                                                                ITM-SST 1500.3
+Article. 48. Source autonome de courant
+Source d'énergie électrique dont le débit est indépendant de la ou des source(s) utilisée(s)
+en service normal. Elle est à même d'alimenter pendant une durée déterminée des
+installations ou appareils dont le maintien en service est indispensable et qui sont définies
+dans les dispositions générales et spécifiques.
+
+Article. 49. Sous-sol (locaux dits en sous-sol)
+Un plancher, un étage, un espace, un volume, des locaux sont dits être situés en sous-sol
+lorsqu'il est nécessaire, pour atteindre le niveau d'évacuation et ce pour plus de 50 % des
+sorties, de monter plus de 8 marches (soit une différence de hauteur de plus de 1,50 m).
+
+Article. 50. Tribunes et gradins
+Les tribunes et les gradins sont des espaces architecturaux pouvant recevoir un nombre
+important de personnes et par conséquent, présentant des difficultés d'évacuation en cas
+d’incendie et de panique. Les contraintes liées à ces équipements sont définies dans les
+dispositions générales et spécifiques.
+
+Article. 51. Vitrages de sécurité
+Les vitrages de sécurité sont des vitrages concourant à la sécurité des personnes. Ils doivent
+d'une part résister aux chocs et d'autre part ne pas libérer d'éclat en cas de rupture.
+
+Article. 52. Volumes libres intérieurs
+Certains projets de construction, de par leur conception architecturale, prévoient des
+espaces plus ou moins libres sur plusieurs niveaux. Ces espaces forment ce que l'on appelle
+les patios, atriums, rues intérieures, puits de lumière, etc. Ces volumes sont entourés par
+des niveaux à destination des plus variés: boutiques, bureaux, chambres, circulations,
+locaux divers, etc. qui peuvent donner soit directement dans le volume, soit former une
+façade intérieure. Des voies d’évacuation horizontales peuvent donner directement vers le
+volume libre intérieur.
+Ces volumes libres intérieurs peuvent être:
+ non couverts (à l’air libre) ou
+ couverts si leur couverture représente plus de 50% de la surface au sol.
+Ces volumes libres intérieurs couverts peuvent être:
+ ouverts si toutes les unités d’exploitation périphériques donnent directement sur le volume
+  intérieur ou
+ fermés si toutes les unités d’exploitation périphériques sont soit compartimentés coupe-
+  feu vis à vis du volume libre intérieur, soit forment une façade intérieure présentant des
+  caractéristiques coupe-feu.
+De par leur nature même, l'éclosion d'un incendie dans ces espaces ou à proximité entraîne
+des risques accrus de propagation du feu, des fumées et des gaz chauds et ceci dans les
+différents étages.
+                                    Mise en vigueur, le
+                                    18 septembre 2017
+
+                                                s.
+
+                                           Marco BOLY
+                                             Directeur
+                                    de l’Inspection du travail
+                                           et des mines
+
+24                                                                            ITM-SST 1500.3
+

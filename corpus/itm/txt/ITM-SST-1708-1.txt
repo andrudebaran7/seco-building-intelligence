@@ -1,0 +1,474 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        Strassen, décembre 2007
+
+
+
+
+                                                                                        ITM-SST 1708.1
+
+
+
+                                    Aires de ravitaillement en GPL
+                                 sur des sites non accessibles au public
+
+
+                                                   Prescriptions de sécurité types
+     Autre prescription à considérer : Ancien N° ITM-CL 358.3 / Nouveau N° ITM-SST 1106.1A Blitzschutz
+
+                                              Les présentes prescriptions comportent 9 pages
+
+
+                                                                  Sommaire
+
+    Article                                                                                                  Page
+
+     1.                     Objectif et domaine d'application                                                  2
+     2.                     Définitions                                                                        2
+     3.                     Législation et règles techniques                                                   3
+     4.                     Plaque signalétique transvasement portant le marquage « CE »                       3
+     5.                     Implantation de l’aire de ravitaillement                                           3
+     6.                     Dispositions géométriques de l’aire de ravitaillement                              4
+     7.                     Installation et fondation de l’aire de ravitaillement                              4
+     8.                     Protection contre la foudre                                                        5
+     9.                     Protection contre l'incendie                                                       5
+    10.                     Accidents-Incidents                                                                5
+    11.                     Premier contrôle périodique avant mise                                             5
+                            en service de la borne de ravitaillement
+    12.                     Certificat du premier contrôle périodique                                          6
+    13.                     Contrôles périodiques                                                              6
+    14.                     Modifications et réparations de l’aire de ravitaillement                           7
+    15.                     Exploitation et surveillance                                                       8
+    16.                     Registre de sécurité                                                               9
+
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L.2763 STRASSEN Tél : 2478-1   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1 Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité relatives aux aires de ravitaillement sur lesquelles se fait le transvasement de GPL
+(voir point 2.2.) sur un site non accessible au public.
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas par l’Inspection du travail et des mines, mais uniquement si des mesures de rechange
+garantissant un niveau de sécurité au moins équivalent sont prises.
+
+Ces mesures de rechange ne doivent pas être en contradiction avec la législation applicable et
+doivent être reconnues comme garantissant un niveau de sécurité équivalent reconnu par
+l'Inspection du travail et des mines qui pourra demander de les faire soumettre à un organisme
+de contrôle pour avis.
+
+Art. 2. - Définitions
+
+2.1. Par la dénomination « aire de ravitaillement » est à comprendre, dans le contexte des
+présentes prescriptions, l’emplacement dans son intégralité, destiné à desservir des engins en
+GPL par l’intermédiaire d’une borne, par laquelle se fera le transvasement entre réservoir fixe
+(dépôt de gaz), aérien ou non, qui n'est pas couvert par la présente prescription et l’engin.
+
+2.2. Sous la dénomination « aire de ravitaillement » sont regroupés :
+
+           - l’emplacement de ravitaillement
+           - la borne de transvasement ainsi que tout l’ensemble d’installations techniques y
+             relatives
+           - les dispositifs de protection ainsi que les zones de sécurité
+
+2.3. Par la dénomination « emplacement de ravitaillement » est à comprendre l’emplacement,
+dans lequel devra se trouver l’engin lors de l’opération de ravitaillement.
+
+2.4. Sous la dénomination « engin » est à comprendre tout engin fonctionnant au gaz de
+pétrole liquéfié tels que des engins industriels ou des voitures.
+
+2.5. Sous la dénomination « organisme de contrôle » est à comprendre tout organisme autorisé
+à contrôler les appareils à pression par le règlement ministériel le plus récent en date du
+Ministre du Travail et de l'Emploi concernant l'intervention d'organismes de contrôle dans le
+cadre des compétences et attributions de l’Inspection du travail et des mines.
+
+2.6. Par « personne compétente » est à comprendre toute personne qui offre la garantie qu'elle
+peut exécuter d'une manière sûre les charges qui lui sont confiées, grâce à sa formation, ses
+connaissances et son expérience professionnelle dans son domaine d'intervention.
+
+Les personnes compétentes sont désignées par le constructeur, l'installateur, le réparateur, le
+distributeur de gaz de pétrole liquéfié et l'exploitant sous leur seule et unique responsabilité
+suivant leur domaine d’intervention.
+
+2.7. Par « abri simple » est à comprendre une construction légère, entièrement ouverte sur au
+moins deux côtés et dont seuls les éléments porteurs peuvent être réalisés en bois ou en
+matériaux inflammables.
+
+
+
+
+page 2 de 9 pages                                                              ITM-SST 1708.1
+2.8. Par « exploitant » est à comprendre celui qui met à disposition l’aire de ravitaillement à
+des utilisateurs.
+
+Art. 3. – Législation et règles techniques
+
+3.1. La borne de transvasement ainsi que ses éléments doivent être conformes aux stipulations
+des règlements grand-ducaux suivants :
+
+        -     règlement grand-ducal du 21 janvier 2000 concernant les équipements sous pression
+        -     la loi du 10 juin 1999 relatif aux établissements classés telle que modifiée
+
+Lors des travaux de montage, de réparation, d'entretien et d’exploitation sont à suivre les
+stipulations suivantes :
+
+        -     les articles L.311 à L.314 du Code du travail et des arrêtés et règlements grand-
+              ducaux pris en exécution de ce code
+        -     les prescriptions afférentes de prévention contre les accidents édictées par
+              l'Association d'Assurance contre les Accidents
+
+Art. 4. - Plaque signalétique des bornes de transvasement portant le marquage « CE »
+
+4.1. La borne de transvasement doit porter une plaque signalétique en matière inaltérable,
+fixée solidement en un endroit toujours accessible et comportant les marques suivantes:
+
+            - le nom et l’adresse du fabricant ou de son mandataire établi dans la communauté
+              européenne;
+            - l’identification de l’équipement en fonction de sa nature, par exemple le type,
+              l’identification de série ou le lot et le numéro de fabrication.
+            - le marquage de conformité « CE »
+
+Art. 5. - Implantation de l’aire de ravitaillement
+
+Autour de l’aire de ravitaillement, des zones de sécurité mesurées par projection horizontale à
+partir des limites extérieures de la borne de ravitaillement sont à respecter sous réserve de
+conditions plus contraignantes imposées par toute autre autorité compétente :
+
+5.1 Zone 0
+1. La zone 0 s’étend à un rayon de 1 m autour de la borne de ravitaillement et le rayon
+    d’action maximal du tuyau de ravitaillement. Cette zone doit être complètement dégagée
+    de toute construction ou plantation (à l’exception du gazon).
+2. Les dispositions pour la zone 1 et 2 sont également valables.
+
+5.2 Zone 1
+1. La zone 1 s’étend à un rayon de 3 m autour de la borne de ravitaillement et le rayon
+    d’action maximal du tuyau de ravitaillement. Dans cette zone ne peut se trouver :
+    -       une propriété voisine
+    -       une voie ou un chemin publique
+    -       un moteur à combustion fixe
+    -       un parking public
+    -       des installations électriques non prévues pour fonctionner en atmosphère explosible
+
+
+
+
+page 3 de 9 pages                                                                ITM-SST 1708.1
+2. Il est interdit de faire fonctionner un téléphone portable
+3. Il est interdit d’approcher avec du feu nu, de faire du feu ou de fumer
+4. Lors du remplissage, y inclus une période d’une demi-heure après le remplissage, il est
+   interdit de faire fonctionner des moteurs à combustion interne dans cette zone
+5. Les dispositions pour la zone 2 sont également valables
+
+5.3 Zone 2
+1. La zone 2 s’étend à un rayon de 5 m autour de la borne et du rayon d’action maximal du
+tuyau de ravitaillement. Dans cette zone ne peut se trouver :
+
+-   un bâtiment
+-   des bouches d’égout non protégées par un siphon adéquat
+-   un dépôt de matières combustibles et /ou comburantes
+
+2. L'emploi de désherbants chloratés est interdit aux abords de la borne de ravitaillement.
+
+Les interdictions relatives au comportement de personnes autour de la borne de ravitaillement
+sont à signaler par des pictogrammes normalisés.
+
+Art. 6.- Dispositions géométriques de l’aire de ravitaillement
+
+6.1. L’emplacement de ravitaillement doit avoir une largeur plus petite ou égale à 2 m et une
+longueur plus petite ou égale à 5 m disposée et marquée en forme de rectangle, dans laquelle
+l’engin industriel doit se trouver dans son intégralité lors de la procédure de ravitaillement.
+
+6.2. La borne de ravitaillement doit être positionnée au milieu de la longueur de
+l’emplacement de ravitaillement. Elle doit être protégée de façon appropriée contre toute sorte
+de chocs mécaniques.
+
+6.3. La distance entre la borne de ravitaillement et le réservoir aérien ou le cas échéant le
+puisard du réservoir souterrain doit être d’au moins 10 m. Les tuyauteries entre le réservoir
+aérien et l’aire de ravitaillement doivent être mises sous terre.
+
+6.4. Au cas où cette distance est inférieure à 10 m, un mur solide et incombustible doit être
+construit entre la borne de ravitaillement et le réservoir. Le mur doit avoir la même hauteur
+que le réservoir et le dépasser sur chaque côté de 0,5 m au moins. Un passage de 1 m de
+largeur doit être prévu entre le mur et le réservoir.
+
+Art. 7. - Installation et fondation de l’aire de ravitaillement
+
+7.1. L’installation de l’aire de ravitaillement doit être effectuée par des personnes
+compétentes.
+
+7.2. Si le sol au voisinage de l’aire de ravitaillement présente une déclivité, telle qu'en cas
+d'écoulement massif accidentel, le gaz liquéfié puisse atteindre des propriétés appartenant à
+des tiers, des foyers ou pénétrer dans un égout, toutes dispositions doivent être prises pour y
+pallier.
+
+7.3. L’aire de ravitaillement doit être d'accès facile et convenablement aérée.
+
+
+
+
+page 4 de 9 pages                                                                 ITM-SST 1708.1
+7.4. L’aire de ravitaillement doit reposer sur un sol stable. Les fondations doivent être conçues
+pour supporter le poids de la borne, de l’engin industriel et de l’abri.
+
+7.5. Afin d'interdire l'approche de l’aire de ravitaillement à toute personne étrangère au
+service, celle-ci doit être consignée par des pictogrammes de signalisation.
+
+Sont à signaler de façon apparente visible et durable sur un panneau :
+
+-   l’interdiction d’accès aux personnes non autorisées
+-   le danger d’explosion
+-   l’interdiction de feux nus
+-   l’interdiction d’exploitation de téléphones portables
+
+Art. 8. - Protection contre la foudre
+
+8.1. L’aire de ravitaillement y compris la borne de ravitaillement doivent être protégées contre
+les effets de la foudre. La prescription (Ancien N° ITM-CL 358 / Nouveau N° ITM-SST
+1106) est applicable.
+
+Art. 9. - Protection contre l'incendie
+
+9.1. L'exploitant doit installer à proximité de la borne de ravitaillement à gaz un équipement
+suffisant et adapté aux circonstances pour combattre l'incendie (p.ex. bouches d'eau, robinets
+d'incendie armés, extincteurs, etc.). Au moins un extincteur de 6 kg doit être prévu sur l’aire
+de ravitaillement.
+
+9.2. L'exploitant doit disposer d'un extincteur de 6 kg dans un bâtiment à proximité du dépôt
+pour pouvoir intervenir contre un incendie dans le voisinage de l’aire de ravitaillement.
+
+10. - Accidents - Incidents
+
+10.1 Sont à mettre hors service, chaque aire de ravitaillement ayant été la cause d’un accident
+ou d’un incident grave ainsi qu’ayant subi des avaries pouvant influencer la sécurité des
+personnes.
+
+10.2 Ces aires de ravitaillement ne peuvent être remis en service qu’après délivrance d’un
+certificat de contrôle établi par un organisme de contrôle (voir point 13 ci-après) et visé par
+l’Inspection du travail et des mines.
+
+Art.11. - Premier contrôle périodique avant mise en service de la borne de ravitaillement
+
+11.1. Un dossier technique comportant les notices d'entretien et d'exploitation doit être établi
+pour chaque aire de ravitaillement neuve.
+
+Ce dossier doit être remis à l'organisme de contrôle, respectivement à l'organisme étranger
+agréé chargé du premier contrôle périodique.
+
+11.2. L'exploitant est tenu à cet effet de remettre à l'organisme de contrôle les documents
+destinés au registre de sécurité tel que décrit à l’article 16 de la présente prescription.
+
+
+
+
+page 5 de 9 pages                                                              ITM-SST 1708.1
+Toutes les pièces en relation avec les contrôles sont à verser après le premier contrôle
+périodique au registre de sécurité (voir à l'article 16 de la présente prescription).
+
+11.3. L'organisme de contrôle dresse le rapport du premier contrôle périodique qui est remis
+en double exemplaire avec une copie à l'Inspection du travail et des mines pour visa :
+ Un exemplaire du rapport visé est remis à l'exploitant pour être versé au registre de sécurité
+(voir art. 16).
+Un exemplaire du rapport est archivé par l’organisme de contrôle
+La copie du rapport est archivée auprès de l’Inspection du travail et des mines.
+
+11.4. En plus des contrôles périodiques, décrits au point 13, les contrôles suivants sont à
+effectuer par l’organisme de contrôle :
+- les distances de sécurité des zones, le cas échéant, la présence et l’état du mur entre la
+    borne de remplissage et le réservoir aérien, ayant les dimensions et distances prescrites.
+    ou
+- le cas échéant, la distance minimale prescrite entre la borne de transvasement et le
+    réservoir aérien.
+- le marquage de conformité « CE »
+- le marquage, les dimensions et la disposition de l’emplacement de ravitaillement par
+    rapport à la borne de transvasement
+- les équipements de protection contre l’incendie et de premiers secours
+- la conformité de l'installation aux prescriptions de l'arrêté ministériel d'autorisation
+- la présence du registre de sécurité dans son intégralité
+- un essai d’étanchéité est à effectuer lors de cette visite
+
+Art.12. - Certificat du premier contrôle périodique
+
+12.1. L'organisme de contrôle, respectivement l'organisme étranger agréé doit établir un
+certificat du premier contrôle périodique mentionnant les documents fournis par le
+constructeur et le détail des contrôles et vérifications auxquels il a procédé lui-même et verser
+toutes ces pièces au registre de sécurité prévu à l’article 16 ci-dessous.
+
+12.2. Si des irrégularités relatives à l’article 10 ou 12 ont été constatées, l'organisme de
+contrôle doit avertir, en pareil cas, sans délai l'Inspection du travail et des mines et le cas
+échéant fournir une motivation circonstanciée pour un refus d’implantation.
+
+L'Inspection du travail et des mines prend alors la décision finale.
+
+Art.13. - Contrôles périodiques
+
+13.1. La borne de ravitaillement doit subir tous les 5 ans une visite.
+
+Cette visite complète est à effectuer par un organisme de contrôle.
+
+13.2. Sont soumis à vérification lors de la même visite par un organisme de contrôle:
+- un essai d’étanchéité
+- les circuits de mise à la terre, les liaisons équipotentielles et les circuits de protection
+   contre la foudre
+- les moyens de lutte contre l'incendie et de secours
+- les flexibles et tuyauteries de la borne de transvasement
+
+
+
+
+page 6 de 9 pages                                                              ITM-SST 1708.1
+-   les équipements de premiers secours
+-   l’état général de l’aire de ravitaillement (marquage emplacement, protections
+    mécaniques…)
+
+13.3. A l’occasion de chaque visite, l'organisme de contrôle dresse un rapport indiquant l'état
+de conservation des installations ainsi que ses constatations concernant l'observation des
+prescriptions réglementaires et des conditions de l'autorisation d'exploitation.
+De plus, il fixe dans son rapport le délai pendant lequel les différentes installations ou
+éléments peuvent encore être exploitées en sécurité avant d'être soumises à une nouvelle
+vérification.
+
+13.4. Les copies des rapports sont à transmettre pour visa à l'Inspection du travail et des
+mines.
+
+13.5. Il est recommandé que le propriétaire et l'exploitant ou une personne qu'ils délèguent à
+cet effet, ainsi qu'un représentant de l'entreprise chargée de l'entretien courant de l'installation
+accompagnent l'inspecteur de l'organisme de contrôle lors des contrôles et vérifications.
+
+13.6. Lorsque l'inspecteur de l'organisme de contrôle qui procède aux examens, vérifications
+et essais constate une anomalie telle que la sécurité des personnes n'est plus garantie, il est
+tenu d'en avertir d'urgence le propriétaire et l'exploitant de l'installation, de préférence en
+faisant contresigner son rapport provisoire de contrôle.
+
+L'inspecteur de l'organisme de contrôle doit en plus indiquer dans un pareil cas les mesures à
+prendre immédiatement et il doit s'assurer qu'il y est obtempéré et que les risques
+inacceptables sont éliminés. A défaut, l'organisme de contrôle doit en informer sans délai
+l'Inspection du travail et des mines.
+
+13.7. Le propriétaire et l'exploitant doivent se conformer aux délais pour réparations et mise
+en état figurant sur les rapports de réception et de vérification de l'organisme de contrôle
+chacun en ce qui le concerne.
+
+19.8. Sans préjudice des obligations de l’organisme de contre envers son commettant, la
+distribution finale des rapports est faite par l’organisme de contrôle comme suit :
+          - 1 exemplaire pour l’exploitant ou le propriétaire à verser au registre (voir art. 16.).
+          - 1 exemplaire archivé par l’organisme de contrôle
+
+Art. 14. - Modifications et réparations de l’aire de ravitaillement
+
+14.1. Toute réparation effectuée sur l’aire de ravitaillement ne doit être exécutée que par des
+personnes compétentes.
+
+Les réparations pouvant avoir une influence sur la sécurité de la borne de ravitaillement sont à
+exécuter sous la surveillance d'un organisme de contrôle.
+
+Un rapport de ces travaux est établi par l'organisme de contrôle et transmis à l'exploitant et à
+l'Inspection du travail et des mines pour visa. Une copie du rapport visé est remise au
+propriétaire pour être versée au registre de sécurité (voir art. 16.).
+
+
+
+
+page 7 de 9 pages                                                                 ITM-SST 1708.1
+14.2. Si les travaux à exécuter comportent l'emploi de la flamme ou d'objets portés à
+incandescence, ou s'ils sont de nature à provoquer des étincelles, de la vapeur vive doit être
+injectée dans les tuyauteries jusqu'à élimination de toute trace de gaz inflammable.
+
+Toute autre méthode garantissant des résultats équivalents est également admissible.
+
+14.3. Toute modification importante de la borne de ravitaillement ainsi que toute ajoute d'un
+accessoire par soudure doit être soumis à l'accord préalable d'un organisme de contrôle et doit
+être effectuée par un homme de l'art sous la surveillance d'un organisme de contrôle. Toute
+modification importante est soumise aux dispositions du règlement grand-ducal du 21 janvier
+2000 concernant les équipements sous pression.
+L'installation doit ensuite être soumise à une visite complète et à une épreuve d’étanchéité
+et/ou de résistance à effectuer par le même organisme de contrôle.
+
+La société responsable pour les réparations ou modifications devra analyser s’il y a lieu de
+recourir à une nouvelle procédure de déclaration « CE ». L’Inspection du travail et des mines
+pourra juger après consultation du document technique établi lors des modifications ou
+réparations décider si une nouvelle procédure de déclaration « CE » doit être entamée.
+
+Une nouvelle procédure de déclaration « CE » doit être effectuée dans tous les cas où la
+modification effectuée est substantielle, ou les risques engendrés par cette modification sont
+plus élevés que sur l’installation déjà certifiée.
+
+Les rapports de surveillance, des visites et des épreuves de résistance sont à soumettre pour
+visa à l'Inspection du travail et des mines.
+
+Copie du rapport visé est à verser au registre prévu à l'article 16 ci-après.
+
+14.4. Chaque aire de ravitaillement ayant été la cause d'un accident ou d'un incident grave ou
+ayant été impliqué dans un accident ou un incident grave doit être mis à l’arrêt. L’Inspection
+du travail et des mines est à informer sans délais. Avant une remise en service, la station doit
+être vérifiée par un organisme de contrôle, et l’Inspection du travail et des mines doit donner
+son accord écrit.
+L'exploitation de cette aire de ravitaillement ne peut être reprise qu'après visa par l'Inspection
+du travail et des mines du rapport de vérification de l'organisme de contrôle, rapport à verser
+au registre prévu à l'article 16 ci-après.
+
+Art. 15. - Exploitation et surveillance
+
+15.1 L’exploitant de l’aire de ravitaillement en GPL doit s’assurer que les personnes
+exécutant des opérations de ravitaillement aient reçues une formation leur permettant de
+travailler dans des condition sûres et de pouvoir gérer des situations critiques impliquant
+l’utilisation des équipements de sécurité et de premiers secours.
+
+Il doit être procédé à l’action de ravitaillement suivant les aspects de sécurité énoncés dans
+cette prescription et édictées dans les procédures à respecter, établies par le fabricant, le
+fournisseur et/ou l’exploitant.
+
+
+
+
+page 8 de 9 pages                                                               ITM-SST 1708.1
+15.2 L’aire de ravitaillement est à maintenir propre, débarrassée de toute substance
+combustible.
+
+15.3 Lors de l’action de ravitaillement, le moteur de l’engin industriel doit être à l’arrêt et
+l’engin doit être immobilisé de façon à éviter tout mouvement intempestif.
+
+15.4 L’aire de ravitaillement doit être maintenue en bon état de fonctionnement par une
+personne compétente et ne peut être exploitée si tel n’est le cas.
+
+Art. 16. - Registre de sécurité
+
+16.1. Le registre de sécurité doit être disponible auprès de l’exploitant et doit contenir les
+documents suivants :
+
+1. Une copie de l'autorisation d'exploitation
+2. Un dossier technique renfermant toutes les informations techniques de la station
+   (comprenant notamment le certificat « CE » de conformité, les notices d'entretien et
+   d'exploitation).
+3. Une copie des rapports du premier contrôle périodique et des visites périodiques ainsi que
+   tout autre rapport établi par un organisme de contrôle en relation avec l’installation.
+4. Toutes les modifications apportées à l'installation, tous les travaux d'entretien, essais,
+   contrôles et vérifications.
+
+
+
+
+               Visa du directeur adjoint                         Mise en vigueur
+               de l’Inspection du travail                              le
+                      et des mines
+
+
+                                                                   Paul WEBER
+                    Robert Huberty                                   Directeur
+                                                             de l’Inspection du travail
+                                                                    et des mines
+
+
+
+
+page 9 de 9 pages                                                                 ITM-SST 1708.1
+

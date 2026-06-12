@@ -1,0 +1,749 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                           Strassen, décembre 2007
+
+
+                                                                               Ancien N° ITM-CL 324.3
+
+
+                                                                               Nouveau N° ITM-SST 1305.1
+
+     Appareils sous pression fixes contenant de l’air comprimé
+           ou des gaz liquéfiés, comprimés ou dissous.
+                      avec marquage « CE »
+       Conçus d’après les exigences de la directive 97/23/CE "Equipements sous pression"
+           ou des directives 87/404/CE et 90/486/CE "Récipients à pression simples"
+
+                                              Prescriptions de sécurité types.
+                                         Les présentes prescriptions comportent 16 pages.
+
+                                                                  Sommaire
+    Article                                                                                                             Page
+
+     1.                     Objectif et domaine d’application                                                               2
+     2.                     Définitions                                                                                     3
+     3.                     Normes et règles techniques                                                                     3
+     4.                     Prescriptions générales                                                                         4
+     5.                     Conception, fabrication et évaluation de la conformité                                          4
+     6.                     Plaque signalétique, instructions de service et documents                                       4
+     7.                     Equipement des appareils sous pression fixes contenant de l’air
+                            comprimé ou des gaz liquéfiés, comprimés ou dissous                                             5
+     8.                     Zone de sécurité                                                                                6
+     9.                     Signalisation de sécurité                                                                       6
+    10.                     Installations électriques et liaisons équipotentielles                                          7
+    11.                     Contrôles périodiques                                                                           7
+    12.                     Contrôles des appareils sous pression fixes installés dans un véhicule                         11
+    13.                     Réparations et modifications                                                                   12
+    14.                     Accidents et incidents graves                                                                  13
+    15.                     Exploitation                                                                                   13
+    16.                     Registres                                                                                      14
+                            Annexe I                                                                                       16
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-1   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité relatives aux appareils fixes sous pression contenant des fluides gazeux maintenus
+sous une pression maximale de service admissible (PS) supérieure à 0,05 MPa (0,5 bar) dans
+les limites suivantes :
+
+-   pour les fluides du groupe 1 (article 2.2 de la loi du 14 mars 1979 et du 15 juin 1994
+    relative à la classification, l’emballage et l’étiquetage des substances dangereuses),
+    lorsque le volume (V) est supérieur à 1 litres (L) et le produit PS•V est supérieur à 25 bar,
+    ainsi que lorsque la pression PS est supérieure à 200 bar ;
+-   pour les fluides du groupe 2, lorsque le volume (V) est supérieur à 1 litre (L) et le produit
+    PS•V est supérieur à 50 bar•L, ainsi que lorsque la pression (PS) est supérieure à 1.000
+    bar ;
+-   pour les tuyauteries se trouvant à l'intérieur du périmètre de l'appareil, les accessoires de
+    sécurité et les accessoires sous pression, les exigences afférentes de l’article 3 du
+    règlement grand-ducal du 21 janvier 2000 concernant les équipements sous pression
+    transposant la directive 97/23/CE sont également applicables.
+
+1.2. Les présentes prescriptions ne s'appliquent que partiellement aux réservoirs contenant de
+l'oxygène liquide (voir Ancien N° ITM-CL 227 / Nouveau N° ITM-SST 1303), aux réservoirs
+contenant du gaz inerte liquide (voir Ancien N° ITM-CL 272 / Nouveau N° ITM-SST 1304)
+et aux réservoirs contenant de l’hydrogène gazeux (voir Ancien ITM-CL 355 / Nouveau N°
+1306).
+
+Elles ne s'appliquent pas aux réservoirs contenant du gaz de pétrole liquéfié (voir Ancien N°
+ITM-CL 9 / Nouveau N° ITM-SST 1700, Ancien N° ITM-CL 13 / Nouveau N° ITM-SST
+1701, Ancien N° ITM-CL 14 / Nouveau N° ITM-SST 1702), ainsi qu’aux
+récipients/bouteilles sous pression transportables.
+
+1.4. Les présentes prescriptions ne concernent pas les réservoirs à gaz de pétrole liquéfié
+montés dans des véhicules routiers tombant sous les stipulations du règlement grand-ducal du
+10 avril 1986 sur l'utilisation du gaz de pétrole liquéfié comme carburant pour la propulsion
+des véhicules automoteurs.
+
+1.5. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si des mesures de rechange garantissant une protection au moins
+équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de sécurité
+équivalent par un organisme de contrôle et acceptées comme telles par l'lnspection du travail
+et des mines.
+
+
+
+
+Page 2 de 16 pages                                                                ITM-SST 1305.1
+Art 2. - Définitions
+
+2.1. Par la dénomination "récipients fixes" sont à comprendre ci-après tous les récipients
+installés à demeure, soit à l'intérieur, soit à l'extérieur d'un bâtiment, soit dans un véhicule,
+ainsi que les ensembles réservoir-compresseur transportables ou munis de roues.
+
+2.2. Par la dénomination "récipients mobiles" sont à comprendre ci-après tous les récipients
+non installés à demeure.
+
+2.3. Les appareils sous pression fixes contenant des gaz liquéfiés, comprimés ou dissous
+comportent deux catégories, définies selon leur pression maximale de service admissible (PS)
+et selon leur volume géométrique (V):
+
+-   les appareils de la catégorie A1 contenant des fluides du groupe 1 (voir annexe I) dont la
+    pression maximale de service admissible (PS) est supérieure à 0,05 MPa (0,5 bar) tout en
+    étant inférieure à 0,2 MPa (2 bar), ou dont le produit de leur pression maximale de service
+    admissible (exprimée en bar) et de leur volume géométrique (exprimé en litres) est
+    inférieur à 2.000 bar•L.
+-   les appareils de la catégorie A2 contenant des fluides du groupe 2 (voir annexe I) dont la
+    pression maximale de service admissible (PS) est supérieure à 0,05 MPa (0,5 bar) tout en
+    étant inférieure à 0,2 MPa (2 bar), ou dont le produit de leur pression maximale de service
+    admissible (exprimée en bar) et de leur volume géométrique (exprimé en litres) est
+    inférieur à 2.000 bar•L.
+-   les appareils de la catégorie B contenant des fluides du groupe 1 ou 2 (voir annexe I) ayant
+    une pression maximale de service admissible (PS) égale ou supérieure à 0,2 MPa (2 bar)
+    et le produit de leur pression maximale de service admissible (exprimée en bar) et de leur
+    volume géométrique (exprimé en litres) est égal ou supérieur à 2.000 bar•L.
+
+2.4. Sous la dénomination "organisme de contrôle" est à comprendre tout organisme autorisé à
+contrôler les appareils à pression fixes par le règlement ministériel le plus récent en date du
+Ministre ayant dans ses attributions le travail concernant l'intervention d'organismes de
+contrôle dans le cadre des compétences et attributions de l'Inspection du travail et des mines.
+
+2.5. Sous la dénomination "organisme notifié" est à comprendre tout organisme notifié à la
+Commission européenne conformément au règlement grand-ducal du 21 janvier 2000 précité.
+
+Art. 3. - Normes et règles techniques
+
+3.1. Les prescriptions à appliquer lors de la conception et de la fabrication des appareils sous
+pression contenant de l’air comprimé ou des gaz liquéfiés, comprimés ou dissous sont définies
+au règlement grand-ducal du 21 janvier 2000 concernant les Equipements sous pression
+transposant la directive 97/23/CE en droit luxembourgeois ou au règlement grand ducal du 2
+juillet 1992 concernant les Récipients à pression simples transposant les directives
+87/404/CEE et 90/488/CEE en droit luxembourgeois
+
+
+
+
+Page 3 de 16 pages                                                                ITM-SST 1305.1
+3.2. Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à
+appliquer lors du montage de l'installation et de l'exploitation des appareils sous pression sont
+en particulier les présentes prescriptions et en général les normes européennes (E.N.)
+afférentes les plus récentes en vigueur ou à défaut les normes reconnues comme suffisantes du
+point de vue de la sécurité par un organisme de contrôle et acceptées comme telles par
+l’Inspection du travail et des mines.
+
+Art. 4. - Prescriptions générales
+
+4.1. L'exploitant d'appareils sous pression doit se conformer aux prescriptions des Articles
+L.311 à L.314 du Code du travail et des arrêtés et règlements grand-ducaux pris en exécution
+de ce code.
+
+4.2. Il y a lieu d'observer en outre les prescriptions afférentes de prévention contre les
+accidents édictées par l'Association d'Assurance contre les Accidents, Section Industrielle.
+
+Art.5.- Conception, fabrication et évaluation de la conformité.
+
+5.1. Les appareils sous pression fixes et neufs, leurs tuyauteries, accessoires de sécurité et
+accessoires sous pression doivent satisfaire au règlement grand-ducal du 21 janvier 2000
+concernant les Equipements sous pression transposant en droit luxembourgeois la directive
+97/23/CE ou au règlement grand-ducal du 2 juillet 1992 concernant les Récipients à pression
+simples transposant en droit luxembourgeois les directives 87/404 /CE et 90/486/CE.
+
+Art.6.- Plaque signalétique, instructions de service et documents techniques.
+
+6.1. Outre le marquage « CE » et le numéro d´identification de l´organisme notifié, chaque
+appareil ou ensemble doit porter une plaque signalétique comportant au moins les mentions
+suivantes :
+
+-   le nom du fabricant
+-   l’année de fabrication
+-   le numéro de fabrication (le cas échéant l’identification de la série ou du lot)
+-   le volume géométrique « V » de l´équipement sous pression, exprimé en litres « L »
+-   la pression maximale de service admissible « PS » en bar (pression de timbre,
+    « Auslegungsdruck »)
+-   la pression d’essai appliquée « PT » en bar et la date
+-   la température maximale de service
+-   au moins cinq emplacements permettant à un organisme de contrôle de marquer par
+    poinçon les dates des réépreuves hydrauliques et son symbole
+-   le cas échéant : la dimension nominale « DN » de la tuyauterie.
+
+6.2. Instructions de service et documents techniques.
+
+
+
+
+Page 4 de 16 pages                                                                ITM-SST 1305.1
+6.2.1. Chaque appareil ou ensemble, lors de sa mise sur le marché doit être accompagné en
+tant que de besoin d’une notice d’instructions destinée à l’utilisateur, contenant toutes les
+informations utiles à la sécurité en ce qui concerne :
+
+-   le montage de l’ensemble, y compris l’assemblage des différents équipements sous
+    pression
+-   la mise en service
+-   l’utilisation
+-   la maintenance, y compris les contrôles par l’utilisateur.
+
+6.2.2. La notice d’instructions doit reprendre les informations apposées sur l’équipement et
+doit être accompagnée le cas échéant de la documentation technique, ainsi que des plans et
+schémas nécessaires à une bonne compréhension des ces instructions.
+
+6.2.3. Le cas échéant, la notice d’instructions doit également attirer l’attention sur les dangers
+d’utilisation erronée et sur les caractéristiques particulières de la conception.
+
+6.2.4. Les instructions de service doivent être présentées à l’organisme de contrôle procédant
+au premier contrôle périodique avant mise en service et ensuite être versées au registre prévu
+au paragraphe 16.2 ci après.
+
+Art.7.- Equipement des appareils sous pression fixes comprenant de l’air comprimé ou
+des gaz liquéfiés, comprimés ou dissous.
+
+Nonobstant des impositions figurant à l’annexe 1 du règlement grand-ducal du 21 janvier
+2000 concernant les "Equipements sous pression" transposant la directive 97/23/CE en droit
+national, les points suivants sont à respecter.
+
+7.1. Généralités
+
+7.1.1. Les dispositifs de sécurité et de régulation et tout particulièrement la conduite de
+décharge doivent être disposés de telle manière, que leur fonctionnement ne peut être entravé
+par les conditions climatiques comme la pluie ou la neige. Leur fixation doit être conçue avec
+une attention particulière.
+
+7.1.2. Les équipements et accessoires doivent être installés de manière à faciliter leur accès
+pour la maintenance et le contrôle.
+
+7.1.3. Tous les accessoires de l’installation, tels les tuyauteries fixes, les vannes, les robinets,
+les détendeurs, les dispositifs de sûreté, les clapets, les tuyaux flexibles, les joints etc. doivent
+être conçus et réalisés en vue de leur utilisation prévue.
+
+7.1.4. Tout rejet de purge doit se faire selon une orientation, en un lieu et à une hauteur
+suffisante pour qu’il n’en résulte aucun risque.
+
+
+
+
+Page 5 de 16 pages                                                                   ITM-SST 1305.1
+7.1.5. Tout récipient fixe et ses accessoires doivent, le cas échéant, être efficacement protégés
+contre la corrosion.
+
+7.1.6. Les matériaux constitutifs des tuyauteries, leurs dimensions et leur mode d’assemblage
+doivent être choisis pour assurer avec un coefficient de sécurité suffisant la résistance aux
+actions mécaniques, physiques et chimiques dues aux produits véhiculés.
+
+7.1.7. Tous les accessoires doivent être montés selon les règles de l’art par une personne
+qualifiée et expérimentée dans les installations à pression.
+
+7.1.8. Les appareils de contrôle doivent être réglés suivant les conditions imposées par les
+raisons de service sans préjudice des facteurs imposés par la sécurité.
+
+7.1.9. Le cas échéant, les sections de conduites de gaz liquéfié pouvant être obstruées par des
+vannes d’arrêt doivent impérativement être équipées d’un dispositif de sûreté empêchant un
+dépassement inadmissible de la pression provoquée par l’expansion du gaz liquéfié.
+
+Art. 8. - Zone de sécurité
+
+Le cas échéant, une zone de sécurité, conforme aux prescriptions d’installation et
+d’exploitation est à prévoir.
+
+Art. 9. - Signalisation de sécurité
+
+9.1. La signalisation de sécurité effectuée par des symboles normalisés et répondant aux
+dispositions du règlement grand-ducal du 28 mars 1995 concernant les prescriptions
+minimales pour la signalisation de sécurité sur les lieux de travail doit couvrir:
+
+-   les voies d’évacuation d’urgence;
+-   les équipements d’urgence tels que: postes d’alerte, moyens de lutte contre l’incendie,
+    postes de premiers secours, boutons d’arrêt d’urgence;
+-   les consignes d’utilisation des équipements de sécurité;
+-   le balisage des postes de travail et des voies de circulation;
+-   la circulation dans l’établissement ainsi que la circulation routière aux alentours de
+    l’établissement et sur les parkings.
+
+9.2. A défaut de pictogrammes normalisés, la signalisation de sécurité doit être affichée en
+aux moins deux langues (de préférence en français et en allemand, tout en tenant compte de la
+langue du personnel à prévenir).
+
+Sont à couvrir par une telle signalisation:
+
+-   les consignes d’emploi des machines et équipements,
+-   les consignes de comportement en cas d’urgence.
+
+
+
+
+Page 6 de 16 pages                                                                ITM-SST 1305.1
+9.3. Toutes les conduites transportant des gaz doivent être peintes d’après les prescriptions
+allemandes (DIN 2403) en plus des indications prévues par le règlement grand-ducal repris
+sous 9.1 ci-dessus.
+
+9.4. La signalisation de sécurité doit être apposée aux endroits appropriés et doit être durable.
+
+Art. 10. - Installations électriques et liaisons équipotentielles
+
+10.1. Les éventuelles installations électriques doivent être conformes aux normes allemandes
+DIN/VDE, les plus récentes en vigueur en la matière ou aux normes européennes CENELEC
+au fur et à mesure que celles - ci paraissent et remplacent les normes DIN/VDE précitées.
+
+10.2. L’installation et l’entretien du matériel doivent être confiés à du personnel qualifié, tenu
+au courant des règles de sécurité particulières à ce matériel.
+
+10.3. En cas de présence d’installations électriques, les réservoirs, supports, tuyauteries et
+accessoires doivent être munis de liaisons équipotentielles (voir DIN 57100/VDE 0100).
+
+Art. 11. – Contrôles périodiques
+
+11.1 Le premier contrôle périodique par un organisme de contrôle à la mise en service est
+constitué par :
+
+1. La vérification administrative du marquage et de la déclaration de conformité, de la
+   documentation technique et de la notice des instructions destinés à l’utilisateur.
+2. La vérification de la conformité aux prescriptions d’installation.
+3. Les contrôles de l’étanchéité.
+4. Les essais de fonctionnement de l’installation et des équipements de sécurité.
+
+Le rapport de vérification est à soumettre pour visa à l’Inspection du travail et des mines.
+
+Copie du rapport visé est à verser au registre prévu au paragraphe 16.2 ci-après.
+
+11.2. Les réservoirs fixes sous pression de la catégorie A2 (voir sub. 2.3. ci-dessus) doivent
+subir une vérification complète (intérieure et extérieure) tous les 10 ans.
+
+Cette vérification décennale est à effectuer par un organisme de contrôle.
+
+Copie du rapport dressé par l’organisme de contrôle à la suite de cette vérification est à verser
+au registre prévu au paragraphe 16.2 ci-après.
+
+Les dispositions des paragraphes 11.4, 11.5, 11.7, 11.8 et 11.9 sont, le cas échéant, aussi
+applicables aux appareils de la catégorie A2.
+
+
+
+
+Page 7 de 16 pages                                                                  ITM-SST 1305.1
+11.3. Les réservoirs fixes sous pression des catégories A1 et B (voir sub. 2.3 ci-dessus)
+doivent subir :
+
+-   tous les douze mois une vérification extérieure ;
+-   tous les cinq ans une vérification complète, tant extérieure qu’intérieure (vérification à
+    l’arrêt) ;
+-   tous les dix ans une requalification périodique comprenant une vérification extérieure et
+    intérieure complétée par une réépreuve de résistance (voir paragraphe 11.4 ci-dessous) et
+    la vérification des accessoires de sécurité.
+
+Ces vérifications périodiques sont à effectuer par un organisme de contrôle.
+
+Les rapports et les certificats des émis suite aux contrôles périodiques sont à soumettre pour
+visa à l’Inspection du travail et des mines.
+
+Copie de tout rapport dressé par un organisme de contrôle est à verser au registre prévu au
+paragraphe 16.2 ci-après.
+
+11.4. Requalification périodique décennale.
+
+11.4.1. Lors de la requalification périodique décennale, le réservoir est à soumettre à une
+réépreuve de résistance. La pression à appliquer lors de cette réépreuve de résistance est la
+pression d'essai (PT) appliquée lors de l’essai de résistance initial effectué par le fabricant.
+
+La pression de l’essai (PT) est à maintenir tout le temps nécessaire à l’examen complet des
+parois extérieures.
+
+L'épreuve de requalification est satisfaisante si l'équipement sous pression n'a pas fait l'objet
+de suintement, fuite ou rupture pendant la durée de l'épreuve et ne présente pas de
+déformation permanente appréciable.
+
+Sont dispensés de réépreuve de résistance les tuyauteries et leurs accessoires de sécurité sous
+pression.
+
+Le cas échéant la réépreuve de résistance peut être complétée par toute investigation
+complémentaire jugée utile, par exemple des essais non destructifs.
+
+Au cas où il est établi qu’une épreuve de résistance initiale n’a pas eu lieu, l’Inspection du
+travail et des mines, sur avis obligatoire de l’organisme de contrôle, peut soit fixer la valeur
+de la pression de réépreuve de résistance à appliquer, soit remplacer la réépreuve de résistance
+par d’autres techniques de contrôle permettant de garantir un niveau de sécurité au moins
+équivalent.
+
+
+
+
+Page 8 de 16 pages                                                                ITM-SST 1305.1
+11.4.2. En principe la réépreuve de résistance est une épreuve hydrostatique. L'épreuve
+hydrostatique peut être remplacée par une épreuve pneumatique effectuée à la pression d'essai
+PT précitée avec l'accord de l'organisme de contrôle et de l'exploitant. Dans ce cas une
+analyse des risques est à effectuer pour déterminer les risque résultant de l'épreuve
+pneumatique pour détermines les mesures de sécurité supplémentaires pour les personnes
+pouvant être atteintes. Pour les essais autres que l'essai de pression hydrostatique, des mesures
+complémentaires, telles que des contrôles non-destructifs ou d'autres méthodes d'efficacité
+équivalente, doivent être mises en œuvre avant ces essai. Un essai pneumatique ne peut
+seulement être effectué que si une épreuve de résistance initiale a été effectuée et l'ITM a
+donné son accord concernant les mesures de sécurité prises.
+
+11.4.3. Dans le cas où l’essai de pression serait nocif ou ne peut pas être effectué qu'à pression
+réduite ou pas du tout, qu'à pression réduite ou pas du tout, d’autres essais d’une valeur
+reconnue peuvent être réalisés sous la responsabilité de l’exploitant de l’installation. Dans un
+cas pareil, des mesures complémentaires, telles que des contrôles non-destructifs ou d’autres
+méthodes d’efficacité équivalente, doivent être mises en oeuvre.
+
+11.4.4. La réépreuve de résistance est complétée par un essai d’étanchéité de l’installation
+complète au gaz inerte à la pression de 0,2 bar, après installation d’un manomètre adéquat
+(ayant une plage de mesure allant de 0 à 0,5 bar).
+
+Le rapport de requalification est à soumettre pour visa à l’Inspection du travail et des mines.
+
+Copie du rapport visé est à verser au registre prévu à l’article 16.2 ci-après.
+
+11.5 Vérification extérieure en service ( vérification annuelle).
+
+11.5.1. L’organisme de contrôle procède à la vérification de l’ensemble de l’installation à
+savoir :
+
+-   l’identité entre récipient et documents de contrôle de même qu’à une vérification pour
+    contrôler que les conditions d’implantation sont inchangées ;
+-   l’état général de sécurité et de propreté ;
+-   l’état général des appareils à pression, leurs tuyauteries, accessoires de sécurité et
+    accessoires sous pression ;
+-   l’aptitude au fonctionnement des équipements et plus particulièrement des dispositifs de
+    sûreté ;
+-   vérification du plomb bloquant le tarage des dispositifs de sûreté ;
+-   le cas échéant, le matériel électrique et les liaisons équipotentielles
+-   le cas échéant, les systèmes de surveillance ;
+-   le cas échéant, le dispositif de détection de fuites.
+
+11.5.2. L’organisme définit, le cas échéant, les travaux de réparation nécessaires et les délais
+d’exécution.
+
+
+
+
+Page 9 de 16 pages                                                                 ITM-SST 1305.1
+11.6 Vérification complète à l’arrêt (vérification quinquennale ).
+
+11.6.1 Lors de l’inspection quinquennale l’organisme de contrôle vérifie d’abord le
+remplacement des dispositifs de sûreté par des éléments révisés, dont la valeur de tarage a été
+vérifiée et certifiée. Le plomb bloquant le tarage doit mentionner l’année de tarage.
+
+11.6.2 L’organisme de contrôle procède à une visite intérieure et extérieure des récipients.
+
+11.6.3 Lors de la vérification intérieure, il faut dans la mesure du possible vérifier toutes les
+parties quant à des effets d’usure, de corrosion ou d’autres dommages et le cas échéant
+effectuer des essais non-destructifs.
+
+Généralement en fonction de la nature du matériau utilisé et de l’emplacement à vérifier les
+procédés suivants sont appropriés :
+
+•   le contrôle radiographique ( RT ) ;
+•   le contrôle par ressuage ( PT ) ;
+•   le contrôle par magnétoscopie ( MT ) ;
+•   le contrôle par ultra sons ( UT ).
+
+11.6.4. L’organisme définit, le cas échéant, les travaux de réparation nécessaires et les délais
+d’exécution.
+
+11.7 A l’occasion de chaque visite, l’organisme de contrôle dresse un rapport indiquant l’état
+de conservation des installations (y compris le cas échéant les flexibles), ainsi que ses
+constatations concernant l’observation des prescriptions réglementaires et des conditions
+d’exploitation.
+
+Il fixe en plus dans son rapport le délai pendant lequel, à son avis, les différentes installations
+sous pression peuvent encore être exploitées en sécurité avant d’être soumises à une nouvelle
+vérification.
+
+Ces rapports de vérification sont à tenir à la disposition de l’Inspection du travail et des mines
+et des organismes de contrôle dans le registre prévu au paragraphe 16.2 ci-après.
+
+11.8 Chaque vérification doit, à la demande de l’organisme de contrôle, être complétée par
+une réépreuve de résistance (voir sub 11.4 ci-dessus).
+
+11.9 Les vérifications et réépreuves périodiques ont lieu avant l’expiration du délai fixé à
+cette fin par un organisme de contrôle lors de la visite précédente, sauf si l’Inspection du
+travail et des mines a accordé une dérogation sur avis obligatoire d’un organisme de contrôle.
+
+11.10. Une vérification par l’organisme de contrôle doit également avoir lieu à la demande de
+l’Inspection du travail et des mines.
+
+
+
+
+Page 10 de 16 pages                                                                ITM-SST 1305.1
+Art. 12. - Contrôle des appareils sous pression fixes installés dans un véhicule
+
+12.1. Le présent article ne concerne pas les réservoirs à gaz de pétrole liquéfié montés dans
+des véhicules routiers tombant sous les stipulations du règlement grand-ducal du 10 avril 1986
+sur l'utilisation du gaz de pétrole liquéfié comme carburant pour la propulsion des véhicules
+automoteurs.
+
+12.2. Les réservoirs de la catégorie A2 (voir sub. 2.3 ci-dessus) installés à demeure dans un
+véhicule doivent subir une visite extérieure tous les dix ans.
+12.2.1. Cette visite décennale est à effectuer par un organisme de contrôle.
+
+121.2.2. Copie de tout rapport dressé par l'organisme de contrôle est à verser au registre prévu
+au paragraphe 16.2 ci-après.
+
+12.3. Les réservoirs des catégories A1 et B (voir sub. 2.3 ci-dessus) installés à demeure dans
+un véhicule doivent subir tous les dix ans une réépreuve de résistance.
+
+12.3.1. La requalification décennale comprend une vérification extérieure et sans la mesure de
+possible une vérification intérieure, complétée par une réépreuve de résistancee.
+
+La requalification décennale est à effectuer par un organisme de contrôle.
+
+12.3.2. Requalification périodique décennale.
+
+12.3.2.1. La pression à appliquer lors de cette réépreuve de résistance est identique à la
+pression d'essai (PT) appliquée lors de l'essai de résistance initiale. L'épreuve de
+requalification est satisfaisant si l'équipement sous pression n'a pas fait l'objet de suintement,
+fuite ou rupture pendant las durée de l'épreuve et ne présente pas de déformation permanente
+appréciable.
+
+La pression de l'essai (PT) est à maintenir tout le temps nécessaire à l'examen complet des
+parois extérieures.
+
+Sont dispensés de réépreuve les tuyauteries et leurs accessoires de sécurité sous pression.
+
+Le cas échéant la réépreuve peut être complétée par toute investigation complémentaire jugée
+utile, par exemple des essais non destructifs.
+
+Au cas où il est établi qu'une épreuve de résistance initiale n'a pas eu lieu, l'Inspection du
+travail et des mines, sur avis obligatoire de l'organisme de contrôle, peut soit fixer la valeur de
+la pression de réépreuve de résistance à appliquer, soit remplacer la réépreuve de résistance
+par d'autres techniques de contrôle permettant de garantir un niveau de sécurité au moins
+équivalent.
+
+
+
+
+Page 11 de 16 pages                                                                ITM-SST 1305.1
+12.3.2.2. Dans le cas où l'essai de pression serait nocif ou ne peut pas être effectué, d'autres
+essais d'une valeur reconnue peuvent être réalisés sous la responsabilité de l'exploitant de
+l'installation. Pour les essais autres que l'essai de pression hydrostatique, des mesures
+complémentaires, telles que des contrôles non-destructifs ou d'autres méthodes d'efficacité
+équivalente, doivent être mises en oeuvre avant ces essais.
+
+Un essai pneumatique ne peut toutefois seulement être effectué que si une épreuve de
+résistance initiale a été effectuée.
+
+12.3.2.3. Les essais effectués à l'aide de certains fluides gazeux doivent être complétés à la
+demande de l'Inspection du travail et des mines et sur avis obligatoire de l'organisme de
+contrôle par une surveillance des émissions sonores (Schall-Emissions- Prüfung).
+
+12.3.3. Les rapports de requalification sont à soumettre pour visa à l'Inspection du travail et
+des mines.
+
+Copie de tout rapport dressé par un organisme de contrôle et visé par l'ITM est à verser au
+registre prévu au paragraphe 16.2 ci-après.
+
+12.4. Les équipements de contrôle et de sécurité des récipients des catégories A1 et A2 sont
+également soumis à une visite décennale à effectuer par un organisme de contrôle.
+
+12.5. A l'occasion de chaque vérification, l'organisme de contrôle dresse un rapport indiquant
+l'état de conservation des installations ainsi que ses constatations concernant l'observation des
+prescriptions réglementaires et des conditions d'exploitation.
+
+Il fixe en plus dans son rapport le délai pendant lequel, à son avis, les différentes installations
+sous pression peuvent encore être exploitées en sécurité avant d'être soumises à une nouvelle
+vérification.
+
+12.6. Chaque vérification doit, à la demande de l'organisme de contrôle, être complétée par
+une réépreuve de résistance.
+
+12.7. Les visites et réépreuves périodiques ont lieu avant l'expiration du délai fixé à cette fin
+par l'organisme lors de la visite précédente, sauf si l'Inspection du travail et des mines a
+accordé une dérogation sur avis obligatoire de l'organisme de contrôle.
+
+Art. 13. - Réparations et modifications
+
+13.1. Toute modification notable doit se faire en observant les dispositions du règlement
+grand-ducal du 2 juillet 1992 relatif aux Récipients à pression simples ou, le cas échéant, du
+règlement grand-ducal du 21 janvier 2000 relatif aux Equipements sous pression et si possible
+avec l’accord du constructeur de l’installation.
+
+
+
+
+Page 12 de 16 pages                                                                ITM-SST 1305.1
+13.2. Toute réparation notable et toute modification notable aux installations sous pression et
+à leurs accessoires (par exemple tuyauteries/canalisations) doivent être exécutée par un
+homme de l'art sous la surveillance d'un organisme de contrôle.
+
+13.3. L'installation doit ensuite être soumise à une vérification complète et à une épreuve de
+résistance à effectuer par le même organisme de contrôle.
+
+13.4. Le rapport de surveillance, de vérification et d'épreuve de résistance est à soumettre
+pour visa à l'Inspection du travail et des mines.
+
+Copie du rapport visé est à verser au registre prévu au paragraphe 16.2 ci-après.
+
+Art. 14. -Accidents et incidents graves
+
+14.1. Chaque appareil sous pression ayant été la cause d'un accident ou d'un incident grave
+doit être vérifié par un organisme de contrôle.
+
+14.2. L'exploitation de cet appareil ne peut être reprise qu'après acceptation par l'Inspection du
+Travail et des Mines du rapport de vérification de l'organisme, rapport à verser au registre
+prévu au paragraphe 16.2 ci-après.
+
+Art. 15. - Exploitation
+
+15.1. L'utilisation permanente de tuyauteries flexibles est interdite aux emplacements où il est
+possible de monter des tuyauteries fixes.
+
+15.2. D’éventuels flexibles doivent subir tous les cinq ans une réépreuve de résistance. La
+pression de réépreuve à appliquer doit être identique à la valeur de l’épreuve de résistance
+initiale (PE). Cette réépreuve, à effectuer par un organisme de contrôle, est valable pour une
+durée maximale de cinq ans.
+
+Les flexibles n’ayant pas encore servi (stock) et dont l’âge est au moins cinq ans doivent
+subir, avant leur mise en service, également une réépreuve de résistance, à effectuer par un
+organisme de contrôle, valable pour une durée de cinq ans. La pression de réépreuve doit être
+identique à la pression de l’épreuve de résistance initiale (PE).
+
+15.3. La longueur des flexibles utilisés doit être aussi courte que possible.
+
+15.4. Les installations sous pression et leurs accessoires tels que par exemple les tuyauteries,
+canalisations, robinetteries et flexibles sont à maintenir en tout temps en un parfait état
+d'entretien, de conservation, de fonctionnement et d'étanchéité.
+
+15.5. Il doit être porté immédiatement remède à toute défectuosité pouvant compromettre la
+sécurité du personnel ou du voisinage ainsi que le bon fonctionnement de l'installation.
+
+15.6. La mise en service, l'exploitation et l'entretien des installations sous pression ne peuvent
+être confiés qu'à du personnel expérimenté parfaitement au courant du fonctionnement de
+l'installation et des mesures de sécurité à observer.
+
+
+Page 13 de 16 pages                                                                 ITM-SST 1305.1
+15.7. Les dispositions reprises ci-dessus sont complétées:
+
+- pour les réservoirs contenant du gaz de pétrole liquéfié par les prescriptions types ITM-CL
+  9 / Nouveau N° ITM-SST 1700, Ancien N° ITM-CL 13 / Nouveau N° ITM-SST 1701,
+  Ancien N° ITM-CL 14 / Nouveau ITM-SST N° 1702;
+- pour les réservoirs contenant de l'oxygène liquide par les prescriptions types Ancien N°
+  ITM-CL 27/ Nouveau N° ITM-SST 1907, Ancien N° ITM-CL 227 / ITM-SST Nouveau
+  N° 1303 ;
+- pour les réservoirs contenant du gaz inerte par les prescriptions types Ancien N° ITM-CL
+  72 / Nouveau N° ITM-SST 1301 resp. Ancien N° ITM-CL 272 / Nouveau ITM-SST N°
+  1304 ;
+- pour les appareils à pression fixes dans lesquels est emmagasiné de l’hydrogène gazeux par
+  les prescriptions types voir Ancien ITM-CL 355 / Nouveau ITM-SST N° 1306.
+
+Art. 16. - Registres
+
+16.1. Pour chaque appareil sous pression fixe est à tenir un registre d'entretien séparé.
+
+Doivent figurer au moins dans ce registre :
+
+-   les descriptions des opérations de maintenance (entretien et réparation) que l'appareil ou
+    l'installation a subi;
+-   le rapport des vérifications effectuées par le personnel d'exploitation ou de maintenance;
+-   un descriptif de toutes les interventions et modifications effectuées sur l'appareil pouvant
+    avoir une influence sur la sécurité du personnel;
+-   les dates des interventions;
+-   le nom des personnes ou de l'entreprise ayant effectué les interventions.
+
+16.2. Toutes les vérifications et tous les contrôles effectués sur les appareils sous pression
+fixes par un organisme de contrôle doivent faire l'objet d'une inscription sur un second registre
+dénommé registre de contrôle réglementaire, registre complété par le dossier technique prévu
+au paragraphe 6.2.2 ci-dessus.
+
+Ce registre doit comprendre les mentions suivantes:
+
+Ce registre doit comprendre les mentions suivantes:
+
+-   date et nature de la réception, de la réépreuve du contrôle respectivement de la
+    vérification ;
+-   organisme et nom de l’inspecteur ayant effectué la réception, le contrôle respectivement la
+    vérification ou la réépreuve ;
+-   motif du contrôle respectivement de la vérification ;
+-   la nature et la cause de l’incident, si le contrôle a été effectué suite à un incident.
+
+16.3. Ces registres doivent être incorporés dans un seul dossier de sécurité à tenir pour chaque
+appareil fixe séparément.
+
+
+
+Page 14 de 16 pages                                                                ITM-SST 1305.1
+16.4. Outre les registres prémentionnés, le registre de sécurité doit contenir les documents
+suivants:
+    - Une copie de la déclaration «CE» de conformité
+    - Un dossier technique renfermant toutes les informations techniques de l'appareil
+       nécessaires pour une exploitation en sécurité.
+
+16.5. Ce dossier de sécurité doit être tenu à la disposition de l’Inspection du travail et des
+mines et des organismes de contrôle agréés.
+
+
+
+              Visa du Directeur adjoint                         Mise en vigueur
+           de l’Inspection du travail et des                          le
+                        mines
+
+
+                                                                  Paul WEBER
+                 Robert HUBERTY                                     Directeur
+                                                            de l’Inspection du travail
+                                                                   et des mines
+
+
+
+
+Page 15 de 16 pages                                                                 ITM-SST 1305.1
+                                                                 ANNEXE I
+
+
+
+
+                              Classification des fluides
+
+
+
+
+Les fluides sont répartis en 2 groupes:
+
+Le groupe 1 comprend les fluides dangereux. Un fluide dangereux est une substance
+ou une préparation visée par les définitions énoncées à l'article 2 de la Directive
+67/548/EEC (telle qu'amendée par le Directive 94/69/EEC) concernant le
+rapprochement des dispositions législatives, réglementaires et administratives relatives
+à la classification, l'emballage et l'étiquetage des substances dangereuses. (Art. 2.2 de
+la loi du 15 juin 1994)
+
+
+Le groupe 1 comprend les fluides définis comme étant:
+
+-   explosifs;
+-   extrêmement inflammables;
+-   hautement inflammables;
+-   inflammables (lorsque la température maximale admissible est supérieure au point
+    d'éclair);
+-   très toxiques;
+-   toxiques;
+-   comburants.
+
+
+Le groupe 2 comprend tous les autres fluides non compris dans le groupe 1.
+
+(par exemple: Argon, Hélium, Krypton, Néon, Azote, Xénon, Dioxyde de carbone,
+vapeur d'eau, eau surchauffée, air comprimé, etc.)
+
+
+
+
+Page 16 de 16 pages                                                        ITM-SST 1305.1
+

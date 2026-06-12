@@ -1,0 +1,829 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                             Strassen, octobre 2007
+
+
+
+
+                                                                                       Ancien N°ITM-CL 41.4
+
+
+                                                                                       Nouveau N° ITM-SST 1809.1
+
+
+
+
+                                       Dépôts d'articles pyrotechniques
+
+
+                                               Prescriptions de sécurité types
+
+                                              Le présent document comporte 16 pages
+
+
+
+                                                                  Sommaire
+
+    Article                                                                                                           Page
+
+
+     1.                              Objectif et domaine d'application                                                 2
+     2.                              Définitions                                                                       2
+     3.                              Normes et règles techniques                                                       3
+     4.                              Prescriptions générales                                                           3
+     5.                              Vente                                                                             4
+     6.                              Stockage                                                                          4
+     7.                              Etiquetage                                                                        7
+     8.                              Installations électriques                                                         7
+     9.                              Protection contre la foudre                                                       8
+    10.                              Protection contre l'incendie                                                      8
+                                     Annexe I                                                                          9
+                                     Annexe II                                                                        16
+
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-1   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+ Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions de sécurité ont pour objectif de spécifier les conditions
+d'exploitation et les prescriptions générales de sécurité pour tous les dépôts d'articles
+pyrotechniques à partir d’un poids total de matières actives de 500 g et jusqu’à un poids total
+brut de 5.000 kg à l'exception des dépôts de munitions pyrotechniques.
+
+1.2. Seuls les articles pyrotechniques des classes I, II et T1, telles que définies à l’article 2 ci-
+après, peuvent être mis en vente libre sous les conditions telles que définies ci-après.
+
+Les articles pyrotechniques des classes III, IV et T2, telles que définies à l’article 2 ci-après,
+sont destinés à une utilisation professionnelle et ne peuvent de ce fait être mis en vente libre.
+
+1.3. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si sont prises des mesures de rechange garantissant un niveau de
+sécurité au moins équivalent. Ces mesures de rechange doivent être acceptées comme telles
+par l'Inspection du Travail et des Mines.
+
+Art. 2 - Définitions
+
+2.1. Les articles pyrotechniques sont divisés en cinq classes, à savoir: la classe I, la classe II,
+la classe III, la classe IV et la classe T, tels que définis plus en détail à l’annexe I.
+
+2.1.1. Classe I
+Les articles pyrotechniques de la classe I ne peuvent avoir une composition pyrotechnique
+d'un poids total supérieur à 3 grammes.
+
+2.1.2. Classe II
+Les articles pyrotechniques de la classe II ne peuvent avoir une composition pyrotechnique
+d'un poids total supérieur à 50 grammes.
+Pour les artifices du type fusée, ce poids ne peut être supérieur à 20 grammes.
+Toutefois pour les poudres comprimées de Bengale, ce poids ne peut être supérieur à 2.500
+grammes.
+
+2.1.3 Classe III
+Les articles pyrotechniques de la classe III ne peuvent avoir une composition pyrotechnique
+d'un poids total supérieur à 250 grammes.
+
+
+Les articles pyrotechniques de la classe III composés de plusieurs éléments ne peuvent avoir
+une composition pyrotechnique d'un poids total supérieur à 800 grammes à l’exception des
+cascades qui peuvent avoir une composition pyrotechnique d’un poids total maximum de
+1.200 grammes.
+
+Toutefois pour les artifices du type fusée, ce poids ne peut être supérieur à 75 grammes.
+
+ 2.1.4. Classe IV
+ Tous les articles pyrotechniques dont la composition pyrotechnique a un poids total
+ supérieur à 250 grammes respectivement les artifices du type fusée dont ce poids est
+ supérieur à 75 grammes.
+
+
+
+page 2 de 16 pages                                                               ITM-SST 1809.1
+2.1.5. Classe T
+      Les articles pyrotechniques de la classe T sont réservés à des fins techniques.
+      La classe T est divisée en deux sous-classes, à savoir
+      - la classe T1 comprenant les articles pyrotechniques réservés à des fins techniques
+           comportant de faibles risques;
+      - la classe T2 comprenant les articles pyrotechniques réservés à des fins techniques
+           comportant des risques élevés.
+
+    2.2. Par "composition pyrotechnique" est à comprendre la matière active d’allumage plus la
+    matière active d’effets.
+
+    2.3. Par "poids brut total" est à comprendre le poids total des articles pyrotechniques y
+    compris leur emballage de vente.
+
+    2.4. Par "dépôt attenant au local de vente" est à comprendre le dépôt se trouvant à l’intérieur
+    du magasin de vente.
+
+    2.5. Par "dépôt annexe au magasin de vente" est à comprendre le dépôt se trouvant dans un
+    immeuble inhabité ne faisant pas partie du magasin de vente.
+
+     Art. 3 - Normes et règles techniques
+
+    3.1. Les normes, prescriptions, directives de sécurité et d’hygiène et les règles de l’art à
+    appliquer lors de la conception, de la réalisation et de l’exploitation d’un dépôt d'articles
+    pyrotechniques sont en particulier les présentes prescriptions et en général les normes et
+    règles techniques nationales appliquées dans les pays de la Communauté Européenne, ou alors
+    celles reconnues comme équivalentes par l’Inspection du Travail et des Mines.
+
+    3.2. Sont d’application les normes européennes (E.N.), au fur et à mesure qu’elles paraissent
+    et remplacent les diverses normes nationales.
+
+     Art. 4. Prescriptions générales
+
+    4.1. L'exploitant doit se conformer aux stipulations:
+
+         -    de la loi du 20 avril 1881 concernant le transport et le commerce de matières
+              explosives;
+         -    de l'arrêté royal grand-ducal du 20 avril 1881 relatif au transport, au commerce et au
+              dépôt de la poudre à tirer et des autres substances explosives,
+         -    de l'arrêté grand-ducal du 24 mai 1961 portant modification de l'arrêté précité,
+         -    de l'arrêté ministériel du 21 juin 1961 portant reconnaissance officielle et classement
+              des explosifs,
+         -    des règlements ministériels du 30 octobre 1962, du 8 octobre 1965 et du 11 février
+              1986 complétant la liste annexée à l'arrêté ministériel du 21 juin 1961 portant
+              reconnaissance officielle et classement des explosifs.
+
+    4.2. Tous les vols, pertes ou disparitions de matières explosives doivent être déclarés
+    immédiatement aux services compétents de la police grand-ducale.
+
+
+
+
+    page 3 de 16 pages                                                            ITM-SST 1809.1
+4.3. L'exploitant d'un dépôt pour la vente d'articles pyrotechniques doit être en possession
+d'une autorisation de commerce valable délivrée par le Ministère des Classes Moyennes pour
+de tels produits.
+
+4.4. La vente et le dépôt d'articles pyrotechniques sont strictement interdits dans les stations
+de distribution d'essence, de gasoil et de gaz de pétrole liquéfié, y compris dans les shops
+attenants à ces stations-services.
+
+Art. 5 - Vente
+
+5.1. En vertu de l’article 24 de l’arrêté royal grand-ducal du 20 avril 1881 relatif au transport,
+au commerce et au dépôt de la poudre à tirer et des autres substances explosives les articles
+pyrotechniques ne peuvent être vendus à des personnes âgées de moins de 16 ans.
+
+5.2. Les articles pyrotechniques des classes II et T1 ne peuvent être vendus à des personnes
+âgées de moins de 18 ans.
+
+5.3. Les articles pyrotechniques des classes II et T1 ne peuvent être vendus que dans des
+magasins de vente installés à demeure.
+
+5.4. Les articles pyrotechniques de la classe III, IV et T2 ne peuvent être vendus qu'à des
+personnes âgées d'au moins 18 ans ayant suivi avec succès une formation en la matière pour
+leur tir et sur présentation du diplôme de cette formation.
+
+Un registre doit être tenu par l’exploitant, renseignant sur les entrées et les sorties des articles
+en dépôt.
+
+Pour les sorties, le registre doit contenir les noms, adresse, formation (organisme et pays), la
+quantité et la classe des articles ainsi que la date de délivrance et signature de l’acquérant tels
+que repris à l’annexe II.
+
+Art. 6 - Stockage
+
+6.1. Généralités.
+
+6.1.1. Les articles pyrotechniques ne peuvent être stockés que dans leur emballage d'origine
+respectivement dans leur emballage de transport.
+
+6.1.2. Les emballages ouverts doivent être immédiatement refermés.
+
+6.1.3. Les articles pyrotechniques ne peuvent pas être exposés dans les devantures des
+magasins.
+
+6.1.4. La température dans les endroits d'exposition et/ou de stockage ne doit en aucun cas
+dépasser les 75°C.
+
+
+
+
+page 4 de 16 pages                                                               ITM-SST 1809.1
+6.1.5. Il est interdit de fumer, de faire du feu et de pénétrer avec du feu nu dans les endroits de
+stockage et d'exposition.
+
+6.1.6. Les dépôts ne doivent pas avoir des fenêtres, à l’exception du stockage d'articles
+pyrotechniques des classes I, II et T1.
+
+Ils doivent être secs et bien aérés.
+
+Ils doivent toujours être fermés à clé.
+
+6.1.7. Les articles pyrotechniques ne peuvent être exposés près des foyers de lumière, de
+chaleur ou d'étincelles.
+
+6.1.8. Un dépôt d'articles pyrotechniques ne peut contenir que des articles pyrotechniques.
+
+6.1.9. Les articles pyrotechniques à l'exception de ceux de la classe I ne peuvent, ni être
+stockés à l'air libre, ni dans un véhicule.
+
+6.1.10. Toutes les portes des dépôts doivent s'ouvrir vers l'extérieur.
+
+6.1.11. Les dépôts doivent être protégés efficacement contre le vol.
+
+6.1.12. Les portes des dépôts décrits sous 6.4. et 6.5. ci-après doivent être du type "sécurité-
+anticambriolage".
+
+Pour la conception de ces portes il y a lieu d’appliquer la norme allemande DIN 18 103-ET2
+ou toute autre norme au moins équivalente en matière de sécurité.
+
+6.1.13. Les dépôts décrits sous 6.3. 6.4. et 6.5. ci-après doivent être pourvus d’une
+signalisation de sécurité conforme au règlement grand-ducal le plus récent en date concernant
+les prescriptions minimales de signalisation de sécurité au travail.
+
+6.2. Dépôts dans les locaux de vente.
+
+6.2.1. Dans les locaux de vente ne peuvent être stockés que des articles pyrotechniques des
+classes I, II, et T1 d'un poids brut total de 100 kg, dont 80 kg doivent être stockés dans des
+armoires fermées à clé et 20 kg peuvent être exposés sans emballage dans une vitrine à
+l’intérieur du local de vente.
+
+6.3. Dépôts attenants à un local de vente.
+
+6.3.1. Dans les dépôts attenants à un local de vente ne peuvent être stockés que des articles
+pyrotechniques des classes I, II, et T1 d'un poids brut total de 300 kg.
+
+6.3.2. Ces locaux sont à construire comme compartiment technique ayant une durée de
+résistance au feu minimale de 60 minutes.
+
+6.3.3. Ces locaux sont interdits au public et ne doivent, ni servir de lieu de travail fixe et
+permanent, ni d'habitation.
+
+
+
+
+page 5 de 16 pages                                                              ITM-SST 1809.1
+6.4. Dépôts annexes à un magasin de vente respectivement dans les halls industriels.
+
+6.4.1. Dans ces dépôts ne peuvent être stockés que des articles pyrotechniques des classes I,
+II, et T1 d'un poids total brut de 1.000 kg.
+
+6.4.2. Ces locaux sont à construire comme compartiment technique ayant une durée de
+résistance au feu minimale de 60 minutes.
+
+6.4.3. Ces locaux sont interdits au public et ne doivent, ni servir de lieu de travail fixe et
+permanent, ni d'habitation.
+
+Ils ne peuvent ni être intégrés, ni être annexés à des bâtiments servant d’habitation.
+
+6.4.4. La distance minimale mesurée en projection horizontale, qui doit séparer le dépôt de
+toute zone d'habitation est de 25 m. Pour les dépôts souterrains cette distance peut être réduite
+à 8 m.
+
+6.5. Dépôts spéciaux.
+
+6.5.1. Les articles pyrotechniques des classes I, II et T1 d'un poids brut total supérieur à 1.000
+kg, ainsi que les articles pyrotechniques des classes III, IV et T2 doivent être stockés dans des
+dépôts spéciaux. Sans préjudice du paragraphe 6.5.9. ci-dessous le poids total des articles
+pyrotechniques stockés dans un dépôt spécial ne peut dépasser 5.000 kg.
+
+6.5.2. Ces dépôts ne peuvent être constitués que d'un seul étage et peuvent être souterrains ou
+aériens.
+
+6.5.3. Les locaux de ces dépôts ne peuvent, ni servir de lieu de travail fixe et permanent, ni
+d'habitation, ni être annexé à un bâtiment quelconque.
+
+6.5.4. Pour le stockage d’articles pyrotechniques d’un diamètre extérieur égal ou inférieur à
+60 mm, la distance mesurée en projection horizontale, qui doit séparer un tel dépôt de tout
+bâtiment occupé et de toute zone d’habitation est de 90 m en ce qui concerne les dépôts
+aériens et de 60 m pour les dépôts souterrains.
+
+6.5.5. Pour le stockage d’articles pyrotechniques d’un diamètre extérieur égal ou inférieur à
+60 mm, la distance mesurée en projection horizontale, qui doit séparer un tel dépôt de toute
+voie publique est de 60 m pour les dépôts aériens et de 40 m pour les dépôts souterrains.
+
+6.5.6. Pour le stockage d’articles pyrotechniques d’un diamètre extérieur supérieur à 60 mm,
+la distance mesurée en projection horizontale, qui doit séparer un tel dépôt de tout bâtiment et
+de toute zone d’habitation est de 135 m pour les dépôts aériens et de 75 m pour les dépôts
+souterrains.
+
+6.5.7. Pour le stockage d’articles pyrotechniques d’un diamètre extérieur supérieur à 60 mm,
+la distance mesurée en projection horizontale, qui doit séparer un tel dépôt de toute voie
+publique est de 90 m pour les dépôts aériens et de 60 m pour les dépôts souterrains.
+
+
+
+
+page 6 de 16 pages                                                             ITM-SST 1809.1
+6.5.8. Pour les dépôts aériens ne contenant que des articles pyrotechniques de la classe I, II et
+T1, ces distances peuvent être réduites à 25 m.
+
+6.5.8. Pour les dépôts souterrains ne contenant que des articles pyrotechniques de la classe I,
+II et T1, ces distances peuvent être réduites à 8 m.
+
+6.5.9. Les dépôts d’articles pyrotechniques d’un poids total brut supérieur à 5.000 kg sont
+soumis à des prescriptions de sécurité spécifiques arrêtées cas par cas par l’Inspection du
+travail et des mines.
+
+Art. 7 - Etiquetage
+
+7.1. Les articles pyrotechniques doivent être pourvus d’un étiquetage comprenant un mode
+d’emploi dans au moins une des trois langues officielles du Grand-Duché de Luxembourg et
+indiquant leurs classifications, tel que défini à l’article 2 des présentes prescriptions et l’âge
+minimum des acheteurs tel que défini à l’article 5.1. et 5.2. ci-dessus, ainsi que le nom du
+producteur ou de l’importateur.
+
+7.2. Les articles pyrotechniques doivent être accompagnés d’un mode d’emploi rédigé dans au
+moins l’une des trois langues officielles du Grand-Duché de Luxembourg (à moins que ce
+mode d’emploi ne soit imprimé sur les articles eux-mêmes).
+
+Art. 8 - Installations électriques
+
+8.1. L'installation électrique des dépôts doit être conçue, réalisée et exploitée conformément
+aux normes, prescriptions et directives de sécurité de même qu'aux règles de l'art, de la
+sécurité et de l'hygiène normalement applicables dans le Grand-Duché de Luxembourg, dont
+notamment:
+
+     -    les prescriptions allemandes DIN/VDE,
+     -    les normes européennes CENELEC au fur et à mesure que celles-ci paraissent et
+          remplacent les prescriptions DIN/VDE précitées,
+     -    le règlement ministériel du 8 août 1989 concernant les prescriptions de raccordement
+          aux réseaux de distribution de l'énergie électrique à basse tension au Grand-Duché de
+          Luxembourg.
+
+8.2. Toutes les installations électriques autres que celles strictement nécessaires pour
+l'exploitation du dépôt même sont interdites.
+
+8.3. Les installations électriques sont à maintenir continuellement en bon état d'entretien, de
+sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les défectuosités et
+anomalies constatées.
+
+8.4. L'entretien régulier des installations électriques doit être assuré par un personnel qualifié
+et expérimenté. L'exploitant est responsable, soit de s'assurer que les intéressés ont acquis les
+aptitudes nécessaires, soit de faire mettre en œuvre les instructions, formations et formations
+continues requises.
+
+8.5. L'entretien doit s'effectuer dans le strict respect des règles de la sécurité au travail et les
+aménagements, équipements et moyens de sécurité doivent être prévus en conséquence.
+
+
+
+page 7 de 16 pages                                                               ITM-SST 1809.1
+8.6. Lors des travaux de montage, d'entretien ou de réparation des installations électriques
+toutes mesures efficaces doivent être prises pour protéger les travailleurs contre tout risque
+d'accident ou toute atteinte à la santé.
+
+8.7. Le personnel chargé d'effectuer des travaux aux installations électriques doit être instruit
+des précautions à prendre pour éviter les dangers de l'électricité et doit disposer du matériel et
+de l'équipement de sécurité nécessaires pour sa propre protection et pour l'exécution des
+travaux. L'exécution des travaux doit être placée sous la surveillance permanente d'un
+responsable.
+
+8.8. Pour empêcher la mise sous tension, soit accidentellement, soit par inadvertance d'une
+installation électrique sur laquelle sont effectués des travaux, toutes précautions appropriées
+doivent être prises.
+
+Art. 9 - Protection contre la foudre
+
+Les dépôts doivent être convenablement protégés contre les effets de la foudre (voir DIN
+57185/VDE 0185).
+
+Art. 10 - Protection contre l'incendie
+
+10.1. Des extincteurs portatifs d'incendie normalisés d'une capacité de 6 kg doivent être
+disposés dans les bâtiments en nombre suffisant mais avec un minimum de deux appareils par
+dépôt.
+
+10.2. Les types d'extincteurs et les produits d'extinction doivent être appropriés aux risques
+correspondants. Ils doivent être d'un modèle normalisé, agréé pour l’usage prévu et présentant
+toutes les garanties de sécurité requises.
+
+10.3. Les extincteurs portatifs d'incendie doivent être signalisés, facilement accessibles et
+maintenus dans un parfait état de fonctionnement. Ils doivent être contrôlés par des
+spécialistes dans des intervalles d'un an. S'ils doivent être emportés en vue de ces contrôles,
+ils doivent être échangés au préalable sur place.
+
+10.4. Un extincteur une fois utilisé ne peut reprendre son emplacement qu'après avoir été
+rechargé et contrôlé.
+
+10.5. L'exploitant doit organiser périodiquement des exercices de manipulation des
+extincteurs portatifs d'incendie, afin que tous les membres du personnel soient suffisamment
+familiarisés avec leur emploi.
+
+
+
+                  Visa du Chef de la                               Mises en vigueur
+               Division Sécurité et Santé                           le 31.10.2007
+
+                                                                           s.
+
+                     Robert HUBERTY                                   Paul WEBER
+                                                                        Directeur
+                                                               de l’Inspection du Travail
+                                                                      et des Mines
+
+
+
+
+page 8 de 16 pages                                                                 ITM-SST 1809.1
+                                                                                               ANNEXE I
+
+
+
+             Auszug aus der ersten Verordnung zum deutschen Sprenstoffgestz
+
+                     (Bundesgesetzblatt, Jahrgang 1991, Teil 1, Seite 196 und folgende)
+
+
+
+
+      4. Pyrotechnische Gegenstände, deren Sätze und Zündmittel für pyrotechnische
+                              Gegenstände und deren Sätze
+
+4.1     Pyrotechnische Gegenstände
+
+144 – Pyrotechnische Gegenstände müssen so beschaffen                              sein,     daß   sie     bei
+bestimmungsgemäßer Verwendung handhabungssicher sind.
+
+145 – Pyrotechnische Gegenstände müssen so widerstandsfähig sein oder durch die
+Ursprungsverpackung des Herstellers so geschützt sein, daß durch Beanspruchungen, denen
+sie üblicherweise beim Umgang und Verkehr ausgesetzt sind, ihre Handhabungssicherheit
+nicht beeinträchtigt wird.
+
+146 – Die Art der Zündung eines pyrotechnischen Gegenstandes muß deutlich erkennbar oder
+aus der Beschriftung ersichtlich sein. Die Zündstelle muß deutlich sichtbar sein.
+
+147 – Pyrotechnische Gegenstände müssen gegen unbeabsichtigte Zündung durch
+Schutzkappen oder gleichwertige Vorrichtungen, durch die Art und Form der Verpackung
+oder durch die Konstruktion des Gegenstandes gesichert sein.
+
+Diese Forderung gilt als erfüllt, wenn die Gegenstände in ungeöffneter kleinster
+Ursprungsverpackung des Herstellers (kleinste Verpackungseinheit) vertrieben werden.
+
+148 – Pyrotechnische Gegenstände müssen so beschaffen sein, daß sie nicht höher als 100 m
+steigen.
+
+149 – Pyrotechnische Gegenstände dürfen bei bestimmungsgemäßer Verwendung keine
+gefährlichen Splitter bilden.
+
+4.2     Pyrotechnische Sätze
+
+150 – Die Sätze pyrotechnischer Gegenstände dürfen nicht selbstentzündlich sein.
+
+151 – Eine vierwöchige Lagerung bei 50° C darf an den Sätzen eines pyrotechnischen
+Gegenstandes und am Gegenstand keine Veränderung hervorrufen, die eine
+Gefahrenerhöhung bedeutet. Enthält ein pyrotechnischer Gegenstand verschiedene Sätze, so
+dürfen die Bestandteile dieser Sätze nicht in Reaktion untereinander treten können, die zur
+Selbstentzündung führt oder eine Gefahrenerhöhung hervorruft.
+
+
+
+
+page 9 de 16 pages                                                                        ITM-SST 1809.1
+152 – In pyrotechnischen Sätzen dürfen nicht enthalten sein :
+
+          1. Ammoniumsalze und Amine zusammen mit Chloraten,
+          2. Metalle, Antimonsulfide oder Kaliumhexacyanoferrat (II) zusammen mit
+             Chloraten.
+
+Enthält ein pyrotechnischer Gegenstand mehrere zulässige Sätze, so sind diese so anzuordnen,
+daß keine Mischungen der vorstehend genannten Art entstehen können.
+
+
+153 – In Sätzen, die Chloraten enthalten, darf der Anteil an Chloraten 70 v.H. nicht
+übersteigen. In Leuchsätzen auf Bariumchlorat-Grundlage, in Pfeifsätzen sowie in Sätzen für
+Knallkorken, Zündblättchen und –bänder (Amorces) darf der Chloranteil bis auf 80 v.H. des
+Satzgewichtes erhöht werden.
+
+4.3     Besondere Anforderungen an die einzelnen Klassen
+
+4.3.1 Klasse 1: Kleinstfeuerwerk
+
+154 - Das Gesamtgewicht der Sätze (Anfeuerung und Effektsätze) des einzelnen
+pyrotechnischen Gegenstandes darf nicht mehr als 3 g betragen. Bei Amorces darf der
+Knallsatz keine Bleiverbindungen enthalten. Die pyrotechnischen Gegenstände dürfen keinen
+Eigenantrieb besitzen, der mit offener Flamme gezündet werden muß.
+
+155 - In einem pyrotechnischen Gegenstand, ausgenommen in Amorces und Tretknallern,
+darf an Knallsatz nur maximal 0,5 g Nitrocellulose in Form von Kollodiumwolle (-watte) mit
+einem Stickstoffgehalt von maximal 12,6% oder maximal 2,5 mg Silberfulminat enthalten
+sein.
+
+156 - In Amorces und Tretknallern können auch chlorat- oder perchlorathaltige Knallsätze
+enthalten sein. Die Knallsatzmenge darf nicht größer sein als 7,5 mg je Amorces oder
+Tretknaller. Silberfulminat und ähnliche Stoffe sind nicht zulässig.
+
+157 - Bei Plastikamorces muß der Knallsatz in Näpfchen aus geeignetem Kunststoff
+untergebracht und abgedeckt sein.
+
+158 – Anzünd- oder anreibbare pyrotechnische Gegenstände mit Knall- oder
+Bewegungswirkung müssen in der Regel eine Zeitzündung mit einer Brenndauer von
+mindestens 3 und höchstens 6 Sekunden haben.
+
+159 - Pyrotechnische Gegenstände mit Pfeifsatz, Party-Knaller und Raketen sind in dieser
+Klasse nicht zulässig. Bei pyrotechnischen Gegenständen mit Knallwirkung darf in 8 m
+Entfernung eine Lautstärke von 115 dB (A) nicht überschritten werden.
+
+4.3.2 Klasse II: Kleinfeuerwerk
+
+160 - Die Gesamtmenge aller Sätze eines pyrotechnischen Gegenstandes, ausgenommen
+Raketen und Party-Knaller, darf nicht mehr als 50 g, bei verdichtetem Bengalpulver nicht
+mehr als 2 500 g betragen.
+
+
+
+
+page 10 de 16 pages                                                       ITM-SST 1809.1
+161 - Bei Raketen darf die Gesamtmenge der Sätze nicht mehr als 20 g und davon der Anteil
+an Effektsätzen nicht mehr als 10 g betragen.
+
+162 - In einem pyrotechnischen Gegenstand, ausgenommen Party-Knaller, darf der Knallsatz
+nur Schwarzpulver enthalten; die Satzmenge darf 10 g nicht überschreiten. Party-Knaller
+dürfen als Satz nur chlorat- oder perchlorathaltigen Knallsatz in einer Menge von nicht mehr
+als 10 mg enthalten.
+
+163 - Bei Knallkörpern, ausgenommen umwickelte kubische Knallkörper, darf die
+Wandstärke der Satzumhüllung nicht mehr als 3,5 mm betragen.
+
+Dies gilt nicht, wenn die Satzumhüllung ohne Verwendung von Klebstoffen und Bindemitteln
+aus Papier mit einer flächenbezogenen Masse von maximal 150 g/m2 hergestellt ist und die
+Prüfung ergibt, daß keine gefährlicheren Wirkungen als bei der Verwendung einer
+SatzumhüIlung aus verleimtem Papier mit 3,5 mm Wandstärke eintreten oder die
+Satzumhüllung aus Kunststoff besteht und die Prüfung ergibt, daß keine gefährlicheren
+Wirkungen als bei der Verwendung einer Satzumhüllung aus verleimtem Papier mit 3,5 mm
+Wandstärke eintreten.
+
+164 - Umwickelte kubische Knallkörper dürfen neben einer maximal 2 mm starken
+Satzumhüllung aus Pappe nicht mehr als 3 Umwicklungen (2 Lagen je Fläche) mit einer
+geleimten Hanf- oder Papierschnur von 2 mm Durchmesser haben.
+
+165 – Anzünd- und anreibbare pyrotechnische Gegenstände müssen eine Zeitzündung mit
+einer Brenndauer von mindestens 3 und höchstens 6 Sekunden haben.
+
+Dies gilt nicht für Gegenstände, für die keine Verzögerung erforderlich ist.
+
+166 - Raketen, Feuertöpfe, Feuerwerksbomben, Feuerwerksröhren und Handröhren müssen
+die in ihnen enthaltenen Gegenstände mit pyrotechnischen Effekten so hoch ausstoßen, daß
+deren Rückstände nicht brennend auf die Erde fallen.
+
+167 - Schwärmer dürfen nicht höher als 1 m steigen.
+
+168 - Doppelschläge müssen so beschaffen sein, daß sie nur gerichtet fliegen können.
+
+169 - Für Gegenstände mit Knallwirkung gilt der Absatz 149 mit der Maßgabe, daß Splitter
+und Bauteile nicht weiter als 8 m - vom Ort der Zerlegung gemessen - fortgeschleudert
+werden dürfen.
+
+Bei pyrotechnischen Gegenständen mit Knallwirkung dürfen keine brennenden oder
+glimmenden Splitter entstehen. Bei pyrotechnischen Gegenständen mit Knallwirkung darf in
+8 m Entfernung eine Lautstärke von 115 dB (A) nicht überschritten werden.
+
+4.3.3. Klasse III: Mittelfeuerwerk
+
+170 - Die Menge der pyrotechnischen Sätze eines nicht aus mehreren Einzelheiten
+zusammengesetzten Gegenstandes, ausgenommen Raketen, darf nicht mehr als 250 g
+betragen; bei Raketen darf die Gesamtmenge der pyrotechnischen Sätze nicht mehr als 75 g
+betragen. Einzelteile sind Bauteile, die für sich funktionsfähige pyrotechnische Gegenstände
+sind.
+
+
+
+page 11 de 16 pages                                                            ITM-SST 1809.1
+171 - Werden mehrere Einzelteile zu einem Gegenstand der Klasse III zusammengesetzt, so
+darf die Gesamtmenge der pyrotechnischen Sätze des zusammengesetzten Gegenstandes,
+ausgenommen bei Wasserfällen, nicht mehr als 800 g betragen; bei Wasserfällen darf die
+Satzmenge bis zu 1.200 g betragen.
+
+172 - In einem zusammengesetzten Gegenstand dürfen, mit Ausnahme bei Lichterbildern,
+nicht mehr als 12 Einzelteile vereinigt sein. Lichter und Lanzen werden hierbei nicht
+mitgerechnet. Lichterbilder sind Gegenstände, bei denen als Einzelteile ausschließlich Lichter
+und Lanzen verwendet werden.
+
+173 - In einem pyrotechnischen Gegenstand darf an Knallsatz nicht mehr ais 100 g
+Schwarzpulver oder 50 g eines anderen Nitratgemisches enthalten sein.
+
+174 - In einem Einzelteil eines aus mehreren Einzelteilen zusammengesetzten Gegenstandes
+darf an Knallsatz nicht mehr als 15 g Schwarzpulver oder 6 g Nitratknallsatz enthalten sein.
+
+175 - In einer Rakete darf an Knallsatz nicht mehr als 40 g Schwarzpulver oder 20 g
+Nitratknallsatz enthalten sein.
+
+176 - Blitzknallbomben dürfen außer dem Treibsatz höchstens 50 g eines Nitrat-Schwefel-
+Aluminium-Gemisches enthalten.
+
+177 - Sind in einem Gegenstand verschiedene Knallsätze enthalten, so darf die Gesamtmenge
+dieser Sätze nicht größer sein als 50 g.
+
+178 - Für Gegenstände mit Knallwirkung - ausgenommen Raketen - gilt der Absatz 149 mit
+der Maßgabe, daß Splitter und Bauteile nicht weiter als 8 m - vom Ort der Zerlegung
+gemessen - fortgeschleudert werden dürfen.
+
+179 - Pyrotechnische Gegenstände müssen eine Zeitzündung mit einer Brenndauer von
+mindestens 3 und höchstens 6 Sekunden haben. Dies gilt nicht für Gegenstände, für die eine
+Zeitzündung nicht erforderlich ist.
+
+180 – Für Raketen, Feuertöpfe, Feuerwerksbomben und Feuerwerksröhren gilt Absatz 166
+entsprechend.
+
+181 - Für die Beschaffenheit von Doppelschlägen gilt Absatz 168 entsprechend.
+
+4.3.4. Klasse T: Pyrotechnische Gegenstände für technische Zwecke
+
+182 - Für die Beschaffenheit der Gegenstände dieser Klasse gelten die Bestimmungen der
+Absätze 150, 151 und 152.
+
+183 - In Knallsätzen sind Schwarzpulver, andere Nitratgemische, Nitrocellulose mit einem
+Stickstoffgehalt von maximal 12,6% und Perchloratgemische zulässig.
+
+184 - Absatz 152 gilt mit der Maßgabe, daß die Verwendung von Ammoniumsalzen und
+Aminen zusammen mit Chloraten in raucherzeugenden Gemischen zulässig ist, wenn die
+Zusammensetzung des pyrotechnischen Satzes eine hinreichende Beständigkeit gewährleistet.
+
+
+
+
+page 12 de 16 pages                                                         ITM-SST 1809.1
+185 - Für pyrotechnische Gegenstände der Klasse T2 gelten nicht die Absätze 148 und 149,
+für Gegenstände der Unterklasse Tl, die als Antrieb für Flug- und Raketenmodelle bestimmt
+sind, gilt Absatz 148 nicht.
+
+186 - Die Gegenstände der Klasse T sind der Unterklasse Tl zuzuordnen, wenn sie den
+folgenden Anforderungen entsprechen:
+
+a) Rauch- oder nebelerzeugende Gegenstände dürfen
+
+    1. nicht mehr als 1 kg Satz enthalten,
+    2. keine Rauch- oder Nebelsätze enthalten, deren Abbrennzeit im gebrauchsfertigen
+       Zustand weniger als 60 s für 0,1 kg beträgt,
+    3. bei einer unbeabsichtigten Explosion nicht in scharfkantige oder schwere Wurfstücke
+       zerlegt werden.
+
+b) Pyrotechnische Lichter und Fackeln, die als Signalmittel oder zur Beleuchtung dienen,
+dürfen
+
+    1. nicht mehr als 0,5 kg Satz enthalten,
+    2. keine Leuchtsätze enthalten, deren Abbrennzeit im gebrauchsfertigen Zustand weniger
+       als 60 s für 0,1 kg beträgt,
+    3. bei einer unbeabsichtigten Explosion nicht in scharfkantige oder schwere Wurfstücke
+       zerlegt werden.
+
+c) Gegenstände mit Schallwirkung dürfen
+
+    1. als Knallsatz nicht mehr als 10 g Schwarzpulver oder 0,8 g eines Kaliumperchlorat-
+       Aluminium-Knallsatzes enthalten,
+    2. bei einer Explosion nicht in scharfkantige oder schwere Wurfstücke zerlegt werden.
+
+d) Reiz-, Schädlingsbekämpfungs- und Pflanzenschutzmittel dürfen
+
+    1. keinen Knallsatz und nicht mehr als 1 kg des Wirksatzes enthalten,
+    2. keine Wirksätze enthalten, deren Abbrennzeit im gebrauchsfertigen Zustand weniger
+       als 60 s für 0,1 kg beträgt,
+    3. bei einer unbeabsichtigten Explosion nicht in scharfkantige oder schwere Wurfstücke
+       zerlegt werden.
+
+e) Raketen dürfen nicht mehr als 20 g Treibsatz enthalten.
+
+f) Gegenstände mit Heizwirkung oder Gegenstände, die zum Anzünden dienen, dürfen nicht
+mehr als 10 g Satz enthalten und durch Brand oder Schlag nicht zur Explosion gebracht
+werden können.
+
+187 - Knallkorken sind Gegenstände der Unterklasse Tl. Für sie gelten folgende
+Anforderungen:
+
+    1. Die Körper dürfen nur aus Naturkork oder aus von der Zulassungsbehörde
+       anerkannten korkähnlichen Massen bestehen.
+
+
+
+
+page 13 de 16 pages                                                      ITM-SST 1809.1
+    2. Die Körper müssen 15 mm ± 1 mm hoch sein, am Boden einen Durchmesser von 16
+       mm, an der oberen Fläche einen Durchmesser von 14 mm sowie eine zentrisch
+       angeordnete zylindrische Vertiefung von 7,5 mm ± 1 mm und von 7 mm Durchmesser
+       zur Aufnahme eines Pappnäpfchens haben.
+    3. Das zur Aufnahme des Knallsatzes bestimmte Pappnäpfchen muß in den Hohlraum
+       des Körpers so eingesetzt sein, daß es weder herausfallen noch sich lockern kann.
+    4. Der Knallsatz darf nur aus Kaliumchlorat, Phosphor, Kreide und einem Bindemittel
+       bestehen. Er muß neutral reagieren und so eingebracht sein, daß er nicht abbröckelt.
+       Seine Zusammensetzung muß beim Abschuß die Zerlegung des Körpers
+       gewährleisten.
+    5. Ein Knallkorken darf höchstens 0,06 g und muß mindestens 0,04 g Knallsatz
+       enthalten.
+    6. Der Hohlraum, in dem sich der Knallsatz befindet, muß mit einem Deckblättchen aus
+       widerstandsfähigem Papier verschlossen sein.
+
+188 - Liegen bei einzelnen Gegenständen die Merkmale des Absatzes 186 (sowie des
+Absatzes 189 Satz 1) nicht vor, so sind die Gegenstände unter Berücksichtigung der
+Gefährlichkeitsmerkmale der Unterklassen Tl und T2 in eine dieser Unterklassen
+einzuordnen.
+
+189 - Signalmittel der Klasse T mit Antrieb durch eine Ausstoßladung sind in jedem Fall
+Gegenstände der Unterklasse T2. Das gleiche gilt für pyrotechnische Munition für technische
+Zwecke, die zur Verwendung in Geräten zum einmaligen Abschießen bestimmt sind.
+
+190 - Pyrotechnische Druckgasgeneratoren dürfen durch Brand oder Schlag nicht zur
+Explosion gebracht werden können.
+
+190.1 - Bühnenfeuerwerk ist der Unterklasse Tl zuzuordnen, wenn es dem Absatz 186 und
+folgenden Anforderungen entspricht:
+
+c) Gegenstände mit Schallwirkung dürfen
+
+    1. als Knallsatz nicht mehr als 10 g Schwarzpulver oder 0,8 g eines Kaliumperchlorat-
+       Aluminium-Knallsatzes enthalten,
+    2. bei einer Explosion nicht in scharfkantige oder schwere Wurfstücke zerlegt werden.
+
+a) Nebel- und Rauchmittel dürfen
+
+    1. keine hochgiftigen oder stark ätzenden Stoffe entwickeln,
+    2. beim Abbrand keine zusätzlichen Gefahren durch Glut, Hitze, Funken oder Feuer
+       verursachen,
+    3. rußbildende Stoffe nicht enthalten,
+    4. nur an einem festen Standort abgebrannt werden.
+
+b) Leuchtmittel dürfen
+
+    1. von den Anforderungen des Absatzes 190.1.a. Nummer 1 bis 3 nicht abweichen,
+    2. keine gefährlichen Funken oder abtropfende.Schlacke bilden, wenn sie in der Hand
+       gehalten werden,
+
+
+
+
+page 14 de 16 pages                                                      ITM-SST 1809.1
+    3. nur in der Hand gehalten werden, wenn durch Handgriffe eine gefahrlose Handhabung
+       gewährleistet ist.
+
+c) Funkensprühende Mittel dürfen
+
+    1. bei einer unbeabsichtigten Explosion keine gefährlichen Splitter bilden,
+    2. eine Sprühweite von nicht mehr als 5 m und eine Brenndauer von nicht mehr als 20 s
+       besitzen,
+    3. einen pyrotechnischen Satz von nicht mehr ais 50 g enthalten,
+    4. keine Gemische aus Bariumnitrat, Schwefel und Aluminium enthalten,
+    5. keine Verbrennungsprodukte oder Funken entwickeln, die außerhalb des Umkreises
+       der Sprühweite leicht entflammbare Materialien entzünden können.
+
+d) Nitrocellulose (max. 12,6%. N), insbesondere verarbeitet als Wolle (Watte), Papier,
+Schnüre, darf
+
+    1. bei der Aufbewahrung nicht weniger als 25% Feuchte enthalten,
+    2. bis zu 50 g, bezogen auf die Trockensubstanz, in eine Ursprungsverpackung gepackt
+       sein.
+
+e) Mittel mit akustischer Wirkung dürfen
+
+    1. bei anzündbaren Gegenständen nur eine Zündverzögerung besitzen, die max. 1 s vom
+       Mittelwert abweicht,
+    2. von den Anforderungen des Absatzes 169 nicht abweichen.
+
+f) Blitzeffekte dürfen
+
+    1.   keine Umhüllung besitzen, die den Anforderungen des Absatzes 149 widerspricht,
+    2.   nur elektrisch gezündet werden,
+    3.   durch Funken keine Brandgefahr verursachen,
+    4.   nicht mehr als 15 g Satz enthalten.
+
+g) Anderes Bühnenfeuerwerk darf in seiner Wirkung nicht gefährlicher sein als die anderen
+Gegenstände des Absatzes 190.1.
+
+h) Gegenstände des Bühnenfeuerwerks, die gefährlicher sind als Gegenstände des
+Bühnenfeuerwerks der Unterklasse Tl, sind der Unterklasse T2 zuzuordnen.
+
+
+
+
+page 15 de 16 pages                                                       ITM-SST 1809.1
+                                                                                      ANNEXE II
+
+
+
+
+      Registre suivant point 5.4. de la présente prescription.
+
+      Entrée en dépôt :
+
+Fournisseur                   No.fact.   Quantité             Classe Date entrée Signature
+Adresse                                  (poids brut./nombre) (*)
+
+
+
+
+(*)Utilisez une ligne par classe d’articles pyrotechniques
+
+
+
+      Sortie :
+
+Noms                        Adresse         Formation        Classe Quantité    Date de réception et
+(Nom/prénom(s))             (localité/pays) (organisme/pays) (*)    Nombre (kg) signature de l’acquérant
+
+
+
+
+(*)Utilisez une ligne par classe d’articles pyrotechniques
+
+
+
+
+      page 16 de 16 pages                                                        ITM-SST 1809.1
+

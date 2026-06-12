@@ -1,0 +1,1843 @@
+GRAND-DUCHE DE LUXEMBOURG                                                                         Strassen, le juillet 2012
+
+
+
+
+                                                                                                  ITM-SST 1900.1
+                                                                                                  ancien N° ITM-CL 37.1
+
+
+
+
+                                   PRODUITS DANGEREUX
+
+                                         Prescriptions de sécurité types
+
+                              Les présentes prescriptions comportent 32 pages
+
+
+
+                                                            Sommaire
+
+    Article                                                                                                                            Page
+
+
+     1.       Objectif et domaine d'application                                                                                              2
+     2.       Prescriptions générales                                                                                                        2
+     3.       Définitions                                                                                                                    3
+     4.       Obligations des employeurs                                                                                                     4
+     5.       Obligations des salariés                                                                                                       5
+     6.       Coopération                                                                                                                    6
+     7.       Classification, étiquetage et emballage                                                                                        6
+     8.       Fiches de données de sécurité                                                                                                  7
+     9.       Mesures de contrôle opérationnel                                                                                              11
+    10.       Conception et installation                                                                                                    18
+    11.       Systèmes et pratiques de travail                                                                                              22
+    12.       Protection individuelle                                                                                                       23
+    13.       Information et formation                                                                                                      26
+    14.       Surveillance des mesures de prévention technique                                                                              26
+    15.       Surveillance du milieu de travail                                                                                             27
+    16.       Procédures d'urgence et premiers secours                                                                                      29
+    17.       Enquêtes et rapports sur les accidents professionnels et les autres incidents                                                 32
+
+
+
+
+    ____________________________________________________________________________________________________________________________
+          Division Procédés chimiques     Bureaux: 3, rue des Primeurs             Boîte postale 27      Tél. : 247-86145     Fax. 491447
+                                          L-2361 Strassen                          L-.2010 Luxembourg
+                                                        Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. La présente prescription de sécurité et de santé type a pour objet de protéger les
+salariés contre les dangers des produits chimiques et de prévenir les maladies et lésions
+professionnelles imputables à l'utilisation de ces produits au travail, ou d'en réduire
+l'incidence et, par conséquent, de renforcer la protection du public en présentant des
+prescriptions visant:
+
+a) à s'assurer que tous les produits chimiques utilisés au travail, y compris les impuretés, les
+sous-produits intermédiaires et les déchets qui peuvent se former, font l'objet d'une
+évaluation pour déterminer les dangers qu'ils présentent;
+
+b) à faire en sorte que les employeurs aient à leur disposition un système propre à leur
+permettre d'obtenir des fournisseurs des informations sur les produits chimiques utilisés au
+travail afin qu'ils puissent mettre en place des programmes efficaces de protection des
+salariés contre les dangers liés aux produits chimiques;
+
+c) à fournir aux salariés des informations au sujet des produits chimiques utilisés sur leur lieu
+de travail et des mesures préventives appropriées afin qu'ils puissent participer efficacement
+aux programmes de sécurité;
+
+d) à établir les principes de tels programmes afin d'assurer la sécurité dans l'utilisation des
+produits chimiques.
+
+Art. 2 - Prescriptions générales
+
+2.1. L'exploitant et les salariés doivent se conformer au Code du Travail, Livre III -Protection,
+sécurité et santé des salariés, Titre premier - Sécurité au travail et les arrêtés et règlements
+grand-ducaux pris en exécution de ce code dont notamment:
+
+- le règlement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales de
+sécurité et de santé pour les lieux de travail;
+
+- le règlement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales de
+sécurité et de santé pour l'utilisation par les travailleurs au travail d'équipements de
+protection individuelle;
+
+- le règlement grand-ducal du 30 juillet 2002 concernant la protection des travailleurs contre
+les risques liés à l'exposition à des agents cancérigènes ou mutagènes au travail ;
+
+-le règlement grand-ducal du 28 mars 1995 concernant les prescriptions minimales pour la
+signalisation de sécurité et/ou de santé au travail.
+
+2.2. L'exploitant doit se conformer au Code du Travail, Livre III- Protection, sécurité et santé
+des salariés, Titre II- Services de santé au travail et les règlements grand-ducaux pris en
+exécution de ce code.
+
+2.3. Il y a lieu d'observer en outre les recommandations afférentes de prévention contre les
+accidents édictées par l'Association d'Assurance contre les Accidents.
+
+2.4. L'exploitant doit le cas échéant respecter les modalités :
+
+    -   le Code du Travail, Livre III - Protection, sécurité et santé des salariés, Titre III -
+        Emploi de personnes enceintes, accouchées et allaitantes;
+    -   le Code du Travail, Livre III - Protection, sécurité et santé des salariés, Titre premier
+        IV - Emploi de jeunes travailleurs;
+
+
+
+
+Page 2 de 32 pages                                                                ITM-SST 1900.1
+2.5. En ce qui concerne le travail, la manipulation, la classification, l'étiquetage et l'emballage
+de substances pouvant mettre en danger la santé des salariés, il y a lieu de se conformer:
+
+    -   à la loi du 22 juillet 1982 concernant la protection sanitaire des travailleurs exposés
+        au chlorure de vinyle monomère;
+
+    -   le règlement grand-ducal modifié du 30 juillet 2002 concernant la protection de la
+        santé et de la sécurité des travailleurs contre les risques liés à des agents chimiques
+        sur le lieu de travail.
+
+    -   la loi du 16 décembre 2011 a) relative aux contrôles et aux sanctions concernant
+        l'enregistrement, l'évaluation et l'autorisation des substances chimiques et les
+        restrictions y applicables, telles que ces substances sont visées par le règlement
+        (CE) no 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006
+        concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques,
+        ainsi que les restrictions applicables à ces substances (REACH), instituant une
+        agence européenne des produits chimiques, modifiant la directive 1999/45/CE et
+        abrogeant le règlement (CEE) no 793/93 du Conseil et le règlement (CE) no 1488/94
+        de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives
+        91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission; b) relative aux
+        contrôles et aux sanctions concernant la classification, l'étiquetage et l'emballage des
+        substances et des mélanges, tels que ces substances et mélanges sont visés par le
+        règlement (CE) no 1272/2008 du Parlement européen et du Conseil du 16 décembre
+        2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des
+        mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et
+        modifiant le règlement (CE) no 1907/2006; c) abrogeant la loi modifiée du 15 juin
+        1994 relative à la classification, l'emballage et l'étiquetage des substances
+        dangereuses; d) abrogeant la loi modifiée du 3 août 2005 relative à la classification, à
+        l'emballage et à l'étiquetage des préparations dangereuses.
+
+    -   le règlement (CE) N°1272/2008 du Parlement européen et du Conseil du 16
+        décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des
+        substances et des mélanges chimiques (CLP)
+
+    -   le règlement grand-ducal modifié du 15 juillet 1988 concernant la protection des
+        travailleurs contre les risques liés à une exposition à l'amiante pendant le travail.
+
+Art. 3 - Définitions
+
+Dans les présentes prescriptions:
+
+L'expression produits chimiques s'applique aux éléments et composés chimiques et à leurs
+mélanges, qu'ils soient naturels ou synthétiques.
+
+L'expression produits chimiques dangereux comprend tout produit chimique ayant été classé
+comme dangereux conformément aux lois et règlements énumérés à l'article 2 ci-dessus ou
+au sujet duquel il existe des informations pertinentes indiquant que ce produit est dangereux.
+
+L'expression utilisation des produits chimiques au travail s'applique à toute activité
+professionnelle qui pourrait exposer un salarié à un produit chimique, y compris: a) la
+production de produits chimiques; b) la manipulation de produits chimiques; c) le stockage
+de produits chimiques; d) l'élimination et le traitement de déchets de produits chimiques; e)
+l'émission de produits chimiques résultant d'activités professionnelles; f) l'entretien, la
+réparation et le nettoyage de matériel et de récipients utilisés pour des produits chimiques.
+
+
+
+
+Page 3 de 32 pages                                                                 ITM-SST 1900.1
+Sous la dénomination «organisme de contrôle» sont à comprendre les organismes figurant à
+l'arrêté du Ministre du Travail et de l'Emploi le plus récent en date concernant l'intervention
+d'organismes de contrôle dans des domaines précis afférents aux présentes prescriptions.
+
+Art. 4 - Obligations des employeurs
+
+4.1. L'employeur doit consigner par écrit la politique et les dispositions en matière de sécurité
+dans l'utilisation des produits chimiques qu'il a adopté dans le cadre de sa politique et de ses
+mesures générales concernant la sécurité et la santé des salariés.
+
+Ces informations doivent être portées à la connaissance des salariés dans une langue qu'ils
+puissent comprendre aisément.
+
+4.2. L'employeur doit veiller à ce que tous les produits chimiques utilisés au travail soient
+étiquetés ou marqués conformément aux dispositions des lois et règlements applicables en
+ces domaines et à ce que des fiches de données de sécurité soient fournies pour tous les
+produits chimiques dangereux utilisés au travail. Il doit aussi faire en sorte que les fiches de
+données de sécurité remises par le fournisseur ou des informations pertinentes du même
+genre en l'absence de telles fiches, soient mises à la disposition des salariés et de leurs
+représentants.
+
+4.3. Les employeurs qui reçoivent des produits chimiques:
+
+a) non étiquetés ou non marqués, ou
+b) non accompagnés de fiches de données de sécurité,
+
+ne doivent pas utiliser ces produits avant d'avoir obtenu les informations pertinentes auprès
+du fournisseur ou de toute autre source raisonnablement accessible et de les avoir mises à
+la disposition des salariés et de leurs représentants. Les produits chimiques doivent être
+étiquetés avant leur utilisation. Lorsque cela est réalisable, des produits sans danger ou peu
+dangereux doivent être utilisés au lieu des produits dangereux.
+
+4.4. L'employeur doit tenir un fichier des produits dangereux utilisés sur les lieux de travail,
+renvoyant aux fiches de données de sécurité appropriées. Tous les salariés de l'entreprise
+susceptibles d'être affectés par l'utilisation de ces produits, et leurs représentants, doivent
+avoir accès à ce fichier.
+
+4.5. L'employeur doit procéder à l'évaluation des risques dus à l'utilisation des produits
+chimiques au travail en tenant compte des informations communiquées par le fournisseur ou,
+s'il n'y a pas eu accès, d'informations provenant d'autres sources raisonnablement
+accessibles, et doivent assurer la protection des salariés par l'application de mesures
+préventives appropriées.
+
+4.6. L'employeur doit prendre des mesures appropriées pour protéger les salariés contres les
+dangers mis en évidence par l'évaluation des risques. Lorsque les risques sont impossibles à
+écarter ou à maîtriser de manière adéquate, l'employeur doit distribuer et entretenir, sans
+frais pour les salariés, un équipement et des vêtements de protection individuelle appropriés
+et doit appliquer des mesures pour veiller à ce que ces équipements soient utilisés.
+
+4.7. L'employeur doit exercer une surveillance adéquate et compétente du travail et des
+pratiques de travail, ainsi que de l'application des mesures de prévention qui ont été prises.
+
+
+
+
+Page 4 de 32 pages                                                                ITM-SST 1900.1
+4.8. L'employeur doit prendre des dispositions adéquates pour faire face aux incidents et aux
+accidents impliquant des produits chimiques, par exemple les cas d'exposition accidentelle,
+d'émission ou de fuite intempestive, d'incendie ou d'explosion. Ces dispositions doivent être
+conçues en fonction des risques identifiés et prévoir, s'il y a lieu, la fourniture de matériel de
+lutte contre le feu et d'avertisseurs d'incendie ainsi que l'adoption de mesures pour contenir
+les émissions. Si le risque identifié le justifie, les dispositions à prendre en cas d'urgence
+doivent comprendre l'évacuation du lieu de travail et de la localité.
+
+4.9. L'employeur doit donner périodiquement à son personnel - et, au besoin, aux
+représentants des salariés - les instructions et la formation nécessaires et appropriées, en
+tenant compte des fonctions et des capacités des différentes catégories de salariés.
+
+4.10. Les salariés concernés et leurs représentants doivent obtenir:
+
+    a) des informations sur l'identification des produits chimiques utilisés au travail, les
+       propriétés dangereuses de ces produits et les mesures de précaution à prendre;
+
+    b) l'information et les marquages figurant sur les étiquettes ;
+
+    c) les fiches de données de sécurité;
+
+    d) des informations sur la classification et l'étiquetage des produits chimiques, et sur les
+       fiches de données de sécurité;
+
+    e) des informations sur les risques qui peuvent résulter de l'utilisation des produits
+       chimiques dangereux au travail;
+
+    f) des instructions écrites ou orales fondées sur les fiches de données de sécurité et, si
+       cela est approprié, spécifiques au lieu de travail;
+
+    g) une formation et, si nécessaire, un recyclage aux méthodes disponibles de
+       prévention et de contrôle de ces risques ainsi qu'aux méthodes qui permettent de
+       s'en protéger, y compris des méthodes correctes de stockage, de transport et
+       d'élimination des déchets, ainsi que des mesures d'urgence et de premiers secours
+       sous une forme et dans des langues qu'ils puissent comprendre aisément.
+
+4.11. Lorsque la divulgation à un concurrent de l'identité spécifique d'un composant d'un
+mélange chimique est de nature à nuire aux activités de l'employeur, celui-ci peut protéger
+cette identité avec l'accord préalable de l'Inspection du Travail et des Mines.
+
+Art. 5 - Obligations des salariés
+
+5.1. Les salariés doivent prendre toutes les mesures raisonnables afin d'éliminer ou de
+réduire au minimum, pour eux-mêmes et pour autrui, les risques liés à l'utilisation de produits
+chimiques au travail.
+
+5.2. Les salariés doivent, dans toute la mesure du possible et conformément à la formation
+et aux instructions qu'ils ont reçues de leur employeur, prendre soin de leur propre santé, de
+leur propre sécurité ainsi que de la santé et de la sécurité des autres personnes susceptibles
+d'être affectées par leurs actes ou omissions au travail.
+
+5.3. Les salariés doivent utiliser correctement tous les moyens mis à leur disposition pour
+leur protection ou celle d'autrui.
+
+
+
+
+Page 5 de 32 pages                                                                 ITM-SST 1900.1
+5.4. Les salariés doivent signaler sans délai à leur supérieur toute situation susceptible à leur
+avis de présenter un risque et à laquelle ils ne sont pas en mesure de faire face
+convenablement eux-mêmes.
+
+5.5. Les salariés ont le droit:
+
+a) de signaler à leurs représentants, à leur employeur ou à l'autorité compétente les dangers
+potentiels liés à l'utilisation des produits chimiques au travail;
+
+b) de s'écarter du danger résultant de l'utilisation de produits chimiques lorsqu'ils ont des
+motifs raisonnables de croire qu'il existe un risque imminent et sérieux pour leur sécurité ou
+pour leur santé, auquel cas ils doivent le signaler sans délai à leur supérieur.
+
+5.6. En cas de grossesse ou d'allaitement, les travailleuses ont le droit d'être affectées à un
+autre travail ne comportant pas l'utilisation de produits chimiques dangereux pour la santé de
+l'enfant à naître ou du nourrisson, ou l'exposition à de tels produits, conformément à la
+législation en vigueur.
+
+Art. 6 - Coopération
+
+6.1. En s'acquittant des responsabilités qui leur incombent, les employeurs doivent coopérer
+aussi étroitement que possible avec les salariés ou leurs représentants en ce qui concerne la
+sécurité dans l'utilisation des produits chimiques au travail.
+
+6.2. Les salariés doivent coopérer aussi étroitement que possible avec leurs employeurs
+dans l'exécution des responsabilités qui incombent à ces derniers et doivent se conformer à
+toutes les procédures et pratiques relatives à la sécurité dans l'utilisation des produits
+chimiques au travail.
+
+Art. 7 - Classification, étiquetage et emballage
+
+7.1. Les produits dangereux doivent être classés, étiquetés et emballés conformément aux
+lois et règlements énumérés à l'article 2 ci-dessus.
+
+7.2. Les quantités restreintes d'un nouveau produit chimique requises aux fins de recherche
+et de développement peuvent être fabriquées et manipulées en laboratoire et en installation
+pilote, avant que tous les dangers de ce produit ne soient connus, conformément à la
+législation en vigueur. Toutes les informations que peut receler la littérature ou dont
+l'employeur a connaissance par l'expérience qu'il a acquise de produits chimiques et
+d'applications similaires doivent être pleinement prises en compte, et des mesures de
+protection adéquates doivent être appliquées, comme si le produit était dangereux.
+L'information concernant le danger réel du produit doit être communiquée aux salariés
+concernés aussitôt qu'elle est connue.
+
+7.3. Les critères de classification des produits chimiques doivent se fonder sur leurs dangers
+intrinsèques pour la santé et l'intégrité physique, notamment:
+
+    a) sur les propriétés toxiques, y compris les effets aigus et chroniques sur la santé
+       affectant quelque partie du corps que ce soit;
+    b) sur les caractéristiques chimiques ou physiques, y compris les propriétés
+       inflammables, explosives, comburantes et celles qui sont susceptibles d'entraîner des
+       réactions dangereuses;
+    c) sur les propriétés corrosives et irritantes;
+    d) sur les effets allergisants et sensibilisants;
+    e) sur les effets tératogènes et mutagènes;
+    f) sur les effets sur le système reproducteur.
+
+
+
+
+Page 6 de 32 pages                                                                ITM-SST 1900.1
+7.4. Lorsque les employeurs reçoivent des produits chimiques qui n'ont pas été étiquetés ou
+marqués, ils ne doivent pas les utiliser avant d'avoir obtenu les informations pertinentes
+auprès du fournisseur ou d'une autre source raisonnablement accessible.
+
+Avant toute utilisation il doit être procédé à l'étiquetage et au marquage conformément aux
+lois en vigueur.
+
+7.5. Les produits chimiques dangereux doivent être étiquetés, conformément à la législation
+de manière à fournir à leur sujet les informations essentielles et à signaler leur identité d'une
+façon qui soit facilement compréhensible pour les salariés appelés à les utiliser.
+
+L'étiquette sert à donner les renseignements essentiels:
+
+a) sur la classification du produit chimique;
+b) sur les dangers qui lui sont propres;
+c) sur les précautions à prendre.
+
+L'indication des concentrations des solutions, des isomères et des composants des produits
+de distillation du pétrole et des produits chimiques réactifs devrait être donnée lorsque cela
+influe sur les propriétés du produit chimique.
+
+7.6. Le marquage des déchets chimiques doit signaler qu'il s'agit de déchets.
+
+7.7. S'il s'agit de déchets, lorsqu'un étiquetage complet ne peut être effectué, les indications
+portées doivent comprendre le numéro de téléphone de toute personne en mesure de
+donner de plus amples informations sur la composition probable du déchet et sur les risques
+qu'il peut présenter.
+
+7.8. Lorsqu'ils sont connus, les composants dangereux d'un déchet doivent aussi être
+indiqués, pour autant que cela soit possible.
+
+Le récipient ou l'emballage doivent être étiquetés de manière appropriée.
+
+7.9. Tous les récipients et toutes les couches de l'emballage doivent être étiquetés. Les
+indications portées doivent être visibles à tout moment sur le récipient ou l'emballage à tous
+les stades de la livraison et de l'utilisation des produits chimiques.
+
+7.10. Les employeurs doivent s'assurer que, lorsque des produits chimiques sont transférés
+dans d'autres récipients ou appareillages, le contenu en est indiqué conformément aux lois
+et règlements en vigueur.
+
+7.11. Un certain nombre d'opérations, d'installations et d'appareillages (réacteurs ou
+colonnes de distillation, par exemple) peuvent comporter le traitement ou la manipulation de
+plusieurs produits chimiques différents. Lorsque le marquage ou l'étiquetage d'installations
+ou de matériels est impossible en raison de la variabilité des circonstances, les salariés
+doivent être informés de l'identification des produits chimiques, des dangers inhérents à leur
+utilisation et des précautions de sécurité à prendre. En outre, une formation en la matière
+doit leur être dispensée.
+
+Art. 8 - Fiches de données de sécurité
+
+8.1. Conformément à la législation relative aux fiches de données de sécurité, les
+fournisseurs doivent faire en sorte que soient établies et remises aux employeurs des fiches
+de données de sécurité pour les produits chimiques dangereux ainsi que toutes fiches
+révisées éventuelles.
+
+
+
+
+Page 7 de 32 pages                                                                ITM-SST 1900.1
+8.2. Les salariés et leurs représentants ont le droit de recevoir des fiches de données de
+sécurité et des informations à leur sujet sous des formes et dans des langues qu'ils
+comprennent aisément. Certaines des informations qui doivent figurer sur les fiches de
+données de sécurité peuvent s'adresser à des spécialistes, et des éclaircissements de la
+part de l'employeur peuvent être nécessaires.
+
+8.3. Sur base des informations figurant sur la fiche de données de sécurité, les employeurs
+doivent vérifier s'il existe des lois, normes ou pratiques nationales qui s'appliquent aux
+produits chimiques fournis et doivent s'assurer que les produits y sont conformes. Ils doivent
+ajouter aux informations communiquées par le fournisseur des renseignements importants
+pour leur entreprise.
+
+8.4. Les employeurs ne doivent utiliser aucun produit chimique dangereux aussi longtemps
+qu'ils n'ont pas obtenu les informations appropriées mentionnées au paragraphe 8.5.
+(informations figurant sur les fiches de données) et transmis ces informations aux salariés
+sous une forme et dans une langue qu'ils peuvent comprendre aisément.
+
+8.5. Les fiches de données de sécurité doivent fournir les renseignements suivants:
+
+a) identification du produit chimique et de la société/ l’entreprise
+
+Le nom doit être le même que celui qui est utilisé sur l'étiquette du produit chimique
+dangereux, lequel peut être le nom courant du produit ou une dénomination commerciale
+communément employée. D'autres dénominations peuvent être ajoutées si elles contribuent
+à l'identification.
+
+b) identification des dangers
+
+Les dangers les plus importants, y compris les dangers les plus graves pour la santé,
+l'intégrité physique et l'environnement, doivent être indiqués d'une façon claire et concise
+pour pouvoir être lus au premier coup d'œil en cas d'urgence. Ces informations doivent être
+compatibles avec les renseignements figurant sur l'étiquette.
+
+c) composition/information sur les composants
+
+Les informations doivent permettre aux employeurs d'identifier clairement les dangers
+associés à un produit chimique particulier de façon qu'ils puissent procéder à l'évaluation des
+risques.
+
+d) premiers secours
+
+Les mesures de premiers secours et d'auto-assistance doivent être soigneusement
+expliquées. Les situations dans lesquelles des soins médicaux immédiats s'imposent doivent
+être décrites avec l'indication des mesures à prendre.
+
+e) mesures de luttes contre l’incendie
+
+Les moyens indispensables de lutte contre un incendie impliquant un produit chimique
+doivent être indiqués, par exemple:
+
+i) les agents extincteurs appropriés,
+ii) les agents extincteurs qu'il ne faut pas utiliser pour des raisons de sécurité;
+iii) l'équipement spécial de protection individuelle pour ceux qui combattent l'incendie.
+
+f) mesures à prendre en cas de dégagements ou de dispersion accidentels
+
+
+
+
+Page 8 de 32 pages                                                                ITM-SST 1900.1
+Des renseignements doivent également être donnés en ce qui concerne les mesures à
+prendre en cas de fuite accidentelle du produit chimique et notamment:
+
+i) sur les précautions à prendre en matière de sécurité et de santé: l'élimination des sources
+d'inflammation, ventilation suffisante, fourniture d'un équipement approprié de protection
+individuelle;
+
+ii) sur les méthodes de sauvegarde et de nettoyage: utiliser des matériaux absorbants
+appropriés, empêcher la production de gaz ou de vapeurs due au contact de l'eau ou
+d'autres diluants, utiliser des agents neutralisants appropriés;
+
+g) manipulation et stockage
+
+Des informations doivent être fournies au sujet des conditions recommandées par le
+fournisseur pour la sécurité du stockage et des manipulations, par exemple:
+
+i) sur l'agencement et l'emplacement des locaux et récipients de stockage;
+
+ii) sur la nécessité de séparer ces opérations des lieux de travail et de bâtiments occupés;
+
+iii) sur les matériaux incompatibles;
+
+iv) sur les conditions du stockage, par exemple le degré de température et d'humidité, la
+protection contre le rayonnement solaire;
+
+v) sur les précautions contre les sources d'inflammation, y compris les aménagements
+propres à prévenir l'accumulation d'électricité statique;
+
+vi) sur la ventilation localisée et générale;
+
+vii) sur les méthodes de travail recommandées et celles qui sont déconseillées.
+
+h) contrôle de l'exposition et protection individuelle
+
+Des informations doivent être fournies sur la nécessité d'un équipement de protection
+individuelle lors de l'utilisation d'un produit chimique et sur le type d'équipement qui assure
+une protection adéquate et suffisante. Des renseignements doivent être fournis sur les
+pratiques propres à réduire au minimum l'exposition des salariés. Les paramètres
+spécifiques de surveillance tels que les limites d'exposition ou les limites biologiques doivent
+être indiqués, en même temps que les méthodes de surveillance recommandées.
+
+i) propriétés physiques et chimiques
+
+Une brève description de l'aspect du produit chimique - précisant s'il s'agit d'un solide, d'un
+liquide ou d'un gaz, sa couleur et son odeur - doit être donnée. Certaines caractéristiques et
+propriétés, lorsqu'elles sont connues, sont à préciser ainsi que la nature des tests permettant
+de les déterminer. Ces tests doivent être conformes à la législation et aux critères nationaux
+applicables au lieu de travail de l'employeur. En l'absence de législation ou de critères
+nationaux, les critères des tests du pays exportateur devraient servir de référence.
+L'abondance des informations fournies doit être adaptée à l'utilisation du produit chimique,
+par exemple:
+
+    -   la viscosité;
+    -   le point de congélation/la plage de congélation;
+    -   le point d'ébullition/la plage d'ébullition;
+    -   le point de fusion/la plage de fusion;
+    -   le point d'éclair;
+
+
+
+
+Page 9 de 32 pages                                                               ITM-SST 1900.1
+    -   la température d'inflammation spontanée;
+    -   les propriétés explosives;
+    -   les propriétés comburantes;
+    -   la tension de vapeur;
+    -   le poids moléculaire;
+    -   le poids ou la densité spécifique;
+    -   le pH;
+    -   la solubilité;
+    -   le coefficient de partage (eau/n-octane);
+    -   des paramètres tels que la densité de vapeur, la miscibilité, le taux d'évaporation et la
+        conductibilité.
+
+j) stabilité et réactivité
+
+Le risque de réactions dangereuses dans certaines conditions doit être signalé. Les
+conditions à proscrire doivent être indiquées, notamment:
+
+i) les conditions physiques, par exemple la température, la pression, la lumière, les chocs,
+l'humidité ou le contact avec l'air;
+
+ii) la proximité d'autres produits chimiques, par exemple des acides, des bases, des
+carburants ou toute autre substance spécifique susceptible de causer une réaction
+dangereuse.
+
+En cas d'émission de produits de décomposition dangereux, ceux-ci doivent être spécifiés
+avec l'indication des précautions nécessaires.
+
+k) informations toxicologiques
+
+Dans cette section doivent figurer des informations sur les voies possibles de pénétration.
+Elles feront état des effets aigus, immédiats ou tardifs, et des effets chroniques résultant
+d'une exposition de courte ou de longue durée.
+
+l) informations écologiques
+
+Les caractéristiques les plus importantes susceptibles d'avoir un effet sur le milieu naturel
+doivent être décrites.
+
+m) considérations relatives à l'élimination
+
+Des méthodes sûres d'élimination du produit chimique et des emballages contaminés, qui
+peuvent contenir des résidus de produits dangereux, doivent être indiquées. Il conviendrait
+de rappeler à l'employeur qu'il peut exister des législations ou des pratiques nationales en la
+matière.
+
+n) informations relatives au transport
+
+Des informations doivent être fournies sur les précautions spéciales que l'employeur devrait
+connaître ou prendre pour le transport du produit chimique dans ses locaux ou au dehors.
+
+o) informations relatives à la réglementation
+
+p) autres informations
+
+
+
+
+Page 10 de 32 pages                                                               ITM-SST 1900.1
+Toute autre information importante pour la santé et la sécurité des salariés doit être
+consignée. Des exemples en sont les conseils en matière de formation, les usages et les
+restrictions recommandés, les références, les sources de données de base pour l'élaboration
+de la fiche de données de sécurité, le point de contact auquel s'adresser pour des avis
+techniques, ainsi que la date de mise en circulation de la fiche de données.
+
+Art. 9 - Mesures de contrôle opérationnel
+
+9.1 Principes généraux
+
+9.1.1. Après avoir passé en revue les produits utilisés au travail, obtenu des renseignements
+sur leurs dangers et procédé à l'évaluation des risques qu'ils peuvent présenter, les
+employeurs doivent prendre des mesures pour limiter l'exposition des salariés à des produits
+chimiques dangereux, en se fondant sur les mesures présentées plus loin aux sections 9.3 à
+9.8 ci-après, afin de protéger les salariés contre les risques dus à l'utilisation des produits
+chimiques au travail. Les mesures prises doivent éliminer les risques ou les réduire au
+minimum, de préférence en remplaçant les produits dangereux par d'autres, sans danger ou
+moins dangereux, ou par le choix de la technologie; si cela se révèle impossible, les risques
+doivent être éliminés ou réduits au minimum à l'aide de mesures de prévention technique
+satisfaisantes. D'autres mesures telles que les systèmes et pratiques de travail sûrs, les
+équipements de protection individuelle, la fourniture d'informations et la formation contribuent
+à réduire encore les risques.
+
+Pour ce qui est des nouvelles activités impliquant l'utilisation de produits chimiques, les
+dangers doivent être identifiés et les risques évalués au stade le plus précoce de l'étude de
+l'activité nouvelle. Les dangers et les risques doivent être reconsidérés à chacun des stades
+ultérieurs de la mise au point d'un nouveau procédé.
+
+9.1.2. L'évaluation a pour objet de permettre aux employeurs de prendre une décision en
+connaissance de cause au sujet de la validité des mesures tendant à éliminer ou à réduire
+au minimum les risques liés aux produits chimiques. Les employeurs doivent montrer que
+tous les aspects de l'utilisation des produits chimiques ont été pris en considération lors de
+l'évaluation. Lorsqu'un employeur constate des risques qui peuvent ou doivent être éliminés
+ou réduits au minimum, il doit les éliminer ou les réduire au minimum dans les plus brefs
+délais et par les meilleurs moyens à sa disposition en adoptant les mesures dans l'ordre de
+préférence indiqué au paragraphe 9.1.1 ci-dessus.
+
+9.1.3. Au cas ou des produits chimiques sont utilisés ou stockés dans des quantités
+dépassant les limites figurant dans les annexes du règlement grand-ducal du 23 décembre
+2005 modifiant le règlement grand-ducal du 17 juillet 2000 concernant la maîtrise des
+dangers liés aux accidents majeurs impliquant des substances dangereuses., l'employeur
+doit immédiatement en informer l'Inspection du Travail et des Mines.
+
+9.2 Procédures d'évaluation
+
+9.2.1. L'évaluation doit être effectuée par les employeurs ou par des personnes agissant en
+leur nom qui possèdent les informations, l'instruction et la formation nécessaires, et qui sont
+compétentes pour s'en charger. Elle doit comprendre:
+
+a) l'évaluation des risques: elle consiste à déterminer quels produits chimiques sont utilisés
+et la nature de leurs dangers, c'est-à-dire à rechercher s'ils présentent le risque de l'une ou
+de plusieurs des éventualités suivantes:
+
+   i) maladie aiguë ou chronique due à la pénétration dans l'organisme par inhalation,
+   absorption percutanée ou ingestion;
+
+
+
+
+Page 11 de 32 pages                                                              ITM-SST 1900.1
+   ii) lésion ou maladie due au contact avec la peau ou avec les yeux;
+
+   iii) lésion due au feu, à une explosion ou à d'autres événements résultants de leurs
+   propriétés physiques ou de leur réactivité chimique;
+
+b) l'évaluation des mesures de prévention: il s'agit de l'estimation du risque et des
+possibilités de l'éliminer, compte tenu des mesures de prévention technique et des
+procédures de travail. L'estimation doit porter sur les dangers et les mesures de prévention
+exposés plus loin aux sections 9.5 (Mesures de prévention) à 9.8 (Mesures d'élimination et
+de traitement des produits). L'évaluation des risques pour la santé doit prendre en
+considération les limites d'exposition ou d'autres critères en la matière, spécifiés, agréés ou
+reconnus par l'autorité compétente. Les équipements de protection individuelle ne doivent
+être retenus comme solution préventive que si d'autres mesures ont été prises mais
+insuffisantes;
+
+c) un programme d'action: le risque, une fois évalué, doit être comparé avec les critères qui
+ont été formulés, agréés ou reconnus par l'autorité compétente en vue de la sécurité
+d'utilisation des produits chimiques, et un programme doit être établi par référence à ces
+critères ou, s'il n'existe pas de tels critères, par référence à d'autres critères valables.
+
+9.2.2. L'évaluation des risques doit prendre en considération:
+
+a) la quantité de produit présente sur le lieu de travail;
+
+b) les modes opératoires et les procédés appliqués sur le lieu de travail;
+
+c) la gamme des utilisations de produits chimiques dont l'employeur est responsable, qui
+peut comprendre la fabrication, la manipulation, le stockage, le transport et l'élimination;
+
+d) la diversité des tâches qui entrent dans les opérations, en particulier celles pour lesquelles
+les mesures de prévention technique prévues ne peuvent pas être appliquées, par exemple
+pendant certaines tâches d'entretien, les pannes et les nettoyages;
+
+e) la nature du produit chimique et la possibilité que les modalités de son utilisation en
+accroissent les dangers et les risques, par exemple si le produit est soumis à des valeurs
+élevées de température ou de pression;
+
+f) les conséquences et la probabilité d'une défaillance éventuelle ou d'une succession de
+défaillances des mesures de prévention prévues.
+
+9.3 Renouvellement de l'évaluation
+
+9.3.1. L'évaluation doit être renouvelée chaque fois qu'il existe des raisons de penser que
+l'évaluation primitive n'est plus valable ou si le travail pour lequel l'évaluation a été faite a
+subi un changement important.
+
+9.3.2. Par exemple, il est permis de conclure que l'évaluation n'est plus valable en raison:
+
+a) des résultats des examens approfondis périodiques et des mises à l'épreuve des mesures
+de prévention technique;
+
+b) d'un événement qui a provoqué ou qui était de nature à provoquer un incendie ou une
+explosion;
+
+
+
+
+Page 12 de 32 pages                                                               ITM-SST 1900.1
+c) des résultats de la surveillance de l'exposition sur le lieu de travail, des résultats de la
+surveillance médicale ou de la santé, ou d'un cas reconnu de maladie d'origine
+professionnelle;
+
+d) d'informations nouvelles sur les risques d'atteinte à la santé ou sur les risques d'incendie
+et d'explosion.
+
+9.3.3. Un changement important dans le travail peut consister:
+
+a) en une modification des produits utilisés ou de leur provenance;
+
+b) en une modification des installations, y compris des mesures de prévention technique;
+
+c) en une modification des procédés ou des méthodes de travail;
+
+d) en un changement du volume ou de la cadence de la production.
+
+9.4 Elimination du risque
+
+9.4.1. Les employeurs doivent, lors de cette évaluation, rechercher s'ils pourraient éliminer
+les risques dus aux produits chimiques dangereux en usage:
+
+a) en cessant d'utiliser lesdits produits chimiques;
+
+b) en les remplaçant par des produits moins dangereux ou par les mêmes produits mais
+sous une forme moins dangereuse. Tous les risques connus des produits de remplacement
+proposés doivent être pris en considération, et des mesures de précaution doivent être
+prises avant la substitution;
+
+c) en adoptant un autre procédé.
+
+9.4.2. Lorsqu'il n'est pas possible de renoncer à l'utilisation de produits chimiques
+dangereux, les mesures de prévention exposées aux sections 9.5 (Mesures en rapport avec
+la santé). 9.6 (Mesures en rapport avec les propriétés des produits), 9.7 (Mesures
+concernant le stockage), et 6.9 (Mesures d'élimination et de traitement des produits) doivent
+être suivies.
+
+9.5 Mesures de prévention concernant les produits chimiques dangereux pour la
+santé
+
+9.5.1. Les salariés doivent être protégés contre le risque de lésion ou de maladie imputable
+aux produits chimiques dangereux pour la santé. Ils ne doivent pas y être exposés,
+notamment au-delà des limites d'exposition ou d'autres critères d'exposition établis pour
+l'évaluation et la surveillance du milieu de travail par l'autorité compétente, ou par un
+organisme approuvé ou reconnu par elle, conformément aux normes nationales ou
+internationales.
+
+9.5.2. Les mesures propres à assurer la protection des salariés peuvent consister en une
+combinaison de ce qui suit:
+
+a) bonnes pratiques en matière de conception et d'installation:
+
+i) encoffrement complet des systèmes de fabrication et de manipulation;
+
+ii) séparation des procédés dangereux des opérateurs ou des autres procédés;
+
+
+
+
+Page 13 de 32 pages                                                             ITM-SST 1900.1
+iii) installations, procédés ou systèmes de travail qui réduisent au minimum, suppriment ou
+contiennent le dégagement de poussières, de vapeurs, etc., dangereuses, et qui limitent la
+surface de contamination en cas de déversement et de fuites;
+
+iv) encoffrement partiel avec aspiration localisée;
+
+v) aspiration localisée;
+
+vi) ventilation générale suffisante;
+
+b) systèmes et pratiques de travail:
+
+i) réduction du nombre des salariés exposés et interdiction d'accès à toute personne dont la
+présence n'est pas indispensable;
+
+ii) réduction de la durée d'exposition des salariés;
+
+iii) nettoyage régulier des murs, surfaces, etc., contaminés;
+
+iv) utilisation et entretien approprié des moyens de prévention technique;
+
+v) moyens sûrs de stockage et d'élimination des produits chimiques dangereux pour la santé;
+
+c) protection individuelle:
+
+i) lorsque les mesures précitées ne suffisent pas, un équipement approprié de protection
+individuelle doit être fourni jusqu'à ce que le risque soit éliminé ou réduit au point de ne plus
+présenter de menace d'atteinte à la santé;
+
+ii) interdiction de manger, de mâcher, de boire et de fumer dans les zones contaminées;
+
+iii) installations adéquates pour se laver, se changer et ranger ses vêtements, y compris des
+arrangements pour la lessive des vêtements contaminés;
+
+iv) mise en place de panneaux de signalisation et d'avis;
+
+v) dispositions adéquates en prévision de situations d'urgence.
+
+9.6 Mesures de prévention concernant les produits chimiques inflammables,
+susceptibles de réactions dangereuses ou explosibles
+
+9.6.1. Les salariés doivent être protégés contre les risques de lésion résultant de l'emploi de
+produits chimiques inflammables, instables ou explosibles. Il convient de recourir à une
+combinaison des mesures suivantes pour diminuer le risque d'incendie ou d'explosion:
+
+a) bonnes pratiques en matière de conception et d'installation:
+outre les principes fondamentaux indiqués au paragraphe 9.5.2 a) (bonne conception), pour
+éliminer les vapeurs, les fumées et les poussières inflammables, dont le dégagement est
+possible, les pratiques suivantes doivent également être suivies dans les cas appropriés:
+
+i) élimination ou contrôle des sources d'inflammation;
+
+
+
+
+Page 14 de 32 pages                                                               ITM-SST 1900.1
+ii) séparation des procédés mettant en œuvre des produits chimiques inflammables:
+
+    -   des autres procédés;
+    -   des stocks de produits chimiques inflammables en vrac ou des stocks de produits en
+        vrac
+    -   susceptibles de devenir dangereux en cas d'incendie;
+    -   des locaux en bordure ou hors de l'établissement, qui échappent au contrôle de
+        l'employeur;
+    -   de sources fixes d'inflammation;
+
+iii) mise en atmosphère inerte des procédés de fabrication et des systèmes de manipulation
+totalement encoffrés;
+
+iv) installation de détecteurs de feu et d'alarmes en cas d'incendie qui, autant que possible,
+doivent être pourvus de dispositifs automatiques d'extinction des débuts d'incendie;
+
+v) installation de moyens de détection des montées en pression avec déclenchement
+automatique d'un système de coupure des gaz pour prévenir une explosion, par exemple un
+coup de poussières;
+
+b) sécurité des systèmes et des pratiques de travail:
+
+i) utilisation et entretien approprié des moyens de prévention technique;
+
+ii) réduction au minimum des quantités de produits chimiques conservés sur les lieux de
+travail;
+
+iii) réduction au minimum des quantités de produits chimiques manipulés et utilisés dans des
+bâtiments;
+
+iv) mise en place de dispositifs d'isolement pour séparer des activités ordinaires de
+l'établissement les emplacements de stockage des produits chimiques;
+
+v) séparation des produits chimiques incompatibles;
+
+vi) réduction du nombre des salariés exposés et interdiction d'accès à toute personne dont la
+présence n'est pas indispensable;
+
+vii) dispositions en vue du nettoyage immédiat des déversements;
+
+viii) dispositions en vue de l'élimination sans danger des produits chimiques;
+
+ix) mesures assurant la fourniture d'un matériel approprié, par exemple, dans certains cas,
+pour les matériaux facilement inflammables, d'outils anti-étincelants;
+
+x) mise en place de panneaux de signalisation et d'avis appropriés;
+
+c) protection individuelle:
+
+i) mesures permettant de s'assurer, lorsque l'équipement de protection individuelle et les
+vêtements de travail en général sont fournis par l'établissement, que cet équipement et ces
+vêtements ne sont pas susceptibles d'accroître le risque de brûlures graves. Certains
+matériaux synthétiques, en fondant au feu, peuvent être cause d'une aggravation des
+brûlures:
+
+ii) préparatifs bien conçus en prévision d'une situation d'urgence.
+
+
+
+
+Page 15 de 32 pages                                                              ITM-SST 1900.1
+9.6.2. A la suite de l'évaluation des produits chimiques pouvant être inflammables, instables
+ou explosibles, des dispositions doivent être prises pour vérifier les issues de secours, les
+moyens de lutte contre le feu, le système d'alarme en cas d'incendie et les arrangements
+pour l'évacuation des locaux.
+
+9.7 Mesures de prévention concernant le stockage des produits chimiques dangereux
+
+9.7.1. Les produits chimiques dangereux doivent être stockés dans des conditions adaptées
+à leurs propriétés et caractéristiques inhérentes, de manière à garantir la sécurité,
+conformément aux critères établis. Les produits dont les propriétés et les caractéristiques
+particulières sont à considérer comprennent:
+
+a) les liquides inflammables;
+b) les gaz inflammables, corrosifs ou toxiques;
+c) les produits chimiques toxiques;
+d) les produits chimiques corrosifs;
+e) les produits chimiques qui dégagent des vapeurs très toxiques en cas d'incendie;
+f) les produits chimiques qui, au contact de l'eau, émettent des gaz inflammables;
+g) les substances chimiques comburantes;
+h) les explosifs;
+i) les substances chimiques instables;
+j) les solides inflammables;
+k) les gaz comprimés.
+
+9.7.2. Les produits chimiques connus pour avoir des effets cancérigènes, mutagènes ou
+tératogènes doivent être maintenus sous un contrôle strict.
+
+9.7.3. Compte tenu de ces remarques fondamentales, des mesures de prévention doivent
+porter notamment:
+
+a) sur la compatibilité et la séparation des produits chimiques stockés. Les produits
+chimiques susceptibles de réagir ensemble pour former des substances instables ou nocives
+ou produire de la chaleur doivent être stockés séparément. En raison de leur réactivité et de
+leur propension à dégager de la chaleur, les produits chimiques comburants doivent être
+séparés des liquides inflammables ou d'autres produits chimiques inflammables;
+
+b) sur les quantités maximales de produits chimiques à stocker. Cela s'applique aux produits
+chimiques présentant certaines caractéristiques, en vue de limiter les effets d'un accident ou
+d'un incident impliquant, ou susceptible d'impliquer, ces produits chimiques dans une
+situation d'urgence;
+
+c) sur la sécurité des lieux de stockage et les moyens d'y accéder. Les sources potentielles
+d'inflammation doivent être interdites ou surveillées;
+
+d) sur la sécurité de l'emplacement des aires d'entreposage. Afin de réduire au minimum les
+effets d'un accident éventuel, les aires d'entreposage de produits chimiques doivent être
+situées à l'écart des aires de fabrication, des bâtiments occupés et des autres aires de
+stockage, des locaux en bordure ou hors de l'établissement qui échappent au contrôle de
+l'employeur, ainsi que des sources fixes d'inflammation, à l'exception de petites quantités de
+produits chimiques dangereux exposées sur un lieu de travail dans de bonnes conditions de
+sécurité (par exemple: une petite quantité de liquide inflammable placée dans une armoire
+résistant au feu);
+
+e) sur la fabrication, la nature et l'intégrité appropriées des récipients de stockage;
+
+
+
+
+Page 16 de 32 pages                                                                ITM-SST 1900.1
+f) sur la sécurité du chargement et du déchargement des récipients de stockage. Les critères
+relatifs à la sécurité des matériels et des procédures de travail, y compris la formation, sont
+d'une importance primordiale pour f), g) et h);
+
+g) sur les précautions adéquates pour prévenir les émissions accidentelles, les incendies, les
+explosions et la réactivité chimique;
+
+h) sur les précautions et les mesures adéquates à observer en cas de déversement;
+
+i) sur les prescriptions en matière de température, d'humidité et de ventilation. Celles-ci sont
+particulièrement importantes dans les cas où la température et l'humidité ambiantes sont
+élevées. Les prescriptions relatives à la ventilation devraient prévenir toute accumulation de
+gaz, de vapeurs ou de fumées dans des enceintes fermées;
+
+j) sur les prescriptions d'étiquetage et de réétiquetage;
+
+k) sur les procédures d'urgence;
+
+l) sur les prescriptions relatives aux altérations physiques et chimiques possibles des
+produits chimiques stockés (par exemple, ne pas stocker de produits au-delà de la période
+recommandée sur l'étiquette et sur la fiche de données de sécurité);
+
+m) sur la mise en place de systèmes de surveillance.
+
+9.8 Mesures de prévention concernant les déchets de production
+
+9.8.1. L'élimination des produits chimiques qui ne sont plus nécessaires et les risques qui en
+découlent pour les salariés doivent être inclus dans l'évaluation des risques à laquelle
+procèdent les employeurs. Les produits chimiques doivent en outre être manipulés, traités ou
+éliminés de manière à supprimer ou à réduire au minimum les risques pour la santé et la
+sécurité ainsi que pour l'environnement, conformément à la législation et à la pratique
+nationales. Les récipients qui, une fois vidés, peuvent contenir des résidus de produits
+chimiques dangereux, doivent être traités eux-mêmes comme dangereux.
+
+9.8.2. Les déchets doivent être identifiés comme tels d'après leur origine et aussi, s'ils sont
+connus, d'après leurs principaux composants. Ces derniers doivent être déterminés à partir
+de ce que l'on sait de la fabrication des produits chimiques. En cas de doute quant au degré
+de danger, les déchets doivent être considérés comme présentant les dangers les plus
+élevés;
+
+9.8.3. Les récipients vides qui n'ont pas été purgés de tout produit chimique dangereux
+doivent être clos et entreposés dans l'attente de leur élimination ou de leur réutilisation, et
+être traités comme s'ils contenaient ces produits chimiques dangereux. Ces récipients vides
+doivent conserver l'identification, le marquage et l'étiquetage de leur contenu antérieur;
+
+9.8.4. Les récipients à déchets doivent être conçus ou choisis de manière à assurer la
+protection des salariés contre les dangers signalés plus haut aux alinéas 9.8.2 et 9.8.3, et
+compte tenu des méthodes de travail et d'élimination à appliquer;
+
+9.8.5. Les aires de stockage des déchets doivent se trouver à l'écart des aires normales de
+fabrication et d'entreposage.
+
+
+
+
+Page 17 de 32 pages                                                              ITM-SST 1900.1
+9.9 Programme d'action
+
+9.9.1. Lorsque l'évaluation des risques révèle que les moyens de prévention sont insuffisants
+ou risquent de le devenir, un programme doit être élaboré pour éliminer ou réduire les
+risques au minimum et, en tout cas, pour satisfaire aux critères établis. En l'absence de tels
+critères, l'employeur doit en établir concernant les mesures de prévention des risques dans
+l'utilisation des produits chimiques énoncées plus haut aux sections 9.5 (Mesures en rapport
+avec la santé), 9.6 (Mesures en rapport avec les propriétés des produits), 9.7 (Mesures
+concernant le stockage) et 9.8 (Mesures d'élimination et de traitement des produits). Lors de
+l'élaboration du programme, les principes généraux à suivre pour les mesures de prévention
+énoncées aux chapitres 10 (Conception et installation), 11 (Systèmes et pratiques de travail)
+et 12 (Protection individuelle) doivent être gardés présents à l'esprit, et il convient de veiller à
+la qualité des informations, des instructions et de la formation prodiguées par l'employeur,
+des systèmes de vérification et de surveillance et des dispositions prises en prévision de
+situations d'urgence.
+
+9.9.2. Après consultation des salariés et des représentants des salariés, chaque employeur
+doit établir et mettre en oeuvre un programme visant à éliminer ou à réduire au minimum les
+risques identifiés que présente l'utilisation des produits chimiques. Le programme doit être tel
+que les risques soient éliminés ou réduits au minimum dès que possible et par meilleurs
+moyens. La préférence doit être donnée à l'élimination ou au remplacement des produits
+chimiques dangereux dont il s'agit et, si cela est impossible, aux mesures de prévention
+technique.
+
+Art. 10 - Conception et installation
+
+10.1 Principes généraux
+
+10.1.1. Les installations et les matériels doivent être conçus et mis en place de manière à
+contenir ou à réduire au minimum les dangers inhérents aux produits chimiques utilisés au
+travail, par exemple:
+
+a) en réduisant le dégagement de produits nocifs ou inflammables, y compris les vapeurs et
+les poussières émises par ces produits;
+
+b) en empêchant le feu et les explosions de se propager sur les lieux de travail.
+
+10.1.2. Pour contenir un danger, la meilleure méthode consiste à encoffrer entièrement les
+procédés comportant l'utilisation de produits chimiques. L'entreposage en vrac assorti de
+transferts par des tuyauteries fixes conçues spécialement et adaptées à leur but doit, dans
+certains cas, être préféré au stockage en petits récipients.
+
+10.1.3. Pour diminuer les fuites, en cas d'utilisation de produits chimiques particulièrement
+dangereux, les installations et les matériels encoffrés, doivent être équipés d'un système
+d'aspiration conçu de manière à maintenir une légère dépression dans l'enceinte lorsque le
+procédé le permet. Les systèmes d'aspiration doivent rejeter l'air en un lieu exempt de
+danger, ou bien l'air contaminé doit être filtré ou traité afin que les limites d'exposition ou
+autres critères établis pour la surveillance du milieu de travail ne soient pas dépassés.
+
+10.1.4. Les lieux de travail, les installations et les matériels doivent être conçus et aménagés
+de manière à éviter une exposition inutile des salariés à des produits chimiques dangereux;
+à cette fin, il convient notamment de prévoir un système d'aspiration localisée, permettant de
+limiter le nettoyage au minimum et de faciliter les opérations d'entretien et de nettoyage.
+
+
+
+
+Page 18 de 32 pages                                                                 ITM-SST 1900.1
+10.1.5. Afin de réduire encore les risques dus aux produits chimiques dangereux, les
+installations, les matériels et les stocks doivent être séparés autant que possible des autres
+procédés, des produits chimiques incompatibles ou d'autres produits chimiques susceptibles
+de devenir dangereux en cas d'incendie, des locaux situés hors du site et d'autres zones
+échappant au contrôle de l'employeur et, s'il s'agit de produits inflammables, des sources
+fixes d'inflammation.
+
+10.1.6. Pour prévenir la propagation du feu et des explosions, les moyens techniques de
+sécurité suivants doivent être envisagés:
+
+a) conception et construction propres à contenir les effets d'une explosion;
+
+b) réduction des effets d'un incendie ou d'une explosion au moyen d'évents de surpression et
+de panneaux de déflection, de taille et de conception appropriées, etc., qui rejettent les
+effluents en lieu sûr;
+
+c) méthodes propres à prévenir ou à réduire la propagation du feu, telles que l'utilisation de
+matériaux non combustibles ou résistants au feu, conformes à une norme spécifique;
+
+d) utilisation de clapets d'étranglement, de chicanes coupe-feu ou de moyens analogues
+pour contenir les effets d'un incendie ou d'une explosion dans l'enceinte de l'établissement;
+
+e) dispositifs automatiques d'extinction d'un incendie ou d'arrêt d'une explosion, tels que les
+systèmes à gaz inerte actionnés automatiquement pour étouffer une explosion, ou les
+systèmes d'extinction à déclenchement automatique, par exemple des pulvérisateurs d'eau.
+
+10.1.7. Pour prévenir la propagation d'un produit chimique dangereux, en cas d'émission
+fortuite, un moyen secondaire de confinement doit être prévu conformément aux critères
+établis, tels que des cuvettes de rétention pour les liquides dangereux, des murs de
+dérivation et des zones d'évaporation pour les gaz inflammables plus lourd que l'air - qui
+atteignent leur point d'ébullition ou s'en approchent à la température ambiante (butane, par
+exemple) - ainsi que des zones de retenue pour l'évaporation des liquides cryogéniques. La
+«cuvette de rétention» est une paroi convenablement conçue et construite autour d'un
+récipient de stockage afin d'en retenir le contenu. Le «mur de dérivation» est un mur de
+faible hauteur adjacent au récipient de stockage, destiné à acheminer les gaz et les liquides
+inflammables de la zone de danger vers une zone d'évaporation sans danger.
+
+10.1.8. L'évaluation des risques propres aux produits chimiques nocifs, y compris, le cas
+échéant, la surveillance, doit avoir lieu dès que les installations et les matériels sont en place
+en vue de déterminer si les critères établis par l'autorité compétente ont été respectés.
+
+10.2 Système d'aspiration localisée
+
+10.2.1. Lorsque l'encoffrement total d'un procédé impliquant des produits chimiques
+dangereux n'est pas raisonnable et pratiquement réalisable, un système d'aspiration
+localisée doit être installé de façon que les limites d'exposition soient respectées et que des
+dangers comme les concentrations inflammables soient éliminés ou réduits au minimum.
+
+10.2.2. Le système d'aspiration localisée doit être conçu, construit et installé de manière à
+assurer soit l'évacuation efficace et sans danger de l'air contaminé vers un lieu sûr, soit le
+filtrage ou le traitement de l'air contaminé en vue de prévenir d'autres dangers, compte tenu
+des limites d'exposition ou autres critères de surveillance du milieu de travail établis, agréés
+ou reconnus par l'autorité compétente. Il doit aussi être conçu pour prévenir la propagation
+du feu ou des explosions, suivant les principes indiqués au paragraphe 10.1.6 (prévention de
+la propagation du feu).
+
+
+
+
+Page 19 de 32 pages                                                                ITM-SST 1900.1
+10.2.3. Avant la mise en service d'un système d'aspiration localisée, on doit s'assurer que le
+rendement de l'installation est conforme aux spécifications du constructeur.
+
+10.2.4. Pour prévenir efficacement l'exposition des salariés, le système d'aspiration doit être
+situé aussi près que possible des points d'émission de produits chimiques dangereux. la
+longueur des conduits et le nombre des coudes doit être réduits au minimum pour permettre
+un fonctionnement efficace.
+
+10.3 Ventilation générale
+
+10.3.1. De l'air frais doit être amené sur les lieux de travail pour compenser le volume d'air
+capté par les divers systèmes d'aspiration, ce qui assure une ventilation efficace et contribue
+à diminuer les teneurs en produits chimiques.
+
+10.3.2. La ventilation générale doit être suffisamment puissante pour renouveler l'air de la
+zone de travail, conformément aux prescriptions de sécurité et de santé au travail et du
+nombre de salariés.
+
+10.3.3. Il n'est pas permis de remettre en circulation l'air aspiré dans les locaux de travail,
+sauf dans des conditions acceptables pour l'autorité compétente. Si la remise en circulation
+est autorisée:
+
+a) des méthodes efficaces de décontamination de l'air doivent être appliquées, et
+s'accompagner de vérifications et d'un entretien réguliers;
+
+b) pendant la remise en circulation, une partie de l'air doit être évacuée et remplacée par de
+l'air frais pour empêcher l'accumulation d'une éventuelle contamination;
+
+c) le taux de remplacement par de l'air frais doit être choisi de manière que les limites
+d'exposition ou d'autres critères de surveillance du milieu de travail établis, agréés ou
+reconnus par l'autorité compétente, ne soient pas dépassés dans les établissements et les
+locaux de travail;
+
+d) il doit être tenu compte, lors de la conception, de la nécessité de prévenir tout
+dégagement fortuit de produits chimiques susceptibles de présenter un danger et de le
+propager à d'autres zones de travail.
+
+10.4 Elimination ou contrôle des sources d'inflammation
+
+10.4.1. Lorsque des produits chimiques inflammables sont utilisés, la préoccupation
+première lors de la conception et de la mise en place de l'installation doit être d'éliminer les
+atmosphères explosives. Néanmoins, à toutes les phases de l'utilisation des produits
+chimiques, les emplacements où de telles atmosphères risquent de se constituer doivent
+être vérifiés et les sources d'inflammation doivent être éliminées ou réduites au minimum.
+
+10.4.2. Les zones de travail doivent être classées selon le degré de probabilité qu'une
+concentration inflammable s'y constitue. A moins qu'un appareillage électrique ne soit classé
+comme sûr, il ne doit pas être employé dans ces zones, pour autant que cela soit
+pratiquement réalisable. Si tel n'est pas le cas, l'appareillage électrique doit être conçu et
+fabriqué en fonction de la classification du danger. Conception et fabrication doivent
+répondre aux normes reconnues concernant les mesures de sécurité, les liaisons
+équipotentielles et le matériel utilisable en atmosphère explosible.
+
+
+
+
+Page 20 de 32 pages                                                              ITM-SST 1900.1
+10.4.3. Dans les locaux de travail où sont traitées, fabriquées ou entreposées des matières
+susceptibles de prendre feu presque instantanément au contact d'une flamme ou d'une
+étincelle et de propager rapidement l'incendie, les canalisations et appareils électriques
+doivent être pourvus de dispositifs empêchant leur contact accidentel avec ces matières
+ainsi que l'échauffement de celles-ci.
+
+10.4.4. Les installations électriques doivent être réceptionnées avant leur mise en
+exploitation et puis contrôlées tous les cinq ans par un organisme de contrôle. Copie de cette
+réception est à adresser à l'Inspection du Travail et des Mines. Copies des rapports de
+contrôle sont à présenter aux autorités de contrôle compétentes à leur demande.
+
+10.4.5. La périodicité des vérifications par du personnel compétent de l'établissement des
+installations électriques pour les locaux et emplacements de travail où existent des risques
+de dégradation, d'incendie ou d'explosion est fixée à un an et pour les autres locaux et
+emplacements de travail à trois ans.
+
+10.4.6. Les installations électriques doivent également être vérifiées par un organisme de
+contrôle après chaque modification ou réparation importante ou à la demande de l'Inspection
+du Travail et des Mines.
+
+10.4.7. Les sources d'inflammation peuvent être éliminées, par exemple, par les moyens
+suivants:
+
+a) la délimitation de zones d'interdiction permanente de fumer;
+
+b) l'interdiction d'installer des pompes ou d'autres appareils électriques à l'intérieur des
+cuvettes de rétention des récipients de stockage (en prévision de fuites, les pompes
+devraient se trouver dans leur propre périmètre de rétention);
+
+c) l'interdiction de placer des moteurs électriques à l'intérieur de conduits contenant des
+produits chimiques inflammables et leur remplacement, par exemple, par des ventilateurs
+télécommandés;
+
+d) l'interdiction de recharger les accumulateurs des chariots-élévateurs à fourche dans les
+aires de stockage et les entrepôts.
+
+10.4.8. L'accumulation d'électricité statique doit être évitée, par exemple avec des produits
+chimiques non polaires ou par les moyens suivants:
+
+a) empêcher la chute libre du produit chimique lors du remplissage de récipients à partir d'un
+pipeline ou lors du transvasement d'un récipient à un autre;
+
+b) réduire le débit de pompage au point de déversement;
+
+c) utiliser des additifs antistatiques.
+
+10.4.9. Une attention particulière doit être portée à la nécessité de prévenir par des mesures
+techniques les incendies ou explosions dus à une accumulation et à une décharge
+d'électricité statique. Ces mesures doivent être réexaminées périodiquement.
+
+
+
+
+Page 21 de 32 pages                                                            ITM-SST 1900.1
+10.4.10. Le type de chauffage installé dans un local de travail ou un entrepôt doit être
+approprié aux conditions qui y régneront vraisemblablement. En cas d'utilisation de produits
+chimiques inflammables, les précautions suivantes doivent être observées:
+
+a) les appareils de chauffage portatifs, comme les radiateurs à mazout ou à gaz, les
+radiateurs électriques à chaleur rayonnante et les radiateurs électriques à huile, sont
+proscrits;
+
+b) lorsque des systèmes de chauffage à mazout ou à gaz sont utilisés, ils doivent être du
+type indirect, autrement dit les produits de la combustion doivent être évacués en sécurité
+dans l'atmosphère. L'air admis dans ces systèmes doit provenir d'emplacements sûrs où
+aucune fuite de produits chimiques inflammables n'est susceptible de se produire et de
+pénétrer dans le système de chauffage.
+
+Art. 11 - Systèmes et pratiques de travail
+
+11.1 Principes généraux
+
+11.1.1. Pour toute utilisation de produits chimiques dangereux, des procédures de travail
+doivent être conçues et appliquées de manière à protéger les salariés contre les risques que
+l'évaluation effectuée par l'employeur a permis de déterminer.
+
+11.1.2. Une procédure de travail doit être adoptée après que les autres moyens appropriés
+d'éliminer ou de réduire au minimum les risques ont été retenus (c'est-à-dire les produits
+chimiques, la technologie et les mesures de prévention technique qui conviennent pour une
+utilisation particulière au travail).
+
+11.1.3. Les procédures de travail doivent comporter l'application la plus efficace possible des
+mesures de prévention prévues.
+
+11.1.4. La procédure de travail doit faire apparaître clairement la personne qui est en charge
+du travail, spécifier les tâches que comporte ce travail (ainsi que la répartition exacte des
+responsabilités entre des personnes dont les tâches se recouvrent), et pourvoir à l'échange
+nécessaire d'informations lors de la relève des postes.
+
+11.1.5. Les procédures de travail élaborées doivent être conformes à la législation nationale.
+
+11.1.6. Sauf pour les tâches simples, les procédures de travail doivent être consignées par
+écrit.
+
+11.1.7. Les procédures de travail doivent en particulier être établies par écrit et observées
+lorsqu'une bonne organisation et de bonnes pratiques de travail sont d'une importance
+primordiale, par exemple pour les opérations d'entretien de routine, les essais, les
+vérifications et les réparations des installations et matériels, le transfert de produits
+chimiques (y compris le chargement et le déchargement) et l'identification du contenu de
+récipients, y compris de leurs dangers potentiels et des précautions correspondantes.
+
+11.1.8. Dans certaines circonstances, les produits chimiques dangereux peuvent présenter
+des risques très graves, par exemple pendant l'entretien des installations et matériels où il
+est nécessaire de pénétrer. Une autorisation écrite formelle est alors indispensable. Sur
+cette "autorisation de travail" sont indiqués exactement la nature du travail à exécuter, quand
+il y aura lieu, et quelles parties du travail sont sans danger. Un responsable doit évaluer le
+travail et vérifier la sécurité à chacune de ses étapes et à son achèvement. Les personnes
+chargées de l'exécution du travail doivent signer l'autorisation pour montrer qu'elles ont
+compris les dangers et des précautions à prendre.
+
+
+
+
+Page 22 de 32 pages                                                             ITM-SST 1900.1
+11.1.9. Pour les personnes qui travaillent seules, une attention particulière doit être portée
+aux procédures de travail ainsi qu'aux dispositions à prendre en cas d'urgence, et des
+mesures spéciales doivent être prises lorsque la situation l'exige.
+
+11.1.10. Des procédures de travail prévoyant l'arrêt d'urgence des procédés chimiques
+doivent être établies.
+
+11.2 Réexamen des systèmes et pratiques de travail
+
+11.2.1. Lors du réexamen des mesures de prévention concernant les produits chimiques
+dangereux, de fréquentes vérifications des procédures de travail doivent être opérées et les
+mesures appropriées doivent être prises. Ces vérifications doivent être faites en même
+temps que celles qui concernant l'information et la formation mentionnées à la section 13.2
+(Réexamen).
+
+11.2.2. Le réexamen doit consister notamment:
+
+a) à vérifier les changements de personnel, de matériaux, de matériel, d'emplacement et de
+procédés de travail;
+
+b) à vérifier les règles à suivre en dehors des heures "normales" de travail;
+
+c) à vérifier l'efficacité de l'encadrement;
+
+d) à vérifier si les procédures et les pratiques sont suivies comme prévu;
+
+e) à vérifier les dispositions à prendre avant de quitter un travail qu'il n'est pas possible de
+terminer.
+
+Art. 12 - Protection individuelle
+
+12.1 Equipement de protection individuelle
+
+12.1.1. L'utilisation d'équipements de protection individuelle ne doit pas être considérée
+comme pouvant se substituer aux mesures de prévention technique ou aux autres mesures
+appropriées; toutefois, lorsque de telles mesures ne suffisent pas à assurer la protection, de
+tels équipements doivent être fournis et entretenus. L'employeur doit toujours s'efforcer de
+mettre au point et d'appliquer des mesures techniques en vue d'éliminer le risque ou de le
+réduire à un niveau tel que le port d'un équipement de protection individuelle ne soit pas
+nécessaire. Les équipements de protection individuelle comprennent les équipements de
+protection respiratoire, les vêtements de protection de la face, des yeux et des mains, ainsi
+que les équipements destinés à prévenir l'accumulation d'électricité statique, comme les
+chaussures à semelles conductrices.
+
+12.1.2. Les équipements de protection individuelle doivent assurer une protection adéquate
+contre les risques dus aux produits chimiques dangereux auxquels sont exposés les salariés
+pendant tout le temps où leur utilisation est nécessaire compte tenu du type de travail.
+
+12.1.3. Les équipements de protection individuelle doivent être conformes à la législation
+nationale et fondés sur les normes nationales ou internationales.
+
+12.1.4. Les équipements fournis doivent être appropriés à l'usage auquel ils sont destinés et
+il doit en exister un stock suffisant sur le lieu de travail à la disposition des salariés à qui ils
+sont nécessaires.
+
+
+
+
+Page 23 de 32 pages                                                                 ITM-SST 1900.1
+12.1.5. Les salariés tenus de porter un équipement de protection individuelle doivent être
+pleinement instruits de leur mode d'emploi.
+
+12.1.6. Lorsque les salariés ont été informés en conséquence, ils doivent porter les
+équipements qui leur ont été fournis pendant tout le temps où ils sont exposés au risque qui
+nécessite leur utilisation.
+
+11.1.7. Les employeurs doivent prévoir une surveillance pour faire en sorte que l'équipement
+soit correctement utilisé.
+
+11.1.8. Tous les équipements de protection individuelle nécessaires à la sécurité dans
+l'utilisation de produits chimiques doivent être fournis et entretenus par l'employeur, sans
+frais pour les salariés.
+
+12.2 Equipement de protection respiratoire
+
+12.2.1. Les équipements de protection respiratoire doivent être choisis conformément à la
+législation nationale ou à des normes nationales ou internationales, pour ce qui est de leur
+adéquation au type de produit chimique dangereux et au degré d'exposition considérés.
+
+12.2.2. Les équipements de protection respiratoire doivent aussi être choisis compte tenu du
+travail à effectuer et doivent être adaptés à la personne qui les porte.
+
+12.2.3. L'utilisation des équipements de protection respiratoire ne doit constituer qu'une
+mesure complémentaire, temporaire, appliquée en cas d'urgence ou à titre exceptionnel, et
+non pas se substituer à une mesure de prévention technique.
+
+12.3 Vêtements de protection
+
+12.3.1. Le choix des vêtements de protection doit tenir compte:
+
+    a) de la résistance de leur matériau à la pénétration par les produits chimiques
+       dangereux en cause;
+    b) de la bonne conception du vêtement qui doit être adapté à la taille de la personne qui
+       le porte et à l'usage auquel il est destiné;
+    c) de l'environnement dans lequel il sera porté;
+    d) en cas de poussières, des caractéristiques du tissu en relation avec sa capacité
+       d'élimination des poussières qui y sont déposées;
+    e) en cas de substances inflammables, de ses caractéristiques au contact du feu;
+    f) de la nécessité de prévenir les incendies ou explosions dus à l'électricité statique;
+
+12.3.2. Les vêtements de protection ne doivent pas être utilisés en remplacement des
+mesures de prévention technique.
+
+12.4 Nettoyage et entretien des équipements de protection individuelle et des
+vêtements de protection
+
+12.4.1. Les équipements de protection dont la fourniture est nécessaire doivent tous être
+tenus en bon état et remplacés, sans frais pour le salarié, quand ils ne sont plus aptes à
+l'usage auquel ils sont destinés.
+
+12.4.2. Les équipements de protection individuelle ne doivent pas être utilisés au-delà de la
+durée indiquée par le fabricant.
+
+12.4.3. Les salariés doivent utiliser de manière appropriée les équipements fournis et les
+entretenir en bon état, dans la mesure où cela dépend d'eux.
+
+
+
+
+Page 24 de 32 pages                                                           ITM-SST 1900.1
+12.4.4. L'équipement de protection respiratoire, sauf s'il est à jeter à la fin du poste de travail,
+doit être nettoyé, désinfecté et examiné à fond soit chaque fois qu'il doit être réutilisé, soit
+après un délai spécifié par les normes nationales ou internationales agréées ou reconnues
+par l'autorité compétente, ou encore signifié dans le cadre des mesures de prévention prises
+par l'employeur, selon que l'une ou l'autre de ces échéances est la plus rapprochée.
+
+12.4.5. Il convient de tenir registre des nettoyages, des désinfections et des vérifications des
+équipements de protection respiratoire, de l'état dans lequel ils se trouvent et des défauts
+éventuels qu'ils présentent.
+
+12.4.6. La personne effectuant les tests, qui doit être dûment formée en vue de cette tâche,
+doit authentifier les inscriptions portées au registre.
+
+12.4.7. Les employeurs doivent prévoir le lavage, le nettoyage, la désinfection et l'inspection
+des vêtements ou des équipements de protection qui ont pu être contaminés par des
+produits chimiques dangereux pour la santé.
+
+12.4.8. Il doit être interdit aux salariés de laver, nettoyer ou conserver à leur domicile un
+équipement de protection susceptible d'être contaminé par des produits chimiques
+dangereux pour la santé.
+
+12.4.9. Lorsque le lavage des vêtements est confié à un sous-traitant, l'employeur doit
+s'assurer que celui-ci est parfaitement au courant des précautions à prendre pour la
+manipulation de vêtements contaminés.
+
+12.5. Bien-être et hygiène corporelle
+
+12.5.1. Les salariés doivent avoir à leur disposition des salles d'eau adéquates pour se laver
+afin de maintenir un niveau d'hygiène corporelle approprié à une prévention efficace de
+l'exposition et d'empêcher la propagation de produits chimiques dangereux pour la santé.
+
+12.5.2. Les salles d'eau doivent être d'un accès commode, mais situées à des
+emplacements où elles ne risquent pas de subir elles-mêmes la contamination des lieux de
+travail.
+
+12.5.3. Les salles d'eau doivent être aménagées en fonction de la nature et du degré de
+l'exposition.
+
+12.5.4. Des vestiaires doivent être prévus quand des vêtements de protection sont utilisés et
+s'il existe un risque de pollution des vêtements personnels par des produits chimiques
+dangereux.
+
+12.5.5. Les salariés doivent changer de vêtements en des lieux situés et aménagés de
+manière à empêcher la contamination de leurs vêtements personnels par les vêtements de
+protection et la contamination d'une installation par une autre.
+
+12.5.6. Il est interdit de manger, de mâcher, de boire ou de fumer dans les zones de travail
+où la prévention de l'exposition à des produits chimiques dangereux pour la santé n'est
+possible que par l'utilisation d'équipements de protection individuelle, ainsi que dans toute
+autre zone où de tels produits sont susceptibles d'être présents.
+
+12.5.7. Lorsqu'il est nécessaire d'interdire aux salariés de manger ou de boire, des
+installations leur permettant de se restaurer doivent être réservées dans une zone non
+contaminée et d'un accès commode à partir des zones de travail.
+
+
+
+
+Page 25 de 32 pages                                                                 ITM-SST 1900.1
+Art. 13 - Information et formation
+
+13.1 Principes généraux
+
+13.1.1. Les salariés doivent être informés des dangers liés à l'utilisation de produits
+chimiques sur les lieux de travail.
+
+13.1.2. Les salariés doivent être informés de la façon d'obtenir et d'utiliser les
+renseignements fournis par les étiquettes et les fiches de données de sécurité.
+
+13.1.3. Les salariés doivent recevoir une formation sur la manière correcte et efficace
+d'appliquer les mesures de prévention technique et les mesures de protection individuelle,
+leur attention étant attirée sur la valeur de ces mesures.
+
+13.1.4. Les employeurs doivent exploiter les fiches de données de sécurité, de même que
+les informations se rapportant spécifiquement au lieu de travail, pour préparer des
+instructions, au besoin écrites, à l'intention des salariés.
+
+13.1.5. Les salariés doivent recevoir une formation continue au sujet des procédures et des
+pratiques à suivre, de leur importance pour la sécurité dans l'utilisation des produits
+chimiques au travail, et aussi de la conduite à tenir en cas d'urgence.
+
+13.2 Réexamen
+
+13.2.1. L'étendue de la formation et des instructions à donner doit être réexaminée et
+rectifiée à l'occasion du réexamen des procédures et pratiques de travail.
+
+13.2.2. Le réexamen doit tendre:
+
+a) à rechercher si les salariés ont compris quand il faut recourir à l'équipement de protection
+individuelle et quelles en sont les limites;
+
+b) à rechercher si les salariés ont compris la façon la plus efficace d'appliquer les mesures
+de prévention technique prévues;
+
+c) à rechercher si les salariés sont au courant des procédures à suivre dans l'éventualité
+d'une urgence impliquant un produit chimique dangereux;
+
+d) à vérifier la marche à suivre pour la transmission d'informations d'une équipe à l'autre lors
+de la relève des postes.
+
+Art. 14 - Surveillance des mesures de prévention technique
+
+14.1 Principes généraux
+
+14.1.1. Les mesures de prévention technique doivent être examinées et testées à fond à des
+intervalles appropriés ou spécifiés afin de s'assurer qu'elles continuent à remplir leur fonction
+première.
+
+14.1.2. Les résultats de chacun des examens et tests approfondis doivent être comparés
+avec l'évaluation des risques et les mesures exposées au chapitre 9 (Mesures de contrôle
+opérationnel). Il convient de remédier à tout défaut découvert lors de l'examen ou du test dès
+que possible ou dans le délai fixé par la personne qui a effectué l'examen.
+
+14.1.3. Les résultats de chaque examen approfondi doivent être consignés par écrit.
+
+
+
+
+Page 26 de 32 pages                                                               ITM-SST 1900.1
+Art. 15 - Surveillance du milieu de travail
+
+15.1 Principes généraux
+
+15.1.1. Afin de préserver l'intégrité physique et la santé des salariés, les employeurs doivent
+surveiller leur exposition aux produits chimiques dangereux et consigner par écrit les
+résultats de cette surveillance. Ils doivent faire en sorte que les salariés ne soient pas
+exposés aux produits chimiques au-delà des limites d'exposition ou autres critères
+d'exposition appliqués à l'évaluation et à la surveillance du milieu de travail. A partir de ces
+résultats, les employeurs doivent évaluer l'exposition des salariés aux produits chimiques
+dangereux.
+
+15.1.2. Les concentrations de produits chimiques dangereux en suspension dans l'air doit
+être mesurées sur tous les lieux de travail où cela est nécessaire pour assurer la protection
+des salariés contre le risque d'inhalation préjudiciable à leur sécurité et à leur santé.
+
+15.1.3. Des mesures des contaminants en suspension dans l'air doivent être effectuées si
+les autres techniques ne suffisent pas pour donner une estimation valable du risque
+d'exposition et pour évaluer les mesures de prévention technique en vigueur.
+
+15.1.4. Les méthodes d'évaluation du risque peuvent inclure: l'information sur les dangers
+pour la santé et l'intégrité physique inhérents aux produits chimiques fournie par les fiches de
+données de sécurité; l'évaluation de l'exposition sur la base des méthodes et des modalités
+du travail; les conseils du fournisseur; l'expérience en matière d'exposition sur la base des
+méthodes et des modalités du travail; l'expérience en matière d'exposition acquise sur le lieu
+de travail ou par d'autres utilisateurs; des tests qualitatifs simples. Les tests qualitatifs
+simples comprennent, dans les cas appropriés, l'emploi de tubes ou de pastilles fumigènes
+pour déterminer les caractéristiques de la ventilation, ou encore de dispositifs de détection
+des poussières par illumination.
+
+15.2 Atmosphère des lieux de travail
+
+15.2.1. La concentration dans l'air des poussières, fibres, fumées, gaz, brouillards ou
+vapeurs dangereux sur les lieux de travail ne doit pas atteindre des niveaux susceptibles de
+constituer un danger pour la santé des salariés.
+
+15.2.2. En particulier, les concentrations maximales admissibles des substances
+dangereuses susvisées sur les lieux de travail ne doivent pas dépasser les valeurs limites
+les plus récentes en vigueur.
+
+
+15.2.3. Des contrôles de la concentration des agents chimiques dans l’atmosphère sur le lieu
+de travail, à réaliser par un organisme de contrôle agréé, sont à faire pendant les six
+premiers mois de la mise en exploitation de l’établissement, sous condition d’un
+fonctionnement normal des activités. Le résultat de ces mesures doit être communiqué à
+l'Inspection du Travail et des Mines.
+
+15.2.4. L'exploitant doit assurer une surveillance régulière et fréquente du milieu de travail
+afin de vérifier que les niveaux d'exposition des salariés ne dépassent pas les valeurs
+limites.
+
+
+
+
+Page 27 de 32 pages                                                              ITM-SST 1900.1
+L’objectif des mesurages et contrôles de la concentration des agents chimiques est d’obtenir
+une amélioration continue de l'atmosphère sur les lieux de travail. L’employeur veille à ce
+que les risques que présente un agent chimique dangereux pour la santé et sécurité des
+salariés sur le lieu de travail soient supprimés ou réduits à un minimum
+
+    -   en réduisant au minimum le nombre des salariés exposés ou susceptibles d’être
+        exposés
+    -   en réduisant au minimum la durée et l’intensité de l’exposition
+    -   en remplaçant un agent chimique dangereux par un agent chimique qui n’est pas
+        dangereux ou moins dangereux
+
+15.2.5. Des mesures de contrôle sont à effectuer régulièrement par un organisme de
+contrôle. Le rapport de ces mesures de contrôle doit, sur demande, être mis à la disposition
+des autorités de contrôle compétentes.
+
+15.2.6. Il est en principe interdit d'exposer des salariés au contact de produits contenant des
+substances présentant un pouvoir cancérogène ou mutagène, que ce soit par voie
+respiratoire, orale ou cutanée.
+
+Lorsque cette exposition ne peut être évitée, l'exploitant est responsable de la surveillance
+du non dépassement des valeurs et il doit se conformer aux stipulations du règlement grand-
+ducal modifié du 30 juillet 2002 concernant la protection des travailleurs contre les risques
+liés à l'exposition à des agents cancérigènes ou mutagènes au travail.
+
+15.3 Tenue de registres
+
+15.3.1. L'employeur doit tenir registre des résultats des mesures de la concentration des
+produits chimiques dangereux. Les données enregistrées doivent indiquer clairement la date
+des mesures, la zone de travail et l'emplacement des installations.
+
+15.3.2. Les mesures faites sur les prélèvements individuels, y compris les calculs relatifs à
+l'exposition, doivent être consignées.
+
+15.3.3. Les salariés et leurs représentants, ainsi que l'autorité compétente, doivent avoir
+accès aux registres.
+
+15.3.4. Outre les résultats numériques des mesures, les données recueillies lors des
+contrôles doit notamment comprendre:
+
+    a) le marquage du produit chimique dangereux;
+    b) l'emplacement, la nature, les dimensions et autres particularités du lieu de travail où
+       les mesures statiques ont été faites; l'endroit exact où les mesures individuelles de
+       contrôle de l'exposition ont été effectuées ainsi que le nom des salariés soumis au
+       contrôle et le poste qu'ils occupent;
+    c) la source ou les sources d'émission de produits chimiques en suspension dans l'air,
+       leur emplacement ainsi que le type de travail et d'opérations en cours durant le
+       prélèvement d'échantillons;
+    d) l’information pertinente sur le déroulement du procédé, les mesures de prévention
+       technique, la ventilation et les conditions climatiques en rapport avec les sources
+       d'émission de produits chimiques en suspension dans l'air;
+    e) l'instrument de prélèvement utilisé, ses accessoires et la méthode d'analyse;
+    f) la date et l'heure exacte du prélèvement;
+    g) la durée de l'exposition des salariés, l'utilisation ou la non-utilisation d'une protection
+       respiratoire et toutes autres observations ayant un rapport avec l'évaluation de
+       l'exposition;
+    h) le nom des personnes chargées du prélèvement et de l'analyse des échantillons.
+
+
+
+
+Page 28 de 32 pages                                                                ITM-SST 1900.1
+15.3.5. Les registres doivent être conservés pendant trente ans.
+
+15.4 Interprétation et exploitation des données obtenues lors des contrôles de
+l'exposition
+
+15.4.1. Le risque d'exposition doit être évalué sur la base des résultats numériques obtenus,
+corroborés et interprétés à la lumière d'autres informations, par exemple, sur la durée de
+l'exposition, les procédures et les modalités du travail, la séquence des opérations, les
+mesures du rendement de la ventilation et les autres circonstances particulières du travail
+durant l'exécution des mesures.
+
+15.4.2. Si les contrôles révèlent des niveaux qui dépassent les limites d'exposition, les
+employeurs doivent avertir les salariés et leurs représentants, dans des termes qu'ils
+comprennent aisément, du risque qui en résulte et des mesures à prendre pour réduire ces
+niveaux dans le cadre du programme d'action.
+
+Art. 16 - Procédures d'urgence et premiers secours
+
+16.1 Procédures d'urgence
+
+16.1.1. Des dispositions doivent être prises pour parer à tout moment, et conformément aux
+prescriptions établies par l'autorité compétente ou suggérées par l'évaluation des risques,
+aux situations d'urgence et aux accidents qui pourraient résulter de l'utilisation au travail de
+produits chimiques dangereux.
+
+16.1.2. Ces dispositions, y compris les procédures à suivre, doivent être mises à jour à la
+lumière des informations nouvelles, telles que celles que fournissent les fiches de données
+de sécurité, de l'expérience acquise dans l'utilisation des produits chimiques et de tout
+changement survenant dans le déroulement du travail.
+
+16.1.3. Les salariés doivent être mis au courant des procédures à suivre. Celles-ci doivent
+indiquer:
+
+    a) les arrangements prévus pour donner l'alarme;
+    b) les arrangements prévus pour appeler les secours appropriés, sur place ou en dehors
+       de l'entreprise, par exemple les sapeurs-pompiers en cas d'incendie ou des services
+       médicaux d'urgence;
+    c) le mode d'emploi et des limites de l'équipement de protection individuelle approprié;
+    d) les modalités d'évacuation de la zone de travail, des locaux ou de l'établissement et
+       l'emplacement des issues de secours et des itinéraires d'évacuation;
+    e) ce qu'il faut faire pour ramener un incident à des proportions minimales, par exemple
+       comment maîtriser un incendie, neutraliser des fuites et des déversements, actionner
+       une commande d'arrêt d'urgence, évacuer des récipients à pression transportables
+       en cas d'incendie et ce qu'il est expressément interdit de faire si des personnes sont
+       exposées à un danger;
+    f) les modalités d'évacuation des locaux contigus et les aires de rassemblement en cas
+       d'évacuation.
+
+
+
+
+Page 29 de 32 pages                                                              ITM-SST 1900.1
+16.1.4. Dans certains cas, il est nécessaire d'indiquer les procédures à suivre dans
+l'éventualité d'un incident prévisible survenant au cours d'activités adjacentes ou dans des
+établissements contigus, qui peut compromettre la sécurité lors de l'utilisation de produits
+chimiques. Entre autres exemples, il peut s'agir d'arrangements:
+
+    a) pour refroidir des réservoirs ou d'autres récipients et ainsi prévenir la surpression en
+       cas d'incendie proche; ou
+    b) pour arrêter les opérations et abandonner les installations et matériels dans de
+       bonnes conditions de sécurité en cas d'émission de produits chimiques d'une
+       installation ou d'un site contigus.
+
+16.1.5. Lorsqu'un incident risque d'affecter des personnes ou des biens en dehors de
+l'établissement où se déroule le travail, les procédures à suivre doivent être mises au point
+en consultation avec les autorités nationales ou les services ayant des responsabilités en la
+matière, par exemple les services d'urgence extérieurs et les autorités locales.
+
+16.2 Premiers secours
+
+16.2.1. Des dispositions adéquates pour l'organisation des premiers secours doivent être
+prévues. Elles doivent tenir compte des produits chimiques dangereux utilisés au travail, de
+la facilité des communications ainsi que des services et structures existants d'intervention en
+cas d'urgence. Elles doivent satisfaire aux prescriptions établies par l'autorité compétente.
+
+16.2.2. Autant que possible, des moyens appropriés et un personnel qualifié pour dispenser
+les premiers secours doivent à tout moment être aisément accessibles durant l'utilisation de
+produits chimiques dangereux au travail. Le terme «personnel qualifié» englobe des
+personnes formées à donner les premiers soins, le personnel infirmier diplômé ou les
+médecins, par exemple.
+
+16.2.3. Lorsque des produits chimiques dangereux sont utilisés, les secouristes doivent
+recevoir l'information nécessaire des dangers liés aux produits chimiques et la manière de se
+protéger eux-mêmes contre ces dangers;
+
+16.2.4. L'employeur doit évaluer ses besoins en matière de premiers secours.
+
+16.2.5. Le matériel et les installations de premiers secours doivent être adaptés aux dangers
+rencontrés dans l'utilisation des produits chimiques au travail. Des installations appropriées
+que les salariés puissent utiliser eux-mêmes doivent être prévues, par exemple des douches
+d'urgence ou des postes de douche oculaire. Ces installations doivent être situées en des
+points stratégiques qui en permettent l'utilisation immédiate en cas de nécessité.
+
+16.2.6. Le matériel et les installations de premiers secours doivent être aisément accessibles
+à tout moment.
+
+16.2.7. Des salles de premiers secours convenablement équipées doivent être prévues. En
+règle générale, elles doivent exister dans tous les établissements:
+
+a) lorsque les produits chimiques utilisés au travail présentent de graves dangers pour la
+santé;
+
+b) si les facteurs indiqués au paragraphe 16.2.4 (évaluation des besoins en premiers
+secours) le justifient.
+
+
+
+
+Page 30 de 32 pages                                                             ITM-SST 1900.1
+16.3 Lutte contre l'incendie
+
+16.3.1. Du matériel approprié de lutte contre l'incendie doit être disponible en fonction des
+quantités et des caractéristiques des produits chimiques utilisés au travail. Des équipements
+adéquats doivent également être prévus pour les transports et le stockage dans l'enceinte de
+l'entreprise.
+
+16.3.2. Des extincteurs transportables (portatifs ou montés sur chariot) conformes à la
+législation et aux normes nationales doivent être mis à disposition pour lutter contre un début
+d'incendie. L'agent extincteur doit être choisi en fonction de l'évaluation des risques et des
+mesures de prévention.
+
+16.3.3. Le matériel de lutte contre l'incendie doit être aisément accessible.
+
+16.3.4. Du matériel destiné à lutter contre le feu dans les entrepôts, ou à refroidir
+suffisamment les récipients exposés à la chaleur dégagée par un incendie proche, doit être
+installé.
+
+16.3.5. Le matériel d'extinction des incendies et de protection contre le feu doit être
+entretenu en parfait état de marche, ce qui doit être assuré par des inspections régulières.
+
+16.3.6. Les salariés doivent recevoir une formation, des instructions et des informations
+appropriées au sujet des dangers que présentent les incendies impliquant des produits
+chimiques et sur les précautions à prendre. Cette formation, ces instructions et ces
+informations doivent notamment porter sur les points suivants:
+
+    a) nécessité de ne pas s'exposer inutilement au risque;
+    b) savoir quand et comment donner l'alarme;
+    c) nécessité, pour les salariés appelés à s'en servir, de connaître le mode d'emploi du
+       matériel de lutte contre l'incendie;
+    d) toxicité des vapeurs dégagées et mesures de premiers secours;
+    e) utilisation correcte d'un équipement approprié de protection individuelle;
+    f) procédures d'évacuation;
+    g) circonstances dans lesquelles les salariés ne devraient pas tenter de lutter eux-
+       mêmes contre l'incendie, mais devraient évacuer la zone et faire appel à des
+       pompiers spécialisés.
+
+Lorsque l'on s'en remet à l'intervention de pompiers spécialisés, qu'il s'agisse de pompiers
+de l'établissement ou de l'extérieur, il convient d'insister sur les dispositions prises à cet effet
+et les salariés doivent être parfaitement informés de ce que l'on attend d'eux.
+
+16.3.7. Les pompiers spécialisés et autres agents de services d'intervention venant de
+l'extérieur doivent être bien informés de la nature chimique de l'incendie et des dangers qu'il
+présente afin que les précautions qui s'imposent puissent être prises. Des renseignements
+sur les très graves risques potentiels qui ont été identifiés doivent être donnés aux
+employeurs des pompiers de l'extérieur, qu'il y ait eu incident ou non. Ceux-ci pourront ainsi
+prendre des précautions adéquates et prévoir, par exemple, l'emploi de vêtements
+spécialement conçus pour parer au danger de très grande toxité.
+
+
+
+
+Page 31 de 32 pages                                                                 ITM-SST 1900.1
+Art. 17 - Enquêtes et rapports sur les accidents professionnels et les autres incidents
+
+17.1 Enquêtes sur les accidents et les autres incidents
+
+17.1.1. Afin d'évaluer les risques et de prendre les mesures correctives nécessaires,
+l'employeur doit enquêter immédiatement, en collaboration avec les salariés et leurs
+représentants:
+
+a) sur les accidents et les autres incidents (avec ou sans lésions corporelles);
+
+b) sur les cas présumés ou confirmés de maladie professionnelle;
+
+c) sur les situations dans lesquelles les salariés ne sont écartés d'un danger;
+
+d) sur toute autre situation où un risque inacceptable pourrait exister, impliquant des produits
+chimiques dangereux.
+
+17.1.2. L'enquête doit comprendre le réexamen des mesures de prévention en vigueur.
+
+17.2 Déclaration des accidents, des cas de maladie professionnelle et des autres
+incidents
+
+17.2.1. Les accidents, les cas de maladie professionnelle et les autres incidents liés aux
+produits chimiques dangereux doivent être déclarés à l'Inspection du travail et des mines.
+
+
+
+
+             Visa du Directeur adjoint                    Mise en vigueur, le 23.07.2012
+             de l’Inspection du travail
+                    et des mines                                         s.
+
+                         s.
+                                                                    Paul Weber
+                Robert HUBERTY                                        Directeur
+                                                             de l’Inspection du travail
+                                                                    et des mines
+
+
+
+
+Page 32 de 32 pages                                                                 ITM-SST 1900.1
+

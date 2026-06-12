@@ -1,0 +1,2579 @@
+GRAND-DUCHE DE LUXEMBOURG                                                         Strassen, le 18 septembre 2017
+
+
+
+
+                      Le présent texte a été établi par l’Inspection du travail et des mines et
+                          le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                ITM-SST 1501.4
+
+
+                    Prescriptions de prévention incendie
+                               DISPOSITIONS GENERALES
+                                                     Bâtiments bas
+                                              Le présent document comporte 55 pages
+
+
+                                                        SOMMAIRE
+       Article 1er      Objectifs et domaine d'application                                              2
+       Article 2.       Définitions                                                                     4
+       Article 3.       Implantation                                                                    5
+       Article 4.       Aménagements extérieurs                                                         5
+       Article 5.       Construction                                                                    8
+       Article 6.       Aménagements intérieurs                                                         11
+       Article 7.       Compartimentage                                                                 16
+       Article 8.       Evacuation de personnes, issues et dégagements intérieurs                       22
+       Article 9.       Eclairage                                                                       32
+       Article 10. Désenfumage (évacuation de fumée et de chaleur (E.F.C.))                             34
+       Article 11. Installations techniques                                                             35
+       Article 12. Installations au gaz                                                                 38
+       Article 13. Installations électriques                                                            39
+       Article 14. Planification, équipements et procédures d’urgence                                   41
+       Article 15. Moyens de secours et d'intervention                                                  44
+       Article 16. Registre de sécurité                                                                 49
+       Article 17. Réception et contrôles                                                               50
+       ANNEXES                                                                                          52
+       Inspection du travail et des mines
+       Adresse postale:        B.P. 27                  L-2010 Luxembourg                 Tel.: +352 247-76100
+       Bureaux:                3, rue des Primeurs      L-2361 Strassen                   Fax: +352 247-96100
+       Site internet:          http://www.itm.lu
+Article 1er Objectifs et domaine d'application
+1.1. Généralités
+1.1.1. Les présentes dispositions générales fixent les conditions minimales auxquelles
+doivent répondre la conception, la construction et l’aménagement de toute construction afin
+de :
+ prévenir la naissance, le développement et la propagation d’un incendie,
+ assurer la sécurité des personnes,
+ faciliter de manière préventive l’intervention des services de secours.
+1.1.2. L’application et le respect des prescriptions de prévention incendie (ITM-SST 1500 à
+1524) correspondent à une approche purement prescriptive.
+En alternative à l’approche prescriptive, une analyse quantitative d’un projet peut également
+être faite par une évaluation à l’aide d’une approche performancielle (méthodes d’ingénieur).
+Les paramètres, critères et méthodologies de ces méthodes d’ingénieur sont données dans
+les instructions techniques ITM-SST 1551, ITM-SST 1552, ITM-SST 1553 et ITM-SST 1554
+chacune dans son domaine d’application.
+Une telle approche permet de prendre en compte l’entièreté de la sécurité incendie et peut
+fournir une solution plus adaptée que l’approche purement prescriptive. Une approche
+performancielle peut être appliquée lors de la conception de projets de grande taille ou qui
+présentent un caractère complexe (voir articles 5, 7, 8 et 10 de la présente disposition).
+Se situent en-dehors du champ d’application d’une approche performancielle les bâtiments
+qui servent comme lieux de stockage d’une densité de charge calorifique très élevée, de
+matières explosives et de liquides inflammables. Le risque intrinsèque qui est lié à de tels
+bâtiments, nécessite des prises en considération spéciales.
+1.1.3. Les prescriptions spécifiques fixent les mesures de sécurité propres à certaines
+activités et aux risques inhérents à ces activités.
+1.1.4. Si un bâtiment est composé de plusieurs établissements de types différents, chacun
+de ces établissements doit être conforme aux dispositions générales mais également aux
+dispositions spécifiques le concernant. Toutefois, l'ensemble de ces établissements doit être
+placé sous une direction unique (par exemple le gérant de la copropriété) en ce qui concerne
+l'application des conditions de sécurité.
+1.1.5. Si un projet d'aménagement, de rénovation, de réhabilitation ou de modification
+concerne un ou plusieurs établissements d'un même bâtiment ou des parties communes à
+ces établissements ou encore un tiers situé à proximité, le projet, du point de vue de la
+sécurité incendie, doit être analysé et présenté en prenant en compte l'ensemble des
+établissements / bâtiments / parties communes / tiers etc.
+1.1.6. Si lors de la réalisation du projet (durant le chantier), il résulte une diminution
+temporaire du niveau de sécurité pour l’un ou l’autre des bâtiments, des mesures de
+rechange appropriées et suffisantes doivent être prises, signalisées et communiquées.
+1.1.7. Il est rappelé que les dispositions applicables aux chantiers, ITM-SST 1515
+concernant la sécurité incendie sur les chantiers, doivent être prises en compte et
+appliquées dès les premières réflexions sur l’organisation même du chantier en question.
+1.1.8. Les relations entre les différentes dispositions respectivement les instructions
+techniques sont illustrées à l’aide du schéma en annexe III.
+
+
+
+
+2                                                                            ITM-SST 1501.4
+1.2. Domaine d'application
+1.2.1. Les présentes prescriptions sont applicables aux immeubles ou parties d’immeubles
+dont la hauteur du dernier niveau exploitable est inférieure ou égale à 7m par rapport au
+niveau de référence (exception R+3 en cas de duplex).
+Nous pouvons distinguer deux types de bâtiments bas, à savoir :
+ Type A : bâtiment à simple rez-de-chaussée ou à un étage ne comportant pas de locaux à
+  sommeil,
+ Type B : bâtiment à deux étages ou comportant des locaux à sommeil aux étages.
+Des allégements ou dispenses aux présentes prescriptions peuvent être accordés, mais
+uniquement si des mesures complémentaires, présentant des garanties de sécurité au moins
+équivalentes, sont proposées.
+
+
+
+
+                                           Figure1
+1.2.2. Mise en sécurité d'établissements existants.
+A l'occasion de la mise en sécurité d'un établissement existant, il peut être suppléé à
+certaines prescriptions réglementaires d'ordre architectural, matériel ou technique, d'un
+commun accord préalable avec l'autorité compétente, à condition toutefois :
+ que l'évacuation des personnes soit prioritairement assurée,
+ que les mesures de rechange garantissent une protection au moins équivalente,
+ que celles-ci ne soient pas assorties de façon prédominante ou exclusive de moyens
+  d'organisation ou de comportement incontrôlables et faillibles,
+ qu'il ne subsiste aucun risque à qualifier d'inacceptable.
+Les mesures de rechange, qui peuvent être proposées, doivent toujours se référer aux
+fondements des dispositions de sécurité et d’incendie décrits à l’article 1.1.1 ci-dessus.
+Toutefois, selon l’établissement, des aggravations peuvent être demandées par l’autorité
+compétente.
+
+1.3. Normes et règles techniques
+Les prescriptions indiquent certaines normes, prescriptions, directives de sécurité, d'hygiène
+et des règles de l'art à appliquer lors de la conception et de la réalisation de bâtiments. En
+absence de référence à une norme, sont d’application en général les normes européennes
+(E.N.) ou toute autre norme au moins équivalente. Toutefois, si pour des projets bien
+déterminés où une ou plusieurs normes nationales d’un des pays voisins sont mieux
+adaptées, celles - ci peuvent être acceptées au cas par cas par l’Inspection du travail et des
+mines.
+
+
+
+
+3                                                                           ITM-SST 1501.4
+1.4. Lois et règlements
+1.4.1. L'exploitant doit se conformer aux dispositions des articles L. 311-1 à L. 314-4 du Titre
+Ier - Sécurité au travail du Livre III - Protection, Sécurité et Santé des travailleurs du Code du
+travail et de ses règlements d'exécution.
+1.4.2. L'exploitant doit le cas échéant respecter les modalités :
+ des articles L. 341-1 à L. 345-1 du Titre IV - Emploi de jeunes travailleurs du Livre III -
+  Protection, Sécurité et Santé des travailleurs du Code du travail;
+ des articles L. 331-1 à L. 338-4 du Titre III - Emploi de personnes enceintes, accouchées
+  et allaitantes du Livre III - Protection, Sécurité et Santé des travailleurs du Code du travail;
+ du code des assurances sociales modifié par la loi du 2 mai 1974, de l'article 25 du code
+  des assurances sociales;
+ des articles L. 411-1 à L. 417-4 du Titre Ier - Délégations du personnel du Livre III -
+  Protection, Sécurité et Santé des travailleurs du Code du travail;
+ du règlement grand-ducal du 6 février 2007 concernant les prescriptions minimales de
+  sécurité et de santé relatives à l'exposition des travailleurs aux risques dus aux agents
+  physiques (bruit) et portant modification du règlement grand-ducal du 17 juin 1997
+  concernant la périodicité des examens médicaux en matière de médecine du travail;
+ du règlement européen (CE) n°852/2004 du Parlement européen et du Conseil du 29 avril
+  2004 relatif à l’hygiène des denrées alimentaires tel que modifié par la suite;
+ de la loi du 29 mars 2001 portant accessibilité des lieux ouverts au public;
+ du règlement grand-ducal du 23 novembre 2001 portant exécution des articles 1 et 2 de la
+  loi du 29 mars 2001.
+1.4.3. Le propriétaire et/ou l’exploitant est tenu de mettre tout en œuvre afin que soient
+respectées les exigences de stabilité à froid et à chaud du ou des bâtiments en projet ainsi
+que les modalités de Contrôle Technique de la construction conformément aux conditions
+types ITM-SST 10001.
+1.4.3. Le propriétaire de l'établissement est tenu de transmettre aux locataires ou à la
+gérance un dossier technique de sécurité contenant toutes les informations liées à la
+sécurité de l'établissement et les certificats d'entretien et de contrôles des installations
+techniques.
+1.4.5. Les exploitants d'établissements polyvalents et les organisateurs sont conjointement
+responsables des mesures de sécurité dans le cadre de ces manifestations occasionnelles
+et temporaires.
+Les organisateurs de manifestations occasionnelles et temporaires sont tenus de respecter
+les présentes prescriptions.
+Le propriétaire et/ou l'exploitant habituel de l'établissement est tenu de transmettre à ces
+derniers un dossier technique de sécurité contenant toutes les informations liées à la
+sécurité de l'établissement et les certificats d'entretien et de contrôles des installations
+techniques.
+Les organisateurs sont tenus de vérifier la validité du dossier transmis et à l'aide de ce
+dernier, ils établiront un dossier technique propre à la manifestation organisée.
+
+Article 2. Définitions
+2.1. Les définitions générales sont données par la prescription ITM-SST 1500.
+2.2. Les définitions spécifiques propres aux différents types d’établissement sont intégrées
+dans les prescriptions spécifiques.
+
+
+
+
+4                                                                              ITM-SST 1501.4
+Article 3. Implantation
+3.1. Tous les bâtiments bas sont implantés à moins de 50 m d’une voie carrossable de
+manière à faciliter d'une part, l'évacuation du public et du personnel vers la voie publique et
+d'autre part, la mise en œuvre des moyens de secours par les services de secours.
+Sont assimilés aux voies publiques, les voies privées, les impasses, les cours, les espaces
+libres, les jardins, les parcs, etc., présentant des garanties d'accès, de dégagement et de
+viabilité.
+3.2. Les voies, espaces, passages et autres chemins prévus pour l'évacuation des
+personnes sur la voie publique et pour la mise en œuvre des services de secours, doivent
+être libres et dégagés en permanence de tout obstacle, de tout véhicule en stationnement et
+de toute autre entrave.
+3.3. Sans préjudice des présentes dispositions, les établissements classés visés sont
+soumis aux règlements communaux y afférents.
+
+Article 4. Aménagements extérieurs
+4.1. Accès et circulation
+4.1.1. Les accès doivent être aménagés dans des endroits visibles, signalisés, sûrs et
+protégés de manière que tant les véhicules que les piétons puissent entrer et sortir en toute
+sécurité.
+4.1.2. Les accès sont à déterminer en accord avec les services de secours.
+4.1.3. Les accès réservés aux services de secours, de même que les bornes d’incendie et
+autres moyens de secours extérieurs doivent être dégagés en permanence. L'exploitant doit
+pourvoir aux interdictions, empêchements matériels, contrôles, surveillances et
+redressements nécessaires.
+Lorsque ces accès sont fermés pour des raisons de sécurité par des portails ou par tout
+autre système de fermeture, il y a lieu de se rapprocher des services de secours afin de
+mettre en place les moyens nécessaires qui permettent l'accès facile et permanent en cas
+d'incendie ou de tout autre sinistre nécessitant l'intervention de ces services.
+4.1.4. Les sorties de secours de l'établissement et leurs prolongements jusqu'à la voie
+publique sont examinées en accord avec les services de secours. Le cheminement depuis
+ces sorties jusqu'à la voie publique doit permettre l'évacuation des personnes en toute
+sécurité. Ces voies de circulation extérieures doivent être suffisamment éclairées en
+présence du public.
+
+4.2. Accès et circulation des personnes à mobilité réduite
+4.2.1. Pour les établissements pouvant recevoir des personnes à mobilité réduite, il y a lieu
+de tenir compte de la loi du 29 mars 2001 portant sur l'accessibilité des lieux ouverts au
+public, ainsi qu'au règlement grand-ducal correspondant du 23 novembre 2001 portant
+exécution des articles 1 et 2 de la loi du 29 mars 2001 portant sur l'accessibilité des lieux
+ouverts au public.
+
+4.3. Prévention des accidents à l'extérieur des bâtiments
+4.3.1. Le revêtement des accès extérieurs pour piétons doit être antidérapant et libre
+d'obstacles ou de dénivellement pouvant donner lieu à des trébuchements, chutes ou
+blessures. Les mêmes qualités antidérapantes sont exigées dans les escaliers et rampes. Ils
+doivent être exempts de bosses, de trous ou de plans inclinés dangereux et être fixes et
+stables.
+4.3.2. Tout obstacle situé aux abords des accès piétons, doit être aménagé et exécuté à
+arêtes arrondies et à surfaces lisses.
+
+
+5                                                                            ITM-SST 1501.4
+4.3.3. Les marches isolées éventuelles doivent être exécutées, structurées et éclairées de
+manière qu'elles puissent être visibles de jour comme de nuit.
+4.3.4. Les endroits dangereux en périphérie des chemins piétons notamment en amont des
+soupiraux, puits de jour, cavités, précipices et autres pentes escarpées, doivent être
+protégés respectivement par des grilles ou plaques et des garde-corps ou murs, exécutés et
+aménagés de manière à présenter toutes les garanties de sécurité requises.
+4.3.5. Près des entrées et aux endroits où les chemins piétons longent les façades, il y a lieu
+de veiller à la prévention des accidents pouvant être provoqués par notamment :
+ la chute et le renversement d'objets,
+ le bris de verre,
+ les vantaux, murs, coins, balcons, estrades, perrons, paliers et autres éléments saillants,
+ l'aspérité du crépi et des matériaux de construction,
+ la chute de masses de neige ou de glaçons.
+4.3.6. Tout escalier extérieur ou d'entrée de plus de 4 marches doit être muni de mains-
+courantes ainsi que, aux bords extérieurs, de parapets ou de balustrades suivant les
+besoins.
+4.3.7. Les revêtements des marches, perrons et paliers extérieurs doivent être antidérapants
+et conserver cette qualité en cas de pluie ou d'humidité.
+4.3.8. Toute défectuosité doit être redressée aussi vite que possible. En attendant, les
+endroits dangereux sont à signaliser et à protéger immédiatement.
+
+4.4. Voies d’accès et surfaces de manœuvre
+4.4.1. Chaque bâtiment ou partie d’un ensemble de bâtiments doit pouvoir être accessible
+par les échelles portables sur au moins une des façades principales de chaque aile.
+Toutefois la distance maximale à parcourir à pied par les services de secours avec les
+échelles portables et les matériels de secours est de 50m jusqu’au chemin d’évacuation
+réglementaire ou accessoire le plus éloigné.
+4.4.2. La structure et le revêtement du chemin ou de la surface de manœuvre doivent
+supporter une surcharge de 13 tonnes par essieu et de 20 tonnes sur essieux couplés. La
+pression supportable au sol doit être de 80 N/cm² conformément à la norme DIN 14090.
+4.4.3. Les chemins d’accès et les surfaces de manœuvre peuvent être constitués par un
+dallage formé de blocs de stabilisation de sols (figures 2 et 3 ci-dessous) ou un gazon
+empierré. La stabilité au sol doit être garantie. L’itinéraire du dallage doit alors être signalé
+par des arbustes, des panneaux ou tout autre moyen suffisamment clair.
+
+
+
+
+                      Figure 2                                      Figure 3
+
+4.4.4. Le calcul des dalles accessibles aux engins de secours est à faire suivant la charge
+portante des ponts 30: (Brückenklasse 30-DIN 1072) charge d’un essieu de 100 kN.
+4.4.5. Les déclivités comme les pentes et rampes ne peuvent dépasser 15 % pour les
+chemins d’accès et 10 % pour les surfaces de manœuvre.
+
+
+
+6                                                                              ITM-SST 1501.4
+4.4.6. Les passages en dessous de constructions doivent garantir un passage libre de 4,00
+m en hauteur et 5,60 m en largeur. Des deux côtés de la voie un trottoir surélevé de 20 cm
+par rapport à la chaussée et d’une largeur de 80 cm est à prévoir.
+
+
+
+
+                 Figure 4                                      Figure 5
+
+4.4.7. Les chemins d’accès et surfaces de manœuvre doivent être signalés visiblement
+comme tels par un ou des panneaux. Ce « stationnement interdit » doit être conforme au
+Code de la Route et indique: « ACCES POMPIERS »
+L'exploitant pourvoit à la permanence de ces accès en interdisant tous dépôts et
+stationnements divers.
+4.4.8. Les chemins d’accès en cul-de-sac doivent être d’une longueur inférieure à 50m. Dans
+le cas contraire une aire de retournement adaptée aux auto-échelles et aux véhicules des
+services de secours doit être aménagée.
+
+
+
+
+                                         Figure 6
+
+
+
+
+                                         Figure 7
+
+
+
+
+7                                                                         ITM-SST 1501.4
+Article 5. Construction
+5.1. Stabilité et résistance au feu des constructions
+5.1.1. Pour les bâtiments du type A, toutes les parties du gros-œuvre (murs, piliers, poutres,
+planchers, dalles, etc.) doivent répondre aux exigences statiques et aux exigences de
+résistance au feu requises pour assurer une stabilité au feu de 30 minutes (R 30).
+En fonction du type d’exploitation, des allègements peuvent être accordés par les autorités
+compétentes.
+5.1.2. Pour les bâtiments du type B, toutes les parties du gros-œuvre (murs, piliers, poutres,
+planchers, dalles, etc.) doivent répondre aux exigences statiques et aux exigences de
+résistance au feu requises pour assurer une stabilité au feu de 60 minutes (R 60).
+5.1.3. Toutefois, en ce qui concerne la stabilité au feu de la charpente sous toiture, cette
+dernière est fixée à 30 minutes. En présence d'une installation d'extinction automatique,
+aucune stabilité au feu de la charpente n'est requise.
+5.1.4. Le calcul de la stabilité au feu d’une construction se fait dans le respect des règles de
+calcul des EUROCODES accompagnées des annexes nationales luxembourgeoises.
+Conformément à ces annexes nationales, l’évaluation peut ainsi se faire par deux approches
+différentes, à savoir :
+ l’approche prescriptive basée sur le feu nominal où l’action thermique est donnée par la
+  courbe standard température/temps selon la norme internationale ISO 834,
+ l’approche performancielle basée sur le feu naturel où l’action thermique est donnée
+  par des scénarios d’incendie réel qui dépendent du type de bâtiment et de son
+  exploitation. Pour cette approche par feu naturel il y a lieu d’appliquer l’instruction
+  technique ITM-SST 1551 : « Etude de stabilité au feu à l’aide d’une approche
+  performancielle ».
+
+
+
+
+           Figure 7: Approche prescriptive et performancielle (EN 1991-1-2 avec AN-LU)
+
+
+
+
+8                                                                              ITM-SST 1501.4
+En cas de recours à une évaluation à l’aide d’approche basée sur des performances dans un
+projet, l’étude est sujette à des vérifications et à une approbation des autorités compétentes
+et d’un organisme agréé en la matière selon le tableau ci-après.
+Selon les approches choisies il peut y avoir obligation de vérification des scénarios
+d’incendie et/ou obligation d’avis sur l’étude conformément au tableau suivant.
+
+    Approche      Approche pour          Utilisation par     Obligation       Obligation de
+       pour       vérification du         les bureaux       d'accord sur      contrôle sur
+      action     comportement au            d'études       les scénarios      étude par un
+    thermique           feu                                d'incendie par      organisme
+                                                            les autorités         agréé
+                                                           compétentes
+
+                  valeurs tabulées             oui           sans objet            non
+                  pour courbe ISO
+
+     incendie    méthodes de calcul                                          Selon l’avis des
+      nominal     simplifiées (pour                                             autorités
+                                               oui           sans objet
+                  courbes ISO ou                                              compétentes
+                    normalisée)
+                 méthodes de calculs           oui           sans objet             oui
+                     avancées
+
+                   valeurs tabulées      non applicables   non applicables   non applicables
+
+                 méthodes de calcul
+     scénario    simplifiées (dans les
+                                               oui               oui                oui
+    d'incendie    cas identifiés dans
+        réel      les EUROCODES
+                      concernés)
+
+                 méthodes de calculs           oui               oui                oui
+                     avancées
+
+5.2. Isolement par rapport à des bâtiments contigus
+Les murs et autres éléments séparant l'établissement de bâtiments contigus, doivent être du
+type coupe-feu et présenter une durée de résistance au feu de 180 minutes (REI 180) au
+moins.
+
+5.3. Isolement par rapport à des établissements superposés ou contigus dans un
+même bâtiment
+Les locaux d'établissements aménagés dans des immeubles affectés également à d'autres
+fins, doivent être isolés coupe-feu 60 minutes (REI 60) au moins par rapport à ces locaux et
+espaces tiers.
+
+5.4. Communication entre le bâtiment bas et des bâtiments contigus
+Les communications entre les bâtiments bas et des bâtiments contigus sont autorisées sous
+réserve qu'elles se fassent par une porte coupe-feu et coupe-fumée du même degré que la
+stabilité au feu du bâtiment concerné et qui ne peut déboucher dans des cages d'escalier.
+
+5.5. Volumes libres intérieurs
+Les volumes libres intérieurs tels que définis dans les définitions générales feront l’objet de
+mesures particulières (désenfumage, extinction automatique et autres) qui sont soumises et
+étudiées avec les autorités compétentes.
+
+
+
+9                                                                            ITM-SST 1501.4
+5.6. Galeries
+5.6.1. Galeries ouvertes à chaque extrémité et de longueur supérieure à 60 m.
+Ces galeries doivent être équipées de systèmes de désenfumage, placés à distance
+régulière, de façon à évacuer toutes les fumées et gaz de combustion.
+5.6.2. Galeries fermées à leurs extrémités quels que soit leurs longueurs.
+ Les façades situées en vis-à-vis doivent être distantes l’une de l’autre d’au moins 10 m. Si
+  cette distance est inférieure à 10 m, une des façades concernées doit présenter un degré
+  pare-flamme de 60 minutes (E 60) ainsi que les éléments de baies éventuelles;
+ Ces galeries doivent être équipées de systèmes de désenfumage, placés à distance
+  régulière, de façon à évacuer toutes les fumées et gaz de combustion.
+
+5.7. Passages de liaison
+5.7.1. Passage ouvert : (les ouvertures libres des parois du passage de liaison représentent
+50 % de la surface de ces parois), aucune exigence n’est imposée.
+5.7.2. Passage fermé :
+ Un désenfumage peut être demandé par les autorités compétentes;
+ Les façades vitrées des bâtiments ainsi reliés, situées à moins de 1m du passage de
+  liaison, doivent être pare-flamme 30 minutes (E 30);
+ Les aménagements intérieurs doivent être conformes à l’article 6 ci-après;
+ La responsabilité, la maintenance et l’entretien du passage de liaison doivent être définies
+  clairement dès le début du projet;
+ Le passage de liaison ne peut servir de chemin d’évacuation que s’il donne directement
+  soit sur l’extérieur, soit vers un compartiment d’issue;
+ Les portes d'accès au passage situées de part et d'autre doivent être pare-flammes 30
+  minutes (E 30).
+
+5.8. Façades
+5.8.1. Façades d’un même bâtiment se faisant face :
+Si les façades d’un même bâtiment situées en vis-à-vis se trouvent à moins de 5 m, une des
+façades concernées doit présenter un degré pare-flamme de 30 minutes (E 30) ainsi que les
+éléments de baies éventuelles.
+Toutefois si le bâtiment est équipé d’une installation d’extinction automatique, cet article ne
+s’applique pas.
+5.8.2. Façades faisant face à un bâtiment tiers situé en vis-à-vis :
+Si les façades d’un bâtiment tiers situées en vis-à-vis se trouvent à moins de 8 m, une des
+façades concernées doit présenter un degré pare-flamme de 30 minutes (E 30) ainsi que les
+éléments de baies éventuelles.
+Toutefois si le bâtiment est équipé d’une installation d’extinction automatique, cet article ne
+s’applique pas.
+5.8.3. Façades formant un angle avec un bâtiment tiers :
+Lorsque deux parties de façades forment un angle il y a lieu d’appliquer l’article 7.1.1.
+
+
+
+
+10                                                                            ITM-SST 1501.4
+Article 6. Aménagements intérieurs
+6.1. Construction
+6.1.1. Aucune surface accessible ne peut servir de rétention des eaux d’extinction pour des
+raisons de sécurité des personnes en général et des services de secours en particulier.
+6.1.2. Pour les établissements et les locaux situés en sous-sol offrant des activités (lieux de
+travail permanent ou recevant du public), la différence de niveau entre le plancher le plus
+bas et le niveau de référence, ne peut dépasser 6 m.
+
+6.2. Sols et parois
+6.2.1. Il faut veiller strictement à ce que les planchers de même que les faux plafonds,
+estrades, tribunes et autres montages ne soient chargés au-delà de leur résistance statique
+et des charges admissibles, surtout en ce qui concerne les archives et dépôts, les salles de
+machines et autres équipements lourds de même que les locaux comportant d'importantes
+quantités de matériaux et d'appareillages.
+6.2.2. Dans les dépôts, la charge et le rangement des armoires, rayons, étagères et
+équipements mobiliers analogues, doivent être effectués dans le respect strict des règles de
+l'art et notamment de manière à ce qu'ils ne puissent se renverser ou s'écrouler sous des
+charges trop importantes, et que les objets rangés ne puissent s'en échapper.
+6.2.3. Les différents éléments de structure et de fixation des cloisons intérieures de
+distribution et des éléments décoratifs en relief doivent offrir une stabilité au feu de 30
+minutes au moins (R30).
+6.2.4. Les parois transparentes ou translucides (notamment les parois entièrement vitrées
+dans les locaux ou au voisinage des postes de travail et des voies de circulation) doivent
+être signalées. Elles doivent être disposées de telle façon que les personnes ne puissent ni
+se cogner contre ces parois ni être blessées lorsqu'elles volent en éclat.
+
+6.3. Revêtements des sols, des parois et des cloisons
+6.3.1. Les matériaux de revêtements des sols, planchers et marches d'escaliers doivent être
+choisis, aménagés et entretenus de manière à ce que les surfaces soient égales, compactes
+et le moins glissantes possibles.
+6.3.2. Est à éviter spécialement l'encombrement des voies de circulation par notamment :
+ des vestiaires, porte-manteaux, dépôts de parapluies ou autres effets personnels,
+ des bouchons amortisseurs, seuils saillants, plaques ou grilles de recouvrement non
+  encastrés, ainsi que d'autres aménagements et équipements qui peuvent faire trébucher
+  les personnes,
+ des tapis.
+6.3.3. Les sols, planchers et escaliers doivent être libres d'obstacles, de pointes, arêtes ou
+coins saillants, de même que de dénivellements, d'aspérités, d'inégalités ou de trous,
+susceptibles de faire trébucher les personnes.
+6.3.4. Les planchers des locaux doivent être exempts de bosses, de trous ou de plans
+inclinés dangereux. Ils doivent être fixes et stables.
+6.3.5. Cet état doit être préservé en permanence, aussi par temps de pluie ou en cas
+d'humidité, tant au voisinage des entrées et dans les halls que dans des locaux spéciaux,
+tels que les sanitaires et cuisines.
+6.3.6. Dans les escaliers s'imposent, le cas échéant, l'aménagement ou l'application de
+bandes antidérapantes sur les nez des marches.
+
+
+
+
+11                                                                           ITM-SST 1501.4
+6.3.7. Jusqu'à une hauteur de 2,20 m du sol, les revêtements des parois et des autres
+éléments verticaux de la construction délimitant les espaces de circulation et de séjour des
+personnes doivent être exécutés et aménagés de manière à exclure les risques d'accidents.
+6.3.8. Les obstacles, saillies et voûtes de faible hauteur (moins de 2,20 m), à l’exception des
+portes, sont à peindre en couleurs vives et fortement contrastées (bandes rouges/blanches
+respectivement jaunes/noires).
+
+6.4. Réaction au feu des matériaux et des aménagements intérieurs
+6.4.1. La réaction au feu des revêtements courants doit être, au moins, pour :
+ les sols : aucune exigence n’est requise,
+ les murs : Euroclasse E,
+ les plafonds et faux plafonds: Euroclasse C s2d1.
+6.4.2. Les draperies, les tentures, les éléments de décoration ou d'habillage flottants, tels
+que lambrequins dans les unités d’exploitation doivent être au moins Euroclasse C s2d1.
+L'emploi de tentures, portières ou rideaux est formellement interdit à travers des
+dégagements.
+6.4.3. La réaction au feu des revêtements des compartiments d’issues ainsi que les escaliers
+doit être, au moins, pour:
+ les sols : Euroclasse DFL-s1,
+ les murs : Euroclasse C s2d1,
+ les plafonds et faux plafonds : Euroclasse B s1d0.
+6.4.4. Le mobilier est interdit dans les compartiments d’issues ainsi que dans les escaliers.
+Toutefois il est autorisé d’installer des « coffee point » dans les couloirs, les sas situés
+devant les escaliers et les paliers devant les ascenseurs sans compartimentage particulier.
+Ces équipements doivent toutefois rester modestes et faire l’objet d’une description
+sommaire.
+
+6.5. Garde-corps et mains courantes
+6.5.1. Les vides d'escalier, les baies vitrées basses, les paliers, les gradins, les plates-
+formes et passerelles surélevées, les balcons, les côtés libres des escaliers et des rampes,
+les ouvertures dans les planchers, les trappes, les fosses, les excavations et tous les autres
+endroits donnant lieu à des risques de chute de hauteur, doivent être protégés par des
+garde-corps.
+6.5.2. Les garde-corps doivent être d’une hauteur de 1m (distance à partir du socle, si
+prévu). Ils doivent être conçus, exécutés et aménagés de manière que les personnes, y
+compris les enfants, ne puissent les escalader, passer à travers ou s'asseoir dessus. Les
+garde-corps ne doivent comporter aucune saillie risquant des accrochages.
+6.5.3. Pour la conception et le calcul des garde-corps il y a lieu d’appliquer la norme
+française NF P 01 - 012 la plus récente en date ou toute autre norme au moins équivalente.
+6.5.4. Tous les escaliers doivent être munis d'une main courante au minimum. Les escaliers,
+d'une largeur supérieure à 1,20 m, doivent avoir une main courante de part et d'autre. Elles
+doivent être placées, au moins, à une hauteur de 90 cm et au plus à 1 m.
+6.5.5. Les escaliers d'une largeur supérieure ou égale à 2,40 m et ayant plus de quatre
+marches doivent être munis de mains courantes intermédiaires espacées de 1,20 m au
+moins et de 2,40 m au plus.
+6.5.6. Du côté du vide de la cage d'escalier, les volées et les paliers doivent être protégés
+par des parois, rambardes, garde-corps ou autres aménagements solides.
+
+
+
+
+12                                                                           ITM-SST 1501.4
+6.6. Portes courantes
+6.6.1. En amont et en aval des portes donnant dans les corridors et dégagements, des
+portes coupe-feu et coupe-fumée de même que des sorties vers l'extérieur, il doit être prévu
+un espace libre, dégagé, sans marches ni pentes, d’une profondeur de 1 m au moins.
+6.6.2. Si une porte s'ouvre sur un escalier, celui-ci doit être précédé d'un palier d'une
+profondeur de 1 m au moins (voies de circulation, bureaux paysagers, couloir, etc.).
+6.6.3. Toutes les portes des locaux non accessibles au public débouchant sur des voies
+d’évacuation doivent disposer d’une signalisation « accès interdit ».
+6.6.4. Toutes les portes ne donnant pas accès à une voie de circulation, un escalier ou une
+issue doivent porter de manière apparente la mention « sans issue ».
+6.6.5. Les surfaces transparentes ou translucides des portes et portails qui ne sont pas
+constituées en matériel de sécurité ou lorsqu'il est à craindre que les personnes puissent
+être blessées lors d'un bris de glace doivent être protégées contre l'enfoncement.
+6.6.6. Les portes coulissantes doivent posséder un système de sécurité les empêchant de
+sortir de leurs rails et de tomber.
+6.6.7. Les portes et les portails s'ouvrant vers le haut doivent posséder un système de
+sécurité les empêchant de retomber.
+6.6.8. A proximité immédiate des portails et entrées destinés essentiellement à la circulation
+des véhicules, sont à prévoir (à moins que le passage ne soit protégé pour les piétons), des
+portes pour la circulation des piétons, lesquelles doivent être signalées de manière bien
+visible et rester dégagées en permanence.
+6.6.9. Les portes et portails mécaniques doivent fonctionner sans risques d'accident pour les
+salariés et le public. Ils doivent posséder des dispositifs d'arrêt d'urgence facilement
+identifiables comme tels, être facilement accessibles et pouvoir être ouverts manuellement
+sauf s'ils s'ouvrent automatiquement en cas de panne d'énergie.
+
+6.7. Portes coupe-feu et coupe-fumée
+6.7.1. En cas de passages importants, les portes coupe-feu et coupe-fumée peuvent être
+maintenues ouvertes à condition que leur fermeture soit rapide et instantanée et que, le
+fonctionnement subséquent intégral des fermes-portes mécaniques soit garanti dès que se
+déclare un incendie. Ces fonctions doivent être assurées par des dispositifs automatiques
+adéquats, soit commandés par des détecteurs de fumée autonomes, soit asservis à l'alarme
+et/ou à la détection incendie des compartiments qu'elles sont appelées à isoler
+réciproquement.
+Des portes coupe-feu et des portes coupe-fumée ne peuvent pas être des portes en va-et-
+vient.
+6.7.2. Les portes coupe-feu et coupe-fumée dans les chemins de fuite doivent toujours être à
+battants s'ouvrant en direction du flux d'évacuation. Les portes coulissantes, à
+fonctionnement automatique notamment, sont autorisées à condition que l'alarme incendie
+déclenchée dans l'un des compartiments adjacents mette hors service la commande
+automatique, que la porte se ferme instantanément et qu'elle fonctionne ensuite
+mécaniquement comme porte battante et se referme après chaque passage sous l'action de
+fermes-portes mécaniques.
+6.7.3. Au cas où les portes coupe-feu et coupe-fumée se trouvent dans les voies d'issues ou
+de circulation entre deux unités d’exploitation, excepté les accès aux cages d’escaliers, elles
+doivent être transparentes sur une partie suffisante de leurs surfaces de manière à ce que
+des personnes venant des deux directions opposées puissent se voir et de manière à ce
+qu'en cas d'incendie, elles puissent se rendre compte du degré de développement des
+flammes et des fumées dans l’autre compartiment sans avoir à s'exposer, le cas échéant, au
+danger inhérent à l'ouverture de ces portes.
+
+
+13                                                                           ITM-SST 1501.4
+6.7.4. Les portes coupe-feu doivent être certifiées par une plaquette d’identification.
+6.7.5. En allègement des présentes prescriptions les ensembles vitrés formant une cloison et
+équipés de portes coupe-feu ou coupe-fumée, peuvent, pour une surface maximale de 7m²
+porte comprise, avoir le même degré coupe-feu/coupe-fumée que celui de la porte dans les
+seuls cas suivants :
+ parois d’accès à un escalier si le bâtiment est équipé d’une installation d’extinction
+  automatique,
+ parois d’accès à une cage d’ascenseur isolée,
+ parois d’accès à une cage d’ascenseur avec escalier dont le compartimentage est
+  conforme aux présentes prescriptions (compartimentage non vitré de l’escalier par rapport
+  à l’espace « ascenseur »),
+ parois de compartiments secondaires situées au travers de dégagements, de couloirs
+  et/ou de corridors.
+
+6.8. Vitrages
+6.8.1. Les éléments vitrés doivent être équipés de vitrages de sécurité ou protégés par des
+garde-corps, des grilles ou par d'autres dispositifs ou aménagements appropriés dans les
+cas suivants:
+ les parois vitrées intérieures jusqu’à une hauteur de 1,80 m depuis le sol,
+ les portes en verre,
+ toute surface en verre en travers des circulations, dans les locaux de séjour et au
+  voisinage des postes de travail,
+ les allèges vitrées de façades,
+ la totalité des châssis vitrés extérieurs si ces derniers sont de plancher à plancher. Dans
+  le cas d’une façade à double paroi vitrée seule la paroi extérieure doit être équipée de
+  vitrages de sécurité.
+Les fenêtres situées à plus de 1 m du sol ne sont pas concernées par ces dispositions.
+6.8.2. Ils doivent également être garnis, équipés ou marqués visiblement de manière que les
+personnes puissent constater leur présence, leur position et qu'elles ne puissent se tromper
+sur la direction des voies d'issues.
+Ces dispositions s'appliquent également aux fenêtres et autres baies vitrées des façades
+aménagées à moins de 1 m du sol, dans la mesure où elles sont directement accessibles
+aux personnes.
+
+6.9. Plafonds et faux plafonds / Planchers et faux planchers
+6.9.1. Les plafonds et leurs revêtements, les faux plafonds et leurs structures de fixation, de
+même que les luminaires et tous les autres équipements et aménagements fixés aux
+plafonds et faux plafonds, doivent être exécutés, installés, aménagés et fixés conformément
+aux règles de l'art et de la sécurité et notamment, de manière à éviter tout risque de chute.
+6.9.2. Les différents éléments de structure et de fixation des faux-plafonds de même que les
+fixations des luminaires et de tous les autres équipements et aménagements aux plafonds et
+faux plafonds dans les voies de circulations et les locaux de surface supérieure à 50 m²,
+doivent avoir une stabilité au feu de 30 minutes (R 30) au moins.
+6.9.3. La structure des faux planchers doit avoir une stabilité au feu de 30 minutes (R 30).
+Toutefois lorsque leur hauteur libre n’excède pas 12 cm, cette stabilité n’est pas requise.
+6.9.4. La densité de charge calorifique maximale admissible dans les faux plafonds et faux
+planchers des chemins d’évacuation et des unités d’exploitation est de 30 MJ/m². Les 30
+MJ/m² doivent être pris sur la surface la plus défavorable de 4 x 4 m dans les locaux et les
+
+
+14                                                                             ITM-SST 1501.4
+chemins d’évacuation de largeur supérieure à 4m et de 4m x largeur si cette largeur est
+inférieure à 4m.
+Si celles-ci devaient être supérieures à 30 MJ/m², la protection au feu dans les faux plafonds
+et faux planchers doit être complétée par un compartimentage spécifique offrant une
+protection d’au moins 30 minutes à ces éléments pour les chemins d’évacuation
+respectivement par une détection incendie pour les unités d’exploitation.
+Toutefois si l’établissement est équipé d’une installation de sprinklage, la protection des faux
+plafonds peut être réalisée par le sprinklage de ces espaces.
+
+6.10. Equipement mobilier
+6.10.1. Le mobilier doit être exécuté de façon à ce que les personnes puissent l'utiliser sans
+risque de blessure. Il faut en particulier que :
+ les arêtes et coins vifs soient arrondis, brisés ou protégés,
+ les chaises, fauteuils, sièges et bancs ne puissent être renversés facilement,
+ les charnières, pivots, glissières, roulements et autres mécanismes mobiles ne
+  comportent pas de danger de coincement, d'écrasement ou de pincement,
+ les poignées, manettes, loquets, crochets, serrures et autres garnitures ne soient pas trop
+  saillants et ne présentent pas d'arêtes ou de pointes aiguës,
+ les grands tiroirs et autres dispositifs coulissants importants soient assurés contre
+  l'extraction accidentelle complète.
+6.10.2. En ce qui concerne l'aménagement du mobilier, il faut veiller à ce que :
+ la largeur réglementaire des dégagements ne soit pas réduite et le flux de la circulation ne
+  soit pas entravé,
+ les étagères, armoires, classeurs et rayonnages soient solidement mis en place et
+  assurés contre tout risque de renversement. Il en va de même en cas de manœuvre de
+  tiroirs chargés,
+ les équipements mobiles soient assurés contre des déplacements incontrôlés,
+ les objets et équipements fixés aux murs et parois ne puissent se détacher et tomber,
+ les pieds et supports ne soient saillants au point de faire trébucher les personnes.
+
+6.11. Dispositions pour les personnes à mobilité réduite
+6.11.1. Les seuils, les dénivellements, les marches, de même que les recoins, saillies et
+encoignures doivent être évités sur le passage des personnes à mobilité réduite.
+6.11.2. Des rampes intérieures doivent être parfaitement sûres et présenter les mêmes
+caractéristiques que les rampes extérieures.
+
+6.12. Dépôts de liquides inflammables
+Dans les locaux où sont stockés et/ou employés des liquides inflammables, une cuve
+étanche doit permettre la rétention des liquides en question. Le stockage de liquides
+inflammables est soumis à la loi modifiée du 10 juin 1999 relative aux établissements
+classés. Celui-ci est fonction des quantités et des types de liquides.
+
+6.13. Cheminée à feu ouvert
+La construction d'une cheminée à feu ouvert est à réaliser selon les règles de l'art. Dans un
+rayon de 2 m autour du foyer, il est interdit de stocker des matériaux inflammables ainsi que
+de mettre des meubles en bois. Le sol autour du foyer est également à réaliser dans des
+matériaux Euroclasse A.
+
+
+
+15                                                                            ITM-SST 1501.4
+Article 7. Compartimentage
+7.1. Façades
+Concernant la propagation du feu par les façades, l’Instruction Technique ITM-SST 1554
+disponible sur le site Internet à l’adresse www.itm.lu apporte des solutions techniques et
+scientifiques en fonction de la complexité des architectures.
+7.1.1. Propagation des flammes par les façades :
+Pour éviter un retour de flammes par conséquence d’une propagation du feu entre certaines
+parties comme :
+ deux compartiments principaux voisins,
+ deux types d’exploitation différents,
+ un compartiment et un escalier,
+ un compartiment et un local à risques importants.
+les façades doivent comporter, sur le plan horizontal, des éléments de construction résistant
+au feu qui doivent satisfaire pendant 30 minutes au moins au critère pare-flamme (E 30)
+(courbe ISO avec une température maximale de 600°C).
+Pour les bâtiments bas, seule la propagation du feu sur le plan horizontal doit être examinée
+et les mesures décrites ci-dessous doivent être respectées.
+a) Si l’angle formé au droit des deux parties à protéger est supérieur à 135°, l’élément
+     résistant au feu doit créer une séparation au minimum d’un mètre.
+
+
+
+
+                   Figure 8                                      Figure 9
+
+
+
+
+                                           Figure 10
+
+
+
+
+16                                                                          ITM-SST 1501.4
+b) Si l’angle formé au droit des deux parties à protéger est inférieur à 100°, les parties de
+     façade incluant l'arête du dièdre doivent créer une séparation d’une longueur horizontale
+     développée de 4 m.
+
+
+
+
+                                                 Figure 11
+c) Si l’angle est supérieur à 100° mais inférieur à 135°, cette distance est ramenée à 2m.
+
+
+
+
+                                                 Figure 12
+
+
+Si des locaux et/ou des circulations ne remplissaient pas ces conditions ponctuellement, les
+compartiments dans lesquels ils sont situés ainsi que les compartiments latéraux qui leurs
+sont contigus, doivent être équipés d’une installation d’extinction automatique à eau sur
+toutes les surfaces. Toutefois s’il s’agit d’un escalier, l’installation d’extinction automatique ne
+concerne pas cet espace.
+7.1.2. Pour certains établissements, si les façades d’un bâtiment dominent des constructions
+faisant partie ou non de ce bâtiment, les autorités compétentes peuvent être amenées à
+demander un complément de compartimentage :
+ coupe-feu 60 minutes (REI 60) sur une distance horizontale minimale de 4m à partir de
+  ces façades,
+ exigeant que sur cette distance, ni lanterneaux, ni aérateurs ni exutoires de fumée ni
+  ouvertures ne peuvent être installés à l’exception des coupoles de désenfumage des
+  cages d’escalier.
+Si ces toitures ne présentent pas ces caractéristiques, la façade du bâtiment le plus élevé
+qui les domine doit, sur une hauteur de 6m en partant du point le plus haut de la toiture,
+présenter un degré pare-flamme de 60 minutes (E 60). Il en est de même pour les baies
+vitrées.
+Toutefois si le bâtiment est équipé d’une installation d’extinction automatique, cet article ne
+s’applique pas.
+7.1.3. Tous les éléments constituant la façade doivent être au moins Euroclasse D s2d2.
+Note: Ce classement ne concerne pas les menuiseries et les fermetures des façades.
+
+
+
+17                                                                               ITM-SST 1501.4
+7.1.4. Les montants constituant l'ossature des façades légères sont fixés, à chaque étage, à
+l'ossature du bâtiment.
+7.1.5. La liaison (fermeture et fixation) de l'élément de façade au plancher doit satisfaire aux
+exigences prévues pour le plancher ou pour les parois séparant les compartiments.
+
+7.2. Bâtiment
+7.2.1. Un bâtiment doit être compartimenté coupe-feu dans les deux dimensions tous les 40
+m, créant ainsi une surface maximale de 1.600 m².
+Si le bâtiment est équipé d’une installation d’extinction automatique à eau qui répond aux
+normes applicables, la longueur et la surface d’un tel compartiment coupe-feu ainsi équipé
+peuvent passer au double (80 m respectivement 3.200 m²).
+7.2.2. Ce compartimentage coupe-feu principal se fait par des murs coupe-feu 60 minutes
+(REI 60). La communication entre deux compartiments principaux se fait par une porte
+coupe-feu 60 minutes et coupe-fumée (EI 60-S). Cette porte peut être remplacée par deux
+portes d’accès coupe-feu 30 minutes et coupe-fumée (EI 30-S) dans le cas p.ex. où une
+cage d’escalier se trouve entre deux compartiments.
+7.2.3. Les différents niveaux sont à compartimenter entre eux coupe-feu 60 minutes (REI
+60), sauf dans les parkings qui doivent être conformes aux prescriptions spécifiques. La
+hauteur d’un compartiment correspond à la hauteur d’un niveau.
+7.2.4. En présence d’un volume libre intérieur la hauteur d’un compartiment peut s’étendre
+sur plusieurs niveaux sous réserve de le soumettre aux autorités compétentes qui indiquent
+les installations de sécurité complémentaires à mettre en œuvre (extinction automatique,
+désenfumage, etc.).
+
+7.3. Compartiments d'issues
+7.3.1. Les compartiments d'issues doivent être isolés respectivement coupe-feu 30 minutes
+(REI 30) pour les bâtiments du type A et coupe-feu 60 minutes (REI 60) pour les bâtiments
+du type B par rapport à tous les autres compartiments.
+7.3.2. Au niveau d’évacuation, les accès aux compartiments d’issues des surfaces
+d’exploitation doivent se faire par des portes coupe-feu 30 minutes et coupe-fumée (EI 30-
+S).
+
+7.4. Escaliers
+7.4.1. Tous les escaliers réglementaires des bâtiments du type B doivent être
+compartimentés. Les cloisons de ces cages d’escaliers doivent être résistantes au feu 60
+minutes (REI 60). Les portes d’accès à ces cages doivent être coupe-feu 30 minutes et
+coupe-fumée (EI 30-S).
+7.4.2. Les escaliers desservant les sous-sols ne peuvent être en continuité avec les escaliers
+d'accès aux étages. Ils doivent être recoupés au niveau principal d'évacuation des
+personnes vers l'extérieur. L’accès vers un sous-sol doit se faire à travers une porte coupe-
+feu 30 minutes et coupe-fumée (EI 30-S).
+Cette exigence n’est pas à prendre en compte lorsque le bâtiment ne comporte qu’un seul
+niveau de sous-sol sous le niveau de référence.
+7.4.3. Tout escalier d’évacuation extérieur des bâtiments du type B doit être isolé pare-
+flamme 30 minutes (E 30) à l'égard des façades attenantes sur une largeur de 1 m de part et
+d'autre. Toutefois si ce dernier est situé à au moins 5 m de la façade aucune exigence
+d’isolement pare-flamme n’est requise.
+
+
+
+
+18                                                                            ITM-SST 1501.4
+7.5. Locaux à risques (liste non exhaustive et complétée par les dispositions spécifiques)
+7.5.1. Les locaux à risques, classés en quatre catégories, sont les suivants:
+ Les locaux sans risques;
+     Exemples des locaux sans risques:
+       chambres froides;
+       locaux sanitaires,
+ Les locaux à faibles risques;
+     Exemples des locaux à faibles risques:
+       bureaux individuels,
+       coffres forts,
+       cuisines ou kitchenettes d’une puissance nominale inférieure ou égale à 20 kW,
+       garde-robes, vestiaires,
+       locaux d’appareils à copier,
+       locaux de nettoyage et d’entretien d’une surface inférieure ou égale à 5 m²,
+       locaux « informatiques » d’une surface inférieure ou égale à 20 m²,
+       locaux servant au stockage d’une petite quantité de produits de nettoyage,
+       restaurants ou cantines d’un nombre ≤ 50 personnes,
+       salles de réunion, de conférence ou de formation d’un nombre ≤ 50 personnes.
+ Les locaux à risques moyens;
+     Exemples des locaux à risques moyens:
+       ateliers d'entretien;
+       archives et locaux de rangement de surfaces inférieures ou égales à 20 m²,
+       bureaux combinés,
+       bureaux paysagers,
+       chaufferies fonctionnant au gaz ou au mazout,
+       garages recevant au maximum 4 véhicules,
+       locaux de nettoyage et d’entretien d’une surface supérieure à 5 m²,
+       locaux des installations de distribution électrique dont la puissance est supérieure à
+        100 kVA, (pour les installations de distribution électrique dont la puissance est
+        inférieure à 100 kVA, il y a lieu d’appliquer l’article 13.4),
+       locaux de ventilation,
+       locaux « informatique » d’une surface supérieure à 20 m²,
+       locaux machineries ascenseurs,
+       locaux « no-break »,
+       buanderies avec une puissance nominale inférieure à 20 kW,
+       salles de restaurant ou cantines pouvant recevoir plus de 50 personnes,
+       salles recevant > 50 personnes,
+       cuisines ou cuisines collectives d’une puissance nominale supérieure à 20 kW et
+        servant un maximum de 100 personnes,
+
+19                                                                              ITM-SST 1501.4
+         Néanmoins une telle cuisine peut être considérée comme un local à faibles risques si
+         les hottes sont munies d’un système d’extinction automatique à mousse, la cuisine
+         est mise en dépression par rapport au restaurant ou cantine à l’aide de la ventilation
+         des hottes et la cuisine est cantonnée par des écrans de fumée par rapport au
+         restaurant ou la cantine. Dans ce cas, la cuisine peut également former une unité
+         avec le restaurant ou la cantine; cette unité est alors à compartimenter en
+         conséquence par rapport aux autres surfaces.
+ Les locaux à risques importants;
+     Exemples des locaux à risques importants:
+       archives, locaux de rangement, et de stockage d’une surface supérieure à 20 m²,
+       chaufferies à combustibles solides,
+       dépôts de substances dangereuses,
+       locaux contenant les groupes générateurs, postes de transformations, batteries de
+        secours,
+       local sprinklage,
+       locaux de stockage des emballages, déchets,
+       locaux poubelles,
+       buanderies avec une puissance nominale supérieure à 20 kW,
+       cuisines ou cuisines collectives d’une puissance nominale supérieure à 20 kW et
+        servant plus de 100 personnes.
+         Néanmoins une telle cuisine peut être considérée comme un local à risques moyens
+         si les hottes sont munies d’un système d’extinction automatique à mousse, la cuisine
+         est mise en dépression par rapport au restaurant ou la cantine à l’aide de la
+         ventilation des hottes et la cuisine est cantonnée par des écrans de fumée par
+         rapport au restaurant ou la cantine. Dans ce cas, la cuisine peut également former
+         une unité avec le restaurant ou la cantine; cette unité est alors à compartimenter en
+         conséquence par rapport aux autres surfaces.
+7.5.2. Pour les locaux sans risques, aucune condition de résistance au feu n’est prescrite
+pour les parois et les portes.
+Les locaux à faibles risques doivent satisfaire aux conditions de coupe-feu 30 minutes (REI
+30) pour les parois, les portes doivent être pleines.
+Les locaux à risques moyens doivent satisfaire aux conditions de coupe-feu 60 minutes (REI
+60) pour les parois et de coupe-feu 30 minutes et coupe-fumée pour les portes (EI 30-S).
+Les locaux à risques importants doivent satisfaire aux conditions de coupe-feu 90 minutes
+(REI 90) pour les parois et coupe-feu 60 minutes et coupe-fumée pour les portes (EI 60-S).
+
+
+
+
+20                                                                           ITM-SST 1501.4
+7.6. Cages d'ascenseurs
+7.6.1. Toute cage d’ascenseur ou ensemble de cages d’ascenseur est à compartimenter
+coupe-feu et coupe-fumée envers toute autre unité d’exploitation. La gaine de l’ascenseur et
+les paliers d’accès sont à délimiter par des parois coupe-feu 60 minutes (REI 60), les portes
+d’accès doivent être coupe-feu 30 minutes et coupe-fumée (EI 30-S).
+
+
+
+
+                         Figure 13 Ascenseur avec palier faisant fonction de sas.
+Tout ascenseur menant directement vers une pièce, nécessite une porte coupe-feu 30
+minutes et coupe-fumée (EI 30-S) avant la porte palière de l’ascenseur.
+
+
+
+
+               Figure 14 Ascenseur aboutissant directement dans une unité d’exploitation.
+7.6.2. Au cas où une cage d’ascenseur se trouve dans une cage d’escalier, les matériaux de
+la cage d’ascenseur doivent être non-combustibles (Euroclasse A1 ou A2).
+
+
+
+
+     Figure 15 Ascenseur installé dans la cage d’escalier et aboutissant dans une unité d’exploitation
+                                    aménagée de locaux standards.
+
+7.7. Gaines techniques
+7.7.1. Les gaines techniques verticales comportant des conduites de gaz ainsi que la
+distribution de gaz, doivent être réalisées conformément au règlement grand-ducal du 27
+février 2010 concernant les installations à gaz.
+7.7.2. L’accès aux gaines techniques verticales peut être placé dans un local à risques
+importants. Toutefois, la gaine technique et l’accès doivent être compartimentés comme un
+local à risques importants vis-à-vis du local dans lequel il se situe.
+
+21                                                                                   ITM-SST 1501.4
+7.7.3. Les gaines techniques verticales comportant des conduits d’électricité sont à
+compartimenter coupe-feu 60 minutes (EI 60) à au moins chaque deuxième étage au moyen
+d’un matériau non-combustible agréé à cet effet. Si l’accès aux gaines se trouve dans une
+cage d’escalier ou dans un sas, elles sont à recouper à chaque niveau.
+Alternativement, les gaines ne doivent pas être recoupées si elles sont ventilées au niveau
+de la toiture et de la cave. La section d’aération est au moins égale à 10 % de la section
+totale horizontale et doit avoir une surface d’au moins 4 dm².
+7.7.4. L’accès à ces gaines doit se faire par des portes coupe-feu 30 minutes coupe-fumée
+(EI 30-S), les parois doivent être coupe-feu 60 minutes (EI 60). Ces portes ne sont pas
+obligatoirement équipées de ferme-portes mais elles doivent être maintenues fermées à clef.
+7.7.5. Les pénétrations horizontales depuis les gaines verticales doivent être refermées de
+façon à assurer le coupe-feu 60 minutes des parois des gaines.
+7.7.6. Si une gaine de ventilation se trouve dans une gaine technique, des clapets coupe-feu
+automatiques sont à installer à chaque sortie de cette gaine.
+7.7.7. Les gaines de ventilation traversant des murs, parois ou dalles dont la résistance au
+feu est supérieure ou égale à 60 minutes doivent être pourvues de clapets coupe-feu de la
+même qualité que le mur qu’elles traversent. Ils doivent se fermer automatiquement en cas
+d'incendie.
+7.7.8. En allègement à l’article 7.7.1, les conduits métalliques d’un diamètre inférieur ou égal
+à 125 mm ne doivent pas obligatoirement être intégrés dans une gaine technique
+compartimentée.
+7.7.9. Les conduits de ventilation des hottes de cuisine doivent être réalisés en matériaux
+non-combustibles (Euroclasse A2 s2d0).
+7.7.10. Les conduits à eau permanent et eaux usées peuvent être en matériaux ne
+répondant à aucun critère (Euroclasse F).
+
+Article 8. Evacuation de personnes, issues et dégagements
+intérieurs
+8.1. Généralités
+8.1.1 Le dimensionnement des chemins d’évacuation peut se faire par deux approches
+différentes, à savoir :
+1. L’approche prescriptive : Les dispositions des articles 8.2 à 8.9 sont à respecter,
+2. L’approche performancielle : Des dérogations sur les articles : 8.2, 8.3, 8.4 et 8.8.3
+peuvent être accordées par les autorités compétentes par l’utilisation de simulations
+d’évacuation de personnes sous réserve d’appliquer l’instruction technique ITM-SST 1553 :
+«Simulation d’évacuation de personnes (SEP) à l’aide d’une approche
+performancielle».
+8.1.2. Pour le calcul de l'effectif, il y a lieu d'appliquer les règles de calcul de l'effectif
+théorique propres à chaque type d'établissement.
+8.1.3. La disposition des issues doit correspondre au nombre de personnes admissibles
+dans les différents locaux de l'établissement. Elles doivent être judicieusement réparties, de
+préférence à l’opposé les unes des autres et mener indépendamment vers la voie publique.
+Il est strictement interdit d'admettre un nombre de personnes supérieur à l'effectif théorique
+ou déclaré.
+8.1.4. L'installation de locaux à caractère commercial ou de salles recevant du public
+donnant sur des galeries intérieures est autorisée au niveau d'évacuation et aux niveaux
+adjacents si le reste du bâtiment dispose de ses propres sorties, indépendantes des sorties
+de l'ensemble commercial. Ces sorties peuvent être communes si l'ensemble du bâtiment
+est équipé d'une installation d'extinction automatique.
+
+22                                                                            ITM-SST 1501.4
+8.1.5. A chaque niveau, le nombre et la largeur des escaliers d'évacuation doivent être
+calculés à partir de l'effectif du niveau concerné additionné de l'effectif total des niveaux
+supérieurs pour les niveaux en étage ou inférieurs pour les niveaux en sous-sol.
+Au niveau de l’évacuation l'effectif à évacuer correspond à l'effectif total de l'ensemble de
+l'établissement.
+La détermination du nombre et de la largeur des dégagements est faite à partir des effectifs
+calculés à chaque niveau. Au niveau d’évacuation, le calcul se fait en prenant en compte
+l'effectif total de l'établissement.
+8.1.6. Leur nombre et leur largeur doivent être proportionnels au nombre des personnes
+susceptibles de les utiliser en même temps.
+8.1.7. Si des sorties, issues, escaliers, couloirs, etc. de plusieurs établissements sont utilisés
+en commun, ces dégagements doivent avoir une largeur totale proportionnelle au nombre de
+personnes appelées à les emprunter.
+8.1.8. Toute saillie pouvant accrocher les vêtements est prohibée.
+8.1.9. Il est interdit de déposer et de laisser séjourner dans les chemins d'évacuation, dans
+les escaliers et aux abords des sorties, des objets quelconques pouvant diminuer les
+largeurs réglementaires ou gêner la circulation.
+8.1.10. Tous les locaux, recevant du public ou du personnel, doivent avoir au minimum une
+sortie de secours menant directement vers un chemin d'évacuation (il ne peut y avoir ce type
+de locaux situés en 2ème position).
+8.1.11. Les sorties qui donnent directement sur la voie publique sont à sécuriser moyennant
+des garde-corps en accord avec les autorités compétentes.
+8.1.12. Le chemin d’évacuation doit :
+ être accessible à tout moment,
+ être dégagé en permanence de tout obstacle,
+ disposer d’une signalisation permettant une fuite en sécurité,
+ avoir des pentes inférieures à 10 %,
+ ne pas avoir une ou deux marches isolées,
+ être d’une largeur minimale de 1,20 m,
+ être désenfumé naturellement ou mécaniquement selon les dispositions spécifiques,
+ être interdit à tout stockage ou dépôt divers.
+8.1.13. Les issues doivent être disposées selon le principe du plus court chemin vers
+l'extérieur.
+8.1.14. Toutes les portes des sorties et issues de secours des locaux, des compartiments
+secondaires, des compartiments principaux et des niveaux totalisant au plus 200 personnes
+doivent être équipées de poignées anti-panique. Pour les locaux et les compartiments
+secondaires pouvant recevoir plus de 200 personnes, les portes de sorties et issues de
+secours doivent être équipées de barres anti-paniques. Pour les compartiments principaux et
+les niveaux totalisant plus de 200 personnes à évacuer, les portes de sorties et issues de
+secours doivent être équipées de barres anti-paniques.
+Note : Si un compartiment principal ou un niveau composé de plusieurs locaux ou de plusieurs
+compartiments secondaires recevant chacun moins de 200 personnes mais totalisant plus de 200
+personnes, seules les portes de sorties et issues de secours du compartiment principal ou du niveau
+seront équipées de barres anti-paniques.
+
+
+
+
+23                                                                              ITM-SST 1501.4
+8.2. Nombre de sorties de secours
+8.2.1. Une sortie de secours réglementaire plus une sortie accessoire :
+Chaque niveau ne recevant pas plus de 50 personnes doit offrir une sortie réglementaire et
+une sortie accessoire sans passer par la cage d’escalier (voir articles 8.6.4 et 8.6.5).
+
+
+
+
+              Figure 16                                          Figure 17
+
+8.2.2. Une seule sortie de secours réglementaire :
+En allégement de l’article 8.2.1., une seule sortie est suffisante pour les locaux techniques
+ainsi que les locaux se trouvant aux deux niveaux en sous-sol immédiatement en dessous
+du niveau d’évacuation et pouvant recevoir sur l’ensemble des deux niveaux 20 personnes
+au maximum pour des occupations de jour (salle de repos, salle de réunion, etc.), à condition
+de respecter l’article 8.3.2.
+8.2.3. Deux sorties réglementaires :
+Chaque niveau, chaque local d’un établissement recevant plus de 50 personnes et moins de
+500 personnes, doit avoir deux sorties réglementaires l'une à l'opposé de l'autre. Les deux
+sorties doivent être éloignées de plus de 10 m et de moins de 60 m.
+
+
+
+
+                                            Figure 18
+8.2.4. Trois sorties réglementaires et plus :
+Chaque niveau, chaque local occupé recevant plus de 500 personnes doit être desservi par
+au moins trois sorties réglementaires. Au-delà de 1.000 personnes une sortie
+supplémentaire doit être créée par tranche ou fraction de 500 personnes.
+
+
+
+
+24                                                                           ITM-SST 1501.4
+Deux des sorties doivent être éloignées de plus de 10 m, les autres doivent être situées à au
+moins 5 m les unes des autres.
+
+
+
+
+                                          Figure 19
+
+8.3. Distances maximales à parcourir
+8.3.1. La distance maximale à parcourir depuis un point quelconque d'un compartiment, d'un
+local ou d'un niveau pour atteindre une sortie de secours (au niveau de référence) ou un
+escalier réglementaire est de 35 m.
+
+
+
+
+                                          Figure 20
+           La distance maximale à parcourir pour sortir de tout local est de 20 m.
+
+
+
+
+                                          Figure 21
+
+
+
+
+25                                                                          ITM-SST 1501.4
+8.3.2. En aggravation de l’article 8.3.1, la distance maximale à parcourir depuis un point
+quelconque de tout local situé en cul-de-sac pour atteindre une sortie de secours ou un
+escalier réglementaire doit être de 20 m; la porte la plus éloigné de ce local doit être située à
+une distance inférieure à 15 m de la sortie de secours ou de l'escalier réglementaire.
+
+
+
+
+                                             Figure 22
+8.3.3. La distance maximale à parcourir depuis l’escalier au niveau d’évacuation jusqu’à la
+sortie en plein air est de 25 m.
+
+8.4. Dimensions des chemins d’évacuation, des issues et sorties de secours
+8.4.1. Les largeurs des couloirs, portes, corridors et sorties doivent être calculées sur la base
+minimale de 0,6 cm par personne pour l’effectif théorique cumulé. Les couloirs et les
+corridors doivent avoir une largeur minimale libre de 1,20 m.
+8.4.2. Les chemins d’évacuation, les sorties, les issues, les escaliers, etc., doivent avoir une
+hauteur suffisante pour permettre une circulation aisée du personnel et qui ne peut être
+inférieure à 2,2 m (exception faite des portes, voir article 8.7.1).
+8.4.3. Toutes les largeurs prescrites (dégagements, portes, sorties, escaliers, etc.) doivent
+être libres de toutes saillies telles que pilastres, vitrines, strapontins, vestiaires, extincteurs,
+robinets d’incendie, etc.
+
+8.5. Mesures particulières
+8.5.1. Les portes d’issues de secours, qui pour des raisons de sécurité et de surveillance,
+sont maintenues fermées et verrouillées, doivent être équipées de systèmes de
+déverrouillage certifiés.
+8.5.2. En cas de verrouillage électromagnétique asservi à une détection automatique et à
+une commande à distance, cette dernière doit être doublée sur place d’une commande
+manuelle visiblement signalisée, sans préjudice de mesures et de dispositifs spéciaux,
+acoustique, de surveillance à distance ou autres moyens d’organisation, permettant de
+prévenir, de décourager, de découvrir et d’empêcher les abus.
+8.5.3. Le déverrouillage des portes maintenues fermées au moyen de dispositifs
+électromagnétiques doit être assuré aussi en cas de panne d’électricité.
+
+8.6. Chemins d’évacuation
+8.6.1. Dans le compartiment, la communication entre escaliers ou vers les escaliers est
+assurée par des chemins d’évacuation ou des coursives qui ne peuvent traverser les cages
+d’escalier.
+8.6.2. Le chemin d’évacuation peut comprendre le hall d’entrée qui peut inclure les accès
+aux ascenseurs et des espaces non clos affectés à la réception et aux services connexes à
+l’exception de débits de boissons ou lieux de restauration.
+
+
+
+
+26                                                                               ITM-SST 1501.4
+8.6.3. Au niveau d’évacuation, les parois vitrées des commerces, restaurants, salons divers,
+bars, etc., qui forment un compartiment d’issue donnant directement à l’air libre dont la
+longueur est supérieure à 3m, doivent être coupe-feu 60 minutes (EI60) si la largeur est
+inférieure à 3 m et pare-flammes 60 minutes (E60) si supérieure à 3 m. Si ces parois vitrées
+sont équipées de portes, celles-ci doivent avoir un degré coupe-feu EI30-S respectivement
+E30-S.
+
+
+
+
+                  Figure 23                                      Figure 24
+
+8.6.4. Ne peuvent pas être considérés comme issues au sens du présent chapitre les
+cheminements à travers des locaux à risques importants. Sont interdits à titre d'issues
+règlementaires également les fenêtres, les toits, les échelles et tous les autres
+aménagements, dispositifs et équipements que les personnes n'ont pas l'habitude d'utiliser
+normalement.
+8.6.5. Les chemins d'évacuation accessoires autorisés sont:
+ les fenêtres de dimensions minimales de 90 cm par 120 cm (l·h), permettant une
+  ouverture d’au moins 90° et comportant une allège d’une hauteur maximale de 1 m,
+ les balcons d'une surface supérieure à 2 m²,
+ les toitures terrasses sous réserve qu'elles soient fermées par des garde-corps
+  réglementaires, circulables et calculées en conséquence,
+Ces fenêtres, balcons et toitures terrasses sont acceptés comme chemins d'évacuation
+accessoires sous condition qu’ils soient accessibles par une échelle portable ou auto-
+échelle.
+ Les escaliers en colimaçon dont le diamètre extérieur et la largeur doivent être au
+  minimum de 1,80m respectivement 0,80m.
+
+
+
+
+                                         Figure 25
+
+27                                                                           ITM-SST 1501.4
+8.6.6. Les couloirs de grande longueur doivent être recoupés au moins tous les 35m par des
+cloisons et portes coupe-fumée.
+Pour des raisons de circulation ces portes peuvent être tenues en position ouverte par une
+installation garantissant la fermeture automatique en cas de détection incendie ou d’alarme
+incendie ou d’une émanation de fumée.
+
+8.7. Portes
+8.7.1. Les portes doivent avoir la largeur libre minimale suivante:
+ porte à un vantail: 0,90m; tolérance: - 5 %,
+ porte à deux vantaux : 1,40m; tolérance: - 5 %.
+Les portes doivent avoir une hauteur minimale de 2m.
+8.7.2. Toutes les portes des sorties et issues de secours doivent s'ouvrir dans le sens de
+l'évacuation. Elles doivent s'ouvrir facilement et sans délai.
+Les portes des sorties et issues de secours ne peuvent pas être fermées à clef tant qu’il y a
+du public dans l’établissement. Si tel s’avérait malgré tout nécessaire, les portes en question
+doivent être munies de serrures à ouverture électromagnétique asservies à la détection.
+L’ouverture automatique de cette porte doit être complétée par une commande manuelle
+située au droit de la porte.
+8.7.3. Sur le parcours des chemins d’évacuation, les portes ne peuvent comporter de
+verrouillage empêchant leur utilisation dans le sens de l’évacuation.
+8.7.4. Si les portes sont transparentes, elles doivent être marquées et signalées de manière
+que leur présence et leur position soient clairement perceptibles. Le verre ou autre matériau
+transparent employé doit être pare-chocs et pare-éclats.
+8.7.5. Les portes va-et-vient doivent être transparentes afin que les personnes s'approchant
+des deux côtés opposés puissent se voir distinctement.
+8.7.6. En outre elles doivent être munies d'un frein les empêchant de se fermer brutalement.
+8.7.7. Les portes coulissantes, tournantes, basculantes, à tambour, ainsi que les tourniquets
+sont interdits à titre d'issues réglementaires à moins de fonctionner comme porte battante
+normale en cas d'alarme ou si elles sont titulaires d'un agrément spécifique établi par un
+laboratoire agréé.
+Les portes coulissantes motorisées peuvent être considérées comme étant des sorties de
+secours règlementaires, à condition de respecter les trois critères suivants :
+ elles doivent être équipées d’un système de secours permettant leur ouverture
+  automatique même en cas de coupure électrique,
+ elles doivent être asservies à l’alarme incendie voire à la détection incendie lorsque le
+  bâtiment en est équipé,
+ ces portes doivent avoir à proximité immédiate, une commande manuelle permettant
+  l’ouverture de ces portes.
+8.7.8. Les portes doivent être d'une manœuvre facile et sans danger. Les poignées et autres
+garnitures doivent être arrondies et exemptes de pointes et d'arrêtes aiguës. Des poignées
+rondes ne sont pas autorisées.
+
+
+
+
+28                                                                           ITM-SST 1501.4
+8.7.9. L’ouverture des portes et leur empiètement dans les chemins d’évacuation ou dans les
+paliers d’escalier doit respecter les dispositions ci-dessous :
+
+
+
+
+                                           Figure 26
+
+
+
+
+                                           Figure 27
+
+
+
+
+                                           Figure 28
+Cette disposition ne s’applique pas pour les couloirs ou parties des couloirs desservant les
+locaux techniques, archives, etc. dont les portes de ces locaux s’ouvrent sur le couloir et que
+ce couloir n’est utilisé que par un nombre restreint de personne en cas d’une évacuation.
+
+8.8. Escaliers
+8.8.1. Les escaliers doivent permettre une évacuation rapide et sûre de l’établissement.
+Par conséquent, les escaliers doivent:
+ être accessibles à tout moment,
+ être dégagés en permanence de tout obstacle,
+ disposer d’une signalisation permettant une fuite en sécurité,
+ ne pas avoir une ou deux marches isolées,
+ être interdit à tout stockage ou dépôt divers,
+
+
+
+29                                                                           ITM-SST 1501.4
+ être d’une largeur minimale de 1,20m. Le débord des mains courantes à prendre en
+  compte dans cette largeur minimale est au maximum de 10cm,
+ être désenfumés conformément à l’article 10.2. pour les escaliers intérieurs.
+Le nombre d'escaliers réglementaires à prévoir est fonction:
+ de la surface des niveaux du bâtiment,
+ du nombre de personnes admissibles au bâtiment,
+ de la longueur des chemins d’évacuation.
+8.8.2. La distance entre escaliers réglementaires doit être supérieure à 10 m et inférieure à
+60 m.
+
+
+
+
+                                            Figure 29
+
+
+
+
+                                            Figure 30
+8.8.3. La largeur utile minimale d'un escalier, palier, couloir. Etc. est la largeur libre dégagée
+de tout obstacle avec une hauteur de 2,2 m au moins. Elle est calculée sur base de 0,75 cm
+par personnes pour l’escalier descendant vers la sortie et pour un escalier montant vers la
+sortie de 1,25 cm par personne susceptible de les emprunter en même temps. La largeur
+totale des dégagements auxquels les chemins d’évacuation se raccordent, doit être au
+moins égale à la somme des largeurs totales utiles requises de ces chemins d’évacuation.
+Toutefois la largeur des escaliers ne peut être inférieure à 1,20m.
+8.8.4. Les volées d'escalier doivent être recoupées par des paliers dont la profondeur est au
+moins égale à 1,20m. Chaque volée doit compter au maximum 16 marches.
+8.8.5. Les escaliers larges de 2,40 m et d'avantage, ayant plus de quatre marches, doivent
+être munis de mains courantes intermédiaires espacées de 1,20 m au moins et de 2,40 m au
+plus.
+8.8.6. Les dimensions des marches doivent vérifier la formule 60 ≤ 2h + p ≤ 64, (h) désignant
+la hauteur et (p) la profondeur de la marche. La hauteur maximale d’une marche est de 18
+cm.
+Les hauteurs et largeurs des marches d'escaliers doivent être régulières dans la même
+volée.
+L’application de ladite formule doit tenir compte de l’utilisation future de l’escalier à réaliser
+(escalier d’évacuation, de communication, escalier représentatif, etc.). La conception de
+
+30                                                                             ITM-SST 1501.4
+l’escalier doit garantir aux personnes une utilisation confortable sans présenter un risque de
+chute élevé.
+8.8.7. Un escalier tournant est autorisé en tant que sortie réglementaire à condition que les
+marches disposent d'une largeur minimale de 28 cm sur la ligne de foulée, mesurée à 50 cm
+du faux limon et une largeur de 42 cm en extrémité extérieure. La distance entre la ligne de
+foulée et l'extrémité extérieure doit être de 1,20 m au moins. Un garde-corps ou une main
+courante doit être installée coté intérieur afin de sécuriser cette partie.
+
+
+
+
+                                           Figure 31
+8.8.8. Les escaliers, à l’exception des escaliers de secours extérieurs, doivent être à
+contremarches pleines.
+
+8.9. Signalisation de sécurité
+8.9.1. Les portes, voies d'issues et sorties doivent être signalisées par des symboles
+normalisés conformes au règlement grand-ducal du 14 novembre 2016 concernant les
+prescriptions minimales pour la signalisation de sécurité et de santé au travail.
+8.9.2. A côté du fléchage des voies d'issues et du marquage particulier des sorties, cette
+signalisation doit comporter également:
+ l'identification claire des étages, niveaux et compartiments, en particulier sur les portes y
+  donnant accès depuis les halls et les cages d'escaliers,
+ l'identification claire des portes et compartiments non accessibles au public et ne donnant
+  pas vers une issue, de même que la fermeture permanente de ces accès interdits,
+ le marquage des endroits et points dangereux,
+ le marquage indiquant l'interdiction d'utiliser les ascenseurs en cas d'incendie.
+8.9.3. Cette signalisation doit être claire, voyante, précise et uniforme et elle doit être
+apparente de façon permanente. Elle doit être mise en place à proximité des dispositifs de
+l'éclairage de sécurité ou y être incorporée.
+8.9.4. En aucun cas des panneaux de décoration et autres publicités ne doivent diminuer la
+visibilité des panneaux de signalisation des sorties et des sorties de secours.
+8.9.5. Les différents niveaux doivent être correctement repérés et signalés dans les cages
+d'escalier et ce, sur chaque palier.
+
+
+
+
+31                                                                           ITM-SST 1501.4
+8.10. Evacuation des personnes à mobilités réduites
+Les établissements (recevant du public ou non) sont, d’une part, susceptibles de recevoir
+des personnes à mobilité réduite ou atteintes d’un handicap et d’autre part peuvent compter
+parmi leur personnel des personnes à mobilité réduite ou atteintes d’un handicap. Dans les
+deux cas, outre l’accessibilité des lieux qui se fait selon la loi du 29 mars 2001 portant
+l’accessibilité des lieux ouverts au public, toutes les dispositions doivent être prises pour
+assurer leur évacuation. Des mesures constructives et/ou organisationnelles décrites ci-
+dessous doivent être mises en œuvre.
+Le nombre de personnes à mobilité réduite à évacuer est de 1% de l’effectif théorique,
+chaque tranche de 100 personnes entamée est à prendre en compte pour l’évacuation.
+8.10.1. Mesures constructives liées à l’architecture du bâtiment:
+Compte tenu de la spécificité de l’évacuation des personnes à mobilité réduite ou atteintes
+d’un handicap et de l’absence d’ascenseurs sécurisés, le principe d’évacuation de ces
+personnes est de les transférer vers un espace d’attente sécurisé.
+Cet espace d’attente sécurisé peut être un compartiment voisin, un compartiment d’issue
+(cage d’escalier), un sas, une galerie.
+Aucune barrière architectonique ne peut entraver le transfert de ces personnes en cas
+d’incendie. Pour ce faire la largeur de couloir ne peut être inférieure à 1,20m, la largeur de
+porte ne peut être inférieure à 0,90 m, la largeur de passage libre entre obstacles ne peut
+être inférieure à 1,00 m et un seuil ne peut dépasser 2,5 cm.
+Si l’établissement ou le bâtiment est doté d’un ou plusieurs ascenseurs sécurisés et destiné
+à être utilisé en cas d’un incendie, l’organisation de l’évacuation de ces personnes doit tenir
+compte de cette possibilité.
+Un espace d’attente sécurisé doit avoir une superficie de dimensions d’au moins 1,20 m x
+0,80 m pour une personne en chaise roulante et 0,6 m x 0,8 m par personne à mobilité
+réduite. Ces emplacements ne doivent pas entraver la largeur de sortie requise. L’espace
+d’attente doit contenir une aire d’un diamètre de 150 cm étant libre de tout obstacle afin de
+permettre la manipulation d’une chaise roulante.
+A défaut d’espaces d’attente sécurisés, des moyens spécifiques tels que des « chaises
+d’évacuation par escalier » doivent être mises à disposition en permanence afin d’assurer en
+toute sécurité l’évacuation des personnes à mobilité réduite.
+8.10.2. Mesures d’évacuation liées à l’organisation interne:
+Les plans et consignes d’évacuation et d’urgence doivent en tenir compte. L’ensemble du
+personnel doit être informé et recevoir une formation liée aux problèmes d’évacuation des
+personnes à mobilité réduite ou atteintes d’un handicap. Une communication doit être
+possible à partir de tout espace d’attente sécurisé.
+
+Article 9. Eclairage
+9.1. Eclairage normal
+9.1.1. L'éclairage naturel, artificiel ou mixte des espaces et locaux doit être adapté aux
+activités respectives. L'intensité lumineuse, la localisation et la répartition de l'éclairage
+doivent être telles que les personnes puissent exercer leurs activités en toute sécurité, sans
+fatigue des yeux et sans autre atteinte quelconque à leur bien-être et à leur intégrité
+physique. Pour les intensités lumineuses respectives des locaux il y a lieu de se référer à la
+condition type ITM CL-55 concernant l'éclairage sur les lieux de travail.
+9.1.2. Les accès, dégagements et escaliers extérieurs, les halls, corridors, escaliers et autres
+dégagements intérieurs, de même que tout endroit dangereux, tout passage difficile, ainsi
+que tout aménagement de fortune en rapport avec des travaux, doivent être pourvus d'un
+éclairage suffisant pour assurer la circulation facile et sûre des personnes.
+
+
+32                                                                            ITM-SST 1501.4
+9.1.3. En cas d'utilisation de lumière fonctionnant au moyen de rayons « laser », l'installation
+en question doit être conforme aux normes et prescriptions de sécurité réglant la matière.
+9.1.4. Pour les locaux recevant plus de 50 personnes, l’éclairage normal doit être conçu de
+telle façon que la défaillance d’un foyer lumineux ou de son alimentation n’ait pas pour effet
+de priver intégralement le local d’éclairage normal.
+
+9.2. Eclairage de remplacement
+9.2.1. L'éclairage de remplacement doit être alimenté par une source d'énergie électrique
+indépendante (p. ex. groupe électrogène de secours, onduleur alimenté par une batterie
+d'accumulateurs électriques, deuxième réseau d'alimentation) de la source de courant
+normale.
+9.2.2. L'intensité de l'éclairage de remplacement ne peut être inférieure à un tiers de celle de
+l'éclairage normal.
+
+9.3. Eclairage de sécurité
+9.3.1. L’éclairage de sécurité doit être réalisé conformément à la norme européenne EN
+50172.
+9.3.2. L'éclairage de sécurité doit fonctionner de telle façon qu’en cas de défaillance de
+l'éclairage normal, les personnes puissent s'orienter aisément, éviter les obstacles et
+dangers de chute ou de trébuchements éventuels et trouver les issues sans risque de
+panique.
+Sans préjudice des dispositions y afférentes spécifiées ailleurs dans le présent texte,
+l'éclairage de sécurité doit fonctionner notamment :
+ dans toutes les voies d'issues intérieures et spécialement aux portes, aux endroits
+  dangereux, aux bifurcations et croisements, dans les escaliers et près des sorties,
+ dans les entrées du bâtiment, les escaliers extérieurs et les voies d'accès principales
+  extérieures,
+ à l'intérieur des compartiments destinés à recevoir plus de 50 personnes avec marquage
+  spécial permanent des issues,
+ à l'intérieur des salles à équipements spécialisés, tels que les cuisines, dépôts, parkings
+  intérieurs et autres espaces à risques,
+ les locaux contenant des postes de travail ou des entrepôts et ayant une surface au sol
+  supérieure à 100 m²,
+ les chemins de fuite menant vers l'extérieur.
+9.3.3. L'éclairage de sécurité doit avoir une intensité lumineuse minimale de 1 LUX. Cette
+intensité lumineuse minimale est à mesurer à une distance de 20 cm du sol (ou des marches
+d'escaliers) à la fin de l'autonomie de fonctionnement de l'éclairage de sécurité.
+9.3.4. L’éclairage de sécurité doit permettre la visibilité des obstacles et l’exécution des
+travaux d’extinction en cas d’incendie.
+9.3.5. L’éclairage de sécurité doit s'allumer au plus tard 0,5 seconde après l'extinction de
+l'éclairage normal ou de l'éclairage de remplacement.
+9.3.6. L'éclairage de sécurité doit avoir une autonomie de fonctionnement d'au moins 60
+minutes.
+9.3.7. L'éclairage de sécurité est à réaliser de préférence par des sources de courant
+autonomes.
+9.3.8. Lorsque l'éclairage de sécurité est alimenté par une source de courant centrale, la
+distribution et le câblage alimentant cet éclairage doivent être installés de manière à éviter
+
+
+
+33                                                                            ITM-SST 1501.4
+tout risque de mise hors service général de l'éclairage de sécurité, soit en cas d'accident,
+soit en cas d'incendie.
+9.3.9. Le câblage de l'alimentation de sécurité doit dans tous les cas être résistant au feu
+d'un degré d’une heure au moins (P 60) ou être posé dans des gaines compartimentées
+coupe-feu 60 minutes (EI 60) jusqu’au tableau de distribution alimentant les différents blocs
+d’un même compartiment qu’il soit principal ou secondaire. Toutefois, cette gaine ne doit pas
+contenir d’autres câbles électriques ou des conduites transportant des produits dangereux.
+
+Article 10. Désenfumage (évacuation de fumée et de chaleur
+(E.F.C.))
+10.1. Généralités
+10.1.1. Les dispositions spécifiques précisent les établissements et les locaux qui doivent
+être désenfumés. Toutefois les articles 10.2, 10.3 et 10.4 ci-dessous indiquent les
+dispositions à appliquer pour le désenfumage des escaliers, des compartiments à risques
+particuliers et des salles, halls et volumes libres intérieurs.
+10.1.2. L'installation d'évacuation des fumées et de la chaleur peut être réalisée par des
+exutoires de fumée (désenfumage naturel) ou d'extracteurs de fumée (désenfumage
+mécanique). Le fonctionnement de l'installation de désenfumage doit être automatique.
+Pour la conception et le calcul d’une installation d’évacuation de fumée et de chaleur il y a
+lieu d’appliquer soit la norme européenne EN 12101 soit l’instruction technique ITM-SST
+1552 : « Conception du désenfumage et calcul des installations d’évacuation de fumée
+et de chaleur (EFC) »
+10.1.3. Le désenfumage doit être installé en stricte conformité aux règles de l'art en ce qui
+concerne notamment:
+ le système mis en œuvre et le réglage des pressions aux adducteurs et aux extracteurs
+  (vitesse de l’air),
+ les sections des gaines, de même que des débits et leur réglage asservi le cas échéant,
+ la durée de résistance au feu suffisante des gaines et machines,
+ l'interaction adéquate avec les autres équipements et moyens de secours,
+ l’amenée d’air frais.
+10.1.4. Le désenfumage doit être doublé à chaque fois d'une commande manuelle installée
+au niveau d'évacuation. L’installation doit aussi fonctionner sur alimentation de secours.
+
+10.2. Escaliers
+10.2.1. Les escaliers de secours ayant plus de deux niveaux situés en dessous du niveau de
+référence, doivent être mis à l'abri des fumées par mise en surpression des cages ou par un
+désenfumage naturel.
+10.2.2. Les escaliers de secours des bâtiments de type B doivent être désenfumés
+naturellement par l'intermédiaire d'un exutoire de fumée placé au point le plus haut de la
+cage. La commande d’ouverture automatique de ces exutoires de fumée doit se faire par
+l’intermédiaire d’un détecteur de fumée propre à l’exutoire ou par un détecteur de fumée
+raccordé à la détection incendie, placé au point le plus haut de la cage.
+La surface d’ouverture géométrique de ces exutoires doit être supérieure ou égale à 5 % de
+la section horizontale de la cage d’escalier sans être inférieure à 1m². Si une trappe se
+trouve dans un mur vertical, la surface d’ouverture de celle-ci doit être doublée. Les portes
+d'accès aux escaliers peuvent être considérées comme étant les amenées d'air servant au
+désenfumage.
+
+
+
+34                                                                         ITM-SST 1501.4
+Les commandes manuelles, des moteurs et des exutoires, par bouton-poussoir doivent être
+placées au niveau du dernier palier et au niveau de la sortie vers l’extérieur.
+
+10.3. Locaux à risques
+Tous les locaux à risques servant d’entrepôts tels que locaux de réserve, de stockage,
+d’archives, etc. d’une surface supérieure à 300m² ou d’un volume de plus de 1.000 m³ et qui
+ne disposent pas de fenêtres sont à désenfumer mécaniquement.
+Si le bâtiment est équipé d’une installation d’extinction automatique à eau qui répond aux
+normes applicables, la surface et le volume de ces locaux peuvent être doublés (600m²
+respectivement 2.000 m³).
+La commande automatique de la ventilation du désenfumage doit se faire par l’intermédiaire
+d’un détecteur de fumée, la commande manuelle par bouton-poussoir se trouvera à
+proximité de la porte d'accès au local à désenfumer.
+
+10.4. Salles, halls et volumes libres intérieurs
+10.4.1. La ventilation mécanique des salles et halls formant de grands volumes et dont la
+densité de charge calorifique est faible, peut servir de désenfumage. Dans ce cas, les
+solutions techniques doivent être soumises à l’avis des autorités compétentes. Les
+commandes manuelles prioritaires permettant l'arrêt et la mise en marche de la ventilation
+doivent être prévues sur le tableau de commande.
+10.4.2. Les volumes libres intérieurs sont à désenfumer. Le désenfumage peut se faire
+naturellement ou mécaniquement. Le dimensionnement doit être fait par un expert agréé en
+la matière. La commande automatique de la ventilation servant au désenfumage doit se faire
+à l’aide de détecteurs de fumée et de fusibles placés aux points les plus hauts, deux
+commandes manuelles par bouton poussoir doivent être placés à deux endroits facilement
+accessibles aux pompiers. Une amenée d’air frais doit être prévue. Les portes d'accès aux
+atriums peuvent être considérées comme étant les amenées d'air servant le désenfumage.
+
+Article 11. Installations techniques
+11.1. Conditions générales
+11.1.1. L'exploitant ne peut prendre ou reprendre en service une installation technique que
+s'il dispose des rapports de réception d’un organisme agréé et d’autres documents requis.
+11.1.2. Les installations techniques doivent répondre aux normes et directives en vigueur.
+Les certificats et rapports de conformité, d'examen, de vérification, de certification, de
+réception et d'autres contrôles prévus par les présentes prescriptions sont à joindre au
+registre de sécurité et à présenter aux experts et agents de l'ITM sur demande.
+
+11.2. Entretien et maintenance
+11.2.1. Les installations techniques doivent être tenues dans un état permanent de parfait
+fonctionnement grâce à une surveillance et une maintenance continue, soutenue et correcte
+selon le mode d'entretien indiqué par le fournisseur, installateur ou entrepreneur. Cet
+entretien ne peut être effectué que par des entreprises ou des personnes qualifiées et
+expérimentées.
+11.2.2. En ce qui concerne le propre personnel d'entretien, le responsable est tenu de veiller
+notamment:
+ à sa qualification,
+ à sa formation en matière de sécurité au travail,
+ à sa formation continue et son recyclage éventuel,
+ à la mise à disposition des moyens et dispositifs de protection, de premier secours, de
+  sauvetage, de signalisation et de protection individuelle,
+
+35                                                                          ITM-SST 1501.4
+ au respect des règles de la sécurité au travail.
+
+11.3. Accès aux locaux techniques
+11.3.1. Les accès aux compartiments techniques, aux locaux comportant des installations
+techniques dangereuses et de sécurité, y compris leurs appareillages, postes et tableaux,
+sont réservés au seul personnel.
+11.3.2. Les échelles fixes dont la hauteur dépasse 5 m doivent être munies de crinolines de
+sécurité ou d'un rail de fixation de harnais.
+11.3.3. Les échelles fixes doivent être munies au moins tous les 10 m de paliers. Des
+mesures de protection appropriées sont à prévoir pour éviter l’accès à ces échelles à toute
+personne non autorisée.
+
+11.4. Marquage technique
+11.4.1. Un marquage technique comportant l'identification des interrupteurs, valves, robinets,
+conduites, circuits, bouteilles, récipients, réservoirs et tous les autres éléments faisant partie
+des installations de distribution d'énergie, de gaz et de courant électrique est à installer. Il est
+particulièrement destiné au personnel technique et d'entretien, aux équipes assurant la
+maintenance, aux organismes de contrôle et au service incendie.
+11.4.2. Le marquage technique comporte aussi l'identification, à l'extérieur de leurs portes
+d'accès, de tous les locaux dangereux de même que, s'il y a lieu, des équipements
+dangereux et des récipients contenant des quantités importantes de substances, de produits
+et de préparations dangereuses, y compris les consignes relatives à la sécurité du travail.
+11.4.3. Ce marquage technique est à effectuer suivant le règlement grand-ducal sur la
+signalisation des lieux de travail et les règles de l'art. Il est destiné à prévenir les accidents
+du travail chez le personnel appelé à accéder aux dits équipements et à manipuler lesdites
+substances. Il est effectué également à l'adresse des pompiers appelés à intervenir en cas
+de sinistre.
+
+11.5. Surveillance
+11.5.1. Au-delà des interventions extérieures des hommes de l'art et des contrôles
+périodiques, l'exploitant doit maintenir une surveillance continue journalière sur place. Il doit
+procéder immédiatement dès la découverte et sur demande à des redressements de tout
+dérangement et en particulier de ceux pouvant mettre en danger les personnes.
+11.5.2. L'entreprise chargée de l'entretien courant des installations techniques ou d'une
+certaine installation technique dangereuse ou de sécurité est obligée d'instruire et d'informer
+le personnel sur place dans la mesure des besoins et en fonction de ses compétences.
+11.5.3. Les postes et tableaux de contrôle, de commande et de distribution doivent être
+équipés de dispositifs de signalisation, d'avertissement, d'essai et de commande permettant
+de constater facilement l'état de fonctionnement normal ou le dérangement.
+11.5.4. Les installations plus importantes et celles présentant des risques particuliers
+doivent, sans préjudice des charges incombant aux surveillants, être pourvues de dispositifs
+automatiques de sûreté, de détection, d'interruption d'urgence, d'avertissement ou
+d'intervention.
+
+11.6. Dégagement des locaux techniques
+11.6.1. Les locaux techniques ne peuvent être utilisés à des fins accessoires ou de remises.
+Ils doivent être constamment dégagés de tout matériau, objet ou équipement étranger
+inflammable ou autrement dangereux. Ils ne peuvent pas non plus être utilisés en vue
+d'activités étrangères.
+
+
+
+
+36                                                                               ITM-SST 1501.4
+11.7. Réseaux de distribution
+11.7.1. Toutes les entrées de gaines et conduites dans les immeubles doivent être étanches
+contre les infiltrations d’eau et de gaz.
+Cette disposition vaut pour les raccordements gaz, eau, électricité, téléphone, antenne
+collective, canalisations pour eaux usées et eaux de pluies, les gaines vides et autres
+conduites avec ou sans tuyau de protection.
+11.7.2. Les passages de toutes les gaines et conduites, au droit des compartiments
+principaux et secondaires, doivent être étanches à la fumée et résistantes à la chaleur pour
+ne pas laisser s'infiltrer et transmettre un incendie (fumées, flammes et gaz toxiques).
+11.7.3. Les conduites en matériaux inflammables et étrangères au local, susceptibles de
+propager un incendie de même que leurs appareillages ne doivent pas traverser des locaux
+à risques moyens à moins que les charges calorifiques qu’elles représentent soient au
+maximum de 30 MJ/m² ou qu'elles reçoivent une protection ou un revêtement assurant une
+résistance au feu d'au moins 60 minutes. Les 30 MJ/m² doivent être pris sur la surface la
+plus défavorable de 4 x 4 m dans les locaux et les chemins d’évacuation de largeur
+supérieure à 4m, de 4m x largeur si cette largeur est inférieure à 4m.
+11.7.4. Les conduites en matériaux inflammables et étrangères au local, susceptibles de
+propager un incendie de même que leurs appareillages ne doivent pas traverser des locaux
+à risques importants à moins qu'elles ne reçoivent une protection ou un revêtement assurant
+une résistance au feu d'au moins 90 minutes.
+11.7.5. Les conduites véhiculant des fluides dangereux doivent être installées et équipées
+suivant les règles de l'art de manière à ce que:
+ les soupapes de sûreté évacuent les surpressions à l'extérieur des bâtiments,
+ des vannes de sectionnement et des dispositifs anti-retour soient installés suivant les
+  règles de l'art.
+11.7.6. Chaque passage de câbles, de conduites ou de gaines vers un autre compartiment
+coupe-feu est à colmater au moyen d'un matériau au moins Euroclasse A2 s1d0.
+11.7.7. Les passages de conduites munis d’un dispositif certifié garantissant le
+compartimentage doivent faire l’objet d’une signalisation spécifique à l’aide d’un autocollant
+comprenant les indications suivantes :
+ le matériau utilisé,
+ le degré coupe-feu,
+ la date d’exécution.
+
+11.8. Ventilation des locaux
+11.8.1. Tous les locaux recevant des installations techniques comportant une combustion,
+une production de chaleur ou une émanation de gaz toxiques, inflammables ou explosibles,
+tels que notamment les chaufferies, les postes d'échange de chaleurs, les salles de
+machines, les magasins de substances dangereuses, les dépôts de gaz, les batteries
+d'accumulateurs et tous les autres locaux dangereux du même genre doivent être soumis à
+une aération permanente efficace.
+11.8.2. L'apport de l'air frais et l'évacuation de l'air vicié doivent être assurés suivant les
+règles de l'art et sans qu'il puisse y avoir réintroduction en une quelconque partie du
+bâtiment.
+En ce qui concerne l'évacuation, les conduits doivent être séparés suivant la nature des
+émanations à évacuer et il ne peut y avoir réunion de ces conduits à l'intérieur des
+bâtiments.
+11.8.3. Les conduites de ventilation pour l'arrivée d'air frais doivent être séparées et
+indépendantes de celles servant à l'évacuation de l'air vicié.
+
+37                                                                           ITM-SST 1501.4
+11.8.4. Les sections des débouchés doivent être suffisantes pour écarter tout danger
+d'explosion ou d'intoxication. En cas de besoin, des ventilations mécaniques réglées
+supplémentaires sont à mettre en œuvre.
+11.8.5. En cas de défaillance des équipements de ventilation indispensables, une alerte doit
+être déclenchée.
+
+11.9. Distribution de l’énergie
+11.9.1. Les prises de courant électrique, les robinets à gaz et autres points d'alimentation en
+énergie doivent être conçus et signalisés de manière à empêcher les manœuvres,
+branchements et raccordements erronés et dangereux.
+11.9.2. L'alimentation électrique des machines, appareils, installations et équipements
+accessibles aux personnes doit présenter toutes les garanties de sécurité communément
+admises et, à défaut d'une autre mesure de sécurité supplémentaire équivalente, être
+protégée par des disjoncteurs différentiels déclenchant au plus tard en présence d'un
+courant de défaut de 0,03 A.
+
+11.10. Organes de commande
+11.10.1. Les organes de commande, c’est-à-dire les interrupteurs, commutateurs ou leviers
+d'alimentation, de mise en marche ou d'enclenchement des machines, appareils ou
+installations doivent être conçus, disposés, aménagés et protégés de façon à ce que les
+manœuvres involontaires ou intempestives soient exclus.
+11.10.2. Le réarmement des alimentations de gaz en particulier doit toujours être effectué
+manuellement et strictement à l'abri de toute possibilité d'action intempestive ou abusive.
+
+11.11. Ascenseurs
+11.11.1. En cas de panne d'électricité, pour les bâtiments équipés d’un groupe électrogène,
+les cabines d'ascenseurs doivent être ramenées automatiquement et rester bloquées au
+niveau de référence respectivement au niveau le plus proche.
+11.11.2. En cas d’incendie, les ascenseurs d’un bâtiment doivent être ramenés au niveau de
+référence (respectivement au niveau le plus proche du niveau de référence, si le niveau de
+référence est concerné par une alerte d’incendie) si le bâtiment concerné est équipé d’une
+installation de détection incendie.
+11.11.3. Il faut prévoir à proximité de chaque porte d'accès à la salle de machines des
+ascenseurs normalement verrouillée ou sur le palier, à côté de l’armoire de manœuvre d’un
+ascenseur en l’absence d’un local de machines, un coffret vitré contenant la clef.
+11.11.4. Le raccordement des ascenseurs à des installations d’alimentation de sécurité
+(p.ex. groupe électrogène) permettant de les ramener au niveau de référence en cas de
+rupture de l’alimentation normale, peut se faire par du câble standard. En aucun cas cette
+alimentation secourue ne peut être utilisée afin de poursuivre le fonctionnement d’un
+ascenseur après détection d’incendie.
+
+Article 12. Installations au gaz
+12.1. Les installations à gaz doivent être conçues et réalisées selon le règlement grand-
+ducal modifié du 27 février 2010 concernant les installations à gaz dans sa dernière version.
+12.2. Les installations à gaz, comportant au moins un des appareils à gaz énumérés à
+l’article 8 paragraphe 1er du règlement grand-ducal modifié du 27 février 2010 concernant les
+installations à gaz sont à réceptionner par le service compétent de la Chambre des Métiers.
+Ensuite ces installations à gaz sont à soumettre tous les quatre ans à une révision selon le
+règlement précité dans sa dernière version.
+
+
+
+
+38                                                                           ITM-SST 1501.4
+12.3. La vanne principale du raccordement à gaz doit se trouver dans un local facilement
+accessible au service incendie. Ce local doit se trouver au rez-de-chaussée ou au premier
+sous-sol.
+12.4. A l’entrée des conduites principales d'alimentation de gaz dans le bâtiment une vanne
+télécommandée doit être installée.
+Cette vanne doit fermer automatiquement cette conduite en cas d'une alarme de fuite de gaz
+ou d'une alarme incendie dans un local dans lequel passe une conduite de gaz.
+Sont à installer des détecteurs de gaz dans les locaux comprenant les appareils à gaz ainsi
+que dans tous les espaces traversés par les conduites de gaz.
+Toutefois cette détection de gaz n’est pas nécessaire si les conditions suivantes sont
+remplies:
+ les conduites ne présentent ni raccord mécanique ni branchement,
+ les conduites sont entièrement soudées et contrôlées par radiographie avec contrôle
+  d’étanchéité périodique conformément à l’article 12.7 ci-dessous.
+12.5. Toutes les conduites transportant des gaz ou des liquides doivent être marquées ou
+peintes suivant les prescriptions allemandes (DIN 2403) et doivent porter les indications
+prévues par le règlement grand-ducal concernant la signalisation de sécurité.
+12.6. Dans les locaux à risques importants, seules les canalisations en acier assemblées par
+soudure sont autorisées. Les autres assemblages par brasage, filetage et sertissage sont
+interdits.
+12.7. Le contrôle périodique réglementaire tous les quatre ans doit porter sur l’ensemble des
+assemblages qu’ils soient soudés, brasés, sertis ou filetés. Ce contrôle doit comprendre une
+inspection visuelle et un essai d’étanchéité des conduites à gaz.
+
+Article 13. Installations électriques
+13.1. Généralités
+13.1.1. Les installations de production, de distribution, de transport et de transformation
+d'énergie électrique, ainsi que leurs annexes doivent être conçues, réalisées, entretenues et
+exploitées conformément aux normes, prescriptions et directives de sécurité, de même
+qu'aux règles de l'art, de la sécurité et de l'hygiène normalement applicables dans le Grand-
+Duché de Luxembourg, à savoir:
+ aux prescriptions allemandes afférentes DIN/VDE,
+ aux normes européennes CENELEC, au fur et à mesure que celles-ci paraissent et
+  remplacent les prescriptions DIN/VDE précitées,
+ aux prescriptions de raccordement pour les installations à courant fort disposant d’une
+  tension nominale inférieure ou égale à 1.000 V au Grand-Duché de Luxembourg (TAB-
+  BT),
+ aux prescriptions de raccordement pour les postes à moyenne tension au Grand-Duché
+  de Luxembourg (TAB-MT),
+ aux règlements communaux pour certaines villes du Grand-Duché de Luxembourg.
+13.1.2. Les fixations des chemins câbles électriques situés dans les voies de circulations et
+les locaux de surface supérieure à 50 m², doivent avoir une stabilité au feu de 30 minutes (R
+30) au moins.
+13.1.3. Toutes les commandes de coupures, partielles ou générales, des installations
+électriques de l'établissement doivent être regroupées et clairement identifiées dans un local
+situé soit au rez-de-chaussée soit au premier sous-sol. Ce local ainsi que l’ensemble des
+coupures doivent être facilement accessibles aux pompiers. L’alimentation électrique des
+installations de sécurité ne peut être coupée.
+
+39                                                                          ITM-SST 1501.4
+13.1.4. Les installations électriques sont à maintenir continuellement en bon état d'entretien,
+de sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les défectuosités et
+anomalies constatées.
+13.1.5. L'entretien régulier des installations électriques doit être assuré par un personnel
+qualifié et expérimenté. L'exploitant en est responsable et doit, soit s'assurer que les
+intéressés ont acquis les aptitudes nécessaires, soit mettre en œuvre les instructions,
+formations et formations continues requises.
+13.1.6. L'entretien doit s'effectuer dans le strict respect des règles de la sécurité du travail et
+les aménagements, équipements et moyens de sécurité doivent être prévus en
+conséquence.
+13.1.7. Lors des travaux de montage, d'entretien ou de réparation des installations
+électriques, toutes mesures efficaces doivent être prises pour protéger les travailleurs contre
+tout risque ou toute atteinte à la santé.
+13.1.8. Le personnel chargé d'effectuer des travaux aux installations électriques doit être
+instruit des précautions à prendre pour éviter les dangers de l'électricité et doit disposer du
+matériel et de l'équipement de sécurité nécessaires pour sa propre protection et pour
+l'exécution des travaux. L'exécution des travaux doit être placée sous la surveillance
+permanente d'un responsable.
+13.1.9. Pour empêcher la mise sous tension, soit accidentellement, soit par inadvertance
+d'une installation électrique sur laquelle sont effectués des travaux, toutes précautions
+appropriées doivent être prises.
+13.1.10. Les installations électriques doivent également être vérifiées par un organisme de
+contrôle, tous les cinq ans, après chaque modification ou réparation importante ou à la
+demande de l'Inspection du travail et des mines.
+
+13.2. Alimentation de sécurité
+13.2.1. Les installations techniques de sécurité assurant la protection des personnes et le
+déroulement rapide et sûr de leur évacuation, tels que notamment l'éclairage de sécurité, la
+détection incendie, la détection gaz, les installations d'extinction automatique, la signalisation
+de sécurité, les circuits et dispositifs d'alarme, les mécanismes de désenfumage doivent être
+pourvus d'une alimentation électrique de sécurité.
+Le câblage alimentant les installations de sécurité et les appareils dont le maintien en service
+est indispensable en cas de sinistre doit être installé de manière à éviter un risque de mise
+hors service général en cas d'incendie; ce câblage doit être résistant au feu d'un degré d'une
+heure (P 60).
+13.2.2. L'enclenchement de l'alimentation de sécurité doit être automatique et s'effectuer
+immédiatement à la suite de la défaillance de la source d'alimentation normale. Il doit être
+accompagné d'une alerte.
+13.2.3. Tout équipement, toute conduite et tout réseau de distribution principal de
+l'alimentation de sécurité doit être installé à l'écart ou être protégé et isolé de manière à ce
+qu'il puisse rester en fonction pendant 1 heure au moins.
+13.2.4. Les états de veille, de fonctionnement et de charge de l'alimentation de sécurité
+doivent être facilement contrôlables et bien visibles au moyen de signaux témoin, notamment
+aussi en ce qui concerne les dispositifs et blocs autonomes.
+13.2.5. Le groupe générateur servant à l'alimentation de sécurité doit être installé dans un
+local à risques importants spécialement réservé à cette fin.
+
+13.3. Protection contre la foudre
+Les personnes se trouvant dans l’établissement doivent être protégées par un système de
+protection intérieur et extérieur contre les décharges atmosphériques (paratonnerre) sous
+condition qu’une étude exige une telle protection.
+
+40                                                                              ITM-SST 1501.4
+Cette étude est à réaliser conformément aux prescriptions et normes reprises dans la
+condition type ITM-SST 1106 « Blitzschutz », la version la plus récente en vigueur.
+
+13.4. Tableaux électriques
+Les tableaux électriques dont la puissance est inférieure à 100 kVA peuvent être installés
+dans des locaux à faibles risques sous conditions qu’ils se trouvent dans des armoires
+métalliques. Ils ne peuvent être installés dans les compartiments d’issue. Dans les locaux à
+risques moyens et importants, seuls les tableaux électriques liés directement à la fonction du
+local peuvent y être installés (chaufferie, local ventilation, etc.). Si la puissance est
+supérieure à 100 kVA, il y a lieu de se référer à l’article 7.5.
+
+Article 14. Planification, équipements et procédures d’urgence
+14.1. Généralités premiers secours
+14.1.1. Les soins à prodiguer à l’intérieur d’un établissement doivent se limiter strictement
+aux premiers secours. Pour tout cas grave ou douteux, il faut immédiatement faire appel aux
+pompiers publics.
+14.1.2. A cette fin, les personnes doivent avoir accès à tout moment à un téléphone raccordé
+au réseau téléphonique public ou à un autre moyen de télécommunication équivalent. Les
+numéros ou autres consignes d’appel nécessaires et utiles doivent être visiblement affichés
+sur les appareils et dispositifs respectifs.
+14.1.3. Les exploitants des établissements, doivent veiller à disposer parmi leur personnel
+d’un nombre adéquat et suffisant de personnes formées au secourisme.
+
+14.2. Equipements de premier secours
+14.2.1. Tout établissement doit pourvoir à un équipement de premiers secours, suivant les
+règles de l’art et les prescriptions officielles en vigueur, en fonction des risques en présence
+et en fonction du nombre de personnes susceptibles d’en profiter.
+14.2.2. Cet équipement doit être entretenu, revu, contrôlé et complété régulièrement.
+14.2.3. En présence de risques accrus, des équipements supplémentaires adéquats doivent
+être prévus. On peut compter parmi ces équipements les douches oculaires, brancards,
+masques de sauvetage, lits et locaux de repos.
+
+14.3. Installation d’alarme
+14.3.1. L’alarme doit assurer suivant les exigences, la mise en action des mesures et
+dispositifs de prévention prévus, tels que le désenfumage, le déblocage de sorties
+condamnées en temps normal, la fermeture automatique des portes coupe-feu des secteurs
+sinistrés et l'extinction automatique éventuellement disponible.
+14.3.2. L'alarme est donnée au moyen de sirènes, de haut-parleurs, d'interphones, de
+téléphones, de signal visuel ou au moyen de tout autre dispositif individuel ou collectif de
+télécommunication adéquat, qui doivent être installés suivant les règles de l'art.
+14.3.3. Le signal acoustique d'alarme suivant le règlement grand-ducal du 14 novembre
+2016 concernant les prescriptions minimales pour la signalisation de sécurité et de santé au
+travail, de même que les messages subséquents, à l'adresse des clients surtout, doivent être
+choisis judicieusement et de manière à éviter tout risque de panique. Les messages tout
+particulièrement doivent être préparés à l'avance et leur diffusion doit être mise à l'épreuve et
+adaptée régulièrement.
+14.3.4. Toute action sur un bouton poussoir doit donner l’alarme générale sans
+temporisation.
+
+
+
+
+41                                                                            ITM-SST 1501.4
+14.4. Alarme générale
+14.4.1. L'alarme générale constitue l'ordre d'évacuer les lieux et déclenche les procédures
+d’évacuation. Elle est adressée à toutes les personnes présentes dans le bâtiment.
+14.4.2. L'alarme générale doit être audible de tout point du bâtiment pendant le temps
+nécessaire à l'évacuation du public. Dans les établissements dont l’activité génère un niveau
+sonore qui ne permet pas d’entendre l’alarme, des signaux visuels en complément doivent
+être mis en place et répartis judicieusement.
+
+14.5. Alarme sélective
+14.5.1. L'alarme sélective constitue l'ordre d'évacuer une partie des occupants d’un bâtiment
+ou d’un établissement et déclenche les procédures d’évacuation qui ont pour objectifs de
+décrire parfaitement les différentes zones d’évacuation.
+14.5.2. L'alarme sélective doit être audible de tout point de la zone d’évacuation concernée
+par le sinistre pendant le temps nécessaire à l'évacuation du public. Dans les établissements
+dont l’activité génère un niveau sonore qui ne permet pas d’entendre l’alarme, des signaux
+visuels en complément doivent être mis en place et répartis judicieusement.
+14.5.3. L'alarme sélective peut être immédiate ou temporisée. Dans ce cas, elle s'adresse à
+des personnes préalablement désignées, qui sont à l'écoute d'un avertissement, qui en font
+l'examen, qui décident des suites à donner et qui déclenchent les opérations et actions
+d'intervention, d'évacuation et de sauvetage nécessaires.
+Ces personnes, sous la responsabilité du chef de l’établissement, sont chargées, après
+analyse des risques, de donner l'alarme dans la zone d’évacuation concernée par le sinistre
+et l’alerte.
+
+14.6. Alarme restreinte
+14.6.1. L'alarme restreinte s'adresse à des personnes préalablement désignées, qui sont à
+l'écoute d'un avertissement, qui en font l'examen, qui décident des suites à donner et qui
+déclenchent les opérations et actions d'intervention, d'évacuation et de sauvetage
+nécessaires.
+Ces personnes, sous la responsabilité du chef de l’établissement, sont chargées, après
+analyse des risques, de donner l'alarme générale ou l’alarme sélective et l’alerte.
+14.6.2. Dès l'alarme générale ou l’alarme sélective donnée, l'alerte doit être impérativement
+déclenchée.
+14.6.3. L'exploitant, responsable de la sécurité, est chargé d'établir les consignes de
+sécurité, de désigner les personnes chargées de sécurité, de les former et d'organiser dans
+sa globalité la sécurité de son établissement.
+14.6.4. L’exploitant et les personnes chargées de la sécurité doivent s’assurer de la validité
+des procédures d’évacuations.
+14.6.5. Les procédures d’évacuation doivent notamment attirer l’attention sur l’interdiction
+d’utilisation des ascenseurs en cas d’incendie, à l’exception de ceux spécialement protégés
+et exclusivement réservés à l’évacuation des handicapés.
+
+14.7. Alerte
+14.7.1. L'organisation du système d'alerte relève de la responsabilité du chef de
+l'établissement. Les modalités d'appel des pompiers, qu'il s'agisse d'un appel direct ou via le
+réseau public de transmission d’alarme (ALARMIS), doivent être clairement affichées. Les
+personnes désignées et chargées de sécurité doivent être formées et informées de toutes
+les actions à mener.
+Les chefs ou responsables d’établissements raccordés à un réseau de type ALARMIS par
+exemple, doivent prendre toutes les mesures pour éviter les alarmes intempestives.
+
+
+42                                                                           ITM-SST 1501.4
+14.7.2. Les moyens d'alerte des pompiers publics doivent être disponibles prioritairement
+sans interruption et les modalités doivent être fixées, communiquées, affichées et mises à
+l'épreuve au préalable.
+14.7.3. Chaque appareil téléphonique doit porter lisiblement les numéros par le biais
+desquels une alerte peut être transmise à l'extérieur de l'établissement.
+14.7.4. La détection d’un incendie, d’un sinistre ou de tout autre évènement susceptible de
+mettre en danger les personnes, qu’elle soit automatique (système de détection
+automatique) ou qu’elle soit humaine (émanant du personnel ou du public), doit entraîner
+immédiatement une alerte.
+14.7.5. Les moyens techniques et d’organisation en rapport avec l’alerte doivent être prévus
+selon les règles de l’art.
+
+14.8. Plans graphiques et consignes d'évacuation
+14.8.1. Ils doivent être affichés à chaque niveau dans les circulations, à l'attention des
+personnes. Des dossiers regroupant tous les équipements d'alarme et de secours sont à
+conserver dans des endroits discrets dénommés postes de secours. Alternativement, ces
+données peuvent être distribuées à l’adresse de chaque poste de travail.
+Pour la réalisation des plans et consignes d’évacuation, il y a lieu d’appliquer la norme DIN
+ISO 23601.
+
+14.9. Procédures d’évacuation en cas d’urgence
+14.9.1. Elles doivent être établies et communiquées au personnel. Pour la rédaction de ces
+procédures il y a lieu de se référer au « GUIDE METHODOLOGIQUE pour les
+EXPLOITANTS / Procédure d’urgence et d’évacuation des personnes » ITM SST 7501
+disponible sur le site Internet à l’adresse www.itm.lu
+14.9.2. Elles doivent être revues, complétées et adaptées au moins une fois par an. Les
+différents relevés, listes, plans et consignes de même que leurs lieux d'affichage et de dépôt
+doivent être clairement recensés, numérotés et identifiés de façon qu'à l'occasion de
+modifications, il y ait remplacement intégral et qu'il n'y ait pas d'instructions périmées
+traînantes en suspens. Il est nécessaire aussi, pour la même raison, de remplacer toujours
+chaque document entièrement à l'occasion d'une modification et d'exclure les ajouts ou
+avenants risquant d'être égarés.
+14.9.3. Elles doivent être mises à l'épreuve régulièrement. Les exercices afférents aux
+procédures précitées doivent se dérouler au moins une fois par an. Ils ont pour but
+notamment:
+ de vérifier le bien-fondé, l'exactitude, les modalités et les détails prévus,
+ de familiariser le personnel et le cas échéant les intervenants extérieurs avec les
+  installations, équipements, dispositifs et moyens disponibles,
+ de vérifier le bon fonctionnement, la fiabilité et l'efficacité desdits équipements,
+  installations, dispositifs et moyens,
+ de constater et d'éliminer les points faibles et d'améliorer les modalités et mesures en
+  conséquence,
+ de former le personnel et de tenir éveillé chez lui l'esprit et le souci de sécurité,
+ l’intervention externe dans le cadre de ces exercices est à coordonner avec ces mêmes
+  services,
+ de s'assurer du bon fonctionnement des opérations d'évacuation des personnes.
+14.9.4. Les manœuvres de sauvetage et d'autres manœuvres dangereuses sont à prohiber
+strictement à l'occasion de ces exercices, de même que l'emploi de fumée artificielle ou de
+tout autre artifice analogue.
+
+
+43                                                                                ITM-SST 1501.4
+14.9.5. Tous les membres du personnel doivent participer à ces exercices, notamment dans
+le cadre de la formation continue en fonction des charges respectives qui leur sont
+assignées.
+
+Article 15. Moyens de secours et d'intervention
+15.1. Bouches d’incendie extérieures et intérieures
+15.1.1. D'autres installations, dispositifs et équipements de lutte contre l'incendie, tels que
+des réservoirs et prises d'eau, des bornes et bouches d'incendie extérieures, des bouches
+d'incendie souterraines et d'autres équipements analogues doivent être installés suivant les
+articles 15.1.4. à 15.1.6.
+15.1.2. En l'absence de réseau public ou privé et des débits indiqués à l’article 15.1.6. ci-
+après, des réservoirs d'eau, naturels ou artificiels, permettant d'assurer une pression
+dynamique et un débit conforme à l'article 15.1.6 ci-dessous, doivent être mis en place.
+15.1.3. Dans le cadre des projets d'aménagement particuliers (PAP), il y a obligation de
+mettre en place des bouches ou des bornes incendie suivant les articles 15.1.4. à 15.1.6.
+15.1.4. Les bouches (NW80) et bornes d’incendie, raccordées au réseau d'eau public ou
+privé, doivent assurer l’alimentation en eau des fourgons du service d’incendie.
+15.1.5. Le nombre et la position des bouches et bornes d'incendie raccordées à un réseau
+privé, sont définis comme suit:
+ si la distance de la façade accessible au service de secours depuis la voie publique est
+  inférieure à 80 m, il y a lieu de s'assurer qu'une bouche ou borne d'incendie publique se
+  trouve à une distance maximale de 120 m de la façade libre de tout obstacle;
+ si la distance de la façade accessible au service de secours depuis la voie publique est
+  supérieure à 80 m mais inférieure à 160 m, il doit être installé, à proximité du bâtiment,
+  une bouche ou une borne d'incendie privée;
+ si la distance de la façade accessible au service de secours est supérieure à 160 m, il doit
+  être installé une bouche ou une borne d'incendie privée tous les 80 m;
+ la distance minimale de la bouche ou de la borne à la façade est de 10 m; s’il s’agit d’une
+  construction légère cette distance doit être égale à la hauteur de la façade qui lui fait face;
+ les établissements pour lesquels une voie de circulation périphérique est demandée, des
+  bouches ou bornes d'incendie doivent être installées le long de cette voie tous les 80 m.
+15.1.6. La pression dynamique et le débit offert par le réseau doit être au minimum de 2,5
+bars et de 48 m³/h pendant 120 minutes. Toutefois dans certains cas, des pressions et des
+débits plus importants peuvent être demandés par les autorités compétentes.
+
+15.2. Extincteurs portatifs d'incendie
+15.2.1. Des extincteurs portatifs d'incendie normalisés doivent être disposés dans les
+bâtiments. Le nombre d’extincteurs est à fixer conformément aux conditions reprises en
+annexe I pour les surfaces importantes. Des extincteurs supplémentaires sont à prévoir à
+proximité des portes d’accès, respectivement dans des locaux techniques en fonction de leur
+risque.
+15.2.2. Les extincteurs doivent être conformes aux normes EN 3 et les produits d'extinction
+doivent être appropriés aux risques correspondants (voir annexe II). L'exploitant doit se faire
+remettre les certificats d'agrément et les verser au registre de sécurité.
+15.2.3. Les extincteurs portatifs d'incendie doivent être signalisés conformément au
+règlement grand-ducal du 14 novembre 2016 concernant les prescriptions minimales pour la
+signalisation de sécurité et de santé au travail. Ils doivent être facilement accessibles et
+maintenus dans un parfait état de fonctionnement. Ils doivent être emportés en vue de ces
+contrôles et échangés au préalable sur place.
+
+
+44                                                                            ITM-SST 1501.4
+15.2.4. Les extincteurs sont à contrôler par un service compétent au moins tous les 24 mois.
+15.2.5. Un extincteur une fois utilisé, ne peut être remis à son emplacement initial qu'après
+avoir été rechargé et contrôlé par un service compétent.
+
+15.3. Robinets d'incendie armés
+15.3.1. Pour les exigences et les méthodes d’essais de fabrication et de performances, il y a
+lieu d’appliquer la norme européenne EN 671-1 Installations fixes de lutte contre l'incendie -
+Systèmes équipes de tuyaux Partie 1: Robinets d'incendie armés, équipés de tuyaux semi-
+rigides.
+15.3.2. Des robinets d'incendie armés (R.I.A.) raccordés, sous pression permanente, à la
+conduite d'eau publique doivent être installés à tous les niveaux du bâtiment.
+En ce qui concerne les robinets d'incendie armés sous pression, des mesures doivent être
+prises en vue de prévenir respectivement le gel et l'altération de l'eau stagnant dans les
+colonnes et tuyauteries.
+Afin de garantir la qualité de l'eau potable dans le réseau public, les robinets d'incendie
+armés sous pression ne doivent pas avoir de connexion directe au réseau public. Cet objectif
+peut être réalisé au moyen de disconnecteurs appropriés. Il s'en suit que la pression
+permanente demandée devrait être mise à disposition par l'exploitant du bâtiment concerné.
+15.3.3. Le nombre et le choix des emplacements des R.I.A. doivent se faire de façon à
+pouvoir atteindre tous les points de l'établissement par une lance en tenant compte des
+dispositions meublées à l'intérieur de l'établissement. Ils ne peuvent être mis en place dans
+les sas, escaliers de secours et compartiments d’issues.
+15.3.4. Les tuyaux des R.I.A. doivent être du type semi-rigide, avoir un diamètre d’un pouce,
+une longueur maximale de 25 m et doivent être raccordés à la conduite d'eau par
+l'intermédiaire de raccord « STORZ » et d'une vanne de fermeture. L'alimentation des R.I.A.
+doit se faire par des conduites ayant un diamètre approprié en fonction du nombre de R.I.A.
+pouvant servir simultanément (au plus deux R.I.A. sont à tenir en compte). La pression
+dynamique des lances doit être de 0,25 MPa (2,5 bars). Le débit minimal en jet droit et jet
+diffusé ne doit pas être inférieur à 50 l/min.
+15.3.5. Les R.I.A. doivent être signalisés conformément au règlement grand-ducal du 14
+novembre 2016 concernant les prescriptions minimales pour la signalisation de sécurité et
+de santé au travail. Ils doivent être facilement accessibles et maintenus dans un parfait état
+de fonctionnement.
+15.3.6. Les R.I.A. sont à contrôler suivant la norme européenne EN 671-3 Installations fixes
+de lutte contre l'incendie - Systèmes équipés de tuyaux Partie 3: Maintenance des robinets
+d'incendie armés équipés de tuyaux semi-rigides et des postes d'eau muraux équipés de
+tuyaux plats.
+15.3.7. L'exploitant est tenu de veiller au maintien correct de la signalisation de ces
+équipements supplémentaires, à leur dégagement et libre accès permanent et à leur
+entretien régulier, aussi en ce qui concerne les bouches et bornes d'incendie extérieures
+installées dans l'enceinte de l'établissement.
+
+15.4. Colonnes sèches ou en charge
+15.4.1. Pour certains établissements, les autorités compétentes sont amenées à demander
+l'installation de colonnes sèches ou en charge. La nécessité d’une telle installation et les
+détails de réalisation sont indiqués réciproquement dans les dispositions spécifiques et ci-
+dessous.
+15.4.2. Les raccords d'alimentation de ces colonnes sèches doivent être facilement
+accessibles aux pompiers, à proximité des bouches ou poteaux d'incendie. Chaque colonne
+sèche doit être alimentée indépendamment des autres.
+
+
+
+45                                                                          ITM-SST 1501.4
+15.4.3. La capacité du système d'alimentation des colonnes en charge doit être de 60 m³/h
+sous une pression dynamique de 4,5 à 5,5 bars et pendant une heure au minimum.
+15.4.4. Les colonnes sèches ou en charge doivent alimenter tous les niveaux du bâtiment à
+l’exception du niveau de référence par l’intermédiaire de raccords STORZ de type C et de
+diamètre 42 mm. Ces prises doivent être placées dans les cages d'escalier. Les colonnes
+sèches doivent être équipées d’une vanne de fermeture qui doit être placée sous armoire
+fermée.
+
+15.5. Extinction automatique
+15.5.1. Pour certains établissements, les autorités compétentes sont amenées à demander
+l'installation d’un système d’extinction automatique. La nécessité d’une telle installation et les
+détails de réalisation sont indiqués réciproquement dans les dispositions spécifiques et ci-
+dessous.
+15.5.2. La nécessité d’une telle extinction automatique dépend de la surface totale du
+bâtiment ainsi que de sa complexité (par exemple: architecture, volumes libres intérieurs,
+matériaux utilisés, etc.). L’opportunité d’un tel système est fixé au cas par cas dans des
+discussions entre le maître d’ouvrage et l’Inspection du travail et des mines.
+15.5.3. Les locaux « archives » ayant une surface supérieure à 600 m² et un volume
+supérieur à 2.000 m³, doivent être équipés d’un système de sprinkler.
+15.5.4. Ces aménagements spécifiques feront l'objet d'un dossier technique qui doit être
+soumis à l'avis des autorités compétentes.
+15.5.5. Les sprinklers ou autres dispositifs, installations, systèmes et équipements
+d'extinction automatiques doivent être planifiés et exécutés suivant les règles de l'art et de la
+sécurité régissant la matière en appliquant p.ex. la norme EN 12845, CEA 4001, ou une
+autre norme acceptée par l’Inspection du travail et des mines. Ils doivent être entretenus,
+surveillés et contrôlés régulièrement suivant les dispositions afférentes des présentes
+prescriptions. Les dispositions du règlement communal sur la distribution d'eau potable
+destinée à la consommation humaine sont à respecter, notamment en ce qui concerne
+l'interdiction d'une connexion directe au réseau public.
+L’accès au local « sprinkler » doit être sécurisé : escalier compartimenté, compartiment
+d’issue, accès extérieur, etc.
+15.5.6. La norme EN 12845 « Systèmes d’extinction automatiques du type sprinkleur »
+prévoit en annexe « F » des exigences spécifiques supplémentaires aux systèmes de
+protection dans des cas où la sécurité des personnes est prédominante.
+Cependant l’application de ladite norme sur le territoire du Grand-Duché du Luxembourg
+dépendra de l’établissement respectivement de son exploitation.
+En principe, l’utilisation de la norme doit se faire d’après les critères tels qu’énumérés ci-
+dessous, à savoir :
+Pour les établissements suivants, l’annexe « F » de la norme sus-indiquée n’est pas
+d’application:
+1. les parkings souterrains privés,
+2. les parkings souterrains publics dont le nombre d’emplacements ne dépasse pas les 500,
+3. les bâtiments administratifs bas et moyens et dont la stabilité au feu est calculée d’après
+   la courbe au feu ISO,
+4. les locaux d’archives,
+5. les halls de production et de dépôts.
+
+
+
+
+46                                                                             ITM-SST 1501.4
+Pour les établissements suivants, l’annexe « F » de la norme sus-indiquée est
+d’application:
+1. les parkings souterrains publics dont le nombre d’emplacements est supérieur à 500.
+   Toutefois cette limite est réduite à 250 emplacements pour des parkings appartenant à
+   des établissements spécifiques comme les théâtres, halls de spectacles, halls sportifs,
+   etc. où, pendant un certain temps (à la fin des séances) un nombre élevé de personnes
+   peut se trouver simultanément dans le parking,
+2. les établissements recevant du public, comme p.ex. les surfaces de vente, les halls de
+   spectacles, etc.,
+3. les bâtiments administratifs moyens dont la stabilité au feu est calculée d’après la courbe
+   au feu réel et que l’installation d’un système de sprinklage est un élément clef pour
+   garantir la stabilité au feu exigée,
+4. les bâtiments élevés.
+15.5.7. L’extinction automatique par eau (sprinkler) n’est admise qu’avec des basses
+pressions hydrauliques (inférieurs à 12,5 bars). Des installations fonctionnant avec brouillard
+d’eau (diamètre des gouttelettes inférieur à 1 mm) sont autorisées sous condition que la
+densité de charge calorifique n’excède pas 600 MJ/m² et que le débit d’eau soit supérieur à 2
+l/m²/min pour une hauteur de l'espace, du local, de la pièce, inférieure à 2,5 m.
+
+15.6. Installation de détection incendie, d’alarme et d’alerte
+15.6.1. La nécessité d’installer une détection incendie dans un établissement est indiquée
+dans les dispositions spécifiques. Les détails techniques de réalisation sont développés tant
+dans les dispositions spécifiques que générales ci-dessous.
+15.6.2. L’installation de détection automatique d’incendie est destinée à déceler, signaler et
+localiser, sans intervention humaine, un feu à son stade initial et avertir les personnes
+susceptibles d’intervenir.
+15.6.3. Font parties de l'installation de détection notamment:
+ les dispositifs de surveillance du bon fonctionnement des machines, installations et
+  équipements,
+ les trappes coupe-feu installées dans les gaines de ventilation en cas de besoin,
+ les dispositifs autonomes électromagnétiques d'arrêt des portes coupe-feu et coupe-
+  fumée,
+ les équipements automatiques de désenfumage,
+ les boutons poussoirs et tous les autres dispositifs d'alarme manuelle,
+ les systèmes, installations et équipements d'extinction automatique éventuels.
+15.6.4. Lorsqu’une installation de détection incendie est demandée par les dispositions
+spécifiques, tous les locaux de l'établissement doivent être équipés de détecteurs
+appropriés. En cas d’alarme dans un compartiment de l’immeuble, la ventilation de celui-ci
+doit être arrêtée automatiquement.
+15.6.5. Lorsque la détection d’incendie est alimentée par une source de courant centrale, le
+câblage alimentant doit être installé de manière à éviter tout risque de mise hors service
+général de la détection d’incendie. Ce câblage doit être résistant au feu d'un degré d'une
+heure au moins.
+15.6.6. Les installations de détection sont à réaliser suivant les normes en vigueur et suivant
+les règles de l'art.
+
+
+
+
+47                                                                           ITM-SST 1501.4
+15.6.7. Ces installations, leurs détecteurs et leurs tableaux de contrôles doivent faire l'objet
+notamment:
+ quotidiennement: du contrôle de leur bon état de veille et de fonctionnement impeccable,
+ couramment: d'une intervention immédiate en présence d'un quelconque dérangement,
+ hebdomadairement: des tests et essais prescrits par l'installateur,
+ mensuellement et trimestriellement: des entretiens, interventions et travaux courants à
+  effectuer par les hommes de l'art suivant les prescriptions afférentes,
+ annuellement: du contrôle par un organisme agréé.
+15.6.8. Toute alarme liée à une installation d’extinction automatique est à raccorder au
+tableau d’alarme générale de l'établissement.
+15.6.9. La transmission automatique de l'alerte doit être obligatoirement programmée sur le
+tableau soit directement, soit à la suite d'un temps de reconnaissance de 5 minutes au
+maximum, dès la signalisation d'un sinistre (signalisation qui peut être manuelle à partir d'un
+bouton poussoir ou automatique, à partir de la détection incendie), étant entendu qu’en
+principe, la transmission instantanée automatique est prévue pour les heures où
+l'établissement n'est pas en fonctionnement et que la reconnaissance préalable par le
+personnel a essentiellement pour but d'éviter des fausses alertes et des fausses alarmes.
+15.6.10. Le tableau de contrôle doit permettre de localiser le détecteur entré en action avec
+autant de précision que possible ainsi que la reconnaissance précitée doit s'effectuer suivant
+des modalités fixées, communiquées, affichées et mises à l'épreuve au préalable.
+
+15.7. Postes de secours
+15.7.1. Les extincteurs et robinets d'incendie armés doivent être répartis judicieusement et
+stratégiquement de manière qu'ils soient facilement accessibles et que les secours puissent
+être mis en œuvre rapidement à l'égard de n'importe quel endroit de l'établissement.
+15.7.2. Pour des raisons d'efficacité et de facilité, tous les autres équipements de secours,
+les boîtiers de premiers secours, les boutons poussoirs d'alarme, les plans graphiques et
+consignes d'alarme et d'évacuation, les couvertures extinctrices, les téléphones et
+interphones d'alerte, les douches ou bains oculaires, les brancards et les masques à gaz
+doivent également être répartis judicieusement.
+
+15.8. Moyens d'intervention
+15.8.1. Suivant les exigences dues et en accord avec les services de secours, afin de
+pouvoir garantir l'accès des pompiers au bâtiment, un coffret à clef
+(Feuerwehrschlüsseldepot) doit être installé devant l’entrée principale du bâtiment. Dans ce
+coffret doit se trouver une clef générale avec laquelle les pompiers peuvent ouvrir toutes les
+portes du bâtiment ou de l’établissement et de ses locaux annexes. Derrière cette même
+porte d’entrée et afin de faciliter l’intervention des pompiers un tableau d'opération pour
+pompiers (Feuerwehrbedienfeld) doit être installé. Ces deux installations doivent répondre
+aux recommandations VDS et aux normes DIN 14661 respectivement DIN 14675.
+Dans cette entrée doit aussi se trouver le tableau principal ou un tableau parallèle de
+l’installation de détection informant sur le lieu de la détection.
+15.8.2. Tous les établissements, en accord avec les pompiers, doivent permettre la
+transmission des fréquences radio dans l'ensemble des locaux et des circulations y compris
+l’ensemble des sous-sols. Si cela n'était pas le cas, un système d'amplification doit être
+installé dans l'ensemble des zones posant problème à cette communication interne.
+15.8.3. Le plan d'intervention tel que défini dans les définitions générales peut être demandé
+par les pompiers locaux et être tenu à leur disposition dès leur arrivée en cas d'intervention.
+Pour les établissements directement reliés à la caserne locale des pompiers, un exemplaire
+du plan d'intervention leur doit être transmis obligatoirement dès la fin du chantier.
+
+48                                                                            ITM-SST 1501.4
+15.8.4. Toutes les sorties de secours réglementées doivent être accessibles aux services de
+secours par l'extérieur.
+
+15.9. Service de sécurité incendie
+Les dispositions spécifiques précisent les modalités de mise en place d’un service de
+sécurité incendie tel que défini dans les définitions générales.
+
+Article 16. Registre de sécurité
+Les registres de sécurité constituent un recueil des données et informations sur notamment
+l’entretien et l’état de sécurité des machines, équipements et installations de même que sur
+l’organisation de la sécurité, la formation du personnel et la surveillance du respect des
+prescriptions de sécurité.
+Tous les documents administratifs, autorisations d'exploitation, rapports de réception des
+bâtiments, des installations, etc., doivent être versés au Registre de sécurité (Cf. Article
+17.1.3.3).
+La tenue des registres de sécurité doit être surveillée par le travailleur désigné
+respectivement le préposé à la sécurité.
+Ils doivent être présentés, sur demande, aux experts de l’Inspection du travail et des mines
+et aux organismes agréés.
+Ils sont au nombre de cinq :
+A. Le registre des installations de sécurité, il contient :
+     Toutes les vérifications et tous les contrôles concernant les installations de sécurité
+     doivent faire l’objet d’une inscription sur un registre ouvert à cet effet.
+     Ce registre doit comprendre les mentions suivantes:
+      date, nature de la vérification,
+      personne ou organisme ayant effectué le contrôle,
+      si le contrôle a été effectué suite à un incident, la nature et la cause de l’incident.
+B. Le registre d’urgence et d’évacuation, il contient :
+      les procédures d’évacuation,
+      les rapports d’exercice d’évacuation,
+      les rapports et conclusions des réunions sur ces exercices.
+     Tous les exercices d’évacuation prévus à l’article 14.9. doivent faire l’objet d’inscriptions
+     au registre d’évacuation.
+C. Le registre des formations, il contient :
+      les coordonnées des personnes concernées et habilitées par les premières
+       interventions et leur niveau de formation,
+      les modalités, horaires et programmes des formations, entraînements et instructions du
+       personnel.
+D. Le registre des installations techniques et des machines, il contient :
+      les modes d’emploi des machines, installations et équipements techniques,
+      les fiches techniques des substances, préparations et produits dangereux,
+      les fiches de travail, les travaux d’entretien et de maintenance, les pièces échangées,
+       les transformations effectuées et toutes les données usuelles sur l’entretien et la
+       maintenance mis en œuvre,
+
+
+49                                                                                ITM-SST 1501.4
+      les rapports, propositions, inventaires, fichiers, statistiques et autres documents
+       rédigés ou tenus par le préposé à la sécurité,
+      Chaque machine et installation, quel que soit son importance, doit disposer de son
+       propre registre d’entretien. Doivent figurer sur ces registres:
+             o les opérations de maintenance que la machine ou l’installation a subies,
+             o le rapport des contrôles effectués,
+             o un descriptif de toutes les interventions et modifications effectuées sur la
+               machine ou l’installation et pouvant avoir une influence sur la sécurité du
+               personnel,
+             o les dates des interventions,
+             o le nom des personnes ou de l’organisme ayant effectué les interventions.
+E. Le registre « Accidents / Incidents », il contient :
+      les déclarations des accidents et incidents ;
+      les statistiques et enquêtes sur ces accidents et incidents ;
+      les analyses faisant suite à ces accidents et incidents.
+
+Article 17. Réception et contrôles
+17.1. Contrôles
+17.1.1. Contrôles préalables en phase de conception
+Sans préjudice des dispositions légales concernant certaines installations spécifiques tels
+que: les ascenseurs et les appareils à pression, un contrôle préalable peut être demandé par
+l’Inspection du travail et des mines, dont notamment:
+ un contrôle préalable des plans et documents de conception,
+ un contrôle préalable des installations existantes de l’établissement dans le cadre d’une
+  extension,
+ un contrôle préalable des installations existantes dans le cadre d’une mise en conformité
+  de l’établissement.
+En ce qui concerne les installations de sprinklage, un contrôle préalable est d’office exigé par
+l’Inspection du travail et des mines.
+17.1.2. Contrôles de chantier
+Sans préjudice des dispositions légales, un contrôle de chantier peut être demandé par
+l’Inspection du travail et des mines, pour notamment:
+ les plans et documents d’exécution des installations techniques,
+ les plans et documents d’exécution des installations de sécurité,
+ les éléments concourant à la stabilité à froid et à chaud du ou des bâtiments c’est à dire
+  les ouvrages de fondation, de structures, de clos et de couverts.
+17.1.3. Réception (Contrôle final)
+17.1.3.1. Une réception des installations de sécurité est obligatoire.
+17.1.3.2. Les contrôles de chantier de la stabilité à froid et/ou à chaud, s’ils étaient exigés,
+doivent faire l’objet de rapports de réception en fin de chantier.
+17.1.3.3. Les rapports de réception doivent être versés au registre de sécurité.
+
+
+
+
+50                                                                            ITM-SST 1501.4
+17.2. Contrôles périodiques
+17.2.1. Sans préjudice de leur entretien conforme et régulier, les installations de sécurité
+doivent être contrôlées conformément au document ITM-SST 10001 - Missions des
+organismes de contrôle agréés intervenant dans le cadre des compétences et attributions de
+l'Inspection du travail et des mines.
+17.2.2. Indépendamment des stipulations indiquées dans la norme utilisée pour la
+conception et la réalisation de l’installation de sprinklage, un contrôle de l’état du réseau de
+sprinklage (tuyauterie) est à effectuer tous les 12 ans pour les installations sous air et tous
+les 25 ans pour les installations sous eau.
+17.2.3. Ces contrôles périodiques sont à effectuer suivant les dispositifs légaux et
+réglementaires en vigueur et, à défaut, suivant les règles de l'art.
+17.2.4. Au-delà des périodicités normales, des contrôles intermédiaires ou supplémentaires
+doivent être effectués, notamment en cas de doute justifié, en cas de dérangements
+fréquents et à la suite de réparations ou de transformations.
+
+
+
+
+                                     Mise en vigueur le
+                                     18 septembre 2017
+
+                                               s.
+
+                                          Marco BOLY
+                                            Directeur
+                                   de l’Inspection du travail
+                                          et des mines
+
+
+
+
+51                                                                            ITM-SST 1501.4
+                                          ANNEXES
+ANNEXE I
+EXTINCTEURS PORTATIFS D’INCENDIE, CLASSES DE FEU
+Parmi les inscriptions portées sur un extincteur doivent figurer en particulier:
+ la nature de l’agent extincteur (poudre, dioxyde de carbone, etc.) ;
+ le mode d’emploi ;
+ la conformité à la norme EN3 ;
+ eventuellement les dangers et restrictions d’emploi (tel que: à ne pas utiliser sur courant
+  électrique, aérer ou ventiler après usage) ;
+ l’indication du type de classe de feu selon EN2 contre lequel il est efficace, à savoir :
+     Classe de feu A:
+      Feu de matières solides, généralement de nature organique, dont la combustion se fait
+       normalement avec la formation de braises (bois, tissus, papier, charbon, etc.) et sous
+       deux formes:
+       - combustion vive avec flamme ;
+       - combustion lente sans flamme mais avec formation de braises incandescentes.
+     Classe de feu B:
+      Feux de liquides ou de solides liquéfiables (essence, alcools, bitume, etc.)
+     Classe de feu C:
+      Feux de gaz (feux de combustibles gazeux, propane, méthane, etc.)
+     Classe de feu D:
+      Feux de métaux légers (sodium, potassium, magnésium, aluminium, etc.)
+     Classe de feu F:
+      Feux liés aux auxiliaires de cuisine (huiles et graisses) végétales et animales sur les
+       appareils de cuisson.
+      Le choix de l’agent extincteur doit être fait en fonction des classes de feu les plus
+       probables.
+
+                  Type extincteur                           Classes de feu selon EN 2
+                                                       A         B        C        D          F
+ Poudre ABC                                            +         +        +        -          -
+ Poudre BC                                             -         +        +        -          -
+ Poudre pour feu de métaux                             -         -         -       +          -
+ Dioxyde de carbone                                    -         +        **       -          -
+ Eau                                                   +         -         -       -          -
+ Eau avec additifs qui permettent d’éteindre           +         +         -       -          -
+ également des incendies de type B
+ Mousse                                                 +        +        -        -          *
+ Extincteur de classe F                                                                       +
+ + = approprié              - = non approprié
+ **=oui si lance adaptée
+ *= oui si mousse adaptée
+
+
+
+
+52                                                                             ITM-SST 1501.4
+ANNEXE II
+CALCUL DU NOMBRE DES EXTINCTEURS A INSTALLER
+1. Déterminer le risque d’incendie suivant l’exploitation et l’aménagement intérieur,
+     Petit risque d’incendie existe si les matériaux ont une inflammabilité mineure et que les
+     conditions dans les locaux sont telles qu’un début de feu est peu probable et que la
+     propagation du feu est peu importante.
+     Risque moyen d’incendie existe si les matériaux ont une inflammabilité moyenne et que
+     les conditions dans les locaux sont plutôt favorables à un début de feu mais qu’il n’y a pas
+     une propagation du feu importante au début.
+     Risque important d’incendie existe si les matériaux ont une inflammabilité importante et
+     que les conditions dans les locaux sont très favorables à un début d’incendie et qu’il y a
+     une propagation de feu importante au début ou si une classification dans les catégories
+     de petit ou moyen risque d’incendie ne peut pas être faite.
+
+
+                           Risque d’incendie en référence à l’article 7.5
+
+                 faible                           moyen                           important
+
+      Halls d’entrée, surface de       Surfaces       informatiques      Archives,   menuiseries,
+      bureau sans stocks de            avec stocks de papier,            stockage avec charge
+      papier, surface informatique     cuisines, surface de bureau       calorifique  importante,
+      sans stocks de papier,           avec stocks de papier,            etc.…
+      etc.…                            archives, etc.…
+2. Déterminer le nombre des unités d’extinction (UE) en fonction de la surface et du
+   risque dans le tableau 1,
+        Surface (m²)                      Unités d’extinction (UE)
+                             risque petit      risque moyen        risque important
+              50                  3                   6                   12
+              100                 5                   9                   18
+              200                 6                  12                   24
+              300                 8                  15                   30
+              400                 9                  18                   36
+              500                11                  21                   42
+              600                12                  24                   48
+              700                14                  27                   54
+              800                15                  30                   60
+              900                17                  33                   66
+             1000                18                  36                   72
+      Pour chaque tranche         3                   6                   12
+      supplémentaire de
+            250 m²
+          Tableau 1: Unités d’extinction (UE) en fonction de la surface et du risque d’incendie
+
+
+
+
+53                                                                                   ITM-SST 1501.4
+3. Déterminer le genre, le nombre et le volume des extincteurs ou déterminer le nombre
+   d’extincteurs si le produit est connu en utilisant le tableau 2. La somme des unités
+   d’extinction doit correspondre à celle du tableau 1.
+     A partir de 400 m² de surface, au maximum un tiers des UE du tableau 1 peut être
+     remplacé par des RIA. La présence des RIA, par compartiment principal, correspond à un
+     maximum de 18 UE.
+         Unités d’extinction                 Marquage des extincteurs d’après EN 3
+
+                                       Solides combustibles            Liquides inflammables
+                                          classe de feu A                 classe de feu B
+
+                  1                               5A                                21B
+
+                  2                               8A                                34B
+
+                  3                                                                 55B
+
+                  4                               13A                               70B
+
+                  5                                                                 89B
+
+                  6                               21A                               113B
+
+                  9                               27A                               144B
+
+                  10                              34A
+                  12                              43A                               183B
+
+                  15                              55A                               233B
+                   Tableau 2: Unités d’extinction (UE) et extincteurs d’après EN3
+
+
+Exemples de calcul:
+Exemple 1:
+Bureau de 110 m² sans stock de papier et pas de RIA. Présence de solides combustibles
+classe de feu A:
+D’après tableau 1, vu que les 110 m² sont dépassés, il faut considérer 200 m², petit risque =
+6 UE. Ont été choisis des extincteurs du type 13A/70B, d’après tableau 2 un extincteur du
+type 13A/70B correspond à 4 UE. Il faut 6 UE divisé par 4 UE, donc 2 extincteurs.
+Exemple 2:
+Un bureau avec stock de papier d’une surface de 570 m², équipé de RIA.
+Présence de solides combustibles classe de feu A:
+D’après tableau 1: risque moyen = 24 UE, déduction d’1/3 des UE pour le RIA, il reste 24 –
+(24/3) = 16 UE. Ont été choisis des extincteurs du type 21A/113B, d’après tableau 2 un
+extincteur du type 21A/113B correspond à 6 UE. Il faut 16 UE divisé par 6 UE, donc 3
+extincteurs du type 21A/113B.
+
+
+
+
+54                                                                                  ITM-SST 1501.4
+ANNEXE III
+Relation entre les différentes dispositions / instructions techniques
+     Définitions       Dispositions                             Dispositions
+     générales          générales                               spécifiques
+
+
+                                      ITM-SST 1504 Bâtiments administratifs
+
+                                      ITM-SST 1505 Restaurants recevant plus de 50 personnes
+
+                                      ITM-SST 1506 Parkings couverts de plus de 50 véhicules
+
+                                      ITM-SST 1507 Salles de spectacles
+
+                                      ITM-SST 1508 Etablissements de vente - Centres commerciaux
+
+                                      ITM-SST 1509 Etablissements d'hébergements
+
+                                      ITM SST 1510 Etablissements de soins - Etablissements pour
+                                      personnes âgées
+
+                   ITM-SST 1501       ITM-SST 1511 Etablissements artisanaux et industriels ≤ 10.000
+                                          2
+                   Bâtiments bas      m
+
+                                      ITM-SST 1512 Installations de natation
+
+
+ITM-SST 1500       ITM-SST 1502
+                                      ITM-SST 1513 Logements encadrés
+Définitions        Bâtiments moyens
+
+                                      ITM-SST 1514 Service d'éducation et d'accueil pour enfants non-
+                                      scolarisés et structure de nuit pour enfants en bas âge
+
+                   ITM-SST 1503
+                                      ITM-SST 1515 Chantiers
+                   Bâtiments élevés
+
+                                      ITM-SST 1524 Service d'éducation et d'accueil pour enfants
+                                      scolarisés
+
+                                      ITM-SST 1560 Prescriptions de prévention de la panique -
+                                      Dispositions spécifiques - Concerts en plein air recevant plus de
+                                      5.000 personnes
+
+                                              Instructions techniques -Méthodes d'ingénieur
+
+                                      ITM-SST 1551 Etude de stabilité au feu à l'aide de la méthode
+                                      performancielle
+
+                                      ITM-SST 1552 Conception du désenfumage et calcul des
+                                      installations d'évacuation de fumée et de chaleur (EFC)
+
+                                      ITM-SST 1553 Simulation d'évacuation de personnes à l'aide
+                                      d'une approche performancielle
+
+
+                                      ITM-SST 1554 Spécifications techniques pour les façades
+
+
+
+
+55                                                                                ITM-SST 1501.4
+

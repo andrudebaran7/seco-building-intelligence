@@ -1,0 +1,491 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                               Strassen, SEPTEMBRE 2012
+
+
+
+                                                                                          ITM-SST 1706.1
+                                                                                          Ancien N° ITM-CL 148.4
+
+
+
+
+                             Installations d’extinction automatiques
+
+                               fonctionnant avec un gaz d'extinction
+
+                                                Prescriptions de sécurité types
+
+
+                                          Le présent document comporte 10 pages
+
+                                                                  Sommaire
+
+    Article                                                                                                          Page
+
+
+      1                                  Objectif et domaine d'application                                                 2
+      2                                  Définitions                                                                       2
+      3                                  Normes et règles techniques                                                       3
+      4                                  Prescriptions générales                                                           3
+      5                                  Conception et aménagement de l'installation                                       4
+      6                                  Cycle de fonctionnement                                                           5
+      7                                  Aménagement des locaux protégés par l’installation
+                                         d’extinction au gaz                                                               5
+     8                                   Bouteilles à gaz                                                                  6
+     9                                   Signalisation                                                                     7
+    10                                   Transmission d’alarmes                                                            8
+    11                                   Formation du personnel                                                            8
+    12                                   Réception et contrôles périodiques                                                8
+    13                                   Entretien, modifications et réparations                                           8
+    14                                   Registre de sécurité                                                              9
+    Annexe                                                                                                                10
+
+
+          _____________________________________________________________________________________________________________________
+          Direction, Département Sécurité et Santé
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3 rue des Primeurs, L-2361 Strassen Tél : 247-86145   Fax: 40 60 47
+          Site Internet : http://www.itm.lu
+Art. 1er – Objectif et domaine d'application
+
+
+1.1 Les présentes prescriptions ont pour objectif de spécifier les prescriptions
+générales de sécurité relatives aux installations d'extinction automatiques
+fonctionnant avec un gaz d’extinction accepté par l’Inspection du travail et des mines.
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être
+accordés de cas en cas, mais uniquement si des mesures de rechange garantissant
+une protection au moins équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de
+sécurité équivalent par un organisme de contrôle et acceptées comme telles par
+l'Inspection du travail et des mines.
+
+
+Art. 2. – Définitions
+
+2.1 Sous la dénomination « organisme de contrôle » est à comprendre, dans le
+contexte des présentes prescriptions tout organisme autorisé par le règlement
+ministériel concernant l’intervention des organismes de contrôle, dans le cadre des
+compétences et attributions de l’Inspection du travail et des mines le plus récent en
+date, du Ministre ayant le travail dans ses attributions.
+
+2.2 Sous la dénomination « ITM » est à comprendre l’Inspection du travail et des
+mines.
+
+2.3 Préalerte, Alerte, Temporisation
+
+
+                                               Temporisation : 30 s maximum
+                                                               10 s minimum
+
+
+
+
+                                                                              temps
+
+        Préalerte :                     Alerte :                   Ejection du gaz :
+                                        Evacuation du local        Etat commandé
+
+        Détection d’un feu              Confirmation du feu        Percution des
+        par un premier détecteur        par un deuxième            bouteilles
+                                        détecteur
+                                        (double détection)
+
+
+
+
+Page 2 de 10 pages                                                       ITM-SST 1706.1
+Art. 3. – Normes et règles techniques
+
+3.1 Les prescriptions indiquent certaines normes, prescriptions, directives de
+sécurité, d'hygiène et des règles de l'art à appliquer lors de la conception et de la
+réalisation des installations d’extinction au gaz. En absence de référence à une
+norme dans un domaine spécifique une norme ou règle technique appliquée dans un
+des pays voisins du Grand-Duché de Luxembourg ou alors une telle reconnue
+comme équivalente par l'Inspection du travail et des mines est à appliquer.
+
+3.2 Toute norme européenne (EN), au fur et à mesure qu'elle parait, doit être
+appliquée. Elle est amenée à remplacer les diverses normes en application dans les
+différents pays de la communauté.
+
+Art. 4. – Prescriptions générales
+
+L'exploitant doit se conformer aux dispositions des articles L. 311-1 à L. 314-4 du
+Titre Ier - Sécurité au travail du Livre III - Protection, Sécurité et Santé des
+travailleurs du Code du Travail et de ses règlements d'exécution.
+
+Il y a lieu d'observer en outre les recommandations afférentes à la prévention contre
+les accidents édictées par l'Association d'Assurance Accidents.
+
+L'exploitant doit le cas échéant respecter les modalités:
+
+          des articles L. 341-1 à L. 345-1 du Titre IV - Emploi de jeunes travailleurs
+           du Livre III - Protection, Sécurité et Santé des travailleurs du Code du
+           travail;
+          des articles L. 331-1 à L. 338-4 du Titre III - Emploi de personnes
+           enceintes, accouchées et allaitantes du Livre III - Protection, Sécurité et
+           Santé des travailleurs du Code du travail;
+          des articles L. 411-1 à L. 417-4 du Titre Ier - Délégations du personnel du
+           Livre III - Représentation du personnel du Code du travail;
+          du règlement grand-ducal du 6 février 2007:
+                        concernant les prescriptions minimales de sécurité et de santé
+                         relatives à l'exposition des travailleurs aux risques dus aux
+                         agents physiques (bruit);
+                        portant modification du règlement grand-ducal du 17 juin 1997
+                         concernant la périodicité des examens médicaux en matière de
+                         médecine du travail;
+
+
+
+
+Page 3 de 10 pages                                                        ITM-SST 1706.1
+L'exploitant doit se conformer aux dispositions de la réglementation suivante:
+
+     a) des arrêtés grand-ducaux du 24 octobre 1938 et du 11 avril 1939 déterminant
+        les conditions auxquelles doivent satisfaire les récipients destinés à contenir
+        les gaz liquéfiés, comprimés ou dissous
+et
+     b) des règlements grand-ducaux du 8 décembre 1989 relatifs aux bouteilles à
+        gaz sans soudure en acier, aux bouteilles à gaz sans soudure en aluminium
+        non allié et en alliage d'aluminium, ainsi qu'aux bouteilles à gaz sans
+        soudure en aluminium non allié, règlements transposant les directives
+        84/525/CEE, 84/526/CEE et 84/527/CEE en droit national luxembourgeois.
+
+Art. 5. – Conception et aménagement de l'installation
+
+5.1 Toute la zone protégée doit être surveillée par au moins deux boucles de
+détection différentes et indépendantes l’une par rapport à l’autre.
+
+En cas de présence d’un système de câblage de type « bus » fonctionnant en boucle
+fermée, une seule boucle est acceptable pour autant que les détecteurs soient bien
+divisés en deux groupes de détection au niveau de la programmation / l’adressage
+(type B au sens de l’EN54-2).
+
+5.2. La détection d’un éventuel incendie par un premier détecteur déclenche une
+préalerte optique à l’intérieur de la zone protégée.
+
+5.3. La détection du feu par un deuxième détecteur ou l’activation d’un bouton
+poussoir d’alerte incendie (BP) dans le local protégé déclenche l’alerte. Le son
+intermittent de cette alerte avertit le personnel présent dans le local équipé de cette
+installation que le système d’extinction va être déclenché incessamment et l’invite à
+évacuer immédiatement les lieux. Complémentairement des panneaux lumineux
+reprenant l’avertissement « Danger – évacuation du local » (ou équivalent sous
+forme de texte) doivent être visibles de tout endroit de la zone protégée.
+
+5.4. Avec le déclenchement de l’alerte est activée une temporisation ayant une durée
+minimale de 10 secondes et une durée maximale de 30 secondes.
+
+5.5. Le temps de temporisation écoulé, l’installation d’extinction est activée par
+percution des bouteilles de gaz d’extinction et la signalisation acoustique change en
+un son continu.
+
+5.6. L’installation de commande de l’extinction automatique du gaz doit être équipée
+d’un système d’arrêt d’urgence.
+
+Le dispositif d’arrêt d’urgence peut seulement être activé avant la percution des
+bouteilles de gaz d’extinction, pendant la phase de temporisation. Le dispositif d’arrêt
+d’urgence doit être du type à « maintient automatique » et la signalisation acoustique
+changera en un son intermittent, différent du son émit lors de le phase d’évacuation.
+
+
+
+
+Page 4 de 10 pages                                                        ITM-SST 1706.1
+5.7. En cas d’interruption du processus de temporisation, une alerte acoustique et
+optique doit être déclenchée dans un éventuel poste de gardiennage.
+
+5.8. Après activation de l’arrêt d’urgence, l’interruption du processus doit rester
+garantie jusqu’au réarmement manuel volontaire de l’installation à l’aide d’un bouton
+placé à l’extérieur du local près de la porte d’entrée.
+
+5.9. Après réarmement de l’installation, la temporisation est réactivée pour au moins
+le laps de temps de la temporisation non encore écoulé avant l’arrêt d’urgence.
+
+5.10. Une signalisation optique et acoustique doit être installée à l’entrée du local
+protégé, avertissant toute personne en instance d’entrer dans ce local que celui-ci a
+été immergé de gaz d’extinction.
+
+5.11. Tous le moyens de manipulation et d’information concernant l’état de
+l’installation (boutons, voyants, etc.) doivent être bien repérés et être bien visibles.
+
+Les fonctions déclenchées ou affichées par ces moyens doivent être rendues bien
+compréhensibles.
+
+5.12. Un indicateur de passage de gaz « flow switch » est à prévoir dans les
+conduites d’éjection.
+
+L’activation de l’indicateur « flow switch » est à considérer comme une situation
+d’alerte et doit commander les asservissements liés à cet état.
+
+5.13. En cas de présence d’un dispositif de déclenchement manuel mécanique (p.ex.
+une commande manuelle de secours sur les bouteilles de gaz), la pré-alerte et la
+temporisation ne doivent pas être by-passées
+
+5.14. Si le système d’extinction est équipé avec vanne directionnelle, les éléments
+présents sur certaines bouteilles permettant une percussion manuelle, sont à
+condamner.
+
+Art. 6. – Cycle de fonctionnement
+
+Le tableau joint en annexe aux présentes prescriptions reprend les différents cycles
+lors d’une alarme incendie dans un local équipé d’un système d’extinction au gaz.
+
+Art. 7. – Aménagement des locaux protégés par l’installation d’extinction au
+gaz.
+
+7.1. Les locaux protégés doivent être construits et aménagés de sorte que le gaz
+d’extinction ne peut s’échapper hors de ces locaux.
+
+Pour ces raisons un contrôle d’étanchéité « Fan test » du local concerné doit être
+réalisé avant la réception de l’installation sous surveillance d’un organisme de
+contrôle.
+
+
+
+
+Page 5 de 10 pages                                                        ITM-SST 1706.1
+Ce contrôle est à refaire tous les 5 ans, ou lors de travaux conséquents réalisés au
+niveau du local.
+
+7.2. Les portes d’accès à ces locaux doivent être étanches à cet effet. En fonction du
+risque en présence, le local protégé devra être éventuellement compartimenté en feu
+comme définis dans les prescriptions types ITM série SST-1500.
+
+7.3. Les portes d’accès aux locaux protégés par un système automatique au gaz
+d’extinction doivent être munies de joints sur les 3 côtés et de fermes portes
+automatiques, fermant les portes impérativement en cas de déclenchement de
+l’alerte.
+
+L’ouverture de toutes les portes d’accès au local doit se faire vers l’extérieur.
+L’ouverture depuis l’intérieur doit être possible en tout temps.
+
+7.4. Dès le déclenchement de l’alerte, les volets coupe-feu doivent se fermer et toute
+la ventilation du local doit s’arrêter. Les clapets de dépression doivent s’ouvrir au
+plus tard lors de l’éjection du gaz.
+
+L’évacuation de la surpression des locaux protégés suite à l’éjection de gaz doit se
+faire directement vers l’extérieur à l’air libre, et ceci dans une zone où les personnes
+ne sont pas mises en danger.
+
+Pour des cas particuliers, cette évacuation peut se faire exceptionnellement avec
+l’accord de l’ITM vers un autre volume du bâtiment comme p. ex. dans un parking et
+ceci pour autant qu’une analyse de risque préalable soit réalisée et validée par un
+organisme de contrôle.
+
+7.5. Des avertissements doivent être affichés sur les deux faces des portes d’accès
+(face extérieure et face intérieure) aux locaux protégés.
+
+Les inscriptions doivent indiquer d’une façon claire et bien compréhensible que le
+local dans lequel on va pénétrer (dans lequel on se trouve) est protégé par une
+installation automatique fonctionnant avec un gaz d’extinction.
+
+7.6. Les locaux protégés doivent être conçus du point de vue de la stabilité (cloisons,
+vitrage,…) de manière à être apte à supporter les surpressions présentes lors de
+l’éjection du gaz, en fonction des clapets de surpression présents.
+
+Art. 8. – Bouteilles à gaz
+
+8.1 Le stockage des bouteilles à gaz d’extinction doit se faire, soit dans le local
+protégé, soit dans un local spécifique n’ayant aucune autre affectation.
+Exceptionnellement les bouteilles de gaz peuvent être placées dans un local ayant
+une autre affectation sous condition que le dépôt de bouteille soit protégé par
+exemple par un grillage de maille fine (maximum 40 X 40 mm) avec un portail fermé
+à clef.
+
+
+
+
+Page 6 de 10 pages                                                        ITM-SST 1706.1
+8.2. Les bouteilles à gaz doivent être stockées suivant les dispositions du fournisseur
+du gaz d’extinction et doivent être fixées de façon à éviter toute chute ou
+basculement.
+
+8.3. Les bouteilles doivent être placées de sorte que leur température ne puisse être
+portée à plus de 50°C.
+
+8.4. Le dépôt de bouteilles de gaz d’extinction doit être tenu en bon état de propreté.
+L'on doit notamment exclure les papiers, chiffons et en général tout déchet.
+
+8.5. Les bouteilles vides doivent être munies de chapeaux de protection quand les
+vannes des bouteilles ne sont pas protégées par une collerette.
+
+8.6. Les bouteilles sont à manipuler avec précaution; l'on doit s'efforcer
+particulièrement d'éviter tout choc et toute chute.
+
+8.7. Il est interdit de se livrer à l'intérieur du local à l'entretien ou la réparation des
+bouteilles et de leurs accessoires. L'on doit s'assurer à chaque rentrée que les
+bouteilles ne présentent pas de fuites. Toute bouteille défectueuse doit être évacuée
+aussitôt du dépôt.
+
+Art. 9. – Signalisation
+
+9.1. Les voies de fuite et les sorties de secours doivent être signalisées par des
+symboles normalisés.
+
+9.2. La signalisation de sécurité effectuée par des symboles normalisés doit couvrir
+en plus les moyens de lutte contre l'incendie et d'éventuels boutons d'alarme.
+
+9.3 Il y a lieu d’afficher dans le local et à côté de la centrale un flow-chart expliquant
+exactement le fonctionnement et le déroulement de la procédure d’extinction.
+
+9.4 La procédure et la fonctionnement des vannes directionnelles et commandes
+manuelles doivent être affichées dans le local bouteilles à gaz.
+
+9.5 Dépendant de la fonction des différents boutons poussoirs, il y a lieu de respecter
+les couleurs telles que définies à la norme européenne EN 12094., à savoir :
+
+        - Commande d’éjection manuelle : couleur jaune
+        - Arrêt d’urgence              : couleur bleue
+        - Réarmement                   : couleur verte
+
+Un étiquetage précis des boutons poussoirs est également à prévoir.
+
+
+
+
+Page 7 de 10 pages                                                           ITM-SST 1706.1
+Art. 10. – Transmission d’alarmes
+
+La central d’extinction gaz doit transmettre vers le poste de surveillance occupé
+24h/24h ou vers la centrale de détection générale du bâtiment avec transmission
+vers un poste de surveillance, les informations suivantes :
+
+        - Défaut technique
+        - Pré-alerte (cas d’activation du 1er détecteur)
+        - Alerte (cas d’activation du 2ième détecteur)
+        - Activation de l’arrêt d’urgence
+        - Ejection du gaz (par le « flow switch »).
+
+Art. 11 – Formation du personnel
+
+Le personnel occupé dans ou près des locaux équipés de l'installation d'extinction
+automatique doit être initié régulièrement à l'utilisation des moyens de lutte contre
+l'incendie, il doit être informé des risques liés au gaz employé et entraîné en ce qui
+concerne les mesures à prendre en cas de déclenchement de l'installation
+d'extinction automatique, notamment en cas de présence de blessés éventuels.
+
+Art. 12 – Réception et contrôle périodique
+
+12.1. Le propriétaire ou l’exploitant doit charger un organisme de contrôle agréé de la
+réception de l’installation avant sa première mise en service. L’organisme de contrôle
+considère l’ensemble de l’installation telle qu’installée sur le lieu de l’implantation et
+vérifie son fonctionnement dans le contexte de ses interactions et de ses
+interdépendances dans le but primordial de la sécurité des personnes.
+
+La réception doit se solder par un rapport de réception à verser au registre de
+sécurité prévu à l’article 14 ci-dessous.
+
+12.2. Les installations doivent être soumises annuellement à un examen et à des
+essais à effectuer par un organisme de contrôle. L’organisme de contrôle vérifie leur
+fonctionnement dans le contexte de leur interaction et de leurs interdépendances
+dans un but primordial de la sécurité des personnes.
+
+Le contrôle doit se solder par un rapport de contrôle à verser au registre de sécurité
+prévu à l’article 14 ci-dessous.
+
+Les contrôles périodiques doivent s’effectuer sur base d’un contrat écrit à conclure
+entre l’organisme de contrôle et le propriétaire ou l’exploitant de l’installation.
+
+Art. 13. – Entretien, modifications, réparation
+
+L’entretien régulier doit être effectué sur base d’un contrat écrit par une entreprise
+travaillant dans le domaine des installations d’extinction au gaz. Tous les entretiens
+prévus par le constructeur et nécessaires pour garantir l’exploitation en sécurité des
+installations doivent être effectués.
+
+
+
+
+Page 8 de 10 pages                                                          ITM-SST 1706.1
+Chaque réparation et chaque modification aux installations et accessoires sont à
+effectuer par un homme de l’art.
+
+Chaque intervention d’entretien, de réparation, de modification ou de contrôle doit
+faire l’objet d’une inscription (ou d’une insertion des rapports) dans le registre de
+sécurité prévu à l’article 14 ci-après.
+
+Art. 14. – Registre de sécurité
+
+L’exploitant doit gérer ou faire gérer un registre de sécurité.
+
+Ce registre doit contenir toutes les caractéristiques de l’installation, les modes
+d’emploi et d’entretien, les plans et schémas ainsi que le rapport de réception et les
+rapports des contrôles périodiques annuels ainsi que les inscriptions concernant les
+opérations d’entretien, de réparation et de modification.
+
+
+
+          Visa du Directeur adjoint                        Mises en vigueur
+          de l’Inspection du travail                        le 27.09.2012
+                 et des mines
+                                                                   s.
+                      s.
+                                                             Paul WEBER
+              Robert HUBERTY                                    Directeur
+                                                       de l’Inspection du travail
+                                                              et des mines
+
+
+
+
+Page 9 de 10 pages                                                          ITM-SST 1706.1
+Annexe
+
+      CYCLE DE FONCTIONNEMENT D’EXTINCTION AUTOMATIQUE AU GAZ
+
+                 Action                        PRE-         ALERTE =        EJECTION =
+                                            ALERTE =         Activation       Fin de la
+                                                                    ème
+                                           Activation de     d’un 2       temporisation de
+                                            1 détecteur    détecteur d’un   30 secondes
+                                                               groupe     maximum après
+                                                            différent ou   activation de 2
+                                                             activation    détecteurs ou 1
+                                                              d’un BP            BP
+Activation d’une alarme optique
+(flash) visible à l’intérieur de la zone        X
+protégée.
+Activation des sirènes en son
+intermittent dans la zone protégée                               X
+(pré-alerte).
+
+Arrêt de la ventilation, fermeture
+des clapets coupe-feu (sauf celui                                X               X
+servant éventuellement à évacuer
+la surpression), fermeture de la
+porte du local si asservie.
+Transmission de l’alerte incendie
+vers l’exploitant (directement ou via            X                X               X
+centrale incendie du bâtiment).            (Information     (Information    (Information
+                                            spécifique)      spécifique)     spécifique)
+Activation des panneaux lumineux
+situés à l’intérieur du local                                    X               X
+reprenant l’indication « danger –
+évacuation du local ».
+Activation d’une temporisation de
+30 secondes maximum (avec un                                     X
+minimum de 10 secondes) avant
+percussion des bouteilles.
+
+Percussion des bouteilles de gaz
+pour éjection dans le local.                                                     X
+
+Activation des sirènes (son continu)                                             X
+dans la zone protégée
+Activation des panneaux lumineux
+situés à l’extérieur du local                                                    X
+reprenant     l’indication   « entrée
+interdite – gaz »
+Note = activation via le contact flow
+switch de passage de gaz
+
+
+
+
+Page 10 de 10 pages                                                          ITM-SST 1706.1
+

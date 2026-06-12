@@ -1,0 +1,370 @@
+GRAND-DUCHE DE LUXEMBOURG                                                         Strassen, le 26 novembre 2018
+
+
+
+
+                                                                                 ITM-SST 1809.3
+
+
+            Prescriptions de sécurité et de santé types
+                        Dépôts d’articles pyrotechniques
+                                          Le présent document comporte 9 pages
+
+
+                                                     SOMMAIRE
+
+
+        Article 1er      Objet et champ d’application                                                    2
+        Article 2.       Définitions                                                                     2
+        Article 3.       Normes et règles techniques                                                     2
+        Article 4.       Exploitation                                                                    3
+        Article 5.       Prescriptions générales                                                         3
+        Article 6.       Stockage                                                                        3
+        Article 7.       Etiquetage                                                                      6
+        Article 8.       Installations électriques                                                       7
+        Article 9.       Protection contre l’électrostatique et la foudre                                7
+        Article 10. Moyens de secours et d’intervention                                                  8
+        Article 11. Réceptions et contrôles périodiques                                                  8
+
+
+
+
+      Inspection du travail et des mines
+      Adresse postale:        B.P. 27                 L-2010 Luxembourg                  Tel.: +352 247-76100
+      Bureaux:                3, rue des Primeurs     L-2361 Strassen                    Fax: +352 247-96100
+      Site internet:          http://www.itm.lu
+Article 1er Objet et champ d’application
+1.1. Les présentes prescriptions de sécurité ont pour objet de spécifier les conditions
+d'exploitation et les prescriptions générales de sécurité pour le stockage d’articles
+pyrotechniques.
+1.2. Sont concernés par les présentes prescriptions, les articles pyrotechniques des divisions
+1.4G et 1.4S, telles que définies dans la règlementation ADR, à l’exception des articles
+électropyrotechniques.
+Les quantités maximales d’articles pyrotechniques pouvant être stockées dans un dépôt sont
+les suivantes :
+        Une masse nette de matières explosibles de 150 kg ;
+        Un poids brut total de 1.000 kg.
+Le critère le plus stricte de ceux mentionnés ci-avant étant déterminant.
+1.3. Le stockage d’articles pyrotechniques relevant d’autres classes ou divisions que celles
+mentionnées à l’article 1.2., ainsi que le stockage d’articles pyrotechniques dans des dépôts
+dont les quantités dépassent les seuils mentionnés à l’article 1.2., n’est pas couvert par les
+présentes prescriptions.
+Pour les cas précités, les conditions d’exploitation et les prescriptions générales de sécurité
+doivent être déterminées au cas par cas (en tenant compte entre-autre des quantités, des
+divisions de risque, des groupes de compatibilités et du mode de stockage). En outre, ces
+dépôts sont susceptibles d’être soumis à la présentation d’une étude des risques
+conformément au règlement grand-ducal modifié du 14 septembre 2000 concernant les études
+des risques et les rapports de sécurité.
+1.4. Des dérogations aux présentes prescriptions peuvent être accordées au cas par cas, mais
+uniquement si des mesures de rechange, reconnues par l’Inspection du travail et des mines
+et garantissant un niveau de sécurité au moins équivalent, sont prises.
+
+Article 2. Définitions
+2.1. Par « articles pyrotechniques » sont à comprendre les articles pyrotechniques avec leurs
+catégories tels que définis dans la loi modifiée du 27 mai 2016 concernant la mise à disposition
+sur le marché d’articles pyrotechniques.
+2.2. Par « ADR » est à comprendre l’Accord européen relatif au transport international des
+marchandises dangereuses par route.
+2.3. Par « dépôt » est à comprendre un espace fermé (à l’intérieur ou à l’extérieur d’un
+établissement) et comprenant un stockage d’articles pyrotechniques tel que prévu à l’article
+1.2.
+2.4. Par « masse nette de matières explosibles » est à comprendre la masse totale des
+matières explosibles, sans emballages, enveloppes, etc. (abréviations courantes utilisées
+NEM (net explosive mass) ou NEQ (net explosive quantity)).
+2.5. Par « poids brut total » est à comprendre le poids total des articles pyrotechniques y
+compris leur emballage de vente.
+
+Article 3. Normes et règles techniques
+3.1. Les présentes prescriptions indiquent certaines normes, prescriptions, directives de
+sécurité, d'hygiène et des règles de l'art à appliquer lors de la conception, de la réalisation et
+de l’exploitation d’un dépôt d'articles pyrotechniques. En l’absence de référence à une norme
+précise, sont d’application en général les normes européennes (E.N.) ou toute autre norme au
+moins équivalente.
+
+
+ 2                                                                              ITM-SST 1809.3
+Article 4. Exploitation
+4.1. L’exploitant doit tenir à jour en permanence un registre indiquant :
+        la dénomination des articles pyrotechniques et leur fabricant respectif ;
+        les catégories d’articles pyrotechniques selon la loi modifiée du 27 mai 2016
+         concernant la mise à disposition sur le marché d’articles pyrotechniques ;
+        la division de risque et le groupe de compatibilité d’après la règlementation ADR ;
+        la date de fabrication ;
+        la quantité ;
+des articles pyrotechniques détenus dans le dépôt.
+4.2. Le registre doit pouvoir être consulté à tout moment sans avoir besoin de pénétrer dans
+le dépôt.
+4.3. L’exploitant doit élaborer des consignes écrites d’exploitation, de manipulation, d’entretien
+et d’intervention. Ces consignes doivent être portées à la connaissance des personnes liées
+à l’exploitation du dépôt.
+Ces mêmes personnes doivent recevoir une formation portant sur les risques ainsi que sur les
+moyens à mettre en œuvre pour les éviter et les procédures à suivre en cas d’urgence et
+doivent procéder à des exercices d’entraînement au moins une fois par an.
+4.4. Des équipements de protection individuelle adaptés aux risques auxquels le dépôt pourrait
+donner lieu doivent être mises à disposition des personnes liées à l’exploitation de ce dernier.
+4.5. Le chargement et le déchargement des articles pyrotechniques doivent se faire à l’opposé
+des zones où du public est susceptible d’être présent.
+4.6. Tout vol, toute perte ou toute disparition d’articles pyrotechniques doit être déclaré
+immédiatement auprès de la Police Lëtzebuerg.
+
+Article 5. Prescriptions générales
+5.1. Les articles pyrotechniques ne peuvent être stockés que dans leur emballage d’origine ou
+de transport.
+5.2. Les emballages qui ont été ouverts pour enlever des articles pyrotechniques sont à
+refermer immédiatement après manipulation.
+5.3. Les emballages contenant un reliquat d’articles pyrotechniques peuvent être réintégrés
+dans le dépôt à condition d’avoir été vérifiés et convenablement refermés.
+5.4. Les articles pyrotechniques dont le vieillissement compromet la stabilité chimique,
+respectivement ceux dont la date d’échéance est dépassée, ainsi que ceux dont les
+emballages sont dégradés sont à maintenir dans l’emballage de transport et à retirer le plus
+vite possible du dépôt afin d’être éliminés conformément aux règles de l’art ou d’être retournés
+au fournisseur.
+
+Article 6. Stockage
+6.1. Les dépôts doivent être construits de telle façon qu’ils présentent une stabilité mécanique
+envers les facteurs de risques extérieurs et intérieurs qui pourraient y avoir un impact (p.ex.
+effets missiles, collision).
+6.2. Le sol des dépôts doit être construit en matériaux ayant une réaction au feu Euroclasse
+A1 (incombustible).
+
+
+
+
+ 3                                                                              ITM-SST 1809.3
+Les matériaux et revêtements doivent être choisis judicieusement afin de ne pas aggraver les
+conséquences en cas d’un sinistre.
+6.3. Le sol, les murs et le plafond doivent être lisses et facile à nettoyer. Les dépôts doivent
+être maintenus propres et doivent être régulièrement nettoyés. Le matériel de nettoyage doit
+être adapté aux risques présentés par les articles pyrotechniques.
+6.4. Les dépôts doivent être maintenus en bon état et ne peuvent donc présenter aucun
+dommage ayant un impact sur leur stabilité mécanique.
+6.5. Aucun dépôt ne peut contenir des éléments autres que les articles pyrotechniques tels
+que définis à l’article 1er, à l’exception des installations destinées au fonctionnement des
+dépôts.
+6.6. Les articles pyrotechniques doivent être stockés de façon à ne pas être exposés à des
+températures dépassant 75 °C, à un rayonnement thermique et solaire excessif, à l’humidité
+ou à toute source d’inflammation.
+6.7. L’interdiction de fumer, l’interdiction de porter des feux nus, des objets incandescents ou
+tout autre moyen de mise à feu et la présence d’articles pyrotechniques de la division 1.4 doit
+être affichée à l’entrée du dépôt.
+
+
+
+
+6.8. Les articles pyrotechniques doivent être stockés avec précaution et en toute sécurité. Ils
+sont à empiler de façon à ne pas dépasser une hauteur de 1,60 m au-dessus du sol. Entre le
+sommet des articles pyrotechniques empilés et le plafond, un espace libre d’au moins 1 m doit
+être disponible.
+Les informations et les signalisations des emballages doivent rester visibles.
+6.9. Les articles pyrotechniques doivent être convenablement éloignés des installations
+techniques afin qu’un défaut quelconque ne puisse provoquer leur inflammation ou leur
+explosion.
+6.10. Dans les locaux de ventes, des articles pyrotechniques peuvent être stockés jusqu’à une
+quantité maximale de 15 kg de masse nette de matières explosibles dont 3 kg dans une ou
+plusieurs vitrines et 12 kg dans une ou plusieurs armoires. Ces vitrines et armoires doivent
+être fermées à clef.
+Les articles pyrotechniques qui sont exposés dans la vitrine peuvent être présentés sans
+emballage.
+Pendant les heures d’ouverture de l’établissement de vente, les vitrines et les armoires
+précitées doivent être sous surveillance permanente d’une personne telle que définie à l’article
+4.3., alinéa 2.
+6.11. Aucune construction légère ne peut être utilisée pour y stocker des articles
+pyrotechniques d’une quantité supérieure à 12 kg de masse nette de matières explosibles.
+6.12. Les dépôts d’articles pyrotechniques doivent se trouver au niveau de la voie d’accès des
+services de secours.
+
+
+
+
+ 4                                                                               ITM-SST 1809.3
+6.13. Une distance d’isolement égale à la hauteur du bâtiment avoisinant, sans pourtant
+pouvoir être inférieure à 25 m, doit être respectée pour le dépôt d’articles pyrotechniques par
+rapport à :
+        tout lieu de travail permanent ;
+        tout espace fréquenté par le public ;
+        toute habitation ;
+        tout établissement ou toute installation présentant un danger d’incendie ou d’explosion
+         particulier.
+Ladite distance d’isolement doit être contenue dans l’enceinte du site.
+
+
+
+
+Dans un périmètre de 10 m autour du dépôt, la charge calorifique doit être réduit à un
+minimum, tout autre dépôt d’articles pyrotechniques doit se trouver à une distance minimale
+de 10 m.
+Une distance d’isolement de 3 m doit rester dégagée en permanence autour du dépôt. Les
+abords immédiats des dépôts doivent être désherbés et débroussaillés. Les articles
+pyrotechniques ne doivent être stockés à une distance inférieure à 1 m de la porte d’entrée du
+dépôt.
+6.13. Cette distance peut être réduite par les mesures constructives suivantes, limitant les
+effets d’un incident.
+Les parois, dalles et planchers du dépôt doivent satisfaire aux conditions coupe-feu 60 minutes
+(REI60).
+Les portes doivent satisfaire à l’une des conditions suivantes :
+        coupe-feu 60 minutes et coupe-fumée (EI 60-CS) munie d’une chicane couverte ou
+
+
+
+
+ 5                                                                             ITM-SST 1809.3
+        constituée d’un sas avec deux portes dont celle menant au dépôt doit satisfaire aux
+         conditions coupe-feu 60 minutes et coupe-fumée (EI 60-CS) et dont celle menant à
+         l’extérieur présente une stabilité mécanique suffisante ou
+        constituée d’un sas avec deux portes devant satisfaire aux conditions coupe-feu 30
+         minutes et coupe-fumée (EI 30-CS).
+
+
+
+
+Elles ne peuvent en aucun cas être bloquées en position ouverte. Ces portes ne comportent
+aucune autre ouverture (grille d’aération, …).
+6.14. Les dépôts se trouvant à l’intérieur d’un bâtiment doivent être munis d’un sas.
+6.15. Les dépôts doivent être fermés de façon à empêcher toute personne non autorisée à
+entrer dans le dépôt.
+6.16. Les portes des dépôts doivent s’ouvrir dans le sens de l’évacuation.
+6.17. La distance maximale à parcourir pour sortir du dépôt ne peut en aucun cas dépasser
+20 m.
+6.18. L’accessibilité des services de secours aux dépôts doit être garanti à tout moment.
+
+Article 7. Etiquetage
+7.1. Les articles pyrotechniques doivent être accompagnés d’un mode d’emploi dans au moins
+une des trois langues officielles du Grand-Duché de Luxembourg.
+7.2. Les emballages doivent porter en caractères très lisibles le nom des produits et celui du
+fabricant ou de l’importateur et, s‘il y a lieu, les signalisations, conformément à la
+règlementation en vigueur.
+
+
+
+
+ 6                                                                            ITM-SST 1809.3
+Article 8. Installations électriques
+8.1. Les installations électriques, ainsi que leurs annexes doivent être conçues, réalisées,
+entretenues et exploitées conformément aux normes, prescriptions et directives de sécurité,
+de même qu'aux règles de l'art, de la sécurité et de l'hygiène normalement applicables dans
+le Grand-Duché de Luxembourg, à savoir :
+      aux prescriptions allemandes afférentes DIN/VDE,
+      aux normes européennes CENELEC, au fur et à mesure que celles-ci paraissent et
+       remplacent les prescriptions DIN/VDE précitées,
+      aux prescriptions de raccordement pour les installations à courant fort disposant d’une
+       tension nominale inférieure ou égale à 1.000 V au Grand-Duché de Luxembourg (TAB-
+       BT),
+      aux prescriptions de raccordement pour les postes à moyenne tension au Grand-Duché
+       de Luxembourg (TAB-MT).
+8.2. Les installations électriques sont à maintenir continuellement en bon état d'entretien, de
+sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les défectuosités et
+anomalies constatées.
+8.3. L'entretien régulier des installations électriques doit être assuré par du personnel qualifié
+et expérimenté.
+8.4. L'entretien doit s'effectuer dans le strict respect des règles de la sécurité du travail et les
+aménagements, équipements et moyens de sécurité doivent être prévus en conséquence.
+8.5. Pour empêcher la mise sous tension, soit accidentellement, soit par inadvertance, d'une
+installation électrique sur laquelle sont effectués des travaux, toutes les précautions
+appropriées doivent être prises.
+8.6. Les installations électriques doivent être vérifiées au moins annuellement par un service
+compétent.
+8.7. Aucune ligne aérienne en conducteurs nus ne peut être installée dans les dépôts.
+8.8. Toutes les installations électriques autres que celles strictement nécessaires pour
+l'exploitation du dépôt même sont interdites.
+8.9. Dans les dépôts qui présentent des risques d’explosion, les installations électriques
+doivent être du type "antidéflagrant", destinées à être utilisées dans des atmosphères
+explosibles.
+8.10. Aucun appareil ne peut rester sous tension en dehors des heures de travail dans les
+dépôts à l’exception des installations de sécurité et des appareils indispensables à
+l’exploitation du dépôt. L’interrupteur de l’éclairage doit se trouver à l’extérieur du dépôt.
+8.11. L’alimentation électrique des dépôts doit pouvoir être coupée par la manœuvre d’un
+organe de commande situé à proximité et à l’extérieur du local. Cet organe doit être aisément
+reconnaissable et facilement accessible.
+
+Article 9. Protection contre l’électrostatique et la foudre
+9.1. Les équipements métalliques doivent être mis à la terre conformément aux règles de l’art
+et maintenus continuellement en bon état d'entretien et de fonctionnement.
+9.2. Lorsque l’électricité statique peut présenter des causes de dangers les mesures
+nécessaires afin d’éviter les effets de ces décharges doivent être prises.
+9.3. Les dépôts doivent être protégés par un système de protection intérieur et extérieur contre
+les décharges atmosphériques (paratonnerre).
+
+
+
+ 7                                                                                ITM-SST 1809.3
+Les mesures de protection contre la foudre sont à réaliser conformément aux prescriptions et
+normes reprises dans la condition type ITM-SST 1106 « Blitzschutz », la version la plus récente
+en vigueur.
+9.4. Les installations en question doivent être vérifiées au moins annuellement par un service
+compétent.
+
+Article 10. Moyens de secours et d’intervention
+10.1. Tous les dépôts se situant à l’intérieur d’un établissement ou communicant avec un
+établissement sont à équiper d’une installation de détection incendie automatique et d’alarme,
+susceptible de détecter et de signaler tout début d’incendie.
+L’installation automatique de détection incendie doit être conçue conformément aux normes
+EN 54, VDE 0833, NBN S21-100, règle R7 APSAD Française, NF S 61, ISO 8201 ou toute
+autre norme au moins équivalente.
+10.2. Des extincteurs portatifs d'incendie normalisés, adaptés aux risques, d'une capacité de
+6 kg doivent être disposés en nombre suffisant, à des endroits judicieusement choisis.
+À l’extérieur du dépôt doivent se trouver au moins deux extincteurs portatifs d’une capacité de
+6 kg.
+10.3. Les extincteurs portatifs d'incendie doivent être signalisés, facilement accessibles et
+maintenus dans un parfait état de fonctionnement.
+10.4. Ils doivent être contrôlés par un service compétent dans des intervalles de deux ans.
+S'ils doivent être emportés en vue de ces contrôles, ils doivent être échangés au préalable sur
+place.
+10.5. Un extincteur une fois utilisé ne peut reprendre son emplacement qu'après avoir été
+rechargé et contrôlé.
+10.6. Un plan d’intervention est à établir par l’exploitant en collaboration avec les services de
+secours.
+
+Article 11. Réceptions et contrôles périodiques
+11.1. Les installations de sécurité (les installations de détection incendie, les extincteurs
+portatifs, les portes, parois et installations coupe-feu et coupe-fumée, etc.) les installations
+électriques, les installations de protection contre l’électrostatique et la foudre doivent être
+réceptionnées par un organisme de contrôle agréé avant la mise en exploitation.
+En ce qui concerne les extincteurs portatifs, l’organisme vérifie uniquement la présence,
+l’emplacement et la date d’échéance de ceux-ci.
+11.2. Sans préjudice de leur entretien conforme et régulier et d’autres contrôles, les
+installations de sécurité, doivent être contrôlées tous les 3 ans par un organisme de contrôle
+agréé.
+En ce qui concerne les extincteurs portatifs, l’organisme vérifie uniquement la présence,
+l’emplacement et la date d’échéance de ceux-ci.
+11.3. Les extincteurs portatifs doivent être contrôlés conformément à l’article 10.4.
+11.4. Les contrôles périodiques des installations électriques et des installations de protection
+contre l’électrostatique et la foudre doivent être effectués conformément aux articles 8.6. et
+9.4.
+11.5. La réception et les contrôles périodiques doivent porter sur la sécurité des installations
+par rapport au public ainsi qu’aux salariés en se basant sur les normes et conditions reprises
+dans le présent document.
+
+
+
+ 8                                                                              ITM-SST 1809.3
+11.6. Les rapports précités doivent être tenus à disposition des inspecteurs de l’Inspection du
+travail et des mines dans l’enceinte du site concerné et présentés sur demande à ceux-ci.
+11.7. Lors de l’exploitation du dépôt, en cas de doute sur la conformité de celui-ci aux
+prescriptions du présent document, l’Inspection du travail et des mines peut à tout moment
+demander de faire instituer un nouveau contrôle par un organisme de contrôle agréé afin de
+s’assurer que les dispositions du présent document sont respectées.
+11.8. L’organisme de contrôle agréé et le service compétent doivent dresser un rapport écrit
+suite à une réception ou un contrôle, reprenant les non-conformités par rapport aux normes et
+conditions reprises dans les présentes prescriptions et indiquant des délais pour les
+réparations et les remises en état ou le cas échéant une mention indiquant qu’aucune
+observation n’a pu être constaté.
+11.9. L'exploitant doit se conformer aux délais pour les réparations et remises en état figurant
+sur les rapports de réception et de contrôle établis par l’organisme de contrôle agréé.
+
+
+
+                                      Mise en vigueur, le
+                                      26 novembre 2018
+
+                                               s.
+
+                                          Marco BOLY
+                                            Directeur
+                                   de l’Inspection du travail
+                                          et des mines
+
+
+
+
+ 9                                                                             ITM-SST 1809.3
+

@@ -1,0 +1,256 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        Strassen, septembre 2012
+
+
+                      Le présent texte a été établi par l’Inspection du travail et des mines et
+                         le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                             ITM-SST 1513.1
+
+                               Prescriptions de prévention incendie
+                                    DISPOSITIONS SPÉCIFIQUES
+                                                      Logements encadrés
+                                                     Le présent document comporte 6 pages
+
+                                                                  SOMMAIRE
+     Article                                                                                                                   Page
+
+    1)          Objectifs et domaine d'application                                                                               2
+    2)          Définitions                                                                                                      2
+    3)          Implantation                                                                                                     2
+    4)          Aménagements extérieurs                                                                                          2
+    5)          Construction                                                                                                     2
+    6)          Aménagements intérieurs                                                                                          3
+    7)          Compartimentage                                                                                                  3
+    8)          Evacuation de personnes, issues et dégagements intérieurs                                                        4
+    9)          Eclairage                                                                                                        5
+   10)          Désenfumage (Evacuation de fumée et de chaleur)                                                                  5
+   11)          Installations techniques                                                                                         5
+   12)          Installations au gaz                                                                                             5
+   13)          Installations électriques                                                                                        5
+   14)          Prévention de panique en cas d'alarme                                                                            5
+   15)          Moyens de secours et d'intervention                                                                              5
+   16)          Registre de sécurité                                                                                             6
+   17)          Réception et contrôles                                                                                           6
+
+
+
+
+         _____________________________________________________________________________________________________________________
+                Administration des Travaux et des services techniques    50 route d’Arlon           Tél. : 4796-3509
+                         Service Incendie et Ambulance                   L-1140 Luxembourg          Fax : 45 56 11
+                                                                                                    E-mail : incendie@vdl.lu
+Art. 1 Objectif et champ d'application
+1.1   Généralités
+Les établissements sont soumis aux dispositions générales ITM-SST 1501, 1502
+respectivement 1503, applicables à tous les établissements et aux présentes dispositions.
+
+1.2   Domaine d’application
+1.2.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions de sécurité et
+de santé par rapport aux habitants et au personnel auxquelles doivent répondre la conception, la
+construction et l’aménagement des logements.
+1.2.2. En fonction de l'importance de l'établissement des allégements ou des aggravations aux
+présentes prescriptions peuvent être accordés ou demandés par les autorités compétentes.
+1.2.3. Les logements encadrés peuvent être réalisés dans les bâtiments élevés sous condition
+que la hauteur du dernier niveau du logement est inférieure ou égale à 22 mètres par rapport au
+niveau de référence (bâtiment moyen).
+
+Art. 2 Définitions
+2.1   Logement encadré
+Est considérer comme logement encadré tour ensemble d’habitation de prestations d’assistance
+et/ou de soins tel que définis dans le cadre de la législation réglant les relations entre l’Etat et
+les organismes œuvrant dans les domaines social, familial et thérapeutiques, à partir d’une
+capacité d’hébergement de 12 personnes.
+
+2.2. Office de service
+Il faut entendre par office de service, tout poste d'infirmiers, servant de préparation des soins
+médicamenteux.
+
+2.3. Espaces d’activité
+Ce sont des espaces communs servant de point de rencontre des habitants et des visiteurs.
+
+Art. 3 Implantation
+Voir dispositions générales.
+
+Art. 4 Aménagements extérieurs
+4.1. Au droit des accès ambulances, des élargissements de chaussées doivent être prévus afin de
+libérer en permanence cette voie.
+
+Art. 5 Construction
+Tout balcon doit avoir la même stabilité au feu que la structure portante à laquelle il est fixé.
+
+
+
+
+Page 2 sur 6 pages                                                                 ITM-SST 1513.1
+Art. 6 Aménagements intérieurs
+Les articles 6.4.1 ; 6.4.2 et 6.10 des dispositions générales ne sont pas d’application pour les
+logements encadrés.
+
+6.1. Mesures particulières
+L’installation de locaux à sommeil en sous sol est interdite. Seuls sont autorisés à un premier
+sous-sol les activités liées au traitement médical, de rééducation e.a., les salles à manger, salles
+d’activité ou autres activités sous surveillance à condition qu’une sortie directe sur l’extérieur
+et de plain-pied soit aménagée.
+
+Art. 7 Compartimentage
+7.1. Façades
+7.1.1 Les façades isolantes ventilées avec un revêtement de matériaux facilement ou
+moyennement inflammables ne sont permises que pour les bâtiments bas.
+7.1.2 En présence d’un balcon sur une façade isolante, un élément pare-flamme doit être apposé
+en dessous du balcon pour éviter un échauffement de la structure portante et garantir la stabilité
+conformément à l’article 5.4 ci-dessus.
+
+7.2. Bâtiment
+
+En aggravation des dispositions générales, chaque établissement doit comporter au minimum
+deux compartiments secondaires au moins équivalents en surface et en nombre de chambres.
+
+7.3. Escalier
+7.3.1. Les accès aux cages d’escalier doivent se faire par un sas. Le couloir d’accès aux
+logements pourra faire fonction de sas. Les portes d’accès aux cages d’escalier seront coupe-
+feu 30 minutes et coupe-fumée (EI 30-S).
+
+7.4. Locaux à risques
+7.4.1 En complément des dispositions générales, les buanderies et les lingeries sont à
+considérer comme étant des locaux à risques moyens.
+7.4.2. Les offices de services et espace d’activités sont à considérer comme étant des locaux à
+faibles risques toutefois ils peuvent être équipés de parois vitrées n'ayant aucune caractéristique
+de tenue au feu.
+7.4.3. Les portes des espaces d’activités doivent être équipées de ferme porte asservie à la
+détection incendie et celles des offices de services peuvent être équipées de simple ferme porte.
+7.4.4. Les ensembles de caves peuvent former des compartiments qui devront satisfaire aux
+conditions de coupe feu / coupe fumée 90 min (REI 90) pour les parois et coupe feu / coupe-
+fumée 60 min (EI 60) pour les portes.
+7.4.5. Un logement est considéré comme étant un local à risques moyens. Les portes des
+logements doivent être munies de ferme-porte automatiques.
+
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 3 sur 6 pages                                                                                 ITM-SST 1513.1
+7.5. Gaines et conduits
+7.5.1. Dans les bâtiments moyens : les conduits d’un diamètre inférieur ou égal à 125 mm ne
+doivent pas obligatoirement être intégrés dans une gaine technique compartimentée
+conformément à l’article 7.7. des dispositions générales.
+Les conduits de ventilation des hottes de cuisine doivent être réalisés en matériaux non-
+combustibles (Euroclasse A2 s2d0).
+Les conduits à eau permanent et eaux usées peuvent être en matériaux ne répondant à aucun
+critère (Euroclasse F).
+D’une manière générale le trou de la gaine ne doit pas entraver le degré coupe-feu requis.
+7.5.2. Les conduits d’un diamètre supérieur à 125 mm sont à intégrer dans une gaine technique
+conforme au paragraphe 7.7.1 des dispositions générales. Leur installation devra être conforme
+aux dispositions générales.
+7.5.3. Les traversés des murs et des plafonds sont à colmater au moyen d'un matériau non-
+combustible (Euroclasse A1).
+7.5.4. Les gaines de ventilation et tout particulièrement celles des cuisines doivent être munies
+d’une grille coupe-feu à l’entrée de celles-ci.
+
+Art. 8 Evacuation de personnes, Dégagements et Issues Intérieurs
+
+8.1. Indépendamment du nombre de personnes, chaque niveau doit avoir deux sorties
+règlementaires l’une à l’opposé de l’autre. Les deux sorties doivent être éloignées de plus de 10
+m et de moins de 60 m.
+
+
+
+
+                                                       Figure 1
+
+8.2. Conformément au paragraphe 8.5.1 des dispositions générales toute sortie réglementaire
+d’une partie commune ne peut être fermée à clef sans être munie d’une serrure anti-panique qui
+permet le déverrouillage de la porte dans le sens de la fuite vers l’extérieur à tout moment.
+8.3. La signalisation de sécurité n’est pas exigée dans les parties privatives d’un immeuble. Elle
+est exigée dans les parties communes.
+
+8.4. Compte tenu de la spécificité de ces établissements, les logements encadrés sont
+susceptibles de recevoir des personnes dont la mobilité est aléatoire. Les exploitants de ces
+établissements devront mettre en œuvre toutes les mesures nécessaires à l’évacuation des
+résidents. Cette réflexion et l’organisation qui en découlera devront s’appuyer sur l’article 8.10
+des dispositions générales concernant l’évacuation des personnes à mobilité réduite.
+L’évacuation de ces personnes pourra être aussi bien horizontale, d’un compartiment vers
+l’autre, que verticale par le biais des escaliers.
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 4 sur 6 pages                                                                                 ITM-SST 1513.1
+8.5. En aggravation de l’article 8.3.2 des Dispositions Générales, des culs-de-sac dans les
+couloirs d’une longueur maximale de 10 m sont autorisés.
+
+Art. 9 Eclairage
+Dans la cage d’escalier et les parties communes y compris le sous-sol un éclairage minimal de
+1 Lux doit être réalisé en permanence. L'éclairage normal commandé par des détecteurs de
+présence placés de façon à ce que chaque endroit soit desservi, peut être une solution. Il en est
+de même pour l’éclairage de sécurité si celui-ci est allumé en permanence. Un éclairage
+temporisé commandé par minuterie n’est pas autorisé.
+
+Art. 10 Désenfumage (Evacuation de fumée et de chaleur )
+Voir dispositions générales.
+
+Art. 11 Installations techniques
+Les établissements « logements encadrés » doivent être équipés obligatoirement d’un ascenseur
+d’évacuation.
+
+Art. 12 Installations au gaz
+Voir dispositions générales.
+
+Art. 13 Installations électriques
+Voir dispositions générales.
+
+Art. 14 Prévention de panique en cas d’alarme
+Voir dispositions générales.
+
+Art. 15 Moyens de secours et d’intervention
+15.1. R.I.A.
+En dérogation à l’article 15.3.2 des dispositions générales sur les bâtiments moyens, tout
+immeuble ne comportant pas plus de quatre niveaux (R+3) hors sol, les robinets d’incendie
+armés (R.I.A.) ne sont pas exigés.
+
+15.2. Détection incendie
+Tout établissement est à équiper d'une détection intégrale susceptible de détecter et de signaler
+tout début d'incendie dans n'importe quel local, compartiment, dépôt de linge, dégagement et
+espace, y compris les chambres, les combles accessibles ou non.
+
+15.3. Alarme
+Tous les établissements doivent être équipés d’un système d’alarme. Cette alarme doit être
+transmise à un poste occupé 24 heures sur 24 heures.
+
+
+    _____________________________________________________________________________________________________________________
+    Page 5 sur 6 pages                                                                                 ITM-SST 1513.1
+15.4. Service de sécurité incendie
+Le personnel présent en permanence ou à temps partiel doit avoir au minimum un niveau de
+qualification d’agent de sécurité M3.
+
+Art. 16 Registre de sécurité
+Voir dispositions générales.
+
+Art. 17 Réception et contrôles
+Voir dispositions générales.
+
+
+
+
+                     Visa du Directeur adjoint                                   Mise en vigueur, le 26.10.2012
+                     de l’Inspection du travail
+                            et des mines
+                                                                                                 s.
+                                  s.
+                                                                                          Paul WEBER
+                         Robert HUBERTY                                                     Directeur
+                                                                                    de l’Inspection du travail
+                                                                                           et des mines
+
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 6 sur 6 pages                                                                                 ITM-SST 1513.1
+

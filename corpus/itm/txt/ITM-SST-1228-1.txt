@@ -1,0 +1,481 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                            Strassen, janvier 2008
+
+
+
+                                                                              Ancien N°ITM-CL 295.1
+
+
+                                                                              Nouveau N° ITM-SST 1228.1
+
+
+
+
+       Appareils élévateurs à plateforme pour personnes
+       conçus d'après la directive 98/37/CE relative aux
+                           machines
+
+                                               U   Prescriptions de sécurité types
+                                              Le présent document comporte 10 pages
+
+
+
+                                                                  U   Sommaire
+
+    Article                                                                                                          Page
+
+     1.                              Objectif et domaine d'application                                                2
+     2.                              Définitions                                                                      2
+     3.                              Législation et règles techniques                                                 3
+     4.                              Equipement des appareils                                                         3
+     5.                              Installations électriques, hydrauliques et mécaniques                            5
+     6.                              Déclaration de conformité                                                        5
+     7.                              Registre de sécurité                                                             5
+     8.                              Entretien                                                                        6
+     9.                              Contrôles                                                                        7
+    10.                              Modification, transformation                                                     8
+    11.                              Accidents – Incidents                                                            9
+    12.                              Autorisation d’exploitation                                                      9
+                                     Annexe                                                                          10
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-1     Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1 Les présentes prescriptions ont pour objectif de spécifier les règles de sécurité et de santé
+types à observer lors de l’implantation, de l’exploitation et du contrôle d’un appareil élévateur
+à plateforme pour personnes.
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si des mesures de rechange garantissant une protection au moins
+équivalente sont prises.
+
+Ces mesures de rechange ne devront pas être en contradiction avec la législation applicable et
+doivent être reconnues comme garantissant un niveau de sécurité équivalent par un organisme
+de contrôle et acceptées comme telles par l’Inspection du travail et des mines.
+
+1.3 Par la dénomination appareil élévateur à plateforme pour personnes est à comprendre,
+dans le contexte des présentes prescriptions, tout appareil qui dessert des niveaux définis à
+l’aide d’une plateforme, qui se déplace le long de guides rigides et dont l’inclinaison sur
+l’horizontale est supérieure à 15 degrés.
+
+1.4 Les présentes prescriptions ne concernent pas les escaliers mécaniques et les monte-
+charges.
+
+1.5 Les appareils disposant comme moyen de transport d’une cabine ne sont pas concernés
+par le présent texte mais sont soumis au règlement grand-ducal du 25 octobre 1999 relatif aux
+ascenseurs faisant la transposition de la directive 95/16/CE (voir l’annexe).
+
+1.6 Dans le but de garantir la sécurité des utilisateurs, l’utilisation de l'appareil doit être
+destinée à un usage privatif ou être réservé à l’utilisation par des personnes à mobilité réduite.
+
+Art. 2. – Définitions.
+
+2.1 Par « appareil » sont à comprendre les appareils élévateurs à plateforme pour personnes.
+
+2.2 Par « usage privatif » on comprend dans le contexte des présentes prescriptions l’usage
+dans une maison unifamiliale ou dans un bâtiment administratif où l’accès de l’appareil n’est
+pas ouvert au grand public, mais limité à des personnes à mobilité réduite et sous la
+surveillance de l’exploitant.
+
+2.3 Sous la dénomination "organisme de contrôle" est à comprendre, dans le contexte des
+présentes prescriptions tout organisme autorisé par le règlement ministériel concernant
+l’intervention des organismes de contrôle dans le cadre des compétences et attributions de
+l’Inspection du travail et des mines le plus récent en date du Ministre du Travail et de
+l’Emploi, à contrôler les appareils de levage et appareils similaires.
+
+2.4 Par « ITM » est à comprendre l’Inspection du travail et des mines
+
+2.5 Par « ADA » est à comprendre l’Administration des douanes et accises
+
+
+
+
+Page 2 de 10 pages                                                                 ITM-SST 1228.1
+Art. 3. – Législation et règles techniques
+
+3.1 Les appareils doivent d'une manière générale être construits, installés, équipés, exploités
+et entretenus conformément aux stipulations des présentes prescriptions et de la législation
+nationale en vigueur :
+
+-   la loi du 10 juin 1999 relatif aux établissements classés telle que modifiée
+-   le règlement grand-ducal modifié du 8 janvier 1992 relatif aux machines transposant la
+    directive 98/37/CE relative aux machines en droit luxembourgeois (texte coordonné voir
+    Ancien N° ITM-AM192 / Nouveau N° ITM-SST 7010)
+
+L’exploitant doit se conformer à ces règles lors de l’exploitation, mais également pendant
+toute la durée des travaux d’installation, d’entretien, de surveillance et de contrôle.
+Il s’agit des documents :
+
+3.2 Les articles L. 311-1 à L. 314-4 du Code du travail et des règlements grand-ducaux pris en
+exécution de ces articles dont notamment:
+
+       le règlement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales
+        de sécurité et de santé pour les lieux de travail;
+       le règlement grand-ducal du 4 novembre 1994 tel que modifié par la suite concernant
+        les prescriptions minimales de sécurité et de santé pour l’utilisation par les travailleurs
+        au travail d’équipements de travail;
+
+3.3 Sont à observer en plus les prescriptions afférentes de prévention contre les accidents
+édictées par l’Association d'Assurance contre les Accidents, (AAA) section industrielle
+
+Art. 4. - Equipement des appareils
+
+4.1 Conformément au règlement grand-ducal modifié du 8 février 1992 relatif aux machines,
+le constructeur d’un appareil doit définir les caractéristiques et les performances de l’appareil
+en fonction des paramètres d’utilisation et des configurations d’implantation prévus, ceci
+sous condition de se conformer aux prescriptions susmentionnées.
+
+4.2 Eclairage :
+
+Les accès à la plateforme doivent être éclairés. Cette condition est remplie p.ex. pour un
+appareil qui circule dans une cage d’escalier d’un immeuble à usage privé disposant d’un
+éclairage suffisant. Dans cette configuration, l’éclairage de la cage d’escalier ne doit pas être
+assujetti à un système de minuterie.
+
+Un éclairage suffisant doit également être installé à proximité du groupe d’entraînement et
+une prise électrique doit y être installée.
+
+4.3 Les accès à la plateforme doivent avoir une hauteur et largeur suffisante permettant le
+passage aisé d’une personne, même si celle-ci se déplace en fauteuil roulant.
+
+4.4 Accès à la machinerie de l’installation.
+La machine et ses équipements doivent se trouver dans des endroits qui leurs sont
+spécialement affectés et ils doivent être inaccessibles aux personnes non initiées.
+
+
+
+
+Page 3 de 10 pages                                                                  ITM-SST 1228.1
+Dans certains cas il est possible de loger le groupe d’entrainement et ses éléments accessoires
+dans des armoires fermées à clé et spécialement prévues à cet effet.
+
+Celles-ci peuvent se trouver sur le palier ou dans tout autre endroit accessible et à proximité
+de l’appareil.
+
+Les personnes chargées des travaux d’entretien et de contrôle doivent avoir accès en toute
+sécurité en-dessous du plateau de la plateforme.
+Ceci pourra nécessiter éventuellement la mise en place de dispositifs de protection installés à
+demeure, comme par exemple le positionnement de béquilles ou d’autres dispositifs
+antidérive.
+
+4.5 L’appareil doit être muni d’une clé de service qui permet d’empêcher une utilisation non
+autorisée.
+
+4.6 Si le risque existe de rester prisonnier sur la plate-forme en cas de panne de courant ou
+d’arrêt accidentel de la plateforme en cours de route, l’appareil est à équiper d’un moyen de
+communication bidirectionnel permettant d’appeler du secours à l’extérieur. En cas
+d’utilisation d’un téléphone portable, le portable doit se trouver près de la plateforme et doit
+être branché en permanence au réseau électrique de l’installation et ne pourra être ôté de
+l’appareil.
+
+4.7. Afin de garantir lors d’un appel de secours depuis la plateforme de l’appareil une
+intervention efficace des services d’intervention, il est nécessaire d’équiper chaque plateforme
+d’une pancarte indiquant l’adresse de l’immeuble dans lequel cet appareil est installé.
+
+4.8. Un affichage dans au moins deux langues (français et allemand) ou un pictogramme doit
+être placé près de chaque arrêt, indiquant que l’usage de l’appareil est interdit lors d’un
+incendie dans l’immeuble.
+
+4.9 Dans le cas d’un appareil avec gaine :
+
+4.9.1 Une gaine dans laquelle circule la plateforme charge ne peut influencer le
+compartimentage contre l’incendie du bâtiment.
+
+4.9.2 La gaine doit être exclusivement affectée au service de l’appareil. Elle ne doit renfermer
+ni canalisations, ni organes étrangers au service de l’appareil quels qu'ils soient.
+
+4.9.3 La gaine doit être munie d'un éclairage électrique placé à demeure permettant d'assurer
+son éclairement lors des opérations de dépannage ou d'entretien, même lorsque toutes les
+portes sont fermées.
+
+4.9.4 Dans le cas d’une gaine fermée, une ouverture de ventilation suffisante est à prévoir. Un
+désenfumage comportant 2,5% de la surface de la gaine sont à prévoir.
+
+L’ouverture pour le désenfumage peut être fermée par un clapet. L’ouverture de ce clapet doit
+être asservie à une détection de fumée pour garantir son ouverture en temps utile. Le clapet
+doit être conçu de manière à ce que son ouverture soit garantie en cas de détection de fumée
+ainsi qu’en cas de panne de courant.
+
+
+
+
+Page 4 de 10 pages                                                               ITM-SST 1228.1
+En aucun cas les ouvertures ne peuvent évacuer vers des pièces closes ou vers une zone
+destinée à l’habitation ou de travail.
+
+Art. 5. - Installations électriques, hydrauliques, mécaniques
+
+5.1 Le raccordement de l’appareil doit être conçu, réalisé, entretenu et exploité conformément
+aux normes, prescriptions et directives de sécurité et aux règles de l’art et de sécurité
+normalement applicables au Grand-duché de Luxembourg, à savoir:
+
+       les prescriptions allemandes afférentes DIN/VDE;
+       les normes européennes CENELEC, au fur et à mesure que celles-ci paraissent et
+        remplacent les prescriptions DIN/VDE précitées;
+       le règlement ministériel du 8 août 1989 concernant les prescriptions de raccordement
+        aux réseaux de distribution de l’énergie électrique à basse tension au Grand-Duché de
+        Luxembourg.
+
+5.2 L’installation électrique des locaux humides et d'installations implantées à l’extérieur doit
+être du type étanche.
+
+5.3 Une prise de courant doit être placée à proximité du groupe d’entraînement.
+
+5.4 Le cas échéant, une fuite d’huile au groupe hydraulique doit être récupérée dans des
+équipements de captage approprié
+
+5.5 Les parties d’entraînement mécaniques des installations circulant à l’extérieur doivent être
+protégées contre les intempéries.
+
+Art. 6. - Déclaration « CE » de conformité à la directive 98/37/CE relative aux machines
+
+Pour les appareils neufs une des procédures de certification suivantes doit être choisie:
+
+6.1 Déclaration de conformité du fabricant.
+L’appareil est fourni et monté par le fabricant. L’appareil est muni d’un marquage « CE » de
+conformité et accompagné d’une déclaration de conformité telle que définie à l’annexe II
+point A de la directive 98/37/CE relative aux machines.
+
+6.2. Déclaration du fabricant
+L’appareil est fourni par le fabricant avec une déclaration du fabricant telle que définie à
+l’annexe II, point B de la directive 98/37/CE relative aux Machines.
+
+L’appareil fourni avec les documents indiqués ci-dessus est monté à son emplacement par une
+société de montage. Cette façon de procéder oblige le monteur de se conformer à la procédure
+définie à l’annexe II point A de la 98/37/CE relative aux machines et de rédiger une
+déclaration « CE » de conformité et de faire l’apposition du marquage « CE » de conformité.
+
+Art. 7 - Registre de sécurité
+
+7.1. L’exploitant doit gérer ou faire gérer un registre de sécurité.
+
+
+
+
+Page 5 de 10 pages                                                                ITM-SST 1228.1
+7.2. Ce registre doit contenir :
+      L’autorisation d’exploitation conformément à la loi modifiée du 10 juin 1999 relative
+        aux établissements classés,
+      Tous les documents et informations prévus à l’annexe II de la directive 98/37/CE
+        relative aux machines,
+      La notice d’instruction telle que décrite au point 1.7.4 de l’annexe I de la directive
+        98/37/CE relative aux machines,
+      toutes les caractéristiques de l’appareil et ses éléments, les plans et schémas
+        nécessaires à une exploitation et un entretien en sécurité,
+      les rapports du premier contrôle périodique et des contrôles périodiques,
+      les fiches de travail et les notes relatives aux interventions d’entretien courant et de
+        dépannage.
+7.3 La gestion du registre peut être confiée à l’entreprise chargée de l’entretien courant. Il doit
+être conservé et déposé dans la salle des machines ou à proximité de l’appareil en question.
+
+7.4 Le registre de sécurité doit être présenté aux agents de l’organisme de contrôle ainsi
+qu’aux agents et experts de l’ITM et de l’ADA sur demande.
+
+Art. 8. - Entretien
+
+8.1 L’entretien régulier des plateformes de même que de leurs accessoires doit être assuré par
+un personnel qualifié, occupé par une entreprise légalement autorisée à exercer le métier
+d’installateur de monte-charge, d’escaliers mécaniques et de matériel de manutention.
+
+8.2 Sans préjudice de la situation d’entreprises ou d’administrations disposant d’un propre
+personnel qualifié et expérimenté, l’entretien doit s’effectuer sur la base d’un contrat écrit
+prévoyant, à côté des redressements de pannes et de dérangements,
+- le nombre d’interventions régulières courantes par an prévues par le constructeur de
+    l’appareil dans sa notice d’instruction,
+- au moins une intervention par an pour les installations à utilisation purement privative,
+- au moins deux interventions pour les installations destinées au public.
+
+8.3 L’entretien au sens du présent article doit garantir un bon état de fonctionnement, de
+fiabilité et de sécurité des appareils de même que de leurs éléments. Il s’effectue suivant les
+règles de l’art et suivant les modes de maintenance et d’entretien fournis par le constructeur.
+
+8.4 Toutes les interventions d’entretien régulier et chaque action de dépannage doivent être
+consignées dans le registre spécifié à l’article 7.
+
+8.5 A côté des dites interventions régulières extérieures le responsable local ou l’exploitant
+veillent à une surveillance continue journalière sur place de même qu’à la découverte rapide
+et à la demande de redressement subséquente immédiate de tout dérangement et en particulier
+de ceux pouvant mettre en danger les personnes. L’entreprise chargée de l’entretien courant
+est obligée d’instruire et d’informer le surveillant sur place dans la mesure des besoins.
+
+8.6 L’entretien doit s’effectuer dans le strict respect des règles de sécurité au travail, et les
+aménagements, équipements et moyens de sécurité doivent être prévus en conséquence.
+
+
+
+
+Page 6 de 10 pages                                                                 ITM-SST 1228.1
+8.7 Au cas où des interventions de nettoyage sont à effectuer à l’intérieur d’une gaine fermée
+de l’installation, la plateforme est à consigner afin d’éviter tout mouvement pouvant mettre en
+danger le personnel chargé du nettoyage. Une personne occupée dans une entreprise chargée
+de l’entretien tel que défini au point 8.1 en haut doit être chargé de la consignation.
+
+Art. 9. - Contrôles
+
+9.1. Les contrôles périodiques doivent s’effectuer sur base d’un contrat écrit à conclure entre
+l’organisme de contrôle et le propriétaire ou l’exploitant.
+
+9.2 Premier contrôle périodique
+Sans préjudice du strict respect des prescriptions ci-dessus concernant la mise sur le marché
+de machines, leur propriétaire ou exploitant doit charger un organisme d’un premier contrôle
+de l’installation avant sa mise en exploitation. L’organisme de contrôle considère l’ensemble
+des installations telles qu’installées sur le lieu de l’implantation. Ce premier contrôle
+périodique doit se solder par un rapport de premier contrôle périodique à verser ensemble
+avec copie de la déclaration de conformité « CE » au registre de sécurité prévu à l’article 7.
+
+Les contrôles et essais sur les appareils neufs comprennent:
+
+a) Vérification administrative
+    - vérification de l’autorisation d’exploitation
+    - vérification du certificat de déclaration « CE » de conformité
+    - vérification du marquage « CE » de conformité
+    - vérification du registre de sécurité
+
+b) Vérification technique
+    - vérifications portant sur les indications d’identification (panneau d’identification),
+    - vérifications portant sur les panneaux signalétiques et pictogrammes aux accès,
+       plateforme,
+    - examens et essais des dispositifs de sécurité, de signalisation et d’éclairage,
+    - essais de fonctionnement des dispositifs de sécurité et de fonctionnement dans toutes
+       les configurations de travail,
+
+9.3 Contrôles périodiques
+
+9.3.1 Sans préjudice du strict respect des prescriptions ci-dessous concernant l’entretien
+courant des appareils, ceux-ci doivent en plus être soumis régulièrement à un examen et à des
+essais annuels par un organisme de contrôle.
+
+9.3.2 L’organisme de contrôle considère l’ensemble des installations telles qu’elles
+fonctionnent sur le lieu d’implantation. Il vérifie tous les éléments et toutes les parties dans le
+contexte de leur interaction et de leur interdépendance; il procède aux essais nécessaires et il
+apprécie l’objet dans l’optique de sa destination, de son utilisation et de son entretien ainsi
+que dans le but primordial de la sécurité des personnes.
+
+9.3.3 Dans ce contexte l’organisme de contrôle procède aux
+- Vérification du registre de sécurité,
+- examens visuels portant sur l’installation d’entraînement,
+
+
+
+
+Page 7 de 10 pages                                                                 ITM-SST 1228.1
+-   examens et essais des dispositifs de sécurité, de signalisation et d’éclairage,
+-   essais de fonctionnement des dispositifs de sécurité et de fonctionnement dans toutes les
+    configurations de travail,
+-   Examens visuels portant sur l’ensemble des structures, de la partie mécanique, de la partie
+    entraînement,
+
+9.4 Les rapports de contrôle
+
+9.4.1 Chaque visite de contrôle de l’organisme de contrôle doit se solder avec un rapport et
+une vignette de contrôle à apposer en lieu bien visible près des contrôles de l’appareil.
+Le rapport est dressé en deux exemplaires avec une copie et qui sont soumis pour visa à
+l’Inspection du travail et des mines, et qui fait archivage de la copie.
+Sans préjudice des obligations de l’organisme de contrôle envers son commettant, la
+distribution finale des rapports est faite par l’organisme de contrôle comme suit :
+    - 1 exemplaire pour l’exploitant ou le propriétaire
+    - 1 exemplaire archivé par l’organisme de contrôle
+
+Le propriétaire et/ou l’exploitant veillent à ce le rapport visé ou au moins une copie du rapport
+visé soit versé au registre de sécurité prévu à l’article 7 de la présente prescription.
+
+9.4.2 Au cas où l’organisme de contrôle constate un ou une situation pouvant présenter des
+dangers pour les personnes, il doit en informer immédiatement l’exploitant par le moyen de
+communication le plus direct et le plus rapide possible, sans préjudice du rapport écrit
+ultérieur de préférence en lui faisant contresigner son rapport provisoire de contrôle.
+
+9.4.3 L’inspecteur de l’organisme de contrôle agent concerné doit dans un pareil cas indiquer
+en plus les mesures à prendre immédiatement et il doit s’assurer qu’il est obtempéré et que les
+risques inacceptables sont éliminés. A défaut, il doit en informer sans délai l’Inspection du
+travail et des mines.
+
+9.4.4 Le propriétaire et/ou l’exploitant de l’installation doivent veiller à ce que les anomalies
+éventuelles détectées par l’organisme de contrôle soient levées dans les délais indiqués dans
+les rapports.
+
+9.4.5 Une visite de recontrôle par l’organisme de contrôle est à prévoir. Si les réparations ou
+mise en état n’ont pas pu être effectués dans les délais fixés par l’organisme de contrôle,
+l’appareil est à mettre hors service. Avant une remise en service, un nouveau contrôle par
+l’organisme de contrôle est exigé.
+
+Art. 10.- Modification, transformation
+
+Chaque modification ou transformation doit être effectuée selon les règles de l’art. Les
+modifications sont à soumettre à une nouvelle analyse des risques et une nouvelle évaluation
+de la conformité conformément au règlement grand-ducal modifié du 8 janvier 1992 relatif
+aux machines.
+
+Après chaque transformation, chaque réaménagement, subis par l’appareil et pouvant avoir eu
+une influence sur la sécurité de l’installation et ce avant la remise en service de ces
+installations, l’appareil est à faire soumettre à un contrôle par un organisme de contrôle avant
+remise en service.
+
+
+
+
+Page 8 de 10 pages                                                                ITM-SST 1228.1
+Art. 11. - Accidents - Incidents
+
+11.1 Sont à mettre hors service, chaque appareil ayant été la cause d'un accident ou d'un
+incident grave ainsi que chaque appareil ayant subi des avaries pouvant influencer la sécurité
+des personnes. L’Inspection du travail et des mines est à informer dans un délai de 2 jours
+ouvrables.
+
+11.2 Ces appareils ne peuvent être remis en service qu'après délivrance d'un certificat de
+contrôle visé par l’Inspection du travail et des mines, certificat établi par un organisme de
+contrôle.
+
+Art. 12. Autorisation d’exploitation
+
+Chaque appareil doit être couvert par une autorisation d’exploitation conformément à la loi
+modifiée du 10 juin 1999 relative aux établissements classés.
+
+
+
+
+              Visa du Directeur adjoint                  Mise en vigueur, le 25.01.2008
+           de l’Inspection du travail et des
+                        mines                                           s.
+
+
+                                                                  Paul WEBER
+                 Robert HUBERTY                                     Directeur
+                                                            de l’Inspection du travail
+                                                                   et des mines
+
+
+
+
+Page 9 de 10 pages                                                                  ITM-SST 1228.1
+ANNEXE
+             Définition d’une cabine et détermination de la législation applicable
+
+
+
+
+   Plateforme            Plateforme avec              Plateforme avec              Cabine
+   simple                console de commande          paroies latérales
+
+                      Directive 98/37/CE machines                         Directive 95/16/CE ascenseurs
+
+   règlement grand-ducal du 8 janvier 1992 relatif aux machines tel que   règlement grand-ducal du 25
+               modifié (texte coordonné voir ITM-CL192                      octobre 1999 relatif aux
+                                                                                  ascenseurs
+
+ITM-CL 295 Appareils élévateurs à plateforme pour personnes
+conçus d’après la directive 98/37/CE relative aux machines
+
+
+
+
+Page 10 de 10 pages                                                                      ITM-SST 1228.1
+

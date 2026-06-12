@@ -1,0 +1,290 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                           Strassen, février 2009
+
+     Le présent texte a été établi par l’Inspection du Travail et des Mines et le Service Incendie et
+                                 Ambulance de la Ville de Luxembourg.
+
+
+                                                                                            ITM-SST 1515.1
+
+
+
+                                        Prescriptions de sécurité incendie
+
+                                            Dispositions applicables aux
+
+                                                                CHANTIERS
+
+                                               Le présent document comporte 6 pages
+
+
+
+
+                                                                       SOMMAIRE
+                 Article                                                                                         Page
+
+                  1)      Généralités                                                                                2
+                  2)      Définitions                                                                                2
+                  3)      Implantation                                                                               2
+                  4)      Aménagements extérieurs                                                                    3
+                  5)      Construction                                                                               4
+                  6)      Aménagements intérieurs                                                                    4
+                  7)      Compartimentage                                                                            5
+                  8)      Evacuation de personnes, issues et dégagements intérieurs                                  5
+                  9)      Prévention de panique en cas d'alarme                                                      5
+                 10)      Moyens de secours et d'intervention                                                        6
+
+
+
+
+        _____________________________________________________________________________________________________________________
+        Direction, Département Sécurité et Santé
+        Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs, L-2361 Strassen   Tél : 247-86145   Fax: 49 14 47
+        Site Internet : http://www.itm.lu
+Art. 1er. - Généralités
+
+1.1. Les présentes dispositions générales fixent les conditions minimales auxquelles doivent
+répondre les chantiers afin de
+                   ¾ prévenir la naissance, le développement et la propagation d’un incendie,
+                   ¾ assurer la sécurité des personnes,
+                   ¾ faciliter de manière préventive l’intervention des services d’incendie et
+                       de sauvetage.
+
+1.2. Si un projet d'aménagement, de rénovation, de réhabilitation ou de modification concerne
+un ou plusieurs établissements d'un même bâtiment ou des parties communes à ces
+établissements, le chantier, du point de vue de la sécurité incendie, devra être analysé en tenant
+compte de l'ensemble des établissements et de leurs parties communes.
+
+1.3. Les travaux ne doivent en aucun cas entraver les issues et sorties de secours des parties de
+bâtiments non concernées par ces travaux, des établissements tiers situés ou non dans le même
+bâtiment.
+
+1.4. Les normes, prescriptions, directives de sécurité, d'hygiène et les règles de l'art à appliquer
+lors de la réalisation de ces bâtiments se trouvent en particulier dans les présentes prescriptions
+et en général suivent les normes et règles techniques appliquées dans les pays voisins du
+Grand-Duché de Luxembourg ou alors celles reconnues comme équivalentes par l'Inspection
+du travail et des mines.
+
+1.5. Les normes européennes (EN), au fur et à mesure qu'elles paraissent, doivent être
+appliquées. Elles sont amenées à remplacer les diverses normes en application dans les
+différents pays de la communauté.
+
+1.6. Le constructeur doit se conformer aux dispositions des articles L. 311-1 à L. 314-4 du Titre
+Ier - Sécurité au travail du Livre III - Protection, Sécurité et Santé des travailleurs du Code du
+travail et de ses règlements d'exécution.
+
+1.7. Il y a lieu d'observer en outre les prescriptions afférentes à la prévention contre les
+accidents édictées par l'Association d'Assurance contre les Accidents.
+
+Art. 2. - Définitions
+
+Les définitions générales sont données par la prescription ITM-SST 1500.
+
+Art. 3. - Implantation
+
+3.1. Les voies, espaces, passages et autres chemins prévus pour l'évacuation des personnes sur
+la voie publique et pour la mise en œuvre des secours, doivent être libres et dégagés en
+permanence de tout obstacle, de tout véhicule en stationnement et de toute autre entrave.
+
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 2 sur 6 pages                                                                                 ITM-SST 1515.1
+3.2. L’installation de chantier doit faire l’objet d’un plan d’aménagement spécifique à la
+sécurité incendie. Ce plan devra faire apparaître et différencier clairement les zones de
+baraquements de chantier, les zones de stockage, les zones « engins fixes » tels que grues, silos,
+machines diverses et les zones de circulation. Pour ce qui concerne les zones de circulation, il y
+a lieu de différencier les circulations des véhicules et engins de chantiers des circulations
+piétonnes qui doivent permettre l’évacuation des travailleurs et des éventuels visiteurs. Dans le
+cas où des baraquements de logements pour le personnel du chantier étaient prévus, la zone
+réservée à cet effet devra être facilement accessible aux services de secours, être le plus proche
+possible d’une borne ou d’une bouche d’incendie et correctement signalée.
+
+Art. 4. - Aménagements extérieurs
+
+4.1. Accès et circulation
+
+4.1.1. Le ou les accès doivent être aménagés dans des endroits visibles, signalisés, sûrs et
+protégés de manière que les entrées et sorties tant des véhicules que des piétons puissent
+s'effectuer en toute sécurité.
+
+4.1.2. Les accès sont à déterminer en accord avec le service d’incendie et de sauvetage
+compétent.
+
+4.1.3. Les accès aux visiteurs devront être limités aux seules parties du chantier correctement
+balisées, circulables et ne présentant aucun danger.
+
+4.1.4. Les accès réservés aux services d’incendie et de sauvetage, de même que les bornes
+incendie et autres moyens de secours extérieurs doivent être dégagés en permanence.
+L'exploitant doit pourvoir aux interdictions, empêchements matériels, contrôles, surveillances
+et redressements nécessaires.
+
+4.1.5. La zone de baraquement doit être correctement accessible en permanence au personnel et
+aux services de secours.
+
+4.2. Prévention des accidents à l'extérieur de la ou des zones de construction
+
+4.2.1. D’une manière générale toutes les voies de circulation, véhicules ou piétonnes, doivent
+être maintenues en bon état.
+
+4.2.2. Les accès extérieurs pour piétons doivent être libres de tout obstacle ou de dénivellement
+pouvant donner lieu à des trébuchements, chutes ou blessures.
+
+4.2.3. Les endroits dangereux en périphérie des chemins piétons doivent être protégés, exécutés
+et aménagés de manière à présenter toutes les garanties de sécurité requises.
+
+4.2.4. Près des entrées et aux endroits où les chemins piétons longent les façades, il y a lieu de
+veiller à la prévention des accidents pouvant être provoqués par notamment:
+                   ¾ la chute et le renversement d'objets et de matériaux de chantier,
+                   ¾ le bris de verre,
+                   ¾ les vantaux, murs, coins, balcons, estrades, perrons, paliers et autres
+                       éléments saillants,
+                   ¾ l'aspérité du crépi et des matériaux de construction,
+                   ¾ la chute de masses de neige ou de glaçons.
+
+    _____________________________________________________________________________________________________________________
+    Page 3 sur 6 pages                                                                                 ITM-SST 1515.1
+4.2.5. Une signalisation devra être mise en place en conformité aux règles de l'art et de la
+sécurité.
+
+4.2.6. Les chantiers doivent être correctement clôturés afin d’interdire l’accès aux personnes
+non autorisées.
+
+4.2.7. Les feux de chantier sont par nature interdits. Toutefois s’ils ne présentent aucun danger
+vis-à-vis du personnel, des visiteurs éventuels et des tiers et s’il n’existe aucun risque de
+propagation du feu ou d’explosion, ils peuvent être autorisés sous réserve d’avoir à proximité
+la possibilité d’agir sur le feu en cas de danger imprévisible.
+
+4.3. Chemin d’accès
+
+4.3.1. D’une manière générale, chaque chantier doit pouvoir être accessible par les échelles et
+véhicules des services d’incendie et de sauvetage sur au moins une des façades.
+
+4.3.2. La structure et le revêtement du chemin ou de la surface de manœuvre doivent supporter
+une surcharge de 13 tonnes par essieu et de 20 tonnes sur essieux couplés. La pression
+supportable au sol doit être de 80 N/cm2 d’après la norme DIN 14090.
+
+4.3.3. Les déclivités comme les pentes et rampes ne peuvent dépasser 10 %.
+
+4.3.4. Les passages en dessous de constructions doivent garantir un passage libre de 4,00 m en
+hauteur et 5,60 m en largeur.
+
+Art. 5. - Construction
+
+5.1. L’isolement du chantier par rapport à des établissements superposés ou contigus en
+fonctionnement normal dans un même bâtiment doit impérativement respectées les conditions
+d’isolement décrites dans les dispositions générales et les dispositions spécifiques.
+
+5.2. Les volumes libres intérieurs, compte tenu de leur spécificité, peuvent servir de lieu de
+stockage en cours de chantier et être également un lieu de passage en cas d’évacuation ;
+toutefois il y aura lieu de mettre en place un désenfumage provisoire et de s’assurer que les
+circulations soient toujours dégagées.
+
+Art. 6. - Aménagements intérieurs
+
+6.1. Tous les vides d'escalier, d’ascenseurs, les baies vitrées basses, les paliers, les gradins, les
+plates-formes et passerelles surélevées, les balcons, les côtés libres des escaliers et des rampes,
+les ouvertures dans les planchers, les trappes, les fosses, les excavations et tous les autres
+endroits donnant lieu à des risques de chute de hauteur, doivent être protégés par des garde-
+corps.
+
+6.2. Dans les locaux où sont stockés et/ou employés des liquides inflammables, une cuve
+étanche doit permettre la rétention des liquides en question. Le stockage de liquides
+inflammables est soumis à la loi relative aux établissements classés. Celui-ci est fonction des
+quantités et des types de liquides.
+
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 4 sur 6 pages                                                                                 ITM-SST 1515.1
+Art. 7. - Compartimentage
+
+Le rebouchage des trous, réservations, trémies et autres vides dans les murs et les planchers
+doit être exécuté dès que possible afin d’éviter toute propagation d’incendie.
+Les locaux qui sont utilisés à des fin de stockage doivent être considérés comme des locaux à
+risques et doivent être compartimentés afin d’assurer une protection vis-à-vis d’un incendie de
+30 minutes.
+
+Art. 8. - Evacuation des personnes, issues et dégagements intérieurs
+
+8.1. Il est interdit de déposer et de laisser séjourner dans les chemins d'évacuation, dans les
+escaliers et aux abords des sorties, des objets quelconques pouvant diminuer les largeurs
+réglementaires ou gêner la circulation.
+
+8.2. Les sorties qui donnent directement sur la voie publique sont à sécuriser moyennant des
+garde-corps.
+
+8.3. Les chemins d’évacuation doivent:
+                     ¾ être accessibles à tout moment,
+                     ¾ être dégagés en permanence de tout obstacle,
+                     ¾ disposer d’une signalisation permettant une fuite en sécurité.
+
+8.4. Les escaliers doivent permettre une évacuation rapide et sûre de l’établissement.
+
+Par conséquent, les escaliers doivent:
+                     ¾ être accessibles à tout moment,
+                     ¾ être dégagés en permanence de tout obstacle,
+                     ¾ disposer d’une signalisation permettant une fuite en sécurité.
+
+Art. 9. - Prévention de panique en cas d'alarme
+
+9.1. Les soins à prodiguer sur un chantier doivent se limiter strictement aux premiers secours.
+Pour tout cas grave ou douteux, il faut immédiatement faire appel aux services de secours
+publics.
+
+9.2. A cette fin, les personnes doivent avoir accès à tout moment à un téléphone raccordé au
+réseau téléphonique public ou à un autre moyen de télécommunication équivalent. Les numéros
+ou autres consignes d’appel nécessaires et utiles doivent être visiblement affichés sur les
+appareils et dispositifs respectifs.
+
+9.3. Tout chantier doit pourvoir à un équipement de premiers secours, suivant les règles de l’art
+et les prescriptions officielles en vigueur, en fonction des risques en présence et en fonction du
+nombre de personnes susceptibles d’en profiter.
+
+9.4. Cet équipement doit être entretenu, revu, contrôlé et complété régulièrement.
+
+9.5. Afin d’assurer l’alerte et l'alarme en cas d’incendie, des mesures appropriées devront être
+mises en œuvre. Ce point pourra être examiné en collaboration avec les services de secours et
+les autorités compétentes.
+
+    _____________________________________________________________________________________________________________________
+    Page 5 sur 6 pages                                                                                 ITM-SST 1515.1
+Art. 10. - Moyens de secours et d'intervention
+
+10.1. Les bornes et bouches d’incendie extérieures et intérieures doivent être facilement
+repérables et signalisées sur place. Les bornes ou bouches mises hors service en raison des
+travaux doivent être signalisées de telle façon qu’il n’y ait aucune ambiguïté.
+
+10.2. Des extincteurs portatifs d'incendie normalisés et adaptés aux risques doivent être
+disposés à proximité des lieux de stockage des produits dangereux, des postes de travail
+présentant des risques particuliers comme l’utilisation de produits inflammables, postes à
+souder, étanchéités de terrasses et toitures terrasses,….etc.
+
+10.3. Lorsque le projet prévoit des colonnes sèche ou en charge, il doit être possible d’utiliser
+ces colonnes dès le début des travaux d’aménagement
+
+
+
+
+                     Visa du Directeur adjoint                                 Mise en vigueur, le 27 février 2009
+                     de l’Inspection du travail
+                            et des mines
+                                                                                                 s.
+                                  s.
+                                                                                           Paul Weber
+                         Robert HUBERTY                                             Directeur de l’Inspection
+                                                                                     du travail et des mines
+
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 6 sur 6 pages                                                                                 ITM-SST 1515.1
+

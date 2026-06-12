@@ -27,10 +27,11 @@ pipeline-fr: ## Run the full French chain: DPE -> RNB -> BDNB -> clay risk (DEPT
 	python3 ingest_bdnb.py --in-file data/dpe_rnb_dpto$(DEPT).jsonl
 	python3 ingest_georisques.py --in-file data/dpe_rnb_bdnb_dpto$(DEPT).jsonl
 
-corpus: ## Download the AQC pathology corpus (89 PDFs + text + manifest)
+corpus: ## Download the corpora: AQC pathology (89 PDFs) + ITM prescriptions (143 PDFs)
 	python3 ingest_aqc.py
+	python3 ingest_itm.py
 
-rag: ## Build the RAG index (chunking + embeddings) over the corpus
+rag: ## Build the multi-corpus RAG index (AQC + ITM)
 	$(PY) rag_aqc.py build
 
 search: ## Semantic search, e.g.: make search Q="fissures argiles"

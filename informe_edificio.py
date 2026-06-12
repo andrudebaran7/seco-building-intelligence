@@ -34,7 +34,7 @@ import sqlite3
 import sys
 from pathlib import Path
 
-DB_PATH = Path("corpus/aqc/rag_index.db")
+DB_PATH = Path("corpus/rag_index.db")
 MODEL_NAME = "intfloat/multilingual-e5-small"
 OUT_DIR = Path("informes")
 
@@ -135,7 +135,10 @@ def recuperar_fichas(senales: list[dict], top_por_senal: int = 2) -> None:
     from sentence_transformers import SentenceTransformer
 
     con = sqlite3.connect(DB_PATH)
-    data = con.execute("SELECT code, titulo, texto, embedding FROM chunks").fetchall()
+    # Los informes de riesgo citan solo patología (AQC); la normativa ITM
+    # vive en el mismo índice pero se usa en la búsqueda libre.
+    data = con.execute("SELECT code, titulo, texto, embedding FROM chunks "
+                       "WHERE fuente='AQC'").fetchall()
     con.close()
     matrix = np.frombuffer(b"".join(r[3] for r in data), dtype=np.float32).reshape(len(data), -1)
 

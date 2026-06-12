@@ -1,0 +1,742 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                  Strassen, mars 2010
+
+
+
+
+                                                                                                    ITM-SST 1610.1 All
+
+
+
+
+                             Vorschriften zur betrieblichen Sicherheit
+                                       von Pflegestationen
+
+
+                                              Diese Vorschriften umfassen 18 Seiten
+
+
+
+
+                                                            Inhaltsverzeichnis
+
+    Kapitel                                                                                                                            Seite
+
+    1      Gesetzliche Grundlagen ...................................................................................................... 3
+    2      Gegenstand und Anwendungsbereich ................................................................................. 3
+    3      Begriffsbestimmungen ........................................................................................................ 3
+    4      Anforderungen an Räumlichkeiten und Ausstattung .......................................................... 5
+        4.1 Allgemein ....................................................................................................................... 5
+        4.2 Patientenzimmer ............................................................................................................. 7
+        4.3 Stationsbad ..................................................................................................................... 8
+        4.4 Stationsküche.................................................................................................................. 8
+        4.5 Unreine Pflegearbeitsräume ........................................................................................... 8
+        4.6 Reiner Pflegearbeitsraum ............................................................................................... 9
+        4.7 Untersuchungs- und Behandlungsräume...................................................................... 10
+        4.8 Entsorgungsraum.......................................................................................................... 10
+    5      Reinigung - Desinfektion - Aufbereitung von Betten ....................................................... 11
+        5.1 Reinigung und Desinfektion der Arbeitsbereiche ........................................................ 11
+
+
+
+    Direction
+    Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+    Bureaux : 3, rue des Primeurs, L-2361 Strassen Tél :2 478-6145   Fax: 49 14 47
+    Site Internet : http://www.itm.lu
+    5.2 Besondere Maßnahmen betreffend aldehydhaltiger Reinigungs- und
+        Desinfektionsmittel ...................................................................................................... 11
+    5.3 Umgang mit Flächendesinfektionsmitteln.................................................................... 11
+    5.4 Aufbereitung von Betten .............................................................................................. 12
+6     Organisatorische Anforderungen ...................................................................................... 13
+7     Persönliche Hygiene- und Schutzmaßnahmen.................................................................. 14
+8     Entsorgung ........................................................................................................................ 15
+9     Ergonomie ......................................................................................................................... 15
+10 Schulung und Betriebsanweisungen ................................................................................. 16
+11 Arbeitsmedizinische Betreuung ........................................................................................ 16
+12 Wiederkehrende Prüfungen............................................................................................... 17
+
+      Anhang .............................................................................................................................. 18
+
+
+
+
+Seite 2 von 18 Seiten                                                                                             ITM-SST 1610.1 All
+1     Gesetzliche Grundlagen
+    (1) Der Code du travail, Art. L. 311-1. bis Art. L. 314-4. ist zu beachten.
+    (2) Des Weiteren sind die Unfallverhütungsvorschriften (UVV) der Association
+        d'Assurance contre les Accidents (AAA) zu beachten. Dies gilt insbesondere
+        betreffend der Kapitel:
+         - „Allgemeine Vorschriften“
+         - „Leitern und Tritte“
+         - „Gesundheitsdienst“
+    (3) Europäische Normen (EN) sind anzuwenden, so wie sie erscheinen und nationale
+        Vorschriften ersetzen.
+
+2     Gegenstand und Anwendungsbereich
+    (1) Diese Vorschriften gelten für Pflegestationen in Einrichtungen des
+        Gesundheitswesens und haben die Festlegung genereller Anforderungen bezüglich der
+        Arbeitssicherheit und der Arbeitshygiene zum Gegenstand.
+    (2) Die genannten Anforderungen sind als Mindestanforderungen für alle Pflegestationen
+        in Einrichtungen des Gesundheitswesens zu verstehen. Für besondere Pflegestationen
+        können darüber hinausgehende Vorschriften anzuwenden sein (z.B. Psychiatrie,
+        Pädiatrie, Dialyse, Radiotherapie, Infektionsstationen, Intensivstationen etc.).
+    (3) Erleichterungen oder Befreiungen von einzelnen Anforderungen können fallweise
+        vereinbart werden, sofern durch geeignete Ersatzmaßnahmen das gleiche oder ein
+        höheres Schutzniveau gewährleistet wird.
+
+3     Begriffsbestimmungen
+    (1) Unter Pflegestation werden im Sinne dieser Vorschrift Abteilungen verstanden, in
+        denen kranke, behinderte und sonstige pflegebedürftige Menschen verpflegt, gepflegt,
+        untersucht und medizinisch behandelt werden.
+    (2) Unter Patientenzimmern werden Räume mit Betten zur Unterbringung der Patienten
+        verstanden (auch „Bettenzimmer“ oder „Krankenzimmer“).
+    (3) Ein Stationsbad ist ein auf der Station befindlicher Sanitärraum in dem
+        pflegebedürftige Patienten gebadet oder geduscht werden, bzw. in dem sich mobile
+        Patienten selbst baden oder duschen können und der nicht einem Patientenzimmer
+        zugeordnet ist (auch „Patientenbad“).
+    (4) Unter Stationsküchen werden Küchen verstanden, in welchen für Patienten
+        Tätigkeiten wie zum Beispiel die Zubereitung von Tee, das Aufwärmen, Warmhalten,
+        Aufbewahren und Verteilen von Speisen etc., durchgeführt werden. Stationsküchen
+        dienen nicht der Zubereitung von Speisen.
+
+
+
+
+Seite 3 von 18 Seiten                                                             ITM-SST 1610.1 All
+  (5) Diensträume für Pflegekräfte sind Räume oder Bereiche die der Durchführung
+      administrativer Tätigkeiten dienen. Diese können mit reinen Pflegearbeitsräumen
+      kombiniert oder in einen solchen integriert sein.
+  (6) Reine Pflegearbeitsräume sind Räume, in welchen „reine“ Tätigkeiten durchführt
+      werden. Zu diesen „reinen“ Tätigkeiten gehören zum Beispiel:
+        •    das Aufziehen und Vorbereiten von Injektionen;
+        •    das Vorrichten von Infusionen, Transfusionen etc.;
+        •    die Lagerung von Medikamenten;
+        •    das Richten von Medikamenten;
+        •    die Lagerung von Sterilgut;
+        •    etc.
+  (7) Unreine Pflegearbeitsräume sind Räume, in welchen „schmutzige“ Arbeiten
+      durchgeführt werden („Schmutzarbeitsräume). Zu diesen „schmutzigen“ Arbeiten
+      gehören zum Beispiel:
+        •    die Entsorgung von Fäkalien
+        •    die Entsorgung von Sekreten, Blut etc.
+        •    die Aufbereitung kontaminierter Instrumente, Geräte und sonstiger Materialien,
+             sofern diese nicht zentral aufbereitet werden
+        •    die Sammlung und Lagerung von Abfällen
+        •    die Sammlung und Lagerung von Schmutzwäsche
+        •    die Entsorgung von Reinigungsflüssigkeiten, Desinfektionsmittellösungen
+        •    etc.
+  (8) Untersuchungs- und Behandlungsräume sind Räume in welchen medizinische
+      Diagnostik und/oder Therapiemaßnahmen durchgeführt werden.
+  (9) Ein Entsorgungsraum ist ein Raum in welchem Schmutzwäsche und/oder Abfälle
+      gesammelt und/oder bis zum Abtransport zwischengelagert werden. Der
+      Entsorgungsraum kann auch mit einem „Unreinen Pflegearbeitsraum“ kombiniert
+      sein.
+  (10) Unter Aufbereitung wird die Reinigung-Desinfektion sowie die Reinigung-
+       Desinfektion-Sterilisation von Medizinprodukten und anderen Materialien mit dem
+       Ziel einer Wiederverwendung verstanden.
+  (11) Unter Bereichskleidung wird Arbeitskleidung verstanden, welche ausschließlich in
+       einem bestimmten Bereich getragen wird. In der Regel weisen solche Bereiche eine
+       erhöhte Infektionsgefährdung auf, d.h. es handelt sich um „Risikobereiche“. Die
+       Bereichskleidung darf daher nicht außerhalb des betreffenden Bereiches getragen
+       werden, sondern muss beim Verlassen des Bereiches abgelegt werden. In
+       Ausnahmefällen ist es möglich beim Verlassen des Bereiches die Bereichskleidung
+       anzubehalten, wenn darüber ein „externer“ Schutzkittel getragen wird. Externe
+
+
+
+
+Seite 4 von 18 Seiten                                                       ITM-SST 1610.1 All
+         Schutzkittel müssen sich deutlich von internen Schutzkitteln unterscheiden (z.B.
+         farbliche Kennzeichnung) und müssen getrennt von diesen aufbewahrt werden.
+    (12) Unter Schutzkleidung wird Kleidung verstanden, welche bei der Durchführung
+         bestimmter Tätigkeiten zur Erhöhung des persönlichen Schutzes getragen wird
+         (analog zu persönlicher Schutzausrüstung). Schutzkleidung muss nach Beendigung
+         der entsprechenden Tätigkeiten abgeworfen/abgelegt werden. Schutzkleidung wird
+         über der Arbeitskleidung oder aber auch alleine getragen. Schutzkleidung kann zum
+         Beispiel sein:
+          •    Schutzhandschuhe
+          •    Schutzschürze
+          •    Schutzbrille
+          •    Schutzmaske
+          •    Schutzvisier
+
+4     Anforderungen an Räumlichkeiten und Ausstattung
+
+4.1    Allgemein
+    (1) Bei Pflegestationen soll es sich möglichst um fachspezifisch und räumlich eindeutig
+        abgegrenzte Bereiche handeln.
+    (2) Die Anzahl, die Lage und die Größe von Räumen und Bereichen der Pflegestationen
+        müssen so gewählt sein, dass ein behinderungsfreies und ergonomisch günstiges
+        Arbeiten sowie eine sachgemäße und sichere Lagerung aller erforderlichen
+        Materialien gewährleistet ist.
+    (3) Pflegestationen sollen die folgenden Bereiche bzw. Räume umfassen:
+          •    Patientenzimmer
+          •    Stationsbad
+          •    Stationsküche
+          •    Dienstraum für Pflegekräfte
+          •    Reiner Pflegearbeitsraum
+          •    Unreiner Pflegearbeitsraum
+          •    Arztzimmer
+          •    Untersuchungs- und Behandlungsraum
+          •    Personalaufenthaltsraum
+          •    Personaltoiletten
+          •    Patientenaufenthalts- und Besuchsräume
+          •    Besuchertoiletten
+
+
+
+Seite 5 von 18 Seiten                                                    ITM-SST 1610.1 All
+          •    Putzraum
+          •    Entsorgungsraum (für Wäsche und Abfall)
+          •    Geräte- und Vorratsräume in ausreichender Anzahl u. Größe
+        Die Anzahl und Größe der Geräte- und Vorratsräume müssen den Anforderungen der
+        jeweiligen Station angepasst sein.
+  (4) Dem Personal müssen Umkleiden zur Verfügung gestellt werden. Die Umkleiden
+      müssen den Vorschriften ITM-CL 601 „Umkleiden in Einrichtungen des
+      Gesundheitswesens“ entsprechen.
+  (5) Bodenbeläge müssen die folgenden Rutschfestigkeiten aufweisen:
+
+                                                           Rutschfestigkeit
+         Bereich/Raum
+                                                          Bewertungsgruppe
+         Pflegestation mit Krankenzimmern und Fluren             R9
+         Treppen                                                 R9
+         Pausenräume (Aufenthaltsräume, Kantinen etc.)           R9
+         Untersuchungs- u. Behandlungsräume etc.                 R9
+         Praxen der Medizin (Tageskliniken)                      R9
+         Sanitäre Räume (Toiletten, Umkleiden,
+                                                                R 10
+         Waschräume, Stationsbäder etc.)
+         Stationsküchen, Kaffee- und Teeküchen                  R 10
+         Räume zur Aufbereitung von Betten                      R 10
+         Unreine Pflegearbeitsräume, Fäkalienräume,
+                                                                R 11
+         Ausgussräume, Desinfektionsräume (nass)
+
+
+  (6) Die Bodenbeläge müssen den raum- bzw. bereichsspezifischen Anforderungen im
+      Hinblick auf die mechanische und die chemische Belastbarkeit angepasst sein.
+  (7) Die Bodenbeläge müssen eben und ohne Hindernisse verlegt sein. Beim
+      Aufeinandertreffen verschiedener Bodenbeläge sind geeignete Maßnahmen für
+      stolperfreie Übergänge ohne Niveauunterschied zu treffen. Türstopper und ähnliche
+      Hindernisse sind möglichst zu vermeiden oder so anzubringen, dass sich diese in nicht
+      begangenen Bereichen befinden und keine Stolperfallen darstellen können.
+  (8) Bodenbeläge müssen leicht zu reinigen sein.
+  (9) Verglasungen in Wänden oder Türen müssen bis zu einer Höhe von mindestens 2,1 m
+      aus Sicherheitsglas bestehen.
+  (10) Die Enden von Türgriffen müssen zum Türblatt hin abgewinkelt bzw. gebogen sein.
+       Die Klinken und die sonstigen Beschläge müssen abgerundet und frei von scharfen
+       Rändern und Spitzen sein.
+
+
+
+
+Seite 6 von 18 Seiten                                                      ITM-SST 1610.1 All
+  (11) Türen die zum Flur hin öffnen, dürfen in geöffnetem Zustand nicht mehr als 20 cm in
+       die Flure hineinragen.
+  (12) Die Innenausstattung und das Mobiliar müssen so beschaffen sein, dass eine
+       gefahrlose Verwendung möglich ist. Scharfe Kanten und Ecken sind zu vermeiden
+       oder mit geeigneten Materialien abzudecken.
+  (13) Regale, Schränke und sonstige hohe Einbauten oder Mobiliar, müssen kippsicher
+       befestigt bzw. aufgestellt sein.
+  (14) Die Oberflächen von festen Einbauten und Inventar müssen leicht zu reinigen und so
+       beschaffen sein, dass eine regelmäßige Desinfektion möglich ist.
+  (15) Die Sitzflächen von Stühlen sowie sonstige Polsterungen müssen leicht abwaschbar,
+       flüssigkeitsundurchlässig und desinfektionsmittelbeständig sein.
+  (16) Wenn entsprechende Tätigkeiten anfallen, müssen Hilfsmittel zum Heben und
+       Umlagern von Patienten (z.B. Patienten-Lifter, Rollboard etc.) vorhanden sein.
+  (17) In allen Räumen, in welchen sich Beschäftigte längerfristig aufhalten, muss ein
+       angenehmes Raumklima in Bezug auf Temperatur und Luftfeuchtigkeit vorhanden
+       sein. Gegebenenfalls müssen raumlufttechnische Maßnahmen ergriffen werden. Bei
+       der Dimensionierung der raumlufttechnischen Anlagen, müssen die aus technischen
+       Installationen resultierenden Wärme- und Feuchtelasten berücksichtigt werden.
+  (18) Die Be- und Entlüftung von Räumen muss so erfolgen, dass die Beschäftigten keiner
+       Zugluft ausgesetzt sind.
+  (19) Pflegestationen müssen mit einer Lichtrufanlage (Patientenruf, Schwesternruf)
+       ausgestattet sein, welche in den Krankenzimmern von jedem Bett sowie den
+       zugeordneten Nasszellen/Toiletten betätigt werden kann.
+        Auch sonstige Räume die durch Patienten genutzt werden, z.B. Stationsbad, müssen in
+        die Lichtrufanlage eingebunden werden.
+
+4.2   Patientenzimmer
+  (1) Die Größe der Patientenzimmer muss der Bettenanzahl und der sonstigen
+      erforderlichen Ausstattung angepasst und so bemessen sein, dass ausreichend
+      Bewegungsfläche für eine behinderungsfreie Durchführung der Pflegetätigkeiten zur
+      Verfügung steht.
+  (2) Patientenbetten sollen von beiden Längsseiten sowie vom Fußende aus zugänglich
+      sein.
+  (3) Der Mindestabstand zwischen Patientenbetten muss so groß sein, dass dieser in
+      Abhängigkeit von den auf der jeweiligen Station jeweils durchzuführenden
+      Tätigkeiten ein ergonomisches Arbeiten an den Betten erlaubt.
+  (4) Die Aufstellung der Betten muss so erfolgen, dass diese ohne Rangieraufwand aus
+      dem Zimmer gefahren werden können.
+
+
+
+
+Seite 7 von 18 Seiten                                                    ITM-SST 1610.1 All
+     (5) Die Türen von Nasszellen/Toiletten in Patientenzimmern müssen im Notfall von
+         außen zu öffnen sein und sollen möglichst nach außen aufschlagen (eventuell auch
+         Verwendung von Schiebetüren).
+     (6) Die Zimmer müssen mit Anschlüssen zur Versorgung mit den benötigten
+         medizinischen Gasen ausgestattet sein.
+     (7) In    den     Patientenzimmern     müssen      fest   angebrachte  Spender mit
+         Händedesinfektionsmittel vorhanden sein. Die Anbringung der Spender muss so
+         erfolgen, dass von diesen keine Gefahren für das Personal ausgeht.
+
+4.3     Stationsbad
+     (1) Stationsbäder müssen mindestens wie folgt ausgestattet sein:
+           •    Handwaschbecken mit Hygieneset
+           •    Toilette (rollstuhlgerecht, falls dies in den Toiletten der Patientenzimmer nicht
+                gewährleistet ist)
+           •    ebenerdige, rollstuhlbefahrbare Dusche
+           •    Zwangslüftung
+     (2) Der Einbau einer Badewanne ist nicht generell erforderlich. Falls jedoch eine
+         Badewanne vorhanden ist, soll diese unterfahrbar und höhenverstellbar sein und es
+         muss ein für die Wanne geeignetes Hebegerät für Patienten verfügbar sein.
+
+4.4     Stationsküche
+     (1) Stationsküchen müssen entsprechend der jeweiligen Anforderungen (Verteilerküche,
+         Teeküche etc.) ausgestattet sein.
+     (2) Stationsküchen dürfen nicht für die Zubereitung oder Aufbewahrung von Speisen oder
+         Getränken des Personals genutzt werden.
+     (3) Stationsküchen dürfen nicht als Aufenthaltsraum für das Personal dienen.
+
+4.5     Unreine Pflegearbeitsräume
+     (1) Auf Pflegestationen muss ein unreiner Pflegearbeitsraum vorhanden sein.
+     (2) Unreine Pflegearbeitsräume müssen mindestens wie folgt ausgestattet sein:
+           •    Handwaschbecken mit Hygieneset1)
+           •    Dosiergerät für Flächendesinfektionsmittel, falls keine Beuteldosierung erfolgt2)
+
+
+1)   Handwaschbecken ohne Überlauf und mit handberührungsfrei bedienbaren Armaturen. Hygieneset
+     bestehend aus Spendern mit Waschlotion, Händedesinfektionsmittel, Hautpflegemittel und Einmal-
+     handtüchern sowie einem Handtuchabwurf.
+2)   Alternativ kann sich das Dosiergerät auch im Putzraum befinden, die Unterbringung in einem unreinen
+     Arbeitsraum wird in den meisten Fällen jedoch als sinnvoller erachtet.
+
+
+
+
+Seite 8 von 18 Seiten                                                                    ITM-SST 1610.1 All
+          •    Dampfdesinfizierendes Steckbeckenspülgerät
+          •    Ausgussbecken mit Ringspülung
+          •    Abfallabwurf
+  (3) Es muss eine Zwangslüftung mit einem mindestens 5-fachem Luftwechsel pro Stunde,
+      bezogen auf den Frischluftanteil, vorhanden sein.
+  (4) Die Wandbeläge und sonstige Oberflächen müssen aus abwaschbaren und
+      desinfektionsmittelbeständigen Materialien bestehen. Sie müssen fugendicht und glatt
+      sein.
+  (5) Bodenbeläge müssen leicht zu reinigen und desinfektionsmittelbeständig sein. Die
+      Wandanschlüsse müssen als Hohlkehlen ausgebildet sein. Im Falle von flexiblen
+      Bodenbelägen müssen diese mindestens 10 cm an der Wand hochgezogen werden.
+  (6) Wenn Wände gefliest sind, muss müssen die Fliesen bis zum Deckenanschluss
+      reichen.
+  (7) Die Oberflächen von festen Einbauten und Inventar müssen leicht zu reinigen und so
+      beschaffen sein, dass eine regelmäßige Desinfektion möglich ist.
+  (8) Zwischenräume von festen Einbauten zu Fußböden, Wänden oder Decken müssen
+      fugendicht verschlossen sein, sofern diese nicht einer einfachen Reinigung und
+      Desinfektion zugänglich sind.
+
+4.6   Reiner Pflegearbeitsraum
+  (1) Reine Pflegearbeitsräume müssen mindestens wie folgt ausgestattet sein:
+          •    Medikamentenschrank (verschließbar)
+          •    Schränke/Lagersysteme für die benötigen Materialien
+          •    ausreichend bemessene und in ergonomisch günstiger Höhe angeordnete
+               Arbeitsflächen
+          •    Handwaschbecken mit Hygieneset
+  (2) Zwischen Schränken und Decken sollen keine Zwischenräume vorhanden sein.
+      Gegebenenfalls sind diese zu verblenden.
+  (3) Die    Beleuchtungsstärke     muss     mindestens   300 Lux       betragen.    Wenn
+      Bildschirmarbeitsplätze vorhanden sind jedoch 500 Lux.
+  (4) Der Dienstraum für Pflegekräfte kann mit dem reinen Pflegearbeitsraum kombiniert
+      werden, wenn die zur Verfügung stehende Fläche ausreichend ist.
+
+
+
+
+Seite 9 von 18 Seiten                                                    ITM-SST 1610.1 All
+4.7     Untersuchungs- und Behandlungsräume
+     (1) Untersuchungs- und Behandlungsräume müssen mit Handwaschbecken und
+         Hygieneset3) ausgestattet sein.
+     (2) Untersuchungs- und Behandlungsstühle müssen höhenverstellbar und abwaschbar
+         sein.
+     (3) Wand- und Bodenbeläge müssen abwaschbar und desinfektionsmittelbeständig sein.
+     (4) Tastaturen müssen abwaschbar und desinfektionsmittelbeständig sein.
+     (5) Wenn an der Decke Geräte befestigt sind, muss in Durchgangsbereichen eine
+         Durchgangshöhe von mindestens 1,95 m eingehalten werden. Ecken und Kanten in
+         anstoßgefährdeten Bereichen müssen abgerundet und/oder abgepolstert und
+         gekennzeichnet sein.
+     (6) Werden      in     Arztzimmern       oder    anderen     Räumen ebenfalls
+         Untersuchungen/Behandlungen durchgeführt, gelten für diese die gleichen
+         Anforderungen wie für Untersuchungs- und Behandlungsräume.
+
+4.8     Entsorgungsraum
+     (1) Werden Abfälle und/oder Schmutzwäsche auf der Station zwischengelagert, muss ein
+         Entsorgungsraum vorhanden sein.
+     (2) Der Entsorgungsraum kann mit dem unreinen Pflegearbeitsraum kombiniert sein,
+         wenn die zur Verfügung stehenden Flächen ausreichend sind.
+     (3) Es muss eine Zwangslüftung mit einem mindestens 5-fachem Luftwechsel pro Stunde,
+         bezogen auf den Frischluftanteil, vorhanden sein.
+     (4) Die Wandbeläge und sonstige Oberflächen müssen aus abwaschbaren und
+         desinfektionsmittelbeständigen Materialien bestehen.
+     (5) Bodenbeläge müssen leicht zu reinigen und desinfektionsmittelbeständig sein. Die
+         Wandanschlüsse müssen als Hohlkehlen ausgebildet sein. Im Falle von flexiblen
+         Bodenbelägen müssen diese mindestens 10 cm an der Wand hochgezogen werden.
+     (6) Wenn Wände gefliest sind, muss müssen die Fliesen bis zum Deckenanschluss
+         reichen.
+     (7) Die Oberflächen von festen Einbauten und Inventar müssen leicht zu reinigen und so
+         beschaffen sein, dass eine regelmäßige Desinfektion möglich ist.
+     (8) Zwischenräume von festen Einbauten zu Fußböden, Wänden oder Decken müssen
+         fugendicht verschlossen sein, sofern diese nicht einer einfachen Reinigung und
+         Desinfektion zugänglich sind
+
+
+
+3)   Handwaschbecken ohne Überlauf und mit handberührungsfrei bedienbaren Armaturen. Hygieneset
+     bestehend aus Spendern mit Waschlotion, Händedesinfektionsmittel, Hautpflegemittel und
+     Einmalhandtüchern sowie einem Handtuchabwurf.
+
+
+
+
+Seite 10 von 18 Seiten                                                              ITM-SST 1610.1 All
+    (9) Die Sammlung und Zwischenlagerung von Schmutzwäsche und Abfällen, muss in
+        geeigneten Behältnissen erfolgen.
+
+5     Reinigung - Desinfektion - Aufbereitung von Betten
+    (1) Beim manuellen Umgang mit Reinigungs- und Desinfektionsmitteln muss
+        grundsätzlich geeignete Schutzkleidung und Schutzausrüstung verwendet werden.
+    (2) Medizinische Einmalhandschuhe sind nicht für längere Arbeiten mit
+        Desinfektionsmitteln geeignet und stellen daher diesbezüglich keine geeignete
+        Schutzkleidung dar.
+
+5.1    Reinigung und Desinfektion der Arbeitsbereiche
+    (1) Durch den Betreiber muss ein Hygieneplan mit Anleitung zur desinfizierenden
+        Reinigung von Räumen, Einrichtungen und Geräten erstellt werden (Erklärungen zum
+        Hygieneplan siehe Anhang).
+    (2) Die im Hygieneplan aufgeführten, häufig wiederkehrenden Aufbereitungsmaßnahmen
+        sind in Form eines „Desinfektionsplans“ in kurz gefasster Darstellung innerhalb der
+        Station an geeigneten Stellen auszuhängen.
+    (3) Die Wirksamkeit der Reinigungs- und Desinfektionsmaßnahmen muss regelmäßig
+        kontrolliert werden.
+    (4) Die Oberflächen in Arbeitsbereichen müssen leicht zu reinigen und für
+        Reinigungsarbeiten gut zugänglich sein. Sie müssen wasserundurchlässig und
+        gegenüber den verwendeten Reinigungs- und Desinfektionsmitteln beständig sein.
+
+5.2    Besondere Maßnahmen betreffend aldehydhaltiger Reinigungs- und
+       Desinfektionsmittel
+    (1) Die Verwendung formaldehydhaltiger Reinigungs- und Desinfektionsmittel ist auf
+        Anwendungen zu beschränken, bei denen die Anwendung entsprechender Wirkstoffe
+        aus infektionspräventiven Gründen erforderlich ist und geeignete Ersatzmittel nicht
+        zur Verfügung stehen.
+    (2) Beim Umgang mit aldehydhaltigen Reinigungs- und Desinfektionsmitteln sind jeder
+        Kontakt mit der Haut (Verwendung von Schutzkleidung, Schutzhandschuhen etc.)
+        sowie das Einatmen aldehydhaltiger Dämpfe zu vermeiden.
+
+5.3    Umgang mit Flächendesinfektionsmitteln
+    (1) Es ist zu beachten, dass von praktisch allen Flächendesinfektionsmitteln im Falle
+        eines direkten Kontaktes potentiell Gefahren für den Menschen ausgehen (z.B. durch
+        reizende, ätzende oder sensibilisierende Eigenschaften).
+    (2) Das Ansetzen wässriger Gebrauchslösungen von Flächendesinfektionsmitteln soll
+        möglichst mittels automatischer Dosiergeräte erfolgen.
+
+
+
+
+Seite 11 von 18 Seiten                                                   ITM-SST 1610.1 All
+     (3) Bei unvermeidbarer manueller Herstellung von Gebrauchslösungen, sind geeignete
+         Dosierhilfen unter Beachtung des Eigenschutzes zu verwenden. Alternativ können
+         auch Dosierbeutel verwendet werden.4)
+     (4) Beim offenen Umgang mit Flächendesinfektionsmitteln in Form von Konzentraten
+         müssen eine Schutzbrille mit Seitenschutz (oder Korbbrille) sowie geeignete
+         Schutzhandschuhe getragen werden.
+     (5) Besteht beim Handling ein erhöhtes Risiko des Verspritzens, muss zusätzlich ein
+         geeigneter Gesichtsschutz verwendet werden.
+
+5.4     Aufbereitung von Betten
+     (1) Die Aufbereitung von Betten soll zentral mittels einer automatischen Waschanlage
+         erfolgen. Im Bereich der automatischen Waschanlage sind die zum Ab- und Aufrüsten
+         der Betten erforderlichen Flächen und Lagermöglichkeiten für die benötigten
+         Materialien zu schaffen.
+     (2) Der Bereich der Bettenaufbereitung ist in eine unreine und eine reine Seite zu
+         unterteilen.
+     (3) Zwischen unreiner und reiner Seite muss eine Personalschleuse vorhanden sein,
+         welche mindestens wie folgt ausgestattet ist:
+           •     Handwaschbecken mit Hygieneset
+           •     Hakenleiste
+           •     Vorrat an Schutzkitteln
+           •     Wäscheabwurf
+           •     Abfallabwurf
+
+          Sofern sich auf der unreinen Seite ein direkt erreichbares Handwaschbecken mit
+          Hygieneset befindet, genügt es, wenn die Schleuse mit einem Spender für
+          Händedesinfektionsmittel ausgestattet ist.
+     (4) Falls eine automatische Aufbereitung der Betten nicht möglich ist, darf eine manuelle
+         Aufbereitung nur in dafür vorgesehenen und entsprechend ausgestatteten Räumen
+         stattfinden. Zur Ermöglichung eines hygienischen und ergonomischen Arbeitens,
+         müssen solche Räume mindestens wie folgt ausgestattet sein:
+           •     5-facher Luftwechsel (möglichst Querlüftung mit Abluft von unten)
+           •     rutschhemmender Bodenbelag (mindestens Bewertungsgruppe R 10, besser
+                 jedoch R 11)
+           •     Ablagemöglichkeit für Matratzen etc.
+
+
+4)   Automatische Dosiergeräte sind in allen Bereichen empfehlenswert, in welchen regelmäßig, bzw. häufig
+     kleinere und größere Mengen Flächendesinfektionsmittel benötigt werden. Die Beuteldosierung empfiehlt
+     sich insbesondere für kleinere Bereiche, in welchen gesondert Flächendesinfektionsmittel zur Verfügung zu
+     stellen sind.
+
+
+
+
+Seite 12 von 18 Seiten                                                                    ITM-SST 1610.1 All
+            •    Möglichkeiten für den Abwurf der Schmutzwäsche
+            •    Lagermöglichkeit für die benötigten Materialien
+            •    Dosiergerät für Flächendesinfektionsmittel (falls keine Beuteldosierung)
+            •    Handwaschbecken mit handberührungsfreier Armatur und Hygieneset
+            •    Ausgussbecken
+            •    Vorrichtung zum Heben oder Wenden von Betten
+     (5) Wenn Betten manuell aufbereitet werden, muss das Desinfektionsmittel verwendet
+         werden, welches bei hinreichender Eignung über das geringste Gefährdungspotential
+         für den Menschen verfügt.
+     (6) Die manuelle Aufbereitung von Betten darf nur mittels Wischdesinfektion und nicht
+         durch Sprühdesinfektion erfolgen.
+     (7) Die manuelle Aufbereitung von Betten in Fluren von Pflegestationen ist aus Gründen
+         der Sicherheit nicht zulässig, auch nicht in Ausnahmefällen.
+     (8) Die manuelle Aufbereitung von Betten innerhalb von Patientenzimmern ist nicht
+         gestattet. Ausnahmen hiervon sind nur im Falle des Vorliegens besonderer Umstände
+         möglich (z.B. beim Vorliegen kontagiöser Erkrankungen).
+
+6     Organisatorische Anforderungen
+     (1) Die Lagerung von Geräten, Materialien oder Transportwagen in Fluren und Gängen
+         ist nicht zulässig.
+     (2) Die Aufbereitung von Geräten/Medizinprodukten soll möglichst zentral erfolgen.
+     (3) Es müssen Maßnahmen zur Vermeidung von Nadelstichverletzungen5) getroffen
+         werden. Geeignete Maßnahmen sind unter anderem:
+            •    Generelles Verbot des Recapping6)
+            •    Verwendung geeigneter7) Abwurfbehälter in allen Bereichen in welchen mit
+                 spitzen und/oder scharfen Gegenständen gearbeitet wird
+            •    Rechtzeitiger Austausch der gefüllten Abwurfbehälter
+            •    Verwendung von Sicherheitsprodukten, sofern solche Produkte am Markt
+                 verfügbar sind
+            •    Erstellung konkreter Arbeitsanweisungen betreffend potentiell gefährlicher
+                 Tätigkeiten
+            •    Durchführung regelmäßiger Schulungen/Unterweisungen des Personals
+
+5)   Nadelstichverletzung: Jegliche Stich-, Schnitt- und Kratzverletzung der Haut durch Nadeln, Messer etc., die
+     mit Patientenmaterial verunreinigt waren, unabhängig davon, ob die Wunde geblutet hat oder nicht.
+6)   Unter „Recapping“ versteht man das Zurückstecken der Schutzkappe auf gebrauchte Kanülen etc.).
+7)   Geeignete Behälter müssen bruch- und stichfest sein. Der Verschluss soll nicht wieder zu öffnen sein.
+
+
+
+
+Seite 13 von 18 Seiten                                                                      ITM-SST 1610.1 All
+    (5) Es müssen eindeutige und klare Regelungen zum Vorgehen bei Stich- und
+        Schnittverletzungen getroffen werden. Diese müssen mit dem zuständigen
+        Arbeitsmediziner abgestimmt werden.
+    (6) Das Personal muss über die Maßnahmen zur Vermeidung von
+        Nadelstichverletzungen/Schnittverletzungen sowie über das Vorgehen im Falle von
+        Nadelstichverletzungen/Schnittverletzung sowohl vor Aufnahme der Beschäftigung
+        als auch im Rahmen der regelmäßigen Schulungen/Unterweisungen informiert und
+        unterwiesen werden.
+    (7) Eine Anweisung zum Vorgehen bei Nadelstichverletzungen/Schnittverletzungen muss
+        durch den Betreiber erstellt und ausgehängt oder dem Personal ausgehändigt werden.
+    (8) Arbeitskleidung sowie eventuell erforderliche Bereichs- oder Schutzkleidung müssen
+        dem Personal durch den Betreiber zur Verfügung gestellt werden.
+    (9) Arbeitskleidung, Bereichs- oder Schutzkleidung müssen durch den Betreiber oder ein
+        durch ihn beauftragtes Unternehmen gewaschen werden.
+
+7    Persönliche Hygiene- und Schutzmaßnahmen
+    (1) Das Anlegen der Arbeitskleidung/Bereichskleidung muss innerhalb der dafür
+        vorgesehenen Umkleideräumen erfolgen.
+    (2) Das Schuhwerk muss vorne geschlossen sein, fest am Fuß sitzen und über eine
+        rutschhemmende und dämpfende Sohle sowie einen flachen Absatz verfügen. Des
+        weiteren soll das Schuhwerk die folgenden Eigenschaften aufweisen:
+          •    geschlossene, feste Fersenkappe;
+          •    anatomisch geformtes Fußbett;
+          •    regulierbar in der Spannweite;
+          •    wasserabweisendes, pflegeleichtes Material.
+    (3) Während der Arbeit dürfen keine Uhren oder Schmuck, auch keine Eheringe, an
+        Händen und Unterarmen getragen werden, wenn im Rahmen der mit der Arbeit
+        verbundenen Tätigkeiten eine hygienische Händedesinfektion erforderlich ist.
+    (4) Bei Tätigkeiten, welche eine hygienische Händedesinfektion und/oder das Tragen von
+        medizinischer Einmalhandschuhe erfordern, müssen die Fingernägel kurz geschnitten
+        sein. Lange Fingernägel, künstliche Fingernägel, Nagelpiercings und sonstiger
+        Nagelschmuck dürfen bei solchen Tätigkeiten nicht getragen werden, da dadurch das
+        Verkeimungsrisiko erhöht und die Desinfektion erschwert wird. Des weiteren besteht
+        bei langen Fingernägeln, Nagelpiercings und sonstigem Nagelschmuck ein erhöhtes
+        Risiko der Handschuhperforation.
+    (5) Bei allen Arbeiten an oder mit infektiösen Geräten oder Materialien müssen geeignete
+        Schutzhandschuhe getragen werden.
+    (6) Bei der Ausübung von Tätigkeiten die mit der Gefahr des Verspritzens kontaminierter
+        Flüssigkeiten verbunden sind, müssen zusätzlich zur Arbeits-/Bereichskleidung und
+
+
+
+
+Seite 14 von 18 Seiten                                                    ITM-SST 1610.1 All
+          den Einmalhandschuhen geeignete Schutzkleidung, eine Gesichtsmaske sowie eine
+          Schutzbrille oder ein Visier getragen werden.
+     (7) Die Aufbewahrung und Aufnahme von Nahrungs- und Genussmitteln darf
+         ausschließlich in dafür vorgesehenen Räumen erfolgen.
+     (8) Medizinische Geräte und Instrumente sind so aufzubereiten, dass durch diese keine
+         Infektionsgefahren für das Personal ausgehen.
+
+8      Entsorgung
+     (1) Alle Abfälle, welche mit Blut oder Sekreten behaftet sind, gelten als infektiös und
+         sind dementsprechend zu sammeln und zu entsorgen.
+     (2) Die Sammlung infektiöser Abfälle muss getrennt von anderen Abfällen in deutlich
+         (z.B. farblich und Warnsymbol) gekennzeichneten Einwegbehältern erfolgen.
+     (3) Bei den zur Sammlung infektiöser Abfälle verwendeten Behältern, muss es sich um
+         die Entsorgungsbehälter handeln (Sammelbehälter = Entsorgungsbehälter). Infektiöse
+         Abfälle dürfen nicht umgefüllt werden.
+     (4) Die Zwischenlagerung und die Entsorgung infektiöser Abfälle muss innerhalb
+         flüssigkeitsdichter, feuchtigkeitsbeständiger, geruchsdichter und transportfester, d.h.
+         für den Transport gefährlicher Güter zugelassener und nicht wieder zu öffnender
+         Behälter erfolgen.
+     (5) Die Behälter für infektiöse Abfälle müssen vor der Entsorgung mit einem Deckel
+         verschlossen werden.
+     (6) Infektiöse Abfälle sollen möglichst täglich von der Station abtransportiert werden.
+
+9      Ergonomie
+     (1) Die Lagerung von Materialien soll möglichst so erfolgen, dass auf
+         Aufstiege/Steighilfen verzichtet werden kann. Ohne geeignete Aufstiege/Steighilfen8),
+         darf die Oberkante der höchsten Lagerebene von Schränken und Regalen maximal
+         180 cm betragen.
+     (2) Ablagen, Tische und andere Arbeitsflächen sind auf einer Arbeitshöhe von 90 cm
+         anzulegen oder sollen höhenverstellbar sein.
+     (3) Stühle in Arbeitsbereichen müssen höhenverstellbar sein und eine ergonomisch
+         korrekte Sitzposition ermöglichen.
+     (4) Die Arbeitsbereiche sind so zu gestalten und einzurichten, dass der für die
+         Arbeitnehmer relevante, über einen Arbeitstag von 8 Stunden gemittelte
+         Lärmexpositionspegel unterhalb von 80 dB(A) liegt.
+     (5) Bei der Durchführung von Tätigkeiten die mit Heben und Tragen verbunden sind, sind
+         möglichst entsprechende Hilfsmittel zu verwenden. Der Großherzogliche Beschluss
+         „Règlement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales
+
+8)   Zu „geeigneten“ Aufstiegen/Steighilfen siehe ITM-CL 631, Kapitel „Aufstiege / Steighilfen“ sowie UVV
+     Kapitel „Leitern und Tritte“.
+
+
+
+
+Seite 15 von 18 Seiten                                                                  ITM-SST 1610.1 All
+        de sécurité et de santé relatives à la manutention manuelle des charges comportant
+        des risques, notamment dorso-lombaires, pour les travailleurs“ ist zu beachten.
+  (6) Der Großherzogliche Beschluss „Règlement grand-ducal du 4 novembre 1994
+      concernant les prescriptions minimales de sécurité et de santé relatives au travail sur
+      les équipements à écran de visualisation“ ist zu beachten.
+
+10 Schulung und Betriebsanweisungen
+  (1) Für die beschäftigten Personen ist vor Aufnahme der Tätigkeit und danach mindestens
+      einmal jährlich eine der Tätigkeit angepasste Schulung durchzuführen.
+  (2) Die Inhalte dieser Schulung müssen mindestens sein:
+          •    Art der Gefahren für die Gesundheit (Infektionsgefahr, Gefahr allergischer und
+               toxischer Haut- und Atemwegserkrankungen durch den Umgang mit
+               Desinfektionsmitteln, Schnitt- und Stichverletzungen etc.)
+          •    Maßnahmen zur Vermeidung von Expositionen
+          •    Hygienevorschriften
+          •    Verwendung von Schutzausrüstung und Schutzkleidung
+          •    Umgang mit kontaminierten Geräten und Materialien
+          •    Sicherheitsdatenblätter und Betriebsanweisungen zu den verwendeten
+               Chemikalien
+          •    Im Falle eines Unfalls durchzuführende Maßnahmen (Notfallplan und
+               Notfallmaßnahmen)
+          •    Meldung von Unfällen
+  (3) Weibliches Personal ist darauf hinzuweisen, dass Schwangerschaften und Stillzeiten
+      umgehend dem Vorgesetzten zu melden sind.
+  (4) Für Tätigkeiten mit besonderen Gefährdungen sind durch den Betreiber
+      tätigkeitsbezogene Betriebsanweisungen zu erstellen und an die Mitarbeiter
+      auszuhändigen.
+  (5) Bei Einführung neuer Tätigkeiten, Verfahren oder Geräten sowie bei Änderungen der
+      Organisation des Arbeitsablaufes, sind entsprechende Schulungen durchzuführen.
+      Darüber hinaus sind die Betriebsanweisungen entsprechend zu überarbeiten und
+      anzupassen.
+
+11 Arbeitsmedizinische Betreuung
+  (1) Es dürfen nur solche Personen auf Stationen mit erhöhtem Infektionsrisiko beschäftigt
+      werden, deren Gesundheitszustand durch arbeitsmedizinische Untersuchungen
+      regelmäßig überwacht wird.
+  (2) Die Art und der Umfang der arbeitsmedizinischen Untersuchungen und Überwachung
+      muss mit dem zuständigen Arbeitsmediziner abgestimmt werden.
+
+
+
+
+Seite 16 von 18 Seiten                                                       ITM-SST 1610.1 All
+  (3) Bei allen beschäftigten Personen die Kontakt mit Patienten oder biologischen
+      Arbeitsstoffen menschlicher Herkunft haben, sollte eine Immunisierung betreffend
+      Hepatitis-A und -B durchgeführt werden. Dazu soll bei diesen Beschäftigten der
+      Immunstatus ermittelt und diesen gegebenenfalls die entsprechenden Impfungen
+      kostenfrei angeboten werden.
+
+12 Wiederkehrende Prüfungen
+  (1) Unabhängig von der regelmäßigen und ordnungsgemäßen Wartung, müssen die
+      technischen Installationen jährlich durch ein zugelassenes Kontrollorgan geprüft
+      werden.
+  (2) Wiederkehrende Prüfungen sind gemäß der gesetzlichen Bestimmungen sowie der
+      geltenden Großherzoglichen Beschlüsse, bzw. beim Fehlen solcher Vorgaben gemäß
+      dem Stand der Technik durchzuführen.
+  (3) Insbesondere bei festgestellten Mängeln, im Falle häufiger örtlicher Veränderungen
+      und im Anschluss an Reparaturen oder Änderungen, müssen über die normalen
+      wiederkehrenden Prüfungen hinaus zusätzliche Prüfungen durchgeführt werden.
+
+
+
+                Visa du Directeur adjoint de                      Mise en vigueur
+               l’Inspection du Travail et des                      le 24.03.2010
+                           Mines
+                             s.                                          s.
+
+                    Robert HUBERTY                                 Paul WEBER
+                                                                     Directeur
+                                                          de l’Inspection du Travail et des
+                                                                       Mines
+
+
+
+
+Seite 17 von 18 Seiten                                                        ITM-SST 1610.1 All
+                                                                          ITM-SST 1610.1 All
+
+
+
+
+Anhang
+
+Hygieneplan
+Der Hygieneplan definiert und beschreibt die notwendige Reinigung und Desinfektion von
+Räumen, Mobiliar, Geräten und sonstigen Gegenständen.
+Der Hygieneplan muss klar Auskunft geben bezüglich:
+
+Was?            z.B.: Gebäude, Raum, Fläche, Gerät, Gegenstand
+
+Wo?             z.B.: Abteilung, Etage, Raum, Arbeitsbereich
+
+Wann?           z.B.: Häufigkeit, Zeitpunkt, Zeitintervalle
+                z.B.: zu verwendende Reinigungs- und Desinfektionsmittel,
+Womit?               Gebrauchskonzentrationen, Einwirkzeiten, Arbeitsmittel, Schutzkleidung
+                     und persönliche Schutzausrüstung
+Wie?            z.B.: Ausführungsvorgaben, z.B. Wischen, Sprühen, Einlegen
+
+Wer?            z.B.: Zuständigkeiten, Funktionen, Namen, Überwachung
+
+
+Sofern keine separaten Anweisungen bestehen, muss der Hygieneplan auch Angaben über die
+Händedesinfektion, Wäschedesinfektion, Abfallentsorgung sowie ggf. über die hygienische
+Überprüfung lüftungstechnischer Anlagen enthalten.
+
+Unter „Desinfektionsplan“ wird die Darstellung der aus dem Hygieneplan resultierenden,
+täglich durchzuführenden Aufbereitungsmaßnahmen in kurz gefasster Form verstanden.
+
+
+
+
+Seite 18 von 18 Seiten                                                       ITM-SST 1610.1 All
+

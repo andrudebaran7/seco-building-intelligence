@@ -1,0 +1,646 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                 Strassen, janvier 2008
+
+
+                                                                                             N° ITM-SST 1710.2
+
+
+
+          Stations de ravitaillement de véhicules en gaz naturel
+
+                                                   Prescriptions de sécurité types
+
+                                                Le présent document comporte 12 pages
+
+    Autres prescriptions à prendre en considération :
+    ITM-CL 12.5 / ITM-SST 1800
+    Stations de ravitaillement de véhicules routiers en hydrocarbures
+    ITM-CL 318.2 / ITM-SST 1311
+    Tuyauteries d'usine
+    ITM-CL 358.3 / ITM-SST 1106.1A
+    Blitzschutz - Sicherheitsvorschriften
+
+                                                                     Sommaire
+    Article                                                                                                           Page
+
+     1.                              Objectif et domaine d'application                                                    2
+     2.                              Définitions                                                                          2
+     3.                              Normes et règles techniques                                                          2
+     4.                              Prescriptions générales                                                              3
+     5.                              Aire de remplissage et zone de sécurité                                              3
+     6.                              Appareils distributeurs                                                              4
+     7.                              Local technique                                                                      5
+     8.                              Installations électriques des aires de remplissage et des
+                                     appareils distributeurs                                                           6
+     9.                              Zone d’interdiction de feux nus                                                   7
+    10.                              Protection contre l’incendie                                                      7
+    11.                              Premier contrôle périodique                                                       7
+    12.                              Visites périodiques et réépreuves de l’installation                               8
+    13.                              Rapports de contrôle                                                              9
+    14.                              Modifications et réparations de l’installation                                    9
+    15.                              Incidents ou accidents sur l’installation                                        10
+    16.                              Formation du personnel et initiation des utilisateurs                            11
+    17.                              Exploitation                                                                     11
+    18.                              Registre                                                                         11
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs       L-2763 STRASSEN Tél : 247-81   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1 Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité relatives aux stations de ravitaillement de véhicules en gaz naturel.
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si des mesures de rechange garantissant une protection au moins
+équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de sécurité
+équivalent par un organisme de contrôle et acceptées comme telles par l'Inspection du Travail
+et des Mines.
+
+Art. 2. - Définitions
+
+2.1 Par la dénomination "gaz" sont à comprendre ci-après le gaz naturel ainsi que les gaz de
+propriétés physiques et chimiques similaires, servant de carburant à des véhicules.
+
+2.2 Sous la dénomination "appareil de distribution" est à comprendre ci-après la pompe de
+distribution et le flexible de remplissage.
+
+2.3 Sous la dénomination "borne de distribution" est à comprendre ci-après l’ensemble des
+appareils de distribution pouvant se situer sur un même îlot de ravitaillement.
+
+2.4 Sous la dénomination « organisme de contrôle » est à comprendre tout organisme autorisé
+à contrôler les appareils à pression par le règlement ministériel le plus récent en date du
+Ministre du Travail et de l'Emploi concernant l'intervention d'organismes de contrôle dans le
+cadre des compétences et attributions de l’Inspection du travail et des mines.
+
+Art. 3. - Normes, règles techniques et législation
+
+3.1 Les composants de l’installation de ravitaillement en gaz doivent être conçus d’après les
+exigences du règlement grand-ducal du 21 janvier 2000 concernant les équipements sous
+pression et porter le marquage « CE » de conformité.
+
+3.2 L'ensemble de l'installation de ravitaillement en gaz doit être construite et installée selon
+les règles de l'art respectivement des règles spécifiques relatives à ces installations (p.ex.:
+règles VdTÜV - DVGW)
+
+3.3 Sans préjudice des zones définies dans les présentes prescriptions, un plan des zones
+pouvant présenter des atmosphères explosives doit être établi conformément à l’annexe I du
+règlement grand-ducal du 21 mars 2005 concernant les prescriptions minimales visant à
+améliorer la protection en matière de sécurité et de santé des travailleurs susceptibles d’être
+exposés au risque d’atmosphères explosives.
+
+3.4 Sans préjudice de la liberté du fabricant de choisir des règles techniques lors de la
+conception de l’installation conformément aux directives européennes applicables, les
+normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à appliquer lors
+de la conception, de la construction, du montage, de l'aménagement et de l'exploitation des
+stations de ravitaillement en gaz sont en particulier les présentes prescriptions et en général
+les normes des pays européens membre de l'Union Européenne ou alors les normes
+européennes (E.N.) au fur et à mesure qu'elles paraissent et remplacent les normes nationales.
+
+3.5 Lors des travaux de montage, de réparation, d'entretien et d’exploitation sont à suivre les
+stipulations suivantes :
+
+page 2 de 12 pages                                                              ITM-SST 1710.2
+      -   les articles L.311 à L.314 du Code du travail et des arrêtés et règlements grand-
+          ducaux pris en exécution de ce code
+      -   les prescriptions afférentes de prévention contre les accidents édictées par
+          l'Association d'Assurance contre les Accidents
+
+Art. 4. - Prescriptions générales
+
+4.1 Il doit être veillé à ce que tous les composants et équipements de l'installation de
+ravitaillement en gaz soient compatibles en tenant compte des zones à risques définies par
+le(s) constructeur(s) des composants et par l'employeur dans le cadre de ses responsabilités et
+conformément au règlement grand-ducal du 21 mars 2005 concernant les prescriptions
+minimales visant à améliorer la protection en matière de sécurité et de santé des travailleurs
+susceptibles d'être exposés au risque d'atmosphères explosives.
+
+4.2 L’ensemble de l’installation de ravitaillement en gaz doit pouvoir être mis hors service en
+cas d’incident. A cet effet, un bouton d’arrêt d’urgence est à placer à proximité des postes de
+travail habituels du personnel. Lorsque l’installation est arrêtée d’urgence, l’installation doit
+être isolée par rapport au réseau public d’alimentation de gaz par une vanne automatique à
+sécurité positive;
+
+4.3 Toutes les parties de l’installation véhiculant le gaz doivent être équipées d’une liaison
+équipotentielle conformément aux normes en vigueur.
+
+Art. 5. - Aire de remplissage et zone de sécurité
+
+
+
+
+                                                                      Shop/Locaux
+                                       Entrée                            divers                          Sortie
+
+
+
+
+                                             4
+
+
+
+
+                                             3
+                                                                  5
+
+
+
+
+               Périmètre d’action
+               du flexible max. 5m               1                                                6
+                                                              2
+
+
+
+
+                                  Zone de sécurité max. 6m (5m
+                                 flexible + 1m autour du pistolet)
+
+
+
+
+                                                                              1. Appareil de distribution gaz
+                                                                              2. Îlot de distribution
+                                                                              3. Flexible de distribution
+                                                                              4. Pistolet de distribution
+                                                                              5. Aire de remplissage
+                                                                              6. Carburant non gazeux
+
+    Figure 1 : Illustration de la zone de sécurité et des éléments de distribution de gaz
+
+
+
+page 3 de 12 pages                                                                                              ITM-SST 1710.2
+5.1 La «zone de sécurité » est la zone, qui doit entourer l’intégralité de l'aire de remplissage
+(5) y compris les appareils distributeurs (1), d’un rayon maximal de 6 mètres se composant de
+la longueur maximale autorisée du flexible qui est de 5 mètres et de la sphère de 1 mètre de
+rayon autour du pistolet de distribution (4). Le rayon de la zone de sécurité peut varier en
+fonction de la longueur du flexible, donc du périmètre d’action du flexible, mais ne peut en
+aucun cas être supérieur à 6 mètres. La hauteur de la zone de sécurité se limite à 3mètres.
+
+5.2 La zone de sécurité ne peut s’étendre sur des propriétés voisines ou des voies publiques et
+ne peut inclure des ouvertures vers des locaux (fenêtres, portes d’entrée).
+
+5.3 L'aire de remplissage (5) est l'endroit où doit stationner le véhicule pendant le
+ravitaillement.
+
+5.4 Cette aire est un rectangle de 5 m de longueur au moins et de 2 m de largeur au moins.
+L'aire de remplissage doit être matérialisée (par exemple par une marque au sol). Il est interdit
+de procéder au ravitaillement de véhicules en gaz se trouvant en dehors de l'aire de
+remplissage.
+
+5.5 L'aire de remplissage doit se trouver à l'air libre et doit être couverte par un auvent.
+
+5.6 L'aire de remplissage doit être éclairée de façon suffisante par des lampes équipées pour
+les risques résultant des atmosphères explosives.
+
+Art. 6. - Appareils distributeurs
+
+6.1 Les appareils de distribution doivent en outre répondre aux conditions suivantes:
+
+   a) l’appareil de distribution doit pouvoir être mis hors service en cas d’incident sur la
+      pompe de distribution. A cet effet, un bouton d’arrêt d’urgence est à placer à proximité
+      des postes de travail habituels du personnel;
+   b) des pictogrammes normalisés indiquant l’interdiction de l’utilisation de téléphones
+      portables ainsi que l’interdiction de fumer sont à positionner sur l’appareil de
+      distribution de façon bien visible et résistante aux intempéries;
+   c) chaque îlot contenant les appareils de distribution est à équiper au moins d’un
+      extincteur ABC d’au moins 6 kg de contenu (par tranche de 3 appareils de
+      distribution/îlot);
+   d) une détection de flammes est à placer à proximité de l’appareil de distribution mettant
+      l’appareil de distribution hors service en cas d’incendie.
+   e) pour éviter un échappement de gaz en cas d’arrachement du flexible, le flexible de
+      l’appareil de distribution doit être muni d’un couplage d’arrachement isolant le
+      flexible sectionné des deux côtés.
+   f) la borne de distribution doit être munie de clapets anti-retour isolant la borne de
+      distribution du reste de l’installation en cas de renversement ou destruction par un
+      véhicule.
+   g) les gaz de surpression ou de purge doivent déboucher vers le haut c.-à-d., le cas
+      échéant, au-dessus de l’auvent, à une hauteur de 4 mètres au moins.
+   h) l'extrémité du pistolet de remplissage doit être munie d'un dispositif automatique qui
+      interdit le débit lorsque le pistolet n'est pas raccordé à l'orifice de remplissage ou s'il
+      s'en déconnecte.
+
+6.2 Les appareils distributeurs doivent être conçus et réalisés pour la distribution de gaz.
+
+Ils sont placés le long du grand axe du rectangle délimitant l'aire de remplissage et à une
+distance maximale de 1,50 m de l'aire de remplissage.
+
+
+page 4 de 12 pages                                                               ITM-SST 1710.2
+6.3. Tout appareil distributeur doit être protégé contre le heurt par un véhicule.
+
+6.4 Les appareils distributeurs doivent se trouver à au moins 6 m des ouvertures des locaux
+d'habitation, des ouvertures des locaux de travail des voies publiques et des propriétés
+voisines.
+
+6.5 La longueur du flexible de distribution ne peut dépasser 5 m.
+
+6.6 Les flexibles de l'appareil distributeur doivent être conçus pour résister aux sollicitations
+prévisibles lors de leur utilisation.
+
+6.7 Ces flexibles doivent d'autre part être maintenus en bon état et remplacés en cas de
+déformation ou de défaut quelconque.
+
+6.8 Lorsque l'appareil distributeur est situé à moins de 3 m d'une borne de distribution
+d'essence ou de gasoil:
+
+L'installation électrique des appareils de distribution d'essence et de gasoil doit répondre aux
+conditions de l'article 8 ci-après.
+
+Art. 7. – Local technique
+
+Sous la dénomination "local technique" est à comprendre l'ensemble de local clos destiné à
+contenir le/les compresseur(s) et réservoirs tampons sous pression ainsi que, le cas échéant
+l'installation de réglage.
+
+Le local technique doit répondre aux conditions suivantes:
+
+   a) il ne peut se situer dans un bâtiment ou y être accolé;
+   b) il doit se situer à une distance d’au moins 5 m à tout autre local ou voie publique et à 3
+      m de toute propriété voisine;
+   c) il ne peut disposer d’autres ouvertures permanentes que celles nécessaires pour la
+      ventilation ou l’aération;
+   d) il ne peut contenir d’autres installations étrangères au service et ne peut servir comme
+      local de dépôt;
+   e) il doit être construit en matériaux massifs, incombustibles et résistants aux chocs
+      pouvant résulter d’une collision avec un véhicule, d’une résistance au feu d’indexes
+      minimaux F60 pour les murs et T60 pour les portes;
+   f) il est à équiper à l’extérieur d’un extincteur ABC d’au moins 6 kg de contenu;
+   g) il doit être équipé, soit d’une ventilation forcée (changement d’air 2 fois par heure),
+      soit d’une ventilation naturelle (transversale et du bas vers le haut, d’une superficie
+      unitaire minimale de 0,5 % de la surface au sol du local);
+   h) les gaz de ventilation, de surpression ou de purge doivent déboucher vers le haut c.-à-
+      d. au-dessus du local, les bouches de ces purges doivent se trouver à une distance d’au
+      moins 3 m de toute ouverture dans un bâtiment;
+   i) l’accès au local technique doit être interdit et rendu inaccessible aux personnes non
+      autorisées;
+   j) des pictogrammes normalisés indiquant l’interdiction de l’utilisation de téléphones
+      portables, l’interdiction de fumer ainsi que l’interdiction d’accès aux personnes non
+      autorisées sont à positionner sur le local technique de façon bien visible et résistante
+      aux intempéries;
+   k) il doit être équipé d’une détection gaz à l’intérieur, qui, en cas de fuite, à 40 % de la
+      limite inférieure d’explosivité (40 % UEG) arrête toute l’installation (compresseur(s)
+      et borne de distribution) et isole l’installation du réseau public de gaz moyennant une
+      vanne à sécurité positive;
+
+page 5 de 12 pages                                                              ITM-SST 1710.2
+   l) les installations du local technique doivent être équipées d’une liaison équipotentielle;
+   m) les réservoirs tampons de gaz doivent pouvoir être isolés par une vanne d’isolement
+      par rapport au côté pression du compresseur;
+
+Art. 8. - Installations électriques des aires de remplissage et des appareils distributeurs
+
+8.1 Sans préjudice de la liberté du fabricant de choisir des règles techniques lors de la
+conception de l’installation conformément aux directives européennes applicables, les
+installations électriques ainsi que leurs annexes doivent être conçues, réalisées, entretenues et
+exploitées conformément aux normes, prescriptions et directives de sécurité, de même qu'aux
+règles de l'art, de la sécurité et de l'hygiène normalement applicables dans le Grand-Duché de
+Luxembourg dont notamment:
+
+   -   les prescriptions allemandes afférentes DIN/VDE;
+   -   les normes européennes CENELEC au fur et à mesure que celles-ci paraissent et
+       remplacent les prescriptions DIN/VDE précitées;
+   -   le règlement ministériel du 8 août 1989 concernant les prescriptions de raccordement
+       aux réseaux de distribution de l'énergie électrique à basse tension au Grand-Duché de
+       Luxembourg;
+
+8.2 Les installations électriques doivent être maintenues continuellement en bon état
+d'entretien, de sécurité et de fonctionnement. Il doit être remédié dans un délai approprié à
+toutes les défectuosités et anomalies constatées.
+
+8.3 Les installations électriques doivent être réalisées par un personnel qualifié avec du
+matériel approprié et conformément aux règles de l'art. Les adjonctions, modifications et
+réparations devront être exécutées dans les mêmes conditions.
+
+8.4 L'installation électrique des colonnes de distribution doit être choisie en considérant le
+résultat des analyses des risques et des zones déterminées conformément au règlement grand-
+ducal du 21 mars 2005 concernant les prescriptions minimales visant à améliorer la protection
+en matière de sécurité et de santé des travailleurs susceptibles d’être exposés au risque
+d’atmosphères explosives.
+
+8.5 L'éclairage des colonnes de distribution et de l'aire de remplissage doit se faire au moyen
+de lampes électriques hermétiques, prévues pour fonctionner en atmosphère explosible.
+
+8.6 Les circuits électriques commandant les points de distribution doivent pouvoir être mis
+hors tension par des interrupteurs d'accès facile.
+
+Chaque groupe de colonnes de distribution doit être muni d'un tel interrupteur (soit sur une
+colonne de distribution, soit sur une console spéciale se trouvant près du groupe de colonnes
+de distribution) en plus de l'interrupteur à installer dans un éventuel local de péage.
+
+8.7 Des prises de courant et des lampes baladeuses ne doivent pas être placées ou employées
+sur l'aire de remplissage.
+
+
+
+
+page 6 de 12 pages                                                             ITM-SST 1710.2
+Art. 9. - Zones d'interdiction de feux nus
+
+9.1 La zone d'interdiction de feux nus s’étend sur la zone de sécurité et sur une bande de 3 m
+autour de cette zone ainsi que dans un périmètre de 3 m autour du local technique.
+
+9.2 L'interdiction de fumer dans cette zone et l’obligation d'arrêter les moteurs des véhicules
+lors du remplissage doivent être clairement signalées si possible par des pictogrammes
+normalisés.
+
+9.3 Dans la zone d'interdiction de feux nus il est interdit de procéder à n'importe quel travail
+de réparation ou d'entretien de véhicules.
+
+9.4 La zone d'interdiction de feux nus doit être tenue propre et être complètement débarrassée
+de chiffons, papiers, bois, herbes sèches et autres éléments combustibles.
+
+9.5 Les zones d'interdictions de feux nus des aires de remplissage de gaz et des aires de
+remplissage d'autres carburants peuvent être communes.
+
+Art. 10. - Protection contre l'incendie
+
+La station-service doit être équipée de moyens d'extinction adaptés aux risques locaux. Ils
+doivent être en parfait état de fonctionnement. Ces moyens d'extinction doivent être en bon
+état d'entretien, protégés contre le gel, accessibles et judicieusement disposés. Ils doivent
+pouvoir être mis en service à tout moment.
+
+Art. 11. - Premier contrôle périodique
+
+11.1. L'installation doit être contrôlée par un organisme de contrôle à sa mise en service et
+notamment les points suivants:
+
+    -    la conformité de l'installation aux prescriptions de l'arrêté ministériel d'autorisation
+    -    la présence du certificat de conformité « CE » et du marquage « CE » de conformité
+         des composants
+    -    la conformité des éléments ne portants pas le marquage « CE »
+    -    le registre de sécurité
+    -    l’état général de l’installation
+    -    l’équipement de l’installation
+
+Toutes les pièces en relation avec les vérifications du 1er contrôle périodique sont à verser
+après réception au registre de sécurité (voir à l'art. 18).
+
+11.2. Le contrôle de l’étanchéité des composants et/ou ensembles de l'installation est à
+effectuer par une personne compétente sous la surveillance d’un inspecteur de l’organisme de
+contrôle à l’aide d’anhydride carbonique ou de gaz neutre non combustible et non comburant
+sous une pression égale à la pression de service de l'installation.
+
+11.3. L’organisme de contrôle procédant au premier contrôle périodique doit en général
+accepter les certificats établis en relation avec la conformité du réservoir, sauf s’il y a des
+doutes fondés sur la conformité aux règlementations en vigueur.
+
+L’organisme avertit, en pareil cas, l’Inspection du Travail et des Mines en fournissant une
+motivation circonstanciée de ses doutes.
+
+
+page 7 de 12 pages                                                              ITM-SST 1710.2
+Art. 12. - Visites périodiques et réépreuves de l’installation
+
+12.1. Un organisme de contrôle doit être chargé d’un examen préalable des documents relatifs
+à l’installation (plans d’aménagement des locaux, dossiers techniques des machines, plans
+d’installation et documents techniques en rapport aux installations de sécurité) avant le
+passage d’un contrat avec un fournisseur ou installateur.
+
+L’organisme de contrôle doit dresser un rapport de l’examen préalable.
+
+12.2. Chaque installation doit subir tous les ans une visite consistant en une visite des parties
+extérieures du réservoir et de l’installation, visite complétée,selon l'appréciation de
+l'organisme de contrôle, par des contrôles non destructifs et des mesures d'épaisseur par
+ultrasons.
+
+Cette visite complète est à effectuer par un organisme de contrôle.
+
+12.2.1. Sont soumis à vérification lors de la visite par l’organisme de contrôle:
+-   appréciation de l’état général de l’installation et l’aptitude au fonctionnement
+-   les circuits de mise à la terre, les dispositifs de détection de gaz, les liaisons
+    équipotentielles et, le cas échéant, les circuits de protection contre la foudre;
+-   les éléments et équipements de sécurité de toute l’installation;
+-   les équipements du réservoir;
+-   vérification du plomb bloquant le tarage des dispositifs de sécurité
+-   les moyens de lutte contre l'incendie et de secours.
+
+12.2.2. A la demande de l'organisme de contrôle, les visites du réservoir doivent être
+complétées par des contrôles non destructifs.
+
+12.3Tous les 5 ans le contrôle annuel est à compléter par un contrôle de l'étanchéité de
+l'ensemble de l'installation à une pression égale à la pression de service.
+
+12.4. Les réservoirs doivent subir tous les 10 ans une réépreuve consistant en une visite des
+parties extérieures et de l'intérieur du réservoir, (si le réservoir dispose d'un orifice de visite),
+visite complétée par une épreuve de résistance.
+
+La réépreuve est complétée à la demande de l'organisme de contrôle par des contrôles non
+destructifs tels que des mesures d'épaisseur par ultrasons ou des mesures par magnétoscopie.
+
+12.4.1. L'épreuve de résistance est à effectuer à une pression égale à la pression de l’épreuve
+de résistance initiale.
+
+12.4.2. Les épreuves de résistance doivent être effectuées sous la surveillance d'un organisme
+de contrôle.
+
+12.5. Il est recommandé que le propriétaire et l'exploitant ou une personne qu'ils délèguent à
+cet effet, ainsi qu'un représentant de l'entreprise chargée de l'entretien courant de l'installation
+accompagnent l'inspecteur de l'organisme de contrôle lors des réceptions, contrôles et
+vérifications.
+
+12.6. Lorsque l'inspecteur de l'organisme de contrôle qui procède aux examens, vérifications
+et essais constate une anomalie telle que la sécurité des personnes n'est plus garantie, il est
+tenu d'en avertir d'urgence le propriétaire et l'exploitant de l'installation, de préférence en
+faisant contresigner son rapport provisoire de contrôle.
+
+
+page 8 de 12 pages                                                                  ITM-SST 1710.2
+L'inspecteur de l'organisme de contrôle doit en plus indiquer dans un pareil cas les mesures à
+prendre immédiatement et il doit s'assurer qu'il y est obtempéré et que les risques
+inacceptables sont éliminés. A défaut, l'organisme de contrôle doit en informer sans délai
+l'Inspection du Travail et des Mines.
+
+12.7. Le propriétaire et l'exploitant doivent se conformer aux délais pour réparations et mise
+en état figurant sur les rapports de réception et de vérification de l'organisme de contrôle
+chacun en ce qui le concerne. Les délais étant échus sans que les réparations ou mises en état
+ayant eu lieu, l’installation est à mettre hors service.
+
+Art. 13. - Rapports de contrôle
+
+13.1. Lors de toute intervention (réception, contrôle périodique, contrôle après accident ou
+incident, contrôle sur demande de l’ITM, contrôle après réparation etc.), l’organisme de
+contrôle dresse un rapport complet décrivant :
+
+    -    la base réglementaire de l’intervention ou toute autre raison de
+    -    l’étendu de l’intervention
+    -    les résultats des essais éventuels (résistance, étanchéité, contrôle électrique etc.)
+    -    les conclusions de l’intervention ainsi que les remarques éventuelles concernant
+         l’état de installation
+    -    le cas échéant, les mesures à prendre pour redresser des non-conformités éventuelles
+         et un délai dans lequel l’installation pourra encore être exploitée
+    -    le délai pendant lequel l’installation pourra encore être exploitée en sécurité avant de
+         devoir subir le prochain contrôle
+
+13.2. L'organisme de contrôle dresse rapport de la réception complète ainsi que des essais de
+résistance et d'étanchéité, rapport qui est remis en double exemplaire avec une copie à
+l'Inspection du Travail et des Mines pour visa :
+
+    -    un exemplaire du rapport visé est remis à l'exploitant pour être versé au registre de
+         sécurité (voir art. 18)
+    -    un exemplaire du rapport est archivé par l’organisme de contrôle
+    -    la copie du rapport est archivée auprès de l’Inspection du Travail et des Mines
+
+Tout rapport de contrôle effectué par un organisme de contrôle est à verser au registre prévu à
+l’article 18.
+
+Art. 14. - Modifications et réparations des installations
+
+14.1. Toute modification ou toute réparation effectuée sur les installations ne doit être
+exécutée que par des personnes compétentes.
+
+Les réservoirs ainsi que les installations faisant partie de l’ensemble portant le marquage
+« CE » qui font l’objet de modifications ou de réparations significatives doivent être
+reconduits à la procédure de certification « CE ».
+
+Les réparations ou modifications pouvant avoir une influence sur la sécurité de l'installation
+sont à exécuter sous la surveillance d'un organisme de contrôle. L’installation doit ensuite être
+soumise à une visite complète et à une réépreuve de résistance à effectuer par le même
+organisme de contrôle. Un rapport de la réception de ces travaux est établi par l'organisme de
+contrôle.
+
+14.2. Les réservoirs doivent être vidés avant toute réparation importante.
+
+page 9 de 12 pages                                                             ITM-SST 1710.2
+Ils doivent être isolés du reste de l'installation ainsi que du réseau publique par des joints
+étanches. Ils sont à nettoyer convenablement. L'atmosphère à l'intérieur des réservoirs est à
+contrôler à l'explosimètre par une personne compétente afin de vérifier l'absence de vapeurs
+inflammables.
+
+14.3. Si les travaux à exécuter comportent l'emploi de flammes ou d'objets portés à
+incandescence, ou s'ils sont de nature à provoquer des étincelles, un gaz inerte doit être
+injectée dans le(s) réservoir(s) et les tuyauteries jusqu'à élimination de toute trace de gaz
+inflammable.
+
+Toute autre méthode garantissant des résultats équivalents est également admissible.
+
+14.4. Le gaz inerte doit seulement être injectée si l'on est sûr que le récipient ne peut contenir
+un mélange tonnant. En cas de présence d'un mélange tonnant, une purge au gaz inerte doit
+éliminer toute trace de gaz inflammable.
+
+14.5. L'injection de gaz inerte terminée, le réservoir doit être soigneusement ventilé pendant
+au moins deux heures.
+
+Toute autre méthode garantissant un même niveau de sécurité est également admissible.
+
+14.6. Si les travaux à exécuter ne comportent pas l'emploi de flammes ou d'objets
+incandescents et ne sont pas de nature à provoquer des étincelles, l'emploi de vapeur vive peut
+être remplacé par un remplissage du réservoir par de l'eau pendant vingt-quatre heures au
+moins.
+
+14.7 Dans la zone d'interdiction de feux nus, il ne peut être procédé à des travaux d'entretien
+ou de réparation des installations de la station-service comportant l'usage de feux nus ou
+pouvant provoquer des étincelles qu'après avoir arrêté l'installation, et pour autant que la
+teneur en gaz combustible dans l'air de travail soit inférieure au cinquième de la limite
+inférieure d'inflammabilité (< 20 % UEG). Le contrôle de cette teneur doit être permanent
+pendant la durée des travaux.
+
+Art. 15. – Incidents ou accidents sur l’installation
+
+15.1 Chaque installation ayant été la cause d'un accident ou d'un incident grave ou ayant été
+impliqué dans un accident ou un incident grave doit être mis à l’arrêt. L’Inspection du Travail
+et des Mines est à informer.
+Avant une remise en service, l’installation doit être vérifiée par un organisme de contrôle, et
+l’Inspection du travail et des mines doit donner son accord écrit.
+L'exploitation de l’installation ne peut être reprise qu'après visa par l'Inspection du travail et
+des mines du rapport de vérification de l'organisme de contrôle, rapport à verser au registre
+prévu à l'article 18 ci-après.
+
+15.2 Toute avarie doit être réparée dans le plus bref délai par du propre personnel qualifié ou
+par une entreprise qualifiée.
+
+15.3 Toute réparation ou modification de l’installation est à réaliser conformément aux
+dispositions de l’article 14 qui précède.
+
+
+
+
+page 10 de 12 pages                                                             ITM-SST 1710.2
+Art. 16. – Formation du personnel et initiation des utilisateurs
+
+16.1 L’exploitant ainsi que le personnel de la station service doivent bénéficier d’une
+formation leur permettant de connaître les risques pouvant résulter de l’installation et du gaz
+véhiculé et d’être en mesure d’entreprendre les actions nécessaires en cas de panne, d’incident
+ou de danger imminent.
+
+16.2 Un mode d’utilisation de la pompe à gaz doit être apposé sur chaque appareil istributeur
+initiant les utilisateurs à la manœuvre de ravitaillement de leur véhicule. Cette affiche doit être
+disposée de façon bien compréhensible, visible et résistante aux intempéries et en deux
+langues au moins.
+
+Art. 17. - Exploitation
+
+17.1 Il est interdit d’effectuer un remplissage de récipients sous pression mobiles ou d’autres
+récipients qui ne font pas partie intégrante du véhicule à ravitailler.
+
+17.2 L’exploitant ou le personnel doivent être présents pendant les heures d'exploitation. Les
+mesures nécessaires sont prises pour que les véhicules ne puissent être approvisionnés en
+l'absence du personnel formé de la station-service.
+
+17.3 Aucune opération d'exploitation ne peut être effectuée si l'installation ne se trouve pas en
+parfait état de fonctionnement.
+
+Art. 18. - Registre
+
+18.1 Toutes les réceptions, tous les contrôles et toutes les vérifications concernant les
+installations de distribution de gaz doivent faire l’objet d’une inscription sur un registre (ou
+d’une insertion dans un dossier) ouvert à cet effet par l’exploitant.
+
+Les pièces de ce registre (ou dossier) doivent comprendre au moins les mentions suivantes :
+
+   -   la date et la nature des contrôles;
+   -   la personne ou l’organisme ayant effectué le contrôle;
+   -   le motif du contrôle effectué suite à un incident ou accident, la cause et la nature de cet
+       incident ou accident;
+   -   le résultat et les commentaires des examens, vérifications et essais de réception, de
+       contrôle ou de vérification;
+   -   La contre signature éventuelle par l’exploitant (ou par une personne que celui - ci a
+       déléguée à cet effet) des résultats des réceptions, contrôles ou vérifications.
+
+18.2 Ce registre doit comprendre en plus une rubrique reprenant les mentions suivantes:
+
+       - les dates et la nature des opérations de maintenance;
+       - les descriptions des opérations de maintenance que l’installation a subi;
+       - les rapports des contrôles et vérifications effectués;
+       - un descriptif de toutes les interventions et modifications effectuées sur l’installation
+         et pouvant avoir une influence sur la sécurité;
+       - les dates des interventions;
+       - le personnel ou l’organisme ayant effectué les interventions.
+
+
+
+
+page 11 de 12 pages                                                             ITM-SST 1710.2
+18.3. Ces registre, les manuels de montage, d’utilisation, d’entretien, de dépannage, ainsi que
+les manuels comprenant les descriptions techniques de l’installation doivent être tenus à
+disposition des organes de contrôle et de l’organisme de contrôle effectuant les réceptions et
+contrôles ainsi qu’aux agents ainsi qu’aux agents énumérés à l’article 22 de la loi modifiée du
+10 juin 1999 relative aux établissements classés.
+
+
+
+
+            Visa du responsable                                Mise en vigueur
+       du département sécurité et santé                         le 25.01.2008
+
+                                                                       s.
+
+             Robert HUBERTY                                      Paul WEBER
+              Directeur adjoint                                    Directeur
+          de l’inspection du travail                       de l’Inspection du travail
+                 et des mines                                     et des mines
+
+
+
+
+page 12 de 12 pages                                                           ITM-SST 1710.2
+

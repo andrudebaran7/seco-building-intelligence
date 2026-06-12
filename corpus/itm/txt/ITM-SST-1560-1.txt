@@ -1,0 +1,617 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                              Strassen, février 2013
+
+
+
+
+                                                                                           ITM-SST 1560.1
+
+                                 Prescriptions de prévention de la panique
+                                              DISPOSITIONS GENERALES
+
+                 Concerts en plein air recevant plus de 5.000 personnes
+
+
+                                             Le présent document comporte 13 pages
+
+                                                                   Sommaire
+
+   Article                                                                                                  Page
+
+    1)               Objectifs et domaine d'application                                                         2
+    2)               Définitions                                                                                2
+    3)               Obligations des organisateurs                                                              2
+    4)               Evacuation de personnes, issues                                                            3
+    5)               Mesures particulières                                                                      4
+    6)               Accès des services de secours                                                              4
+    7)               Aménagements de l’espace d’observation                                                     5
+    8)               Installations techniques                                                                   6
+    9)               Moyens de secours et d’intervention                                                        7
+   10)               Méthode de calcul de l'effectif du service de premiers secours                             7
+   11)               Réceptions et contrôles                                                                    9
+
+   ANNEXE : Exemples de calcul de détermination du service de garde                                             11
+
+
+
+
+         Direction, Département Sécurité et Santé
+         Adresse postale: Boîte postale 27    L- 2010 Luxembourg
+         Bureaux: 3, rue des Primeurs, L-2361 Strassen    Tél: 247-86213   Fax: 49 14 47
+         Site Internet: http://www.itm.lu
+Art. 1.- Objectifs et domaine d'application
+
+1.1.    Le présent texte fixe les mesures de sécurité à considérer lors de concerts en
+plein air sur des places et champs ainsi que dans des rues, qu’ils soient publics ou privés
+et recevant plus de 5.000 personnes.
+
+1.2.     Ces concerts peuvent être uniques, une seule scène, un seul spectacle ou
+multiples, plusieurs scènes situés dans une place urbaine clairement délimitée, plusieurs
+spectacles mais non simultanés. Ils peuvent également être ponctuels c'est-à-dire ils ont
+lieu lors d’une soirée ou d’une journée, ou s’étaler sur plusieurs soirées ou plusieurs jours
+(festivals). Les scènes peuvent être fixes ou mobiles.
+
+1.3.    Toute norme européenne (EN), au fur et à mesure qu'elle parait, doit être
+appliquée. Elle est amenée à remplacer les diverses normes en application dans les
+différents pays de la communauté.
+
+Art. 2.- Définitions
+
+2.1.    Espace d’activité : espace où l’événement a lieu (scène et arrière-scène).
+
+2.2.   Espace d’observation : espace d’où les spectateurs assistent à l’événement, qui
+regroupe à la fois des espaces où les spectateurs sont assis, d’autres où ils sont debout
+ou en fauteuil roulant et les dispositifs d’entrée et de sortie directement liés à ces
+espaces.
+
+2.3.    Espace de service : espace où doivent se trouver les services pour le public,
+p.ex. les toilettes, postes de secours, cafétérias, boutiques de souvenir, et qui comprend
+les couloirs, les escaliers et les rampes qui conduisent de l’espace d’observation à la
+sortie de l’installation.
+
+2.4.    Installations pour spectateurs : installation se composant d’un espace d’activité,
+d’un espace d’observation et d’un espace de service, regroupe tous les espaces où le
+public s’assemble, à l’intérieur comme à l’extérieur, de façon permanente ou temporaire,
+pour assister à des événements sportifs, de divertissement ou autres.
+
+
+Art. 3.- Obligations des organisateurs
+
+3.1.    Un plan de situation des aménagements prévus (p. ex. scène, tribune,
+infrastructures de vente, etc.) est à établir et à fournir aux autorités compétentes.
+
+3.2.   Un concept de sécurité est à présenter par l’organisateur aux autorités
+compétentes pour toute manifestation et à mettre à la disposition des services de
+secours.
+Ce concept de sécurité devra se référer à la Norme Européenne EN 13200 et prendre en
+compte tous les critères et contraintes qui y sont développés.
+
+3.3.    Toutes les interdictions à mettre en œuvre lors de des concerts doivent être
+indiquées d’une façon claire et nette, dont notamment : interdiction de vendre des
+bouteilles en verre, interdiction d’utiliser des verres en verre, interdiction de posséder des
+armes de toute sorte, etc.
+
+
+Page 2 sur 13                                                                   ITM-SST 1560.1
+3.4.   Un plan d’intervention pour les services de secours est à établir tout en respectant
+les présentes mesures. Les infrastructures requises pour assurer un service de garde
+devront être mise à disposition.
+
+3.5.    L’organisateur devra mettre en place un service de sécurité générale dont la
+fonction principale est de veiller à tout instant au bon déroulement de la manifestation. Il
+s’assurera, tout au long de la manifestation, du respect des consignes d’interdictions
+diverses et des présentes prescriptions.
+
+Art. 4.- Evacuation de personnes, sorties de secours
+
+4.1.    Effectifs de personnes
+Les organisateurs de concerts doivent mettre en place une organisation et toutes les
+mesures appropriées qui leurs permet de contrôler et de s’assurer du respect des
+densités de personnes en fonction de l’espace.
+4.1.1. Un effectif théorique de 2 personnes par mètre carré (2 p/m2) ne doit pas être
+dépassé dans l’espace d’observation.
+4.1.2. Un effectif théorique de 1 personne par mètre carré (1 p/m2) ne doit pas être
+dépassé dans les chemins de circulation et d’évacuation respectivement dans les rues
+avoisinantes.
+4.1.3. Un effectif théorique de 4 personnes par mètre carré (4 p/m2) ne doit pas être
+dépassé à aucun moment et à aucun endroit.
+
+4.2.    Nombre de sorties
+4.2.1. Trois sorties au moins, réparties judicieusement sur la périphérie de la place
+urbaine, doivent être prévues pour un effectif de 5.000 personnes. Au-delà de 5.000
+personnes une sortie supplémentaire doit être créée par tranche ou fraction de 5.000
+personnes.
+4.2.2. La largeur cumulée des sorties à prévoir en fonction de l’effectif de personnes est
+de 0,2 cm/personne.
+4.2.3. La largeur minimale de chaque sortie est de 3,50 m.
+4.2.4. La distance entre sorties doit être au minimum de 25 m et au maximum de 120 m.
+Si deux issues étaient distantes de moins de 25 m elles sont à considérer comme une
+seule sortie.
+4.2.5. La largeur des escaliers doit être calculée sur la base de 0,25 cm pour un escalier
+descendant et 0,4 cm par personne pour un escalier montant.
+4.2.6. Les culs-de-sac sont interdits. Toutefois, au cas où la configuration des lieux les
+rende inévitables, une étude particulière devra être faite et des solutions complémentaires
+sont à proposer.
+
+4.3.    Chemin d’évacuation
+4.3.1. La longueur d’évacuation maximale pour rejoindre un chemin de circulation
+servant de chemin de fuite doit être de 60 m. Il en résulte une largeur maximale d’un
+espace d’observation de 120 m.
+4.3.2. Les voies d’évacuation doivent dans la mesure du possible suivre les itinéraires
+naturels donnés. Elles doivent rester dégagées en permanence. A ce titre, les
+infrastructures de vente et autres aménagements divers (espaces de service) qui
+entraînent des files d’attente et des attroupements de personnes ne doivent en aucun cas
+faire obstacle à l’évacuation en cas de panique.
+4.3.2. Afin d’éviter toute panique, toutes les dispositions doivent être prises pour éviter
+des embouteillages et des attroupements importants de personnes.
+Page 3 sur 13                                                                  ITM-SST 1560.1
+4.4.    Signalisation
+Une signalisation des sorties doit être mise en place dans le cas où le cheminement
+d’évacuation est complexe.
+
+Art. 5.- Mesures particulières
+
+5.1.    Aucun câble, gaine, canalisation ne doit traîner dans les espaces accessibles au
+public.
+
+5.2.    Un concept d’élimination des déchets inflammables devra être présenté.
+
+5.3.    Il est interdit de mettre en place des points de feu ouverts.
+
+5.4.   Des emplacements sécurisés sont à prévoir pour les appareils de chauffage au
+gaz ou électriques.
+
+5.5.     Les installations à gaz LPG doivent faire l’objet d’un contrôle par un organisme
+agréé et la quantité maximale stockée est de 2x33 kg par établissement. Le stockage des
+bouteilles de rechange doit être centralisé et sécurisé.
+
+5.6.    En présence d’installations ou d’entreposage de matériels / matériaux d’une
+densité de charge calorifique moyenne de 500 MJ/m2, un passage libre de 8 m environ
+tous les 40 m doit être prévu pour éviter un saut de flammes.
+
+5.7.   Il y a lieu de prévoir un ou plusieurs mégaphones situés sur la scène et au poste
+de sécurité.
+
+5.8.     Un système de communication par radio doit permettre aux organisateurs et aux
+différentes personnes intervenant durant la manifestation de communiquer à tout instant.
+
+5.9.    Un système de communication par ligne téléphonique fixe, par GSM, etc., doit
+permettre à tout moment, en cas d’urgence, de contacter sans défaut tous les services de
+secours en général, médecins, hôpitaux, etc.
+
+Art. 6.- Accès des services de secours
+
+6.1.     Les chemins d’accès aux scènes doivent être indépendants des chemins de
+circulation. La largeur minimale de ces chemins d’accès est de 3 m pour les parties
+rectilignes et de 5 m pour les parties circulaires. Toutefois, si la configuration des lieux ne
+le permet pas, alors ce chemin doit avoir une largeur de 6 m au moins partant d’un effectif
+de 2 p/m2.
+
+6.2.   Les chemins d’accès en cul-de-sac doivent être d’une longueur inférieure à 50 m.
+Dans le cas contraire une aire de retournement adaptée aux véhicules des services
+incendie devra être aménagée.
+
+6.3.   Les immeubles avoisinants les différents espaces, d’observation, d’activités, de
+services, les scènes ainsi que les tribunes, doivent rester accessibles pour les fourgons
+du service incendie dans le respect des prescriptions de prévention incendie (série ITM
+SST-1500). Les aires de manœuvre prévues doivent rester dégagées.
+
+6.4.   Des aires d’emplacement pour les véhicules de secours et pour un éventuel PMA
+(Poste Médical Avancé), poste de secours ou autres, doivent être mises à disposition.
+
+
+Page 4 sur 13                                                                    ITM-SST 1560.1
+Art. 7.- Aménagements de l’espace d’observation
+
+7.1.    Disposition et aménagement de sièges
+7.1.1. D'une manière générale, les dispositions et aménagements de sièges doivent faire
+l'objet de plans d'ensemble, de détails et de coupe faisant apparaître clairement le
+nombre, la position et les cotes des sièges, les cotes entre rangées de sièges, la position
+et la largeur des chemins d'évacuation.
+7.1.2. Les sièges doivent être disposés de manière à ménager des couloirs de circulation
+maintenus libres en permanence.
+7.1.3. Les couloirs de circulation doivent être disposés de telle sorte que d'un point
+quelconque l'on puisse toujours joindre facilement deux sorties.
+7.1.4. Les sièges disposés en rangées doivent être installés, accrochés ou fixés de
+manière que les personnes ne puissent ni les renverser, ni les déplacer, même en cas
+d'évacuation précipitée.
+7.1.5. Les rangs de sièges ne doivent pas comprendre plus de 15 places s'ils aboutissent
+à un seul couloir et pas plus de 30 places s'ils aboutissent à deux couloirs.
+7.1.6. L'écartement des rangées des sièges doit être tel qu'entre les parties les plus
+saillantes de deux rangs consécutifs, un espace d'au moins 50 cm sera libre pour la sortie
+des personnes.
+7.1.7. La largeur des couloirs doit être dimensionnée à raison de 0,2 cm par personne en
+plan horizontal et de 0,25 cm en pente, appelée à y passer pour gagner la sortie la plus
+proche. La largeur minimum des couloirs ne peut être inférieure à 1,20 m.
+
+7.2.    Tribunes et gradins
+7.2.1. Les gradins et leur structure doivent être calculés pour supporter les charges et les
+vibrations d'exploitation réglementaires.
+7.2.2. Les marches des circulations doivent avoir une profondeur supérieure à 25 cm.
+7.2.3. Ces marches ne peuvent être à quartier tournant.
+7.2.4. L'alignement des nez de marche ne doit pas dépasser 35°.
+7.2.5. Cet angle peut atteindre 45° sous certaines conditions :
+            La tribune ne comporte pas plus de cinq rangs de gradins.
+            Les circulations verticales sont équipées de mains courantes ou de tout autre
+             système de préhension.
+7.2.6. Le vide en contremarche ne peut être supérieur à 18 cm.
+7.2.7. Les dessous des tribunes non compartimentées ne doivent comporter aucun
+stockage ou dépôt. Ils doivent en outre être rendus inaccessibles au public.
+7.2.8. Les équipements des tribunes (sièges, etc.) doivent au minimum classé Euroclasse
+C s2d1.
+Des garde-corps, des rampes d'escaliers ou des barres d'appui, devant résister à des
+éventuels mouvements de foule, doivent être installés chaque fois qu'il y a risque de
+chute.
+7.2.9. Les tribunes et gradins doivent, dans tous les cas, faire l'objet de plans d'ensemble
+et de détails soumis à l'avis des autorités compétentes.
+
+7.3.    Aménagements scéniques
+7.3.1. La construction sur laquelle repose le plancher de la scène de même que les murs
+d'enceinte et le plafond doivent être en matériaux incombustibles.
+
+Page 5 sur 13                                                                  ITM-SST 1560.1
+7.3.2. Les accessoires de scène et les coulisses etc. doivent être en matériaux classés au
+moins Euroclasse D s2d2.
+
+Art. 8.- Installations techniques
+
+8.1.     Installations scéniques
+Les installations scéniques sont à concevoir, à construire et à réceptionner selon les
+normes et prescriptions énumérées ci-dessous respectivement selon des prescriptions
+équivalentes :
+       EN ISO 12100-1        Sicherheit von Maschinen - Grundbegriffe, allgemeine
+                             Gestaltungsleitsätze Teil 1: Grundsätzliche Terminologie,
+                             Methodologie
+       EN ISO 12100-2        Sicherheit von Maschinen - Grundbegriffe, allgemeine
+                             Gestaltungsleitsätze Teil 2: Technische Leitsätze
+       EN ISO 13849-1        Sicherheit von Maschinen – Sicherheitsbezogene Teile von
+                             Steuerungen –Teil 1: Allgemeine Gestaltungsleitsätze
+       EN ISO 13849-2        Sicherheitsbezogene Teile von Steuerungen Teil 2:
+                             Validierung
+       EN ISO 13850          Sicherheit von Maschinen – Not-Halt – Gestaltungs-leitsätze
+       EN ISO 13857          Sicherheit von Maschinen - Sicherheitsabstände gegen das
+                             Erreichen von Gefährdungsbereichen mit den oberen und
+                             unteren Gliedmassen
+       EN 60204-1            Sicherheit von Maschinen, elektrische Ausrüstung
+       EN 61508              Funktionale Sicherheit sicherheitsbezogener elektrischer-
+                             elektronischer / programmierbarer Systeme
+       DIN 56950             Veranstaltungstechnik - Maschinentechnische Einrichtungen
+                             - Sicherheitstechnische Anforderungen und Prüfung
+       BGV C1 (GUV 6.15)     Unfallverhütungsvorschrift-Veranstaltungs-und
+                             Produktionsstätten für szenische Darstellung (April 1998)
+       DIN EN 60204-1        Sicherheit von Machinen ; Elektrische Ausrüstung
+       DIN V 19250           Grundlegende Sicherheitsbetrachtungen für MSR-
+                             Schutzeinrichtungen
+       DIN V VDE 0801        Grundsätze für Rechner in Systemen mit
+                             Sicherheitsaufgaben
+       DIN V VDE 0801A1      Grundsätze für Rechner in Systemen mit
+                             Sicherheitsaufgaben, ÄnderungA1: 1994-10
+       DIN VDE 0116          Elektrische Ausrüstung von Feuerungsanlagen (10/89)
+       GUV 66.15             Grundsätze für die Prüfung von sicherheitstechnischen und
+                             maschinentechnischen Einrichtungen in Bühnen und Studios
+
+8.2.    Installations techniques particulières
+8.2.1. Toute manifestation nécessitant l'emploi d'artifices, de flammes ou tout autre
+produit dangereux doit faire l'objet d'une déclaration à l'autorité compétente. Elle ne
+pourra être autorisée que si des mesures de sécurité, appropriées aux risques sont
+prises.
+8.2.2. Les installations techniques particulières telles que effets spéciaux, lumières,
+brouillard, fumées, etc. doivent également faire l'objet d'une déclaration.
+Ces installations techniques doivent être en outre conformes aux normes en vigueur.
+
+
+Page 6 sur 13                                                                ITM-SST 1560.1
+8.3.    Eclairage
+8.3.1. Lors des concerts en soirée et de nuit, une proposition globale de l’éclairage devra
+être présentée. Elle devra tenir compte de l’éclairage public, d’un éclairage de sécurité et
+d’un éclairage de remplacement éventuel. Des alimentations électriques de sécurité
+devront être prévues en conséquence, p.ex. groupe de secours, groupe électrogène.
+Le niveau d’éclairage devra être de 10 lux en tout point des espaces d’observation et
+circulations.
+
+Art. 9.- Moyens de secours et d’intervention
+
+9.1.   Tous les hydrants situés dans l’espace du concert ainsi que leur signalisation
+doivent rester accessibles et être dégagés dans un rayon de 1 m.
+
+9.2.   Le nombre, la position et le type d’extincteur en fonction des risques à mettre à
+dispositions du service de sécurité incendie seront définis en accord avec le service
+d’incendie local.
+
+9.3.    Un service de sécurité incendie sera défini en fonction des risques en accord avec
+le service d’incendie selon le type de manifestation.
+
+9.4.   Un service de premiers secours doit être mis en place. L’effectif doit tenir compte
+du type de concert, de la qualité de l’audience notamment de l’âge, des facteurs de la
+saison et de l’influence du temps, de la durée de l’événement, de la présence d’un
+camping nocturne. Il sera défini sur base de l’algorithme suivant en accord avec les
+services de secours et tout en tenant compte d’expériences précédentes ou similaires.
+
+Art. 10.- Méthode de calcul de l'effectif du service de premiers secours
+
+
+           Effectif théorique (Z1)
+
+           Nombre de personnes admises                   points (Z1)
+                       5.000 - 6.000                          5
+                      6.001 - 10.000                          6
+                     10.001 - 20.000                          7
+             chaque tranche suppl. de 10.000                  1
+                           pers.
+
+
+           Effectif réel (Z2)
+
+           Chaque tranche de 500 personnes                1 point
+           attendues
+
+           Facteur de risque multiplicateur (F1) suivant MANIFESTATION
+
+           Manifestation                                  facteur multiplicateur (F1)
+           Concert avec du public jeune vulnérable                    1,4
+           Concert rock / pop                                         1,0
+           Concert jazz, blues, Musique Populaire et                  0,4
+           Classique
+
+
+Page 7 sur 13                                                                  ITM-SST 1560.1
+           Facteur de risque multiplicateur (F2) suivant METEO
+
+           Manifestation                                    facteur multiplicateur (F2)
+           Chaleur inférieure à 25° sans ensoleillement                   0,5
+           Chaleur inférieure à 25° avec ensoleillement
+           eeeeeensolleiensoleillement                                    0,6
+           Chaleur supérieure à 25°                                       0,7
+           Chaleur supérieure à 30°                                       1,0
+
+
+
+           Facteur de risque multiplicateur (F3) suivant DUREE
+
+           Manifestation                     facteur multiplicateur (F3)
+           Temps court 3 heures                           1,0
+           Temps moyen 5 heures                           1,1
+           Temps supérieur à 5 heures                     1,2
+
+
+           Formule de calcul de points Z3:             Z3 = (Z1 + Z2) x F1 x F2 x F3
+
+           Evaluation du nombre de secouristes
+
+            Points Z3                           secouristes (pompiers)
+                         3,0 - 4,0                           ( 3 )*
+                         4,1 - 13,5                             5
+                        13,6 - 22,0                            10
+                        22,1 - 40,0                            20
+                        40,1 - 60,0                            30
+                        60,1 - 80,0                            40
+                        80,1 - 100,0                           80
+                       100,1 - 110,0                          100
+                       110,1 - 120,0                          120
+                       120,1 - 140,0                          160
+           * Décision à prendre par les services de secours.
+
+           Evaluation du nombre des unités de soins
+           (dans PMA, infirmerie ou avec présence d'ambulances)
+
+           Points Z3                         nombre des unités de soins
+                      0,1 – 4,0                              0
+                      4,1 - 13,0                             2
+                     13,1 - 25,0                             5
+                     25,1 – 40, 0                            8
+                     40,1 - 60,0                            10
+                     60,1 - 80,0                            12
+                     80,1 - 100,0                           15
+                    100,1 - 110,0                           18
+                    110,1 - 120,0                           21
+                    120,1 - 140,0                           24
+
+
+
+Page 8 sur 13                                                                ITM-SST 1560.1
+           Evaluation du nombre d’ambulances
+
+           Points Z3                       nombre d’ambulances
+                      0,1 – 6,0                       0
+                      6,1 - 25,5                      1
+                     25,6 - 45,5                      2
+                     45,5 - 60,5                      3
+                     60,6 - 75,5                      4
+                     75,6 - 100,0                     5
+                    100,1 - 120,0                     6
+                   plus que 120,1                     7
+
+           Evaluation du nombre de médecins
+
+           Points Z3                       nombre de médecins
+                      0,1 - 30                        0
+                     30,1 - 60,0                      1
+                     60,1 - 90,0                      2
+                    90,1 - 120,0                      3
+                   plus que 120,1                     4
+
+           Evaluation du nombre des unités de soins médicalisés
+
+           Points Z3                       nombre d’unités de soins
+                       0,1 - 30            médicalisés 0
+                     30,1 - 60,0                       3
+                     60,1 - 90,0                       5
+                    90,1 - 120,0                       7
+                   plus que 120,1                      8
+
+
+Poste médical avancé (PMA)
+L’installation d’un poste médical avancé est obligatoire lorsque la valeur de Z3 est
+supérieure à 30 points.
+
+Poste de commandement opérationnel (PCO)
+L’installation d’un poste de commandement opérationnel est obligatoire lorsque la valeur
+Z3 est supérieure à 30 points.
+
+Aire d’attérissage pour hélicoptère sanitaire
+Une aire d’atterrissage pour hélicoptère pourra être demandée lorsque la valeur Z3 est
+supérieure à 60 points.
+
+Art. 11.- Réceptions et contrôles
+
+11.1. Une réception générale comprenant les installations de sécurité, les chemins
+d’évacuation, les tribunes, les scènes, etc., est à effectuer par un organisme de contrôle
+agréé avant ouverture au public.
+
+
+
+Page 9 sur 13                                                                ITM-SST 1560.1
+11.2. Les rapports de réception sont à soumettre par l’organisme pour visa à l'Inspection
+du travail et des mines et dont il fait tenir ensuite des copies à son commanditaire et à
+l'exploitant. L'ensemble de ces pièces doit être versé au registre de sécurité.
+
+
+
+
+            Visa du Directeur adjoint                Mise en vigueur, le 4 mars 2013
+            De l’Inspection du travail
+                   et des mines                                      s.
+
+                        s.                                     Paul WEBER
+                                                                  Directeur
+                 Robert HUBERTY                          de l’Inspection du travail
+                                                                et des mines
+
+
+
+
+Page 10 sur 13                                                               ITM-SST 1560.1
+ANNEXE
+
+             Exemples de calcul de services de premiers secours
+
+
+ Concert 5.000 spectateurs présents pendant 3h
+
+ Méthode de calcul
+
+ Capacité de personnes :              5.000                             (Z1) = 5
+ Effectif présent (1 point / 500 personnes)                             (Z2) = 10
+ Facteur multiplicateur                                                 (F1) = 1,0
+ Chaleur inférieure à 25 ° sans ensoleillement                          (F2) = 1,0
+ Chaleur inférieure à 25 ° avec ensoleillement                          (F2) = 1,2
+ Chaleur supérieure à 25°                                               (F2) = 1,4
+ Chaleur supérieure à 30°                                               (F2) = 2,0
+ Durée courte 3 heures                                                  (F3) = 1,0
+
+
+ Z3=(Z1+Z2) x F1 xF2 x F3
+
+
+ Formule de calcul de points Z3:
+ chaleur inférieure à 25 ° sans
+ ensoleillement                       Z3 = (5+10) 1x 0,5x 1 = 7,5
+ chaleur inférieure à 25 ° avec
+ ensoleillement                       Z3 = (5+10) 1x 0,6x 1 = 9
+ chaleur supérieure à 25°             Z3 = (5+10) 1x 0,7x 1 = 10,5
+ chaleur supérieure à 30°             Z3 = (5+10) 1x 1,0x 1 = 15
+
+
+                                      inférieure à 25 inférieure à 25
+                                           ° sans          ° avec       supérieure à   supérieure à
+        Chaleur                       ensoleillement ensoleillement         25°            30°
+        Points                                7,5            9              10,5               15
+        Secouristes                           5              5                5                10
+        Unités de soins                       2              2                2                5
+        Ambulances                            1              1                1                1
+        Médecins                              0              0                0                0
+ Unités de soins médicalisés                  0              0                0                0
+        PCO                                   0              0                0                0
+        Héliport                              0              0                0                0
+
+
+Page 11 sur 13                                                                ITM-SST 1560.1
+ Concert 15.000 spectateurs présents pendant 12h
+
+ Méthode de calcul
+
+ Capacité de personnes             15.000                                (Z1) = 7
+ Effectif présent (1 point /500 personnes)                               (Z2) = 30
+ Facteur multiplicateur                                                  (F1) = 1,0
+ Chaleur inférieure à 25 ° sans ensoleillement                           (F2) = 0,5
+ Chaleur inférieure à 25 ° avec ensoleillement                           (F2) = 0,6
+ Chaleur supérieure à 25°                                                (F2) = 0,7
+ Chaleur supérieure à 30°                                                (F2) = 1,0
+ Durée supérieure à 5 h                                                  (F3) = 1,2
+
+
+ Z3=(Z1+Z2) x F1 xF2 x F3
+
+ Formule de calcul de points Z3:
+ chaleur inférieure à 25 ° sans
+ ensoleillement                  Z3 = (7+30) x 1 x 0,5 x 1,2 = 22,2
+ chaleur inférieure à 25 ° avec
+ ensoleillement                  Z3 = (7+30) x 1 x 0,6 x 1,2 = 26,64
+ chaleur supérieure à 25°          Z3 = (7+30) x 1 x 0,7 x 1,2 = 31,08
+ chaleur supérieure à 30°          Z3 = (7+30) x 1 x 1,0 x 1,2 = 44,4
+
+
+                                   inférieure à 25   inférieure à 25 °
+                                        ° sans              avec          supérieure à    supérieure à
+          Chaleur                  ensoleillement     ensoleillement          25°             30°
+          Points                         22,2             26,64              31,08               44,4
+          Secouristes                        20             20                 20                30
+          Unités de soins                    5              8                  8                 10
+          Ambulances                         1              2                  2                  2
+          Médecins                           0              0                  1                  1
+Unités de soins médicalisés                  0              0                  3                  3
+          PCO                                0              0                  1                  1
+          Héliport                           0              0                  0                  0
+
+
+
+
+Page 12 sur 13                                                                  ITM-SST 1560.1
+ Concert 50.000 spectateurs présents pendant 15h
+
+ Méthode de calcul
+
+ Capacité de personnes :           50.000                               (Z1) = 10
+ Effectif présent (1 point /500 personnes)                              (Z2) = 100
+ Facteur multiplicateur                                                 (F1) = 1,0
+ chaleur inférieure à 25 ° sans ensoleillement                          (F2) = 1,0
+ chaleur inférieure à 25 ° avec ensoleillement                          (F2) = 1,2
+ chaleur supérieure à 25°                                               (F2) = 1,4
+ chaleur supérieure à 30°                                               (F2) = 2,0
+ Durée supérieure à 5 h                                                 (F3) = 1,2
+
+
+ Z3=(Z1+Z2) x F1 xF2 x F3
+
+
+ Formule de calcul de points Z3:
+
+ chaleur inférieure à 25 ° sans
+ ensoleillement                    Z3= (10+100) x 1 x 0,5 x 1,2= 66
+ chaleur inférieure à 25 ° avec
+ ensoleillement                    Z3= (10+100) x 1 x 0,6 x 1,2= 79,2
+ chaleur supérieure à 25°          Z3= (10+100) x 1 x 0,7 x 1,2= 92,4
+ chaleur supérieure à 30°          Z3= (10+100) x 1 x 1,0 x 1,2= 132
+
+
+                                    inférieure à 25 ° inférieure à 25
+                                           sans            ° avec       supérieure à    supérieure à
+          Chaleur                    ensoleillement ensoleillement          25°             30°
+          Points                             66            79,2             92,4            132
+          Secouristes                        40             40               80             160
+          Unités de soins                    12             12               15                 24
+          Ambulances                         5               5                6                 10
+          Médecins                           3               3                4                 5
+Unités de soins médicalisés                  5               5                7                 8
+          PCO                                1               1                1                 1
+          Héliport                           (1)            (1)              (1)            (1)
+
+
+
+
+Page 13 sur 13                                                                 ITM-SST 1560.1
+

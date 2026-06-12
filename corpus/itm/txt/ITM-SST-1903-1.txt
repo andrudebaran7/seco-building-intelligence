@@ -1,0 +1,427 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                Strassen, décembre 2007
+
+
+
+                                                                                          Ancien N°ITM-CL 11.7
+
+
+                                                                                          Nouveau N° ITM-SST 1903.1
+
+
+
+
+     Réservoirs à double paroi dans lesquels sont emmagasinés
+                                              des liquides inflammables
+
+
+                                               Prescriptions de sécurité types
+
+                                              Le présent document comporte 8 pages
+
+
+                                                                  Sommaire
+
+    Article                                                                                                               Page
+
+     1.                              Objectif et domaine d'application                                                     2
+     2.                              Définitions                                                                           2
+     3.                              Normes et règles techniques                                                           2
+     4.                              Construction et installation des réservoirs                                           2
+     5.                              Construction et installation des canalisations                                        4
+     6.                              Jaugeage                                                                              4
+     7.                              Contrôle de remplissage                                                               5
+     8.                              Dispositions générales concernant la construction et l'installation                   5
+     9.                              Event (tube d'aération)                                                               5
+    10.                              Protection contre la foudre                                                           6
+    11.                              Moyens de lutte contre l'incendie                                                     6
+    12.                              Réception de l'installation                                                           6
+    13.                              Vérifications périodiques                                                             6
+    14.                              Entretien - Exploitation                                                              7
+    15.                              Travaux d'entretien à l'intérieur des réservoirs                                      8
+    16.                              Réservoirs "hors service"                                                             8
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-6145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er. - Objectifs et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité, de santé, d'hygiène, de salubrité et de commodité de tous les réservoirs à double
+paroi dans lesquels sont emmagasinés des liquides inflammables.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas par l'Inspection du travail et des mines, mais uniquement si sont prises des mesures de
+rechange présentant des garanties de sécurité au moins équivalentes.
+
+Art. 2. - Définitions
+
+Sous la dénomination "organisme de contrôle" sont à comprendre les organismes figurant à
+l'arrêté du Ministre du Travail et de l'Emploi le plus récent en date concernant l'intervention
+d'organismes de contrôle dans les domaines afférents aux présentes prescriptions.
+
+Art. 3. - Normes et règles techniques
+
+3.1. Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à
+appliquer lors de la conception, de la réalisation et de l'exploitation de réservoirs sont en
+particulier les présentes prescriptions et en général les normes et règles techniques appliquées
+en République Fédérale d'Allemagne, ou alors celles reconnues comme équivalentes du point
+de vue du niveau de la sécurité par l'Inspection du Travail et des Mines.
+
+3.2. Sont d'application les normes européennes (EN) au fur et à mesure qu'elles paraissent et
+remplacent les normes nationales précitées. Ainsi la norme EN11285-1 est applicable pour la
+conception des réservoirs.
+
+Art. 4. - Construction et installation des réservoirs
+
+4.1. Les liquides inflammables doivent être contenus dans des réservoirs à double paroi
+(parois concentriques et continues) en acier, construits suivant les règles de l'art et conformes
+aux normes DIN les plus récentes en vigueur en la matière ou alors à des règles reconnues
+comme garantissant un niveau de sécurité équivalent, pour cet usage spécifique, par un
+organisme de contrôle et acceptées comme telles par l'Inspection du Travail et des Mines.
+
+Le concepteur d'une installation de stockage peut choisir entre les possibilités suivantes:
+
+    1. Choisir un réservoir conçu d'après la norme EN12285-1 classe C.
+    2. Choisir un réservoir d'après la norme EN12285-1 classe B qui a lui-même subi une
+       épreuve hydraulique de 2 bar (Certification du constructeur pour le réservoir
+       concerné).
+    3. Choisir un réservoir conçu d'après la norme EN12285-1 classe A et
+           - soit équiper le réservoir d'une protection par-flamme dans les ouvertures ou
+              tuyaux de remplissage et de ventilation
+           - soit fournir une déclaration du constructeur que le réservoir résiste au choc
+              engendré par une pression d'explosion (explosionsdruckstossfest).
+
+Tous le réservoirs doivent être enfouis au moins de 0,8 m dans le sol.
+
+
+
+
+page 2 de 8 pages                                                        ITM-SST 1903.1
+4.2. L'espace compris entre les deux parois doit être rempli d'un fluide témoin (gaz ou liquide)
+qui doit être antigel et non corrosif.
+
+4.3. Les réservoirs doivent être équipés d'un dispositif de sécurité permettant de déceler toute
+fuite du fluide témoin survenant soit vers l'intérieur, soit vers l'extérieur du réservoir.
+
+En cas de fuite, ce dispositif doit déclencher automatiquement une alarme optique et
+acoustique judicieusement placée.
+
+Lorsque le dispositif d'alarme est déclenché, toutes dispositions doivent être prises par
+l'exploitant pour contrôler immédiatement l'état du réservoir.
+
+4.4. Les réservoirs doivent être du type "cylindrique". Ils doivent être munis d'un trou
+d'homme facilement accessible. La cheminée d'accès qui se trouve au-dessus du trou d'homme
+des réservoirs souterrains doit être parfaitement étanche aux produits pétroliers.
+
+4.5. Toutes les ouvertures et tous les raccords doivent se trouver à la partie supérieure du
+réservoir, au-dessus du liquide emmagasiné.
+
+4.6. Les réservoirs à enterrer sont à protéger par un revêtement formé de deux couches au
+moins de toile de jute ou de coco imprégnée de bitume et d'une couche de bitume mise à
+chaud, ou par tout autre revêtement ayant au moins des qualités équivalentes.
+
+Un contrôle diélectrique du revêtement de protection doit être effectué avant la pose des
+réservoirs.
+
+4.7. Les réservoirs enterrés et ceux installés à l'air libre doivent être reliés à une bonne prise
+de terre à large surface (voir DIN 57100/VDE 0100 et DIN 50164/VDE 0185).
+
+4.8. Les réservoirs enterrés doivent être maintenus solidement de façon à ce qu'ils ne puissent
+remonter sous l'effet de la poussée des eaux ou sous celle des matériaux de remblayage par
+suite de trépidations.
+
+4.9. En aucun cas une cavité quelconque (cave, sous-sol, excavation) ne peut se trouver en-
+dessous d'un réservoir enterré.
+
+4.10. Aucun stockage de matières combustibles ne doit se trouver au-dessus d'un réservoir.
+
+4.11. Les parois des réservoirs enfouis doivent être entourées d'une couche de sable jaune,
+exempte de pierre, bien pilonnée, d'une épaisseur minimale de 0,20 m. Les réservoirs doivent
+être enterrés à une profondeur d'au moins 0,80 m à calculer à partir de la surface supérieure du
+réservoir.
+
+4.12. Tout passage de véhicules et tout dépôt sur le sol au-dessus d'un réservoir enterré sont
+interdits, à moins que le (ou les réservoirs) ne soit (soient) protégé(s) par un plancher ou un
+aménagement pouvant résister aux charges éventuelles.
+
+4.13. Les parois des réservoirs et leurs bouches d'emplissage doivent être situées à une
+distance horizontale minimale de deux mètres de la limite de propriété.
+
+
+
+
+page 3 de 8 pages                                                       ITM-SST 1903.1
+4.14. Les parois des réservoirs doivent se trouver à plus de six mètres et les bouches
+d'emplissage et l'extrémité du tube d'évent à plus de dix mètres des issues de tout
+établissement recevant du public (p.ex. restaurant, théâtre, magasin, etc.).
+
+4.15. Le stockage de liquides d'un point d'éclair inférieur ou égal à 21°C (p.ex. essences) est
+interdit dans des réservoirs installés dans ou sous des immeubles habités ou occupés par des
+personnes.
+
+4.16. Un raccordement équipotentiel doit être prévu entre le camion citerne et la borne de
+remplissage d'un réservoir contenant des liquides d'un point d'éclair inférieur ou égal à 21°C
+(p.ex. essences).
+
+Art. 5. - Construction et installation des canalisations
+
+5.1. Les canalisations métalliques, isolées, installées à l'abri des chocs et donnant toutes
+garanties de résistance aux actions mécaniques, physiques, chimiques ou électrolytiques
+doivent être conformes aux prescriptions allemandes "Technische Regeln für brennbare
+Flüssigkeiten (TRBF)", ou à des règles reconnues comme garantissant un niveau de sécurité
+équivalent pour cet usage par un organisme de contrôle, et acceptées comme telles par
+l'Inspection de Travail et des Mines.
+
+5.2. Toutes les canalisations exploitées dans un régime en surpression qui ne sont pas
+installées en surface doivent être du type à double paroi (métallique, concentrique et continu)
+équipées d'un dispositif de détection de fuite approprié.
+
+5.3. La canalisation fixe de remplissage doit être à pente descendante à 1% vers le réservoir
+sans aucun point bas. Toutes les dispositions matérielles sont à prendre pour éviter
+l'écoulement du produit par la bouche de remplissage.
+
+5.4. L'orifice de la canalisation de remplissage doit être équipé d'un raccord fixe d'un modèle
+conforme correspondant à ceux équipant les tuyaux flexibles de raccordement des camions-
+citernes. Afin d'éviter des confusions ils sont à identifier clairement.
+
+5.5. A proximité de l'orifice de remplissage doivent être mentionnées, de façon apparente, des
+indications permettant d'identifier sans équivoque le produit contenu dans le réservoir d'où est
+issue cette canalisation.
+
+Art. 6. - Jaugeage
+
+6.1. Chaque réservoir doit être équipé d'un dispositif permettant de connaître à tout moment le
+volume du liquide contenu.
+
+6.2. Tout orifice permettant le jaugeage direct doit être fermé par un obturateur étanche en
+dehors des opérations de jaugeage.
+
+6.3. Un jaugeage direct ne doit pas être effectué pendant le remplissage du réservoir.
+
+
+
+
+page 4 de 8 pages                                                      ITM-SST 1903.1
+Art. 7. - Contrôle de remplissage
+
+7.1. Toute opération de remplissage doit être contrôlée par un dispositif de sécurité (p.ex.
+limiteur de remplissage) qui doit interrompre automatiquement le remplissage du réservoir
+lorsque le niveau maximal d'utilisation est atteint. Il est interdit de faire subir au limiteur de
+remplissage en exploitation des pressions supérieures à la pression de service.
+
+7.2. Il appartient à l'utilisateur ou à la personne qu'il a déléguée à cet effet de contrôler avant
+chaque remplissage du réservoir que celui-ci est capable d'admettre sans risque de
+débordement la quantité de produit à livrer.
+
+7.3. Avant le remplissage du réservoir, tous les autres orifices (hormis ceux prévus pour
+l'aération) doivent être fermés.
+
+Art. 8. - Dispositions générales concernant la construction et l'installation
+
+8.1. Les réservoirs et les canalisations doivent présenter toutes les garanties désirables de
+solidité, de rigidité, de stabilité et d'étanchéité.
+
+8.2. Toutes les installations du stockage doivent être interliées par une liaison équipotentielle.
+
+8.3. Toutes précautions sont à prendre pour protéger les réservoirs, accessoires et
+canalisations de la corrosion interne et externe.
+
+8.4. Toutes les installations ainsi que les équipements concomitants du refoulement des gaz
+doivent être du type antidéflagrant.
+
+8.5. Aucune canalisation d'alimentation en eau et d'évacuation d'eaux usées, de gaz ou
+d'électricité ne peut passer à une distance du ou des réservoirs inférieure à 0,50 m mesurée en
+projection sur le plan horizontal.
+
+Art. 9. - Event (tube d'aération)
+
+9.1. Chaque réservoir doit être équipé individuellement d'un ou de plusieurs tubes d'évent
+fixes, d'une section totale au moins égale au quart de la somme des sections des canalisations
+de remplissage et ne comportant ni robinet, ni obturateur. Ces tubes doivent être fixés à la
+partie supérieure du réservoir, au-dessus du niveau maximal du liquide emmagasiné, avoir
+une direction ascendante et ne comporter qu'un minimum de coudes.
+
+Leurs orifices, munis d'un grillage évitant la propagation de la flamme, doivent être protégés
+contre la pluie et déboucher à l'air libre en un endroit visible depuis le point de livraison.
+
+Pour les réservoirs contenant des liquides d'un point d'éclair inférieur ou égal à 21°C (p.ex.
+essences) les orifices d'évent doivent se trouver à au moins 4 mètres au-dessus du niveau de
+l'aire de stationnement du véhicule livreur et à une distance horizontale minimale de 3 mètres
+de toute cheminée, ligne à haute tension, feu nu, porte ou fenêtre de locaux habités ou
+occupés.
+
+Les gaz et vapeurs évacués par l'évent ne doivent pas gêner les tiers par les odeurs.
+
+
+
+
+page 5 de 8 pages                                                        ITM-SST 1903.1
+9.2. Les tuyaux d'aération des réservoirs équipés d'un système de récupération des vapeurs de
+gaz d'essence ne peuvent toutefois avoir un diamètre dépassant 10 mm.
+
+9.3. Les tuyaux d'aération doivent être à pente descendante à 1% vers le réservoir sans aucun
+point bas.
+
+Art. 10. - Protection contre la foudre
+
+Les installations de stockage et de transvasement de liquides inflammables tout comme les
+installations de refoulement de gaz doivent être convenablement protégées contre la foudre
+(DIN57185/VDE 0185).
+
+Art. 11. - Moyens de lutte contre l'incendie
+
+Des moyens de secours contre l'incendie, en rapport avec le genre et l'importance du dépôt
+sont à installer et maintenir en bon état. En particulier, des extincteurs portatifs normalisés
+pour feux d'hydrocarbures doivent être placés en nombre suffisant en des endroits bien
+visibles, facilement accessibles et être signalisés par des pictogrammes prévus par le
+règlement grand-ducal du 28 mars 1995 concernant les prescriptions minimales pour la
+signalisation de sécurité et/ou de santé au travail.
+
+Art. 12. - Réception de l'installation
+
+12.1. Les réservoirs doivent subir avant leur mise en service ou après une réparation
+éventuelle, une épreuve hydraulique à une pression de 2 bars sous la responsabilité du
+constructeur ou du réparateur. Cette épreuve doit être effectuée avant le placement du
+revêtement de protection. Il ne doit en résulter aucune déformation permanente du réservoir ni
+aucune fuite.
+
+Le certificat de cette épreuve, ainsi que le certificat de la conformité aux normes DIN (ou le
+certificat d'équivalence) doivent être remis en copie à l'organisme de contrôle.
+
+12.2. L'étanchéité des réservoirs ainsi que celle de tous les raccords, joints, tampons et
+canalisations doit être vérifiée à une pression pneumatique de 300 millibars sous la
+surveillance d'un organisme de contrôle avant la mise en service de toute l'installation et avant
+le remblayage.
+
+12.3. La conformité de l'installation aux normes et règles de sécurité telles que définies sub 3
+ci-dessus et les épreuves et essais d'étanchéité, telles que définis sub 12.1. ci-dessus, donnent
+lieu à la rédaction de procès-verbaux dans lesquels l'organisme de contrôle consigne la date,
+les conditions et les résultats de l'opération. Ces documents sont à remettre à l'usager qui les
+tiendra à la disposition des organes de contrôle; deux copies en sont à transmettre pour visa à
+l'Inspection du Travail et des Mines, dont un exemplaire est retourné au propriétaire du
+réservoir.
+
+Art. 13. - Vérifications périodiques
+
+13.1. Les réservoirs souterrains à double paroi et les éventuelles canalisations à double paroi
+s'y rapportant doivent subir au moins une fois par an un contrôle du bon fonctionnement des
+dispositifs de détection automatiques de fuite. Ce contrôle est à effectuer sous la surveillance
+d'un organisme de contrôle.
+
+
+page 6 de 8 pages                                                       ITM-SST 1903.1
+13.2. Les réservoirs aériens à double paroi et les éventuelles canalisations à double paroi s'y
+rapportant doivent subir tous les ans un contrôle du bon fonctionnement des dispositifs de
+détection de fuite par un responsable du dépôt. Ce contrôle est à effectuer tous les cinq ans
+sous la surveillance d'un organisme de contrôle.
+
+13.3. Toutes les 5 années l'étanchéité des canalisations mono-paroi doit être vérifiée à une
+pression de 300 millibars sous la surveillance d'un organisme de contrôle.
+
+13.4. A l'occasion de chaque vérification, l'organisme de contrôle envoie, pour visa à
+l'Inspection du Travail et des Mines, le certificat en double expédition avec les dates et
+résultats des contrôles. Après visa un exemplaire en est remis à l'exploitant.
+
+13.5. Tout réservoir ou toute canalisation qui n'a pas passé avec succès les contrôles précités
+doit être mis hors service sans délai.
+
+Art. 14. - Entretien - Exploitation
+
+14.1. Toute opération de remplissage doit s'effectuer sous surveillance de la personne chargée
+du transvasement.
+
+14.2. Les opérations de transvasement des liquides inflammables doivent se faire sur un sol
+incombustible, imperméable, résistant à l'huile et à l'essence et disposé de façon à recueillir
+les égouttures.
+
+14.3. Le remplissage par pompage des réservoirs souterrains est interdit.
+
+14.4. L'exploitant doit tenir en réserve un stock suffisant de produits pour l'absorption des
+hydrocarbures afin de pouvoir intervenir rapidement en cas de déversement accidentel.
+
+14.5. Il doit être porté immédiatement remède à toute défectuosité pouvant compromettre la
+sécurité et la santé du voisinage ou du personnel.
+
+14.6. L'installation doit être maintenue en état d'étanchéité parfaite et les appareils ainsi que
+les dépendances de l'établissement doivent toujours être conservés en bon état.
+
+14.7. Tout réservoir en service dont le manque d'étanchéité est constaté doit être
+immédiatement vidangé en vue de sa mise hors service, de son remplacement ou de sa
+réparation.
+
+14.8. Conformément à l'article 20 de la loi modifiée du 10 juin 1999 relative aux
+établissements classés, une nouvelle demande d'autorisation doit être présentée avant la
+remise en service de tout réservoir ayant présenté un manque d'étanchéité.
+
+14.9. Tout remplacement d'un réservoir est soumis à une nouvelle autorisation.
+
+14.10. Pendant les opérations de transvasement il est interdit de fumer à proximité de ces
+opérations, d'y utiliser des appareils à feu nu ou de s'y livrer à des travaux susceptibles de
+produire des étincelles.
+
+14.11. Il est interdit de faire la distribution du produit contenu dans le réservoir pendant les
+opérations de transvasement de ce produit.
+
+
+page 7 de 8 pages                                                       ITM-SST 1903.1
+Art. 15. - Travaux d'entretien à l'intérieur des réservoirs
+
+15.1. Les travaux d'entretien à l'intérieur des réservoirs doivent être placés sous la
+responsabilité d'une personne qualifiée. Ils doivent être exécutés par un personnel
+expérimenté.
+
+15.2. Avant tout travail d'entretien à l'intérieur du réservoir, celui-ci doit être débarrassé de
+toutes vapeurs inflammables.
+
+15.3. Avant que quiconque ne pénètre dans le réservoir, l'atmosphère de celui-ci doit être
+contrôlée à l'explosimètre par une personne qualifiée afin de vérifier l'absence de vapeurs
+inflammables.
+
+15.4. Les travailleurs chargés de la visite d'un réservoir doivent porter un appareil respiratoire
+approprié. Ils doivent en plus porter une ceinture de sûreté reliée à une corde aboutissant à
+l'extérieur et tenue par des personnes spécialement désignées pour surveiller les opérations et
+effectuer éventuellement les sauvetages.
+
+15.5. Pendant les opérations de nettoyage un courant d'air permanent et efficace est entretenu
+dans le réservoir.
+
+15.6. S'il est fait usage d'appareils électriques, ceux-ci doivent être du type "antidéflagrant" et
+être adaptés à des travaux à l'intérieur d'une enceinte métallique (DIN 57100/VDE 0100).
+
+Art. 16. - Réservoirs "hors service"
+
+16.1. Les réservoirs enterrés abandonnés et les réservoirs enterrés qui présentent une fuite
+doivent être vidés et neutralisés (remplissage de sable, de béton maigre, etc.) ou être retirés du
+sol après dégazage. Il est interdit de les neutraliser en les remplissant d'eau.
+
+16.2. Les réservoirs à double paroi aériens qui présentent une fuite doivent être vidés.
+
+16.3. L'Inspection du Travail et des Mines doit être informée dans un délai d'un mois de tout
+réservoir mis hors service.
+
+
+
+
+              Visa du directeur adjoint                            Mise en vigueur
+              de l’Inspection du travail                            le 11.12.2007
+                     et des mines
+                                                                           s.
+
+                                                                     Paul WEBER
+                    Robert Huberty                                     Directeur
+                                                               de l’Inspection du travail
+                                                                      et des mines
+
+
+
+
+page 8 de 8 pages                                                          ITM-SST 1903.1
+

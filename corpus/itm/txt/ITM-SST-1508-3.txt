@@ -1,0 +1,621 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                            Strassen, septembre 2012
+
+
+                      Le présent texte a été établi par l’Inspection du travail et des mines et
+                         le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                               ITM-SST 1508.3
+
+                          Prescriptions de prévention incendie
+                                DISPOSITIONS SPÉCIFIQUES
+        Etablissements de vente – Centres Commerciaux
+                                             Le présent document comporte 11 pages
+
+                                                                  SOMMAIRE
+    Article                                                                                                         Page
+
+     1)                   Objectifs et domaine d'application                                                              2
+     2)                   Définitions                                                                                     2
+     3)                   Implantation                                                                                    3
+     4)                   Aménagements extérieurs                                                                         3
+     5)                   Construction                                                                                    3
+     6)                   Aménagements intérieurs                                                                         3
+     7)                   Compartimentage                                                                                 4
+     8)                   Evacuation de personnes, issues et dégagements intérieurs                                       5
+     9)                   Eclairage                                                                                       6
+    10)                   Désenfumage (Evacuation de fumée et de chaleur)                                                 6
+    11)                   Installations techniques                                                                        7
+    12)                   Installations au gaz                                                                            7
+    13)                   Installations électriques                                                                       7
+    14)                   Prévention de panique en cas d'alarme                                                           7
+    15)                   Moyens de secours et d'intervention                                                             7
+    16)                   Registre de sécurité                                                                            8
+    17)                   Réception et contrôles                                                                          8
+    Annexe I              Exemple de calcul d’évacuation de personnes                                                     9
+
+
+        _____________________________________________________________________________________________________________________
+        Direction, Département Sécurité et Santé
+        Adresse postale : Boîte postale 27   L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs, L-2361 Strassen    Tél : 247-86145   Fax: 49 14 47
+        Site Internet : http://www.itm.lu
+Art. 1 Objectif et domaine d'application
+1.1. Généralités
+Les établissements sont soumis aux dispositions générales ITM-SST 1501, 1502 resp. 1503,
+applicables à tous les établissements et aux présentes dispositions.
+
+1.2. Domaine d’application
+Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité, de santé, d'hygiène, de salubrité et de commodité par rapport au personnel et au
+public de tous les établissements dont la surface est supérieure à 600 m².
+Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en cas,
+mais uniquement si sont prises de mesures de rechange présentant des garanties de sécurité au
+moins équivalentes.
+
+Art. 2 Définitions
+2.1. Les définitions générales sont données par la prescription ITM-SST 1500.
+
+2.2. Etablissements de vente / Centres commerciaux
+Les établissements concernés par les dispositions ci-après sont :
+               les magasins,
+               les centres commerciaux avec ou sans mail,
+               les supermarchés et tout autre établissement dont l’activité principale est la
+                  vente de produits destinés au public, professionnel ou non.
+Ces établissements sont composés d’une ou plusieurs surfaces de vente proprement dites et de
+locaux dits attenants directement liés à l’activité des établissements (stockages, préparations
+des produits...).
+Il y a lieu de considérer la surface totale d’un établissement comme étant la somme des
+surfaces de vente et des locaux attenants.
+
+2.3. Centre commercial
+Le centre commercial est composé de plusieurs établissements de vente et d’autres
+établissements recevant du public comme par exemple des bars, restaurants, salles de
+spectacles, cinémas, reliés ou non par un mail.
+
+2.4. Mail
+Les mails sont des espaces qui s’assimilent aux passages couverts fermés voire à des galeries
+de liaison (galeries marchandes). Ils servent de liaison, de communication et d’évacuation
+pour les différents établissements composant le centre commercial.
+
+2.5. Etablissements de vente à risques particuliers
+Certains établissements de vente présentent des risques particuliers d’incendie qu’il s’agisse
+du potentiel calorifique ou du risque élevé de propagation du feu.
+
+Il s’agit principalement des magasins de meubles, de vêtements, de peintures, solvants et
+produits divers, de jouets, de matériaux de construction (bois et dérivés).
+
+
+
+Page 2 de 11 pages                                                              ITM-SST 1508.3
+2.6. Les différents établissements sont classés en trois catégories :
+         Etablissements de catégorie I
+              tout établissement ayant une surface totale supérieure à 3.000 m2,
+              tout établissement de plus de trois niveaux ayant une surface totale
+                  supérieure à 2.000 m2.
+         Etablissements de catégorie II
+              tout établissement ayant une surface totale comprise entre 2.000 m2 et
+                  3.000 m2,
+              tout établissement de plus de trois niveaux ayant une surface totale
+                  comprise entre 1.000 m2 et 2.000 m2.
+         Etablissements de catégorie III
+               tout établissement ayant une surface totale comprise entre 600 m2 et
+                  2.000 m2,
+
+Art. 3 Implantation
+Voir dispositions générales.
+
+Art. 4 Aménagements extérieurs
+4.1. En complément des dispositions générales, toutes les mesures devront être prises pour
+sécuriser au maximum le public au droit des sorties de secours qu’il s’agisse des accès
+principaux ou des sorties non utilisées habituellement. Une distance de sécurité de 6 m entre
+la voie de circulation et les accès principaux de l’établissement, pour les établissements de
+1ère catégorie est à prévoir.
+
+4.2. Pour les établissements dont la surface au sol est supérieure à 2.000 m² (emprise au sol
+des constructions), une voie de circulation périphérique devra être conçue de façon à
+permettre la libre circulation des services de secours. Au droit des accès de livraisons, des
+élargissements de chaussées doivent être prévus afin de libérer en permanence cette voie.
+
+4.3. Dans le cas où des barrières ou tout autre système de fermeture étaient mis en place afin
+de sécuriser l’établissement pendant ou en dehors des heures d’ouverture, ils devront être
+soumis à l’avis et à l’autorisation des services d’incendie. Ils ne doivent en aucun cas
+empêcher ou freiner l’intervention des services d’incendie.
+
+Art. 5 Construction
+Aucune exigence de stabilité au feu de la structure n’est requise pour les établissements à
+simple rez-de-chaussée équipé d’une extinction automatique.
+
+Art. 6 Aménagements intérieurs
+6.1. Réaction au feu des matériaux et des aménagements intérieurs
+6.1.1. Les draperies, tentures et tout autre élément de décoration permanente doivent être
+difficilement inflammables (Euroclasse C s2d1).
+
+
+
+
+Page 3 de 11 pages                                                             ITM-SST 1508.3
+6.1.2. Les éléments de décoration ou d’habillages flottants non permanents doivent être très
+combustibles (Euroclasse D s2d2). Toutefois, des dérogations pourront être accordées par
+l'autorité compétente en ce qui concerne les guirlandes et objets légers de décoration.
+
+6.2. Aménagement des mails
+6.2.1. Les mails peuvent recevoir des aménagements fixes ou provisoires du type ventes
+promotionnelles, bars, aires de repos, kiosques divers. Ces aménagements seront situés
+obligatoirement sur l’axe du mail. Des circulations principales d’une largeur minimale de 3 m
+sont à prévoir de part et d’autre des aménagements (le long des boutiques formant le mail)
+recoupées par des circulations secondaires d’une largeur minimale de 2 m espacée au
+maximum de 10 m.
+6.2.2. Un plan d’aménagement sera établi dès le permis de construire et sera soumis aux
+autorités compétentes.
+Ce plan indiquera clairement les zones qui pourront recevoir ces aménagements.
+
+6.3. Aménagement des surfaces de vente
+6.3.1. Les circulations principales devront avoir une largeur libre minimale de 3,00 m.
+6.3.2. Les circulations secondaires devront avoir une largeur libre minimale de 2,00 m.
+6.3.3. Les rayonnages devront avoir une longueur maximale de 15 m.
+6.3.4. Aucune de ces circulations ne devra être en cul-de-sac.
+6.3.5. Les îlots aménagés sans rayonnage devront être conçus de façon à permettre, dans tous
+les cas, une évacuation facile et rapide du public en cas de panique.
+6.3.6. Un plan d’aménagement sera établi dès le permis de construire et sera soumis aux
+autorités compétentes.
+
+6.4. Mesures particulières
+L’utilisation d’appareils présentant des dangers devra faire l’objet d’informations voire de
+formations spécifiques (par exemple les appareils à laser....).
+
+Art. 7 Compartimentage
+7.1. L’article 7.2.1 des dispositions générales n’est pas applicable.
+
+7.2. Les commerces installés dans les mails ou galeries marchandes doivent être isolés les
+uns par rapport aux autres par des parois (murs et planchers) coupe-feu 60 minutes (EI60) au
+moins. Dans le cas où l’établissement est équipé d’une installation d’extinction automatique,
+aucune résistance au feu de ces parois n’est exigée.
+Les façades vers le mail de ces commerces n’ont pas de critère de résistance au feu à
+respecter.
+
+7.3. Toutefois au droit des écrans de cantonnements situés dans les mails (article 10.8), il y a
+lieu de mettre en place un isolement de façade latéral de 1m satisfaisant au critère pare-
+flamme une heure.
+
+7.4. En dérogation aux articles 7.5.1 des dispositions générales, en présence d’une installation
+de sprinklage, le compartimentage des dépôts liés à l’établissement de vente peut être
+simplement coupe-fumée.
+
+
+Page 4 de 11 pages                                                               ITM-SST 1508.3
+Art. 8 Evacuation de personnes, issues et dégagements intérieurs
+8.1. L'effectif du public est déterminé en prenant en compte les nombres suivants:
+        Mail                             1p / 5 m2           indépendamment du niveau
+        Les mails ne sont pas comptabilisés pour les étages réservés exclusivement à la
+        restauration.
+        Etablissement de moins de 600 m2 1p / 10 m2                  au rez-de-chaussée
+                                             1p / 20 m2              aux étages et sous-sols
+        20 % de la surface brute est déduite pour stocks, sanitaires, réfectoire, bureau
+        Etablissement de plus de 600 m2       1p / 3,3 m2            indépendamment du niveau
+
+        Magasin de meubles, de jardinage      1p / 25 m2             indépendamment du niveau
+
+        Restaurants                          1p / 1 m2               indépendamment du niveau
+        30 % de la surface brute est déduite pour cuisine, sanitaires, comptoirs etc.
+
+8.2. En aggravation de l’article 8.4.1 des dispositions générales, pour les différents
+établissements et les mails dont la surface est supérieure à 600 m², la largeur de ces sorties
+doit être calculée sur la base de 1 cm par personne pour les 300 premiers visiteurs et 0,75 cm
+par personne pour plus de 300.
+
+8.3. En aggravation de l’article 8.8.3 des dispositions générales, pour les différents
+établissements et les mails dont la surface est supérieure à 600 m², la largeur de ces escaliers
+doit être calculée sur la base de 1,25 cm par personne pour un escalier descendant et de 2 cm
+par personne pour un escalier montant.
+
+8.4. Les établissements d’une surface supérieure à 300 m2 doivent offrir à 50 % de l’effectif
+des sorties indépendantes des mails soit directement sur l’extérieur soit par des compartiments
+d’issues.
+
+8.5. Les escalators peuvent être pris en considération dans le calcul des largeurs d’évacuation
+réglementaires. Toutefois ils ne peuvent être pris en compte dans le nombre de ces escaliers.
+La largeur d’évacuation considérée pour les escalators est calculée sur la base de 3,75 cm par
+personne pour un escalator descendant et de 6,00 cm par personne pour un escalator montant.
+Les escalators doivent s’arrêter lors d’une détection incendie.
+Les travellators par contre ne doivent pas être pris en considération dans le calcul des largeurs
+d’évacuation réglementaires. Ils doivent continuer à fonctionner même lors d’une détection
+incendie.
+
+8.6. En allègement des dispositions générales, pour le calcul de la largeur des escaliers et des
+sorties de secours, un taux d’occupation de 75 % peut être appliqué pour le cumul des
+personnes à évacuer de deux ou plusieurs niveaux.
+
+8.7. Le calcul du nombre et de la largeur des sorties doit se faire à partir de l’effectif théorique
+total pour chaque niveau et chaque établissement.
+Au niveau d’évacuation le calcul du nombre et de la largeur des sorties doit se faire à partir de
+l’effectif total des personnes du niveau d’évacuation et des personnes en provenance des
+étages supérieurs, par les escaliers intérieurs et escalators.
+Le nombre de sorties du mail doit être calculé à partir de l’effectif cumulé du mail et de tous
+les établissements donnant vers le mail.
+
+
+Page 5 de 11 pages                                                                  ITM-SST 1508.3
+8.8. De tout point d’un établissement, le public doit parcourir au maximum 35 m pour
+atteindre une issue de secours donnant, directement ou par l’intermédiaire d’un compartiment
+d’issue, sur l’extérieur ou pour atteindre le mail (par exemple au droit des caisses).
+
+8.9. De tout point du mail, le public doit parcourir au maximum 35 m pour atteindre une sortie
+donnant directement sur l’extérieur ou vers un compartiment d’issues donnant vers l’extérieur.
+
+8.10. Les caisses doivent respecter les dispositions suivantes :
+             de part et d'autres de l’ensemble des caisses des dégagements de 1,20 m au
+              moins devront être aménagés.
+             si le nombre de caisses est supérieur à dix, il y a lieu d’aménager des
+              dégagements intermédiaires de 1,20 m au moins, par groupe de dix caisses et
+              judicieusement répartis.
+
+Art. 9 Eclairage
+Pour les établissements de catégorie I, un éclairage de remplacement devra être mis en œuvre
+conformément à l’article 9.2 des dispositions générales.
+
+Art. 10 Désenfumage (Evacuation de fumée et de chaleur)
+10.1. Tous les établissements d’une surface supérieure à 600 m² doivent être désenfumés.
+Cette surface est ramenée à 300 m² pour les établissements présentant des risques particuliers
+d’incendie.
+
+10.2. Tous les locaux de réserve, de stockage d’une surface supérieure à 600 m² doivent être
+désenfumés. Cette surface est ramenée à 300 m² pour les espaces de stockage des
+établissements de vente présentant des risques particuliers d’incendie.
+
+10.3. Les mails étant assimilés à des passages couverts fermés ou à des galeries de liaison
+devront être désenfumés.
+
+10.4. Le désenfumage des locaux situés en sous-sol devra obligatoirement être mécanique et
+asservie à la détection incendie.
+
+10.5. Le désenfumage des locaux situés en étage ou en rez-de-chaussée peut être naturel ou
+mécanique.
+
+10.6. La hauteur du niveau inférieur de la couche de fumée par rapport au sol doit être d'au
+moins 2,50 m.
+
+10.7. Si les risques d'inflammation et d'embrasement généralisés sont importants (stockage), le
+niveau inférieur de la couche de fumée doit se trouver à 0,5 m au dessus des marchandises
+stockées.
+
+10.8. La superficie d'un canton de fumée ne peut être supérieure à 1.600 m2. Les
+établissements doivent être séparés des mails par des écrans de cantonnement. La longueur
+d'un canton de fumée ne peut excéder 40 m pour les surfaces de vente, 60 m pour les mails et
+galeries marchandes. Les écrans de cantonnement devront être coupe-fumée 30 minutes et au
+moins faiblement combustibles (Euroclasse B s1d0).
+
+
+
+
+Page 6 de 11 pages                                                              ITM-SST 1508.3
+Art. 11 Installations techniques
+Voir dispositions générales.
+
+Art. 12 Installations au gaz
+Voir dispositions générales.
+
+Art. 13 Installations électriques
+Voir dispositions générales.
+
+Art. 14 Prévention de panique en cas d'alarme
+Voir dispositions générales.
+
+Art. 15 Moyens de secours et d'intervention
+15.1. Alarme
+15.1.1. Le fonctionnement de l'alarme générale doit être interrompu par diffusion d'un
+message préenregistré préconisant en clair l'ordre d'évacuation. Il doit également mettre à
+l'arrêt la sonorisation et commander la mise en lumière normale ou d'ambiance.
+15.1.2. Toutefois, les établissements de catégorie I seront équipés d’une alarme restreinte
+adressée au service de sécurité incendie qui prendra alors toutes les dispositions pour évacuer
+le public sans panique ou qui prendra la décision de donner l’alarme sélective ou générale.
+
+15.2. Détection automatique d’incendie
+Tous les établissements devront être équipés d’une détection automatique d’incendie.
+Tous les locaux et espaces, accessibles ou non au public, devront être équipés de détecteurs à
+incendie.
+
+15.3. Robinets d’incendie armés
+Dans les établissements d’une surface supérieure à 600 m2 des robinets d’incendie armés sont
+obligatoires.
+
+15.4. Extinction automatique
+15.4.1. Les établissements de catégorie I devront être équipés d’un système d’extinction
+automatique.
+15.4.2. Les établissements de catégorie II, de plus de trois niveaux ou présentant des risques
+particuliers d’incendie, devront être équipés d’un système d’extinction automatique.
+15.4.3. Les établissements de catégorie III, de plus de trois niveaux ou présentant des risques
+particuliers d’incendie, pourront à la demande des autorités compétentes, être équipés d’un
+système d’extinction automatique.
+15.4.4. Lorsque l’établissement doit être équipé d’une installation d'extinction automatique,
+tous les locaux, qu’ils soient à risques ou non, devront être équipés.
+
+15.5. Service de sécurité incendie
+15.5.1. L'exploitant doit organiser un service de sécurité incendie. Celui-ci devra être en
+mesure d'assurer une première intervention en cas d'incendie et les premiers secours en cas de
+malaise.
+
+
+Page 7 de 11 pages                                                              ITM-SST 1508.3
+15.5.2. Le service de sécurité incendie sera composé, en fonction de l’effectif théorique, selon
+le tableau suivant:
+
+
+                                                         Nombre de personnes
+     Niveau de qualification
+                                            200 -1.500     1.500 - 3.000                 > 3.000
+
+      Préposé à la sécurité                                         1
+
+       Agents de sécurité
+                                                                                          2+ *
+           Type M1
+       Agents de sécurité
+                                                1               2
+           Type M2
+       Agents de sécurité
+                                                3               6                          6
+           Type M3
+
+* 1 agent supplémentaire par tranche de 1.000 personnes
+
+
+Art. 16 Registre de sécurité
+Voir dispositions générales.
+
+Art. 17 Réception et contrôles
+Voir dispositions générales.
+
+
+
+
+               Visa du Directeur adjoint                            Mise en vigueur, le 26.10.2012
+               de l’Inspection du travail
+                      et des mines                                                  s.
+
+                           s.                                                 Paul WEBER
+                                                                                Directeur
+                     Robert HUBERTY                                     de l’Inspection du travail
+                                                                               et des mines
+
+
+
+
+Page 8 de 11 pages                                                                          ITM-SST 1508.3
+                                                    ANNEXE I
+
+           Cacul des sorties d’une exemple de centre commercial
+
+
+
+
+DONNEES DU PROJET
+Données du bâtiment
+nom du projet                      Centre commercial IPSY
+
+rue                                rue du Feu                                                    no.      112
+
+code postale             L-             1234                                             Luxembourg
+
+nombre de niveaux                          4                                 nombre de sous-sols           1
+
+nombre d'escalators                        0                                 date (jj / mm / aaaa)     24/02/2012
+
+hauteur (h)                                                7m ≤ h ≤ 22m - bâtiment moyen
+(hauteur du dernier niveau exploitable par rapport au niveau de référence)
+
+
+
+
+                                        Architecture du projet
+
+
+
+
+Page 9 de 11 pages                                                                             ITM-SST 1508.3
+Légende
+
+                 sanitaires                                     magasin de meubles, de jardinage                         dépôt
+
+                 commerce                                       restaurant                                               mail
+
+
+
+
+            Sous-sol (1560 m2)                                                       rez-de-chaussée (1560 m2)
+
+
+    120m2                                                                           240m2
+
+
+                                840m2
+                                                                                                      720m2
+
+
+
+
+                             360m2                                                                 360m2
+
+
+     60m2             60m2            60m2           60m2                    60m2           60m2            60m2         60m2
+
+
+
+
+               1ier étage (1560 m2)                                                   2ième étage (1560 m2)
+
+
+
+
+    240m2                                                                                   720m2                        240m2
+                                720m2
+
+
+
+
+                              360m2                                                                 360m2
+
+
+     60m2             60m2                   120m2                            60m2                          180m2
+
+
+
+
+                                                            Résultat
+Nombre d'escaliers hors-sol:                               3
+Largeur totale [m]                                    8,20 m
+Nombre d'escaliers sous-sol:                               2
+Largeur totale [m]                                    4,56 m
+Nombre de sorties au rez-de-chaussée:                       4
+si non regroupés:                                           7
+Nombre de sorties accessoires:                              0
+Largeur totale des sorties au rez-de-chaussée [m]:          10,84
+Effectif total [p]:              1158
+
+
+
+
+Page 10 de 11 pages                                                                                                ITM-SST 1508.3
+                                                                                                                                                                                                                                          Tableau de calcul
+
+
+
+
+                                                                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                                                                                2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           largeur totale cummulé des escalier [m]
+                                                                                                                                       nombre de sorties supplémentaires*****
+                                                                             ]
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     largeur moyenne par escalier [m] ******
+                                                                                                                                                                                                                                                                                densité d'occupation considérée [p/m
+                                                                                                                                                                                    *** [%]
+                                                                            2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            largeur moyenne par sortie [m] ******
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    personnes évaquées par escalator(s)
+                                                                                                                                                                                                                                                                                                                                                                                  nombre de sorties / escaliers prescris
+                                                                                                                                                                                                                                           surface nette d'exploitation [m 2]
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                 effectif théorique cummulé [p]
+                                                                             surface considérée par étage [m
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                           nombre de sorties accessoires
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         largeur totale des escalier [m]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         largeur totale des sorties [m]
+                                                                                                                                                                                                           facteur restaurants **** [%]
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          coefficient escaliers [cm/p]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            coefficient sorties [cm/p]
+                                                                                                               taux d'occupation [%]
+
+
+
+
+                                                                                                                                                                                   2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                       effectif théorique [p]
+                                                                                                                                                                                facteur commerce ≤ 600m
+                                    Exploitation
+ Niveau
+
+
+
+
+          -                                                                       0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+          -                                                                       0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+  6
+          -                                                                       0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+                             TOTAL N6                                             0                                                           0                                                                                                     0                                                                      0                          0                                  0                                      0                          0,00                          0,00                              0,00                                           0                               0,00                           0,00                              0,00                                      0,00
+
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+  5
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+                             TOTAL N5                                             0                                                           0                                                                                                     0                                                                      0                          0                                  0                                      0                          0,00                          0,00                              0,00                                           0                               0,00                           0,00                              0,00                                      0,00
+
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+  4
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+                             TOTAL N4                                             0                                                           0                                                                                                     0                                                                      0                          0                                  0                                      0                          0,00                          0,00                              0,00                                           0                               0,00                           0,00                              0,00                                      0,00
+
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+  3
+    -                                                                             0                            100                                                              100 100                                                             0                           0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+                             TOTAL N3                                             0                                                           0                                                                                                     0                                                                      0                          0                                  0                                      0                          0,00                          0,00                              0,00                                           0                               0,00                           0,00                              0,00                                      0,00
+
+    Restaurant assis***                                                    720                                  75                                                              100 70                                                     504                                  1,00                                   378                                                                                                                                 0,95                                                                                                                                           1,25
+    Restaurant assis***                                                    180                                  75                                                              100 70                                                     126                                  1,00                                   95                                                                                                                                  1,00                                                                                                                                           1,25
+  2 Restaurant assis***                                                    240                                  75                                                              100 70                                                     168                                  1,00                                   126                                                                                                                                 1,00                                                                                                                                           1,25
+    Mail - exclusivement restaurartion**                                   360                                  75                                                              100 100                                                    360                                  0,00                                       0                                                                                                                               1,00                                                                                                                                           1,25
+                    TOTAL N2                                              1500                                                                0                                                                                            1158                                                                        599                      599                                      3                                      0                          0,97                          5,24                              1,75                                           0                               1,25                           7,48                              7,48                                      2,49
+
+    Magasin de meubles, de jardinage                                       720                                  75                                                              100 100                                                    720                                  0,04                                   22                                                                                                                                  1,00                                                                                                                                           1,25
+    Magasin de meubles, de jardinage                                       120                                  75                                                              100 100                                                    120                                  0,04                                       4                                                                                                                               1,00                                                                                                                                           0,75
+  1 Magasin de meubles, de jardinage                                       60                                   75                                                              100 100                                                    60                                   0,04                                       2                                                                                                                               1,00                                                                                                                                           0,75
+    Mail                                                                   360                                  75                                                              100 100                                                    360                                  0,20                                   54                                                                                                                                  0,60                                                                                                                                           0,75
+                 TOTAL N1                                                 1260                                                                0                                                                                            1260                                                                        81                       680                                      2                                      0                          0,73                          1,80                              0,90                                           0                               0,88                           2,40                              8,20                                      1,20
+
+    Commerce > 600m2                                                       720                                  75                                                              100 100                                                    720                                  0,30                                   164                                                                                                                                 1,00
+    Commerce au rez-de-chaussée ≤ 600m2                                    60                                   75                                                                 80 100                                                  48                                   0,10                                       4                                                                                                                               0,60
+    Commerce au rez-de-chaussée ≤ 600m2                                    60                                   75                                                                 80 100                                                  48                                   0,10                                       4                                                                                                                               0,60
+  0
+    Commerce au rez-de-chaussée ≤ 600m2                                    60                                   75                                                                 80 100                                                  48                                   0,10                                       4                                                                                                                               0,60
+    Mail                                                                   360                                  75                                                              100 100                                                    360                                  0,20                                   54                                                                                                                                  0,60
+                TOTAL REZ                                                 1260                                                                0                                                                                            1224                                                                        228                      1158                                     4                                      0                          0,89                          8,33                              1,14                                           0
+
+    Commerce > 600m2                                                       840                                  75                                                              100 100                                                    840                                  0,30                                   191                                                                                                                                 1,00                                                                                                                                           2,00
+    Commerce ≤ 600m2                                                       60                                   75                                                                 80 100                                                  48                                   0,05                                       2                                                                                                                               0,60                                                                                                                                           1,25
+    Commerce ≤ 600m2                                                       60                                   75                                                                 80 100                                                  48                                   0,05                                       2                                                                                                                               0,60                                                                                                                                           1,25
+ -1
+    Commerce ≤ 600m2                                                       60                                   75                                                                 80 100                                                  48                                   0,05                                       2                                                                                                                               0,60                                                                                                                                           1,25
+    Mail                                                                   360                                  75                                                              100 100                                                    360                                  0,20                                   54                                                                                                                                  0,60                                                                                                                                           1,25
+                 TOTAL -1                                                 1380                                                                0                                                                                            1344                                                                        250                      250                                      2                                         -                       0,91                          2,50                              1,25                                           0                               1,82                           4,56                              4,56                                      2,28
+
+* Pour les locaux sanitaires et les dépôts, la densité d'occupation peut être considérée nulle                                                                                                            ** Les mails ne sont pas comptabilisés pour les étages réservés exclusivement à la restauration                                                                                                                                                                                                                 *** 20% de la surface brute est déduite pour stocks, sanitaires, bureaux etc.
+
+**** 30% de la surface brute est déduite pour cuisine, sanitaires, comptoirs etc.                                                                                                                         *****si la surface utile par niveau est > 400m 2, mais que le plateau ou une partie du plateau est divisé en plusieurs surfaces locatives (<400m2), l'aménagement de ces plateaux doit se faire de fa¢on
+                                                                                                                                                                                                          à offrir aux personnes la possibilité d'accéder à au moins 2 cages d'escaliers indépendantes l'une de l'autre à partir de chaque surface d'exploitation, sans devoir passer à travers une partie tiers
+****** à titre informel                                                                                                                                                                                   privative
+
+
+
+
+                          Page 11 de 11 pages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ITM-SST 1508.3
+

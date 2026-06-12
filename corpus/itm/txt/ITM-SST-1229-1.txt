@@ -1,0 +1,384 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        Strassen, mai 2009
+
+
+
+                                                                                         ITM-SST 1229.1
+
+
+
+     Nacelles automotrices pour le levage de personnes conçues
+      d’après la directive 98/37/CE ou la directive 2006/42/CE
+                        relative aux machines
+
+
+                                                   Prescriptions de sécurité types
+                                              Les présentes prescriptions comportent 8 pages
+
+
+
+                                                                    Sommaire
+
+
+    Article                                                                                                    Page
+
+     1.                 Objectif et domaine d'application                                                         2
+     2.                 Définitions                                                                               2
+     3.                 Normes et règles techniques                                                               3
+     4.                 Dispositions d’utilisation des nacelles automotrices                                      3
+     5.                 Déclaration « CE » de conformité                                                          4
+     6.                 Registre                                                                                  4
+     7.                 Entretien                                                                                 5
+     8.                 Contrôles                                                                                 6
+     9.                 Modification, transformation                                                              7
+    10                  Accidents - Incidents                                                                     8
+    11.                 Autorisation d’exploitation                                                               8
+
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 26, rue Ste Zithe, Luxembourg Tél : 2478-1    Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1 Les présentes prescriptions ont pour objectif de spécifier les règles de sécurité et de santé
+types à observer lors de l’exploitation et du contrôle d’une nacelle automotrice.
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si des mesures de rechange garantissant une protection au moins
+équivalente sont prises.
+
+Ces mesures de rechange ne devront pas être en contradiction avec la législation applicable et
+doivent être reconnues comme garantissant un niveau de sécurité équivalent par un organisme
+de contrôle et acceptées comme telles par l'Inspection du Travail et des Mines.
+
+
+Art. 2. - Définitions
+
+2.1 Par la dénomination « nacelle automotrice » est à comprendre dans le contexte des
+présentes prescriptions un appareil de levage mobile ou une machine pouvant être équipée par
+un équipement interchangeable muni par comprenant un habitacle prévu pour le levage de
+personnes.
+
+Conformément au point 6.2.1. de l’annexe I de la directive 98/37/CE relative aux machines
+respectivement au point 6.2 de l’annexe I de la directive 2006/42/CE relative aux machines,
+lorsque les exigences de la sécurité n’imposent pas d’autres solutions, l’habitacle doit, en
+règle générale être conçu et construit de façon à ce que les personnes s’y trouvant disposent
+d’organes de commandes des mouvements relatifs de montée, de descente et, le cas échéant
+de déplacement de cet habitacle par rapport à la machine.
+
+2.2 Sous la dénomination « organisme de contrôle » est à comprendre, dans le contexte des
+présentes prescriptions tout organisme autorisé par le règlement ministériel concernant
+l’intervention des organismes de contrôle dans le cadre des compétences et attributions de
+l’inspection du travail et des Mines le plus récent en date du Ministre du Travail et de
+l’Emploi, à contrôler les appareils de levage et appareils similaires.
+
+2.3 Sous la dénomination « habitacle » est à comprendre l’emplacement sur lequel prennent
+place les personnes qui doivent être levées, descendues ou déplacées grâce à son mouvement.
+
+2.4 Sous la dénomination « opérateur » est à comprendre la personne utilisant la nacelle
+automotrice ayant reçu une formation appropriée et la permission de son employeur, ou le cas
+échéant, du propriétaire de l’engin, de conduire l’engin.
+
+2.5 Par « ITM » est à comprendre l’Inspection du travail et des Mines.
+
+2.6 Par « ADA » est à comprendre l’Administration des douanes et accises.
+
+
+
+
+page 2 de 8 pages                                                                 ITM-SST 1229.1
+Art. 3. - Normes et règles techniques
+
+3.1 Les nacelles automotrices doivent d'une manière générale être construites, équipées,
+exploitées et entretenues conformément aux stipulations des présentes prescriptions et de la
+législation nationale en vigueur :
+
+-   le règlement grand-ducal du 8 janvier 1992 relatif aux machines tel que modifié
+    transposant la directive 98/37/CE relative aux machines en droit luxembourgeois (texte
+    coordonné voir ITM-AM 192);
+-   la loi du 10 juin 1999 relatif aux établissements classés telle que modifiée.
+
+L’exploitant doit se conformer à ces règles lors de l’exploitation, mais également pendant
+toute la durée des travaux d’entretien, de surveillance et de contrôle, en référence notamment
+aux documents suivants :
+
+Le Code du travail et des règlements grand-ducaux pris en exécution de cette loi dont
+notamment:
+     le règlement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales
+      de sécurité et de santé pour les lieux de travail;
+     le règlement grand-ducal modifié du 4 novembre 1994 concernant les prescriptions
+      minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail
+      d’équipements de travail;
+
+3.2 Sont à observer en plus les prescriptions afférentes de prévention contre les accidents
+édictées par l’Association d'Assurance contre les Accidents (AAA).
+
+
+Art. 4. – Dispositions d’utilisation de la nacelle automotrice
+
+4.1. Généralités
+
+4.1.1 L’opérateur doit recevoir une formation appropriée afin d’utiliser la nacelle automotrice
+en toute sécurité et conformément à la notice d’utilisation du fabricant de l’engin.
+
+4.1.2 Le cas échéant, l’opérateur doit être déclaré apte à manipuler une telle machine par le
+médecin du travail et recevoir une instruction de son employeur qui lui permet de manipuler
+cette machine.
+
+4.1.3 Une évaluation des risques doit être réalisée par l’exploitant avant chaque opération
+pouvant comporter des risques pour la sécurité ou la santé de l’opérateur. Cette évaluation
+doit être portée à la connaissance de l’opérateur. Ce dernier doit confirmer qu’il en a pris
+connaissance et qu’il a compris le contenu.
+
+4.1.4 Les dispositions du manuel d’instruction du fabricant sont à observer notamment en ce
+qui concerne les essais avant utilisation et l’utilisation.
+
+
+
+
+page 3 de 8 pages                                                                ITM-SST 1229.1
+4.2. Utilisation de la nacelle automotrice
+
+4.2.1 Pendant la manipulation de la nacelle automotrice, l’opérateur ainsi que toute autre
+personne dans l’habitacle doivent être attachées, moyennant un harnais de sécurité, si
+l’évaluation des risques a déterminé un risque de chute en dehors de l’habitacle.
+
+4.2.2 Les nacelles doivent être positionnées à des endroits présentant une stabilité suffisante,
+ne comportant pas de risques de renversement en raison d’une forte déclivité de la zone de
+manœuvre ou de glissade en raison d’une adhérence réduite au sol (p.ex. verglas).
+
+4.2.3 L’utilisation de la nacelle automotrice est interdite, au cas ou la vitesse du vent dépasse
+les 60 km/h ainsi que lors de rafales fréquentes ou lors de risques d’orages.
+
+4.2.4 En toute situation il doit pouvoir être possible de ramener l’habitacle de la nacelle
+automotrice dans une position où il est possible de libérer les passagers.
+
+4.2.5 La zone en dessous de l’habitacle est à définir et à délimiter comme zone dangereuse où
+l’accès est interdit.
+
+
+Art. 5. - Déclaration « CE » de conformité à la directive 98/37/CE ou de la directive
+2006/42/CE relative aux machines
+
+L’appareil doit être muni d’un marquage « CE » de conformité et accompagné d’une
+déclaration de conformité telle que définie à l’annexe II point A de la directive 98/37/CE ou
+de la directive 2006/42/CE relative aux machines.
+
+Si la machine peut être munie d’un équipement interchangeable permettant le levage de
+personnes, cet équipement doit être muni du marquage « CE » de conformité précité.
+
+
+Art. 6. - Registre
+
+6.1. L’exploitant doit gérer ou faire gérer un registre de sécurité.
+
+6.2. Ce registre doit contenir :
+       L’autorisation d’exploitation conformément à la loi modifiée du 10 juin 1999 relative
+        aux établissements classés,
+       La déclaration de conformité « CE »,
+       La notice d’instruction telle que décrite au point 1.7.4 de l’annexe I de la directive
+        98/37/CE respectivement 2006/42/CE relative aux machines,
+       toutes les caractéristiques de l’appareil et ses éléments, les plans et schémas
+        nécessaires à une exploitation et un entretien en sécurité,
+       les rapports du premier contrôle périodique et des contrôles périodiques,
+       les fiches de travail et les notes relatives aux interventions d’entretien courant et de
+        dépannage.
+
+
+
+
+page 4 de 8 pages                                                                 ITM-SST 1229.1
+6.3 La gestion du registre peut être confiée à l’entreprise chargée de l’entretien courant. Il doit
+être conservé sur la nacelle. Il peut aussi être conservé dans les locaux du propriétaire ou de
+l’exploitant. A ce moment une copie du registre doit se trouver près de la nacelle.
+
+6.4 Le registre de sécurité doit être présenté aux agents de l’organisme de contrôle ainsi
+qu’aux agents et experts de l’ITM et de l’ADA sur demande.
+
+
+Art. 7. - Entretien
+
+7.1 La nacelle automotrice est à maintenir continuellement en bon état d'entretien, de sécurité
+et de fonctionnement. Il doit être remédié sans délai à toutes les défectuosités et anomalies
+constatées.
+
+7.2 L’entretien doit être effectué selon les instructions du manuel d’entretien du constructeur.
+
+7.3 L’entretien régulier de la nacelle automotrice et de ses accessoires doit être assuré par du
+personnel qualifié.
+
+7.4 Sans préjudice de la situation d'entreprises ou d'administrations disposant d'un propre
+personnel qualifié et expérimenté, l'entretien doit s'effectuer sur la base d'un contrat écrit
+prévoyant, à côté des redressements de pannes et de dérangements, au moins une intervention
+régulière courante par an à moins que la notice d'instruction du fabricant n'en prévoie
+davantage.
+
+7.5 L’entretien au sens du présent article doit garantir un bon état de fonctionnement, de
+fiabilité et de sécurité de la nacelle automotrice de même que de ses éléments. Il s’effectue
+suivant les règles de l’art et suivant les modes de maintenance et d’entretien fournis par le
+constructeur.
+
+7.6 Toutes les interventions d’entretien régulier et chaque action de dépannage doivent être
+consignées dans le registre de sécurité prévu à l’article 6.
+
+7.7 A côté desdites interventions régulières extérieures le responsable local ou l’exploitant
+veille à une surveillance continue journalière sur place de même qu’à la découverte rapide et à
+la demande de redressement subséquente immédiate de tout dérangement et en particulier de
+ceux pouvant mettre en danger les personnes.
+L’exploitant chargé de l’entretien courant est obligé d’instruire et d’informer le surveillant sur
+place dans la mesure des besoins.
+
+7.8 L’entretien doit s’effectuer dans le strict respect des règles de sécurité au travail, et les
+aménagements, équipements et moyens de sécurité doivent être prévus en conséquence.
+
+7.9 Toutes précautions appropriées doivent être prises pour empêcher la mise en mouvement,
+soit accidentelle, soit par inadvertance d'une nacelle automotrice sur laquelle sont effectués
+des travaux.
+
+
+
+
+page 5 de 8 pages                                                                   ITM-SST 1229.1
+Art. 8. – Contrôles
+
+8.1. Les contrôles périodiques doivent s’effectuer sur base d’un contrat écrit à conclure entre
+l’organisme de contrôle et le propriétaire ou l’exploitant.
+
+8.2 Premier contrôle périodique
+Sans préjudice du strict respect des prescriptions ci-dessus concernant la mise sur le marché
+de machines, le propriétaire ou l’exploitant doit charger un organisme de contrôle d’un
+premier contrôle de la nacelle automotrice avant sa mise en exploitation. Ce premier contrôle
+doit se solder par un rapport de premier contrôle à verser ensemble avec copie de la
+déclaration de conformité « CE » au registre prévu à l’article 6.
+
+Les contrôles et essais sur les appareils neufs comprennent:
+
+a) Vérification administrative
+    - vérification de l’autorisation d’exploitation
+    - vérification de la déclaration « CE » de conformité
+    - vérification du marquage « CE » de conformité
+    - vérification du registre de sécurité
+    - vérification de la disponibilité de la documentation technique comme le manuel
+        d’instruction et le manuel d’entretien
+
+b) Vérification technique
+    -  vérifications portant sur les indications d’identification (panneau d’identification),
+    -  vérifications portant sur les panneaux signalétiques et pictogrammes,
+    -  examens et essais des dispositifs de sécurité, de signalisation et d’éclairage,
+    -  essais de fonctionnement des dispositifs de sécurité et de fonctionnement dans toutes
+       les configurations de travail,
+
+8.3 Contrôles périodiques
+
+8.3.1 Sans préjudice du strict respect des prescriptions ci-dessus concernant l’entretien
+courant des nacelles automotrices, ceux-ci doivent en plus être soumises régulièrement à un
+examen et à des essais annuels par un organisme de contrôle.
+
+8.3.2 L’organisme vérifie tous les éléments des nacelles automotrices, il procède aux essais
+nécessaires et il apprécie l’objet dans l’optique de sa destination, de son utilisation et de son
+entretien ainsi que dans le but primordial de la sécurité des personnes.
+
+8.3.3 Dans ce contexte l’organisme de contrôle procède aux
+      Vérification du registre de sécurité,
+      examens visuels portant sur l’entraînement du dispositif ou du bras de levage,
+      examens et essais des dispositifs électriques, de sécurité, de signalisation et
+       d’éclairage,
+      essais de fonctionnement des dispositifs de sécurité et de fonctionnement dans toutes
+       les configurations de travail,
+      examens visuels portant sur l’ensemble des structures, de la partie mécanique et de la
+       partie entraînement de la nacelle automotrice,
+
+
+
+
+page 6 de 8 pages                                                                 ITM-SST 1229.1
+8.4 Les rapports de contrôle
+
+8.4.1 Chaque visite de contrôle de l’organisme de contrôle doit se solder par un rapport et une
+vignette de contrôle à apposer en lieu bien visible sur la nacelle automotrice.
+Le rapport est dressé en deux exemplaires avec une copie qui sont soumis pour visa à
+l’Inspection du Travail et des Mines, qui fait l’archivage de la copie.
+Sans préjudice des obligations de l’organisme de contrôle envers son commettant, la
+distribution finale des rapports est faite par l’organisme de contrôle comme suit :
+    - 1 exemplaire pour l’exploitant ou le propriétaire
+    - 1 exemplaire archivé par l’organisme de contrôle
+
+Le propriétaire et/ou l’exploitant veillent à ce que le rapport visé ou au moins une copie du
+rapport visé soit versée au registre de sécurité prévu à l’article 6 de la présente prescription.
+
+8.4.2 Au cas où l’organisme de contrôle constate un ou une situation pouvant présenter des
+dangers pour les personnes, il doit en informer immédiatement l’exploitant par le moyen de
+communication le plus direct et le plus rapide possible, sans préjudice du rapport écrit
+ultérieur de préférence en lui faisant contresigner son rapport provisoire de contrôle.
+
+8.4.3 L’inspecteur de l’organisme de contrôle concerné doit dans un pareil cas indiquer en
+plus les mesures à prendre immédiatement et il doit s’assurer qu’il est obtempéré et que les
+risques inacceptables sont éliminés. A défaut, il doit en informer sans délai l’Inspection du
+Travail et des Mines.
+
+8.4.4 Le propriétaire et/ou l’exploitant de la nacelle automotrice doivent veiller à ce que les
+anomalies éventuelles détectées par l’organisme de contrôle soient levées dans les délais
+indiqués dans les rapports.
+
+8.4.5 Une visite de recontrôle par l’organisme de contrôle est à prévoir. Si les réparations ou
+mise en état n’ont pas pu être effectuées dans les délais fixés par l’organisme de contrôle,
+l’appareil est à mettre hors service. Avant une remise en service, un nouveau contrôle par
+l’organisme de contrôle est exigé.
+
+
+Art. 9.- Modification, transformation
+
+Chaque modification ou transformation doit être effectuée selon les règles de l’art. Les
+modifications sont à soumettre à une nouvelle analyse des risques et une nouvelle évaluation
+de la conformité conformément à la directive 98/37/CE respectivement 2006/42/CE.
+
+Après chaque transformation, chaque réaménagement subis par l’appareil pouvant avoir eu
+une influence sur sa sécurité, l’appareil est à faire soumettre à un contrôle par un organisme
+de contrôle avant sa remise en service.
+
+
+
+
+page 7 de 8 pages                                                                 ITM-SST 1229.1
+Art. 10. - Accidents - Incidents
+
+10.1 Sont à mettre hors service, chaque nacelle automotrice ayant été la cause d'un accident
+ou d'un incident grave ainsi que chaque nacelle automotrice ayant subi des avaries pouvant
+influencer la sécurité des personnes.
+
+10.2 Ces nacelles automotrices ne peuvent être remises en service qu'après délivrance d'un
+rapport de contrôle visé par l'Inspection du Travail et des Mines, rapport établi par un
+organisme de contrôle (voir article 8).
+
+
+Art. 11. – Autorisation d’exploitation
+
+Chaque nacelle automotrice doit être couverte par une autorisation d’exploitation
+conformément à la loi modifiée du 10 juin 1999 relative aux établissements classés.
+
+
+
+
+              Visa du directeur adjoint                        Mise en vigueur
+              de l’Inspection du travail                       le 11 mai 2009
+                     et des mines
+                                                                       s.
+                          s.
+                                                                 Paul WEBER
+                    Robert HUBERTY                                 Directeur
+                                                           de l’Inspection du travail
+                                                                  et des mines
+
+
+
+
+page 8 de 8 pages                                                                  ITM-SST 1229.1
+

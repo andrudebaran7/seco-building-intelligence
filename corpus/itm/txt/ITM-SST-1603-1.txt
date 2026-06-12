@@ -1,0 +1,1589 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                               Strassen, August 2013
+
+
+
+
+                                                                                                   ITM-SST 1603.1
+                                                                                                       (Ancien N° ITM-CL 632.2)
+
+
+
+
+                Vorschriften zur betrieblichen Sicherheit
+                 bezüglich dem Umgang mit Zytostatika
+
+                                                                  (34 Seiten)
+
+                                                             Inhaltsverzeichnis
+
+    Kapitel                                                                                                                     Seite
+
+    1      Gesetzliche Grundlagen .................................................................................... 3
+    2      Gegenstand und Anwendungsbereich ............................................................. 3
+    3      Begriffsbestimmungen ...................................................................................... 3
+    4      Zubereitung von Zytostatika ............................................................................. 4
+        4.1 Personelle Anforderungen ................................................................................ 4
+        4.2 Allgemeine räumliche Anforderungen ............................................................... 5
+            4.2.1          Schleuse .................................................................................................. 5
+            4.2.2          Zubereitungsraum ................................................................................... 7
+            4.2.3          Vorbereitungsraum ................................................................................ 10
+        4.3 Anforderungen an die Sicherheitswerkbank ................................................... 10
+            4.3.1          Technische Anforderungen ................................................................... 10
+            4.3.2          Organisatorische Maßnahmen .............................................................. 13
+            4.3.3          Abnahmen, wiederkehrende Prüfungen und Wartung .......................... 14
+        4.4 Anforderungen an das Handling von Zytostatika während der
+            Zubereitung ..................................................................................................... 16
+
+
+    Direction, Département Sécurité et Santé
+    Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+    Bureaux : 3, rue des Primeurs, L-2361 Strassen   Tél: 247-86213   Fax: 49 14 47
+    Site Internet : http://www.itm.lu
+       4.4.1     Schutzmaßnahmen ............................................................................... 16
+       4.4.2     Persönliche Schutzausrüstung .............................................................. 18
+       4.4.3     Persönliche Hygienemaßnahmen ......................................................... 18
+    4.5 Anforderungen an die Reinigung und Desinfektion......................................... 19
+5     Transport von Zytostatika ............................................................................... 20
+    5.1 Transport zu den Stationen............................................................................. 20
+    5.2 Transport auf öffentlichen Verkehrswegen ..................................................... 21
+6     Applikation ........................................................................................................ 22
+    6.1 Allgemeines .................................................................................................... 22
+    6.2 Applikation von Zytostatika per Infusion.......................................................... 22
+    6.3 Applikation von Zytostatika per Injektion ......................................................... 23
+    6.4 Orale Applikation von Zytostatika.................................................................... 23
+    6.5 Applikation von Zytostatika mittels Ernährungssonde ..................................... 23
+7     Entsorgung ....................................................................................................... 24
+    7.1 Abfälle aus der Zubereitung und Reinigung .................................................... 24
+    7.2 Abfälle aus der Applikation ............................................................................. 25
+    7.3 Abfälle aus Wartungsarbeiten ......................................................................... 25
+    7.4 Sonstige Abfälle .............................................................................................. 25
+    7.5 Körperflüssigkeiten und Ausscheidungen ....................................................... 25
+8     Ergonomie ........................................................................................................ 26
+9     Schulung und Betriebsanweisungen ............................................................. 26
+10 Notfallplan......................................................................................................... 27
+    10.1     Allgemeines ................................................................................................. 27
+    10.2     Kontaminationen innerhalb der Werkbank .................................................. 27
+    10.3     Kontaminationen außerhalb der Werkbank................................................. 28
+    10.4     Kontamination von Personen ...................................................................... 29
+11 Arbeitsmedizinische Vorsorgeuntersuchungen............................................ 29
+12 Anhang .............................................................................................................. 31
+
+
+
+
+ITM-SST 1603.1                                                                                      Seite 2 von 34 Seiten
+1     Gesetzliche Grundlagen
+     (1) Der Code du travail sowie die einschlägigen „règlements grand-ducaux“ sind
+         zu beachten.
+     (2) Des Weiteren sind die Empfehlungen zur Unfallverhütung der Association
+         d'Assurance Accidents (AAA) zu beachten.
+     (3) Europäische Normen (EN) sind anzuwenden, so wie sie erscheinen und
+         nationale Vorschriften ersetzen.
+
+
+2     Gegenstand und Anwendungsbereich
+     (1) Diese Vorschriften gelten sinngemäß für den Umgang mit:
+         • Zytostatika,
+         • antineoplastischen Substanzen,
+         • CMR-Arzneimitteln1) sowie
+         • Zubereitungen, in denen eine der vorgenannten Stoffgruppen enthalten ist.
+         Im folgenden Text dieser Vorschriften wird der Begriff „Zytostatika“
+         stellvertretend für alle vorgenannten Stoffe und Stoffgruppen verwendet.
+     (2) Erleichterungen oder Befreiungen hinsichtlich der in dieser Vorschrift
+         definierten Anforderungen können in begründeten Einzelfällen bewilligt
+         werden, sofern geeignete Ersatzmaßnahmen vorgeschlagen und umgesetzt
+         werden, welche ein mindestens gleich hohes Sicherheitsniveau gewähr-
+         leisten.
+
+
+3     Begriffsbestimmungen
+     (1) Unter Zubereitung werden im Sinne dieser Vorschrift alle Schritte ausgehend
+         von der ursprünglichen Substanz bis zum Erreichen einer applikationsfertigen
+         Darreichungsform verstanden.
+     (2) Unter Applikation werden alle Tätigkeiten                         zur     Anwendung         der
+         Darreichungsform am Patienten verstanden.
+     (3) Unter Fortluft ist die mittels des in der Werkbank integrierten Ventilators aus
+         der Werkbank abgeführte Luft zu verstehen (siehe Anhang „Skizze D“).
+     (4) Unter Abluft ist die mittels des Abluftventilators nach Außen transportierte Luft
+         (d.h. die Fortluft der Werkbank zuzüglich Raumluftanteil) zu verstehen (siehe
+         Anhang „Skizze D“).
+
+
+
+1)   Krebserzeugende (cancerogen), erbgutverändernde (mutagen), fortpflanzungsgefährdende
+     (reproduktionstoxische) Arzneimittel
+
+
+
+ITM-SST 1603.1                                                                       Seite 3 von 34 Seiten
+     (5) Als Abluftleitung wird die zur Abführung der Abluft verwendete Leitung
+         bezeichnet (siehe Anhang „Skizze D“).
+     (6) Unter Klinikkleidung (Apothekenkittel) wird der Arbeitskittel verstanden, den
+         das Apothekenpersonal während der Arbeit außerhalb der Tätigkeit im
+         Zubereitungsraum für Zytostatika trägt.
+     (7) Als Laborkittel ist ein Kittel zu verstehen, welcher ausschließlich für
+         Tätigkeiten innerhalb des Zubereitungsraumes für Zytostatika anzulegen ist.
+     (8) Unter Schutzkittel ist ein flüssigkeitsdichter (Einweg-)Kittel zu verstehen,
+         welcher durch das Apothekenpersonal ausschließlich innerhalb des
+         Zubereitungsraumes für Zytostatika während der Tätigkeiten an der
+         Werkbank zu tragen ist. Der Schutzkittel kann alleine oder über dem
+         Laborkittel getragen werden.
+
+
+4     Zubereitung von Zytostatika
+
+4.1     Personelle Anforderungen
+     (1) Die Zubereitung und Bereitstellung von Zytostatika darf ausschließlich durch
+         entsprechend geschultes und arbeitsmedizinisch überwachtes Personal
+         erfolgen.
+     (2) Mit der Zubereitung von Zytostatika dürfen die folgenden Personengruppen
+         nicht betraut werden:
+          •   Schwangere Frauen,
+          •   Stillende Frauen,
+          •
+                                                    )
+              Jugendliche unter 18 Jahren2 .
+     (3) Die Zahl der mit der Zubereitung von Zytostatika beschäftigten Personen ist
+         so gering wie möglich zu halten.
+          Aus Gründen des Arbeitsschutzes und aus Gründen der Ergonomie, muss
+          innerhalb des Zytostatika-Zubereitungsraumes jedoch in Zweierteams gear-
+          beitet werden.
+          Zur Entlastung der einzelnen Personen sollte allerdings mit mehreren
+          Zweierteams im Rotationsverfahren gearbeitet werden.
+     (4) Für den Umgang mit Zytostatika ist ein Sicherheitsbeauftragter zu benennen.
+
+
+
+
+2)   Eine Ausnahme ist möglich, wenn das Erlernen bestimmter Tätigkeiten zur Erreichung eines
+     Ausbildungszieles unabdingbar erforderlich und ein ausreichender Schutz der Jugendlichen durch die
+     Aufsicht eines Fachkundigen gewährleistet ist.
+
+
+
+ITM-SST 1603.1                                                                           Seite 4 von 34 Seiten
+4.2   Allgemeine räumliche Anforderungen
+  (1) Die Zubereitung von Zytostatika darf ausschließlich innerhalb eines speziell
+      dafür vorgesehenen und ausgestatteten Raumes, dem Zytostatika-
+      Zubereitungsraum, erfolgen.
+      Der Zytostatika-Zubereitungsraum darf nicht für andere Tätigkeiten als für die
+      Zubereitung von Zytostatika genutzt werden.
+  (2) Dem Zytostatika-Zubereitungsraum muss eine Schleuse vorgelagert sein.
+  (3) Die Einrichtung  eines    zusätzlichen        Vorbereitungsraumes           bzw.
+      Kommissionierraumes ist zweckmäßig.
+  (4) Bezüglich vorerwähnter Räumlichkeiten sowie deren Ausstattung/Einrichtung,
+      sind die nachfolgenden Anforderungen zu beachten.
+
+4.2.1 Schleuse
+       Dem Zytostatika-Zubereitungsraum ist eine Schleuse vorzulagern, welche wie
+       folgt zu gestalten, beziehungsweise mit der nachfolgend genannten
+       Ausstattung/Einrichtung zu versehen ist:
+
+4.2.1.1 Abmessungen
+  (1) Die Schleuse muss eine freie, nutzbare Fläche (Bewegungsfläche)
+      aufweisen. Unter der freien, nutzbaren Fläche wird dabei die Rohbaufläche
+      der Schleuse nach Abzug der Projektionsflächen aller fester und immobiler
+      Einrichtungen sowie nach Abzug der von den Türflügeln überstrichenen
+      Flächen verstanden. Diese Bewegungsfläche muss den nachfolgenden
+      Anforderungen entsprechen:
+       • Es muss eine zusammenhängende Bewegungsfläche von mindestens
+         0,5 m² pro Benutzer und Schicht, insgesamt jedoch mindestens 2 m² zur
+         Verfügung stehen;
+       • Die geometrische Form der Bewegungsfläche muss so sein, dass in ihr ein
+         Quadrat mit einer Kantenlänge von mindestens 1 m untergebracht werden
+         kann;
+       • Die Bewegungsfläche muss überall eine Mindestbreite von 50 cm
+         aufweisen.
+  (2) Die Schleuse muss einen Verkehrsweg mit einer lichten Breite von
+      mindestens 1 m besitzen. Türen dürfen in den Verkehrsweg öffnen.
+  (3) Feste Einbauten und immobile Einrichtungen müssen einen Abstand von
+      mindestens 0,3 m zum Schwenkbereich von Türen besitzen.
+
+4.2.1.2 Türen
+  (1) Die Öffnungsrichtung der Tür zwischen Flur und Schleuse ist nicht
+      vorgegeben. Allerdings darf die Tür nicht weiter als 20 cm in den Flur hinein
+      öffnen.
+  (2) Die Tür von der Schleuse zum Zytostatika-Zubereitungsraum muss in die
+      Schleuse hinein öffnen.
+
+
+ITM-SST 1603.1                                                     Seite 5 von 34 Seiten
+          Des Weiteren muss diese Tür                             mit     einem       Sichtfenster       aus
+          Sicherheitsverglasung versehen sein.
+     (3) Alle Türen der Schleuse müssen mit Obertürschließern ausgestattet sein.
+     (4) Die Türen der Schleuse dürfen nicht gegeneinander verriegelt sein.
+     (5) Die Tür zum Zytostatika-Zubereitungsraum darf nicht offen gehalten werden.
+     (6) Der geringste Abstand zwischen den Öffnungsradien von Türen muss
+         mindestens 0,5 m betragen.
+     (7) Die lichten Türbreiten müssen ausreichend bemessen sein, damit die
+         Einrichtung (z.B. Tische, Werkbänke etc.) bequem in den Zytostatika-
+         Zubereitungsraum eingebracht werden kann. Die lichte Türbreite muss jedoch
+         1 m betragen.
+     (8) Der Zugang von der Schleuse zum Zytostatika-Zubereitungsraum ist eindeutig
+         zu kennzeichnen (z.B. durch Schild „Zytostatika-Zubereitung“). Des Weiteren
+         ist mittels Text und einem entsprechenden Verbotszeichen darauf
+         hinzuweisen, dass der Zutritt für Unbefugte verboten ist.
+
+4.2.1.3 Ausstattung/Einrichtung
+     (1) Die Schleuse muss die folgende Ausstattung/Einrichtung besitzen:
+          •    Verschließbare Durchreiche zum Zytostatika-Zubereitungsraum (z.B.
+               Durchreichefenster), sofern keine sonstige Materialschleuse vorhanden
+                   )
+               ist3 . Die Oberkante der Abstellfläche der Durchreiche muss sich auf
+               Arbeitsflächenhöhe (90 cm) befinden. Vertikal öffnende Fenster müssen
+               gegen Herunterfallen gesichert sein.
+               Im Zusammenhang mit der Durchreiche ist eine Sprechanlage zur
+               Kontaktaufnahme mit dem Personal im Zytostatika-Zubereitungsraum
+               erforderlich.
+               Es wird empfohlen, dass die Durchreiche als „Materialschleuse“ mit zwei
+               gegeneinander verriegelten Öffnungen ausgeführt wird.
+          •    Handwaschbecken ohne Überlauf mit handberührungsfreien Armaturen
+               und Hygieneset (Hygieneset bestehend aus: Spendern mit Waschlotion,
+               Händedesinfektionsmittel und Hautpflegemittel, Einmalhandtücher,
+               Handtuchabwurf).
+          •    Hakenleiste.
+          •    Geschlossener Schrank mit Vorrat an frischen Laborkitteln (eventuell auch
+               für Schutzkittel und sonstige persönliche Schutzausrüstung).
+          •    Wäscheabwurf mit Deckel für nicht kontaminierte Laborkittel (der
+               Wäscheabwurf darf sich auch innerhalb des Zubereitungsraumes
+               befinden).
+
+
+
+
+3)   Es wird empfohlen eine separate Materialschleuse außerhalb der Personalschleuse zu realisieren.
+
+
+
+ITM-SST 1603.1                                                                           Seite 6 von 34 Seiten
+                                                                )
+     (2) Die Schleuse darf nicht als Umkleideraum4 , Abstellraum oder Lager zweck-
+         entfremdet werden. In diesem Sinne dürfen innerhalb der Schleuse keine
+         Kühlschränke oder Lagerschränke für andere Materialien als Labor- und
+         Schutzkittel sowie persönliche Schutzausrüstung aufgestellt werden. Des
+         Weiteren darf in der Schleuse keine Straßenkleidung aufbewahrt werden.
+
+4.2.2 Zubereitungsraum
+           Der Zytostatika-Zubereitungsraum ist wie folgt zu gestalten, respektive mit der
+           folgenden Ausstattung/Einrichtung zu versehen:
+
+4.2.2.1 Abmessungen
+     (1)    Die Raumhöhe muss mindestens 2,75 m betragen.
+     (2)    Die Raumgröße muss so bemessen sein, dass die freie Fläche (Rohbaumaß
+            abzüglich der Projektionsflächen der festen und immobilen Einrichtung und
+            abzüglich der von Türflügeln überstrichenen Flächen) mindestens 8 m²
+            beträgt. Werden mehr als eine Werkbank aufgestellt, so sind für jede weitere
+            Werkbank zusätzlich mindestens 5 m² freie Fläche erforderlich.
+     (3)    Vor den Werkbänken muss eine freie Fläche mit einer Breite von mindestens
+            2 m vorhanden sein, wovon 1 m Breite als Bewegungsfläche für das
+            Personal an der Werkbank und 1 m als Verkehrsfläche dienen (siehe
+            Anhang „Skizze A“).
+     (4)    In einem Bereich von 1 m vor Werkbänken, einschließlich der seitlichen
+            Freiflächen entsprechend den nachfolgenden Punkten (5), (6) und (7),
+            dürfen sich keine Hindernisse wie feste Einbauten oder Wände befinden
+            (siehe Anhang „Skizze B“).
+     (5)    Seitlich von Werkbänken dürfen sich in einem Abstand von 30 cm keine
+            Wände oder sonstige, feste Einbauten befinden (siehe Anhang „Skizze B“).
+     (6)    Zu Arbeitsflächen muss ein seitlicher Abstand von 1 m eingehalten werden
+            (siehe Anhang „Skizze B“).
+     (7)    Zwischen zwei Werkbänken muss ein Abstand von mindestens 1 m
+            eingehalten werden, in welchem sich keine festen Einbauten befinden dürfen
+            (siehe Anhang „Skizze B“).
+     (8)    Ausnahmen zu den vorstehenden Punkten (5) und (7) sind möglich, sofern
+            sich die Hindernisse innerhalb eines Bereiches von weniger als 50% der
+            Tiefe der Werkbank (gemessen von der Rückwand der Werkbank) befinden
+            und sofern durch diese Hindernisse kein nachteiliger Einfluss auf die
+            Funktion der Werkbank oder auf die Durchführung von Wartungs- und
+            Kontrollarbeiten zu erwarten ist (siehe Anhang „Skizze B“).
+     (9)    Türen, die sich in der gleichen Wand befinden, an welcher die Werkbank
+            aufgestellt ist, müssen einen Abstand von mindestens 1 m zur Werkbank
+            besitzen (siehe Anhang „Skizze C“).
+
+
+4)   Umkleideräume dienen, unter anderem, der Aufbewahrung und Sicherung der Privatkleidung und –utensilien
+     sowie dem Schutz der Privatsphäre. Genaue Definitionen und Anforderungen in Bezug auf Umkleideräume
+     finden sich in den Vorschriften ITM-SST 1601.
+
+
+
+ITM-SST 1603.1                                                                        Seite 7 von 34 Seiten
+   (10) Türen, die sich in einer Wand rechtwinklig zur Werkbank befinden, müssen
+        einen Abstand von mindestens 1 m zur Werkbank besitzen (siehe Anhang
+        „Skizze C“).
+   (11) Türen, die sich in einer der Werkbank gegenüberliegenden Wand befinden,
+        müssen einen Abstand von mindestens 2 m zur Werkbank besitzen (siehe
+        Anhang „Skizze C“).
+   (12) Fenster und Heizkörper müssen einen Abstand von mindestens 0,3 m zu
+        Werkbänken besitzen.
+
+4.2.2.2 Lüftungstechnische Anforderungen
+   (1)    Der Zytostatika-Zubereitungsraum muss ausreichend belüftet und im Unter-
+          druck gegenüber der Schleuse5) gehalten werden (siehe Anhang „Skizze E“).
+   (2)    Der Unterdruck im Zubereitungsraum muss jederzeit aufrechterhalten
+          werden. Diese Bedingung muss auch erfüllt sein, wenn die Werkbank mit
+          Reduktionsstufe gefahren wird oder aus technischen Gründen außer Betrieb
+          ist.
+   (3)    Die dem Zubereitungsraum vorgelagerte Schleuse muss im Unterdruck
+          gegenüber benachbarten Fluren und sonstigen Räumen, welche nicht
+          Zubereitungsräume sind, gehalten werden. Eine Ausnahme hiervon ist im
+          Falle der Anwendung des „Air-Lock-Systems“ möglich (siehe Anhang „Skizze
+          E“). Ein Überdruck des Zubereitungsraumes gegenüber der Schleuse ist
+          nicht zulässig.
+   (4)    Während die Werkbank in Betrieb ist, müssen Fenster geschlossen gehalten
+          werden um Störungen der Druckverhältnisse zu vermeiden.
+   (5)    Die Luftführung und der Luftdruck innerhalb des Zytostatika-
+          Zubereitungsraumes dürfen keinen nachteiligen Einfluss auf die Funktion der
+          Werkbank ausüben (z.B. turbulenzarme Zuluft).
+   (6)    Die Lüftungsmaßnahmen sind so zu gestalten, dass für die Beschäftigten
+          keine Zugluft entsteht (geringe Strömungsgeschwindigkeit der Zuluft, d.h. in
+          Kopfhöhe v ≤ 0,15 m/s).
+   (7)    Bei der Auslegung der Raumlüftung sind die besonderen Anforderungen in
+          Bezug auf die Abführung der Fortluft der Sicherheitswerkbänke zu
+          berücksichtigen   (siehe  Kapitel    4.3    „Anforderungen   an    die
+          Sicherheitswerkbank“).
+
+4.2.2.3 Ausstattung/Einrichtung
+   (1)    Fußbodenbeläge müssen aus mindestens schwer entflammbaren
+          Materialien bestehen. Die Beläge müssen frei von ausgasenden Stoffen
+          sein.
+   (2)    Wandbeläge, bzw. Wandverkleidungen müssen aus mindestens schwer
+          entflammbaren Materialien bestehen.
+
+
+
+5) Ein Überdruck oder Gleichdruck vom Zubereitungsraum zur Schleuse ist keinesfalls zulässig.
+
+
+
+ITM-SST 1603.1                                                                         Seite 8 von 34 Seiten
+           Die Beläge, bzw. Verkleidungen müssen frei von ausgasenden Stoffen (z.B.
+           Formaldehyd) sein.
+     (3)   Die Oberflächen von Fußböden, Wänden, Arbeitsplatten, Schränken,
+           Stühlen etc., müssen abwaschbar und leicht zu reinigen sein.
+           Die Sitzflächen und sonstigen Polsterungen von Stühlen müssen
+           flüssigkeitsdicht und abwaschbar sein. Dies gilt auch für Tastaturen, Mäuse
+           und sonstige Bedienungselemente von Computern.
+     (4)   Generell ist die Ausstattung/Einrichtung auf das unbedingt notwendige
+           Mobiliar zu beschränken. Der Zytostatika-Zubereitungsraum muss jedoch,
+           außer den für die Durchführung der Tätigkeiten spezifischen Einrichtungen,
+           mindestens über die folgende Ausstattung/Einrichtung verfügen:
+           • Ausreichend Lagermöglichkeiten (Schränke, Kühlschränke etc.) für
+             Zytostatika sowie die sonstigen benötigten Materialien und technischen
+             Hilfsmittel.
+           • Eine den Tätigkeiten angepasste und ausreichende Arbeitsfläche.
+           • Handwaschbecken ohne Überlauf mit handberührungsfreien Armaturen,
+             Spender mit Waschlotion und Händedesinfektionsmittel (jedoch
+             ausnahmsweise kein Hautpflegemittel, da deren Anwendung innerhalb
+             des Zubereitungsraumes gemäß Kapitel 4.4.3 untersagt ist),
+             Einmalhandtücher, Handtuchabwurf.
+           • Zur Entsorgung von Abfällen muss sich in unmittelbarer Nähe zur
+             Werkbank ein Einschweißgerät mit direktem Einzug in ein
+                                                                 ®
+             durchstichfestes Behältnis befinden (z.B. Pacto-Safe ).
+           • Innerhalb des Zytostatika-Zubereitungsraumes muss sich eine fest
+             installierte, gegebenenfalls klappbare Augendusche befinden. Der
+             Standort der Augendusche ist entsprechend zu kennzeichnen.
+              Die Augendusche ist täglich vor Arbeitsbeginn zu betätigen, um eine
+              Verkeimung zu verhindern.
+           • Innerhalb des Zytostatika-Zubereitungsraumes muss mindestens ein
+             Notfallset mit persönlicher Schutzausrüstung bereitgehalten werden. Der
+             erforderliche Inhalt des Notfallsets ist im Kapitel 10 „Notfallplan“
+             beschrieben.
+           • Telefon mit Freisprecheinrichtung und abwaschbarer Tastatur.
+           • Eine gut sichtbar angebrachte Wanduhr ist vorzusehen6).
+           • Es muss mindestens ein Feuerlöscher vorhanden sein.
+     (5)   Es sind eine Inventarliste und ein Aufstellungsplan bzgl. der im Zytostatika-
+           Zubereitungsraum befindlichen Geräte und Einrichtungen zu erstellen7).
+
+
+6)   Erforderlich, da gemäß Kapitel 4.4.3 das Tragen von Armbanduhren beim Arbeiten mit Zytostatika nicht
+     gestattet ist.
+7)   Durch die Inventarliste und den Aufstellungsplan soll vermieden werden, dass Geräte oder
+     Einrichtungsgegenstände aus dem Zubereitungsraum entnommen werden. Des Weiteren soll vermieden
+
+
+
+ITM-SST 1603.1                                                                      Seite 9 von 34 Seiten
+4.2.3 Vorbereitungsraum
+     (1) Aufgrund der Einschränkungen hinsichtlich der Nutzung von Schleuse und
+         Zytostatika-Zubereitungsraum (siehe z.B. Kapitel 4.2.1 und 4.2.2), wird die
+         Einrichtung eines so genannten „Vorbereitungsraumes“ dringend empfohlen.
+     (2) Solch ein Vorbereitungsraum eignet sich insbesondere zur Durchführung
+         folgender Tätigkeiten:
+           •   Administrative Arbeiten
+           •   Aufbewahrung und Bereitstellung von Literatur und Dokumentation
+           •   Kommissionierung und Übergabe der fertig zubereiteten Zytostatika
+           •   Andere mit der Zubereitung in Verbindung stehenden Tätigkeiten (jedoch
+               keine dauerhafte Lagerung von Zytostatika)
+     (3) Der Vorbereitungsraum darf keinen direkten Zugang zum Zubereitungsraum
+         besitzen, es sei denn, dass dieser Zugang als Schleuse ausgebildet ist. Die
+         im Kapitel 4.2.1 geforderte Schleuse zum Zytostatika-Zubereitungsraum kann
+         als gemeinsame Schleuse genutzt werden, indem diese ebenfalls mit dem
+         Vorbereitungsraum verbunden wird.
+     (4) Eine direkte Verbindung zwischen Vorbereitungs- und Zubereitungsraum in
+         Form einer Materialschleuse mit gegenseitiger Verriegelung der beiden
+         Öffnungen (mit Sprechanlage), ist gestattet und empfehlenswert.
+         Diesbezüglich sind auch die sonstigen im Kapitel 4.2.1.3 genannten
+         Anforderungen an Durchreichen einzuhalten.
+           Sofern eine Materialschleuse zwischen Vorbereitungs- und Zubereitungsraum
+           vorhanden ist, darf auf die im Kapitel 4.2.1.3 geforderte Durchreiche mit
+           Sprechanlage zwischen Zubereitungsraum und Schleuse verzichtet werden.
+           Der Vorbereitungsraum muss gegenüber der Schleuse sowie gegenüber dem
+           Zubereitungsraum im Überdruck gehalten werden (siehe auch Kapitel
+           4.2.2.2).
+
+4.3     Anforderungen an die Sicherheitswerkbank
+
+4.3.1 Technische Anforderungen
+     (1)    Bei den verwendeten Werkbänken muss es sich mindestens um
+            Sicherheitswerkbänke der Klasse 2 handeln.
+            Diese Werkbänke bieten zugleich Produkt- und Personenschutz. Dies wird
+            z.B. durch einen vertikalen Laminar-Flow im Arbeitsraum der Werkbank und
+            einen Luftvorhang an der Arbeitsöffnung erreicht.
+            Die abgesaugte Luft aus dem Arbeitsbereich wird in solchen Werkbänken
+                                                                        )
+            zum Teil als Umluft zurückgeführt und zum Teil als Fortluft8 aus der Werk-
+            bank abgeführt. Beide Luftströme werden mittels HEPA-Filtern filtriert.
+
+     werden, dass andere Geräte und Einrichtungsgegenstände in diesen Raum verbracht werden (und dort dann
+     eventuell missbräuchlich Verwendung finden).
+8)   Unter Fortluft ist die mittels dem Ventilator der Werkbank aus der Werkbank abgeführte Luft zu verstehen.
+
+
+
+ITM-SST 1603.1                                                                            Seite 10 von 34 Seiten
+     (2)    Bei der Beschaffung neuer Werkbänke sollte darauf geachtet werden, dass
+            der Bereich des Plenums, welcher mit potentiell kontaminierter Luft im
+            Überdruck betrieben wird, möglichst klein gehalten ist bzw., dass sich alle
+            Kanäle, welche mit potentiell kontaminierter Luft beaufschlagt sind, im
+            Unterdruck befinden.
+            Am günstigsten ist es, wenn Bereiche mit potentiell kontaminierter Luft
+            nahezu vollständig vermieden werden, z.B. mittels 3-Filter-Systemen. Die
+            Verwendung von Werkbänken mit HEPA-Vorfilter, d.h. mit einer Filtration vor
+                                                                              )
+            dem in die Werkbank integrierten Ventilator, wird daher empfohlen9 .
+     (3)    Die verwendeten Werkbänke müssen dem Reglement “Règlement grand-
+            ducal du 11 août 1996 relative aux dispositifs médicaux, tel que modifié par
+            la suite“ entsprechen (CE-Label).
+     (4)    Durch eine geeignete Vorrichtung muss sichergestellt sein, dass die
+            Werkbank nur durch befugte Personen in Betrieb genommen werden kann
+            (z.B. Schlüsselschalter).
+     (5)    Die Sicherheitswerkbank muss mit einem automatischen Alarm versehen
+            sein um sicherzustellen, dass die Arbeit nur innerhalb der festgelegten
+            Arbeitsöffnungshöhen erfolgen kann.
+     (6)    UV-Lampen in Werkbänken sind nicht zu empfehlen. Ist eine Werkbank
+            dennoch mit UV-Lampen ausgestattet, so müssen diese automatisch
+            abgeschaltet werden, wenn in der betreffenden Werkbank gearbeitet wird.
+     (7)    Die Beleuchtungsstärke im Arbeitsbereich der Werkbank muss mindestens
+            750 Lux betragen. Die Beleuchtung muss blend- und schattenfrei erfolgen.
+     (8)    Die Werkbänke dürfen keine Gas- oder Wasserinstallationen enthalten.
+     (9)    Die Sicherheitswerkbank, respektive das Absaugsystem, müssen mit einer
+            Filterverbrauchsanzeige über Druckdifferenzmessung ausgerüstet sein.
+            Zusätzlich ist mittels Betriebsstundenzähler zu überwachen, dass die
+            zulässigen Filterstandzeiten nicht überschritten werden.
+     (10) Jede Werkbank muss mit Fortluft betrieben werden (siehe Anhang „Skizze
+          D“).
+     (11) Die Fortluft der Werkbank muss über HEPA-Filter10) aus der Werkbank
+          abgeführt werden.
+     (12) Das Filtersystem muss so gestaltet sein, dass ein kontaminationsarmer
+          Filterwechsel möglich ist und die Filter bei der Entsorgung nicht zerteilt
+          werden müssen.
+            Des Weiteren müssen die Filter vor Beschädigungen und Berührungen
+            durch geeignete Schutzvorrichtungen in der Werkbank geschützt sein.
+
+
+
+9)   Die Vorteile der Vorfiltration sind, dass der Ventilator nicht der kontaminierten Luft ausgesetzt ist und dass
+     das innerhalb der Werkbank mit kontaminierter Luft beaufschlagte Volumen minimiert wird. Unabhängig
+     davon, sind jedoch bei allen Wartungsarbeiten an Werkbänken mit Vorfilter die gleichen
+     Sicherheitsvorkehrungen zu treffen wie bei entsprechenden Arbeiten an Werkbänken ohne Vorfilter!
+10) HEPA-Filter mindestens Klasse 14 entsprechend den Anforderungen der DIN EN1822-1
+
+
+
+
+ITM-SST 1603.1                                                                             Seite 11 von 34 Seiten
+   (13) Jede Werkbank muss über eine separate Abluftleitung mit einem separaten
+        Abluftventilator verfügen (siehe Anhang „Skizze D“).
+          Nach dem Ventilator kann die Abluft in eine Sammelleitung geführt werden,
+          wenn eine nachteilige Auswirkungen bezüglich der Abluftleitung vor dem
+          Ventilator ausgeschlossen werden kann.
+   (14) Die Verbindung zwischen dem Auslassstutzen der Fortluft und der
+        Abluftleitung, darf nicht hermetisch dicht sein, sondern muss so erfolgen,
+        dass auch Raumluft in die Abluftleitung gesaugt wird. Dies ist erforderlich,
+        um eine eventuelle Rückströmung von Abluft in die Werkbank zu vermeiden
+        und um einen Einfluss des Abluftventilators auf die Strömungsverhältnisse
+        innerhalb der Werkbank auszuschließen. Eine solche Verbindung kann z.B.
+        mittels eines Zugunterbrechers in Form einer „Esse“ realisiert werden (siehe
+        Anhang „Skizze D“).
+          Über die Abluftleitung muss die Fortluft der Werkbank zuzüglich dem
+          Raumluftanteil nach Außen abgeführt werden, d.h. der Abluftvolumenstrom
+          muss größer als der Fortluftvolumenstrom sein.
+   (15) Der Abluftventilator ist möglichst nahe an der Abluftaustrittsöffnung zu
+        installieren, so dass die Abluftleitung im Unterdruck betrieben wird
+        (Saugbetrieb).
+   (16) In der Abluftleitung muss eine Rückschlagklappe vorhanden sein.
+   (17) Die Werkbank und der Abluftventilator müssen technisch so verriegelt sein,
+        dass die Werkbank nicht betrieben werden kann, wenn der Abluftventilator
+        nach Stillstand (z.B. bei Wartungs- oder Reparaturarbeiten am Abluftsystem)
+        nicht läuft bzw. nicht wieder anläuft.
+          In diesem Falle darf an der betroffenen Werkbank keinesfalls gearbeitet
+          werden.
+   (18) Weiterhin muss durch technische Maßnahmen sichergestellt sein, dass in
+        jedem Betriebszustand der Abluftvolumenstrom größer als der
+        Fortluftvolumenstrom der Werkbank ist, damit keine Fortluft in den Raum
+        eindringen kann. Wenn nicht mehr sichergestellt ist, dass die Fortluft
+        vollständig nach außen abgeführt wird, muss ein akustischer und optischer
+        Alarm ausgelöst werden, welcher ausschließlich zu diesem Zwecke dient.
+          Die Tätigkeit an der Werkbank ist im Falle eines Alarms umgehend in
+          ordnungsgemäßer Weise zu beenden. Anschließend muss die
+          Arbeitsöffnung der Werkbank verschlossen und die Werkbank
+          abgeschaltet werden.
+          Im Falle, dass keine manuelle Abschaltung der Werkbank erfolgt, muss
+                                                                     )
+          diese nach ca. 15 Minuten automatisch abgeschaltet werden11 .
+          Der akustische Alarm darf nicht manuell abschaltbar sein ohne, dass die
+          Werkbank außer Betrieb genommen wurde. Die Alarmierung muss in
+
+
+
+11) Die Abschaltzeit ist so zu wählen, dass eine ordnungsgemäße Beendigung der Tätigkeit an der Werkbank
+
+   möglich ist.
+
+
+
+ITM-SST 1603.1                                                                       Seite 12 von 34 Seiten
+        Intervallen erfolgen, um eine ordnungsgemäße Beendigung der Tätigkeit an
+        der Werkbank zu ermöglichen.
+        Der optische Alarm muss bis zu einer manuellen Quittierung erhalten
+        bleiben.
+  (19) Die Ventilatoren der Werkbänke sowie die entsprechenden Abluftventilatoren
+       müssen ständig in Betrieb sein.
+        Wenn nicht an den Werkbänken gearbeitet wird, dürfen die Ventilatoren der
+        Werkbänke jedoch auf Reduktionsstufe betrieben werden.
+  (20) Die Werkbank muss von der Zugangstür entfernt aufgestellt werden, um
+       nachteilige Einflüsse auf die Abzugswirkung der Werkbank beim Öffnen und
+       Schließen der Tür zu vermeiden (siehe Anhang „Skizze C“ und Kapitel
+       4.2.2.1).
+  (21) Aus dem vorgenannten Grund dürfen auch keine zusätzlichen Lüfter,
+       Heizlüfter, Klimageräte etc., im Zubereitungsraum aufgestellt oder installiert
+       werden.
+  (22) Es wird darauf hingewiesen, dass ebenfalls die lüftungstechnischen
+       Anforderungen an den Zubereitungsraum (Kapitel 4.2.2.2) zu beachten sind.
+  (23) Die Werkbank, der Abluftventilator, der Zuluftventilator für die Raumluft
+       sowie das vorerwähnte System der Alarmierung, müssen an die
+       Sicherheitsstromversorgung angeschlossen sein.
+  (24) Alle neu aufzustellenden Sicherheitswerkbänke müssen eventuell vorlie-
+       genden, europäischen Normen (DIN EN) entsprechen. Sollten „Muss“-
+       Bestimmungen europäischer Normen Anforderungen entgegenstehen,
+       welche in der vorliegenden Vorschrift definiert werden, so sind die
+       Anforderungen der europäischen Normen verbindlich.
+        In allen anderen Fällen, d.h. z.B. im Falle von „Kann-„ oder “Soll“-
+        Bestimmungen sind primär die in der vorliegenden Vorschrift definierten
+        Anforderungen verbindlich. Gegebenenfalls können in Abstimmung mit der
+        Gewerbeinspektion jedoch auch abweichende Vereinbarungen getroffen
+        werden.
+
+4.3.2 Organisatorische Maßnahmen
+  (1) An jeder Werkbank ist nur ein Arbeitsplatz zulässig.
+  (2) Zu jeder Werkbank muss eine Bedienanleitung erstellt werden. Diese muss
+       •   in einer für das Personal verständlichen Sprache verfasst sein,
+       •   ständig einsehbar vorgehalten werden und
+       •   Informationen      über    Funktionsweise,    Funktionsprüfung     von
+           Sicherheitseinrichtungen, Gerätepflege, Sicherheitshinweise etc. sowie
+           eine Wartungsanleitung enthalten.
+  (3) An den Werkbänken darf nur gearbeitet werden, wenn sämtliche
+      lüftungstechnische Anforderungen erfüllt (z.B. ordnungsgemäßer Betrieb der
+      jeweiligen Ventilatoren) und die sicherheitstechnischen Einrichtungen
+      funktionsfähig sind. Dies ist vor Aufnahme der Tätigkeit zu prüfen.
+
+
+
+ITM-SST 1603.1                                                     Seite 13 von 34 Seiten
+   (4) Der optimale Arbeitsbereich ist für jede Werkbank vor der ersten
+                                                                           )
+       Inbetriebnahme, unabhängig von den Herstellerangaben, zu ermitteln12 (z.B.
+       mit Hilfe von Rauchstäbchen), festzulegen und zu kennzeichnen.
+        Der optimale Arbeitsbereich liegt hinter dem Teilungsbereich des vertikalen
+                    )
+        Luftstroms13 .
+   (5) Bei   Arbeiten    an    Sicherheitswerkbänken    sind                            Störungen         der
+       Strömungsverhältnisse zu vermeiden. Insbesondere durch
+         •   schnelle Bewegungen,
+         •   Abdecken der Lüftungsschlitze oder
+         •   Verwendung von Wärmequellen (z.B. Brenner, Einschweißgeräte etc.)
+             innerhalb der Werkbank.
+   (6) Es dürfen nur solche Materialien in die Werkbank eingebracht werden, welche
+       für die auszuführende Tätigkeit unbedingt erforderlich sind.
+        Die Arbeitsmaterialien sind geordnet im hinteren Bereich der Werkbank
+        aufzustellen.
+   (7) Die Einbringung der benötigten Materialien in die Werkbank hat vor Aufnahme
+       der Zubereitungstätigkeit zu erfolgen, um ein unnötiges Eingreifen in die
+       Werkbank während der Zubereitung zu vermeiden.
+   (8) Der Arbeitsablauf ist so zu organisieren, dass unnötige Unterbrechungen der
+       Tätigkeit an der Werkbank vermieden werden.
+   (9) Es dürfen ausschließlich Zytostatika in der Werkbank zubereitet werden.
+   (10) Nach jeder Beendigung der Tätigkeit an der Werkbank sind die notwendigen
+        Reinigungs- und Entsorgungsmaßnahmen durchzuführen.
+   (11) Bei Außerbetriebnahme der Werkbank sind die Arbeitsöffnung sowie der
+        Fortluftstutzen zu verschließen.
+
+4.3.3 Abnahmen, wiederkehrende Prüfungen und Wartung
+
+4.3.3.1 Abnahmen und wiederkehrende Prüfungen
+   (1) Die Sicherheitswerkbänke, das Abluftsystem sowie die dazu gehörigen
+       Räume (z.B. Zubereitungsraum, Schleuse und Vorbereitungsraum) müssen
+       vor ihrer Erstinbetriebnahme überprüft werden. Diese Abnahmeprüfung muss
+       durch ein zugelassenes Kontrollbüro erfolgen.
+
+
+
+12) Die Bestimmung des Teilungsbereiches muss unter realistischen Bedingungen erfolgen, d.h. es müssen die
+
+   üblicherweise innerhalb der Werkbank vorhandenen Arbeitsmaterialien aufgestellt sein. Die Aufstellung der
+   Arbeitsmaterialien muss dabei so erfolgen, wie dies auch bei der späteren Tätigkeit an der Werkbank der Fall
+   ist.
+13) Die von oben auf die Arbeitsfläche strömende, saubere Luftmenge teilt sich, um sowohl durch das vordere
+
+   als auch durch das hintere Lüftungsgitter abgeführt zu werden. Im hinteren Bereich ist die Luftströmung vom
+   Arbeitenden weggerichtet und somit wird die Gefahr des versehentlichen Kontaktes mit Zytostatika
+   vermindert.
+
+
+
+ITM-SST 1603.1                                                                         Seite 14 von 34 Seiten
+  (2) Jede örtliche Veränderung einer Sicherheitswerkbank sowie Änderungen an
+      der Werkbank selbst oder am Abluftsystem, machen eine erneute Abnahme-
+      prüfung erforderlich.
+  (3) Alle fünf Jahre sind wiederkehrende, sicherheitstechnische Prüfungen durch
+      ein zugelassenes Kontrollbüro durchführen zu lassen.
+  (4) Zusätzliche  sicherheitstechnische    Prüfungen            können        durch     die
+      Gewerbeinspektion gefordert werden, z.B.
+       • nach Reparaturen,
+       • nach wesentlichen Änderungen und
+       • nach unfallartigen Ereignissen.
+  (5) Die Abnahmen und sicherheitstechnische Prüfungen                  sind    in     einem
+      Wartungsbuch zu dokumentieren (siehe Kapitel 4.3.3.2.).
+
+4.3.3.2 Wartung
+  (1) Wartungsarbeiten müssen gemäß der vom Hersteller der Werkbank
+      vorgegebenen Wartungsanleitung erfolgen (Intervalle und Umfang der
+      Wartungsarbeiten).
+  (2) Unabhängig von den Herstellerangaben ist jedoch mindestens alle 12 Monate
+      eine Wartung durchzuführen.
+  (3) Unabhängig von den Herstellerangaben sind im Rahmen                                der
+      Wartungsarbeiten auch die folgenden Überprüfungen durchzuführen:
+       • Überprüfung und Kennzeichnung des optimalen Arbeitsbereiches der
+         Werkbank.
+       • Lüftungstechnische Überprüfung der Personenschutzfunktion der Werk-
+         bank.
+       • Lüftungstechnische     Überprüfung       des    Fort-    und     Abluftsystems
+         (einschließlich der Ventilatoren und Filter).
+       • Überprüfung der Sicherheitseinrichtungen der Werkbank.
+       • Visuelle Überprüfung des Gesamtzustandes.
+  (4) Bezüglich der durchzuführenden Wartungsarbeiten ist ein Wartungsvertrag
+      mit einer entsprechend qualifizierten Fachfirma abzuschließen.
+  (5) Bei Wartungsarbeiten, insbesondere beim Austausch der Filter, sind die
+      notwendigen Schutzmaßnahmen vorzusehen um Kontaminationen der
+      Umgebung zu vermeiden.
+       Des Weiteren sind die Arbeitsöffnung sowie der Fortluftstutzen zu
+       verschließen, falls im Rahmen von Wartungsarbeiten die Außer-Betriebnahme
+       der Werkbank erfolgt.
+  (6) Bei Wartungsarbeiten am Abluftsystem (z.B. Filterwechsel) und an der
+      Werkbank muss eine komplette Schutzausrüstung getragen werden. Diese
+      besteht aus:
+       • Einwegschutzkittel mit langem Arm und eng anliegendem Bündchen
+
+
+ITM-SST 1603.1                                                       Seite 15 von 34 Seiten
+        • Schutzhandschuhen (eingefärbt, doppelte Wandstärke im Fingerbereich,
+          lange Stulpen - möglichst mit Rollrand, puderfrei, allergenarm)
+        • Schutzbrille mit Seitenschutz
+        • Einmalkopfbedeckung (z.B. Schutzhaube)
+        • Atemschutzmaske (Filterklasse FFP2 bei ausschließlich festen Aerosolen
+          und FFP3 bei festen und flüssigen Aerosolen14))
+        Die Schutzausrüstung muss von allen an Wartungsarbeiten beteiligten
+        Personen getragen werden.
+   (7) Während der Durchführung von Wartungsarbeiten dürfen sich ausschließlich
+       die mit Wartungstätigkeiten befassten Personen im Zubereitungsraum
+       aufhalten.
+   (8) Die bei Wartungsarbeiten entnommenen Filter dürfen nicht zerteilt werden.
+   (9) In Bezug auf die bei der Durchführung von Wartungsarbeiten anfallenden
+       Abfälle sind die Anforderungen des Kapitels 7.3. „Abfälle aus
+       Wartungsarbeiten“ zu beachten.
+   (10) Es ist ein Wartungsbuch zu führen. Sämtliche Wartungsarbeiten, Abnahmen
+        und sicherheitstechnische Prüfungen sind im Wartungsbuch zu
+        dokumentieren. Des Weiteren sind Funktionsstörungen sowie alle sonstigen
+        Feststellungen und Beurteilungen des Bedien- und Wartungspersonals in
+        diesem Buch aufzuführen.
+        Das Wartungsbuch ist der Gewerbeinspektion oder dem mit der Durchführung
+        von Prüfungen beauftragten Kontrollbüro auf Verlangen vorzulegen.
+
+4.4   Anforderungen an das Handling von Zytostatika während der Zubereitung
+
+4.4.1 Schutzmaßnahmen
+   (1) Während der Handhabung von Zytostatika ist die Anzahl der im Raum
+       befindlichen Personen auf das erforderliche Minimum zu beschränken.
+   (2) Während der Handhabung von Zytostatika sind Fenster und Türen
+       geschlossen zu halten.
+   (3) Der Arbeitsablauf ist so zu organisieren, dass der Zytostatika-
+       Zubereitungsraum während der Zubereitung nicht betreten oder verlassen
+       werden muss.
+   (4) Die Durchreiche muss während der Tätigkeit an der Werkbank geschlossen
+       gehalten werden. Ist die Durchreiche jedoch als „Materialschleuse“
+       ausgeführt, so darf diese auch während der Tätigkeit an der Werkbank
+       benutzt werden, wenn sichergestellt ist, dass immer nur eine Seite der
+       Durchreiche geöffnet sein kann (gegenseitige Verriegelung der beiden
+       Öffnungen).
+
+
+
+
+14) Filterklassen nach EN149:2001
+
+
+
+
+ITM-SST 1603.1                                                    Seite 16 von 34 Seiten
+   (5) Die Zubereitung von Zytostatika darf ausschließlich innerhalb laufender
+       (Vollstufe) und funktionstüchtiger Sicherheitswerkbänke und über einer
+       saugfähigen Unterlage mit flüssigkeitsdichter Rückseite erfolgen.
+        Trotzdem müssen alle Maßnahmen getroffen werden, um die Freisetzung von
+        flüssigen oder festen Zytostatika zu vermeiden. Aus diesem Grund sind bei
+        der Entnahme von Zytostatika aus Mehrdosisbehältern besondere
+        Druckentlastungs- oder Überleitungssysteme mit wasserabweisenden Filtern
+        zu     verwenden     (z.B.     Chemo-Filterspikes).  Grundsätzlich   sind
+        Verbindungssystem zu verwenden, welche ein versehentliches Lösen von
+        Verbindungen verhindern (z.B. Luer-Lock).
+        Die Unterlage ist mindestens nach jeder Beendigung der Tätigkeit zu
+        erneuern. Im Falle von Kontaminationen ist die Unterlage sofort zu erneuern
+        um eine äußere Kontamination von Behältnissen zu vermeiden.
+   (6) Das Aufziehen und Umfüllen von Zytostatika darf ausschließlich in
+       bruchsichere Behältnisse erfolgen.
+   (7) Zur Sammlung von Kanülen muss innerhalb der Werkbank ein bruchfestes,
+       flüssigkeitsdichtes und luftdicht verschließbares Gefäß vorhanden sein.
+        Das Sammelgefäß ist bei Aufnahme der Tätigkeit an der Werkbank zu öffnen
+        und bei Beendigung der Tätigkeit umgehend zu verschließen.
+   (8) Die applikationsfertigen Zubereitungen sind unmittelbar nach der Zubereitung
+       in geeignete Folien einzuschweißen und zu kennzeichnen.
+   (9) Das Einschweißen der Zubereitungen darf nicht innerhalb der Werkbank
+       erfolgen, muss aber innerhalb des Zytostatika-Zubereitungsraumes
+                    )
+       stattfinden15 .
+        Das Einschweißen darf keinesfalls im Vorbereitungsraum erfolgen.
+   (10) Beim Einschweißen sowie jeglichem anderen Umgang mit Zytostatika
+        innerhalb des Zubereitungsraumes, müssen Schutzhandschuhe (puderfrei,
+        allergenarm) getragen werden (siehe auch Kapitel 4.4.2).
+   (11) Ist es aus organisatorischen Gründen unvermeidbar, dass angebrochene
+        Zytostatika-Behältnisse gelagert oder zwischengelagert werden, so sind diese,
+        je nach Stabilität, in Kühlschränken oder in anderen dafür vorgesehenen
+        Schränken aufzubewahren. Dabei ist wie folgt vorzugehen:
+        •    Entnahmespike verschließen
+        •    Behältnis einschweißen
+        •    Eingeschweißtes Behältnis in eine dafür vorgesehene, gesonderte
+             Lagerbox überführen
+        •    Lagerbox im Kühlschrank, bzw. Schrank aufbewahren.
+
+
+
+
+15) Beim Einschweißen innerhalb der Werkbank besteht die Gefahr der Kontamination der Einschweißfolie. Des
+
+   weiteren kann die Abzugswirkung der Werkbank durch die Hitze des Einschweißgerätes gestört werden.
+
+
+
+ITM-SST 1603.1                                                                     Seite 17 von 34 Seiten
+4.4.2 Persönliche Schutzausrüstung
+   (1) Beim Auspacken von Zytostatika besteht eine potentielle Gefahr
+       dahingehend, dass es durch unsachgemäßen Transport oder Lagerung zu
+       Bruch gekommen sein kann oder bereits beim Hersteller zu Kontaminationen
+       der Verpackung gekommen ist. Deswegen müssen beim Auspacken
+       Schutzhandschuhe (puderfrei, allergenarm) getragen werden (2 Paar
+       geeignete Schutz- oder 1 Paar Zytostatika-Schutzhandschuhe).
+        Wird beim Auspacken Bruch festgestellt, ist die Schutzausrüstung umgehend
+        durch dienen flüssigkeitsdichten Einwegkittel, Schutzbrille und geeignete
+        Maske zu ergänzen.
+   (2) Bei allen Arbeiten in der Werkbank muss das Personal persönliche
+       Schutzausrüstung tragen. Diese besteht grundsätzlich aus:
+        • Flüssigkeitsdichtem Schutzkittel, möglichst als Einwegkittel16 , mit langem
+                                                                                            )
+
+          Arm und eng anliegendem Bündchen. Werden textile Mehrwegkittel als
+          Schutzkittel verwendet, so muss die Vorderseite dieser Kittel geschlossen
+          und mindestens flüssigkeitsabweisend sein und es müssen zusätzlich
+          flüssigkeitsdichte Einweg-Unterarmstulpen getragen werden.
+        • Geeigneten Schutzhandschuhen (eingefärbt, doppelte Wandstärke im
+          Fingerbereich, lange Stulpen - möglichst mit Rollrand, puderfrei,
+          allergenarm).
+   (3) Bei sichtbarer Kontamination oder Beschädigung sind die Schutzhandschuhe
+       umgehend zu wechseln, wobei im Falle einer Beschädigung zusätzlich eine
+       Dekontamination der Hände erfolgen muss.
+        Unabhängig davon, müssen die Schutzhandschuhe spätestens alle 30
+        Minuten gewechselt werden, sofern die Art und Eigenschaften der
+        verwendeten Zytostatika keinen früheren Wechsel verlangen (siehe hierzu die
+        Angaben des Arzneimittelherstellers).
+   (4) Die verwendeten Schutzkittel sowie eventuelle Unterarmstulpen sind bei
+       sichtbarer oder bekannter Kontamination umgehend innerhalb des
+       Zubereitungsraumes zu wechseln.
+        Ansonsten sind die Schutzkittel und eventuelle Unterarmstulpen nach jeder
+        Beendigung der Tätigkeit an der Werkbank, d.h. beim Verlassen der
+        Werkbank, innerhalb des Zubereitungsraumes abzuwerfen (siehe dazu auch
+        Kapitel 7 „Entsorgung“).
+
+4.4.3 Persönliche Hygienemaßnahmen
+   (1) Innerhalb der Schleuse ist die arbeitsplatzspezifische Kleidung, d.h. Labor-
+       und/oder Schutzkittel, anzulegen. Die Schleuse darf allerdings nicht als
+       Umkleideraum, d.h. zum Ablegen von Straßenkleidung, genutzt werden.
+   (2) Der Aufenthalt im Zubereitungsraum ist unbedingt auf die zur Durchführung
+       der dort erfolgenden Tätigkeiten erforderliche Dauer zu beschränken.
+
+
+16) Bei der Verwendung von Mehrwegkitteln besteht die prinzipielle Gefahr, dass Zytostatika über kontaminierte
+
+   Kittel in die Waschflotte überführt und auf diese Art und Weise verteilt werden.
+
+
+
+ITM-SST 1603.1                                                                        Seite 18 von 34 Seiten
+  (3) Der Zubereitungs- und der Vorbereitungsraum dürfen nicht als Pausenraum
+      genutzt werden.
+  (4) Die Aufbewahrung von Nahrungs- und Genussmitteln in der Schleuse, im
+      Zubereitungsraum oder im Vorbereitungsraum ist verboten.
+  (5) Innerhalb des Zytostatika-Zubereitungsraumes und des Vorbereitungsraumes
+      ist mittels entsprechender Verbotszeichen darauf hinzuweisen, dass die
+      Aufnahme von Nahrungs- und Genussmitteln (Essen, Trinken, Rauchen etc.)
+      verboten ist.
+  (6) Aus Sicherheitsgründen ist das Wechseln von Kontaktlinsen sowie das
+      Auftragen von Kosmetika oder Körperpflegemitteln innerhalb des Zytostatika-
+      Zubereitungsraumes verboten.
+  (7) Beim Arbeiten mit Zytostatika dürfen keine Uhren oder Schmuck an den
+      Unterarmen oder Händen getragen werden.
+  (8) Die Fingernägel müssen kurz geschnitten sein. Lange Fingernägel, künstliche
+      Fingernägel, Nagelpiercings und sonstiger Nagelschmuck darf nicht getragen
+      werden, da sonst ein ein erhöhtes Risiko der Handschuhperforation besteht.
+  (9) Nach Beendigung der Tätigkeit an der Werkbank müssen die
+      Unterarmstulpen, die Schutzhandschuhe und dann der Schutzkittel
+      ausgezogen und innerhalb des Zubereitungsraumes abgeworfen werden.
+       Im Anschluss daran sind im Zubereitungsraum die Hände zu waschen.
+  (10) Laborkittel müssen nach Beendigung der Tätigkeit abgeworfen werden
+       (entweder innerhalb des Zubereitungsraumes oder innerhalb der Schleuse).
+       Anschließend müssen die Hände gewaschen werden.
+
+4.5   Anforderungen an die Reinigung und Desinfektion
+  (1) Es muss ein Reinigungsplan für die Räumlichkeiten und die Werkbank erstellt
+      werden.
+  (2) Die Reinigung und Aufbereitung der Innenflächen der Werkbank darf
+      ausschließlich durch autorisiertes und entsprechend geschultes Personal
+      (Apothekenpersonal) erfolgen.
+       Reinigungsarbeiten innerhalb der Werkbank dürfen ausschließlich bei
+       laufender Werkbank (Vollstufe) durchgeführt werden.
+  (3) Bei Reinigungsarbeiten müssen, zusätzlich zu der im Kapitel 4.4.2 genannten
+      Schutzausrüstung, eine Schutzbrille mit Seitenschutz und eine
+      Einmalkopfbedeckung (z.B. Schutzhaube) getragen werden.
+  (4) Das Reinigungspersonal darf den Zytostatika-Zubereitungsraum sowie die
+      äußeren Flächen der Werkbank reinigen.
+       Das Reinigungspersonal muss diesbezüglich sowie in Bezug auf die
+       Gefährdungsmöglichkeiten durch Zytostatika unterwiesen sein.
+  (5) Bei versehentlicher Freisetzung von Zytostatika innerhalb des Raumes, darf
+      die Reinigung jedoch ausschließlich durch autorisiertes und entsprechend
+      geschultes Personal (Apothekenpersonal) erfolgen, wobei die komplette
+      Schutzausrüstung zu verwenden ist.
+
+
+ITM-SST 1603.1                                                 Seite 19 von 34 Seiten
+    (6) Zur Desinfektion der Werkbank dürfen keine aldehydhaltigen Produkte
+        verwendet werden.
+        Des Weiteren muss der Flammpunkt der verwendeten Desinfektionsmittel
+        oberhalb von 23°C liegen.
+        Die Desinfektion darf nur als Wischdesinfektion und auch nur bei laufender
+        Werkbank (Vollstufe) erfolgen.
+    (7) Die zur Reinigung und Desinfektion verwendeten Wischmaterialien müssen so
+        beschaffen sein, dass diese nicht mit dem Luftstrom abgesaugt werden
+        können.
+    (8) Die zur Reinigung der Innenflächen von Werkbänken verwendeten Tücher
+        dürfen keiner Wiederverwendung zugeführt werden.
+
+
+5     Transport von Zytostatika
+
+5.1    Transport zu den Stationen
+    (1) Die Übergabe der applikationsfertigen Zubereitungen aus der Apotheke darf
+        nur über die Durchreiche bzw. die Materialschleuse erfolgen.
+
+    (2) Der Transport von Zytostatika und deren Zubereitungen darf nur durch
+        entsprechend geschultes und unterwiesenes Personal erfolgen.
+
+    (3) Die applikationsfertigen Zubereitungen17) dürfen nur in eingeschweißtem
+        Zustand transportiert werden und müssen zum Transport in bruchsichere,
+        verschließbare und flüssigkeitsdichte Behältnisse eingelegt sein. Diese
+        Transportbehälter müssen entsprechend des Inhaltes gekennzeichnet sein
+        (z.B. mittels Aufkleber „Vorsicht, enthält Zytostatika!“ und „Totenkopfsymbol“).
+
+    (4) Der Transport von Zytostatika mittels Rohrpostanlagen ist nur unter
+        Einhaltung nachfolgender Anforderungen gestattet:
+        • Die Büchsen zum Transport von CME-Arzneimitteln dürfen ausschließlich
+          zu diesem Zweck verwendet werden und müssen die folgenden
+          Anforderungen erfüllen:
+          − nur von einer Seite zu öffnen
+          − im geschlossenen Zustand auslaufsicher
+          − formstabil
+          − bruchsicher
+          − transparent
+          − am Boden ausgelegt mit saugfähigem Material
+          − eindeutig gekennzeichnet (z.B. mittels Aufkleber „Vorsicht, enthält
+            Zytostatika!“ und „Totenkopfsymbol“)
+
+
+
+17) Die Zubereitungen selbst sollen sich möglichst bereits in bruchsicheren Behältnissen (z.B. Beuteln) befinden.
+
+
+
+
+ITM-SST 1603.1                                                                           Seite 20 von 34 Seiten
+       • Entnahmestellen müssen        zugriffgeschützt   sein   (z.B.   über    Code,
+         biometrischen Sensor etc.)
+       • Transportbüchsen mit offensichtlich beschädigtem Inhalt oder offensichtlich
+         kontaminierte Transportbüchsen dürfen an der Empfangsstelle nicht
+         geöffnet werden sondern müssen auf herkömmlichen Wege (d.h. nicht mit
+         der Rohrpost) zurück in die Apotheke transportiert werden. Die Büchse ist
+         dort innerhalb der Werkbank im Zubereitungsraum zu öffnen, der Inhalt
+         sachgemäß zu entsorgen und die Büchse fachgerecht zu dekontaminieren,
+         bevor diese zur normalen Aufbereitung gegeben wird. Gegebenenfalls ist
+         die gesamte Transportbüchse zu entsorgen.
+
+
+5.2   Transport auf öffentlichen Verkehrswegen
+  (1) Unter „Transport von Zytostatika auf öffentlichen Verkehrswegen“ wird im
+      Sinne dieser Vorschrift der Transport von Zytostatikazubereitungen
+      verstanden, wenn dieser auf Wegen außerhalb der Einrichtung, in welcher die
+      Zubereitung erfolgt ist, stattfindet.
+
+  (2) Der Transport muss innerhalb eines abgesperrten, stoßfesten sowie
+      mechanisch stabilen und flüssigkeitsdichten Transportbehälters erfolgen. Die
+      Zubereitung muss des Weiteren eingeschweißt sein.
+
+  (3) Der Transportbehälter muss mit saugfähigem Material ausgelegt sein.
+
+  (4) Der Transportbehälter muss entsprechend des Inhaltes gekennzeichnet
+      werden (z.B. „Vorsicht, enthält Zytostatika!“ und „Totenkopfsymbol“).
+
+  (5) Der Transportbehälter muss während des Transportes im Fahrzeug arretiert
+      (fixiert) werden.
+
+  (6) Der Fahrzeugführer muss bezüglich der Gefahren durch Zytostatika und dem
+      Verhalten im Notfall unterwiesen sein.
+
+  (7) Im Fahrzeuge muss ein Notfallset mitgeführt werden, welches alle
+      erforderlichen Materialien sowie eine Anweisung zur sicheren Aufnahme
+      unfallbedingt ausgetretener Zytostatika enthält (Inhalt siehe Kapitel 10.3).
+
+  (8) Es muss ein Unfallmerkblatt mit Informationen für Einsatzkräfte bezüglich der
+      Verhaltensmaßnahmen bei Beschädigung des Behälters gemeinsam mit den
+      sonstigen Begleitpapieren mitgeführt werden.
+
+  (9) Zytostatika dürfen nicht in einem unverschlossenen Fahrzeug zurückgelassen
+      werden.
+
+
+
+
+ITM-SST 1603.1                                                     Seite 21 von 34 Seiten
+6     Applikation
+
+6.1     Allgemeines
+      (1) Die Applikation von Zytostatika ist räumlich möglichst zu zentralisieren.
+      (2) Die Applikation von Zytostatika darf grundsätzlich nur durch entsprechend
+          geschultes und unterwiesenes Personal erfolgen.
+      (3) Mit der Applikation von Zytostatika dürfen die folgenden Personengruppen
+          nicht betraut werden:
+         •    Schwangere Frauen
+         •    Stillende Frauen
+         •    Jugendliche unter 18 Jahren
+      (4) Während der Applikation muss ein Notfallset mit persönlicher
+          Schutzausrüstung bereitgehalten werden (zum erforderlichen Inhalt des
+          Notfallsets siehe Kapitel 10 „Notfallplan“).
+      (5) Des Weiteren müssen während der Applikation Schutzhandschuhe
+          (puderfrei, allergenarm) und flüssigkeitsdichte Kittel (z.B. als Einmalkittel)
+          getragen werden.
+
+6.2     Applikation von Zytostatika per Infusion
+    (1) Zur Vermeidung von Verunreinigungen der Umgebung ist bei der Applikation
+        per Infusion wie folgt vorzugehen18):
+         •    Infusionsbesteck mit isotonischer Kochsalzlösung bzw. der verwendeten
+              Trägerlösung befüllen und entlüften. Anschließend Tropfenregler
+              verschließen.
+         •    Anschluss des entlüfteten Bestecks an das Infusionsbehältnis (bei
+              Infusionsflaschen das Besteck von oben durch den Stutzen stecken, bei
+              Infusionsbeuteln den Anstechstutzen festhalten und diesen in horizontaler
+              Lage mit dem Besteck anstechen).
+         •    Konnektieren des Systems und Öffnen des Tropfenreglers.
+         •    Nach dem Leerlaufen der Infusion das Besteck möglichst mit
+              Trägerlösung nachspülen (ohne „Umstecken“, z.B. durch Verwendung
+              verzweigter Infusionssysteme).
+         •    Vor dem Abnehmen der Infusion Tropfenregler wieder vollständig
+              schließen.
+         •    Infusionsbehältnis und Besteck nach Gebrauch nicht trennen, sondern
+              komplett entsorgen.
+
+
+
+
+18) Infusionen sollten möglichst schon mit angeschlossenem und mit Trägerlösung gefülltem Infusionsbesteck
+
+    geliefert werden werden.
+
+
+
+ITM-SST 1603.1                                                                     Seite 22 von 34 Seiten
+  (2) Bei der Vorbereitung der Infusion muss zusätzlich ein Spritzschutz für das
+      Gesicht getragen werden. Die zusätzliche Verwendung einer aerosoldichten
+      Maske (z.B. Feinstaubfilter) wird empfohlen.
+  (3) Die Verwendung spezieller Überleitsysteme (z.B. Cyto-Set®, PhaSeal® etc.)
+      zur leckage- und kontaminationsfreien Übertragung per Infusion wird
+      empfohlen.
+  (4) Die Vorbereitung sowie sonstiger Umgang mit den Zubereitungen müssen
+      über einer saugfähigen und nach unten flüssigkeitsdichten Unterlage erfolgen.
+
+6.3   Applikation von Zytostatika per Injektion
+  (1) Die Injektion mittels Kanülen ist verboten.
+  (2) Zur Vermeidung versehentlicher Diskonnektionen während Injektionen sind
+      ausschließlich gesicherte Systeme (z.B. Luer-Lock) zu verwenden.
+  (3) Die Applikation muss über einer               saugfähigen   und   nach     unten
+      flüssigkeitsdichten Unterlage erfolgen.
+
+6.4   Orale Applikation von Zytostatika
+  (1) Die Entnahme oraler Darreichungsformen (z.B. Tabletten, Kapseln, Dragees
+      etc.) soll erst unmittelbar vor der Verabreichung an den Patienten erfolgen.
+  (2) Bei der Entnahme und Verteilung oraler Darreichungsformen in die für die
+      Patienten vorgesehenen Behältnisse (z.B. Dispenser, Medikamentenbecher
+      etc.) müssen Schutzhandschuhe (puderfrei, allergenarm) getragen werden.
+      Kittel sind nicht zwingend gefordert, werden aber empfohlen.
+  (3) Tabletten sollen möglichst in Einweg-Medikamentenbechern gereicht werden,
+      aus welchen diese ohne Kontakt mit den Fingern entnommen werden können.
+      Die leeren Becher sind anschließend zu entsorgen.
+  (4) Das Teilen, Zerkleinern (z.B. Mörsern) oder Öffnen oraler Darreichungsformen
+      ist grundsätzlich zu vermeiden.
+       Sollten solche Tätigkeiten in Ausnahmefällen zwingend erforderlich sein, so
+       sollten diese in der Apotheke innerhalb der Zytostatika-Werkbank erfolgen.
+       Zur Vermeidung von Stäuben sind geeignete Schutzmaßnahmen zu ergreifen
+       (z.B. Teilen von Tabletten innerhalb geschlossenem Druckverschlussbeutel,
+       Mörsern von Tabletten innerhalb eines geschlossenen Systems etc.).
+
+6.5   Applikation von Zytostatika mittels Ernährungssonde
+  (1) Bei der Applikation von Zytostatika mittels Ernährungssonden sind diese
+      möglichst in Form von Lösungen zu verwenden.
+  (2) Das Teilen, Zerkleinern (z.B. Mörsern) oder Öffnen oraler Darreichungsformen
+      sowie die Verwendung von Pulver ist grundsätzlich zu vermeiden (siehe dazu
+      auch vorheriges Kapitel).
+
+
+
+
+ITM-SST 1603.1                                                     Seite 23 von 34 Seiten
+7     Entsorgung
+
+7.1    Abfälle aus der Zubereitung und Reinigung
+    (1) Bei der Zubereitung von Zytostatika fallen kontaminierte Materialien an,
+        welche als Abfall zu entsorgen sind. Diese können z.B. sein:
+         •    Reste konzentrierter Zytostatikalösungen (Injektionen)
+         •    Reste verdünnter Lösungen (Infusionen, Instillationen)
+         •    Leergut (Originalbehältnisse, Spritzen, Überleitsysteme etc.)
+         •    Hilfsmittel der Zubereitung (Tupfer, Unterlagen, Schutzhandschuhe,
+              Sammelgefäß mit Kanülen etc.)
+    (2) Die Entsorgung von Zytostatika und deren Zubereitungen über den
+        Wasserpfad ist verboten.
+    (3) Zur endgültigen Entsorgung vorerwähnter, kontaminierter Abfälle aus der
+        Zubereitung, muss sich im Zubereitungsraum in unmittelbarer Nähe zur
+        Werkbank ein Einschweißgerät mit direktem Einzug in ein durchstichfestes
+        Behältnis befinden (z.B. Pacto-Safe).
+        Der Füllgrad des durchstichfesten Behältnisses ist täglich zu kontrollieren
+        damit eine Überfüllung vermieden wird.
+        Das manuelle Nachdrücken von Abfall in das Behältnis ist strikt
+        verboten.
+    (4) Grundsätzlich sind alle Materialien als Abfall über das Einschweißgerät zu
+        entsorgen, welche potentiell mit Zytostatika kontaminiert sind, d.h. auch
+        Einwegkittel und Einweg-Unterarmstulpen.
+    (5) Mehrwegkittel müssen ebenfalls entsorgt werden, wenn eine sichtbare
+        Kontamination mit Zytostatika oder ein entsprechender Verdacht vorliegt.
+        Dazu sind die Kittel in geeignete, dicht schließende, flüssigkeitsdichte und
+        gekennzeichnete Abfallbehältnisse zu überführen.
+    (6) Alle bei der Reinigung von Werkbänken anfallende Abfälle, müssen ebenfalls
+        mittels des vorerwähnten Einschweißgerätes entsorgt werden.
+    (7) Sämtliche Abfälle19)            sind     dem       gleichen,      externen       Entsorgungspfad
+        zuzuführen.
+        Die zum Abtransport aus der Einrichtung verwendeten Behältnisse müssen
+        transportfest, feuchtigkeitsbeständig, flüssigkeitsdicht, durchstichfest und
+        festverschließbar sein.
+        Es empfiehlt sich, die Abfälle bereits am Ort des Entstehens innerhalb
+        entsprechender Transportbehälter zu sammeln, da ein Entleeren oder
+        Umfüllen von Sammelehältern nicht gestattet ist.
+
+
+
+
+19) Es darf keine Unterscheidung in „stark“ kontaminierte oder „leicht“, bzw. „potentiell“ kontaminierte Abfälle
+
+    vorgenommen werden.
+
+
+
+ITM-SST 1603.1                                                                          Seite 24 von 34 Seiten
+7.2   Abfälle aus der Applikation
+  (1) Bei der Applikation von Zytostatika fallen kontaminierte und potentiell
+      kontaminierte Materialien an, welche als Abfall zu entsorgen sind. Diese
+      können z.B. sein:
+       •   Reste verdünnter Lösungen (Infusionen, Instillationen)
+       •   Leergut (Infusionsbehälter, Applikationsbestecke, Spritzen etc.)
+       •   Hilfsmittel der Applikation (Tupfer, Unterlagen, Schutzhandschuhe etc.)
+  (2) Zur endgültigen Entsorgung vorerwähnter Abfälle muss sich auf der
+      betreffenden Station ein Einschweißgerät mit direktem Einzug in ein
+      durchstichfestes Behältnis befinden (z.B. Pacto-Safe).
+  (3) Alle Abfälle sind umgehend innerhalb des Zimmers in einen
+      flüssigkeitsdichten und verschließbaren Beutel einzufüllen. Der Beutel mit den
+      Abfällen ist sofort in das auf der Station bereit stehende Einschweißgerät zu
+      überführen.
+  (4) Die externe Entsorgung der Abfälle aus der Applikation muss analog der
+      Entsorgung der Abfälle aus der Zubereitung und Reinigung erfolgen (siehe
+      Kapitel 7.1).
+
+7.3   Abfälle aus Wartungsarbeiten
+  (1) Alle bei der Durchführung von Wartungsarbeiten anfallenden Abfälle (z.B.
+      Filter, persönliche Schutzausrüstung etc.,) müssen innerhalb des
+      Zubereitungsraumes umgehend in geeignete, dicht schließende und
+      gekennzeichnete Abfallbehälter überführt und anschließend einer
+      sachgerechten Entsorgung zugeführt werden.
+  (2) Das Zerteilen der bei Wartungsarbeiten entnommenen Filter ist nicht
+      gestattet.
+  (3) Die mit der Durchführung von Wartungsarbeiten beauftragten Unternehmen
+      sind in Bezug auf die vorgenannten Punkte zu belehren.
+
+7.4   Sonstige Abfälle
+  (1) Im Falle sonstiger, mit Zytostatika kontaminierter und potentiell kontaminierter
+      Abfälle, z.B. aus unfallartigen Ereignissen, ist entsprechend dem Notfallplan
+      gemäß Kapitel 10) dieser Vorschrift vorzugehen.
+  (2) Die externe Entsorgung muss analog der Entsorgung der Abfälle aus der
+      Zubereitung und Reinigung erfolgen (siehe Kapitel 7.1).
+
+7.5   Körperflüssigkeiten und Ausscheidungen
+  (1) Erbrochenes nach oraler Gabe sowie Ausscheidungsprodukte von Patienten
+      nach Hochdosistherapien sind unverzüglich und sachgerecht zu beseitigen
+      und über das Einschweißgerät zu entsorgen. Die Beseitigung muss
+      gegebenenfalls unter Zuhilfenahme eines Notfallsets entsprechend Kapitel 10
+      „Notfallplan“ erfolgen.
+
+
+
+ITM-SST 1603.1                                                      Seite 25 von 34 Seiten
+    (2) Ansonsten können Ausscheidungen und Wäsche der Patienten auf dem
+        üblichen Weg entsorgt bzw. aufbereitet werden, wobei jedoch die
+        Anforderungen an die Arbeitshygiene zu beachten sind.
+
+
+8    Ergonomie
+    (1) Die Arbeitsorganisation und die Arbeitsabläufe sind so zu organisieren, dass
+        unnötige Wege und Arbeitsunterbrechungen vermieden werden.
+    (2) Die Raumgestaltung und Einrichtung der Räume muss sich an der
+        Arbeitsablauforganisation orientieren.
+    (3) Der Schalldruckpegel     einer   Sicherheitswerkbank   darf     58 dB(A)      nicht
+        überschreiten.
+    (4) Der Gesamtgeräuschpegel im Zubereitungsraum (durch Abluftleitungen,
+        weitere Zytostatika-Werkbänke, Raumlüftung etc.) darf 70 dB(A) nicht
+        überschreiten.
+    (5) Die Raumtemperatur darf 19°C nicht unterschreit en und 24°C nicht
+        überschreiten. Die Raumluftfeuchte muss im Bereich von 35 bis 60 % rel.
+        Feuchte liegen. Diese Werte sind gegebenenfalls durch eine Klimatisierung
+        der Raumluft zu gewährleisten.
+    (6) Zugluft muss vermieden werden             (siehe    auch      Kapitel      4.2.2.2
+        „Lüftungstechnische Anforderungen“).
+    (7) Die Höhe der Oberkante der höchsten Lagerebene von Schränken und
+        Regalen darf 1,8 m nicht überschreiten.
+    (8) Ablagen und andere Arbeitsflächen sind auf einer Arbeitshöhe von 90 cm
+        anzulegen.
+    (9) Stühle müssen höhenverstellbar sein und eine ergonomisch korrekte
+        Sitzposition ermöglichen.
+    (10) Es müssen ausreichend Stehstühle vorgehalten werden, jedoch mindestens
+         ein Stehstuhl für zwei gleichzeitig anwesende Personen.
+    (11) Das Reglement „Règlement grand-ducal du 4 novembre 1994 concernant les
+         prescriptions minimales de sécurité et de santé relatives au travail sur les
+         équipements à écran de visualisation“ ist zu beachten.
+
+
+9    Schulung und Betriebsanweisungen
+    (1) Für alle mit der Zubereitung, dem Transport und der Applikation betrauten
+        Personen ist vor Aufnahme der entsprechenden Tätigkeit und danach
+        mindestens einmal jährlich, eine der jeweiligen Tätigkeit angepasste
+        Unterweisung durchzuführen.
+       Auch das mit Reinigungsarbeiten innerhalb des Zubereitungsraumes betraute
+       Reinigungspersonal muss bezüglich der Gefährdungsmöglichkeiten durch
+       Zytostatika unterwiesen werden.
+
+
+
+
+ITM-SST 1603.1                                                        Seite 26 von 34 Seiten
+  (2) Die Unterweisungen müssen durch den Sicherheitsbeauftragten durchgeführt
+      werden und mindestens die folgenden Themen umfassen:
+       •   Gefahrenpotentiale der verwendeten Zytostatika
+       •   Persönliche Schutzausrüstung
+       •   Schutzmaßnahmen
+       •   Persönliche Hygienemaßnahmen
+       •   Notfallplan
+       Darüber hinaus sind arbeitsplatzspezifische Inhalte zu berücksichtigen (z.B.
+       Funktionsweise und Bedienung der Sicherheitswerkbank, Organisation des
+       Arbeitsablaufes etc.).
+  (3) Durch den Arbeitgeber, bzw. durch den Sicherheitsbeauftragten, sind
+      Betriebsanweisungen zu erstellen.
+       Dies bedeutet, dass entsprechend den Tätigkeiten spezifische, schriftliche
+       Anweisungen in Form von standardisierten Vorgehensweisen zu erstellen
+       sind.
+       Diese Betriebsanweisungen sind gemeinsam mit den Verantwortlichen der
+       jeweiligen Abteilung wo mit Zytostatika umgegangen wird auszuarbeiten.
+       Die Betriebsanweisungen sind, entsprechend der jeweils ausgeübten
+       Tätigkeiten, an das Personal auszuhändigen.
+  (4) Bei Einführung neuer Verfahren und Geräte, Änderungen der Organisation
+      des Arbeitsablaufes, Verwendung anderer Zytostatika etc., sind
+      entsprechende Unterweisungen durchzuführen.
+       Bereits vorhandene Betriebsanweisungen sind den neuen Gegebenheiten
+       anzupassen.
+
+
+10 Notfallplan
+
+10.1 Allgemeines
+  (1) Der Notfallplan ist vom Arbeitgeber, bzw. dem Sicherheitsbeauftragten in
+      Form einer Betriebsanweisung zu erstellen.
+  (2) Sämtliche Dekontaminations- und Reinigungsarbeiten im Rahmen eines
+      unfallartigen Ereignisses dürfen ausschließlich durch autorisiertes und
+      entsprechend unterwiesenes Personal erfolgen.
+
+10.2 Kontaminationen innerhalb der Werkbank
+  (1) Bei Kontaminationen der Unterlage muss diese umgehend dem
+      Einschweißgerät für Abfälle zugeführt und durch eine neue Unterlage ersetzt
+      werden.
+  (2) Bei Kontaminationen von Flächen innerhalb der Werkbank ist wie folgt
+      vorzugehen:
+
+
+
+ITM-SST 1603.1                                                   Seite 27 von 34 Seiten
+       •   Flüssigkeiten sind mit Tupfer oder trockenem Tuch aufzusaugen.
+           Trockensubstanzen sind mit einem angefeuchteten Tuch aufzunehmen.
+           Kontaminierte Tücher sind dem Einschweißgerät für Abfälle zuzuführen.
+       •   Die betroffene Stelle ist abschließend dekontaminierend zu reinigen.
+  (3) Bei Kontaminationen schwer zugänglicher Stellen (z.B. Lüftungsschlitze etc.)
+      ist wie folgt vorzugehen:
+       •   Die direkt erreichbaren Kontaminationen sind mit saugfähigen Tüchern
+           oder anderen saugfähigen Materialien aufzunehmen und aufzusaugen.
+       •   Die Werkbank ist, bei laufender Absaugung, so zu zerlegen, dass die
+           kontaminierten Stellen erreicht und die Kontaminationen aufgenommen
+           werden können.
+       •   Die betroffenen Stellen sind abschließend dekontaminierend zu reinigen.
+           Der Zusammenbau der Werkbank darf erst nach Abschluss der Reinigung
+           erfolgen.
+       •   Die entstehenden Abfälle sind umgehend über ein Einschweißgerät (z.B.
+           Pacto-Safe®) mit direktem Einzug in ein durchstichfestes Behältnis zu
+           entsorgen.
+       •   Bei Kontaminationen der HEPA-Filter einer Werkbank darf diese nicht
+           mehr benutzt werden und muss außer Betrieb genommen werden.
+  (4) Nach Beendigung vorgenannter Dekontaminationsarbeiten muss unverzüglich
+      ein Handschuhwechsel erfolgen. Die zur Dekontamination verwendeten
+      Handschuhe sind dem Abfall zuzuführen.
+
+10.3 Kontaminationen außerhalb der Werkbank
+  (1) In allen Bereichen, in welchen die Möglichkeit der unbeabsichtigten
+      Freisetzung von Zytostatika besteht, ist ein Notfallset bereit zu halten,
+      welches die folgende persönliche Schutzausrüstung und technischen
+      Hilfsmittel enthält:
+       •   Überschuhe (bei Kontaminationen des Bodens)
+       •   flüssigkeitsdichter Einmalkittel mit langem Arm und eng anliegendem
+           Bündchen
+       •   Schutzbrille mit Seitenschutz
+       •   Zytostatika-Schutzhandschuhe
+       •   Atemschutzmaske (mindestens P2)
+       sowie
+       •   flüssigkeitsadsorbierende Tücher (z.B. ChemoSorb®-Tücher)
+       •   Aufnahme- und Abfallbehältnis (luftdicht verschließbarer Beutel)
+       •   Handschaufel
+
+  (2) Im Falle der unbeabsichtigten Freisetzung von Zytostatika sind die folgenden
+      Maßnahmen zu ergreifen:
+
+
+ITM-SST 1603.1                                                     Seite 28 von 34 Seiten
+       •   Der betroffene Bereich ist abzusperren, bzw. zu kennzeichnen, um eine
+           Verschleppung von Kontaminationen zu verhindern.
+       •   Verunreinigungen durch verschüttete Zytostatika unter Zuhilfenahme des
+           Notfallsets unverzüglich und sachgerecht beseitigen. Flüssigkeiten sind
+           mit trockenen Tüchern aufzusaugen. Trockensubstanzen sind mit
+           angefeuchteten Tüchern aufzunehmen. Die kontaminierten Tücher sind
+           umgehend in einen Beutel zu überführen.
+       •   Zum Aufnehmen von verunreinigtem Glasbruch ist die Handschaufel des
+           Notfallsets zu verwenden. Des Weiteren ist ein zusätzliches Paar
+           Schutzhandschuhe (puderfrei, allergenarm) gegen mechanische Risiken
+           anzulegen.
+       •   Die entstandenen Abfälle sind umgehend über ein Einschweißgerät (z.B.
+           Pacto-Safe®) mit direktem Einzug in ein durchstichfestes Behältnis zu
+           entsorgen.
+       •   Die betroffene Fläche ist abschließend dekontaminierend zu reinigen. Erst
+           nach dieser Reinigung dürfen die betroffenen Flächen für die normale
+           Reinigung freigegeben werden.
+
+10.4 Kontamination von Personen
+  (1) Verunreinigte Schutzausrüstung und Arbeitskleidung sind umgehend zu
+      wechseln. Dabei ist dafür Sorge zu tragen, dass keine weitere Verbreitung
+      von Kontaminationen erfolgt.
+  (2) Bei Verunreinigungen der Haut ist diese sofort unter reichlich fließendem,
+      kaltem Wasser zu spülen. Anschließend ist die Haut mit Seife gründlich zu
+      reinigen.
+  (3) Bei Spritzern in die Augen sind diese sofort mit reichlich Wasser mindestens
+      10 Minuten zu spülen. Anschließend ist umgehend ein Augenarzt
+      aufzusuchen.
+  (4) Gegebenenfalls sind spezifische Inaktivatoren in gebrauchsfertiger Form
+      vorrätig zu halten.
+  (5) Stichverletzungen sind unter kaltem fließendem Wasser kräftig auszudrücken
+      und ausbluten zu lassen.
+  (6) Im Falle der Kontamination von Personen sind der Sicherheitsbeauftragte, die
+      Sicherheitsfachkraft und der Arbeitsmediziner umgehend in Kenntnis zu
+      setzen.
+  (7) Eine entsprechende Arbeitsunfallanzeige ist ohne Verzug                bei   der
+      Gewerblichen Unfallversicherungsgenossenschaft einzureichen.
+
+
+11 Arbeitsmedizinische Vorsorgeuntersuchungen
+  (1) Das mit der Zubereitung von Zytostatika befasste Personal ist
+      arbeitsmedizinisch zu überwachen. Bezüglich der arbeitsmedizinischen
+      Vorsorge wird folgende Vorgehensweise empfohlen:
+
+
+
+ITM-SST 1603.1                                                    Seite 29 von 34 Seiten
+       •   Erstuntersuchung bei Aufnahme der Tätigkeit.
+       •   Regelmäßige Nachuntersuchungen im Abstand von 12 Monaten.
+       •   Im Rahmen der körperlichen Untersuchung insbesondere achten auf
+           chronische Hauterkrankungen, auffällige Lymphknoten, Störungen der
+           Atmungsorgane, Immundefekte, konsumierende Erkrankungen sowie
+           Stoffwechsel- und Ausscheidungsstörungen).
+       •   Klinisch    chemische       Untersuchung        im       Hinblick      auf
+           Blutsenkungsgeschwindigkeit, großes Blutbild einschließlich Retikulozyten,
+           Gamma-GT, SGPT und SGOT sowie Kreatinin.
+  (2) Für das mit der Applikation von Zytostatika befasste Personal sollte der
+      Umgang mit Zytostatika in der Arbeitsanamnese berücksichtigt werden.
+  (3) Allen Personen die einer unbeabsichtigten, massiven Kontamination mit
+      Zytostatika ausgesetzt wurden, sollte in Absprache mit dem zuständigen
+      Arbeitsmediziner ein Belastungsmonitoring angeboten werden.
+Es wird darauf hingewiesen, dass alle arbeitsmedizinischen Untersuchungen mit
+dem zuständigen Arbeitsmediziner abzustimmen sind.
+
+
+
+
+                              Mise en vigueur le 8 août 2013
+
+
+                                             s.
+                                    Robert HUBERTY
+                                         Directeur
+                                 de l’Inspection du travail
+                                       et des mines
+
+
+
+
+ITM-SST 1603.1                                                     Seite 30 von 34 Seiten
+12 Anhang
+
+
+Skizze A: Freie Flächen im Bereich vor den Werkbänken
+
+
+
+
+                    Werkbank                       Mauer                 Werkbank
+
+
+
+                        min. 1 m Breite der                                 min. 1 m Breite der
+                        Bewegungsfläche                                     Bewegungsfläche
+          2m
+
+
+
+
+                        min. 1 m Breite der                                 min. 1 m Breite der
+                        Verkehrsfläche                        3m            Verkehrsfläche
+
+
+
+                                                                            min. 1 m Breite der
+                                                                            Bewegungsfläche
+
+
+
+
+                                                                         Werkbank
+
+
+
+
+Skizze B: Abstände zwischen Wänden, festen Einbauten und Werkbänken
+                                                                    Bereiche gemäß Kapitel 4.2.2.1
+
+
+
+
+        Arbeitsfläche
+                                              Werkbank                         Werkbank
+
+
+                             min. 1 m                         min. 1 m
+                                                                                               min.
+                                                         min. 1 m Abstand                     0,3 m
+                                                         vor Werkbänken
+
+
+
+
+ITM-SST 1603.1                                                                         Seite 31 von 34 Seiten
+Skizze C: Abstände von Werkbänken zu Türen
+
+
+1) Tür in Reihe zur Werkbank
+
+
+
+
+                            Werkbank         min.
+                                             1m
+
+
+
+
+2) Tür rechtwinklig zur Werkbank
+
+
+
+
+                               Werkbank
+
+
+
+
+                                                min.
+                                                1m
+
+
+
+
+3) Tür gegenüber der Werkbank
+
+
+
+                                     Werkbank
+
+
+
+                           Bewegungsfläche
+
+                                              min. 2 m
+
+                           Verkehrsfläche
+
+
+
+
+ITM-SST 1603.1                                           Seite 32 von 34 Seiten
+Skizze D: Fortluft und Abluft
+
+
+(Prinzipschema ohne Details wie Filter, Klappen etc.)
+
+
+                                    Abluft nach Außen
+
+                                                                          Grenze Gebäude
+
+
+                                     Abluftventilator
+
+                           Abluft
+
+                                     Abluftleitung
+                                                                          Grenze Zubereitungsraum
+
+
+                     Esse
+
+                                       Anteil Raumluft
+         Fortluft Werkbank
+
+
+
+                                                        Werkbank
+
+
+          Ventilator der
+          Werkbank                                      Umluft
+
+
+
+                                                        Zuluft Werkbank
+
+
+
+
+ITM-SST 1603.1                                                                     Seite 33 von 34 Seiten
+Skizze E: Druckverhältnisse Zubereitungsraum - Schleuse - sonstige Räume
+(Prinzipschemata ohne Details)
+
+                                      ∆p ≥ 30 Pa
+Standard-Lösung:
+                                 ∆p ≥ 15 Pa
+                                                     angrenzender
+                   Zubereitungsraum       Schleuse   Raum od. Flur
+
+                       p = (-)            p = (+)       p = (++)
+
+
+
+
+Der Zubereitungsraum ist gegenüber der Schleuse und die Schleuse gegenüber
+sonstigen angrenzenden Räumen/Fluren im Unterdruck.      Beim Öffnen von Türen
+strömt die Luft immer in Richtung des Zubereitungsraumes
+Air-Lock-System:
+                                 ∆p ≥ 15 Pa
+                                                     angrenzender
+                   Zubereitungsraum       Schleuse   Raum od. Flur
+
+                       p = (-)            p = (++)       p = (+)
+
+
+
+
+Die Schleuse muss sich in einem signifikanten Überdruck gegenüber dem
+Zubereitungsraum (++ vs. -) und in einem leichten Überdruck gegenüber anderen
+angrenzenden Räumen/Fluren (++ vs. +) befinden.
+Die korrekte Ausführung und Funktionsweise des Air-Lock-Systems muss technisch
+gewährleistet sein. Es darf keine Luft aus dem Zubereitungsraum in die Schleuse
+strömen. Die Zu- und Abluft der betroffenen Räume muss exakt aufeinander
+abgestimmt sein und diese darf unter keinen Umständen zu einer negativen
+Beeinflussung der Funktionsweise der Werkbank führen.
+Eine Verschleppung von Zytostatika in die Schleuse darf keinesfalls stattfinden (
+Abwurf aller kontaminierter und potentiell kontaminierter Gegenstände, z.B. Kittel,
+Stulpen, Handschuhe etc., innerhalb des Zubereitungsraumes).
+Durch das Air-Lock-System wird sowohl verhindert, dass Kontaminationen aus dem
+Zubereitungsraum in allgemeine Bereiche gelangen als auch, dass Kontaminationen
+aus allgemeinem Bereichen in den Zubereitungsraum gelangen.
+
+
+
+
+ITM-SST 1603.1                                                       Seite 34 von 34 Seiten
+

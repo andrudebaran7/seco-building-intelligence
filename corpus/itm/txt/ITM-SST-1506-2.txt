@@ -1,0 +1,678 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                            Strassen, septembre 2012
+
+
+                       Le présent texte a été établi par l’Inspection du travail et des mines et
+                          le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                             ITM-SST 1506.2
+
+                                    Prescriptions de prévention incendie
+                                             DISPOSITIONS SPÉCIFIQUES
+                            Parkings couverts de plus de 20 véhicules
+                                              Le présent document comporte 15 pages
+
+                                                                        SOMMAIRE
+                  Article                                                                                             Page
+
+    1)            Objectifs et domaine d'application                                                                        2
+    2)            Définitions                                                                                               2
+    3)            Implantation                                                                                              3
+    4)            Aménagements extérieurs                                                                                   3
+    5)            Construction                                                                                              3
+    6)            Aménagements intérieurs                                                                                   4
+    7)            Compartimentage                                                                                           8
+    8)            Evacuation de personnes, issues et dégagements intérieurs                                                 9
+    9)            Eclairage                                                                                                11
+   10)            Désenfumage (Evacuation de fumée et de chaleur)                                                          11
+   11)            Installations techniques                                                                                 11
+   12)            Installations au gaz                                                                                     13
+   13)            Installations électriques                                                                                13
+   14)            Prévention de panique en cas d'alarme                                                                    14
+   15)            Moyens de secours et d'intervention                                                                      14
+   16)            Registre de sécurité                                                                                     15
+   17)            Réception et contrôles                                                                                   15
+
+
+
+         _____________________________________________________________________________________________________________________
+         Direction, Département Sécurité et Santé
+         Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+         Bureaux : 3, rue des Primeurs, L-2361 Strassen   Tél : 247-86145   Fax: 49 14 47
+         Site Internet : http://www.itm.lu
+Art. 1 Objectifs et domaine d'application
+1.1. Généralités
+Les parkings couverts de plus de 20 véhicules sont soumis aux dispositions générales, ITM-
+SST 1501, 1502 respectivement 1503, applicables à tous les établissements et aux présentes
+dispositions.
+A noter que les parkings de moins de 20 véhicules sont soumis au Règlement Grand-Ducal
+modifié du 26 juillet 1999 concernant les garages et parkings pouvant recevoir entre 5 et 20
+véhicules en matière d’établissements classés.
+
+1.2. Domaine d’application
+1.2.1. Les présentes prescriptions ont pour objectif de spécifier les règles générales de sécurité
+et de santé par rapport au public et au personnel des parkings couverts nommés ci-après "
+parking " de plus de 20 véhicules qu’ils soient privés ou publics.
+Ils sont classés en deux types :
+                 Les parkings ouverts,
+                 Les parkings fermés.
+1.2.2. Les présentes prescriptions concernent également les parkings divisés en box, qu’il
+s’agisse d’une division partielle ou totale.
+1.2.3. Les présentes prescriptions ne concernent pas les parkings mécaniques, qu’ils soient à
+rangement automatique ou semi-automatique.
+
+Art. 2 Définitions
+2.1. Les définitions générales sont données par la prescription ITM-SST 1500.
+
+2.2. Par parking ouvert, il faut comprendre un établissement dont chaque niveau vérifie les
+     quatre conditions suivantes :
+                 les ouvertures libres représentent au moins 25 % de la surface verticale
+                  totale de l'ensemble des parois extérieures dudit niveau,
+                 En présence de façades aveugles, la totalité des 25 % sera reportée sur les
+                  façades ouvertes dont deux doivent être situées à l’opposé l’une de l’autre
+                  et distantes d’au plus 60 m. Ces ouvertures libres doivent être
+                  proportionnellement réparties sur les façades ouvertes.
+                 la ventilation peut se faire d'une manière entièrement naturelle et
+                  permanente ce qui implique que les ouvertures effectuées au minimum sur
+                  deux parois opposées permettent de ventiler l'ensemble du niveau.
+                  Toutefois, si des contraintes architecturales ou d'aménagements intérieurs
+                  ne permettent pas de ventiler naturellement et correctement l'ensemble du
+                  niveau, il est possible de mettre en place une ventilation mécanique
+                  appropriée et de considérer le parking comme ouvert si les deux autres
+                  conditions, 1ier et 2ème tiret, sont respectées.
+                 Pour que cette ventilation naturelle soit possible et efficace, il est
+                  nécessaire que les linteaux des ouvertures libres se situent au minimum à
+                  2,00 m au-dessus du sol fini du niveau considéré.
+
+
+
+
+Page 2 sur 15 pages                                                              ITM-SST 1506.2
+Il y a lieu de comprendre par parois extérieures, les murs extérieurs périphériques (ou plus
+communément appelées les façades) qu'elles soient aveugles ou non, et visibles ou non de
+l'extérieur.
+
+2.3. Par parking fermé, il faut comprendre un établissement dont une ou plusieurs des
+conditions indiquées à l'article 2.2 ci-dessus, ne sont pas respectées.
+
+2.4. Par parking privé, il y a lieu de comprendre un parking, non accessible au public
+indépendamment de quelques emplacements réservés aux visiteurs.
+
+2.5. Par parking public, on entend un parking ouvert au public indépendamment des
+emplacements réservés à des personnes en nom propre.
+
+2.6. Les parkings fermés sont classés en trois catégories:
+                     1ère catégorie: de 21 à 50 véhicules,
+                     2ème catégorie: de 51 à 250 véhicules,
+                     3ème catégorie: au-delà de 251 véhicules.
+
+Art. 3 Implantation
+Voir dispositions générales.
+
+Art. 4 Aménagements extérieurs
+Voir dispositions générales.
+
+Art. 5 Construction
+5.1. Tous les éléments généraux de construction doivent présenter une stabilité ainsi qu'une
+résistance mécanique suffisante. Sont à prendre en considération d'éventuels chocs de
+véhicules.
+
+5.2. L’évaluation de la stabilité au feu des parkings fermés ne peut être faite qu’à partir de la
+courbe température / temps normalisé (ISO 834, partie 1).
+
+5.3. Les éléments de structure portante (poteaux et poutres) des parkings fermés doivent être
+stables au feu d'un degré d’au moins une heure et demie (R 90) et les planchers doivent être
+résistant au feu au moins une heure et demie (REI 90). En aggravation à cette disposition, les
+éléments de structure portante des parkings fermés situés dans un bâtiment élevé de type B et
+C devront être stables au feu au moins deux heures (R 120) et les planchers du parking REI
+120.
+
+5.4. Pour les éléments de structure portante des parkings ouverts et ne comportant aucun
+bâtiment au-dessus de ce parking, aucune stabilité au feu n’est requise. Toutefois les
+planchers de ces parkings doivent être résistant au feu d'un degré d'une demi-heure (REI 30).
+Les parkings ouverts dont le projet prévoit des bâtiments en surélévation devront être soumis
+aux autorités compétentes.
+
+
+
+
+Page 3 sur 15 pages                                                             ITM-SST 1506.2
+Art. 6 Aménagements intérieurs
+6.1. Construction, sols, parois et revêtements
+6.1.1. Aucun obstacle (poutre, canalisation, gaine, etc.) ne doit se trouver à moins de 2,20 m
+du sol dans toutes les parties du parking susceptibles d'être parcourues par les usagers
+(circulations…).
+6.1.2. Les sols du parking doivent être unis et imperméables.
+6.1.3. Toutes les mesures utiles sont à prendre pour pouvoir évacuer en cas d'incendie les eaux
+d'extinction au fur et à mesure de leur arrivée, sans que se créent des flaques ou mares d'eau
+d'extinction.
+
+Exemples:
+
+
+
+
+                                         VUE EN PLAN
+
+
+
+
+                                                                                         PENTE
+
+
+
+
+                16           19             22              25            28
+
+
+
+                                                 Figure 1
+
+Les caniveaux ne doivent en aucun cas être placés sous des véhicules en stationnement.
+
+
+Page 4 sur 15 pages                                                            ITM-SST 1506.2
+6.1.4. Les sols doivent être réalisés de façon à ce que des liquides enflammés en provenance
+d'un véhicule ne puissent s'écouler sous d'autres véhicules garés au parking. Une étude
+particulière devra être soumise aux autorités compétentes pour les parkings dont le sol est
+pentu.
+6.1.5. Pour éviter l'écoulement de liquides d'un niveau vers un autre, le sol est à surélever de
+3 cm à l'intersection des niveaux et des rampes inférieures.
+
+Exemples:
+
+
+
+
+                                               Figure 2
+
+6.1.6. Les allées de circulation des véhicules et des piétons doivent être antidérapantes.
+6.1.7. Les revêtements des sols des parkings doivent, au minimum, être réalisés en matériaux
+faiblement combustibles (EUROCLASSE BFL s1), les revêtements des murs doivent, au
+minimum, être réalisés en matériaux non-combustibles, EUROCLASSE A2 s1d0.
+6.1.8. Les revêtements des plafonds des parkings de la 1ère catégorie doivent être, au
+minimum, réalisés en matériaux non-combustibles (EUROCLASSE A2 s1d0). Pour les 2ème et
+3ème catégories, ces plafonds devront être, au minimum, réalisés en matériaux faiblement
+combustibles, (EUROCLASSE B s1d0).
+6.1.9. En application des articles 6.4.3 des Dispositions Générales, les matériaux utilisés pour
+les revêtements des sols, des murs et plafonds dans les compartiments d’issue et les escaliers
+doivent être, au minimum, non-combustibles (EUROCLASSE A2 s1d0).
+6.1.10. A l'intérieur du parking, il est interdit:
+         de constituer des dépôts de matières combustibles ou de produits inflammables et
+          d'y déposer des poubelles;
+         d'ajouter du carburant dans les réservoirs des véhicules;
+
+
+
+Page 5 sur 15 pages                                                              ITM-SST 1506.2
+         de fumer ou d'apporter des feux nus; cette interdiction est à afficher en caractères
+          bien apparents au moyen d'une signalisation normalisée;
+6.1.11. A l’intérieur des parkings fermés il est strictement interdit de créer des locaux de
+        travail permanent, qu’il s’agisse de locaux commerciaux ou de services divers à
+        l’exception des postes de péage, des locaux de gardiennage, des ateliers et bureaux du
+        personnel pour lesquels la ventilation doit être indépendante de celle du parking.
+        Les éventuels postes de péage et de surveillance doivent être conçus et situés de
+        manière à ce que les opérations puissent être effectuées de l'intérieur du local
+
+6.2. Circulation des véhicules
+6.2.1. Accès et sorties des parkings :
+         En présence d'une seule voie pour entrer et sortir, le passage libre devra être de
+          5,50 m pour les parties rectilignes et de 6,50 m pour les parties circulaires.
+          Toutefois elle pourra être de 3,00 m respectivement 3,50 m pour les parties
+          circulaires si les entrées et les sorties sont réglées par des feux de circulation et
+          sous réserve que les véhicules entrants, en attente du feu vert, ne gênent pas la
+          circulation sur la voie publique.
+         En présence d'une entrée et d'une sortie distinctes, le passage libre sera de 3,00 m
+          pour les parties rectilignes et de 3,50 m pour les parties circulaires.
+6.2.2. La pente des rampes ne doit pas dépasser 15 % à l'intérieur du parking et 12 % à l'air
+libre. Toutefois, la pente des rampes à l'air libre ayant un sol chauffant peut atteindre 15 %.
+6.2.3. La pente de la rampe ne doit pas excéder 5 % sur une distance de 4 m au débouché sur
+la voirie publique.
+6.2.4. Le rayon de la bordure intérieure de la rampe doit être au minimum de 5 m.
+6.2.5. En cas de danger de chute, les rampes doivent être munies de parapets résistants à des
+chocs de véhicules.
+6.2.6. Toute signalisation destinée à faciliter le déplacement des véhicules à l'intérieur du
+parking doit être conforme à celle imposée par le Code de la Route. Toutefois les dimensions
+des panneaux seront adaptées aux parkings.
+6.2.7. La hauteur maximale des véhicules doit être indiquée à l'entrée au parking.
+6.2.8. La circulation publique ne pourra être entravée par le stationnement de voitures devant
+l'entrée de l'établissement.
+6.2.9. Les accès au parking doivent être maintenus dégagés pour permettre un accès facile et
+permanent des services de sauvetage. Une signalisation et un marquage appropriés sont à
+installer à cet effet.
+
+6.3. Parking de véhicules
+6.3.1. Les places de garage des véhicules de tourisme doivent avoir des dimensions adaptées
+aux circonstances locales, mais elles doivent en tout cas avoir une longueur minimale de 5 m
+et une largeur minimale de 2,50 m.
+6.3.2. Les places pour handicapés physiques doivent en tout cas avoir une largeur minimale de
+3,50 m et être signalées comme telles.
+Les places pour handicapés physiques sont à prévoir à un niveau aussi proche que possible du
+niveau de référence.
+6.3.3. Les divers emplacements de garage sont à marquer clairement et durablement sur le sol.
+
+Page 6 sur 15 pages                                                            ITM-SST 1506.2
+6.3.4. Les emplacements de garage extérieurs se trouvant sur la dalle supérieure d'un parking
+et les emplacements de garage se trouvant sur les étages d'un parking aérien doivent être
+protégés par des parapets pouvant résister au choc d'un véhicule.
+
+6.4. Mesures particulières
+6.4.1. Il est défendu de procéder à des essais de moteurs à l'intérieur du parking ou garage. En
+conséquence, toute voiture dont le moteur aura été mis en marche doit sortir immédiatement
+de l'établissement; de même, dès sa rentrée, le moteur de tout véhicule doit être arrêté
+immédiatement.
+6.4.2. Le chauffage du parking ne peut se faire qu'à l'aide d'appareils dont la construction,
+l'emplacement et l'usage donnent des garanties suffisantes pour prévenir tout danger
+d'incendie et d'explosion.
+6.4.3. L'accès aux parkings fermés est interdit aux véhicules utilisant du gaz G.P.L.
+
+6.5. Mesures spécifiques aux parkings fermés pouvant accueillir des véhicules utilisant
+du gaz naturel
+6.5.1. Le système constructif doit être conçu de façon à éviter toute formation de poches de
+gaz (par ex. entre retombées de poutres béton…).
+6.5.2. Dans le cas où le système constructif ne permet pas d’éviter la formation de poches de
+gaz, une détection de gaz naturel et une ventilation mécanique doivent prendre en compte ces
+éléments. Toute poche de gaz en formation doit être détectée et ventilée.
+6.5.3. Les parkings ou parties de parking dont la capacité d’accueil par niveau est inférieure à
+seize véhicules, doivent être protégés, soit par l’installation d’une extraction des gaz asservie
+à une détection de gaz naturel, soit par une ventilation mécanique permanente de tous les
+niveaux.
+6.5.4. En cas de détection de gaz naturel, le dispositif spécifique d’avertissement sonore doit
+être déclenché automatiquement et une signalisation lumineuse comprenant les informations
+nécessaires sous forme de texte, invitant les conducteurs à arrêter leur moteur et à quitter le
+parking. Les panneaux de signalisation prévoyant uniquement des symboles, ne sont pas
+autorisés.
+6.5.5. Pour les parkings existants qui souhaitent permettre l’accès aux véhicules utilisant le
+gaz naturel, un projet de « mise en sécurité et/ou mise en conformité » devra être soumis aux
+autorités compétentes. Le projet devra tenir compte des présentes dispositions et tout
+particulièrement des articles 6.5.1 à 6.5.4. Des allègements ou des aggravations à ces
+dispositions pourront être demandées.
+6.5.6. Pour toute création de parking ou modification d'un parking existant, une attention
+particulière devra être apportée quant à l'application des articles 8.3.3 ; 8.3.4 et 11.1.5 ; 11.1.6.
+
+6.6. Locaux sanitaires
+6.6.1. Sont à prévoir en nombre suffisant et adéquatement équipés, des toilettes, des vestiaires,
+des lavabos et éventuellement des douches pour le personnel ayant un lieu de travail dans le
+parking.
+6.6.2. Des toilettes pour clients sont à prévoir dans les parkings ouverts au public ou dans
+leurs abords immédiats.
+6.6.3. Les locaux sanitaires doivent comporter une ventilation indépendante de celle du
+parking.
+
+
+Page 7 sur 15 pages                                                                 ITM-SST 1506.2
+Art. 7 Compartimentage
+
+7.1. Les articles 7.2 des dispositions générales ne sont pas applicables.
+Tout parking doit être compartimenté coupe-feu (REI 90) au minimum par rapport à tout autre
+partie du bâtiment.
+
+7.2. Tous les parkings fermés devront être divisés en compartiments d’une surface maximale
+de 5.000 m² ;
+7.2.1. Ces compartiments devront être coupe-feu 90 minutes (REI 90). Les portes situées dans
+ces parois devront avoir un degré coupe-feu de 60 minutes et coupe-fumée (EI 60-S).
+7.2.2. Lorsque la superficie d’un niveau dépasse les 5.000 m2, les cloisons de séparation de
+ces compartiments se trouvant sur le même niveau seront coupe-feu de 30 minutes (REI 30).
+Les portes situées dans ces parois devront également avoir un degré coupe-feu de 30 minutes
+et coupe-fumée (EI 30-S).
+
+7.3. Lorsque plusieurs bâtiments ayant chacun un parking propre et dont l’accès est commun,
+deux solutions de compartimentage sont possibles:
+       L’ensemble des parkings est à considérer et à étudier comme étant un seul et même
+          parking,
+       Les parkings sont indépendants les uns des autres et doivent être tous
+          compartimentés par des portes coupe-feu de 30 minutes et coupe-fumée (EI 30-S).
+Dans les deux cas, l’ensemble des parkings sera équipé d’une détection incendie et les portes
+coupe-feu, coupe-fumée seront asservies à cette détection.
+
+7.4. Lorsque l’accès d’un parking fermé se fait en traversant un autre parking fermé, les
+conditions suivantes sont à respecter :
+       Les deux parkings sont à compartimenter entre eux par une porte coupe-feu de
+          90 minutes et coupe-fumée (EI 90-S) ou par un sas dont les portes seront coupe-feu
+          de 30 minutes et coupe-fumée (EI 30-S),
+       Pour le calcul de la ventilation, il y a lieu de tenir compte du trafic réel dans chacun
+          des parkings,
+       Chacun des parkings devra avoir ses propres issues de secours indépendantes les
+          unes des autres,
+       En cas d’un incendie dans un des parkings, l’alarme doit être signalée dans l’autre
+          afin d’informer tous les usagers de l’incident,
+       Si l’ensemble constitue un parking de 2ème ou de 3ème catégorie, les conditions de
+          l’article 15 seront appliquées.
+
+7.5. Pour les parkings divisés en box ou si des box venaient à être créées après réception du
+bâtiment, ces box ne peuvent servir à d’autres fins que celles de stationner des véhicules
+automobiles. Tout stockage quel qu’il soit est strictement interdit sauf à prendre les mesures
+constructives et règlementaires applicables dans la présente prescription.
+
+7.6. En allègement à l’article 7.1, les locaux d’une surface inférieure ou égale à 5 m² peuvent
+être considérés comme des locaux à risques moyens.
+Toutefois dans le cas d’une suite de caves contigües d’une surface inférieure à 5 m² dont la
+ventilation est commune, il n’y a pas lieu de mettre en œuvre des clapets coupe-feu à chaque
+mur de séparation. Seul un clapet sera installé à l’entrée de la première cave.
+
+Page 8 sur 15 pages                                                            ITM-SST 1506.2
+7.7. En aggravation de l’article 7.5 des Dispositions Générales, tous les locaux d’une surface
+supérieure à 5 m² devront être considérés comme des locaux à risques importants.
+
+7.8. En aggravation de l’article 7.5 des Dispositions Générales, l’accès aux locaux d’une
+surface supérieure à 20 m² devra se faire soit par une porte coupe-feu 90 minutes et coupe-
+fumée (EI 90-S) soit par un sas dont les portes seront coupe-feu de 30 minutes et coupe-fumée
+(EI 30-S).
+
+7.9. Une autorisation spéciale est requise pour les locaux servant d’entrepôt pour des produits
+facilement inflammables, venimeux, explosifs et dangereux et pour tous les locaux où se
+trouvent des installations reprises à la liste des établissements classés.
+
+7.10. Pour les parkings fermés de 1ère catégorie, les escaliers dit fermés et les ascenseurs
+doivent être isolés du volume du parking par des sas qui sont ventilés par légère surpression,
+asservie à la détection incendie. La prise d’air pour le fonctionnement de la mise en
+surpression pourra se faire directement de la cage d’escalier.
+Pour les parkings fermés de 2ème et 3ème catégorie, les escaliers dit fermés et les ascenseurs
+doivent être isolés du volume du parking par des sas qui sont ventilés par légère surpression
+permanente. La prise d’air devra obligatoirement être extérieure.
+L’alimentation des ventilateurs doit se faire soit par des câbles résistants au feu P60 soit être
+placés dans une gaine protégée ou encore être placés hors volume du parking.
+
+7.11. En complément à l’article 7.4.3 des dispositions générales Bâtiments Moyens (ITM-SST
+1502-1), les parois intérieures (directement en contact) des escaliers et ascenseurs dit à l’air
+libre ainsi que celles des escaliers des parkings ouverts, pour les établissements de plus de
+deux niveaux sur rez-de-chaussée (à partir de R+3), doivent être pare-flamme 30 minutes
+(E 30). La porte d’accès à ces escaliers et ascenseurs devra également être pare-flamme
+30 minutes (E 30).
+
+7.12. Des ascenseurs servant au transport de voitures peuvent être prévus entre différents
+étages si la surface reliée ainsi ne dépasse pas les 5.000 m².
+En cas d’incendie, les cabines d’ascenseurs servant au transport de voitures sont ramenées et
+bloquées à un niveau garantissant une évacuation des personnes.
+
+Art. 8 Evacuation de personnes, issues et dégagements intérieurs
+8.1. Chemins d’évacuation et escaliers.
+8.1.1. L’effectif théorique doit être calculé sur la base de 2 personnes par emplacement de
+stationnement dans les parkings qui desservent les salles, centres commerciaux et centres
+sportifs et pour ce qui concerne les autres établissements, à partir de 0,6 personne par
+emplacement de stationnement.
+Ce nombre sert à la détermination des largeurs des couloirs, du nombre d’issues de secours,
+des largeurs des escaliers, etc.
+8.1.2. Pour les parkings fermés de 1ère catégorie, les issues de secours et les escaliers doivent
+être disposés de façon à ce que les usagers n’aient pas plus de 30 m à parcourir pour atteindre
+une sortie de secours et dont 15 m au maximum s’ils se trouvent dans une partie du parking
+formant cul-de-sac.
+8.1.3. Pour les parkings fermés de 2ème, de 3ème catégorie et les parkings ouverts, les issues
+de secours et les escaliers doivent être disposés de façon à ce que les usagers n’aient pas plus
+
+
+Page 9 sur 15 pages                                                             ITM-SST 1506.2
+de 40 m à parcourir pour atteindre une sortie de secours et 20 m s’ils se trouvent dans une
+partie du parking formant cul-de-sac.
+8.1.4. En dérogation aux dispositions générales, chaque escalier peut avoir une largeur libre
+minimale de 1,00 m. Les paliers devront également avoir une largeur libre minimale de
+1,00 m.
+8.1.5. En dérogation aux dispositions générales, chaque allée, couloir, corridor peut avoir une
+largeur libre minimale de 1,00 m.
+8.1.6. Les portes des cages d’escalier ne peuvent être fermées à clef tant qu’il y a du public
+dans le parking. Si tel s’avérait malgré tout nécessaire, les portes en question doivent être
+munies de serrures à ouverture électromagnétique asservies à la détection. L’ouverture
+automatique de cette porte devra être complétée par une commande manuelle située au droit
+de la porte.
+8.1.7. Les rampes de circulation des véhicules peuvent être utilisées comme voies et issues de
+secours pour évacuer un seul niveau de parking par rapport au niveau de référence (seuls
+peuvent être concernés les niveaux R+1 et R-1), sous condition qu’elles soient équipées d’un
+trottoir surélevé de 0,20 m et d’une largeur minimale de 0,80 m. Le trottoir ainsi autorisé doit
+impérativement aboutir à une porte telle que définie dans les dispositions générales.
+
+8.2. Circulation des personnes
+8.2.1. Les accès aux issues (escaliers, allées, ascenseurs) doivent être maintenus dégagés sur
+une largeur minimale de 1,00 m et repérés par un marquage au sol facilitant l’orientation des
+personnes. Les paliers devront également avoir une largeur libre minimale de 1,00 m.
+8.2.2. Des inscriptions visibles en toutes circonstances sont à apposer en vue de faciliter la
+circulation dans le parking et en vue de repérer les issues.
+8.2.3. Les portes ne donnant pas accès à une voie de circulation, un escalier ou une issue
+doivent porter de manière apparente la mention « Sans issue ».
+8.2.4. Le sol des rampes de circulation des véhicules doit être réalisé de sorte qu’un piéton n’y
+puisse glisser.
+
+8.3. Signalisation
+8.3.1. La signalisation réglementant le déplacement des véhicules à l’intérieur du parking doit
+être conforme au Code de la Route.
+8.3.2. Une signalisation visible en toutes circonstances doit être apposée pour faciliter la
+circulation dans le parking et pour repérer les issues.
+8.3.3. Une signalisation, indiquant en clair l’autorisation ou l’interdiction aux véhicules
+utilisant du gaz naturel d’accéder au parking, doit être installée à chaque entrée.
+8.3.4. Une signalisation lumineuse, invitant les conducteurs à arrêter leur moteur et à quitter le
+parking, doit être installée dans tous les parkings fermés équipés d’une détection CO et gaz
+naturel conformément à l’article 11.1.4). Cette signalisation doit prévoir les informations
+nécessaires sous forme de texte. Les panneaux prévoyant uniquement des symboles, ne sont
+pas autorisés. Ladite signalisation sera asservie aux détections de CO et de gaz naturel le cas
+échéant.
+8.3.5. Les portes coupe-feu et coupe-fumée de compartimentage (articles 7.2) devront être
+équipées d’une signalisation lumineuse, type gyrophare, afin de prévenir les usagers en cas de
+fermeture automatique.
+
+
+
+Page 10 sur 15 pages                                                             ITM-SST 1506.2
+Art. 9 Eclairage
+9.1. L’éclairage du parking doit être suffisant pour permettre un déplacement sûr, aisé et
+permettre un repérage facile des issues.
+
+9.2. Pour les locaux d’une surface supérieure à 300 m², l’éclairage normal doit être conçu de
+telle façon que la défaillance d’un foyer lumineux ou de son alimentation n’ait pas pour effet
+de priver intégralement le local d’éclairage normal.
+
+9.3. Toutes dispositions doivent être prises pour assurer une bonne dégressivité entre la
+luminance extérieure et celle du parking.
+
+9.4. L’éclairage doit avoir une intensité minimale moyenne de 75 Lux dans les zones de
+circulation et dans les zones de stationnement (EN 12464-1).
+
+Lorsque le dernier niveau du parking est à ciel ouvert, il est nécessaire d’installer également
+un éclairage d’une intensité minimale moyenne de 50 Lux dans les zones de circulation et
+dans les zones de stationnement.
+Ces intensités lumineuses sont à mesurer à 0,20 m de la surface du sol en plusieurs points le
+long des zones de circulation et de stationnement.
+
+9.5. L’éclairage normal doit être permanent pour les parkings publics et peut être non
+permanent pour les parkings privés.
+
+9.6. L’éclairage de sécurité peut être non permanent pour les parkings publics et doit être
+permanent pour les parkings privés.
+
+9.7. Les boutons des interrupteurs de l’éclairage doivent comprendre des voyants lumineux.
+
+9.8. Pour les parkings fermés publics de 2ème et 3ème catégorie, les parkings fermés privés de
+3ème catégorie et les parkings publics ouverts d’une capacité supérieure à 250 véhicules, un
+éclairage de remplacement devra être mis en œuvre conformément à l’article 9.2 des
+dispositions générales.
+
+9.9. Un éclairage de sécurité alimenté par une source autonome doit être installé ; il doit
+permettre d’assurer pendant au minimum 1 heure et sans interruption les opérations
+intéressant la sécurité et de faciliter l’intervention des secours.
+
+Art. 10. - Désenfumage (Evacuation de fumée et de chaleur)
+Les parkings d’une manière générale ne sont pas désenfumés.
+Seuls les escaliers des parkings en sous-sol de trois niveaux et plus doivent être désenfumés
+conformément aux articles 10.1 et 10.2.1 des dispositions générales.
+
+Art. 11 Installations techniques
+11.1. Ventilation
+11.1.1. Une ventilation mécanique doit être réalisée de façon à s’opposer efficacement à la
+stagnation, même locale, de gaz nocifs ou inflammables dans tous les cas où une ventilation
+naturelle ne garantit pas les mêmes résultats. La ventilation des niveaux de sous-sol ou
+
+
+Page 11 sur 15 pages                                                           ITM-SST 1506.2
+enterrés du parking dont la ventilation ne peut être réalisée d’une manière entièrement
+naturelle doit obligatoirement être mécanique.
+11.1.2. La ventilation naturelle doit être conçue de façon à assurer un balayage de l’ensemble
+du ou des compartiments constituant le parking. Les sections des ventilations haute et basse
+devront être au minimum de 10 dm² par véhicule et par ventilation.
+Ces ventilations devront être correctement et régulièrement réparties sur toute la périphérie du
+ou des compartiments. La distance entre les deux façades ouvertes permettant d’assurer une
+bonne ventilation devra être inférieure à 50 m.
+11.1.3. Chaque circuit d’extraction de la ventilation doit être muni d’au moins deux
+ventilateurs de même capacité (p. ex. 50 % en cas de 2 ventilateurs), alimentés par des circuits
+électriques indépendants.
+11.1.4. La mesure de la teneur en monoxyde de carbone de l’air des niveaux dont la
+ventilation ne peut être réalisée d’une manière entièrement naturelle doit être effectuée en
+continu par une installation comportant des appareils fixes automatiques ; cette installation
+doit permettre en outre:
+                 l’asservissement de la ventilation,
+                 le déclenchement d’un dispositif spécifique d’avertissement sonore,
+                 le déclenchement d'une signalisation lumineuse invitant les conducteurs à
+                  arrêter leur moteur et à quitter le parking.
+Les valeurs limites de concentration en monoxyde de carbone (CO) sont fixées comme suit:
+                 la teneur moyenne calculée sur toute période de 15 minutes ne doit pas
+                  dépasser 60 ppm ;
+                 la teneur moyenne calculée sur toute période de 8 heures consécutives ne
+                  doit pas dépasser 30 ppm ;
+                 la teneur instantanée ne doit pas dépasser 200 ppm.
+Si l’une de ces valeurs est atteinte, la ventilation mécanique devra automatiquement assurer
+l’extraction de ces gaz.
+Si toutefois, au bout de trois minutes, la teneur moyenne ou instantanée était toujours
+supérieure aux valeurs limites, le système de détection CO doit déclencher la signalisation
+lumineuse ainsi que le dispositif spécifique d’avertissement sonore.
+Dans le cas où la ventilation est assurée par des ventilateurs du type « JET », celle-ci devra
+être mise à l’arrêt en cas de détection incendie.
+11.1.5. Pour les parkings fermés accessibles aux véhicules fonctionnant au gaz naturel,
+l’installation de détection gaz naturel doit permettre :
+                 l’asservissement de la ventilation,
+                 le déclenchement d’un dispositif spécifique d’avertissement sonore,
+                 le déclenchement d'une signalisation lumineuse invitant les conducteurs à
+                  arrêter leur moteur et à quitter le parking.
+Lorsque la teneur en gaz naturel est supérieure à 10 % du volume correspondant à la limite
+inférieure d’explosibilité du gaz naturel (concentration de 0,4 %), la ventilation mécanique
+devra automatiquement assurer l’extraction de cet excès de gaz.
+Lorsque la teneur en gaz naturel est supérieure à 20 % du volume correspondant à la limite
+inférieure d’explosibilité du gaz naturel (concentration de 0,8 %), la signalisation lumineuse
+ainsi que le dispositif spécifique d’avertissement sonore doivent être déclenchées par la
+détection gaz naturel.
+
+
+Page 12 sur 15 pages                                                           ITM-SST 1506.2
+11.1.6. L'exploitant doit prévoir, notamment dans les consignes de sécurité, les mesures
+d'urgence à appliquer si les teneurs en CO et éventuellement en gaz naturel fixées ci-dessus
+sont atteintes.
+
+11.2. Conduites et gaines
+11.2.1. Les conduites de liquides inflammables destinés à l'alimentation des équipements du
+parking (p. ex. chaufferie ou groupe électrogène) doivent être placées dans une gaine réalisée
+en matériaux résistant au feu et être coupe-feu d'un degré de 90 minutes; le vide ne peut être
+comblé afin de garantir une ventilation, seuls des matériaux inertes au feu peuvent se trouver
+dans ces gaines.
+11.2.2. Sont interdites dans le volume du parc :
+                      les conduites de vapeur d'une pression supérieure à 0,5 bars ou d'eau
+                       surchauffée à plus de 110° C ;
+                      les conduites de gaz toxiques
+
+Art. 12 Installations au gaz
+12.1. Les conduites de gaz combustible traversant le parking doivent être:
+                      soit entièrement soudées et contrôlées par radiographie (pas de
+                       compartimentage nécessaire) avec contrôle d'étanchéité,
+                      soit placées dans une gaine réalisée en matériaux résistant au feu et être
+                       coupe-feu d'un degré de 90 minutes; le vide ne peut être comblé afin de
+                       garantir une ventilation, seuls des matériaux inertes au feu peuvent se
+                       trouver dans ces gaines.
+                       Une installation de détection de gaz installée dans cette gaine doit
+                       pouvoir donner une alarme en cas de fuite de gaz et fermer en même
+                       temps les vannes.
+
+12.2. Dans les parkings seules les canalisations en acier assemblées par soudure et celles
+assemblées par sertissage sont autorisées. Les autres assemblages par brasage ou filetage sont
+interdits.
+
+12.3. Le contrôle périodique règlementaire tous les quatre ans doit porter sur l’ensemble des
+assemblages qu’ils soient soudés, brasés, sertis ou filetés.
+
+Art. 13 Installations électriques
+En aggravation de l’article 13.2 des dispositions générales, l’alimentation électrique de
+sécurité devra, pour les parkings fermés publics de 2ème et 3ème catégorie, les parkings
+fermés privés de 3ème catégorie et les parkings publics ouverts d’une capacité supérieure à
+250 véhicules, alimenter également:
+                 l'éclairage de remplacement, qui doit comprendre au moins un tiers de
+                  l'éclairage du parking;
+                 une ventilation assurant au moins 50 % des débits installés ;
+                 le retour des ascenseurs au niveau permettant d'atteindre directement l'air
+                  libre (de préférence le niveau de référence) dans des zones garantissant une
+                  évacuation rapide.
+Toutefois le câblage de l’éclairage de remplacement et le retour des ascenseurs ne doit pas
+être résistant au feu.
+
+Page 13 sur 15 pages                                                             ITM-SST 1506.2
+Art. 14 Prévention de panique en cas d'alarme
+Consignes de sécurité
+En complément des plans et consignes d’évacuation et d’urgence, ces dernières doivent
+notamment préciser :
+              les mesures d'urgence à prendre et les moyens d'intervention à mettre en
+                 œuvre en cas de dépassement des teneurs limites en monoxyde de carbone
+                 et éventuellement d'autres polluants ;
+              les interdictions à respecter en cas d'incident technique et en cas de sinistre.
+
+Art. 15 Moyens de secours et d'intervention
+15.1. Moyens de lutte contre l'incendie
+15.1.1. Les moyens de lutte doivent comprendre :
+                  des extincteurs portatifs normalisés, classes de feu A et B, répartis à raison
+                   de deux appareils de 12 kg pour les 20 premières voitures par niveau et un
+                   extincteur par tranche de 20 voitures supplémentaires par niveau. Des
+                   extincteurs de 6 kg en quantité double sont recommandés,
+                  des robinets d'incendie armés (R.I.A.) raccordés sous pression permanente
+                   à la conduite d'eau publique à tous les niveaux du parking fermé.
+15.1.2. Les parkings fermés, de 2ème et 3ème catégorie, devront être équipés, à tous les
+niveaux, d'un système d'extinction automatique. Pour les parkings divisés en box, chacun de
+ces box devra être équipé au moins d’une tête d’extinction automatique.
+Le local « sprinkler » ne peut être accessible depuis le parking. Son accès doit être sécurisé :
+escalier compartimenté, compartiment d’issue, accès extérieur, etc.,
+
+15.2. Installations de détection incendie, d’alarme et d’alerte
+15.2.1. L’ensemble du parking et des locaux accessibles depuis le parking doit être équipé
+d’une alarme générale. Cette alarme générale donnant l'ordre d'évacuer doit pouvoir être
+déclenchée à tous les étages par des boutons poussoirs. Dans le cas où le parking est surmonté
+d’un ou de plusieurs niveaux, d’habitation, de magasins ou de tout autre établissement,
+l’alarme devra être également donnée aux personnes et usagers de ces établissements.
+15.2.2. En complément à l’article 15.2.1, les parkings publics fermés devront être équipés
+d’une alarme à signaux visuels.
+15.2.3. Les parkings fermés doivent être équipés d'une installation automatique de détection
+incendie appropriée aux risques et ce, dans tous les locaux.
+15.2.4. Les accès au parking devront être asservis aux différentes installations de détection:
+incendie, gaz naturel et CO. En cas de fonctionnement de l’une ou l’autre de ces installations,
+l’accès au parking devra être strictement interdit.
+15.2.5. Pour les parkings divisés en box, chacun de ces box devra être équipé d’une détection
+incendie.
+
+
+
+
+Page 14 sur 15 pages                                                             ITM-SST 1506.2
+15.3. Installation de surveillance
+Les parkings ouverts au public doivent pouvoir être surveillés depuis le local de gardiennage
+par un système vidéo. Le ou les gardiens sont obligatoirement des personnes compétentes du
+point de vue de la sécurité incendie par conséquent, elles devront recevoir une formation
+appropriée aux risques et aux mesures d’urgence à prendre.
+
+Art. 16 Registre de sécurité
+Voir dispositions générales.
+
+Art. 17 Réceptions et contrôles
+Voir dispositions générales.
+
+
+
+
+                       Visa du Directeur adjoint              Mise en vigueur, le 26.10.2012
+                       de l’Inspection du travail
+                              et des mines                                  s.
+
+                                   s.                                 Paul WEBER
+                                                                        Directeur
+                          Robert HUBERTY                        de l’Inspection du travail
+                                                                       et des mines
+
+
+
+
+Page 15 sur 15 pages                                                             ITM-SST 1506.2
+

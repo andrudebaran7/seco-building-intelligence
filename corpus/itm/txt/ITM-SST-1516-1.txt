@@ -1,0 +1,315 @@
+                                      GRAND-DUCHÉ DE LUXEMBOURG
+
+
+
+
+                                             Le présent texte a été établi par
+                                      l’Inspection du travail et des mines et
+                                 le Corps Grand-Ducal d’Incendie et de Secours.
+
+
+
+
+                                                                                 ITM-SST 1516.1
+
+                    Prescriptions de prévention incendie
+                            DISPOSITIONS SPÉCIFIQUES
+            Structures d’hébergement destinées au logement
+                               provisoire
+                                     Le présent document comporte 8 pages
+
+                                                       SOMMAIRE
+
+Article 1.         Objectifs et domaine d'application                                                    2
+Article 2.         Définitions                                                                           2
+Article 3.         Implantation                                                                          3
+Article 4.         Aménagements extérieurs                                                               3
+Article 5.         Construction                                                                          3
+Article 6.         Aménagements intérieurs                                                               3
+Article 7.         Compartimentage                                                                       3
+Article 8.         Evacuation de personnes, issues et dégagements intérieurs                             4
+Article 9.         Eclairage                                                                             4
+Article 10. Désenfumage (Evacuation de fumée et de chaleur (E.F.C.))                                     6
+Article 11. Installations techniques                                                                     6
+Article 12. Installations au gaz                                                                         6
+Article 13. Installations électriques                                                                    7
+Article 14. Planification, équipements et procédures d’urgence                                           7
+Article 15. Moyens de secours et d'intervention                                                          7
+Article 16. Registre de sécurité                                                                         8
+Article 17. Réceptions et contrôles                                                                      8
+
+
+
+Inspection du travail et des mines
+Adresse postale:       B.P. 27                       L-2010 Luxembourg                Tel.: +352 247-76100
+Bureaux:               3, rue des Primeurs           L-2361 Strassen                  Fax: +352 247-96100
+Site internet:         http://www.itm.lu
+Article 1      Objectifs et domaine d'application
+       Généralités
+1.1.1    Les structures d’hébergement destinées au logement provisoire sont soumises aux
+dispositions générales ITM- SST 1501, 1502 et 1503 applicables à tous les établissements et
+aux présentes dispositions spécifiques.
+1.1.2    Des allégements ou dispenses aux présentes prescriptions peuvent être accordés,
+mais uniquement si des mesures compensatoires, présentant un niveau de sécurité au moins
+équivalent, sont proposées.
+1.1.3      Cependant, dans le cas où la mise en œuvre des présentes prescriptions s’avère
+difficile, l’autorité compétente décide si un concept de sécurité et de prévention incendie
+présentant un niveau de sécurité au moins équivalent, est à élaborer par un expert agréé. Ce
+concept est à présenter à l’autorité compétente pour validation.
+       Domaine d'application
+1.2.1     Les présentes prescriptions ont pour objectif de spécifier les prescriptions de sécurité
+et de santé par rapport au personnel, aux visiteurs et aux occupants auxquelles doivent
+répondre la conception, la construction et l’aménagement de structures d’hébergement
+destinées au logement provisoire de demandeurs de protection internationale, et de protection
+temporaire, de bénéficiaires de protection temporaires, de réfugiés, de personnes pouvant
+bénéficier de la protection subsidiaire et d’autres ressortissants de pays tiers pris en charge par
+l’Office national de l’accueil (ci-après appelé « ONA ») ou par tout autre organisme ou instance
+compétent, à partir d’une capacité d’hébergement de 12 personnes.
+1.2.2   Les présentes prescriptions sont applicables pour l’aménagement de structures
+d’hébergement telles que décrites à l’article 1.2.1. dans des nouvelles constructions aussi bien
+qu’au sein de bâtiments existants.
+
+Article 2      Définitions
+Dans le sens des présentes prescriptions :
+       Unités d’exploitation
+2.1.1    Par unité d’exploitation hébergement, il faut entendre des locaux à sommeil ainsi que
+tout autre local destiné exclusivement aux occupants de l’unité, tel que le couloir, la cuisine, la
+buanderie ou les installations sanitaires.
+2.1.2   Par unité d’exploitation commune, il faut entendre des locaux communs utilisés par les
+occupants de plusieurs « unités d’exploitation hébergement » tels que des cuisines, salles à
+manger, salles de séjours, réfectoires, dégagements et/ou installations sanitaires. Cette unité
+ne comprend pas de locaux à sommeil.
+       Structures d’hébergement
+Dans le sens des présentes prescriptions :
+2.2.1    Par structure d’hébergement, il faut entendre tout immeuble ou partie d’immeuble
+destiné au logement provisoire de demandeurs de protection internationale, et de protection
+temporaire, de bénéficiaires de protection temporaire, de réfugiés, de personnes pouvant
+bénéficier de la protection subsidiaire et d’autres ressortissants de pays tiers pris en charge par
+l’ONA ou par tout autre organisme ou instance compétent, tout centre de primo-accueil.
+2.2.2    Par centre de primo-accueil, il faut entendre toute structure d’hébergement réservée
+aux demandeurs de protection internationale, et de protection temporaire, de bénéficiaires de
+protection temporaires, de réfugiés, de personnes pouvant bénéficier de la protection
+subsidiaire et d’autres ressortissants de pays tiers pris en charge par l’ONA en attendant leur
+relogement vers une structure plus durable.
+
+2                                                                                  ITM-SST 1516.1
+Article 3      Implantation
+Voir dispositions générales.
+
+
+Article 4      Aménagements extérieurs
+Voir dispositions générales.
+
+
+Article 5      Construction
+5.1. Stabilité et résistance au feu des constructions
+En aggravation de l’article 5.1. des dispositions générales ITM-SST 1501.5, les bâtiments bas
+abritant ce type de structures d’hébergements sont à considérer de type B.
+
+Article 6      Aménagements intérieurs
+        Mesures particulières
+6.1.1    Les locaux à sommeil sont interdits en sous-sol, sauf s’ils sont éclairés suffisamment
+par de la lumière naturelle et que le niveau d’évacuation se trouve au maximum un étage au-
+dessus.
+6.1.2    Il est à s’assurer de l’interdiction de fumer à l’intérieur des structures d’hébergement.
+6.1.3     En complément à l’article 6.13. des dispositions générales ITM-SST 1501.5, 1502.4 et
+1503.4, l'emploi d'appareils de chauffage autonomes à combustible solide, liquide ou gazeux
+est interdit dans les structures hébergement.
+6.1.4    Toutefois l'emploi d'appareils de chauffage autonomes à combustible solide est
+autorisé dans les unités d’exploitation communes. Ces locaux sont à considérer comme étant
+au moins des locaux à risques moyens. Dans un rayon de 2 mètres autour de l’appareil de
+chauffage, les matériaux utilisés doivent être Euroclasse A, et il y est interdit tout stockage
+d’éléments ou de mobilier inflammables. Les locaux qui sont équipés de ces appareils de
+chauffage doivent disposer d’une détection CO.
+6.1.5   L’emploi d’appareils de chauffage autonomes électriques est à réaliser en respect des
+capacités de l’installation électrique.
+        Equipement mobilier des locaux à sommeil
+6.2.1   Les locaux à sommeil peuvent être équipés soit de lits individuels ou doubles à un
+niveau soit de lits individuels superposés comprenant au maximum deux niveaux.
+6.2.2    Les matelas doivent être de type anti-feu et correspondre à la classe A telle que
+mentionnée dans la recommandation du GPEM/CP 2005 du guide relatif à la sécurité de
+matelas. Les essais sont réalisés suivant la norme EN 597 partie 1 et 2 et la recommandation
+GPEM/CP D1 90.
+D’autres normes sont acceptées si elles garantissent un niveau de sécurité au moins équivalent.
+6.2.3    Les lits supérieurs doivent être munis d'une échelle à quelques marches ou échelons
+ainsi que de dispositifs de sécurité évitant les chutes du lit.
+        Surfaces des unités d’exploitation
+6.3.1   Une unité d’exploitation hébergement ne peut pas avoir une surface supérieure à
+400 m2. Elle peut héberger au maximum 50 personnes.
+6.3.2    Une unité d’exploitation commune ne peut pas avoir une surface supérieure à 1600 m2.
+
+Article 7      Compartimentage
+      Façades
+En aggravation des dispositions générales applicables aux bâtiments bas, les façades doivent
+
+3                                                                                 ITM-SST 1516.1
+comporter également sur le plan vertical des éléments de construction devant satisfaire pendant
+30 minutes au moins au critère pare-flamme E30 conformément au point B. de l’article 7.1. des
+dispositions générales ITM-SST 1502.4 applicable aux bâtiments moyens.
+       Unités d’exploitation
+7.2.1   Sans préjudice à l’article 7.5. des dispositions générales ITM-SST 1501.5, 1502.4 et
+1503.4, une unité d’exploitation est à compartimenter coupe-feu 60 minutes (EI 60) au moins.
+Les portes d’accès sont au moins coupe-feu 30 minutes et coupe-fumée (EI 30-CS).
+
+
+       Unités d’exploitation hébergement pouvant héberger au maximum 12 personnes
+7.3.1    Dans une unité d’exploitation hébergement pouvant héberger un maximum de 12
+personnes, en complément à l’article 7.5. des dispositions générales ITM-SST 1501.5, 1502.4
+et 1503.4, sont à considérer comme étant des locaux à faibles risques :
+           ➢ les séjours,
+           ➢ les locaux à sommeil,
+Toutefois en aggravation des dispositions générales ITM-SST 1501.5, 1502.4 et 1503.4, les
+portes des locaux à sommeil doivent être équipées de ferme-portes.
+7.3.2   En allégement à l’article 7.5. des dispositions générales ITM-SST 1501.5, 1502.4 et
+1503.4, dans une unité d’exploitation hébergement pouvant héberger un maximum de 12
+personnes, les buanderies ayant une puissance nominale inférieure à 7 kW sont à considérer
+comme des locaux à faibles risques, les portes de ces locaux doivent être équipées de ferme-
+portes.
+       Unités d’exploitation hébergement pouvant héberger plus de 12 personnes
+7.4.1   En complément à l’article 7.5. des dispositions générales ITM-SST 1501.5, 1502.4 et
+1503.4, les locaux à sommeil pouvant héberger entre 1 et 12 personnes sont à considérer
+comme étant des locaux à faibles risques. Toutefois en aggravation des dispositions générales
+ITM-SST 1501.5, 1502.4 et 1503.4, les portes des locaux à sommeil doivent être équipées de
+ferme-portes.
+7.4.2    En complément à l’article 7.5. des dispositions générales ITM-SST 1501.5, 1502.4 et
+1503.4, les locaux à sommeil pouvant héberger entre 13 et 50 personnes sont à considérer
+comme étant des locaux à risques moyens.
+
+Article 8      Evacuation         de     personnes,         issues       et    dégagements
+               intérieurs
+8.1.1    Chaque unité d’exploitation doit avoir accès, sans passer par une autre unité
+d’exploitation, à deux cages d’escalier réglementaires ou sorties de secours (voir Figure 1).
+8.1.2    En complément à l’article 8.3.2. des dispositions générales ITM-SST 1501.5, 1502.4 et
+1503.4, les locaux à sommeil pouvant recevoir plus de 20 personnes doivent être pourvus de
+deux issues ou sorties, éloignées de plus de 5 m entre elles.
+8.1.3    En atténuation à l’article 8.1.1., lorsque qu’il s’agit d’un bâtiment bas, ne comprenant
+par niveau qu’une unité d’exploitation hébergement avec un maximum de 12 personnes, cette
+unité doit avoir au moins un accès à un escalier réglementaire ou à une sortie de secours, ainsi
+qu’à une sortie accessoire (voir Figure 2).
+8.1.4    En atténuation à l’article 8.1.1., lorsqu’il s’agit d’un bâtiment bas ou moyen, comprenant
+plusieurs unités d’exploitation hébergement par niveau, hébergeant chacune un maximum de
+12 personnes, l’accès à une des deux cages d’escalier réglementaires ou sorties de secours
+peut traverser une autre unité d’exploitation hébergement. Toutefois, il n’est pas permis de
+traverser des locaux à sommeil (voir Figure 3).
+8.1.5    Pour les unités d’exploitation hébergement, en allégement à l’article 8.7.2. des
+dispositions générales ITM-SST 1501.5, 1502.4 et 1503.4, seules les portes des cages
+
+
+4                                                                                ITM-SST 1516.1
+d’escalier réglementaire et des sorties de secours doivent s’ouvrir dans le sens de l’évacuation.
+
+
+
+
+Figure 1. Exemple : Evacuation de 4 unités d’exploitation avec un accès direct à deux cages d’escalier
+
+
+
+
+Figure 2. Exemple : Evacuation d’un bâtiment bas avec une unité d’exploitation hébergement avec un
+maximum de 12 personnes par niveau par une cage d’escalier réglementaire et par une fenêtre (sortie
+                                           accessoire)
+
+
+
+
+5                                                                                   ITM-SST 1516.1
+    Figure 3 : Exemple : Evacuation d’un bâtiment bas ou moyen, comprenant deux unités d’exploitation
+    hébergement par niveau, hébergeant chacune un maximum de 12 personnes, avec un accès à une
+       cage d’escalier réglementaire et à une sortie de secours en passant à travers une autre unité
+                                        d’exploitation hébergement
+
+8.1.6   Des miroirs susceptibles de tromper les occupants sur la direction de la voie
+d’évacuation ne peuvent pas être disposés dans les voies d’évacuation.
+
+Article 9        Eclairage
+         Eclairage d’évacuation
+9.1.1   L'éclairage d’évacuation doit fournir un éclairement d’au moins 1 Lux dans les voies
+d’évacuation au niveau du sol, en tenant compte des modalités prévues dans la norme EN 1838.
+9.1.2   Un éclairage d’évacuation doit être réalisé dans les voies d’évacuation des locaux
+accessibles aux occupants des structures d’hébergement.
+9.1.3      L'éclairage d’évacuation doit être de type permanent dans les compartiments d’issues.
+         Eclairage antipanique
+9.2.1   Dans les locaux pour lesquels un éclairage antipanique est requis, il doit fournir un
+éclairement d’au moins 0,5 Lux au niveau du sol, en tenant compte des modalités prévues dans
+la norme EN 1838.
+9.2.2    Les cuisines et les locaux de séjour accueillant plus de 20 personnes doivent disposer
+d’un éclairage antipanique.
+9.2.3    Les locaux à sommeil pouvant héberger plus de 20 personnes doivent disposer d’un
+éclairage antipanique de type non-permanent.
+
+Article 10 Désenfumage (Evacuation de fumée et de chaleur(E.F.C.))
+Voir dispositions générales.
+
+Article 11 Installations techniques
+Voir dispositions générales.
+
+Article 12 Installations au gaz
+12.1.1 Un dispositif de surveillance des plaques de cuisson fonctionnant au gaz doit être mis
+en place. L’alimentation doit être coupée automatiquement si la présence de personnes est
+interrompue.
+
+
+
+
+6                                                                                    ITM-SST 1516.1
+Article 13 Installations électriques
+13.1.1 Un dispositif de sécurité, de surveillance des plaques électriques de cuisson doit être
+mis en place de manière à assurer que celles-ci sont surveillées pendant leur utilisation.
+13.1.2 Toute activité de restauration (cuisine, remise en température, etc.) dans des locaux à
+sommeil est interdite.
+13.1.3 L’intensité de courant au niveau des prises électriques situées dans les locaux à
+sommeil doit être limitée à 6 ampères au maximum.
+13.1.4    Il est à s’assurer de l’interdiction d’emploi de multiprises électriques en cascade.
+
+Article 14 Planification, équipements et procédures d’urgence
+14.1.1 Les plans et consignes d’évacuation doivent être affichés de manière visible en nombre
+suffisant dans chaque unité d’exploitation et dans les locaux de sommeil pouvant recevoir plus
+de 20 personnes. Toutefois, dans les centres de primo-accueil, les plans et consignes
+d’évacuation sont à afficher dans chaque local à sommeil.
+14.1.2 Les consignes d’évacuation doivent être libellées dans les langues étrangères
+comprises par les occupants de la structure d’hébergement.
+14.1.3 Les procédures d’évacuation en cas d’urgence doivent être portées à la connaissance
+des occupants de la structure d’hébergement.
+14.1.4 Les équipements de premiers secours doivent en permanence être accessibles aux
+occupants de la structure d’hébergement.
+
+Article 15 Moyens de secours et d'intervention
+         Extincteurs portatifs d’incendie
+15.1.1 En complément de l’article 15.2. des dispositions générales ITM-SST 1501.5, 1502.4
+et 1503.4, les cuisines sont à équiper d’extincteurs à eau pulvérisée avec additif de type A B F.
+         Installation de détection incendie, d’alarme et d’alerte
+15.2.1 Toutes les structures d’hébergement sont à équiper d’une installation de détection
+incendie intégrale et d’un système d’alarme générale.
+15.2.2 La transmission d’alarmes via un réseau public de transmission d’alarme peut être
+exigée par l’autorité compétente.
+15.2.3 Une temporisation maximale de la détection incendie de 3 minutes peut être autorisée
+si un service de sécurité incendie est présent en permanence sur le site. Au-delà du délai de 3
+minutes, l’alarme générale doit être déclenchée.
+15.2.4 Pour un établissement dont la surveillance est en partie à distance, aucune
+temporisation n’est autorisée.
+         Service de sécurité incendie
+15.3.1 L’évaluation du nombre d’agents de sécurité incendie et de leur qualification est
+réalisée sur base d’une évaluation des risques sous la responsabilité d’un préposé à la sécurité
+incendie, nommé par l’exploitant. Les fonctions du préposé à la sécurité incendie et des agents
+de sécurité incendie sont définies dans la prescription l’ITM-SST 1500.
+15.3.2 Dans le cas où l’établissement ne dispose pas d’agent de sécurité incendie en
+permanence sur site, une évaluation des risques doit déterminer si les alarmes doivent être
+transmises à un prestataire offrant un service permanent de surveillance.
+15.3.3 Les agents du service de sécurité incendie doivent disposer d’un local qui leur est
+propre, situé à proximité des structures d’hébergement ou intégré à ladite structure. La distance
+séparant le local de la structure doit permettre aux agents de sécurité d’intervenir et d’exercer
+leurs missions rapidement.
+
+7                                                                                 ITM-SST 1516.1
+Article 16 Registre de sécurité
+Voir dispositions générales.
+
+Article 17 Réceptions et contrôles
+Voir dispositions générales.
+
+
+
+
+8                                    ITM-SST 1516.1
+

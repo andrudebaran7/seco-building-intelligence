@@ -1,0 +1,458 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                  Strassen, février 2009
+
+
+    Le présent texte a été établi par l’Inspection du Travail et des Mines et le Service Incendie et
+                                Ambulance de la Ville de Luxembourg.
+
+                                                                                             ITM-SST 1511.1
+
+                                Prescriptions de sécurité incendie
+                                 DISPOSITIONS SPECIFIQUES
+                                 Bâtiments Industriels < 2.000 m²
+                                             HALLS DE PRODUCTION ET / OU DE STOCKAGE
+
+
+
+                                                Le présent document comporte 10 pages
+
+                                                                    SOMMAIRE
+   Article                                                                                                        Page
+
+    1)                     Objectifs et champ d'application                                                           2
+    2)                     Définitions                                                                                2
+    3)                     Implantation                                                                               3
+    4)                     Aménagements extérieurs                                                                    3
+    5)                     Construction                                                                               3
+    6)                     Aménagements intérieurs                                                                    3
+    7)                     Compartimentage                                                                            4
+    8)                     Evacuation de personnes, issues et chemins d'évacuation                                    7
+    9)                     Eclairage                                                                                  8
+   10)                     Désenfumage (Evacuation de fumée et de chaleur)                                            8
+   11)                     Installations techniques                                                                   9
+   12)                     Installations au gaz                                                                       9
+   13)                     Installations électriques                                                                  9
+   14)                     Prévention de panique en cas d'alarme                                                      9
+   15)                     Moyens de secours et d'intervention                                                        9
+   16)                     Registre de sécurité                                                                      10
+   17)                     Réception et contrôles                                                                    10
+
+
+
+
+         ____________________________________________________________________________________________________________________
+         Direction, Département Sécurité et Santé
+         Adresse postale : Boîte postale 27    L- 2010 Luxembourg
+         Bureaux : 3, rue des Primeurs, L-2361 Strassen    Tél : 247-86145   Fax: 49 14 47
+         Site Internet : http://www.itm.lu
+Art. 1er. - Objectif et champ d'application
+
+1.1. Généralités
+
+Les établissements sont soumis aux dispositions générales, ITM-SST 1501 / 1502 et 1503,
+applicables à tous les établissements et aux dispositions spécifiques qui leur sont propres.
+
+1.2. Domaine d'application
+
+Les présentes prescriptions ont pour objectif de spécifier les prescriptions de sécurité et de
+santé par rapport au personnel, aux visiteurs et clients, auxquelles doivent répondre la
+conception, la construction et l’aménagement de bâtiments industriels et artisanaux dont la
+surface totale n'excède pas 2.000 m².
+
+Compte tenu de la diversité des activités industrielles et artisanales et, des risques particuliers
+qui leurs sont propres, des allégements ou dispenses aux présentes prescriptions peuvent être
+accordés de cas en cas, mais uniquement si sont prises des mesures de rechange présentant
+des garanties de sécurité suffisantes : une étude spécifique devra être fournie.
+
+Art. 2. - Définitions
+
+2.1. Bâtiments industriels et artisanaux
+
+Les établissements concernés par les dispositions ci-après concernent toutes les unités de
+production et de stockage de biens industriels ou artisanaux.
+
+Ces établissements sont généralement composés de un ou plusieurs halls de production, de un
+ou plusieurs halls de stockage (qu’il s’agisse de matières premières ou de produits
+intermédiaires ou finis) et d’espaces administratifs (bureaux techniques, administratifs, locaux
+sanitaires, réfectoire....).
+Des aires de stockage, de livraison, de réception en plein air, couvertes ou non, peuvent être
+en prolongement des différents halls.
+
+Le terme de « hall industriel » sera utilisé dans le texte pour indiquer soit un hall de
+production soit un hall de stockage.
+
+Ces établissements sont classés en trois catégories :
+
+             ¾ 1ère catégorie : les industries induisant de faibles risques,
+
+                           Sidérurgie, verre, travaux de métallurgie,
+                           chaudronneries,….sans utilisation de produits dangereux…et ne
+                           nécessitant pas de stockage dangereux…
+
+             ¾ 2ème catégorie : les industries induisant des risques moyens,
+
+                           Industries nécessitant l'utilisation de produits dangereux en
+                           faibles quantités ou industries entraînant des risques mais dont
+                           la surface de l'établissement est faible…et ne nécessitant pas de
+                           stockage de produits dangereux importants,
+
+
+
+
+Page 2 sur 10 pages                                                             ITM-SST 1511.1
+             ¾ 3ème catégorie : les industries induisant des risques importants.
+
+                           Industries nécessitant l'utilisation soit de produits dangereux
+                           en quantité importante soit de matières premières au pouvoir
+                           calorifique important ou permettant une propagation rapide
+                           d'un éventuel incendie…et nécessitant des stockage de matières
+                           dangereuses….
+
+La classification dans l'une ou l'autre de ces catégories se fera en accord avec les autorités.
+
+La classification de l'établissement ayant été définie, les contraintes à respecter en matière de
+sécurité incendie sont décrites dans la suite de ce règlement.
+
+Art. 3. - Implantation
+
+Voir dispositions générales.
+
+Art. 4. - Aménagements extérieurs
+
+Voir dispositions générales.
+
+Art. 5. - Construction
+
+La notion de stabilité au feu des structures peut faire l'objet de minoration ou d'aggravation
+des contraintes en fonction de la catégorie de l'établissement.
+
+5.1. Aucune stabilité au feu des parties portantes (murs, piliers, planchers, poutres, etc.…) du
+rez-de-chaussée ne sera exigée pour un hall industriel d’une hauteur maximum de stockage
+limitée à 9 m et ne disposant pas d’étage. Les mezzanines d’une surface maximum de 400 m2
+sont autorisées à l’intérieur de ce volume.
+
+5.2. Au cas où le hall est construit sur la base d’une construction ne comportant qu’un seul
+étage et ayant une stabilité au feu supérieure ou égale à 30 minutes (R 30), le hall peut être
+considéré comme n’ayant qu’un rez-de-chaussée.
+
+Art. 6. - Aménagements intérieurs
+
+6.1. Disposition et aménagement de machines, stockage, appareillages,.....
+
+6.1.1. Les couloirs de circulation doivent être disposés de telle sorte que d'un point
+quelconque des halls, l'on puisse toujours joindre facilement deux sorties.
+
+L’exploitant devra établir un dossier de sécurité comportant :
+              ¾ une notice de présentation générale intégrant les moyens mis en œuvre en
+                matière de sécurité incendie,
+              ¾ préciser le nom des personnes formant le service de sécurité et leur
+                qualification en matière de sécurité incendie,
+              ¾ un plan détaillé de l’établissement faisant apparaître le tracé des circulations,
+                l'emplacement des machines, stockage, appareillages,....., les emplacements
+                des moyens de secours, les poteaux de structure, les issues de secours …
+
+
+
+
+Page 3 sur 10 pages                                                             ITM-SST 1511.1
+6.2. Mesures particulières
+
+Il est formellement interdit de fumer et d’apporter du feu nu dans les halls de production et de
+stockage de produits dangereux. Des lieux appropriés et équipés seront définis et signalés.
+
+Art. 7. - Compartimentage
+
+7.1. Façades
+
+7.1.1. En aggravation des dispositions générales, pour éviter un retour de flammes dans la
+verticale entre les différents étages d’un hall industriel, les éléments de façade doivent créer
+une séparation de minimum de 1,5 m. (Règle C+D).
+Si le compartiment situé en dessous est muni d’un système d’extinction automatique à eau,
+cette dimension peut être limitée à un mètre.
+
+7.1.2. Les éléments utilisés pour les façades seront non combustibles ou non inflammables
+(Euroclasses A1 ou A2) pour les halls comportant plusieurs étages. Une installation
+d’extinction automatique à eau permet d’utiliser des éléments difficilement inflammables
+(Euroclasses C s2d1) pour les façades.
+
+7.2. Toiture
+
+7.2.1. Afin de prévenir la propagation horizontale d’un incendie par la toiture entre
+compartiments coupe-feu, les cas de figures suivants sont possibles :
+
+a) Le mur coupe-feu 90 minutes (REI 90) doit dépasser de ü ≥ 1 m la toiture du bâtiment.
+Aucune ouverture (portes, fenêtres) ne doit se trouver sur la largeur b ≥1 m en cas d’une
+façade non combustible et sur la largeur b ≥5 m en cas d’une façade difficilement
+inflammable. Aucune ouverture (coupoles, exutoires de fumée) ne doit se trouver sur la
+largeur a ≥ 5 m.
+
+
+
+
+Page 4 sur 10 pages                                                           ITM-SST 1511.1
+b) Autrement la toiture est à réaliser coupe-feu 90 minutes (REI 90). Une isolation thermique
+non combustible est à réaliser sur une largeur de 1 m des deux côtés du mur coupe-feu. La
+toiture est à couvrir complètement avec du gravier d’une hauteur d’au moins 5 cm. Aucune
+ouverture (coupoles, exutoires de fumée) ne doit se trouver sur la largeur a ≥ 5 m.
+
+
+
+
+c) Si tel n’est pas le cas, la toiture est à réaliser coupe-feu 90 minutes (REI 90) sur la largeur
+b ≥ 2 m. Une isolation thermique non combustible est à réaliser sur une largeur b ≥ 2 m des
+deux côtés du mur coupe-feu (REI 90). La toiture est à couvrir sur cette même largeur avec du
+gravier d’une hauteur d’au moins 5 cm. Aucune ouverture (coupoles, exutoires de fumée) ne
+doit se trouver sur la largeur a ≥ 5 m.
+
+
+
+
+7.3. Bâtiment
+
+7.3.1. Les halls industriels doivent être isolés par rapport aux espaces bureaux techniques et
+administratifs, dont la surface est supérieure à 400 m², par des murs coupe-feu 90 minutes
+(REI 90). Les portes seront coupe-feu 90 minutes (REI 90) et à ferme-porte. L’équivalent de
+ces portes peut être l’ensemble de deux portes coupe-feu 30 minutes qui peut se trouver entre
+deux compartiments et qui fait fonction d’un sas.
+
+
+
+
+Page 5 sur 10 pages                                                            ITM-SST 1511.1
+7.3.2. Les halls de production et / ou de stockage, doivent être divisés en compartiments tous
+les :
+                        ¾ 40 m pour les établissements de 3ème catégorie,
+                        ¾ 80 m pour les établissements de 2ème catégorie,
+                        ¾ en accord avec les autorités compétentes pour les établissements
+                          de 1ère catégorie,
+
+toutefois compte tenu de la diversité et de la spécificité de certaines activités industrielles, un
+allègement à cette règle pourra être accordé en contre partie de mesures compensatoires. Les
+murs de compartimentage doivent être coupe-feu 90 minutes ainsi que les portes. Toutefois,
+pour des raisons de circulation ces portes peuvent être maintenues en position ouverte par une
+installation garantissant la fermeture automatique en cas d’alarme ou de détection incendie.
+
+
+
+
+7.3.3. En cas d’une différence de hauteur entre ces compartiments les cas de figure suivants
+sont possibles :
+
+a) Le mur coupe-feu 90 minutes (REI 90) est à réaliser jusqu’à la hauteur de la toiture du
+compartiment plus élevé et ne doit pas contenir des ouvertures.
+
+
+
+
+b) Le mur coupe-feu 90 minutes (REI 90) est à réaliser jusqu’à la hauteur de la toiture du
+compartiment plus bas. La toiture du compartiment plus bas y compris les parties portantes
+sont à réaliser coupe-feu 90 minutes (REI 90) sur une largeur a identique à la différence de
+hauteur ∆h. Toutefois la largeur a ne peut être inférieure à 5 m et supérieure à 15 m et ne doit
+pas contenir des ouvertures.
+
+
+
+
+                              toiture et parties portantes REI 90
+                              et sans ouvertures
+
+
+
+
+Page 6 sur 10 pages                                                             ITM-SST 1511.1
+7.3.4. Des bureaux peuvent se trouver à l’intérieur des halls industriels sans degré de
+résistance au feu à condition que leur surface totale ne soit pas supérieure à 400 m2. Ces
+bureaux ne sont acceptés que si des panneaux de verre permettent de voir un début d’incendie
+à l’intérieur du hall par lequel il faut sortir. Tous les locaux composant ces bureaux doivent
+avoir un accès direct à une circulation.
+7.3.5. Dans les locaux où sont stockés et/ou travaillés plus de 10 litres de liquides
+inflammables une cuve étanche doit retenir ces liquides.
+7.3.6. Le premier sous-sol est à compartimenter coupe-feu 90 minutes (REI 90) par rapport au
+rez-de-chaussée. Il doit être divisé tous les 1.000 m2 de surface par des murs coupe-feu 90
+minutes (REI 90). Les portes séparant ces surfaces seront coupe-feu 90 minutes (REI 90) et à
+ferme-porte.
+Il faut entendre par sous-sol des locaux divers, techniques, stockage, activité de
+production,…., fermés. Les espaces ouverts situés en sous sol mais servant principalement à
+l'entretien et aux contrôles des chaînes de fabrication ne sont pas concernées par cet article.
+7.3.7. Les autres sous-sols sont à compartimenter coupe-feu 90 minutes (REI 90) entre eux.
+Ils doivent être divisés tous les 500 m2 de surface par des murs coupe-feu 90 minutes (REI
+90). Les portes séparant ces surfaces seront coupe-feu 90 minutes (REI 90) et à ferme-porte.
+7.3.8. La surface des compartiments pourra être augmentée s'il est prévu d'installer une
+détection incendie automatique appropriée aux risques et/ou une extinction automatique à eau
+pulvérisée. Elle sera établie et calculée principalement en fonction des risques et en accord
+avec les autorités compétentes.
+7.4. Locaux à risques particuliers
+7.4.1. En complément des dispositions générales, sont à considérer comme étant des locaux à
+risques :
+                ¾ les ateliers de fabrication, d'entretien, de réparation, nécessaires au
+                  fonctionnement de la production…
+                ¾ les locaux d'emballage, de stockage et de manipulation de matières
+                  dangereuses,
+                ¾ les magasins de conservation de documents, d'accessoires divers, …
+Ils sont considérés à risques faibles si leur surface est inférieure à 20 m², importants si leur
+surface est supérieure à 50 m² et à risques moyens entre 20 et 50 m².
+
+7.4.2. Les parois des locaux à risques particuliers situés partiellement ou entièrement à
+l'extérieur des bâtiments devront être traités coupe feu conformément aux dispositions
+générales.
+
+Art. 8. - Evacuation de personnes, issues et chemins d'évacuation
+
+8.1. Effectif de personnes
+8.1.1. L'effectif total, visiteurs, clients, personnel...... est déterminé suivant la déclaration
+contrôlée du chef d'établissement, il s'agit alors de l'effectif déclaré (voir effectif spécifique de
+l'ITM-SST 1500: définitions générales).
+
+
+
+
+Page 7 sur 10 pages                                                               ITM-SST 1511.1
+8.1.2. Toutefois si l’établissement comporte des locaux spécifiques tels que salles
+polyvalentes, restaurants, salles de réunion, bureaux ......., les dispositions spécifiques à
+chacun de ces locaux s’appliquent.
+8.1.3. Tous les dégagements et issues seront calculés en fonction de l'effectif retenu par
+l'administration compétente c'est-à-dire soit l'effectif théorique soit l'effectif déclaré.
+8.1.4. Des escaliers de communication internes non compartimentés peuvent être prévus entre
+2 niveaux.
+8.1.5. En atténuation de l’article 8.3.1 des Conditions Type ITM SST 1501 et 1502, la
+distance à parcourir d’un point quelconque jusqu’à la sortie ou jusqu’à un autre compartiment
+ou jusqu’à la cage d’escalier la plus proche ne peut pas dépasser :
+
+                ¾ 35 m pour les établissements de 3ème catégorie,
+                ¾ 50 m pour les établissements de 2ème catégorie,
+                ¾ 60 m pour les établissements de 1ère catégorie.
+
+Toutefois pour les locaux contenant des substances toxiques ou explosives ou soumis à un
+danger d'explosion, l'article 24 de la Condition Type ITM ET 32 reste applicable.
+
+8.1.6. Les espaces ouverts situés en sous sol mais servant principalement à l'entretien et aux
+contrôles des chaînes de fabrication devront offrir suffisamment de chemins d'évacuation. Ce
+point sera examiné en accord avec les services compétents.
+
+Art. 9. - Eclairage
+
+Le paragraphe 15.7 de la Condition Type ITM ET 32 est applicable.
+
+Art. 10. - Désenfumage (Evacuation de fumée et de chaleur)
+
+10.1. Dans un hall industriel ayant un seul niveau respectivement pour le dernier niveau des
+exutoires de fumée sont à installer dans la toiture de tous les compartiments d’une surface
+supérieure à 400 m2.
+
+Les commandes communes de ces trappes de ventilation seront automatiques et manuelles;
+automatiques à l’aide de détecteurs de fumée et de fusibles placés aux points les plus hauts,
+manuelle à partir de boutons poussoirs placés à deux endroits facilement accessibles aux
+sapeurs-pompiers.
+
+10.2. Dans un hall industriel ayant plusieurs niveaux, des ouvertures, p. ex. : fenêtres dans la
+partie supérieure de l’étage, sont à prévoir dans la façade à chaque niveau de production et/ou
+de stockage de tous les compartiments d’une surface supérieure à 400 m2.
+
+10.3. Tous les niveaux (y compris les sous-sols) d’une surface supérieure à 400 m2, ne
+disposant pas de fenêtres doivent être désenfumés mécaniquement.
+
+
+
+
+Page 8 sur 10 pages                                                           ITM-SST 1511.1
+Art. 11. - Installations techniques
+
+Les conduites de liquides inflammables doivent être équipées de vannes de fermeture
+automatique et manuelle dont la position sera déterminée en accord avec les autorités
+compétentes.
+
+Art. 12. - Installations au gaz
+
+Sont applicables la Condition Type ITM ET 32 ainsi que les dispositions générales.
+
+Art. 13. - Installations électriques
+
+Sont applicables la Condition Type ITM ET 32 ainsi que les dispositions générales.
+
+Art. 14. - Prévention de panique en cas d'alarme
+
+Voir dispositions générales.
+
+Art. 15. - Moyens de secours et d'intervention
+
+15.1. Alerte
+
+L'établissement doit disposer d'un ou de plusieurs postes de téléphone permettant d'alerter
+directement les services de secours.
+
+15.2. Installations de détection incendie et d’alarme
+
+15.2.1 Dans un hall industriel comprenant un rez-de-chaussée et quatre étages (R+4) une
+installation de détection incendie automatique est obligatoire.
+
+15.2.2 Une alarme générale et sélective doit être installée dans les halls industriels. De même
+une détection manuelle par boutons - poussoirs est à installer pour permettre à toute personne
+de donner une alarme en cas de constatation d’un début d’incendie.
+
+15.2.3 Les locaux recevant des installations hydrauliques doivent être équipés de détection
+incendie.
+
+15.3. Robinets d’incendie armés
+
+Les établissements de 3ème catégorie devront être équipés de R.I.A. conformément à aux
+articles 15.3.1 et suivants des dispositions générales. Pour les établissements de 2ème
+catégorie, les autorités compétentes seront amenées à demander l’installation de R.I.A.
+
+15.4. Préposé à la sécurité
+
+L'exploitant doit nommer un préposé à la sécurité compétent et qualifié, connaissant
+parfaitement tous les domaines de l'entreprise, s'il ne veut pas se charger lui-même des
+attributions du préposé à la sécurité.
+
+
+
+
+Page 9 sur 10 pages                                                          ITM-SST 1511.1
+15.5. Service de sécurité
+
+15.5.1. L'exploitant doit prendre toutes les mesures nécessaires pour organiser un service de
+sécurité. Celui-ci devra être en mesure d'assurer une première intervention en cas d'incendie et
+les premiers secours en cas de malaise.
+
+15.5.2. La composition de ce service est à coordonner avec les services de secours
+compétents.
+
+15.5.3. Le personnel formant ce service de sécurité devra avoir été formé aux premiers
+secours, à la manipulation des extincteurs et R.I.A. et, aux mesures à prendre quant à la
+gestion de l'évacuation des personnes.
+
+Art. 16. - Registre de sécurité
+
+Voir dispositions générales.
+
+Art. 17. - Réception et contrôles
+
+L'ensemble des installations techniques et matérielles concourant à la sécurité contre les
+risques d'incendie devront être réceptionnés par un organisme agréé. Avant la mise en
+exploitation, des rapports spécifiques seront transmis par l'organisme agréé à l’ITM pour
+visas.
+
+Ces rapports doivent être disponibles dans l'établissement, être portés à la connaissance du
+service de garde de sécurité et figurer dans le registre de sécurité.
+
+
+
+
+              Visa du Directeur adjoint                  Mise en vigueur, le 27 février 2009
+              de l’Inspection du travail
+                     et des mines                                         s.
+
+                          s.                                        Paul WEBER
+                                                                      Directeur
+                 Robert HUBERTY                               de l’Inspection du travail
+                                                                     et des mines
+
+
+
+
+Page 10 sur 10 pages                                                              ITM-SST 1511.1
+

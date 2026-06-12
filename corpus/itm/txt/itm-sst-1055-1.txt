@@ -1,0 +1,270 @@
+                                          GRAND-DUCHÉ DE LUXEMBOURG
+
+
+
+                                           Le présent texte a été établi par
+                                         l’Inspection du travail et des mines
+
+
+
+
+                                                  ITM-SST 1055.1
+                                            Version du 19 décembre 2024
+
+                   Prescriptions de sécurité et de santé types
+                                                     Eclairage
+                                          Le présent document comporte 7 pages
+
+
+
+
+Inspection du travail et des mines
+Adresse postale :         B.P. 27                  L-2010 Luxembourg   Tel. :    +352 247-76100
+Bureaux :                 3, rue des Primeurs      L-2361 Strassen     Fax :     +352 247-96100
+Site internet :           https://itm.public.lu
+                                                          Table des matières
+
+
+Article 1er Objectif et domaine d’application ................................................................................ 3
+
+Article 2. Définitions ..................................................................................................................... 3
+     2.1. Eclairage normal ................................................................................................................... 3
+     2.2. Eclairage de secours ............................................................................................................. 3
+     2.3. Eclairage de sécurité ............................................................................................................ 3
+     2.4. Eclairage d'évacuation.......................................................................................................... 3
+     2.5. Eclairage d'antipanique (ambiance) ..................................................................................... 3
+     2.6. Eclairage des emplacements de travaux dangereux ............................................................ 3
+     2.7. Eclairage de remplacement .................................................................................................. 3
+     2.8. Signalisation de sécurité éclairée de l'extérieur .................................................................. 4
+     2.9. Signalisation de sécurité éclairée de l'intérieur ................................................................... 4
+
+Article 3. Normes et règles techniques ........................................................................................ 4
+
+Article 4. Principes concernant l’éclairage des lieux de travail .................................................... 4
+
+Article 5. Principes concernant l’éclairage naturel ...................................................................... 4
+
+Article 6. Principes concernant l'éclairage artificiel ..................................................................... 5
+
+Article 7. Critères relatifs à l'éclairage.......................................................................................... 5
+
+Article 8. Eclairage de secours ...................................................................................................... 5
+     8.1. Eclairage de remplacement .................................................................................................. 6
+     8.2. Eclairage de sécurité ............................................................................................................ 6
+     8.3. Eclairage d’évacuation ......................................................................................................... 6
+     8.4. Eclairage antipanique ........................................................................................................... 7
+     8.5. Eclairage des emplacements de travaux dangereux ............................................................ 7
+     8.6. Mesurage de l’éclairement ou de la luminance ................................................................... 7
+
+
+
+
+ 2                                                                                                                     ITM-SST 1055.1
+Article 1er    Objectif et domaine d’application
+Les présentes prescriptions ont pour objet de préciser les dispositions relatives à l’éclairage des
+lieux de travail et à l’éclairage de secours concernant la sécurité, la santé, l'hygiène, la salubrité
+et l’ergonomie des salariés ainsi que la sécurité du public.
+Les dispositions de la présente prescription ont pour objectif :
+➢ Répondre aux besoins d’un confort visuel et de performance visuelle des salariés dont la
+  capacité visuelle est normale ou corrigée à la normale,
+➢ Assurer une circulation facile des personnes,
+➢ De permettre une évacuation rapide et sûre,
+➢ Et d’effectuer les manœuvres nécessaires intéressant la sécurité.
+
+
+Article 2.     Définitions
+2.1. Eclairage normal
+Eclairage alimenté par une source normale (non sécurisée).
+
+2.2. Eclairage de secours
+Eclairage prévu pour être utilisé en cas de défaillance de l'éclairage normal. Il comprend
+l’éclairage de sécurité et l’éclairage de remplacement.
+
+2.3. Eclairage de sécurité
+Partie de l'éclairage de secours prévue pour assurer la sécurité des personnes qui évacuent une
+zone ou qui tentent de terminer un travail potentiellement dangereux avant de quitter les lieux.
+
+2.4. Eclairage d'évacuation
+Partie de l'éclairage de sécurité prévue pour assurer la reconnaissance et l'utilisation en toute
+sécurité des moyens d'évacuation quand les lieux sont occupés.
+
+2.5. Eclairage d'antipanique (ambiance)
+Type d'éclairage de sécurité prévu pour éviter tout risque de panique et qui fournit un
+éclairement permettant aux occupants d'identifier et d'atteindre les chemins d'évacuation.
+Note : « L’éclairage antipanique » peut aussi être appelé « éclairage d’ambiance ».
+
+2.6. Eclairage des emplacements de travaux dangereux
+Type d’éclairage de sécurité prévu pour garantir la sécurité des personnes occupées à des
+activités potentiellement dangereuses ou travaillant dans un environnement dangereux et
+permettant le bon déroulement des procédures d'arrêt pour la sécurité de l'opérateur et des
+autres occupants des locaux.
+
+2.7. Eclairage de remplacement
+Type d'éclairage de secours prévue pour permettre la poursuite des activités normales sans
+grand changement.
+
+
+ 3                                                                                  ITM-SST 1055.1
+2.8. Signalisation de sécurité éclairée de l'extérieur
+Signalisation éclairée, lorsque nécessaire, par une source située à l'extérieur.
+
+2.9. Signalisation de sécurité éclairée de l'intérieur
+Signalisation éclairée, lorsque nécessaire, par une source située à l'intérieur.
+
+
+Article 3.     Normes et règles techniques
+Les normes, prescriptions, directives de sécurité et d'hygiène à appliquer lors de la
+conception, de la réalisation et de l'exploitation de l'éclairage des lieux de travail sont
+fixées par les présentes prescriptions et en général par les normes européennes
+suivantes :
+     ➢ EN 12464-1 (Eclairage des lieux de travail intérieurs) ;
+     ➢ EN 12464-2 (Eclairage des lieux de travail extérieurs) ;
+     ➢ EN 1838 (Éclairage de secours) ;
+     ➢ EN 12665 (Termes de base et critères pour la spécification des exigences en
+         éclairage).
+     ➢ EN 50172 (Système d’éclairage de sécurité).
+
+
+Article 4.     Principes concernant l’éclairage des lieux de travail
+4.1.1. Les lieux de travail doivent disposer d'une lumière suffisante permettant aux travailleurs
+de se déplacer et d'effectuer leur travail dans de bonnes conditions de sécurité et de santé.
+4.1.2. L’éclairage des lieux de travail peut se faire de manière naturelle ou artificielle. Afin de
+répondre aux objectifs de l’article 1er, les locaux abritant des lieux de travail doivent disposer
+d’un éclairage naturel, à l’exception des locaux qui abritent exclusivement des activités non
+compatibles avec la lumière naturelle.
+
+
+Article 5.     Principes concernant l’éclairage naturel
+5.1.1. Les installations d'éclairage naturel des locaux de travail, des réfectoires, des installations
+sanitaires et des voies de communication doivent être placées de façon à ce que le type
+d'installation prévu ne présente pas de risque d'accident pour les travailleurs.
+5.1.2. Les fenêtres et éclairages zénithaux doivent pouvoir être ouverts, fermés, ajustés et fixés
+par les travailleurs de manière sûre. Lorsqu'ils sont ouverts, ils ne doivent pas être positionnés
+de façon à constituer un danger pour les travailleurs.
+5.1.3. Les fenêtres et les éclairages zénithaux doivent être conçus de manière conjointe avec
+l'équipement pour leur nettoyage ou bien être équipés de dispositifs leur permettant d'être
+nettoyés sans risque pour les équipes de nettoyage ainsi que pour les travailleurs présents dans
+le bâtiment et autour de celui-ci.
+Les éclairages zénithaux doivent être protégés contre la chute d'objets.
+5.1.4. Une vue sur l'extérieur à hauteur des yeux doit être garantie par des fenêtres, des portes
+ou des parois transparentes en verre ou en un matériau similaire.
+
+
+
+
+ 4                                                                                  ITM-SST 1055.1
+Article 6.     Principes concernant l'éclairage artificiel
+6.1.1. Les installations d'éclairage artificiel des locaux recevant du public, des locaux de travail,
+des réfectoires, des installations sanitaires et des compartiments d’issues doivent être placées
+de façon à ce que le type d'éclairage prévu ne présente pas de risque d'accident pour les
+personnes.
+6.1.2. Les installations d'éclairage artificiel doivent être conçues et installées de façon à éviter
+tout éblouissement.
+A cet effet, il convient d’éviter l'installation de sources lumineuses dans un angle de 30° par
+rapport à l'axe horizontal du regard et, d’éviter d’effectuer des travaux sur des surfaces brillantes
+et réfléchissantes.
+6.1.3. Il faut assurer une bonne diffusion de la lumière et éviter les ombres portées (p.ex. par le
+gabarit des machines, par les installations, etc.).
+6.1.4. Il faut assurer un bon rendu du relief et des couleurs, notamment des couleurs dites de
+sécurité.
+6.1.5. Il faut porter une attention particulière à l'éclairage des lieux de travail où se trouvent des
+machines tournantes (p.ex. tours), afin d'éviter tout phénomène stroboscopique survenant entre
+les pièces tournantes et l'éclairage alimenté en courant alternatif (les pièces tournantes semblent
+à l'arrêt, alors qu'en réalité elles tournent à une vitesse de rotation d'un facteur multiple de la
+fréquence du courant d'alimentation de l'éclairage artificiel).
+
+
+Article 7.     Critères relatifs à l'éclairage
+Les critères relatifs à l'éclairage (éclairement lumineux, luminance, etc.) doivent respecter les
+dispositions prévues par les normes suivantes :
+Pour l’éclairage des lieux de travail : EN12464-1 et EN 12464-2 ;
+Pour l’éclairage de secours : EN1838.
+
+
+Article 8.     Eclairage de secours
+L’éclairage de secours comprend les différents types d’éclairage suivants :
+
+
+
+
+                                   Figure 1 : Types d’éclairage de secours
+
+
+ 5                                                                                  ITM-SST 1055.1
+Si l’éclairage normal risque de ne pas pouvoir être rétabli endéans le temps durant lequel le
+fonctionnement de l’éclairage de secours est garanti, toutes les personnes doivent être évacuées
+avant que l’autonomie de l’éclairage de secours ne touche à sa fin, à l’exception des personnes
+dont la présence est nécessaire pour la sécurité, la surveillance des lieux ou la remise en état de
+l’éclairage.
+
+8.1. Eclairage de remplacement
+8.1.1. L'intensité de l'éclairage de remplacement ne peut être inférieure à un tiers de celle de
+l'éclairage normal.
+8.1.2. L'éclairage de remplacement doit être alimenté par une source d'énergie électrique
+indépendante de la source de courant normal, tel qu’un groupe électrogène de secours, un
+onduleur alimenté par une batterie d'accumulateurs électriques, un deuxième réseau
+d'alimentation.
+8.1.3. Suivant l’ITM-SST 1500.4 l'éclairage de remplacement permet de maintenir l’activité
+normale d’un établissement, sans grand changement. Dans le cas où l’installation d’éclairage de
+remplacement fait également fonction d’éclairage de sécurité, elle doit en outre couvrir les
+exigences spécifiques correspondant au type d’éclairage de sécurité qu’elle remplace.
+8.1.4. Les cas où l’éclairage de remplacement est obligatoire sont spécifiés par les dispositions
+spécifiques.
+
+8.2. Eclairage de sécurité
+8.2.1. L’éclairage de sécurité doit être réalisé conformément aux normes européennes EN 50172
+et EN 1838, dans les limites de leurs domaines d’application.
+8.2.2. L'éclairage de sécurité doit avoir une autonomie de fonctionnement d'au moins 60
+minutes.
+8.2.3. L'éclairage de sécurité est à réaliser de préférence par des sources de courant autonomes.
+8.2.4. Lorsque l'éclairage de sécurité est alimenté par une source de courant centrale, la
+distribution et le câblage alimentant cet éclairage doivent être installés de manière à éviter tout
+risque de mise hors service général de l'éclairage de sécurité, soit en cas d'accident, soit en cas
+d'incendie.
+8.2.5. Le câblage de l'alimentation de sécurité doit dans tous les cas être résistant au feu d'un
+degré d’une heure au moins (P 60) ou être posé dans des gaines compartimentées coupe-feu
+60 minutes (EI 60) jusqu’au tableau de distribution alimentant les différents blocs d’un même
+compartiment qu’il soit principal ou secondaire. Toutefois, cette gaine ne doit pas contenir
+d’autres câbles électriques ou des conduites transportant des produits dangereux.
+
+8.3. Eclairage d’évacuation
+L'éclairage d’évacuation doit fournir un éclairement d’au moins 1 Lux dans les voies d’évacuation
+au niveau du sol, en tenant compte des modalités prévues dans la norme EN 1838.
+L'éclairage d’évacuation doit fonctionner de telle façon qu’en cas de défaillance de l'éclairage
+normal, les personnes puissent s'orienter aisément, éviter les obstacles et dangers de chute ou
+de trébuchements éventuels et trouver les issues sans risque de panique.
+
+
+
+ 6                                                                               ITM-SST 1055.1
+Sans préjudice des dispositions y afférentes spécifiées ailleurs dans le présent texte, l'éclairage
+d’évacuation doit fonctionner notamment aux endroits suivants :
+     ➢ les voies d’évacuation à l’intérieur des bâtiments, y inclus les voies d’évacuation
+       intérieures aux locaux, et spécialement aux portes, aux endroits dangereux, aux
+       bifurcations et croisements, dans les escaliers et près des sorties ;
+     ➢ les issues des locaux destinés à recevoir plus de 50 personnes ;
+     ➢ les voies d’évacuation à l’extérieur des bâtiments jusqu’au domaine public ou au point de
+       rassemblement.
+
+8.4. Eclairage antipanique
+Dans les locaux pour lesquels un éclairage antipanique est requis, il doit fournir un éclairement
+d’au moins 0,5 Lux au niveau du sol, en tenant compte des modalités prévues dans la norme
+EN 1838.
+
+8.5. Eclairage des emplacements de travaux dangereux
+L'éclairage des emplacements de travaux dangereux doit fournir un éclairement minimal de 10 %
+de l’éclairement exigée pour la tâche. L'éclairage des emplacements de travaux dangereux doit
+s'allumer au plus tard 0,5 seconde après l'extinction de l'éclairage normal ou de l'éclairage de
+remplacement.
+
+8.6. Mesurage de l’éclairement ou de la luminance
+Les valeurs d’éclairement et de luminance spécifiées dans la norme EN 1838 sont applicables,
+sous réserve d’autres valeurs spécifiées dans le présent document ou fixées par l’autorité
+compétente pour l’établissement en question. Le mesurage des valeurs requises se fait suivant
+les modalités spécifiées par la norme EN 1838.
+
+
+
+
+ 7                                                                               ITM-SST 1055.1
+

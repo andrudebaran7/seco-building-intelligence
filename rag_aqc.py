@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Índice RAG del corpus AQC: troceado + embeddings + búsqueda semántica.
+"""Índice RAG multi-corpus: troceado + embeddings + búsqueda semántica.
+
+Indexa los corpora disponibles (AQC patología FR + ITM normativa LU FR/DE)
+en una sola base con columna de fuente e idioma.
 
 Trocea los textos extraídos por ingest_aqc.py en fragmentos con solape,
 los vectoriza con un modelo de embeddings multilingüe local (sin APIs de
@@ -27,8 +30,12 @@ from pathlib import Path
 MODEL_NAME = "intfloat/multilingual-e5-small"
 CHUNK_CHARS = 1200   # tamaño objetivo del fragmento
 OVERLAP_CHARS = 200  # solape entre fragmentos consecutivos
-DB_PATH = Path("corpus/aqc/rag_index.db")
-MANIFEST = Path("corpus/aqc/manifest.jsonl")
+DB_PATH = Path("corpus/rag_index.db")
+# Corpora indexados: (fuente, manifiesto). Se incluyen los que existan.
+CORPORA = [
+    ("AQC", Path("corpus/aqc/manifest.jsonl")),   # patología constructiva (FR)
+    ("ITM", Path("corpus/itm/manifest.jsonl")),   # normativa luxemburguesa (FR/DE)
+]
 
 
 def load_model():
@@ -54,22 +61,28 @@ def chunk_text(text: str) -> list[str]:
 def build(args) -> None:
     import numpy as np
 
-    if not MANIFEST.exists():
-        sys.exit(f"No existe {MANIFEST}; ejecuta antes ingest_aqc.py")
-    fiches = [json.loads(l) for l in MANIFEST.open(encoding="utf-8")]
-    fiches = [f for f in fiches if f.get("txt")]
+    disponibles = [(src, m) for src, m in CORPORA if m.exists()]
+    if not disponibles:
+        sys.exit("Ningún manifiesto de corpus encontrado; ejecuta ingest_aqc.py / ingest_itm.py")
 
-    rows = []  # (code, titulo, fichero, chunk_idx, texto)
-    for f in fiches:
-        text = Path(f["txt"]).read_text(encoding="utf-8")
-        for i, chunk in enumerate(chunk_text(text)):
-            rows.append((f["code"], f["titulo"], f["txt"], i, chunk))
-    print(f"Fichas: {len(fiches):,} — fragmentos: {len(rows):,}")
+    rows = []  # (fuente, lang, code, titulo, fichero, chunk_idx, texto)
+    n_docs = 0
+    for fuente, manifest in disponibles:
+        docs = [json.loads(l) for l in manifest.open(encoding="utf-8") if l.strip()]
+        docs = [d for d in docs if d.get("txt")]
+        n_docs += len(docs)
+        for d in docs:
+            text = Path(d["txt"]).read_text(encoding="utf-8", errors="replace")
+            lang = d.get("lang", "fr")
+            for i, chunk in enumerate(chunk_text(text)):
+                rows.append((fuente, lang, d["code"], d["titulo"], d["txt"], i, chunk))
+        print(f"  {fuente}: {len(docs):,} documentos")
+    print(f"Documentos: {n_docs:,} — fragmentos: {len(rows):,}")
 
     print(f"Cargando modelo {MODEL_NAME} (se descarga la primera vez)...")
     model = load_model()
     embeddings = model.encode(
-        [f"passage: {r[4]}" for r in rows],
+        [f"passage: {r[6]}" for r in rows],
         normalize_embeddings=True,
         show_progress_bar=True,
         batch_size=32,
@@ -82,14 +95,17 @@ def build(args) -> None:
         DROP TABLE IF EXISTS meta;
         CREATE TABLE chunks (
             id INTEGER PRIMARY KEY,
+            fuente TEXT, lang TEXT,
             code TEXT, titulo TEXT, fichero TEXT, chunk_idx INTEGER,
             texto TEXT, embedding BLOB
         );
         CREATE TABLE meta (clave TEXT PRIMARY KEY, valor TEXT);
     """)
     con.executemany(
-        "INSERT INTO chunks (code, titulo, fichero, chunk_idx, texto, embedding) VALUES (?,?,?,?,?,?)",
-        [(c, t, fp, i, txt, emb.tobytes()) for (c, t, fp, i, txt), emb in zip(rows, embeddings)],
+        "INSERT INTO chunks (fuente, lang, code, titulo, fichero, chunk_idx, texto, embedding) "
+        "VALUES (?,?,?,?,?,?,?,?)",
+        [(s, lg, c, ti, fp, i, txt, emb.tobytes())
+         for (s, lg, c, ti, fp, i, txt), emb in zip(rows, embeddings)],
     )
     con.execute("INSERT INTO meta VALUES ('modelo', ?)", (MODEL_NAME,))
     con.execute("INSERT INTO meta VALUES ('dimension', ?)", (str(embeddings.shape[1]),))
@@ -109,9 +125,10 @@ def search(args) -> None:
     if modelo_indexado != MODEL_NAME:
         sys.exit(f"El índice fue creado con {modelo_indexado}; reconstruye con: rag_aqc.py build")
 
-    data = con.execute("SELECT code, titulo, chunk_idx, texto, embedding FROM chunks").fetchall()
+    data = con.execute("SELECT fuente, code, titulo, chunk_idx, texto, embedding "
+                       "FROM chunks").fetchall()
     con.close()
-    matrix = np.frombuffer(b"".join(r[4] for r in data), dtype=np.float32).reshape(len(data), -1)
+    matrix = np.frombuffer(b"".join(r[5] for r in data), dtype=np.float32).reshape(len(data), -1)
 
     model = load_model()
     q = model.encode([f"query: {args.consulta}"], normalize_embeddings=True)[0].astype(np.float32)
@@ -120,9 +137,9 @@ def search(args) -> None:
     top = np.argsort(-scores)[: args.top]
     print(f'Consulta: "{args.consulta}"\n')
     for rank, idx in enumerate(top, 1):
-        code, titulo, chunk_idx, texto, _ = data[idx]
+        fuente, code, titulo, chunk_idx, texto, _ = data[idx]
         snippet = " ".join(texto.split())[:300]
-        print(f"{rank}. [{code}] (score {scores[idx]:.3f}) {titulo[:90]}")
+        print(f"{rank}. [{fuente} {code}] (score {scores[idx]:.3f}) {titulo[:90]}")
         print(f"   …{snippet}…\n")
 
 

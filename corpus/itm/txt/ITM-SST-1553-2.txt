@@ -1,0 +1,1455 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                         Strassen, novembre 2014
+
+                          Le présent texte a été établi par l’Inspection du travail et des mines et
+                           le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                       ITM-SST 1553.2
+
+                        Prescriptions de prévention incendie
+                               INSTRUCTION TECHNIQUE
+          Simulation d’évacuation de personnes (SEP)
+            à l’aide d’une approche performancielle
+                                                Le présent document comporte 34 pages
+
+
+                                                              SOMMAIRE
+Article                                                                                                              Page
+
+1)     Objectifs et domaine d'application                                                                                2
+2)     Définitions                                                                                                       3
+3)     Structure d'analyse des risques d'un projet                                                                       4
+4)     Etablissement de scénarios d'évacuation pour les analyses                                                        25
+5)     Choix des méthodes de simulation, logiciels et conditions particulières
+       à respecter                                                                                                      27
+6)     Procédures de validation et de contrôle                                                                          31
+7)     Transposition des hypothèses de dimensionnement et des résultats de
+       calcul dans les documents d'exécution et d'exploitation                                                          33
+
+
+
+
+     _____________________________________________________________________________________________________________________
+     Direction, Département Sécurité et Santé
+     Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+     Bureaux: 3, rue des Primeurs, L-2361 Strassen    Tél: 247-86145   Fax: 49 14 47
+     Site Internet: http://www.itm.lu
+Art. 1 Objectifs et domaine d'application
+La présente méthode basée sur la performance, peut être utilisée dans des immeubles
+complexes et innovateurs, là où l’on veut déroger à l’approche prescriptive de l’article 8
+des dispositions générales et des dispositions spécifiques de la série SST 1500. Elle utilise
+les développements validés les plus récents de la science en matière de sécurité incendie,
+qui tiennent compte de l’influence de la localisation du feu, de la présence de fumée et de
+la stabilité au feu de la construction. L’approche peut également évaluer et valider les
+solutions des méthodes prescriptives.
+Les dérogations peuvent porter sur
+   les distances maximales à parcourir pour l’évacuation,
+   les largeurs des chemins d’évacuation requises en fonction du nombre
+       d’occupants,
+   le nombre de sorties requises,
+   les scénarios d’évacuation,
+mais il y a lieu de respecter les prescriptions suivantes de l’article 8, à savoir :
+   les largeurs minimales prescrites pour les couloirs, escaliers, portes,
+   le nombre minimal de 2 issues réglementaires,
+   l’ensemble des prescriptions de l’article 8.1.
+Le choix des méthodes et des calculs les plus adaptés, dont le but est une conception
+correcte en matière d’évacuation, appartient dans un premier lieu aux ingénieurs.
+Ce choix peut se baser sur plusieurs possibilités, notamment en partant du calcul manuel
+le plus simple jusqu’au calcul le plus sophistiqué que l’on puisse imaginer, à savoir par un
+logiciel permettant une simulation d'évacuation de personnes (SEP). Toutefois, tout ceci
+dépend des objectifs et du niveau de précision que l’on désire avoir.
+Pour assurer une évacuation qui se déroule en toute sécurité, on doit attribuer une
+importance cruciale à la conception précise des voies d’évacuation et on doit vérifier
+    soit la distance à parcourir pour évacuer (approche prescriptive),
+    soit le temps d’évacuation (approche performancielle).
+La méthode performancielle établit si le temps d’évacuation requis par les occupants est
+inférieur au temps d’évacuation qui est disponible pour eux. Le champ d’application de
+cette instruction technique consiste à mettre à disposition un support bien défini et concis
+pour rendre possible une stratégie d’évacuation des occupants, quel que soit l’endroit du
+bâtiment où ils se trouvent.
+La méthode performancielle n’est applicable que si l’établissement est équipé d’une
+installation de détection automatique.
+NOTES :
+  1) Les modèles de simulation de feux naturels définis dans les Prescriptions ITM peuvent
+      être utilisés pour la simulation d’évacuation de personnes, même lorsque la stabilité et la
+      résistance au feu est vérifiée sur base du feu ISO.
+  2) Les autorités compétentes peuvent exiger de procéder à une étude d’évacuation des
+      personnes selon la présente instruction technique.
+
+
+
+
+Page 2 sur 34 pages                                                            ITM-SST 1553.2
+Art. 2 Définitions
+2.1 Critères admissibles pour les occupants
+Les critères admissibles sont les valeurs limites pour
+    la distance de visibilité (voir article 3.2.1.1),
+    la concentration de gaz toxiques de combustion (voir article 3.2.1.3-tableau 2
+     avec la classe AEGL -1),
+    l’augmentation de la température (voir article 3.2.2- tableau 3 avec temps
+     admissible),
+    la raréfaction d’oxygène (voir article 3.2.3, concentration admissible),
+sans qu’il y ait création d’une incapacité pour les occupants (permettant encore une auto-
+évacuation).
+
+2.2 Conditions critiques pour les occupants
+Les conditions critiques sont les valeurs limites pour
+    la distance de visibilité (voir article 3.2.1.1),
+    la concentration de gaz toxiques de combustion (voir article 3.2.1.3-tableau 2
+     avec la classe AEGL -2),
+    l’augmentation de la température (voir article 3.2.2-tableau 3 avec temps
+     critiques),
+    la raréfaction d’oxygène (voir article 3.2.3, concentration critique),
+susceptibles de présenter un danger très sérieux pour la sécurité ou la vie des occupants
+endéans un certain temps (rendant nécessaire l’intervention d’un tiers).
+
+2.3 Risques et dangers de feu
+Le potentiel de perdre une vie ou d’encaisser des séquelles/blessures et/ou d’avoir les
+biens ravagés par le feu.
+
+2.4 Temps de détection ∆tdetection
+Temps à partir de la naissance d’un incendie jusqu’à la détection par un système manuel
+ou automatique. Il peut varier en fonction du scénario d’incendie, du système de détection
+incendie (si un tel système est installé) et de l’aptitude des occupants de détecter
+l’incendie.
+
+2.5 Temps d’alarme ∆talarme
+Temps à partir de la détection jusqu’au déclenchement de l’alarme sélective ou générale.
+
+2.6 Temps de réaction ∆tréaction
+Temps depuis le déclenchement de l’alarme sélective ou générale jusqu’au moment où les
+derniers occupants se mettent en mouvement, et commencent donc à réagir.
+
+
+
+
+Page 3 sur 34 pages                                                       ITM-SST 1553.2
+2.7 Temps de déplacement ∆tdéplacement
+Temps nécessaire aux occupants pour se rendre de l’endroit où ils se trouvent, jusqu’à
+l’endroit qui leur offre une sécurité. Il comporte trois composantes : le temps de marche,
+le temps d’attente dans une file ou un embouteillage, et le temps de passage à travers une
+sortie.
+
+  2.7.1    Temps de marche ∆tmarche
+Temps moyen nécessaire pour permettre à tous les occupants de se rendre à la sortie.
+
+  2.7.2    Temps d'attente dans file ∆tfile
+Temps que les occupants, pendant leur évacuation, sont forcés de passer dans une file
+d'attente créée par un embouteillage dû à une densité de personnes à évacuer trop
+importante, des couloirs ou des sorties trop étroites, des obstacles inopportuns etc.
+
+  2.7.3    Temps de passage à travers une sortie ∆tsortie
+Temps qui est nécessaire aux occupants pour passer à travers une sortie. Le temps de
+passage dépend notamment de la capacité de fluidité des sorties.
+
+2.8 Temps requis par les occupants pour évacuer treq
+Intervalle de temps nécessaire entre la naissance d’un incendie et le moment où tous les
+occupants sont censés avoir atteint un lieu de sécurité (RSET "Required Safe Escape or
+Egress Time"), c’est-à dire la somme des temps de détection, d’alarme, de réaction et de
+déplacement (ce temps peut être estimé ou calculé).
+
+2.9 Temps d’évacuation disponible tdisp
+Intervalle de temps pendant lequel les critères admissibles pour les occupants sont
+respectés et qui est donc disponible pour une évacuation en sécurité (ASET "Available
+Safe Escape or Egress Time") ; il est calculé à partir du moment de la naissance d’un
+incendie jusqu'à ce que, dans un lieu spécifique d’un bâtiment donné, les critères
+admissibles pour les occupants sont dépassés.
+
+Art. 3 Structure d’analyse des risques d’un projet
+
+3.1. Généralités
+La méthode de performance dépend de la comparaison entre le temps d’évacuation
+disponible tdisp et le temps requis treq par les occupants pour évacuer ou pour atteindre un
+endroit de sécurité. Notons que tdisp représente le temps calculé entre le moment de la
+naissance d’un incendie jusqu'à ce que, dans un lieu spécifique d’un bâtiment donné, les
+critères admissibles pour les occupants sont dépassés à cause de la chaleur, du manque
+d'oxygène, des émanations toxiques et de la fumée réduisant la visibilité. On imposera
+donc
+
+                       tséc = tdisp - treq > 5 à 15 minutes                              (1)
+
+
+
+
+Page 4 sur 34 pages                                                        ITM-SST 1553.2
+Cette comparaison propose de fixer une marge de sécurité tséc qui est obtenue par la
+différence entre les temps tdisp et treq. Cette marge de sécurité peut être utile pour les
+incertitudes concernant la prédiction de ces deux temps.
+Dans les cas courants, on considère tséc = 5 à 15 minutes comme indiqué au tableau 1
+selon le type de bâtiment :
+    Type de bâtiment B1 : Bâtiment simple à un niveau de grande surface avec un
+     compartiment et une conception simple, disposant d'un accès facile et visible ainsi
+     que des distances courtes pour l'évacuation, ainsi qu'un nombre adéquat de sorties
+     menant directement à l'extérieur du bâtiment (exemples : supermarché, hall
+     industriel, etc.).
+    Type de bâtiment B2 : Bâtiment simple à compartiments multicellulaires ou à
+     étages avec une conception intérieure normale (exemples : galeries commerciales
+     à un niveau, immeuble de bureaux, de logements, etc.).
+    Type de bâtiment B3 : Bâtiment complexe de grande taille, qui peut comprendre
+     l'agglomération de bâtiments existants sur le même site. Un aspect particulier
+     consiste dans ce que la conception intérieure et les compartiments entraînent des
+     espaces vastes et compliqués de sorte que les occupants sont confrontés à des
+     difficultés de trouver le chemin d'évacuation. Dès lors la gestion d'une évacuation
+     est particulièrement délicate (exemples : vieux hôtels, entrepôts, centres de loisirs,
+     centres commerciaux, aéroports, etc.).
+NOTE: Les types de bâtiments sont ceux du document "European Guideline /CFPA/ 8.6.2009 "
+
+                            Tableau 1: Marge de sécurité tséc
+
+Type de bâtiment      B1: Grande surface      B2: Bâtiment            B3: Etablissement
+                          à un niveau         multi-étages         complexe de grande taille
+    tséc [min]                5                     10                        15
+
+
+3.2 Quantification du temps d’évacuation disponible tdisp
+En général, le temps tdisp dépend des effets de l’exposition des personnes au feu.
+L’objectif d’un calcul de tdisp est de définir quand les conditions dans les différentes
+parties d’un bâtiment sont considérées comme n’étant plus admissibles.
+Calculer le temps tdisp dépend de la nature de l’incendie, de la concentration des fumées et
+des produits toxiques, ainsi que de la chaleur en fonction du temps. La concentration des
+fumées et la nature des produits de combustion, ainsi que leur propagation, dépendent des
+facteurs suivants :
+    des éléments chimiques des substances impliquées dans le processus de
+        combustion,
+    de la température maximale atteinte,
+    de la concentration en oxygène.
+En général, tous ces facteurs influencent la combustion. Pour calculer le temps tdisp., il est
+nécessaire de mener une étude détaillée de l’évolution de l'incendie depuis sa naissance.
+Les effets physiologiques les plus fréquents sont les suivants :
+   les intoxications par les fumées,
+   l'hyperthermie,
+
+
+Page 5 sur 34 pages                                                          ITM-SST 1553.2
+    les brûlures corporelles causées par le rayonnement thermique et les fumées
+     chaudes,
+    les brûlures des voies respiratoires causées par les fumées chaudes.
+L’effet de ces facteurs peut être fortement réduit par l’action d’une installation de
+sprinkleurs à condition de respecter les prescriptions de l’Annexe F "Exigences
+spécifiques aux systèmes de protection des personnes" de la norme EN 12845
+"Installations fixes de lutte contre l'incendie - Systèmes d'extinction automatiques du type
+sprinkleur...", notamment pour des théâtres (F.6) et en situation de maintenance (F.7).
+L'effet combiné des différents facteurs est jugé comme admissible à condition que tous
+les facteurs pris séparément soient admissibles.
+
+   3.2.1 Effets limitant la capacité d’évacuer
+La capacité d’évacuer à travers les espaces d’un bâtiment et celle de localiser des voies et
+des sorties de secours, dépend notamment des effets d’assombrissement visuel et
+d’irritation. Les deux aspects ci-dessous provoquent l’incapacité de prendre la fuite :
+    la réduction de la visibilité,
+    l'irritation des yeux et des voies respiratoires.
+    3.2.1.1 Visibilité
+La visibilité est un élément très important. Une visibilité réduite diminue forcément la
+possibilité de trouver une sortie de secours. Ceci est valable aussi bien pour les occupants
+d’un bâtiment, que pour l’intervention des sapeurs-pompiers.
+Un occupant est susceptible de ne pas utiliser une sortie, si la distance de visibilité est
+inférieure à la distance qui le sépare de cette sortie. Dans le cas de plusieurs sorties, les
+occupants sont susceptibles de ne pas utiliser une sortie, si la distance de visibilité est
+inférieure à la moitié de la distance entre deux sorties d’un local.
+Ceci vaut aussi pour les sapeurs-pompiers pour leur permettre une reconnaissance aisée
+lors de la recherche de victimes éventuelles.
+Notons qu'en cas d'un incendie la visibilité subsistante dans les couloirs ainsi que dans les
+locaux à désenfumer doit être telle que chaque occupant puisse repérer la ou les sorties les
+plus proches et que les sapeurs-pompiers puissent voir aisément une personne à sauver et
+trouver le foyer de l'incendie dans tout local sinistré. Ainsi la visibilité pendant la durée
+de l'évacuation, et du sauvetage le cas échéant, des personnes doit être telle qu'elle ne soit
+pas inférieure à la distance qui sépare n'importe quel endroit d'un volume à désenfumer de
+la ou des sorties les plus proches, sans toutefois être inférieure à 35 mètres.
+La distance de visibilité D peut être évaluée par la relation D = A/K en [m]
+où A est une constante de référence caractérisant la visibilité avec
+   - pour une signalisation lumineuse, A = 6,
+   - pour une signalisation réfléchissante, A = 2,
+et K est le coefficient d’atténuation de l’intensité lumineuse K = [ln (I0/Ix)]/x en [m-1]
+où x est une distance de mesure [m] avec
+    - I0 l’intensité lumineuse de la source mesurée à 20 cm du sol (à hauteur d’homme ?
+      1,50 m ? voir SFPE Handbook) en l’absence de fumée et
+
+
+
+Page 6 sur 34 pages                                                           ITM-SST 1553.2
+     - Ix est l’intensité lumineuse mesurée à la distance x, à 20 cm du sol, en présence de
+    fumée.
+NOTES :
+1) Les relations précédentes sont tirées du rapport de l’AIPCR "Maîtrise de l’incendie et des
+fumées dans les tunnels routiers", 1998 et les distances de visibilité D (en m) requises suivantes
+se rapportent aux tunnels :
+    -    pour un déplacement facile : D > 7 m
+    -    pour des portes et murs visibles : D > 15 m
+    -    pour une signalisation lumineuse de I0 = 80 lux : D > 9 m.
+
+2) Exemple de calcul pour un immeuble de bureaux: Pour A = 6, I0 = 80 lux et Ix mesuré à 10m
+par 5 lux en présence de fumée, on a K = [ln(80/5)]/10 = 0,277 et D = 6 / 0,277 = 21,7m < 35
+m, donc la signalisation lumineuse n'est pas conforme!!!!!
+3) Au cas où la distance de visibilité calculée est inférieure à la distance de visibilité requise une
+signalisation proche du sol est à prévoir en plus de la signalisation conventionnelle.
+4) L’atténuation de l’intensité lumineuse peut être calculée par un logiciel approprié et elle
+dépend des matériaux combustibles qui pourraient par exemple être les suivants :
+        Le combustible utilisé dans les simulations est considéré à 50% de type bois et à 50% de
+        type polyuréthane avec
+        * pour le bois les caractéristiques suivantes
+           - composition: C6H10O5
+           - réaction stœchiométrique: C6H10O5 + 6(O2 +3,76N2) →6CO2 + 5H2O +22,56N2
+           - taux de production massique de suies: 1 %
+           - taux de production massique de CO: 0,4 %
+           - chaleur de combustion: 17,5 MJ/kg (14MJ/kg réellement dégagé lors des simulations).
+        ** pour le polyuréthane les caractéristiques suivantes
+           - composition C6,3H7,1 NO2,1
+           - réaction stœchiométrique: C6,3H7,1 NO2,1+ 7,025O2 →6,3CO2 + 3,55H2O +0,5N2
+           - taux de production massique de suies: 10 %
+           - taux de production massique de CO: 3,8 %
+           - chaleur de combustion: 32,5 MJ/kg (26MJ/kg réellement dégagé lors des simulations).
+        Ce combustible constitué à raison de 50% de type bois et de 50% de type polyuréthane est
+        5,5 fois plus fumigène que le combustible réglementaire de type bois.
+
+     3.2.1.2 Irritation
+La fumée irritante provoque non seulement une réduction de la visibilité, mais aussi une
+réduction de la vitesse de mouvement des occupants.
+Les irritants qui sont issus d’un incendie comportent toute une série de composants
+organiques, tels que l’acroléine et le formaldéhyde.
+Ces composés chimiques sont susceptibles d’être présents dans des concentrations qui
+dépendent de la composition chimique de la matière en combustion, mais également de
+leurs conditions de décomposition.
+
+
+Page 7 sur 34 pages                                                                ITM-SST 1553.2
+    3.2.1.3 Asphyxie / Toxicité
+Même si les gaz de combustion se rafraîchissent finalement jusqu’à 15 °C, ils gardent
+néanmoins un caractère gazeux. Les gaz toxiques de combustion, les plus connus sont :
+      le monoxyde de carbone (CO),
+      le dioxyde de carbone (CO2),
+      l'hydrogène sulfuré (H2S),
+      l'anhydride sulfureux (SO2),
+      l'acide cyanhydrique (HCN),
+      l'acide chlorhydrique (HCl),
+      le dioxyde d’azote (NO2),
+      l'ammoniac (NH3),
+      l'aldéhyde acrylique (CH2-CHCHO),
+      le phosgène (COCl2).
+
+La valeur de référence AEGL (Acute Exposure Guidelines Levels) de la concentration de
+substances toxiques à laquelle une personne en bonne santé peut être exposée pendant 30
+minutes, est donnée au tableau 3 pour les 3 classes de conséquences
+    - AEGL -1,         où les personnes ressentent en moyenne un malaise,
+    - AEGL -2,         où les personnes subissent en moyenne des préjudices graves,
+    - AEGL -3,         où les personnes risquent de subir des séquelles mortelles.
+
+       Tableau 2: Les valeurs AEGL des produits de combustion les plus fréquents.
+
+                                                       AEGL (ppm) pendant 30 min
+      Substance      Formule chimique                AEGL -1   AEGL -2     AEGL -3
+ Monoxyde de carbone       CO                           (*)      150          600
+  Dioxyde de carbone      CO2                         10.000    70.000     100.000
+ Acide cyanhydrique       HCN                           2,5       10           21
+      Ammoniac            NH3                           25       160         1600
+ Acide chlorhydrique      HCl                           1,8       43          210
+(*) pas de valeur connue
+
+NOTES:
+1) On considère que l’accès est libre de fumée si la concentration de fumée calculée n’est pas
+supérieure à 0,02 g/m³ en-dessous d’une hauteur de 2 m comptée à partir du sol (selon NBN S 21-
+208-2, Annexe B).
+2) La détermination de la concentration de fumée est à établir par le concepteur de l’étude SEP.
+3) Les taux de concentration des produits de combustion doivent au mieux rester limités à la
+classe AEGL-1, en fonction des matériaux utilisés. Les matériaux générateurs de HCN et HCl en
+cas d’incendie doivent notamment être réduits au strict minimum.
+
+3.2.2 Effets dus à l'échauffement de l'air et au rayonnement thermique
+La température maximale de l’air et l’intensité de rayonnement thermique acceptées par
+un être humain sont données au tableau 2 en fonction de l’intervalle de temps
+d’exposition et de la teneur en eau de l’air.
+
+
+
+Page 8 sur 34 pages                                                           ITM-SST 1553.2
+Tableau 3: Temps admissibles et critiques pour la chaleur rayonnante et convective
+
+    Mode de transfert de la                                   Temps           Temps
+                                          Intensité
+          chaleur                                           admissible        critique
+                                                   2
+                                          3 KW/m                  /           max. 30 s
+                                                   2
+            Radiation                     5 KW/m                  /           max. 20 s
+                                                   2
+                                          8 KW/m                  /           max. 4 s
+                                    40°C et humidité 100%      > 30 min
+                                    80°C et humidité 50 %         (*)       max. 15 min
+           Convection               100°C et humidité 10%        (*)        max. 8 min
+                                    110°C et humidité 10%        (*)        max. 6 min
+                                    120°C et humidité 10%        (*)        max. 4 min
+
+(*) pas de valeur connue
+NOTE : Les données du tableau 2 proviennent des sources suivantes :
+  - BSI PD 7974-6:2004:"Human factors: Life safety strategies - Occupant evacuation,
+       behaviour and condition”, Table G.3
+  - VFdB TB 04-01 Mai 2009: "Leitfaden Ingenieurmethoden des Brandschutzes -Tabelle
+       8.1 - S.251
+  - AIPCR rapport "Maîtrise de l’incendie et des fumées dans les tunnels routiers", 1998.
+
+  3.2.3 Raréfaction de l'oxygène
+La concentration admissible d’oxygène dans l’air (en volume) doit être minimum de 18
+%. Des valeurs inférieures à 15 % sont à considérer comme critiques.
+
+3.3 Quantification du temps d’évacuation requis treq
+NOTE: Le contenu du présent chapitre est basé sur le document « European Guideline /CFPA/
+8.6.2009, Annexe D, pages 25 à 41 ».
+
+   3.3.1 Généralités
+Le temps d’évacuation requis treq dépend de quatre intervalles de temps différents,
+influencés par les caractéristiques comportementales et physiques des occupants, et repris
+aux équations (3) et (4) du paragraphe 3.3.4.3, à savoir le temps de détection ∆tdétection,
+le temps d’alarme ∆talarme, le temps de réaction ∆tréaction et le temps de déplacement
+∆tdéplacement.
+   3.3.2 Temps de détection    ∆tdétection
+Le temps de détection dépend de la sensibilité des détecteurs. Les concepteurs d’une
+installation de détection incendie automatique doivent choisir le type de détecteur le
+mieux adapté suivant les normes européennes ou, à défaut, les normes acceptées par les
+autorités compétentes.
+Dans le cas d’une détection automatique de fumée conforme aux normes, on considère
+que le temps de détection est en moyenne de l’ordre de 30 secondes.
+Les facteurs suivants sont typiques pour retarder la détection incendie :
+    les caractéristiques du bâtiment,
+    les caractéristiques de l’incendie, sa vitesse de propagation, les fumées en
+        résultant, etc.
+
+
+
+Page 9 sur 34 pages                                                       ITM-SST 1553.2
+  3.3.3 Le temps d’alarme ∆talarme
+L’estimation du temps d’alarme dépend du niveau d'alarme activé, à savoir :
+   l'alarme générale (AG) ou A1 : signal sonore, message préenregistré ou autre
+    forme d’ordre d’évacuation, ayant pour but de prévenir les occupants de
+    l'ensemble du bâtiment d'avoir à évacuer les lieux,
+   l'alarme restreinte (AR) ou A2 : signal d’alerte ayant pour but, dans le cas
+    d'effectifs très importants ou en présence de personnes à mobilité réduite à
+    évacuer, d'avertir soit le poste de sécurité de l'établissement, soit la direction ou le
+    gardien, soit le personnel désigné à cet effet,
+   l'alarme sélective (AS) ou A3 : alarme destinée seulement à prévenir les
+    occupants d’une partie d'un bâtiment ou d'un établissement d'avoir à évacuer les
+    lieux.
+Une alarme générale A1 ou une alarme sélective A3 est toujours à prévoir. Le temps
+d’alarme ∆talarme correspondant à A1 ou A3 ne peut pas dépasser 5 minutes (temps de
+reconnaissance éventuelle inclus). Cette valeur maximale peut être réduite à la demande
+des autorités compétentes (par exemple dans le cas des parkings souterrains).
+En cas d’alarme restreinte A2, un temps de reconnaissance (2 à 5 minutes), est
+généralement inclus dans le temps d’alarme générale A1 ou sélective A3, à convenir avec
+les autorités compétentes.
+
+  3.3.4 Temps de réaction ∆tréaction
+Ce temps peut être subdivisé en deux composantes:
+
+     3.3.4.1. Le temps de perception
+Il s’agit du temps entre l'alarme générale A1, ou l’alarme sélective A3, et le moment où
+les occupants commencent à percevoir l'alarme. Ce type de temps peut aussi être divisé
+en deux éléments :
+     Alarme reçue : temps pour recevoir l'alarme et en prendre conscience ;
+     Alarme perçue : temps pour comprendre l'alarme et la nécessité d’évacuer.
+Pour de simples évaluations le temps de perception le plus élevé peut être employé pour
+chaque groupe d’occupants. Pour des évaluations complexes, le temps de perception peut
+être assigné individuellement à chacun d’eux.
+Les suggestions suivantes peuvent minimiser le temps de perception,
+   le système devra fournir des instructions précises dans des situations d’urgence
+       qui peuvent varier ;
+   les messages oraux doivent pouvoir varier selon les différentes parties / endroits
+       du bâtiment, afin de donner aux occupants les informations utiles quant aux
+       actions qu’ils désirent prendre ;
+   les signaux sonores d’alarme devront précéder les messages vocaux afin de capter
+       l’attention des occupants ;
+   des messages préenregistrés peuvent être utilisés dans des situations pré-
+       planifiées ;
+   dans des centres de soins, l’équipe qui y travaille doit être prête à assister les
+       occupants dans l’évacuation.
+
+
+
+Page 10 sur 34 pages                                                       ITM-SST 1553.2
+       Il est important de n’alarmer que les individus qui doivent prendre l'initiative
+       d'agir afin de bénéficier au maximum d’un système d’alarme incendie.
+
+    3.3.4.2. Le temps de riposte
+Il s’agit du temps entre la perception de l’alarme et le moment où les destinataires de
+l’alarme décident de réagir, mais avant le commencement de l’évacuation.
+Les activités suivantes peuvent être entreprises durant le temps de riposte, à condition de
+ne pas compromettre l’efficacité de l’évacuation:
+   déterminer la source, la réalité ou l’importance d’une alarme d’incendie ou
+    d’intervention, éventuellement via du personnel sur le lieu de l’incendie ou des
+    caméras de surveillance ;
+   rassembler les personnes à mobilité réduite ou prioritaires (enfants, personnes
+    âgées, etc.) ;
+   déterminer la sortie de secours adéquate ;
+   alarmer d’autres personnes ;
+   combattre un début d’incendie ;
+   arrêter les machines de production, sauver les données, etc.
+Le temps de riposte peut considérablement varier pour différents individus ou groupes
+d’individus, se trouvant dans le même bâtiment en fonction
+a) des paramètres du bâtiment tels :
+      le type d’occupation ;
+      la disposition des niveaux et leurs dimensions ;
+      le système d’alarme, dont notamment son caractère persuasif ;
+      les procédures d’évacuation prévues par la gestion de sécurité incendie ;
+      l'éclairage de secours ;
+      le nombre et l’emplacement des sorties de secours et la complexité de l’enceinte.
+b) de l'état des occupants comme par exemple :
+   le nombre et l’endroit initial des occupants ainsi que la densité des occupants d’un
+    local qui est le nombre maximal de personnes supposées présentes pour une
+    configuration et/ou utilisation donnée ;
+   les capacités physiques et mentales des occupants ;
+   les activités des occupants avant l’alarme et leur disposition à abandonner ces
+    activités, ainsi que leurs biens personnels, pour s’enfuir ;
+   les relations de famille ou de groupe sachant que la riposte aux alarmes d’incendie
+    est différente si les personnes sont seules ou bien avec d’autres personnes ;
+   les conditions de vigilance telles le jour ou la nuit ;
+   le rôle et la responsabilité des occupants, ainsi un staff bien préparé et
+    « autoritaire » pourra réduire la phase de riposte.
+
+L’analyse de ces éléments permet la reconnaissance et l’évaluation du temps de réaction,
+qui est donc la somme des temps de perception et de riposte, pour chaque groupe
+d’occupants.
+
+
+
+Page 11 sur 34 pages                                                      ITM-SST 1553.2
+Le tableau 4 définit sept catégories d’occupation en fonction des éléments qui précèdent.
+NOTE : Le tableau 4 s'inspire de la BSI PD 7974-6:2004:"Human factors: Life safety strategies -
+Occupant evacuation, behaviour and condition", Table 1.
+
+                                 Tableau 4: Catégories d'occupation
+
+Catégories            Description de l'occupation                            Exemples
+    a                   Des occupants qui sont                          Bureaux, bâtiments
+                    conscients/réveillés et qui sont              administratifs, locaux industriels
+                     familiarisés avec le bâtiment
+      b                 Des occupants qui sont                    Magasins, centres commerciaux,
+                conscients/réveillés et non-familiarisés           expositions (foires), musées,
+                            avec le bâtiment                          centres de loisirs, autres
+                                                                    établissements qui peuvent
+                                                                         recevoir du public
+     c1           Des occupants             Occupants               Logements sans concierge
+                   qui sont en             familiarisés
+                    sommeil                (occupation
+                 (susceptibles de      individuelle à long-
+                 dormir ou de ne              terme)
+     c2              pas être          Occupation gérée à           Logements avec concierge ou
+                   conscients)              long-terme              surveillés, maisons de repos,
+                                                                               internats
+     c3                                Occupants non-                           Hôtels
+                                         familiarisés
+                                     (occupation à court-
+                                           terme)
+      d         Occupants recevant des soins médicaux               Hôpitaux, maisons de soins 1)
+      e         Transports (occupants de passage / de               Gares (ferroviaires), aéroports
+                 transit, réveillés et non-familiarisé)
+1) Dans certaines circonstances, les maisons de soins peuvent être classifiées comme les caractéristiques
+d'occupations c2
+
+
+     3.3.4.3 Quantification du temps de réaction ∆tréaction
+Le temps de réaction est donné par le temps depuis le déclenchement de l’alarme générale
+ou sélective jusqu’au moment où les derniers occupants se mettent en mouvement, et
+commencent donc à réagir.
+Le document BSI PD 7974-6 :2004 fait référence à quatre paramètres pour définir des
+scénarios de comportement à savoir
+    les catégories d’occupation "a à e" selon le tableau 4,
+    les niveaux d’alarme A1 à A3 selon 3.3.3,
+    la complexité du bâtiment classifiée suivant les types de bâtiments B1 à B3 au
+       tableau 1,
+    les niveaux de compétence des services de sécurité M1 à M3 explicités ci-après.
+Le service de sécurité est une équipe de personnes qui, sous la responsabilité du préposé à
+la sécurité, devra être en mesure d'assurer une première intervention aussi bien en cas de
+
+
+Page 12 sur 34 pages                                                                  ITM-SST 1553.2
+malaise (premiers secours aux personnes) qu'en cas d'incendie ou tout autre sinistre
+(connaissance théorique et exercices pratiques). L’effectif et la qualité de l’effectif est
+fonction de la taille et des activités de l’établissement.
+Ces personnes ont la responsabilité :
+    de faire des recommandations à la gestion, notamment en identifiant les points
+     faibles en matière de la prévention incendie,
+    de remédier à des situations dangereuses ainsi que
+    de contribuer le cas échéant à la gestion d’un sinistre éventuel.
+
+L’effectif et le degré d’occupation sont définis dans les dispositions spécifiques
+respectives. Le personnel formé constituant ce service de sécurité devra prouver ses
+compétences dans les domaines suivants :
+    les premiers secours,
+    comprendre la nature (origines) et les dangers résultant d’un incendie,
+    savoir comment un incendie se propage et comprendre son développement;
+    connaître les mesures à prendre en cas d’un incendie respectivement d’un sinistre,
+    être fort conscient des dangers et des dégâts résultant d’un incendie probable,
+    être en mesure de distinguer les différents types d’extincteurs et savoir pour quels
+       incendies les extincteurs sont désignés,
+    savoir procéder à une reconnaissance des lieux,
+    savoir attaquer des incendies de petite taille avec confiance et conscience (capacité
+       de lutter contre un incendie),
+    connaître la responsabilité du personnel concerné à l’égard de la prévention et de
+       la prévision incendie,
+    prise de toutes les mesures pour l'évacuation du public et du personnel,
+    comprendre comment sont exécutées les procédures d’urgence.
+Il y a trois niveaux de compétence des services de sécurité :
+     le niveau de compétence M1: Ces personnes sont des professionnels dont le seul
+         objectif est la sécurité de l'établissement. Le service de sécurité qu’ils assurent est
+         de type permanent et continu, jour et nuit. Ils peuvent travailler exclusivement
+         pour la sécurité incendie ou bien exécuter d’autres tâches en relation avec la
+         sécurité (intrusion, contrôle d’accès, etc.);
+     le niveau de compétence M2 : Ces personnes sont désignées parmi le personnel
+         et dispensées à temps partiel de leurs tâches normales en vue d’entretenir leurs
+         compétences en matière de sécurité;
+     le niveau de compétence M3 : Ces personnes sont désignées parmi le personnel
+         de l’établissement et ils sont responsables pour un étage ou un compartiment.
+Le tableau 5 donne une estimation du temps de réaction pour les diverses catégories
+d'occupation "a à e" du tableau 4. Ce temps de réaction correspond à une distribution log
+normale avec le nombre des personnes commençant à bouger qui augmente rapidement,
+mais avec une distribution en file très étirée qui représente les traînards.
+Il y a deux temps de réaction (« premovement ») à considérer, le temps de réaction des
+premiers occupants à bouger (1% fractile) et l’intervalle de temps entre la réaction des
+derniers occupants à bouger (99% fractile) et les premiers.
+
+
+
+Page 13 sur 34 pages                                                          ITM-SST 1553.2
+NOTE 1 : Les temps de réaction en minutes sont donnés pour les fractiles 1% et 99%, pour les
+diverses catégories d'occupation « a à e » du tableau 4, en fonction des niveaux d'alarme A1 à
+A3 donnés en 3.3.3, des types de bâtiments B1 à B3 du tableau 1, ainsi que des niveaux de
+compétences des services de sécurité M1 à M3 définis ci-devant.
+NOTE 2: Le temps de réaction ∆tréaction est le temps de réaction total du fractile 99% donné
+par
+  ∆tréaction = (∆tréaction)fractile 1% +(∆tréaction)entre fractiles 99% et 1%                    (2)
+
+NOTE 3 : Les données du tableau 5 sont inspirées par les deux documents BSI PD 7974-6 :2004,
+Table C1 et VFdB TB 04-01 Mai 2009: "Leitfaden Ingenieurmethoden des Brandschutzes“ -
+Tabelle 9.5 - S.261.
+                                  Tableau 5 : Temps de réaction
+                                                                  (∆tréaction)     (∆tréaction) entre
+                                                                   fractile 1%    fractiles 99% et 1% -
+                             Catégories
+                                                                     (min)              (min)
+                                                                       I)                  II)
+a: Réveillé et familiarisé
+M1 B1-B2 A1-A2                                                        0,5                  1
+M2 B1-B2 A1-A2                                                         1                   2
+M3 B1-B2 A1-A3                                                         2                   4
+Pour B3 ajouter 0,5' pour trouver le chemin;
+M1 devrait normalement exiger une alarme par message vocal si
+visiteurs non-familiarisés susceptibles d'être présents.
+b: Réveillé et non-familiarisé
+M1 B1 A1-A2                                                           0,5                  2
+M2 B1 A1-A2                                                            1                   3
+M3 B1 A1-A3                                                            2                   6
+Pour B2, ajouter 0,5' pour trouver le chemin;
+Pour B3, ajouter 1' pour trouver le chemin;
+M1 devrait normalement exiger une alarme par message vocal
+c1: En sommeil et familiarisé
+M2 B1 A1                                                               2                   5
+M3 B1 A3                                                               4                  10
+c2: Occupation gérée
+M1 B2 A1-A2                                                           0,5                  2
+M2 B2 A1-A2                                                            2                   5
+M3 B2 A1-A3                                                            4                  10
+c3: En sommeil et non-familiarisé
+M1 B2 A1-A2                                                           0,5                  2
+M2 B2 A1-A2                                                            4                  10
+M3 B2 A1-A3                                                            8                  20
+Pour B3, ajouter 1' pour trouver le chemin;
+M1 devrait normalement exiger une alarme par message vocal
+d: Soins médicaux
+- Réveillé et non-familiarisé
+M1 B1 A1-A2                                                            1                   3
+M2 B1 A1-A2                                                            2                   6
+M3 B1 A1-A3                                                            8                  20
+Pour B2, ajouter 0,5' pour trouver le chemin;
+
+
+
+Page 14 sur 34 pages                                                             ITM-SST 1553.2
+Pour B3, ajouter 1' pour trouver le chemin;
+M1 devrait normalement exiger une alarme par message vocal
+- En sommeil et non-familiarisé                                         5 (*)          10 (*)
+M1 B2 A1-A2                                                            10 (*)          20 (*)
+M2 B2 A1-A2                                                           >10 (*)         >20 (*)
+M3 B2 A1-A3
+Pour B3, ajouter 1' pour trouver le chemin;
+M1 devrait normalement exiger une alarme par message vocal
+e: Transports
+Réveillé et non-familiarisé
+M1 B3 A1-A2                                                             1,5               4
+M2 B3 A1-A2                                                              2                5
+M1 et M2 devraient normalement exiger une alarme par message vocal
+NOTES :
+1) Il y a une lacune au niveau des données quant au comportement d'évacuation et des temps requis
+pour les aspects-clés en matière de l'évacuation. C'est pour cette raison que les restrictions de la
+base de données devront être présentes en mémoire, lorsque l'on propose ou évalue des projets
+incorporant des solutions d'ingénierie en relation avec le comportement humain.
+2) Le temps de réaction total du fractile 99% est donné par l'équation (2), en additionnant les
+valeurs correspondant aux colonnes I) et II).
+3) Les périodes de temps munies d'un astérisque (*) dépendent de la présence de personnel en
+nombre suffisant pour assister l'évacuation des occupants souffrant d'un handicap.
+
+Dès qu’une valeur a été donnée au temps de réaction, la prescription BSI PD 7974-
+6 :2004 suggère de simplifier l’analyse complexe du temps d’évacuation (qui consiste à
+considérer la position de chaque occupant, le temps de réaction, le temps de déplacement
+et les effets de la densité des occupants sur ce temps de déplacement) en n'utilisant que
+deux estimations.
+Cette approche peut être utilisée pour n’importe quelle enceinte de bâtiment, tout en
+considérant deux cas simples
+   le cas où l’enceinte est peu fréquentée avec une densité de population d’un tiers de
+       la population totale prévue ou effectif théorique,
+   le cas où l’établissement contient l'entièreté de l’effectif théorique.
+Dans le premier cas, le temps d’évacuation requis treq dépend du temps de réaction du
+dernier groupe des occupants qui décide de quitter les lieux, et du temps que celui-ci
+nécessite pour se rendre à la sortie et pour la traverser. Aussi longtemps que la densité des
+occupants reste faible, leur vitesse de déplacement ne sera guère entravée, et il n’y aura
+pratiquement pas de file à la sortie. La vitesse de déplacement doit être considérée comme
+celle de l’un des derniers occupants, et qui n'est pas influencée par la densité,
+
+treq = ∆tdetection + ∆talarme + (∆tréaction + ∆tmarche)fractile 99%                           (3)
+
+Dans le deuxième cas, le temps d'évacuation dépend du temps de réaction et du temps de
+déplacement du premier groupe des occupants décidant d’évacuer, augmenté du temps du
+flux à travers les sorties du reste de la population, où des files sont susceptibles de se
+former,
+
+treq = ∆tdetection + ∆talarme + (∆tréaction + ∆tmarche)fractile 1% + ∆tfile + ∆tsortie        (4)
+
+
+
+
+Page 15 sur 34 pages                                                            ITM-SST 1553.2
+Le second cas va normalement représenter le temps d'évacuation requis le plus long.
+
+   3.3.5 Temps de déplacement des occupants                ∆tdéplacement
+Le temps de déplacement dépend de trois composantes,
+    1. du temps de marche ∆tmarche pour franchir la distance moyenne vers un endroit
+       de sécurité pour les occupants,
+    2. du temps passé dans une file ou un embouteillage ∆tfile,
+    3. du temps nécessaire pour passer à travers une sortie ∆tsortie.
+Pour estimer les trois composantes, les éléments suivants sont à considérer :
+
+     3.3.5.1 Vitesse de marche S
+Le temps de mouvement est obtenu par la somme du temps des mouvements horizontal et
+vertical. La littérature internationale admet comme vitesse de déplacement horizontale et
+non-entravée, (c’est-à-dire pour des occupants privés de toute forme de handicap
+physique) une valeur de 1,2 m/s à 1,25 m/s. Cette vitesse est surtout possible, si la
+densité de la population est inférieure à 0,5 personnes/m2. Si cette densité devient plus
+importante, alors la vitesse de déplacement des occupants sera perturbée, elle va baisser.
+En effet, la vitesse de marche diminue proportionnellement avec l’augmentation de la
+densité. Si la densité de la population excède 4 personnes/m2, la vitesse est considérée
+zéro, ceci en fonction de l’équation qui suit :
+                            S = K - aKD = K(1-aD)                                               (5)
+où S = vitesse de marche le long de la ligne de déplacement (m/s)
+   D = densité (personnes/m2)
+   K = facteur de vitesse (m/s) selon le tableau 6
+   a = constante 0,25 m2/personne
+
+NOTE : L'équation (5) est valable pour D ≥ 0,5 personnes/m², sinon S est constante.
+
+                              Tableau 6: Facteur de vitesse K
+
+                 Type de chemin d'évacuation                               pente      K [m/s]
+
+     Couloir, aile de bâtiment, rampe, accès-porte                          0%          1,4
+     Hauteur des marches (mm)           Largeur des marches (mm)
+     S1:               191                           254                   75%         1,00
+     S2:               178                           279                   64%         1,08
+     S3:               165                           305                   54%         1,16
+     S4:               165                           330                   50%         1,23
+
+NOTE : Le tableau 6 est base sur le document BSI PD 7974-6:2004:"Human factors: Life safety
+strategies - Occupant evacuation, behaviour and condition, Table D.1"
+
+Enfin la vitesse de marche S en (m/s), fonction de la densité des personnes et du type de
+chemin d'évacuation, peut être représentée par les droites de la figure 1 ci-dessous.
+
+
+
+
+Page 16 sur 34 pages                                                             ITM-SST 1553.2
+       Figure 1: Vitesse de marche S, fonction de la densité de la population D
+
+Pour des personnes âgées qui ne sont pas à mobilité réduite, et pour les enfants ayant
+moins de 6 ans, la vitesse de marche est estimée à environ 0,45 m/s. Pour des adultes
+entravés par des chariots ou des bagages, ou qui prennent les enfants par la main, cette
+vitesse de marche peut être réduite à 0,2 m/s.
+Pour des personnes à mobilité réduite la vitesse de déplacement varie de 0,2 à 0,4 m/s.
+Dans le cas d'un pourcentage de personnes à mobilité réduite supérieur à 1%, c'est la
+vitesse des personnes à mobilité réduite qui est déterminante.
+
+    3.3.5.2 Vitesse de déplacement en pente
+Dans ce cas l'équation (5) est aussi valable, les pentes étant choisies selon le tableau 6.
+La littérature internationale admet comme variation pour la vitesse de marche projetée en
+plan horizontal, pour des occupants qui ne sont pas à mobilité réduite, une valeur de 0,85
+m/s à 1,1 m/s (pour une densité de la population inférieure à 0,5 personne/m2). Si la
+densité excède 4 personnes/m2, la vitesse de marche est égale à zéro.
+
+    3.3.5.3 Flux de personnes FS
+Le flux spécifique des personnes est obtenu si l’on multiplie la vitesse par la densité. Il
+donne le nombre de gens, qui marchent à travers une sortie ou le long d'un couloir, par
+mètre de largeur effective de la porte ou de la voie de passage et par seconde, selon
+l'équation suivante
+                           FS = S∙D = (K - aKD)D = (1-aD)∙KD                           (6)
+où Fs = flux spécifique (personnes/m∙s),
+   S = vitesse de marche le long de la ligne de déplacement (m/s),
+   D = densité (personnes/m2),
+   K = facteur de vitesse (m/s) selon le tableau 6,
+   a = constante 0,25 m2/personne.
+NOTE : L'équation (6) est valable pour D ≥ 0,5 personnes/m², sinon FS = S∙D avec S constante.
+Le flux spécifique est aussi une fonction de la densité D mais varie suivant le carré de la
+densité, et non linéairement avec elle comme c’est le cas pour la vitesse. Ceci est
+clairement indiqué à la figure 2, où FS varie de façon parabolique.
+
+
+
+Page 17 sur 34 pages                                                          ITM-SST 1553.2
+Dans la première partie de la courbe, FS augmente puisque la densité (personnes /m2)
+augmente. Pour une densité de 2 personnes/m2 le flux spécifique des personnes est
+maximum, mais au-delà le flux spécifique des personnes diminue pour s'annuler lorsque
+la densité atteint 4 personnes/m2. Une telle densité est trop élevée pour permettre une
+circulation fluide, de sorte qu'un embouteillage se crée et provoque l'arrêt du flux des
+personnes.
+
+
+
+
+        Figure 2 : Le flux spécifique des personnes FS (personnes/ms), fonction
+           de la densité D des personnes et du type de chemin d'évacuation.
+
+On entend par capacité spécifique le nombre d’occupants qui marchent à travers une
+sortie par seconde (personnes/s). Il est donné par la multiplication du flux spécifique par
+la largeur effective.
+
+    3.3.5.4 Influence de la fumée sur la vitesse de marche
+Il ne faut pas oublier l’impact de la fumée sur le mouvement des personnes. Les vitesses
+de marche en cas d’urgence, ont été établies lors d’expériences et d’observations dans un
+environnement sans fumée. Les paragraphes ci-devant ne tiennent pas compte des effets
+d’une fumée dense. Les effets physiologiques résultant de l’exposition à la fumée ont déjà
+été décrits précédemment. Les effets comportementaux suite à la vision de la fumée,
+restent à élucider. Dans un couloir envahi par la fumée, les gens ont tendance à retourner
+d’où ils viennent, plutôt que de poursuivre leur chemin à travers un milieu enfumé. Dans
+d’autres situations, lorsque les gens voient le feu derrière eux, ils ont tendance à se
+déplacer à travers la fumée.
+La présence de fumée aura un double impact sur le mouvement :
+   elle peut diminuer la probabilité que les occupants vont se déplacer vers une
+    certaine zone enfumée ou continuer leur évacuation, p.ex. 30% des personnes vont
+    faire demi-tour,
+
+
+
+Page 18 sur 34 pages                                                      ITM-SST 1553.2
+     elle peut réduire la vitesse de marche des occupants. En effet comme la densité et
+      les propriétés irritantes de la fumée réduisent fortement la vue des personnes la
+      vitesse de marche peut diminuer de 1,2 m/s à 0,3 m/s.
+
+NOTE : Le calcul considère que l’itinéraire est libre de fumée pendant le temps d’évacuation. Si
+tel n’est pas le cas, une installation EFC est à prévoir selon la prescription ITM-SST 1552.
+
+     3.3.5.5 Temps dans la file d'attente ∆tfile
+A défaut d’indications plus précises, on considère la valeur par défaut ∆tfile = 30 sec.
+Notons que la détermination du temps passé dans une file d'attente par suite d'un
+embouteillage, ∆tfile, peut devenir difficile à évaluer dans le cas de situations plus
+complexes. Dans ce cas une simulation d'évacuation de personnes par un modèle de
+calcul adéquat s'avère indispensable (voir article 5).
+
+     3.3.5.6 Temps de passage à travers la sortie ∆tsortie
+Concernant le temps nécessaire pour passer à travers une sortie ∆tsortie, il peut être
+obtenu moyennant la relation (6) au chapitre 3.3.5.3. Néanmoins il s'agit de considérer la
+largeur effective de ces sorties en déduisant notamment les obstacles tendant à réduire la
+fluidité de la circulation.
+
+NOTES:
+1) Si l’évacuation implique des évacuations simultanées de plusieurs compartiments, à
+    travers une seule voie de secours, couloir ou escalier, le temps d’évacuation requis treq
+    dépend de la capacité de flux de cette voie de secours, où se rassemblent les flux des
+    différents compartiments.
+2) Le flux des occupants dépend de la nature des flux en provenance des différents
+   compartiments qui se combinent sur les paliers des escaliers de secours. Dans certains
+   cas de circulation surchargée il se peut que le flux de personnes d'un étage d'au-
+   dessus soit prédominant à un point tel que les occupants du dessous ne parviennent
+   pas à évacuer aussi longtemps que ceux du dessus ne sont pas partis.
+
+3.4 Principes du calcul manuel selon les équations (1) à (6)
+Dans ce chapitre, une tentative de calcul manuel du temps d’évacuation disponible tdisp et
+du temps requis treq est présentée sur base d'un exemple de parking sous-terrain ainsi que
+d'un exemple concret de bâtiment pour lequel un exercice d'évacuation fut réalisé et
+documenté.
+
+    3.4.1 Evacuation d'un niveau de parking sous-terrain
+
+Description de la situation:
+-    un niveau est donné par sa surface de 110 m x 45 m = 4950 m2 avec une hauteur de
+     2,2 m,
+-    la distance maximale pour atteindre un escalier d'évacuation est de 40m,
+-    50% de la surface est prise par le stationnement des voitures, d'où 2.475 m2 et il y a
+     donc au maximum, pour un emplacement de 2,5 m x 5 m = 12,5 m2, 2.475 / 12,5 =
+     198 voitures,
+
+
+Page 19 sur 34 pages                                                           ITM-SST 1553.2
+-      en admettant en moyenne 2 personnes par voiture on aura donc, pour la zone de
+       circulation et servant donc de chemin d'évacuation, une densité de personnes de
+          D = 2 x 198 / 2.475 = 0,16 personnes/m2.
+NOTE : comme tous les occupants de voitures ne sont pas présents en même temps, cette valeur
+      est sécuritaire.
+
+-      la catégorie d'occupation est a ou b selon le tableau 4,
+-      selon 3.3.3 on a l'alarme générale A1,
+-      le type de bâtiment correspond à B1 selon le tableau1,
+-      le niveau de compétence des services de sécurité correspond à M2 d'après 3.3.4.3.
+-      il est admis que les sorties de secours sont au nombre requis par les règlements et
+       disposent de largeurs suffisamment importantes que pour supposer qu'il n'y aura pas
+       de formation de files.
+Temps d’évacuation requis treq
+- Comme la densité de personnes est faible on utilise l'équation (3) donné par
+         treq = ∆tdétection + ∆talarme + (∆tréaction total + ∆tmarche)fractile 99% avec
+-      selon 3.3.2 si la détection automatique de fumée est conforme aux normes,
+         ∆tdétection = 30 sec,
+-      selon 3.3.3, si l’alarme générale est commandée lorsqu’un deuxième détecteur est
+       activé ∆talarme = 30 sec (lorsque l’alarme générale est commandée par la première
+       détection, ∆talarme = 0),
+-      selon le tableau 5, avec la combinaison (a ou b, A1, B1, M2) on obtient
+         (∆tréaction total)fractile 99% = 1 + (2 ou 3) = 3 à 4 min,
+-   l'équation (5) donne moyennant
+        D = densité 0,16 personnes/m2,
+        K = facteur de vitesse 1,4 m/s selon le tableau 6
+        a = constante 0,25 m2/personne
+        S = vitesse de marche le long de la ligne de déplacement, constante pour une
+densité en-dessous de 0,5 personnes/m2, est donnée par :
+        S = K(1-aD) = 1,4(1-0,25∙0,5) = 1,22 m/sec
+d'où     (∆tmarche)fractile 99% = 40 / 1,22 = 33 sec,
+         NOTE : la majorité des personnes étant à moins de 40 m, cette valeur est sécuritaire.
+et        treq = 30 + 30 + 240 + 33 = 333 sec ~ 6 minutes.
+Temps d’évacuation disponible tdisp
+- L'analyse de l'échauffement a été faite en admettant 2 ouvertures de 2,2 m x 1 m et
+   sans ventilation forcée,
+- le débit calorifique total variable en fonction du temps, dû à l'incendie d'une voiture,
+   fut considéré selon la figure 3 avec RHRmax de 8,3 MW à 25 minutes,
+- la température dans la couche supérieure, en-dehors de la zone du feu, reste en
+   moyenne limitée à 50 °C alors qu'au-dessus de la voiture les températures maximales
+
+
+
+Page 20 sur 34 pages                                                             ITM-SST 1553.2
+     atteignent 800°C vers 25 minutes. Pour une hauteur sous plafond de 2,2 m, la
+     hauteur libre de fumée, suivant la figure 4, reste supérieure à 1,7 m jusqu’à 15 min.
+-    à condition d'être éloigné du foyer d'à peu près 15 m, on peut en déduire, selon le
+     tableau 3 et selon l’évolution de la couche de fumée, que le temps d’évacuation
+     disponible est donné par
+        tdisp = 15 minutes,
+-    ce qui donne selon l'équation (1)
+        tséc = tdisp - treq = 15 - 6 = 9 minutes > 5 minutes requises selon le tableau 1.
+Dans ce cas-ci la marge de sécurité est donc suffisante à condition bien sûr que les sorties
+de secours soient au nombre requis par les règlements et disposent de largeurs
+suffisamment importantes que pour supposer qu'il n'y aura pas de formation de files.
+D'autre part la distance maximale pour atteindre un escalier d'évacuation doit être de 40 m
+au maximum et l'alarme est déclenchée au plus tard dès qu'un deuxième détecteur est
+activé.
+
+
+
+
+      Figure 3: Débit calorifique total dégagé par l'incendie d'une voiture avec
+    RHRmax de 8,3 MW à 25 minutes; ces valeurs sont basées sur des feux réels avec
+        mesures sous hotte calorimétrique (référence : CEC Agreement 7210-
+                    SA/211/318/518/620/933-Final Report 1997).
+
+
+
+
+            Figure 4: Epaisseur de la couche de fumée en fonction du temps
+
+
+Page 21 sur 34 pages                                                       ITM-SST 1553.2
+     NOTE : Pour la hauteur constructive de 3 m du parking considéré, la hauteur libre de fumée
+    reste supérieure à 2 m jusqu'à 20 minutes; pour une hauteur constructive de seulement 2,2 m la
+                    hauteur libre de fumée reste supérieure à 1,7 m jusqu’à 15 min.
+
+     3.4.2 Evacuation d'un bâtiment multi-étages
+Description de la situation :
+- le bâtiment dispose de 7 niveaux avec une surface utile totale de 5.930 m2 et un
+    effectif total déclaré de 610 personnes, à savoir :
+           niveau 0 :     658 m2 avec 35 personnes,
+           niveau 1 :     810 m2 avec 28 personnes,
+           niveau 2 :     818 m2 avec 93 personnes,
+           niveau 3 :     911 m2 avec 118 personnes,
+           niveau 4 :     911 m2 avec 118 personnes,
+           niveau 5 :     911 m2 avec 101 personnes,
+           niveau 6 :     911 m2 avec 117 personnes.
+-      la catégorie d'occupation est "a" selon le tableau 4,
+-      selon 3.3.3 on a l'alarme générale A1,
+-      le type de bâtiment correspond à B2 selon le tableau 1,
+-      le niveau de compétence des services de sécurité correspond à M2 d'après 3.3.4.3.
+Temps d’évacuation requis treq pour le niveau 3
+- selon 3.3.2 si la détection automatique de fumée est conforme aux normes,
+          ∆tdétection = 30sec,
+-      selon 3.3.3 il y a lieu de prendre en compte un temps de reconnaissance,
+          ∆talarme = 5 minutes,
+-      selon le tableau 5, avec la combinaison (a, A1, B2, M2) on obtient
+          (∆tréaction total )fractile 99% = 1 + 2 = 3 minutes,
+-   l'équation (5) donne moyennant
+        Dniveau = densité à l'intérieur du niveau 3 = 118/911 = 0,13 personnes/m2,
+        K = facteur de vitesse 1,4 m/s selon le tableau 6
+        a = constante 0,25 m2/personne
+        S = vitesse de marche à l'intérieur du niveau 3, constante pour une densité en-
+dessous de 0,5 personnes/m2, et donnée par
+        S = K(1-aDniveau) = 1,4(1-0,25∙0,5) = 1,22 m/sec.
+- Concernant le passage à travers la porte de sortie, de largeur effective de 1,05 m, vers
+    la cage d'escaliers, l'équation (6) donne moyennant
+        D = densité au droit de la porte
+        ~ Dniveau (largeur du compartiment / largeur de la porte)
+        = 0,13 (15 / 1,05) = 1,86 personnes/m2,
+d'où FS = (1-aD)∙KD = (1-0,25∙1,86)1,4∙1,86 = 1,39 personnes/m∙sec,
+        FS, 1,05m = 1,39∙1,05 = 1,46 personnes/sec
+
+
+
+
+Page 22 sur 34 pages                                                              ITM-SST 1553.2
+-      ce qui permet d'obtenir le temps de passage à travers la porte de sortie vers la cage
+       d'escaliers en admettant que les 118 occupants du niveau 3 se partagent à égalité
+       entre les deux cages d'escaliers existants
+         ∆tsortie vers escaliers = (0,5∙118)/ (1,46) ~ 41 sec.
+-   Concernant le passage dans la cage d'escaliers on note
+       une largeur des escaliers de 1,2 m et
+       une hauteur des marches de 191 mm, dès lors catégorie S1 selon le tableau 6, et
+       une hauteur totale à franchir du niveau 3 au niveau 0 de 3(18∙0,191 m) = 10,31 m
+- la distance horizontale à franchir du niveau 3 au niveau 0 et donc pratiquement
+    jusqu'à la sortie du bâtiment est de l'ordre de 3(2 ∙ 3 m + 2 ∙ 1,5 m) = 27 m.
+d'où densité dans la cage d'escaliers D ~ 1,86(1,05 / 1,2) = 1,63 personnes/m2,
+       S = vitesse de marche dans les escaliers est donnée par (avec K selon tableau 6)
+       S = K(1-aD) = 1,0(1-0,25∙1,63) = 0,59 m/sec,
+         ∆tmarche dans escaliers = 27 / 0,59 = 47 sec.
+-    L'approche précédente serait correcte s'il n'y avait pas de formation de file à l'entrée
+     vers les escaliers, ce qui est néanmoins le cas selon l'équation (6)
+         FS = (1-aD)∙KD = (1-0,25∙1,63)1,0∙1,63 = 0,96 personnes/m∙sec,
+         FS, 1,2m = 0,96∙1,2 = 1,16 personnes/sec < 1,46 personnes/sec = FS, 1,05m,
+et le flux spécifique à travers la porte de sortie vers la cage d'escaliers ne peut atteindre
+que      FS, 1,05m = 1,16 personnes/sec
+d'où     ∆t'sortie vers escaliers = (0,5∙118)/ (1,16) ~ 51sec.
+Dès lors on a selon l'équation (3)
+         treq = ∆tdétection + ∆talarme + (∆tréaction )fractile 99% +
+                                     ∆t'sortie vers escaliers + ∆tmarche dans escaliers
+          niv 3
+         t req = 30 + 300 + 180 + 51 + 47 = 608sec ~ 10minutes
+NOTES :
+1) Le cas précédent indique que l'évacuation du niveau 3 ne pose pas de problème malgré la
+formation d'une légère file à la sortie vers les escaliers. Mais il faudrait évacuer prioritairement
+l'étage en feu, les autres étages seraient à évacuer ultérieurement.
+2) Si p.ex. le niveau 4 est évacué en même temps, cela provoquerait dans les escaliers entre les
+niveaux 3 et 0 une densité donnée par
+        D = 2∙ 1,63 = 3,26 personnes/m2
+et      S = K(1-aD) = 1,0(1-0,25∙3,26) = 0,18 m/sec,
+donc le temps de marche pour descendre du niveau 3 au niveau 0 serait de
+         ∆tmarche dans escaliers = 27 / 0,18 = 150 sec,
+et       tniv 3req = 608 - 47 + 150 = 711 sec ~ 12 minutes.
+3) En cas d’alarme générale avec évacuation simultanée de tous les niveaux, le temps requis sera
+nettement plus élevé. Il doit néanmoins respecter l’équation (1) et le tableau 1.
+
+
+
+
+Page 23 sur 34 pages                                                               ITM-SST 1553.2
+3.5 Dérogations admissibles par rapport aux prescriptions moyennant des
+    simulations numériques.
+
+Cela permettra notamment d'améliorer le flux des personnes par des dispositifs structurant
+la circulation au droit d'un goulot, d'un croisement, d'une déviation etc.
+L’exemple suivant concerne l'évacuation, à travers un couloir de 30 m de long et de 1,5 m
+de large, de 200 personnes d'un local de rassemblement de 100 m2 (10 m x 10 m, densité
+de personnes D = 200/100 = 2 personne/m²), situé au rez-de-chaussée.
+En utilisant l'équation (5) on obtient
+      S = K(1-aD) = 1,4(1-0,25∙2) = 0,7 m/sec
+et on admet une largeur des personnes de 45 cm, ainsi que ∆réaction = 10 sec, alors que
+les portes d'accès et de sortie du couloir ont une largeur de 0,9 m.
+
+Dès lors le temps (∆tréaction + ∆tdéplacement), nécessaire pour évacuer toutes les
+200 personnes jusqu'à la sortie du couloir à l'air libre, et obtenu sur base du logiciel
+"PATHFINDER 2009.2", est de 396 sec!!!
+En passant à des portes d'accès et de sortie du couloir de 1,2 m ce temps se réduit à 281
+sec, alors qu'avec des portes de 1,5 m ce temps devient 232 sec.
+De la sorte on empêche les embouteillages devant les portes, mais il y a toujours une
+évacuation désordonnée dans le couloir même, qui manifestement est trop étroit. Ce n'est
+qu'en passant à un couloir de 2,5 m de largeur et des portes de même largeur de 2,5 m que
+le temps (∆tréaction + ∆tdéplacement) diminue à 172 sec.
+Si le couloir comprend une déviation à angle droit, tout en gardant la longueur totale du
+couloir de 30 m, un embouteillage se forme avant la déviation (voir figure 5) et n'est
+résorbé qu'en prévoyant une déviation progressive de 2 fois 45° ou en installant une
+séparation à mi-largeur avant et dans la déviation. Cette dernière disposition n'est
+évidemment pas praticable pour des raisons de circulation d'objets plus larges, tels des
+brancards ou des occupants à mobilité réduite.
+
+NOTES :
+1) Afin d'arriver à évacuer un nombre important d'occupants, les couloirs d'évacuation ainsi que
+les portes de secours s'ouvrant sur les couloirs devraient avoir une largeur de l'ordre de 5 à 6 fois
+l'encombrement d'une personne.
+2) Des couloirs d'évacuation performants ne doivent jamais être déviés à angle droit, mais
+doivent suivre, si possible, une déviation progressive de 2 fois 45°.
+
+
+
+
+Page 24 sur 34 pages                                                               ITM-SST 1553.2
+Figure 5: Exemple de l’évacuation de 200 personnes à travers un couloir de 2,5 m de
+large; un embouteillage se forme à la sortie vers le couloir mais aussi dans le couloir
+                      même avant sa déviation à angle droit.
+
+Art. 4 Etablissement de scénarios d’évacuation pour les analyses
+Pour un bâtiment donné, les scénarios d’évacuation les plus défavorables doivent être
+déterminés en accord avec les autorités compétentes.
+Pour chaque scénario déterminé, une simulation de l’évacuation est réalisée, et sur base
+de celle-ci, on vérifie pour l’incendie en question les critères d’enfumage et
+d’échauffement.
+L'élaboration de scénarios de feu, tout en utilisant un modèle de simulation de feu, ont
+comme objectif de déterminer
+- le mouvement de progression du feu et des fumées,
+- la concentration des gaz toxiques et
+- la température de la fumée.
+Ces paramètres seront comparés aves les critères dits admissibles pour les occupants ou
+" tenability criteria ", qui ont été choisis pour le calcul du temps d'évacuation disponible
+tdisp au chapitre 3.2.
+Il est essentiel d’identifier les possibilités pour un incendie de causer préjudice aux
+occupants, à la structure du bâtiment ainsi qu’à son contenu.
+Pour chaque scénario, trois types de caractéristiques doivent être définis :
+
+    les caractéristiques de l’incendie,
+    les caractéristiques du bâtiment et
+    les caractéristiques des occupants.
+
+4.1 Les caractéristiques de l’incendie
+Les caractéristiques suivantes sont à définir :
+   la nature des matières combustibles,
+   l’arrangement géométrique du/ des combustible(s),
+   la géométrie de l’enceinte,
+   l’inflammabilité des matières combustibles,
+
+
+Page 25 sur 34 pages                                                           ITM-SST 1553.2
+       les caractéristiques du débit calorifique ou RHR "Rate of Heat Release",
+       la ventilation par suite de portes et fenêtres ouvertes ou cassées,
+       le flux de chaleur s'échappant vers l'extérieur des ouvertures,
+       la grandeur des surfaces exposées au feu,
+       les systèmes d'extinction.
+
+Il y lieu de noter que les caractéristiques du type de combustible (quantité, type, temps et
+séquence d’ignition) et évidemment aussi les conditions de ventilation, dépendant des
+caractéristiques géométriques de l’enceinte, sont d’une importance considérable, lorsqu’il
+s’agit de déterminer le débit calorifique total (MW) lors de l’incendie. Comme détaillé à
+l'Instruction Technique ITM-SST 1551, Articles 3.2 et 4, tout incendie passe par une suite
+de phases (voir figure 6) telles que
+         l'ignition, due à diverses causes,
+         la croissance jusqu'au flash-over entraînant la mise au feu de tous les
+          combustibles du compartiment,
+         le feu pleinement développé avec débit calorifique, appelé RHR "Rate of Heat
+          Release", constant (MW) ; notons que la fin de ce plateau correspond au moment
+          où 70% de la charge au feu disponible est consommée,
+         la décroissance,
+         l'extinction par manque de charge au feu.
+
+Lorsque des sprinklers sont implantés, la croissance du feu sera arrêtée avant flash-over et
+la masse de la charge au feu ne sera pas engagée.
+
+
+
+
+Figure 6: Evolution du débit calorifique total RHR [MW] dans un compartiment; la
+ courbe bleue modifiée par le flash-over (embrasement généralisé) et par l’oxygène
+    disponible couvre évidemment la même surface que la courbe initiale rouge.
+
+
+
+
+Page 26 sur 34 pages                                                       ITM-SST 1553.2
+4.2 Les caractéristiques du bâtiment
+Les caractéristiques du bâtiment doivent être décrites de façon détaillée et avec soin,
+notamment en ce qui concerne sa structure portante, son compartimentage, son contenu et
+les conditions environnementales. Ceci va influencer l’évacuation des occupants, la
+croissance et le développement de l’incendie, aussi bien que le mouvement et la diffusion
+des gaz combustibles.
+De manière générale, il faut donc considérer les caractéristiques suivantes :
+   les caractéristiques architecturales telles les hauteurs, largeurs                 et
+      caractéristiques thermiques de l'enceinte,
+   les caractéristiques de la structure,
+   le type d'occupation du bâtiment,
+   la présence de systèmes de détection incendie,
+   la présence d’installations d’extinction fixes,
+   le temps d’intervention des équipes internes d'urgence,
+   les facteurs environnementaux,
+   la présence de ventilation naturelle et/ou mécanique.
+
+4.3 Les caractéristiques des occupants
+Dans le cadre de la détermination de la capacité de procéder à l’évacuation des occupants
+en cas d’urgence, les caractéristiques des occupants devront être définies. D’une façon
+générale, il y a lieu de considérer les facteurs suivants :
+    le nombre des occupants,
+    la répartition des occupants dans le bâtiment,
+    la vigilance des occupants p.ex. endormis ou réveillés,
+    le type d'occupants (par ex. : hôpitaux, centres pénitentiaires, logements, etc.)
+    la capacité physique, sensorielle ou mentale des occupants,
+    la familiarité de l'occupant avec les alentours.
+
+Art. 5        Choix des méthodes de simulation, logiciels et conditions
+               particulières à respecter
+Les logiciels de simulation d’évacuation de personnes, (SEP) se subdivisent en deux
+approches différentes
+
+        le modèle dit de « mouvement et de comportement »,
+        le modèle dit « hydraulique ».
+Le premier modèle considère les caractéristiques physiques des bâtiments avec leur
+configuration spatiale, et les caractéristiques et réactions des individus envers des
+stimulations externes causées par un incendie tels les temps de réaction, le comportement
+individuel, etc.
+Le second modèle considère les personnes plutôt comme des « objets », qui répondent
+automatiquement envers des stimulations externes, traitant la population au sein d’un
+bâtiment comme une masse et non comme des « individus ».
+
+
+
+Page 27 sur 34 pages                                                     ITM-SST 1553.2
+Au sein de ces modèles, il y a en plus la possibilité de représenter :
+       les compartiments des bâtiments,
+       les habitants et leur comportement,
+       le type de simulation.
+Finalement, la simulation elle-même peut être abordée de trois manières différentes, à
+savoir l'optimisation, la simulation et l'évaluation des risques.
+Les modèles d’optimisation partent du principe que les gens sont évacués de manière
+efficace, tout en prenant le meilleur choix dans chaque situation donnée avec chemins
+d’évacuation optimaux, et tout en considérant que les caractéristiques du flux des gens et
+des sorties soient conformes aux dispositions prescrites. Pourtant, ces modèles tendent à
+considérer uniquement de grandes populations d’occupants.
+Les modèles de simulation sont calibrés sur le mouvement et le comportement observés
+durant des évacuations réelles. C’est pour cette raison que les résultats tendent à varier
+fortement d’un modèle à l’autre.
+Les modèles de l'évaluation des risques essaient d'identifier les risques et dangers d’une
+évacuation en cas d’incendie. Cette approche numérique nécessite toutefois un grand
+nombre de calculs, reproduisant des variations des paramètres conformes à leurs
+distributions statistiques.
+Un même modèle d’évacuation, le meilleur pour chaque situation, n'existe pas. La
+décision d'adopter un modèle particulier dépend notamment des moyens de calcul
+disponibles.
+
+A titre d'exemple est présenté, dans les figures 7 à 10, la simulation d'évacuation de
+194 personnes occupant les 5 niveaux à 0 m, 3 m, 6 m, 9 m et 12 m d'un bâtiment.
+Comme le niveau à 9 m contient une salle de conférences avec 95 personnes, 2 sorties de
+secours y sont prévues. L'évacuation se fait finalement dans pratiquement 4 minutes
+sachant que
+         la vitesse de marche a été fixée à 1,25 m/sec pour les étages à 0 m, 3 m et 6 m, à
+          0,8 m/sec pour le niveau à 9 m et à 0,5 m/sec pour le niveau à 12 m,
+         l'évacuation se fait avec un décalage par rapport à l'alarme de 10 sec. au niveau
+          0 m, de 20 sec au niveau 3 m, de 30 sec au niveau 6 m, de 60 sec au niveau 9 m
+          et de 120 sec au niveau 12 m.
+Finalement les niveaux à 0 m, 3 m et 6 m seront complètement évacués après 70 sec, le
+niveau à 9 m après 185 sec. et le niveau à 12 m après 241 sec.
+Ces temps d'évacuation assez courts proviennent du fait d'avoir prévu 2 sorties de secours
+et de laisser évacuer les différents niveaux avec décalage temporel en laissant partir
+d'abord les personnes des étages inférieurs. Si tous les étages sont évacués en sens inverse
+et si surtout il n'existe qu'un seul escalier commun d'évacuation, le temps d'évacuation ou
+treq ≡ (RSET), du fait des embouteillages inévitables et des files de personnes en
+résultant, peut facilement être doublé jusqu'à 8 minutes.
+NOTES :
+
+1) L'étude de simulation d'évacuation décrite ci-devant est réalisée sur base du logiciel
+"PATHFINDER 2009.2" de la société THUNDERHEAD Engineering de Manhatten, Kansas,
+USA.
+
+
+
+Page 28 sur 34 pages                                                       ITM-SST 1553.2
+2) Un autre logiciel utilisable pour simuler une évacuation de personnes est le soft
+"Fire Dynamics Simulator with Evacuation", du NIST - VTT.
+
+
+
+
+         Figure 7: Personnes présentes aux différents niveaux avant l'alarme.
+
+
+
+
+                       Figure 8: Situation d'évacuation vers 31 sec.
+
+
+
+
+Page 29 sur 34 pages                                                             ITM-SST 1553.2
+                        Figure 9: Situation d'évacuation vers 78 sec.
+
+
+
+
+                       Figure 10: Situation d'évacuation vers 144 sec.
+
+
+
+
+Page 30 sur 34 pages                                                     ITM-SST 1553.2
+Art. 6. - Procédures de validation et de contrôle
+6.1. Procédure de validation
+
+Il s’agit d’une procédure qui valide et vérifie le software, et qui teste l’exactitude des
+résultats. Le choix des scénarios d’évacuation et les programmes de calcul qui seront
+utilisés sont à soumettre préalablement aux autorités compétentes, selon le schéma de la
+figure 11.
+
+
+
+              Définir l'envergure
+                   du projet
+              (première ébauche)
+
+
+
+                                                      Déterminer les scénarios
+                     Définir
+                                                       de dimensionnement
+                les exigences de
+                 performance
+
+
+
+                                                             Définir le
+             Définir la stratégie de
+                                                         concept de sécurité
+           protection des personnes
+                                                              incendie
+            et du service d'incendie
+
+
+
+                                                         Evaluer le concept de
+              Définir les exigences                    sécurité incendie par des
+              fonctionnelles et les                      méthodes d'ingénieur
+              critères quantitatifs
+
+
+
+           Analyser ou modifier
+           le concept de sécurité           NON              Respect des
+           incendie, les exigences de                         Critères
+           performance ou la
+           stratégie de protection
+                                                         OUI
+
+                                                       Concept de sécurité
+                                                        incendie valable
+
+      Figure 11: Méthodologie comprenant les phases successives de développement
+                   du concept de sécurité incendie selon ISO TC92 SC4
+
+
+
+
+Page 31 sur 34 pages                                                       ITM-SST 1553.2
+Toute étude relative à une simulation d'évacuation de personnes (SEP) doit être
+accompagnée d'une documentation comprenant:
+    des informations générales qui doivent instruire sur des imperfections éventuelles
+      du modèle choisi, surtout sur des déficiences du modèle en rapport avec le feu.
+      Ceci est un point très important, parce que la bonne interprétation des résultats en
+      dépend.
+      la documentation technique et le mode d’emploi du modèle montrant que les
+       utilisateurs sont en mesure de connaître les références scientifiques de base en
+       matière d’algorithmes. La documentation technique doit fournir aux utilisateurs
+       des informations utiles et pratiques, notamment pour comprendre les
+       caractéristiques du modèle.
+Il s’agit en l’occurrence des informations et caractéristiques suivantes:
+      définition du type d’incendie utilisé, ou les conditions physiques à respecter,
+      description des lois théoriques et physiques qui sont à la base du modèle,
+      équations qui règlent le processus,
+      identification des hypothèses les plus importantes et leurs limites d’application,
+      description des techniques et processus mathématiques, et les algorithmes utilisés,
+      liste contenant les programmes auxiliaires ou les fichiers de données nécessaires,
+      informations concernant les sources des données, leurs contenus et leur utilisation.
+
+6.2. Qualification des concepteurs
+Les concepteurs appelés à procéder à une simulation d'évacuation de personnes SEP,
+doivent être ingénieurs et présenter à l’autorité compétente un certificat de réussite des
+épreuves d’un cours de « fire safety engineering » ou un dossier démontrant leur
+expérience personnelle dans ce domaine.
+
+6.3. Procédure de contrôle
+Ce contrôle, considéré comme indispensable, est demandée par l’autorité compétente et
+peut s'opérer de différentes façons:
+    contrôle basé sur des normes,
+    contrôle basé sur des données issues des exercices de prévention incendie
+    et des tests en matière d’évacuation,
+    contrôle basé sur des données provenant de la littérature ayant trait aux tests
+    en matière d’évacuation,
+    contrôle basé sur d’autres méthodes.
+Les organismes spécialisés qui souhaitent intervenir dans la procédure de contrôle des
+calculs d’une simulation SEP, et d’une réalisation conforme aux résultats de calcul,
+doivent être préalablement agréés à cet effet comme "organisme de contrôle" par le
+Ministre ayant le Travail dans ses attributions.
+
+
+
+
+Page 32 sur 34 pages                                                        ITM-SST 1553.2
+Les conditions d'agrément et les règles d'intervention des organismes de contrôle sont
+déterminées par l'article 614 du Code du travail et les règlements grand-ducaux et
+ministériels qui en découlent dans le cadre des compétences et attributions de l'Inspection
+du travail et des mines.
+Ceci implique notamment pour l'organisme de contrôle :
+-   de présenter lors de la demande d'agrément un dossier établissant la compétence du
+    personnel dans l'ingénierie concernée et démontrant que l'organisme dispose de
+    moyens de calcul [et de matériels] appropriés.
+-   d'être organisé et de réaliser ses interventions de manière à garantir une totale
+    indépendance par rapport à la démarche de conception, ce qui n'exclut pas la
+    possibilité d'échange d'informations techniques entre l'organisme de contrôle et les
+    auteurs de projet [et les firmes réalisant les installations].
+-   d'être accrédité pour ses activités au titre des normes applicables des séries EN
+    ISO/CEI 17000 respectivement EN 45000 par l’Office Luxembourgeois
+    d’Accréditation et de Surveillance (OLAS) de l’Institut Luxembourgeois de la
+    Normalisation, de l’Accréditation de la Sécurité et la qualité des produits et services
+    (ILNAS) ou par tout autre organisme d’accréditation équivalent signataire de
+    l’accord multilatéral pris dans le cadre de la coordination européenne des organismes
+    d’accréditation.
+
+Art. 7. - Transposition des hypothèses de dimensionnement et des
+           résultats de calcul dans les documents d’exécution et
+           d’exploitation
+Les aménagements prévus par le concepteur, lors de l'analyse d'une simulation
+d'évacuation des personnes, doivent clairement figurer dans les notes justificatives ainsi
+que sur les plans de construction, afin de vérifier sans équivoque leur existence lors de la
+mise en exploitation de l'ouvrage.
+Des notes justificatives fixent les conditions d’exploitation et décrivent les hypothèses
+utilisées pour l’étude d’ingénierie incendie ainsi que les recommandations déduites des
+résultats de cette étude. Elles donnent les différents scénarios d'évacuation qui impliquent
+la définition:
+        des compartiments au feu et des cellules étudiés avec les caractéristiques de
+         parois et des ouvertures,
+        des données relatives au feu (densité de charge calorifique, débit calorifique
+         maximal, les tailles des foyers considérés, tailles et position des foyers, vitesses
+         de propagation),
+        des mesures actives de lutte contre le feu, telles la détection des fumées, l'alarme
+         acoustique, l'activation du désenfumage et du sprinklage etc
+        des distances maximales à parcourir pour l'évacuation,
+        des largeurs des chemins d'évacuation, des escaliers et des portes,
+        du nombre des occupants,
+        du nombre de sorties requises.
+
+
+
+
+Page 33 sur 34 pages                                                        ITM-SST 1553.2
+Les documents en question seront tenus à la disposition des autorités compétentes. Il est
+de la responsabilité du propriétaire et de l'exploitant de garantir le respect des conditions
+d’exploitation.
+
+
+
+
+                                    Mise en vigueur, le
+
+                                             s.
+
+                                    Robert HUBERTY
+                                          Directeur
+                                 de l’Inspection du travail
+                                        et des mines
+
+
+
+
+Page 34 sur 34 pages                                                        ITM-SST 1553.2
+

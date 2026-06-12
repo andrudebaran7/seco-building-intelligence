@@ -1,0 +1,130 @@
+                                       GRAND-DUCHÉ DE LUXEMBOURG
+
+
+                                         Le présent texte a été établi par
+                                       l’Inspection du travail et des mines
+
+
+
+
+                                                  ITM-SST 1901.1
+                                            Version du 12 novembre 2024
+
+
+
+               Contrôle de l'atmosphère sur les lieux de travail
+
+                                          Le présent document comporte 4 pages
+
+
+
+
+Inspection du travail et des mines
+Adresse postale :         B.P. 27                  L-2010 Luxembourg   Tel. :    +352 247-76100
+Bureaux :                 3, rue des Primeurs      L-2361 Strassen     Fax :     +352 247-96100
+Site internet :           https://itm.public.lu
+                                                           Table des matières
+
+
+
+Article 1. Objet.............................................................................................................................. 3
+Article 2. Champ d’application ..................................................................................................... 3
+Article 3. Documents d’application .............................................................................................. 3
+Article 4. Définition ...................................................................................................................... 3
+Article 5. Obligation ...................................................................................................................... 3
+Article 6. Surveillance des risques ................................................................................................ 4
+     6.1. Généralités ........................................................................................................................... 4
+     6.2. Fréquences ........................................................................................................................... 4
+     6.3. Dépassements ...................................................................................................................... 4
+Article 7. Registre de sécurité ...................................................................................................... 4
+
+
+
+
+ 2                                                                                                                       ITM-SST 1901.1
+Article 1.        Objet
+Les présentes prescriptions ont pour objet de spécifier les conditions de surveillance de
+l'atmosphère sur les lieux de travail susceptible de pouvoir être contaminée par des substances
+ou produits présentant un risque pour la santé des salariés, excepté l’amiante qui fait l’objet
+d’autres dispositions réglementaires.
+
+Article 2.        Champ d’application
+Les présentes prescriptions sont applicables aux lieux de travails des établissements classés dans
+lesquels des produits ou substances présentant un risque pour la santé sont susceptibles d’être
+libérés.
+
+Article 3.        Documents d’application
+-       « Règlement grand-ducal modifié du 14 novembre 2016 concernant la protection de la
+        sécurité et de la santé des salariés contre les risques liés à des agents chimiques sur le lieu
+        de travail. »
+-       « Règlement grand-ducal du 14 novembre 2016 concernant la protection des salariés contre
+        les risques liés à l'exposition à des agents cancérigènes ou mutagènes au travail. »
+-       « TRGS 900 (Technische Regel für Gefahrstoffe) – Arbeitsplatzgrenzwerte », établi par la
+        « Bundesanstalt für Arbeitsschutz und Arbeitsmedizin » (Allemagne), dans sa version la plus
+        récente.
+-       « TRGS 910 (Technische Regel für Gefahrstoffe) – Risikobezogenes Maßnahmenkonzept für
+        Tätigkeiten mit krebserzeugenden Gefahrstoffen », établi par la « Bundesanstalt für
+        Arbeitsschutz und Arbeitsmedizin » (Allemagne), dans sa version la plus récente.
+
+Article 4.        Définition
+« Agent chimique » : tout élément ou composé chimique, seul ou mélangé, tel qu’il se présente
+à l’état naturel ou tel qu’il est produit, utilisé ou libéré, notamment sous forme de déchet, du fait
+d’une activité professionnelle, qu’il soit ou non produit intentionnellement et qu’il soit ou non
+mis sur le marché, utilisé ou émis quel que soit son état (solide, liquide, gaz) et sa forme (par
+exemple aérosol, poudre, poussière, fumée, brouillard, particules, nanoparticules, fibres). Sont
+notamment visés les « agent chimiques dangereux », « agent cancérigène » et « agent
+mutagène » définis dans les règlements grand-ducaux repris à l’article 3.
+« Organisme de contrôle » : tout organisme de contrôle agréé conformément à l’article L. 614-
+7 du Code du travail, disposant de l’agrément pour contrôler l'atmosphère sur les lieux de
+travail.
+« VLEP » : Valeur Limite d’Exposition Professionnelle
+
+Article 5.        Obligation
+L’exploitant veille à ce que les risques que présente un agent chimique pour la sécurité et la santé
+des salariés sur le lieu de travail soient supprimés ou réduits au minimum.
+Pour les agents chimiques qui ne sont pas repris dans les règlements précités, l’exploitant doit se
+conformer aux listes et VLEP (« Arbeitsgrenzwert ») indiquées dans les documents « TRGS » visés
+à l’article 3.
+
+
+
+
+    3                                                                                ITM-SST 1901.1
+Article 6.    Surveillance des risques
+6.1. Généralités
+Au cas où une exposition à des substances dangereuses n’est pas à exclure, l’exploitant doit
+charger un organisme de contrôle de procéder à un contrôle et un mesurage de l’atmosphère
+des lieux de travail de l’établissement.
+Le mesurage est réalisé suivant la norme ILNAS-EN 689 : Exposition sur les lieux de travail -
+Mesurage de l'exposition par inhalation d'agents chimiques - Stratégie pour vérifier la conformité
+à des valeurs limites d'exposition professionnelle
+6.2. Fréquences
+Cette évaluation analytique doit être réalisée :
+   - une première fois endéans les 6 mois après la mise en exploitation de l’établissement ;
+   - ensuite, tous les 12 mois ;
+   - à chaque fois que des modifications de l’établissement peuvent avoir une influence sur
+       l’atmosphère des lieux de travail, sans préjudice des obligations de la loi relative aux
+       établissements classés en cas de modification de l’établissement, telles que :
+                        • Modification d’activités ou de process ;
+                        • Modification d’agents chimiques utilisés, modification de quantités
+                           ou de concentration d’agents chimiques ;
+                        • Modification des moyens de préventions, techniques ou
+                           organisationnels, y compris les équipements de protection collective
+                           ou individuelle ;
+                        • Modification des documents d’application visés à l’Article 3 en
+                           relation avec les agents chimiques de l’établissement.
+ - Après un dépassement des VLEP.
+6.3. Dépassements
+Si le mesurage réalisé par l’organisme de contrôle montre un dépassement des VLEP, l’exploitant
+doit immédiatement prendre des mesures d’urgences et contacter l’ITM. Des nouveaux
+mesurages devront être réalisés par l‘organisme de contrôle dans un délai imposé par l’ITM.
+
+Article 7.    Registre de sécurité
+Les rapports des organismes de contrôles sont à verser au registre de sécurité de
+l’établissement ; ils doivent être conservés par l’exploitant pendant une durée de 30 ans.
+
+
+
+
+ 4                                                                              ITM-SST 1901.1
+

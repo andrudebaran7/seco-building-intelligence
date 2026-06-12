@@ -1,0 +1,618 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                          Strassen, septembre 2012
+
+
+                      Le présent texte a été établi par l’Inspection du travail et des mines et
+                         le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                             ITM-SST 1507.2
+
+                          Prescriptions de prévention incendie
+                               DISPOSITIONS SPÉCIFIQUES
+                                            Salles recevant du public
+                                                   Le présent document comporte 13 pages
+
+                                                                 SOMMAIRE
+    Article                                                                                                          Page
+
+     1)                   Objectifs et domaine d'application                                                            2
+     2)                   Définitions                                                                                   2
+     3)                   Implantation                                                                                  3
+     4)                   Aménagements extérieurs                                                                       3
+     5)                   Construction                                                                                  3
+     6)                   Aménagements intérieurs                                                                       3
+     7)                   Compartimentage                                                                               5
+     8)                   Evacuation de personnes, issues et dégagements intérieurs                                     6
+     9)                   Eclairage                                                                                     7
+    10)                   Désenfumage (Evacuation de fumée et de chaleur)                                               7
+    11)                   Installations techniques                                                                      8
+    12)                   Installations au gaz                                                                          9
+    13)                   Installations électriques                                                                     9
+    14)                   Prévention de panique en cas d'alarme                                                        10
+    15)                   Moyens de secours et d'intervention                                                          10
+    16)                   Registre de sécurité                                                                         11
+    17)                   Réception et contrôles                                                                       11
+    Annexe I              Méthode de calcul de l’effectif du service de garde de sécurité                              12
+
+
+
+
+        _____________________________________________________________________________________________________________________
+        Direction, Département Sécurité et Santé
+        Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+        Bureaux: 3, rue des Primeurs, L-2361 Strassen    Tél: 247-86145   Fax: 49 17 47
+        Site Internet: http://www.itm.lu
+Art. 1 Objectif et domaine d'application
+1.1. Généralités
+Les établissements sont soumis aux dispositions générales, ITM-SST 1501, 1502 resp. 1503,
+applicables à tous les établissements et aux présentes dispositions spécifiques.
+
+1.2. Domaine d'application
+Les présentes prescriptions ont pour objectif de spécifier les prescriptions de sécurité et de
+santé par rapport au personnel et au public, auxquelles doivent répondre la conception, la
+construction et l’aménagement d’une salle recevant du public.
+
+Art. 2 Définitions
+2.1. Salles recevant du public
+Les établissements concernés par les dispositions ci-après sont :
+                  les théâtres,
+                  les cirques,
+                  les salles de cinéma,
+                  les discothèques,
+                  les salles de fête,
+                  les salles de bal,
+                  les salles polyvalentes,
+                  les centres culturels,
+                  les centres sportifs,
+                  les halls ou salles d'exposition,
+                  les salles de conférences,
+                  les chapiteaux (liste non exhaustive) pouvant recevoir au moins
+                   100 personnes.
+Ces différents établissements sont classés en quatre catégories :
+                 1ère catégorie: centres sportifs, halls et salles d'exposition
+                 2ème catégorie: discothèques, salles de bals, salles des fêtes, salles
+                  polyvalentes et centres culturels
+                 3ème catégorie: cirques et chapiteaux
+                 4ème catégorie: théâtres, cinémas et salles de conférence
+
+2.2. Promenoirs
+Sont appelés promenoirs toutes les parties d'une salle où l'on peut circuler ou se tenir debout à
+l'exception des chemins d'évacuation où le stationnement est formellement interdit.
+
+2.3. Service de garde de sécurité
+Le service de garde de sécurité est un service non permanent. Il doit être présent dans
+l'établissement lors des manifestations et spectacles et ce, pendant toute la durée de
+l'événement.
+
+Page 2 sur 13 pages                                                             ITM-SST 1507.2
+Art. 3 Implantation
+Voir dispositions générales.
+
+Art. 4 Aménagements extérieurs
+Voir dispositions générales.
+
+Art. 5 Construction
+5.1. Stabilité au feu de la construction
+Aucune stabilité au feu n'est requise pour les établissements de 3ème catégorie (cirques et
+chapiteaux).
+
+Art. 6 Aménagements intérieurs
+6.1. Disposition et aménagement de sièges
+6.1.1. D'une manière générale, les dispositions et aménagements de sièges doivent faire l'objet
+de plans d'ensemble, de détails et de coupe faisant apparaître clairement le nombre, la position
+et les cotes des sièges, les cotes entre rangées de sièges, la position et la largeur des chemins
+d'évacuation.
+6.1.2. Les tables et les sièges doivent être disposés de manière à ménager des couloirs de
+circulation maintenus libres en permanence.
+6.1.3. Les couloirs de circulation doivent être disposés de telle sorte que d'un point
+quelconque de la salle, l'on puisse toujours joindre facilement deux sorties.
+6.1.4. Dans les établissements ne servant qu'accessoirement à des représentations, des
+conférences et réunions, les sièges disposés en rangées doivent être installés, accrochés ou
+fixés de manière que les personnes ne puissent ni les renverser, ni les déplacer, même en cas
+d'évacuation précipitée.
+6.1.5. Les rangs de sièges ne doivent pas comprendre plus de 10 places s'ils aboutissent à un
+seul couloir et pas plus de 20 places s'ils aboutissent à deux couloirs.
+6.1.6. L'écartement des rangées des sièges doit être tel qu'entre les parties les plus saillantes de
+deux rangs consécutifs, un espace d'au moins 50 cm sera libre pour la sortie des personnes.
+6.1.7. En aggravation des dispositions générales, la largeur des couloirs doit être
+dimensionnée à raison de 1 cm par personne en plan horizontal et de 1,25 cm en pente,
+appelée à y passer pour gagner la sortie la plus proche. La largeur minimum des couloirs ne
+peut être inférieure à 1,20 m.
+6.1.8. Dans les établissements comportant des tables entourées de sièges fixes ou mobiles, des
+chemins principaux et latéraux doivent être aménagés en nombre suffisant pour que le public
+puisse facilement gagner l'extérieur par le chemin le plus proche et le plus direct. Leur largeur
+doit être calculée telle que définie à l'article 6.1.7 ci-dessus.
+Les sièges mobiles sont interdits à proximité des chemins d'évacuation principaux. Ils devront
+être correctement localisés sur les plans et soumis à l'avis de l'autorité administrative
+compétente.
+6.1.9. La surface destinée à l'emplacement d'une seule table ou de plusieurs tables contiguës
+avec chaises ne peut excéder 20 m2.
+
+
+
+
+ Page 3 sur 13 pages                                                                ITM-SST 1507.2
+6.1.10. Dans les établissements servant exclusivement à des représentations théâtrales et
+cinématographiques ou à des conférences et réunions, les sièges et banquettes doivent être
+solidement fixés au sol.
+6.1.11. Pour les espaces polyvalents, c'est-à-dire appelés à recevoir des activités très diverses
+(expositions temporaires, manifestations politiques, festives, sportives, réceptions), les
+organisateurs devront établir un dossier de sécurité comportant :
+                Une notice de présentation générale intégrant les moyens mis en œuvre en
+                   matière de sécurité incendie.
+                Préciser le nom des personnes formant le service de garde et leur
+                   qualification en matière de sécurité incendie.
+                Une attestation du contrat liant le propriétaire et/ou l'exploitant habituel de
+                   l'établissement avec l'organisateur de la manifestation.
+                Un plan détaillé de la manifestation faisant apparaître le tracé des
+                   circulations, l'emplacement des tables, chaises, rangées de sièges, stands,
+                   espaces réservés aux exposants, les emplacements des moyens de secours,
+                   les poteaux de structure, les issues de secours … .
+
+6.2. Tribunes et gradins
+6.2.1. Les gradins et leur structure doivent être calculés pour supporter les charges et les
+vibrations d'exploitation réglementaires.
+6.2.2. Les marches des circulations doivent avoir une profondeur supérieure à 25 cm.
+6.2.3. Ces marches ne peuvent être à quartier tournant.
+6.2.4. L'alignement des nez de marche ne doit pas dépasser 35°.
+6.2.5. Cet angle peut atteindre 45° sous certaines conditions :
+                 La tribune ne comporte pas plus de cinq rangs de gradins.
+                 Les circulations verticales sont équipées de mains courantes ou de tout
+                  autre système de préhension.
+6.2.6. Le vide en contremarche ne peut être supérieur à 18 cm.
+6.2.7. Les dessous des tribunes non compartimentées ne doivent comporter aucun stockage ou
+dépôt. Ils doivent en outre être rendus inaccessibles au public.
+6.2.8. Les équipements des tribunes (sièges,…) doivent au minimum être combustible
+(Euroclasses C s2d1).
+Des garde-corps, des rampes d'escaliers ou des barres d'appui, devant résister à des éventuels
+mouvements de foule, doivent être installés chaque fois qu'il y a risque de chute.
+6.2.9. Les tribunes et gradins doivent, dans tous les cas, faire l'objet de plans d'ensemble et de
+détails soumis à l'avis des autorités compétentes.
+
+6.3. Aménagements scéniques
+6.3.1. Dans les établissements renfermant une scène, la construction sur laquelle repose le
+plancher de la scène de même que les murs d'enceinte et le plafond doivent être en matériaux
+incombustibles.
+6.3.2. Les accessoires de scène et les coulisses etc., doivent être en matériaux très
+combustibles (Euroclasses D s2d2).
+
+
+
+
+ Page 4 sur 13 pages                                                               ITM-SST 1507.2
+6.3.3. Les décors, rideaux, coulisses ne servant pas à la représentation en cours doivent être
+remises dans un local spécial affecté seulement à cet usage.
+6.3.4. Il ne peut y avoir de communication directe entre la scène et des dépendances (loges des
+artistes, locaux divers de stockages, …).
+
+6.4. Réaction au feu des matériaux et des aménagements intérieurs
+6.4.1. Les draperies, les tentures, les éléments de décoration ou d’habillage flottants, tels que
+lambrequins, guirlandes, etc., doivent être non-combustibles (Euroclasses A2 s1d2).
+6.4.2. Toutefois, des dérogations pourront être accordées par l'autorité compétente en ce qui
+concerne les guirlandes ou objets légers de décoration.
+6.4.3. Le rembourrage des sièges doit être réalisé en matériaux très combustibles (Euroclasses
+D s1d2) et l'enveloppe, bien close, qui couvre le rembourrage, en matériaux faiblement
+combustibles (Euroclasses B s1d0).
+
+6.5. Portes courantes
+En aggravation de l'article 6.6.1. des dispositions générales, en amont et en aval des portes
+donnant dans les corridors et dégagements, des portes coupe-feu et coupe-fumée de même que
+des sorties vers l'extérieur, il doit être prévu un espace libre, dégagé, sans marches ni pentes,
+de 2,00 x 2,00 m au moins.
+
+Art. 7 Compartimentage
+7.1. Les salles aménagées dans des immeubles affectés également à d'autres fins doivent être
+isolées des locaux et espaces contigus par des murs, plafonds et planchers coupe-feu ayant une
+résistance au feu d'un degré minimal de 90 minutes (REI 90).
+
+7.2. La construction ou l'aménagement des salles n'est pas autorisé à côté, au-dessus ou au-
+dessous de locaux ne présentant pas toutes les garanties de sécurité et de salubrité ou
+présentant des dangers spéciaux d'incendie, d'explosion ou de pollution.
+
+7.3. La hauteur des salles et des locaux doit être calculée en fonction de la surface de
+l'établissement et du nombre de personnes admises. Le volume d'air ainsi créé doit être tel que
+l'air ambiant peut être tenu dans l'état de pureté nécessaire pour assurer le bien-être des
+visiteurs. La hauteur minimale des salles et locaux doit compter 3 m.
+
+7.4. En allègement à l’article 7.2.1 des dispositions générales, dans les halls de grandes
+dimensions, il y a lieu de prévoir des recoupements tous les 4.500 m². Si l'établissement est
+équipé d'une installation d'extinction automatique, cette surface est portée à 9.000 m². Ces
+recoupements ont pour objectif de limiter la propagation du feu et de faciliter l'intervention
+des secours. Les espaces ainsi créés doivent être équivalents en surface et dans tous les cas
+être soumis à l'avis des autorités compétentes.
+Ces recoupements peuvent être réalisés :
+                 soit par un compartiment conforme à l'article 7.2.2. des dispositions
+                  générales.
+                 soit par des volumes libres de largeur minimale 8 m, de même hauteur que
+                  le bâtiment et cantonnés en partie haute par des retombées faisant écran
+                  aux fumées. Ces volumes libres sont exempts de tout aménagement,
+                  dépôts, matériel, e.a.
+
+
+ Page 5 sur 13 pages                                                              ITM-SST 1507.2
+7.5. En complément des dispositions générales, sont à considérer comme étant des locaux à
+risques :
+                 les dépôts de décors, rideaux, costumes, accessoires, de matériels, …
+                 les ateliers de fabrication, d'entretien, de décoration, de reliure, de
+                  restauration…
+                 les locaux de stockage de film, bandes vidéo, bandes sonores, disques, …
+                 les locaux d'emballage, de stockage et de manipulation de matières
+                  dangereuses,
+                 les magasins de conservation de documents, d'accessoires divers, des
+                  collections, les réserves d'œuvre d'art, …
+Ils sont considérés à risques faibles si leur surface est inférieure à 20 m², importants si leur
+surface est supérieure à 50 m² et à risques moyens entre 20 et 50 m².
+
+7.6. Pour les scènes dont la surface est supérieure à 300 m², un compartimentage vis-à-vis de
+la salle pourra être demandé par les autorités compétentes.
+
+Art. 8 Evacuation de personnes, issues et dégagements intérieurs
+8.1. L'effectif du public est déterminé :
+                 soit par le calcul suivant la règle indiquée ci-dessous, il s'agit de l'effectif
+                  théorique,
+                 soit suivant la déclaration contrôlée du chef d'établissement, il s'agit alors
+                  de l'effectif déclaré.
+Les règles de sécurité à appliquer pour la détermination de l'effectif théorique sont les
+suivantes:
+Salles ne disposant ni de tables ni de sièges mobiles ou fixes
+L'effectif théorique de ces salles doit être calculé sur la base de trois personnes par mètre carré
+(3 p / m²) de la surface accessible au public.
+Salles comportant des rangées de sièges fixes
+L'effectif théorique du public est déterminé d'après le nombre de personnes assises sur les
+sièges ou banquettes en y ajoutant à raison de trois personnes au mètre carré le nombre de
+personnes pouvant stationner le long des promenoirs.
+En cas d'utilisation de banquettes, chaque personne doit disposer d'un emplacement ayant
+une largeur de 50 cm au moins.
+Salles comportant des tables entourées de sièges fixes ou mobiles
+L'effectif théorique de ces salles doit être calculé sur la base d'une personne par mètre carré
+(1p/m2) de la surface délimitée par les emplacements des tables et des sièges, majorée, le cas
+échéant, du public admis à stationner dans les promenoirs à raison de trois personnes au mètre
+carré.
+Salles et halls d'exposition
+L'espace dont dispose le public est compté à raison de trois personnes pour deux mètres carrés
+(3p/2m2) de la surface totale des locaux auxquels le public a accès.
+Les stands ne doivent occuper au plus que les deux tiers (2/3) de la superficie totale de chaque
+salle, un tiers (1/3) au moins étant réservé à la circulation du public.
+
+8.2. Tous les dégagements et issues seront calculés en fonction de l'effectif retenu par
+l'administration compétente c'est-à-dire : soit l'effectif théorique, soit l'effectif déclaré.
+ Page 6 sur 13 pages                                                               ITM-SST 1507.2
+8.3. En aggravation de l'article 8.4.1 des dispositions générales, la largeur de ces sorties doit
+être calculée sur la base de 1 cm par personne pour les 300 premiers visiteurs et 0,75 cm par
+personne pour plus de 300.
+
+8.4. En aggravation de l'article 8.8.3 des dispositions générales, la largeur de ces escaliers doit
+être calculée sur la base de 1,25 cm pour un escalier descendant et 2 cm par personne pour un
+escalier montant.
+
+8.5. Des escaliers de communication internes non compartimentés peuvent être prévus entre 2
+niveaux.
+
+8.6. Dans les bâtiments abritant plusieurs salles ou locaux recevant du public, ceux-ci doivent
+être desservis de préférence par des sorties, voies d'issues et escaliers indépendants.
+
+8.7. Un établissement situé à l'étage ou en sous-sol doit toujours être desservi par deux
+escaliers au moins.
+
+8.8. Un panneau d'affichage indiquant le nombre maximum de personnes admissibles dans
+chacune des salles devra être fixé à l'entrée de chaque salle.
+
+
+8.9. Pour les établissements de 1ère et 4ème catégorie, des atténuations aux articles 8.3.1. et
+8.3.2. des dispositions générales peuvent être accordées par les autorités compétentes.
+
+8.10. La scène et ses dépendances doivent avoir au minimum deux issues de secours :
+                 Si la surface de la scène est inférieure ou égale à 150 m², les deux sorties
+                  peuvent se faire par la salle,
+                 Si la surface de la scène est supérieure à 150 m² et inférieure ou égale à
+                  300 m², une de ces sorties doit obligatoirement donner directement,
+                  respectivement à travers d’un compartiment d’issue vers l'extérieur,
+                 Si la surface de la scène est supérieure à 300 m², les deux sorties doivent
+                  obligatoirement donner directement respectivement à travers d’un
+                  compartiment d’issue vers l'extérieur.
+
+Art. 9 Eclairage
+9.1. Pour les locaux d’une surface supérieure à 300 m², l’éclairage normal doit être conçu de
+telle façon que la défaillance d’un foyer lumineux ou de son alimentation n’ait pas pour effet
+de priver intégralement le local d’éclairage normal.
+
+9.2. Pour les établissements d’une surface supérieure à 3.000 m², un éclairage de
+remplacement devra être mis en œuvre conformément à l’article 9.2 des dispositions
+générales.
+
+Art. 10 Désenfumage (Evacuation de fumée et de chaleur)
+10.1. Les salles de 2ème et 4ème catégorie d'une surface supérieure à 300 m² doivent être
+désenfumées.
+
+10.2. Les salles de 2ème et 4ème catégorie, d'une surface supérieure à 150 m² situées en sous-
+sol, doivent être désenfumées. Ce désenfumage devra obligatoirement être mécanique et
+asservi à la détection incendie. Toutefois si ces salles sont équipées de fenêtres et/ou de cours
+anglaises en nombre suffisant et correctement situées, le désenfumage pourra être naturel.
+
+ Page 7 sur 13 pages                                                               ITM-SST 1507.2
+10.3. Les salles de 1ère catégorie d'une surface supérieure à 300 m² peuvent être désenfumées à
+la demande des autorités compétentes.
+
+10.4. Les cages de scène lorsque celles-ci ne sont pas intégrées au volume de la salle seront
+désenfumées au niveau du cintre.
+
+10.5. Les espaces et volumes situés sur plusieurs niveaux mis en communication par des
+escaliers non compartimentés, seront désenfumés.
+
+10.6. Le désenfumage des salles situées en étage ou en rez-de-chaussée peut être naturel ou
+mécanique.
+
+10.7. Les salles devront être recoupées par des écrans de fumées tous les 1.600 m² formant
+ainsi des cantons dont les dimensions ne pourront excéder 40 m.
+
+Art. 11 Installations techniques
+11.1. Ventilation et chauffage
+11.1.1. Un système de ventilation naturelle, mécanique ou mixte, doit être prévu dans les
+salles et locaux ouverts au public pour empêcher une élévation exagérée de la température et
+pour renouveler l'air ambiant de façon à ne pas incommoder les personnes présentes.
+11.1.2. Les installations de chauffage doivent être établies et aménagées suivant les règles de
+l'art et de telle sorte qu'il n'en résulte ni des incommodités pour le public ni des risques
+d’incendie.
+11.1.3. Les appareils de chauffage comportant des flammes nues en contact direct avec
+l'atmosphère ainsi que les appareils chauffant par rayonnage sont interdits dans les salles et
+locaux recevant du public.
+11.1.4. Les dépôts de combustibles liquides (mazout, gasoils, fuels, etc.) ou gazeux (propane,
+butane) sont soumis à autorisation spéciale suivant la législation réglant la matière.
+
+11.2. Installations scéniques
+Les installations scéniques sont à concevoir, à construire et à réceptionner selon les normes et
+prescriptions énumérées ci-dessous respectivement selon des prescriptions équivalentes:
+
+       EN ISO 12100-1            Sicherheit von Maschinen - Grundbegriffe, allgemeine
+                                 Gestaltungsleitsätze Teil 1: Grundsätzliche Terminologie,
+                                 Methodologie
+       EN ISO 12100-2            Sicherheit von Maschinen - Grundbegriffe, allgemeine
+                                 Gestaltungsleitsätze Teil 2: Technische Leitsätze
+       EN ISO 13849-1            Sicherheit von Maschinen – Sicherheitsbezogene Teile von
+                                 Steuerungen –Teil 1: Allgemeine Gestaltungsleitsätze
+       EN ISO 13849-2            Sicherheitsbezogene Teile von Steuerungen Teil 2:
+                                 Validierung
+       EN ISO 13850              Sicherheit von Maschinen – Not-Halt – Gestaltungsleitsätze
+       EN ISO 13857              Sicherheit von Maschinen - Sicherheitsabstände gegen das
+                                 Erreichen von Gefährdungsbereichen mit den oberen und
+                                 unteren Gliedmassen
+       EN 60204-1                Sicherheit von Maschinen, elektrische Ausrüstung
+       EN 61508                  Funktionale Sicherheit sicherheitsbezogener elektrischer-
+                                 elektronischer / programmierbarer Systeme
+ Page 8 sur 13 pages                                                             ITM-SST 1507.2
+       DIN 56950                Veranstaltungstechnik - Maschinentechnische Einrichtungen
+                                - Sicherheitstechnische Anforderungen und Prüfung
+       BGV C1 (GUV 6.15)        Unfallverhütungsvorschrift-Veranstaltungs-und
+                                Produktionsstätten für szenische Darstellung (April 1998)
+       DIN EN 60204-1           Sicherheit von Machinen ; Elektrische Ausrüstung
+       DIN V 19250              Grundlegende Sicherheitsbetrachtungen für MSR-
+                                Schutzeinrichtungen
+       DIN V VDE 0801           Grundsätze für Rechner in Systemen mit Sicherheitsaufgaben
+       DIN V VDE 0801A1         Grundsätze für Rechner in Systemen mit
+                                Sicherheitsaufgaben, ÄnderungA1: 1994-10
+       DIN VDE 0116             Elektrische Ausrüstung von Feuerungsanlagen (10/89)
+       GUV 66.15                Grundsätze für die Prüfung von sicherheitstechnischen und
+                                maschinentechnischen Einrichtungen in Bühnen und Studios
+
+11.3. Installations techniques particulières
+11.3.1. Toute manifestation nécessitant l'emploi d'artifices, de flammes ou tout autre produit
+dangereux doit faire l'objet d'une déclaration à l'autorité compétente. Elle ne pourra être
+autorisée que si des mesures de sécurité, appropriées aux risques sont prises.
+11.3.2. Les salles équipées d'installations techniques particulières afin de créer des effets
+spéciaux, lumières, brouillard, fumées, … doivent également faire l'objet d'une déclaration.
+Ces installations techniques doivent être en outre conformes aux normes en vigueur.
+
+11.4. Appareils de cuisson
+11.4.1. Les appareils de cuisson fonctionnant au gaz sont formellement interdits dans tous les
+établissements.
+
+11.5. Appareils de projection
+L’appareil de projection, de conception moderne, doit posséder les perfectionnements voulus
+au point de vue sécurité et doit répondre aux normes en vigueur dans les pays de la
+communauté européenne.
+
+Art. 12 Installations au gaz
+Voir dispositions générales.
+
+Art. 13 Installations électriques
+Voir dispositions générales.
+
+
+
+
+ Page 9 sur 13 pages                                                           ITM-SST 1507.2
+Art. 14 Prévention de panique en cas d'alarme
+Voir dispositions générales.
+
+Art. 15 Moyens de secours et d'intervention
+15.1. Robinets d’incendie armés
+15.1.1. Tout établissement comportant une scène dont la surface est supérieure à 150 m² devra
+disposer à proximité de celle-ci d'au moins un robinet d'incendie armé de tuyaux et d'une
+lance d'incendie.
+15.1.2. Dans le cadre des bâtiments bas, les établissements, de 4ème catégorie et de 2ème
+catégorie dont la surface est supérieure à 600 m², devront être équipés de R.I.A.
+conformément aux articles 15.3.1 et suivants des dispositions générales.
+
+15.2. Extinction automatique
+15.2.1. Une installation d'extinction automatique peut être imposée par les autorités
+compétentes, en référence à l'article 15.5 des dispositions générales.
+15.2.2. Les vestiaires directement ouverts sur les halls et zones d'accueil doivent être équipés
+d'une installation d'extinction automatique pouvant être alimentée directement par le réseau de
+distribution d'eau potable.
+
+15.3. Installation de détection incendie
+Les établissements de 1ère, 2ème et 4ème catégorie devront être équipés d'un système de
+détection incendie équipant tous les locaux.
+
+15.4. Alerte
+15.4.1. L'établissement doit disposer d'un ou de plusieurs postes de téléphone permettant
+d'alerter directement les services de secours.
+15.4.2. Une pancarte doit être affichée d'une manière très apparente à proximité des postes de
+téléphone et indiquer les numéros d'appel des services de secours compétents.
+
+15.5. Alarme
+15.5.1. Pour les établissements de 4ème catégorie, le fonctionnement de l'alarme générale doit
+être interrompu par diffusion d'un message préenregistré préconisant en clair l'ordre
+d'évacuation. Il doit également mettre à l'arrêt la sonorisation et commander la mise en
+lumière normale ou d'ambiance.
+15.5.2. Toutefois, les établissements de 2ème et 4ème catégorie comprenant au moins deux salles
+(commentaire : pour un théâtre, il s’agit par exemple de l’espace théâtre et de l’espace hall
+d’entrée - foyer - espace de réception, d’exposition, qui est à considérer comme une deuxième
+salle), devront être équipés d’une alarme restreinte adressée au service de garde de sécurité et
+le cas échéant au chef du plateau qui prendra alors toutes les dispositions pour évacuer le
+public sans panique ou qui prendra la décision de donner l’alarme sélective ou générale.
+15.5.3. L’installation d’alarme devra être conforme à la norme EN 60849.
+
+15.6. Service de sécurité incendie
+Le service de sécurité incendie sera composé, en fonction de l’effectif théorique, selon le
+tableau suivant :
+
+ Page 10 sur 13 pages                                                             ITM-SST 1507.2
+                                                                 Effectif
+Niveau de qualification
+                                          < 1500           1500 - 3000                     > 3000
+
+ Préposé à la sécurité                                                1
+   Agents de sécurité
+                                                                                                  1
+       Type M1
+   Agents de sécurité
+                                                                 1                                1
+       Type M2
+                                                                      1
+  Agents de sécurité
+                                            (S’y ajoute le service de garde de sécurité lors des
+      Type M3
+                                                 manifestations cf. article 15.7 ci-dessous)
+
+
+15.7. Service de garde de sécurité
+15.7.1. L'exploitant et/ou l'organisateur de spectacles doivent prendre toutes les mesures
+nécessaires pour organiser un service de garde de sécurité sous la responsabilité du préposé à
+la sécurité. Celui-ci devra être en mesure d'assurer une première intervention en cas d'incendie
+et les premiers secours en cas de malaise.
+15.7.2. L'effectif minimal de ce service est défini dans l'annexe 1, il sera calculé à partir de
+l'effectif théorique ou de l'effectif réel si celui-ci est supérieur au théorique.
+15.7.3. La composition de ce service est à coordonner avec les services de secours
+compétents.
+15.7.4. Le personnel formant ce service de garde devra avoir été formé aux premiers secours,
+à la manipulation des extincteurs et R.I.A., et aux mesures à prendre quant à la gestion de
+l'évacuation des personnes.
+15.7.5. Pour un effectif inférieur à 1.000 personnes, le service de garde est mis à disposition
+par l'exploitant et/ou l'organisateur.
+15.7.6. Pour un effectif supérieur à 1.000 personnes, l'organisation du service de garde est à
+assurer en collaboration avec les services de secours.
+
+Art. 16 Registre de sécurité
+Voir dispositions générales.
+
+Art. 17 Réceptions et contrôles
+Les rapports de contrôles spécifiques avant ouverture au public doivent être disponibles dans
+l'établissement, être portés à la connaissance du service de garde de sécurité et figurer dans le
+registre de sécurité.
+
+
+             Visa du Directeur adjoint                          Mise en vigueur, le 26.10.2012
+             De l’Inspection du travail
+                    et des mines                                                 s.
+
+                         s.                                                Paul WEBER
+                                                                             Directeur
+                Robert HUBERTY                                       de l’Inspection du travail
+                                                                            et des mines
+
+
+
+
+ Page 11 sur 13 pages                                                                        ITM-SST 1507.2
+                                         ANNEXE I
+
+         Méthode de calcul de l'effectif du service de garde de sécurité
+
+         Effectif théorique (Z1)
+
+          Nombre de personnes admises                     points (Z1)
+                        300-500                                2
+                       501-1.000                               4
+                      1.001-1.500                              6
+                      1.501-3.000                              8
+                      3.001-6.000                             10
+                     6.001-10.000                             12
+                     10001-20000                              14
+               chaque tranche de 10000                         2
+
+         Effectif réel (Z2)
+
+          Chaque tranche de 500 personnes                    1 point
+
+
+         Facteur de risque multiplicateur (f) suivant manifestation
+          Manifestation                           facteur multiplicateur (f)
+          Bal, soirée carnavalesque                          0,50
+          Cirque                                             0,30
+          Concert (harmonies, jazz, blues), shows            0,35
+          Concert boy group                                  1,40
+          Concert rock / pop (position assise)               0,33
+          Concert rock / pop (position debout)               1,00
+                     exposition, foire                       0,20
+                     fête populaire                          0,40
+                     manifestation sportive                  0,20
+          Théâtre, conservatoire, philharmonie              0,20
+
+
+
+          Formule de calcul de points Z3:               Z3 = (Z1 + Z2) x f
+
+
+         Evaluation du nombre de secouristes de garde
+          Points Z3                               secouristes (pompiers)
+                           0,1 - 2,0                    pas de garde
+                           2,1 - 4,0                        ( 3 )*
+                          4,1 - 13,5                           5
+                         13,6 - 22,0                          10
+                         22,1 - 40,0                          20
+                         40,1 - 60,0                          30
+                         60,1 - 80,0                          40
+                        80,1 - 100,0                          80
+                       100,1 - 120,0                         120
+         *Décision à prendre par les services de secours
+Page 12 sur 13 pages                                                           ITM-SST 1507.2
+         Evaluation du nombre de brancards
+         (dans infirmerie ou présence d'ambulances)
+
+          Points                                   nombre de brancards
+                          0,1 - 6,0                    pas d'infirmerie
+                         6,1 - 25,5                           1
+                        25,6 - 45,5                           2
+                        45,5 - 60,5                           3
+                        60,6 - 75,5                           4
+                       75,6 - 100,0                           5
+                       plus que 100                           6
+
+
+
+
+         Présence de sapeurs-pompiers souhaitée
+
+         Manifestation                             présence
+         Bal, soirée carnavalesque                             non
+         Cirque                                                oui
+         Concert (harmonies, jazz, blues), shows               non
+         Concert boy group                                     oui
+         Concert rock / pop (position assise)                  oui
+         Concert rock / pop (position debout)                  oui
+         Exposition, foire                                     non
+         Fête populaire                                       (oui)
+         Manifestation sportive                                non
+         Théâtre, conservatoire, philharmonie                  non
+
+
+
+
+Page 13 sur 13 pages                                                      ITM-SST 1507.2
+

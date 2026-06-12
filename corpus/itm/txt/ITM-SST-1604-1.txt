@@ -1,0 +1,632 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                  Strassen, juillet 2014
+
+
+
+                                                                                                 ITM-SST 1604.1
+                                                                                                 (Ancien N° ITM-CL 636.1)
+
+
+                       Vorschriften zur betrieblichen Sicherheit
+                               von Dialysestationen in
+                       Einrichtungen des Gesundheitswesens
+                                                                      (14 Seiten)
+
+                                                             Inhaltsverzeichnis
+    Kapitel                                                                                                                           Seite
+
+    1. Gesetzliche Grundlagen .................................................................................................... 2
+    2. Gegenstand und Anwendungsbereich ............................................................................... 2
+    3. Begriffsbestimmungen ....................................................................................................... 2
+    4. Anforderungen an Räumlichkeiten und Ausstattung .......................................................... 3
+        4.1. Allgemein .................................................................................................................... 3
+        4.2. Besondere Anforderungen an Dialysezimmer ............................................................. 5
+        4.3. Besondere Anforderungen an Isolierzimmer ............................................................... 5
+        4.4. Zentrale Versorgungsanlagen für Permeat/Konzentrat................................................ 6
+    5. Reinigung und Desinfektion ............................................................................................... 6
+        5.1. Allgemein .................................................................................................................... 6
+        5.2. Besondere Maßnahmen betreffend der Aufbereitung von Geräten und
+             Installationen unter Verwendung von Peressigsäure und Hypochloritlösungen ........... 7
+        5.3. Besondere Maßnahmen betreffend der Aufbereitung mit heißen organischen
+             Säuren ........................................................................................................................ 8
+        5.4. Besondere Maßnahmen betreffend aldehydhaltiger Reinigungs- und
+             Desinfektionsmitteln .................................................................................................... 8
+    6. Organisatorische Anforderungen ....................................................................................... 8
+    7. Persönliche Hygienemaßnahmen ...................................................................................... 9
+    8. Entsorgung .......................................................................................................................10
+    9. Ergonomie ........................................................................................................................11
+    10. Schulung und Betriebsanweisungen ...............................................................................11
+    11. Notfallplan ......................................................................................................................12
+    12. Arbeitsmedizinische Betreuung ......................................................................................12
+    13. Wiederkehrende Prüfungen ............................................................................................12
+
+           Anhang .......................................................................................................................... 14
+    ___________________________________________________________________________________________________________________________
+    Direction
+    Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+    Bureaux : 3, rue des Primeurs, L-2361 Strassen   Tél: 247-86213    Fax: 49 14 47
+    Site Internet : http://www.itm.lu
+1. Gesetzliche Grundlagen
+
+  (1)    Der Code du Travail sowie die einschlägigen „règlements grand-ducaux“ sind zu
+         beachten.
+  (2)    Des Weiteren sind die Empfehlungen zur Unfallverhütung der Association
+         d'Assurance Accidents (AAA) zu beachten.
+  (3)    Europäische Normen (EN) sind anzuwenden, so wie sie erscheinen und nationale
+         Vorschriften ersetzen.
+2. Gegenstand und Anwendungsbereich
+
+  (1)    Diese Vorschriften           gelten     für    Dialysestationen1)      in   Einrichtungen      des
+         Gesundheitswesens.
+  (2)    Erleichterungen oder Befreiungen hinsichtlich der in dieser Vorschrift definierten
+         Anforderungen können in begründeten Einzelfällen bewilligt werden, sofern
+         geeignete Ersatzmaßnahmen vorgeschlagen und umgesetzt werden, welche ein
+         mindestens gleich hohes Sicherheitsniveau gewährleisten.
+
+
+3. Begriffsbestimmungen
+  (1)    Unter    Dialysestationen    werden    Einheiten    verstanden,     in    welchen
+         Dialysebehandlungen, d.h. Behandlungsmethoden zur Entfernung harnpflichtiger
+         Substanzen, sonstiger Stoffwechsel(end)produkte und Wasser aus dem Organismus
+         von Patienten unter Anwendung bestimmter Blutreinigungsverfahren2) erfolgen.
+  (2)    Unter gelber Dialyse wird die Durchführung von Dialysebehandlungen an Patienten
+         verstanden, welche bekanntermaßen Träger des Hepatitis-B-Virus (HBV) sind.
+  (3)    Unter grauer Dialyse wird die Durchführung von Dialyse-Behandlungen an Patienten
+         verstanden, welche bekanntermaßen Träger des Hepatitis-C-Virus (HCV) sind.
+  (4)    Unter infektiöser Dialyse wird die Durchführung von Dialyse-Behandlungen an
+         Patienten verstanden, welche bekanntermaßen mit einer übertragbaren Krankheit
+         kolonisiert bzw. infiziert sind, welche eine Einzelunterbringung respektive eine
+         gesonderte Isolationsbehandlung erforderlich macht (z.B. MRE [MRSA, VRE,
+         MRGN…] sowie HIV und TBC).
+  (5)    Unter weißer Dialyse wird die Durchführung von Dialyse-Behandlungen an Patienten
+         verstanden, welche nicht mit einer der vorgenannten Krankheiten infiziert sind.
+  (6)    Unter Isolierzimmern werden im Rahmen dieser Vorschrift Zimmer verstanden, in
+         welchen Patienten die mit übertragbaren Krankheiten gemäß Absatz (4) kolonisiert
+         bzw. infiziert sind, zum Schutze des Personals und anderer Patienten isoliert werden.
+  (7)    Unter Bereichskleidung wird Arbeitskleidung verstanden, welche ausschließlich in
+         einem bestimmten Bereich getragen wird. In der Regel weisen solche Bereiche eine
+         erhöhte Infektionsgefährdung auf, d.h. es handelt sich um „Risikobereiche“. Die
+         Bereichskleidung darf daher nicht außerhalb des betreffenden Bereiches getragen
+
+1) gleichbedeutend mit Dialyseabteilungen, Dialyseeinheiten etc.
+
+2) insbesondere Hämodialyse und Peritonealdialyse sowie auch Hämofiltration und Hämodiafiltration
+
+
+
+
+ITM-SST 1604.1                                                                          Seite 2 von 14 Seiten
+        werden, sondern muss beim Verlassen des Bereiches abgelegt werden. In
+        Ausnahmefällen ist es möglich beim Verlassen des Bereiches die Bereichskleidung
+        anzubehalten, wenn darüber ein „externer“, geschlossener Schutzkittel getragen
+        wird. Externe Schutzkittel müssen sich deutlich von internen Schutzkitteln unter-
+        scheiden (z.B. farbliche Kennzeichnung) und müssen getrennt von diesen
+        aufbewahrt werden.
+  (8)   Unter Schutzkleidung wird Kleidung verstanden, welche bei der Durchführung
+        bestimmter Tätigkeiten zur Erhöhung des Schutzes getragen wird (analog zu persön-
+        licher Schutzausrüstung, z.B. Schutzkittel, Schutzhandschuhe, Schutzhaube,
+        Schutzmaske, Schutzbrille/-visier etc.) Schutzkleidung muss nach Beendigung der
+        entsprechenden Tätigkeiten abgeworfen/abgelegt werden.
+
+
+4. Anforderungen an Räumlichkeiten und Ausstattung
+
+4.1.    Allgemein
+  (1)   Bei Dialysestationen muss es sich um einen eindeutig abgegrenzten Bereich
+        handeln.
+  (2)   Dialysestation müssen die folgenden Räumlichkeiten, bzw. Zonen umfassen:
+         Dialysezimmer/Behandlungsräume für infektiöse und nichtinfektiöse Patienten
+         Laborarbeitsplatz
+         Verbandraum (wenn innerhalb der Dialysestation Wundversorgung erfolgt)
+         Präparationsraum für Genius-Dialyse (falls diese durchgeführt wird)
+         Reine Arbeitsräume
+         Unreine Arbeitsräume3)
+         Putzraum
+         Entsorgungsraum (möglichst zwei, d.h. ein zusätzlicher Entsorgungsraum für
+          infektiöse Dialyse)
+         Lagerräume mit geeigneten Lagereinrichtungen für die benötigten Materialien und
+          Geräte
+         Dienstzimmer für Ärzte und Pflegepersonal
+         Personalaufenthaltsraum4)
+         Sanitäre Anlagen für das Personal
+         Patientenräume/-bereiche
+            Warteraum/-zone
+            Raum zur Vorbereitung von Speisen
+
+3) Mindestausstattung: Handwaschbecken mit Hygieneset, dampfdesinfizierendes Steckbeckenspülgerät,
+Ausgussbecken mit Ringspülung, Abfallabwurf, Dosiergerät für Flächendesinfektionsmittel (falls keine
+Beuteldosierung), Bodenbelag mit Rutschhemmung entsprechend Bewertungsklasse R11, Zwangsbe- und
+Entlüftung
+4) Ausstattung mit einem Handwaschbecken mit Hygieneset. Falls im Aufenthaltsraum auch gespült wird, muss
+   ein zusätzliches Spülbecken oder eine Spülmaschine vorhanden sein.
+
+
+
+
+ITM-SST 1604.1                                                                       Seite 3 von 14 Seiten
+            Speiseraum (eventuell kombiniert mit Warteraum/-zone)
+            Umkleideraum
+            Sanitäre Anlagen – auch für gehbehinderte Personen
+            gesonderte Toilette für infektiöse Patienten (z.B. mit CDAD)
+
+        Des Weiteren müssen die folgenden Räume vorhanden sein, sofern keine
+        entsprechenden Räume im näheren Umfeld mitgenutzt werden können:
+         Untersuchungsraum
+         Eingriffraum (zur Durchführung von sterilen Eingriffen)
+         Reanimationsraum
+        Gegebenenfalls können weitere Räume erforderlich sein, z.B. Raum für HD/PD-
+        Training.
+  (3)   Dem in Dialyseabteilungen beschäftigten Personal müssen separate Umkleiden zur
+        Verfügung gestellt werden. Die Umkleiden müssen den Vorschriften ITM-SST 1601
+        „Umkleiden in Einrichtungen des Gesundheitswesens“ entsprechen. Die Umkleiden
+        sollen räumlich an die Dialysestation angegliedert sein, so dass die Dialysestation bei
+        Arbeitsbeginn über die Umkleiden betreten und bei Arbeitsende über diese verlassen
+        wird.
+  (4)   Es muss eine ausreichende Anzahl an Isolierzimmern, bzw. an isolierten
+        Behandlungsplätzen zur Durchführung grauer, gelber oder infektiöser Dialyse
+        vorhanden sein. Es obliegt dem Betreiber die genaue Anzahl solcher Zimmer bzw.
+        Behandlungsplätze eigenverantwortlich festzulegen.
+  (5)   Es müssen die folgenden technischen Räume zur Verfügung stehen, welche sich
+        auch außerhalb der eigentlichen Dialysestation befinden können:
+         Technikraum (z.B. für zentrale Konzentratversorgung, Lagerung von Konzentraten
+          etc.)
+         Raum für E-Technik
+         Raum für Wasseraufbereitung (kombinierbar mit Technikraum)
+         Raum      zur    Durchführung     von    Wartungs-    und/oder     besonderen
+                                                     5)
+          Desinfektionsarbeiten an den Dialysegeräten , mit Anschlüssen für HD- und PD-
+          Geräten.
+  (6)   Wenn Patienten zur Heimdialyse angeleitet werden (z.B. APD6)), muss ein
+        entsprechender Trainingsraum vorhanden sein.
+  (7)   Wenn auch Kinder dialysiert werden,                   muss     zusätzlicher    Platzbedarf     für
+        Begleitpersonen berücksichtig werden.
+  (8)   Wandflächen und Fußböden von Räumen, in welchen mit potentiell kontaminierten
+        Materialien umgegangen wird, müssen glatt, dicht, abwaschbar und mit
+        Desinfektionsmitteln desinfizierbar sein.
+
+
+
+5) Zwangsbe- und Entlüftung, rutschfester Boden mindestens Rutschfestigkeit R10
+
+6) APD = Ambulante Peritonealdialyse
+
+
+
+
+ITM-SST 1604.1                                                                        Seite 4 von 14 Seiten
+        Die Bodenbeläge in solchen Räumen sind mit Hohlkehlen an die Wandbeläge
+        anschließen.
+        Die Oberflächen von festen Einbauten und Inventar müssen leicht zu reinigen und so
+        beschaffen sein, dass eine regelmäßige Desinfektion möglich ist.
+        Zwischenräume von festen Einbauten zu Fußböden, Wänden oder Decken müssen
+        fugendicht verschlossen sein, sofern diese nicht einer einfachen Reinigung und
+        Desinfektion zugänglich sind.
+  (9)   Alle Verglasungen in Wänden oder Türen müssen bis zu einer Höhe von mindestens
+        2,1 m aus Sicherheitsglas bestehen.
+  (10) Im Falle von Doppelverglasungen in Türen oder Wänden müssen die einzelnen
+       Scheiben entweder dicht miteinander verbunden sein oder die Verglasung muss so
+       ausgeführt sein, dass eine Scheibe zum Reinigen des Zwischenraumes geöffnet
+       werden kann
+
+4.2.    Besondere Anforderungen an Dialysezimmer
+  (1)   Alle von der Sonne beaufschlagten Fenster der Dialysezimmer müssen mit einem
+        wirksamen Sonnenschutz ausgestattet sein.7)
+  (2)   Die Dialysezimmer müssen über eine Zwangsbe- und -entlüftung verfügen.
+  (3)   In jedem Dialysezimmer muss ein Handwaschbecken ohne Überlauf mit einer
+        handberührungsfrei bedienbaren Armatur und einem Hygieneset vorhanden sein. Der
+        Wasserstrahl darf nicht direkt in den Auslauf gerichtet sein.
+  (4)   In den Dialysezimmern müssen gesonderte Schränke und Ablagen für das Lagern
+        und Vorbereiten häufig benötigter Materialien vorhanden sein.
+  (5)   Je Dialysezimmer dürfen maximal 6 Behandlungsplätze vorhanden sein. Es wird
+        jedoch empfohlen die Anzahl der Behandlungsplätze auf 4 Stück pro Zimmer zu
+        limitieren.
+  (6)   Der Abstand zwischen zwei Behandlungsplätzen (Betten) muss mindestens 2 m
+        betragen um z.B. Liegendkrankentransporte problemlos zu ermöglichen.
+  (7)   Die Behandlungsplätze (Betten) müssen von drei Seiten zugänglich sein.
+  (8)   Es muss eine Medienschiene mit den erforderlichen Anschlüssen (z.B. medizinische
+        Gase, Licht, Schwesternruf etc.) vorhanden sein.
+  (9)   An den Behandlungsplätzen müssen leicht erreichbare, mit Anschlusskupplungen
+        versehene Ver- und Entsorgungsanschlüsse vorhanden sein.
+  (10) Die Abläufe für Dialysierflüssigkeit müssen vom Abwassernetz getrennt sein
+       (Rohrtrennung). Die Abläufe müssen so gestaltet sein, dass dies leicht zu reinigen
+       sind.
+  (11) Heizkörper und Luftdurchlässe müssen leicht zu reinigen sein.
+  (12) Für Isolierzimmer gelten zusätzliche Anforderungen.
+
+4.3.    Besondere Anforderungen an Isolierzimmer
+Zusätzlich zu den im vorgenannten Kapitel genannten Anforderungen an Dialysezimmer
+gelten besondere Anforderungen an Isolierzimmer.
+
+7) gegen Blendwirkung und lokale Wärmeeinstrahlung
+
+
+
+
+ITM-SST 1604.1                                                          Seite 5 von 14 Seiten
+  (1)   Isolierzimmer müssen mit Schleusen ausgestattet sein.
+  (2)   Die Schleusen von Isolierzimmern müssen wie folgt ausgestattet sein:
+  (3)   Handwaschbecken mit Hygieneset8)
+  (4)   geschlossener Schrank mit einem Vorrat an Schutzkleidung und sonstiger
+        persönlicher Schutzausrüstung9)
+  (5)   Hakenleiste
+  (6)   Wäscheabwurf (falls sich dieser nicht innerhalb des Isolierzimmers befindet)
+  (7)   Abwurf für Abfall
+  (8)   Steckbeckenspülgerät (alternativ ist auch der Einbau in einem der Isoliereinheit
+        zugeordnetem, unreinem Arbeitsraum möglich)
+  (9)   Die Schleusen von Isolierzimmern müssen gegenüber dem angrenzenden Flur im
+        Unterdruck und zum Zimmer hin im Überdruck gehalten werden, wenn es sich bei der
+        Infektion des isolierten Patienten um einen aerogen übertragbaren Krankheitserreger
+        handelt.
+
+4.4. Zentrale Versorgungsanlagen für Permeat/Konzentrat
+  (1)   Die Leitungsführung muss so sein, dass in Fließrichtung die folgende Reihenfolge
+        eingehalten wird: weiße Dialyse  Technikerarbeitsplätze  infektiöse Dialyse 
+        graue Dialyse  gelbe Dialyse
+  (2)   Die Leitungen von Zentralversorgungsanlagen sind kurz zu halten und als
+        Ringleitungen (z.B. für Permeat) bis möglichst nah an den Geräteeingang
+        auszuführen. Stich- oder Blindleitungen müssen vermieden werden.
+  (3)   Die Versorgungsnetze einschließlich aller Armaturen und Messvorrichtungen müssen
+        zur Durchführung heißer Desinfektionen mit organischen Säuren geeignet sein.
+  (4)   Zur heißen Desinfektion der Leitungen muss eine zentrale Pumpe installiert oder am
+        System konnektierbar sein.
+  (5)   Bei der Durchführung von Tätigkeiten die mit Heben und Tragen verbunden sind (z.B.
+        beim Nachfüllen von Regenerationssalz an einer Enthärtungsanlage) ist das
+        „Règlement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales
+        de sécurité et de santé relatives à la manutention manuelle des charges comportant
+        des risques, notamment dorso-lombaires, pour les travailleurs“ zu beachten.
+
+
+5. Reinigung und Desinfektion
+
+5.1.    Allgemein
+  (1)   Durch den Betreiber muss ein Hygieneplan zur desinfizierenden Reinigung von
+        Räumen, Einrichtungen und Geräten erstellt werden (Erklärungen zum Hygieneplan
+        siehe Anhang).
+
+
+8) Handwaschbecken ohne Überlauf und mit handberührungsfrei bedienbaren Armaturen. Hygieneset bestehend
+   aus: Spendern mit Waschlotion, Händedesinfektionsmittel, Hautpflegemittel und Einmalhandtüchern sowie
+   einem Handtuchabwurf. Der Wasserstrahl darf nicht direkt in den Auslauf gerichtet sein.
+9) z.B. Handschuhe, Gesichtsmaske, Kopfhaube etc.
+
+
+
+
+ITM-SST 1604.1                                                                     Seite 6 von 14 Seiten
+  (2)   Die im Hygieneplan aufgeführten, täglichen Aufbereitungsmaßnahmen sind in Form
+        eines „Desinfektionsplans“ in kurz gefasster Darstellung innerhalb der
+        Dialyseabteilung an geeigneten Stellen auszuhängen.
+  (3)   Die Wirksamkeit der Reinigungs- und Desinfektionsmaßnahmen muss regelmäßig
+        kontrolliert werden.
+  (4)   Die Oberflächen in Arbeitsbereichen müssen leicht zu reinigen und für
+        Reinigungsarbeiten gut zugänglich sein. Sie müssen wasserundurchlässig und
+        gegenüber den verwendeten Reinigungs- und Desinfektionsmitteln beständig sein.
+  (5)   Die Sitzflächen von Stühlen sowie sonstige Polsterungen müssen flüssigkeitsdicht
+        und abwaschbar sein.
+  (6)   Die Tastaturen sowie sonstige Bedienungsvorrichtungen von Computern müssen
+        abwaschbar sein.
+  (7)   Die Dosierung von Flächendesinfektionsmittel muss mittels Dosiergeräten oder
+        mittels Beuteldosierung erfolgen.
+  (8)   Dialysegeräte müssen nach jedem Patienten einer Wischdesinfektion der
+        Oberflächen sowie der Desinfektion des Kreislaufs mit validierten Verfahren gemäß
+        Herstellerangaben unterzogen werden. Bei Anwendung chemischer oder
+        chemothermischer Verfahren darf eine Freigabe des Gerätes erst nach
+        dokumentierter Kontrolle auf Desinfektionsmittelfreiheit erfolgen.
+
+5.2.    Besondere Maßnahmen betreffend der Aufbereitung von Geräten und
+Installationen unter Verwendung von Peressigsäure und Hypochloritlösungen
+  (1)   Die Verwendung peressigsäurehaltiger oder hypochlorithaltiger Mittel ist möglichst zu
+        vermeiden, bzw. auf den minimal erforderlichen Umfang zu beschränken.
+  (2)   Peressigsäure und Hypochloritlösungen müssen getrennt voneinander gelagert
+        werden. Bei Lagerung im gleichen Raum, müssen getrennte Auffangwannen
+        vorhanden sein.
+  (3)   Peressigsäure muss getrennt von brennbaren Stoffen gelagert werden und darf bei
+        Verschütten nicht mit brennbaren Materialien aufgenommen werden.
+  (4)   In Lagerräumen mit Peressigsäure und/oder Hypochloritlösungen müssen geeignete
+        Bindemittel vorrätig gehalten werden. Ausgelaufene Konzentrate müssen umgehend
+        mit Bindemittel aufgenommen werden (Schutzmaßnahmen beachten).
+  (5)   Die Lagermengen von Peressigsäure und Hypochloritlösungen müssen möglichst
+        gering gehalten werden.
+  (6)   Lagerräume zur Lagerung von Peressigsäure und Hypochloritlösungen müssen mit
+        einer Zwangslüftung mit einem mindestens 5-fachen Raumluftwechsel pro Stunde
+        ausgestattet sein.
+  (7)   Peressigsäure und Hypochloritlösungen dürfen nur getrennt voneinander gehandhabt
+        werden.
+  (8)   Werden Peressigsäure und Hypochloritlösungen nacheinander im gleichen Gerät
+        verwendet, so muss dieses vor der Anwendung des zweiten Mittels sorgfältig
+        freigespült werden.
+  (9)   Bei Verwendung von Peressigsäure           und    Hypochloritlösungen    muss     eine
+        ausreichende Lüftung gewährleistet sein.
+
+
+
+
+ITM-SST 1604.1                                                            Seite 7 von 14 Seiten
+  (10) Beim Umgang mit Peressigsäure und Hypochloritlösungen müssen geeignete
+       Gummihandschuhe, eine dicht schließende Schutzbrille mit Seitenschutz sowie
+       gegebenenfalls Schutzkleidung getragen werden (z.B. Schürze). Benetzte Kleidung
+       muss umgehend abgelegt werden.
+  (11) Reste von Peressigsäure und Hypochloritlösungen dürfen nicht miteinander ver-
+       mischt werden. Diese sind getrennt zu sammeln und als Sonderabfall zu entsorgen.
+  (12) Reste von Peressigsäure dürfen nicht in den Vorratsbehälter zurückgeschüttet
+       werden (Zersetzungsgefahr durch Verunreinigungen).
+  (13) Beim Auftreten von Dämpfen im Umgang mit Peressigsäure und Hypochloritlösungen
+       muss eine Maske mit entsprechend geeignetem Filter verwendet werden.
+
+5.3. Besondere Maßnahmen betreffend der Aufbereitung mit heißen organischen
+Säuren
+  (1)   Beim Umgang mit organischen Säuren muss eine ausreichende Lüftung gewähr-
+        leistet sein.
+  (2)   Beim Umgang mit organischen Säuren müssen geeignete Handschuhe und eine
+        dicht schließende Schutzbrille mit Seitenschutz getragen werden. Dies gilt
+        insbesondere auch beim Anschluss von Kartuschen mit Desinfektionsmittel an
+        Dialysegeräte.
+  (3)   Beim Auftreten von Dämpfen im Umgang mit organischen Säuren muss eine Maske
+        mit entsprechend geeignetem Filter verwendet werden.
+
+5.4. Besondere     Maßnahmen         betreffend    aldehydhaltiger    Reinigungs-        und
+Desinfektionsmitteln
+  (1)   Die Verwendung formaldehydhaltiger Reinigungs- und Desinfektionsmittel ist auf
+        Anwendungen zu beschränken, bei denen die Anwendung entsprechender Wirkstoffe
+        aus hygienischen Gründen erforderlich ist und geeignete Ersatzmittel nicht zur
+        Verfügung stehen.
+  (2)   Beim Umgang mit aldehydhaltigen Reinigungs- und Desinfektionsmittel sind jeder
+        Kontakt mit der Haut (Verwendung von Schutzkleidung, geeigneten
+        Schutzhandschuhe etc.) sowie das Einatmen aldehydhaltiger Dämpfe zu vermeiden
+        (Verwendung von Masken mit geeigneten Filtern).
+
+
+6. Organisatorische Anforderungen
+  (1)   Dem in Dialysestationen beschäftigten Personal müssen separate Umkleiden zur
+        Verfügung gestellt werden (siehe dazu Kapitel 4.1 Satz (3)).
+  (2)   Innerhalb der Dialysestation muss Bereichskleidung getragen werden, welche sich
+        von der Kleidung des sonstigen medizinischen und medizintechnischen Personals
+        deutlich unterscheidet (z.B. durch die Farbe).
+  (3)   Es wird darüber hinaus empfohlen, dass innerhalb der Dialyseabteilung eine weitere,
+        z.B. farbliche Trennung in Personal der weißen Dialyse und der infektiösen und
+        grau/gelben Dialyse vorgenommen wird.
+  (4)   Die Bereichskleidung ist mindestens arbeitstäglich zu wechseln und muss durch den
+        Betreiber in ausreichender Menge zur Verfügung gestellt werden.
+
+
+
+
+ITM-SST 1604.1                                                           Seite 8 von 14 Seiten
+  (5)    Die Aufbereitung der Bereichskleidung sowie der Schutzkleidung muss in
+         desinfizierenden Waschverfahren durch den Betreiber oder ein durch diesen
+         beauftragtes Unternehmen erfolgen. Entsprechendes gilt für Schutzkleidung.
+  (6)    Beim Verlassen der Dialyseabteilung muss die Bereichskleidung entweder abgelegt
+         oder es muss ein Kittel über der Bereichskleidung getragen werden.
+  (7)    Der Zutritt zu Isolierzimmern der gelben, grauen oder infektiösen Dialyse ist nur
+         autorisierten Personen gestattet. Auf das Zutrittsverbot muss durch eine
+         Beschilderung an der Zugangstür hingewiesen werden.
+  (8)    Vor dem Betreten von Isolierzimmern ist die jeweils erforderliche
+         Schutzkleidung/Schutzausrüstung in der zugeordneten Schleuse anzulegen. Beim
+         Verlassen der Isolierzimmer muss die Schutzkleidung/Schutzausrüstung bei aerogen
+         übertragbaren Krankheitserregern (z.B. TBC) innerhalb des Zimmers und ansonsten
+         spätestens innerhalb der Schleuse abgelegt, bzw. abgeworfen werden.
+  (9)    Werdende und stillende Mütter dürfen der Gefahr des Kontaktes mit infektiösen
+         humanpathogenen Agenzien nicht ausgesetzt werden.
+  (10) Dialysegeräte aus der grauen, gelben oder infektiösen Dialyse müssen vor der
+       Durchführung von Wartungs- und Reparaturarbeiten einer geeigneten, validierten
+       Desinfektion (Sonderdesinfektion) unterzogen werden.10)
+  (11) Dialysegeräte aus der grauen, gelben oder infektiösen Dialyse dürfen prinzipiell nicht
+       in der weißen Dialyse verwendet werden. Falls dies jedoch unvermeidlich ist, müssen
+       die Geräte zuvor einer geeigneten Desinfektion (Sonderdesinfektion) unterzogen
+       werden.
+  (12) Neu anzuschaffende Dialysegeräte sollen für die Aufbereitung auf thermischem
+       Wege mittels heißer organischer Säuren geeignet sein. Die standardmäßige
+       Aufbereitung entsprechend geeigneter Geräte muss auf diesem Wege erfolgen.
+  (13) Zur Vorbeugung und Vermeidung von Nadelstichverletzungen11) sind geeignete
+       Sicherheitsprodukte bereit zu stellen und zu verwenden, sofern solche Produkte am
+       Markt verfügbar sind.
+  (14) Die Lagerung von Geräten oder Materialien auf Fluren und Gängen ist nicht zulässig.
+
+
+7. Persönliche Hygienemaßnahmen
+  (1)    Das Personal bei dessen Tätigkeiten regelmäßig die Notwendigkeit zur hygienischen
+         Händedesinfektion besteht, darf während der Arbeit keine Uhren, Schmuck, Piercings
+         oder dergleichen an den Unterarmen oder Händen tragen.
+  (2)    Nach Beendigung der Tätigkeit und vor dem Verlassen der Dialysestation muss eine
+         hygienische Händedesinfektion durchgeführt werden.
+
+
+
+
+10) 1. Schritt: Entkalkung und Desinfektion mit saurem Desinfektionsmittel 2. Schritt: Reinigung und Desinfektion
+   mit alkalischem Desinfektionsmittel
+   Überwachung und Dokumentation der Durchführung durch eine befugte, beauftragte Person.
+11) Unter Nadelstichverletzung wird hier jegliche Stich-, Schnitt oder Ritzverletzung von medizinischem Personal
+
+   mit spitzen oder scharfen Gegenständen, welche mit Patientenblut oder anderen Körperflüssigkeiten
+   kontaminiert waren, verstanden. Dies unabhängig davon, ob die Verletzung geblutet hat oder nicht.
+
+
+
+
+ITM-SST 1604.1                                                                             Seite 9 von 14 Seiten
+  (3)   Die Aufbewahrung und Aufnahme von Nahrungs- und Genussmitteln ist innerhalb der
+        Arbeitsbereiche untersagt und darf ausschließlich in speziell dafür vorgesehenen
+        Räume erfolgen.
+  (4)   Bei allen Arbeiten am Patienten müssen medizinische Einmalhandschuhe gemäß
+        EN 455 getragen werden.
+  (5)   Beim Punktieren der Patienten und allen sonstigen Tätigkeiten die mit der Gefahr des
+        Verspritzens von Blut einhergehen, müssen zusätzlich zur Bereichskleidung und den
+        Einmalhandschuhen ein Schutzkittel, eine Gesichtsmaske (Mund und Nasenschutz),
+        eine Haube sowie eine Schutzbrille oder ein Visier getragen werden.
+  (6)   Schutzkleidung und Schutzausrüstung darf nicht außerhalb              des jeweiligen
+        Arbeitsbereiches respektive Zimmers getragen werden.
+  (7)   Bei der Durchführung von Wartungs- und Reparaturarbeiten an Dialysegeräten sind
+        geeignete Schutzmaßnahmen zu ergreifen.
+
+
+8. Entsorgung
+  (1)   Die Sammlung von Kanülen und anderen spitzen oder scharfen Abfällen mit
+        Verletzungsrisiko, muss direkt am Ort des Anfalls in bruchfesten und
+        durchstichsicheren Sammelbehältern erfolgen
+  (2)   Die Sammelsysteme für Kanülen müssen eine Möglichkeit zum Abstreifen der Kanüle
+        bieten, so dass diese nicht manuell vom Spritzenkonus gelöst werden muss.
+  (3)   Es ist verboten Kanülen in Schutzhüllen zurückzuführen (Recapping).
+  (4)   Die Sammelbehälter müssen mit einem Deckel verschließbar sein, welcher sich nach
+        dem Verschließen nicht mehr öffnen lässt.
+  (5)   Die Abfälle sind nach jeder Dialyse aus den Behandlungszimmern zu entfernen.
+  (6)   Alle Abfälle aus gelber, grauer und infektiöser Dialyse, welche mit Blut oder Sekreten
+        behaftet sind, gelten als infektiös und sind dementsprechend zu sammeln und zu
+        entsorgen.
+  (7)   Die Sammlung infektiöser Abfälle muss getrennt von anderen Abfällen in deutlich
+        (z.B. farblich und Warnsymbol) gekennzeichneten Einwegbehältern erfolgen.
+  (8)   Bei den zur Sammlung infektiöser Abfälle verwendeten Behälter muss es sich um die
+        Entsorgungsbehälter handeln (Sammelbehälter = Entsorgungsbehälter).
+  (9)   Die Behälter für infektiöse Abfälle müssen vor der Entsorgung mit einem Deckel ver-
+        schlossen werden.
+  (10) Infektiöse Abfälle dürfen nicht umgefüllt werden.
+  (11) Die infektiösen Abfälle müssen mindestens einmal täglich aus der Dialyseabteilung
+       abtransportiert werden.
+  (12) Die Zwischenlagerung und die Entsorgung infektiöser Abfälle muss innerhalb
+       flüssigkeitsdichter, feuchtigkeitsbeständiger, geruchsdichter und transportfester, d.h.
+       für den Transport gefährlicher Güter zugelassener und nicht wieder zu öffnender
+       Behälter erfolgen.
+
+
+
+
+ITM-SST 1604.1                                                            Seite 10 von 14 Seiten
+9. Ergonomie
+  (1)    Die Lagerung von Materialien soll möglichst so erfolgen, dass auf Aufstiege /
+         Steighilfen verzichtet werden kann. Ohne geeignete Aufstiege / Steighilfen12), darf die
+         Oberkante der höchsten Lagerebene von Schränken und Regalen maximal 180 cm
+         betragen.
+  (2)    Ablagen, Tische und andere Arbeitsflächen sind auf einer Arbeitshöhe von 90 cm
+         anzulegen.
+  (3)    Stühle müssen höhenverstellbar sein und eine ergonomisch korrekte Sitzposition
+         ermöglichen.
+  (4)    Zur Umbettung von Patienten müssen geeignete Hilfsvorrichtungen (z.B. Rollboard,
+         Patientenhebevorrichtung etc.) vorhanden sein. In diesem Zusammenhang ist auch
+         das „Règlement grand-ducal du 4 novembre 1994 concernant les prescriptions
+         minimales de sécurité et de santé relatives à la manutention manuelle des charges
+         comportant des risques, notamment dorso-lombaires, pour les travailleurs“ zu
+         beachten.
+  (5)    Das „Règlement grand-ducal du 4 novembre 1994 concernant les prescriptions
+         minimales de sécurité et de santé relatives au travail sur les équipements à écran de
+         visualisation“ ist zu beachten.
+
+
+10. Schulung und Betriebsanweisungen
+  (1)    Für alle in Dialyseabteilungen beschäftigte Personen ist vor Aufnahme der Tätigkeit
+         und danach mindestens einmal jährlich eine der Tätigkeit angepasste Schulung
+         durchzuführen.
+  (2)    Die Inhalte dieser Schulung müssen mindestens sein:
+             Art der Gefahren für die Gesundheit
+             Maßnahmen zur Vermeidung von Expositionen
+             Hygienevorschriften
+             Verwendung von Schutzausrüstung und Schutzkleidung
+             Umgang mit kontaminierten Geräten und Materialien
+             Sicherheitsdatenblätter und Betriebsanweisungen zu den verwendeten Chemi-
+              kalien
+             Im Falle eines Unfalls              durchzuführende         Maßnahmen          (Notfallplan     und
+              Notfallmaßnahmen)
+             Meldung von Unfällen
+  (3)    Weibliches Personal ist darauf hinzuweisen, dass Schwangerschaften umgehend
+         dem Vorgesetzten zu melden sind.
+  (4)    Durch den Betreiber sind arbeitsplatzbezogene Betriebsanweisungen zu erstellen
+         und an die Mitarbeiter auszuhändigen.
+  (5)    Bei Einführung neuer Tätigkeiten, Verfahren oder Geräte sowie bei Änderungen der
+         Organisation des Arbeitsablaufes, sind entsprechende Schulungen durchzuführen.
+
+12) zu „geeigneten“ Aufstiegen / Steighilfen siehe ITM-CL 631, Kapitel „Aufstiege / Steighilfen“ sowie UVV Kapitel
+   „Leitern und Tritte“.
+
+
+
+
+ITM-SST 1604.1                                                                             Seite 11 von 14 Seiten
+        Darüber hinaus sind die Betriebsanweisungen entsprechend zu überarbeiten und
+        anzupassen.
+
+11. Notfallplan
+  (1)   Für Dialyseabteilungen müssen Notfallpläne erstellt werden.
+  (2)   Diese Notfallpläne müssen, außer den üblichen Notfallmaßnahmen (Brand,
+        Vergiftung etc.), spezifische Notfallmaßnahmen für unfallartige Situationen betreffend
+        der speziellen biologischen und chemischen Risiken enthalten.
+  (3)   Eventuell erforderliche Notfallausrüstung soll außerhalb der potentiellen
+        Gefährdungsbereiche, aber in deren Nähe zur Verfügung gehalten werden.
+  (4)   Es muss eine dem Personal jederzeit zugängliche Kurzfassung der relevanten
+        Notfallmaßnahmen (z.B. in Form von Betriebsanweisungen) vorhanden sein.
+  (5)   Notfallmaßnahmen müssen regelmäßig geübt werden.
+
+
+12. Arbeitsmedizinische Betreuung
+  (1)   Es dürfen nur solche Personen in Dialyseabteilungen beschäftigt werden, deren
+        Gesundheitszustand durch arbeitsmedizinische Untersuchungen überwacht wird.
+  (2)   Die Art und der Umfang der arbeitsmedizinischen Untersuchungen und Überwachung
+        muss mit dem zuständigen Arbeitsmediziner abgestimmt werden.
+  (3)   Bei allen in Dialyseabteilungen beschäftigten Personen sollte eine Immunisierung
+        betreffend Hepatitis-A und -B durchgeführt werden. Dazu soll bei allen Beschäftigten
+        der Immunstatus ermittelt und den Beschäftigten gegebenenfalls die entsprechenden
+        Impfungen kostenfrei angeboten werden.
+
+
+13. Wiederkehrende Prüfungen
+Unbeschadet ihrer regelmäßigen und ordnungsgemäßen Wartung, müssen die technischen
+Installationen jährlich durch ein zugelassenes Kontrollorgan geprüft werden.
+Diese wiederkehrenden Prüfungen sind gemäß der gesetzlichen Bestimmungen sowie der
+geltenden Großherzoglichen Verordnungen, bzw. beim Fehlen solcher Vorgaben gemäß
+dem Stand der Technik durchzuführen.
+Insbesondere bei festgestellten Mängeln, im Falle häufiger örtlicher Veränderungen und im
+Anschluss an Reparaturen oder Änderungen, müssen über die normalen wiederkehrenden
+Prüfungen hinaus Zwischenprüfungen oder zusätzliche Prüfungen durchgeführt werden.
+
+
+
+
+ITM-SST 1604.1                                                            Seite 12 von 14 Seiten
+                 Mise en vigueur, le 23 juillet 2014
+
+
+                                 s.
+
+                        Robert HUBERTY
+                              Directeur
+                     de l’Inspection du travail
+                            et des mines
+
+
+
+
+ITM-SST 1604.1                                         Seite 13 von 14 Seiten
+Anhang
+
+Hygieneplan
+Der Hygieneplan definiert und beschreibt die notwendige Reinigung und Desinfektion von
+Räumen, Mobiliar, Geräten und sonstigen Gegenständen.
+Der Hygieneplan muss klar Auskunft geben bezüglich:
+
+Was?             z.B.: Gebäude, Raum, Installation, Fläche, Gerät, Gegenstand
+
+Wo?              z.B.: Abteilung, Etage, Raum, Arbeitsbereich
+
+Wann?            z.B.: Häufigkeit, Zeitpunkt, Zeitintervalle
+                 z.B.: zu verwendende Reinigungs- und Desinfektionsmittel,
+Womit?                 Gebrauchskonzentrationen, Einwirkzeiten, Arbeitsmittel, Schutzkleidung
+                       und persönliche Schutzausrüstung
+Wie?             z.B.: Ausführungsvorgaben, z.B. Wischen, Sprühen, Einlegen
+
+Wer?             z.B.: Zuständigkeiten, Funktionen, Namen, Überwachung
+
+
+Sofern keine separaten Anweisungen bestehen, muss der Hygieneplan auch Angaben über
+die Händedesinfektion, Wäschedesinfektion, Abfallentsorgung sowie ggf. über die
+hygienische Überprüfung lüftungstechnischer Anlagen enthalten.
+
+Unter „Desinfektionsplan“ wird die Darstellung der aus dem Hygieneplan resultierenden,
+täglich durchzuführenden Aufbereitungsmaßnahmen in kurz gefasster Form verstanden.
+
+
+
+
+ITM-SST 1604.1                                                            Seite 14 von 14 Seiten
+

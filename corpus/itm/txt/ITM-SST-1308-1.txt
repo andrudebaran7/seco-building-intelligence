@@ -1,0 +1,1387 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                           Strassen, août 2008
+
+
+
+                                                                                    Ancien N° ITM-CL 304
+
+
+                                                                                           ITM-SST 1308.1
+
+
+
+
+                                     Appareils et installations à vapeur
+
+
+       Conçus d’après les exigences de la directive 97/23/CE "Equipements sous pression"
+
+
+                                              Prescriptions de sécurité types
+                                         Les présentes prescriptions comportent 29 pages.
+
+                                                                  Sommaire
+    Article                                                                                                             Page
+
+                                     Titre Ier - Objectif, champ d'application et définitions
+
+     1.                     Objectif et domaine d’application                                                               3
+     2.                     Définitions                                                                                     3
+
+                      Titre II - Chaudières à vapeur ou à eau surchauffée placées à demeure
+
+     3.                     Parties intégrantes de la chaudière à vapeur                                                    5
+     4.                     Classification des chaudières à vapeur fixes                                                    6
+     5.                     Classement des chaudières à vapeur fixes                                                        6
+     6.                     Conditions générales d'installation et d'exploitation                                           7
+     7.                     Conditions particulières                                                                        7
+     8.                     Conditions d'installation des chaudières fixes dans les locaux                                  7
+     9.                     Générateurs à tubes bouilleurs et générateurs à vase clos                                       8
+    10.                     Chaudières à vapeur installées en plein air                                                     9
+    11.                     Conditions d'implantation des chaudières à vapeur fixes                                         9
+    12.                     Déclaration de mise en service                                                                  9
+    13.                     Conception, fabrication et évaluation de la conformité
+                            des chaudières à vapeur                                                                        10
+    14.                     Plaque signalétique, instructions de service et documents techniques                           10
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 247-86145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+15.             Normes et règles techniques                                                11
+16.             Prescriptions générales                                                    11
+17.             Contrôles réglementaires                                                   11
+18.             Contrôle de première mise en service                                       11
+19.             Opérations de contrôles périodiques                                        11
+20.             Réparations et notifications notables                                      14
+21.             Accidents et incidents                                                     14
+22.             Chauffeur de chaudières à vapeur ou à eau surchauffée                      14
+23.             Chaufferie fermée                                                          15
+24.             Exploitation                                                               15
+25.             Chaudières à vapeur ou à eau surchauffée sans surveillance continue        16
+26.             Générateurs et récipients à basse pression, mais à température élevée      17
+
+                               Titre III - Chaudières locomobiles
+
+27.             Définitions et mesures de sécurité                                         17
+28.             Opérations de contrôles périodiques par un organisme de contrôle           18
+29.             Etablissement                                                              19
+
+                       Titre IV - Chaudières des machines locomotives
+
+30.             Définitions et mesures de sécurité                                         19
+31.             Opérations de contrôles périodiques par un organisme de contrôle           19
+
+ Titre V - Récipients à vapeur ou à eau surchauffée non soumis à l'action de la flamme, y
+          compris les appareils à vapeur à couvercle amovible à fermeture rapide
+                                   (autoclaves à vapeur)
+
+32.             Champ d'application, déclaration et contrôles périodiques                  20
+
+                               Titre VI - Dispositions générales
+
+33.             Registre de sécurité                                                       21
+34.             Annexes I à VII                                                            22
+
+
+
+
+Page 2 de 29 pages                                                               ITM-SST 1308.1
+                     Titre Ier - Objectif, champ d'application et définitions
+
+Art.1er. - Objectif et champ d'application
+
+1.1. Les présentes prescriptions s'appliquent à l'installation et à l'exploitation des appareils à
+vapeur d'eau, comportant les générateurs de vapeur et d'eau surchauffée installés à demeure,
+ainsi que des chaudières locomobiles, les chaudières des machines locomotives et les
+récipients à vapeur ou à eau surchauffée, y compris les appareils à couvercle amovible à
+fermeture rapide, travaillant sous une surpression supérieure à 0,05 Mpa (0,5bar) ce qui
+équivaut à une température de la vapeur ou de l’eau surchauffée supérieure à 110°C, et
+lorsque le volume est supérieur à 2 L.
+
+Elles s’appliquent également aux accessoires de sécurité et aux accessoires sous pression ainsi
+qu’aux tuyauteries afférentes se trouvant à l’intérieur du périmètre de l’appareil.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions en relation avec l’exploitation
+des appareils et installations à vapeur peuvent être accordés de cas en cas, mais uniquement si
+des mesures de rechange garantissant une protection au moins équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de sécurité
+équivalent par un organisme de contrôle et acceptées comme telles par l’Inspection du Travail
+et des Mines.
+
+1.3. Les présentes prescriptions ne s'appliquent pas (liste non exhaustive):
+
+    -   aux équipements spécialement conçus pour des applications nucléaires, dont la
+        défaillance peut donner lieu à des émissions radioactives;
+    -   aux installations à fluides thermiques;
+    -   aux tuyauteries d'usine destinées au transport de la vapeur ou de l'eau surchauffée à
+        l'intérieure du périmètre de l'usine (Werksgelände), vers où à partir d'un appareil à
+        vapeur ou à eau surchauffée, en aval du dernier organe d'isolement situé dans le
+        périmètre de l'appareil, y compris tous les équipements annexes qui sont
+        spécifiquement conçus pour ces tuyauteries.
+
+Art. 2. - Définitions.
+
+2.1. «Vapeur», la vapeur d'eau:
+
+2.2. «Chaudière à vapeur ou générateur de vapeur», tout récipient ou disposition de récipients
+et faisceaux tubulaires dans lesquels de la vapeur à une pression supérieure à 0,5 bar à la
+pression atmosphérique normale (1013 mbar) est générée pour être utilisée à l'extérieur des
+dispositions mentionnées plus haut.
+
+    -   est également considéré comme générateur de vapeur tout équipement sous pression
+        ou ensemble comportant une ou plusieurs enceintes fermées, dans lesquels de l'eau est
+        portée à une température supérieure à 110°C, sans que le fluide en fasse l'objet d'une
+        utilisation extérieure
+        et
+    -   les chaudières à double circuit, à condition que la partie sous pression dégageant la
+        vapeur ou l'eau surchauffée et la partie sous pression chauffée par le combustible ou le
+        courant électrique forment une unité;
+
+
+
+
+Page 3 de 29 pages                                                                 ITM-SST 1308.1
+2.3. «Générateur d'eau surchauffée», tout récipient ou disposition de récipients ou de
+faisceaux tubulaires dans lesquels de l'eau surchauffée à une température supérieure à 110°C
+est générée pour être utilisée à l'extérieur des dispositions mentionnées plus haut;
+
+2.4. «Générateur de vapeur exploité sans présence humaine permanente», tout générateur de
+vapeur dont l'exploitation n'est pas assurée par un personnel à poste fixe dans l'établissement
+où se trouve le générateur de vapeur;
+
+2.5. «Appareil à couvercle amovible à fermeture rapide», tout générateur de vapeur ou
+récipient comportant au moins un couvercle, un fond ou une porte amovible (par exemple les
+générateurs é vase clos à couvercle amovible à fermeture rapide qui sont couramment utilisés
+dans les hôpitaux);
+
+2.6. «Exploitant», le propriétaire d'un équipement sous pression, sauf convention contractuelle
+contraire (cas, par exemple, des appareils en location);
+
+2.7. «Pression maximale admissible (PS)», la pression maximale pour laquelle l'équipement
+est conçu (pression de timbre);
+
+2.8. «Température minimale/maximale admissible (TS)», les températures minimale et
+maximale pour lesquelles l'équipement est conçu;
+
+2.9. «Volume (V)», le volume interne de chaque compartiment, y compris le volume de
+raccordement jusqu'à la première connexion et à l'exclusion du volume des éléments internes
+permanentes;
+
+2.10. «Litre (L)», l'unité de mesure du volume (V);
+
+2.11. «Dimension nominale (DN)», la désignation numérique de la dimension commune à
+tous les éléments d'un système de tuyauteries autres que les éléments indiqués par leur
+diamètre extérieur ou par la taille du filet. Il s'agit d'un nombre arrondi à des fins de référence
+et qui n'a pas de relation stricte avec les cotes de fabrication. La taille nominale est indiquée
+par DN suivi d'un nombre;
+
+2.12. «Le Ministre», le Ministre ayant dans ses attributions le travail;
+
+2.13. «ITM», l'Inspection du travail et des mines;
+
+2.14. «Marquage CE», présomption de conformité au règlement grand-ducal du 21 janvier
+2000 précité;
+
+2.15. «Organisme de contrôle», tout organisme autorisé à contrôler les appareils à vapeur par
+le règlement ministériel le plus récent en date du Ministre relatif à l'intervention d'organismes
+de contrôle;
+
+2.16. «Organisme notifié», tout organisme notifié à la Commission européenne conformément
+au règlement grand-ducal du 21 janvier 2000 précité;
+
+2.17. «Instructions de service et documents», les documents exigés dans l'annexe 1, point 3.4
+du règlement grand-ducal du 21 janvier 2000 précité;
+
+2.18. « Epreuve hydraulique », une épreuve de résistance effectuée à l’aide d’eau dont la
+température ne peut dépasser 40°C ;
+
+
+Page 4 de 29 pages                                                                 ITM-SST 1308.1
+2.19. « Registre de sécurité », un dossier de suivi comportant le registre d’entretien, le registre
+de contrôle réglementaire et le registre d’exploitation ;
+
+2.20. « Opérations de contrôle »
+
+-   Inspections périodiques (ou visites périodiques);
+-   Vérification extérieure (ou visite en service) ;
+-   Vérification intérieure (ou visite à l’arrêt) ;
+-   Requalification périodique (ou réépreuve hydraulique).
+
+2.21. « Requalification périodique », une vérification qui recouvre en plus de l’épreuve
+hydraulique, une inspection avant épreuve et la vérification des dispositifs de sécurité et
+permet, la cas échéant, de remplacer l’épreuve hydraulique par d’autres techniques de
+contrôle permettant de garantir un niveau de sécurité au moins équivalent ;
+
+2.22. « Réparation ou modification notable », est considérée comme notable, toute
+intervention susceptible d’avoir une incidence sur la conformité des appareils à vapeur ou à
+eau surchauffée aux exigences de l’annexe 1 du règlement grand-ducal du 21 janvier 2000
+précité ;
+
+2.23. « Chaudière locomobile », chaudière à vapeur pouvant être transportée d’un lieu à un
+autre ;
+
+2.24. «Chaudière des machines locomotives », des machines à vapeur qui se déplacent par
+leur propre force ;
+
+2.25. «Récipient à vapeur non soumis à l’action de la flamme », récipient au moyen duquel ou
+dans lequel les matières à élaborer sont chauffées par de la vapeur ou de l’eau surchauffée
+empruntée à un générateur distinct.
+
+2.26. « Tuyauteries », sont à considérer aux fins des présentes prescriptions les tuyauteries
+avec une pression maximale admissible (PS) supérieure à 0.5 bar se trouvant à l’intérieur du
+périmètre de l’appareil , y compris le dernier organe d’isolement, ainsi que tous les
+équipements annexes qui sont spécifiquement conçus pour ces tuyauteries.
+
+Au delà de cette limite elles sont considérées comme tuyauteries de transport de vapeur ou
+d’eau surchauffée vers un utilisateur - « tuyauteries d’usine » à l’intérieur du périmètre
+d’usine (Werksgelände) - et non soumises aux présentes prescriptions.
+
+2.27. « Parties intégrantes d’un générateur à vapeur ou à eau surchauffée », les parties
+énumérées au titre II, article 3 ci-après.
+
+
+           Titre II.- Chaudières à vapeur ou à eau surchauffée placées à demeure.
+
+Art.3. - Parties intégrantes de la chaudière à vapeur
+
+3.1. Font partie de la chaudière à vapeur toutes les installations, tuyauteries, accessoires de
+sécurité et accessoires sous pression reliés à elle, sauf les parties des tuyauteries d’entrée, de
+sortie et de purge obturables.
+
+
+
+
+Page 5 de 29 pages                                                                   ITM-SST 1308.1
+3.2. Font également partie de la chaudière à vapeur (le cas échéant) :
+
+1. Le châssis de la chaudière, la maçonnerie et l’enveloppe .
+2. L’installation de chauffe .
+3. Les installations à l’intérieur de la chaufferie servant au stockage, à la préparation et à
+    l’alimentation en combustibles, de même que les installations à l’extérieur de la chaufferie
+    servant au stockage, au traitement et à l’alimentation de combustibles facilement
+    inflammables et tous les combustibles pulvérulents, liquides ou gazeux .
+4. Les réchauffeurs d’air, s’ils se trouvent dans le flux des gaz de combustion, ainsi que la
+    ventilation de l’installation de chauffe.
+5. Les équipements destinés à l’évacuation des gaz de la combustion y comprises les
+    installations d’aspiration et la cheminée.
+6. Les réchauffeurs de l’eau d’alimentation obturables se trouvant dans le flux des gaz de la
+    combustion, ainsi que les installations d’eau d’alimentation et la tuyauterie afférente.
+7. Les surchauffeurs obturables et les surchauffeurs intermédiaires se trouvant dans le flux
+    des gaz de la combustion, ainsi que les désurchauffeurs installés dans la chaufferie .
+8. Les ballons d’expansion obturables, ainsi que les tuyauteries reliant la chaudière de vapeur
+    et le ballon d’expansion.
+9. La chaufferie.
+    Fait partie intégrante de la chaufferie :
+    - Toute la surface d’une chaufferie fermées ;
+    - La surface nécessaire à l’installation de la chaudière à vapeur et des installations
+    destinées à son exploitation dans les locaux non exclusivement prévues à cette installation.
+10. Les tuyauteries de vapeur et d’eau surchauffée se trouvant à l’intérieur du périmètre de la
+    chaudière et leurs armatures.
+11. D’autres installations servant à l’exploitation de la chaudière à vapeur.
+
+Art.4. - Classification des appareils à vapeur fixes
+
+4.1. Générateurs à vapeur ou à eau surchauffée soumis à l’action de la flamme, y compris les
+appareils à vapeur à couvercle amovible à fermeture rapide (générateurs à vase clos en
+communication ou non avec un autoclave à vapeur).
+
+4.2. Récipients à vapeur ou à eau surchauffée non soumis à l’action de la flamme, y compris
+les appareils à couvercle amovible à fermeture rapide (autoclaves à vapeur).
+
+Art.5. - Classement des chaudières à vapeur fixes
+
+Les chaudières sont classées conformément à l’annexe I des présentes prescriptions.
+
+5.0. Chaudières hors classement catégorie 0 (sans marquage «CE»).
+
+Les chaudières avec une pression maximale admissible (PS) égale ou inférieure à 0,5 bar, ou
+un volume (V) égal ou inférieur à 2 litres.
+
+5.1. Chaudières de 1ère catégorie.
+
+Les chaudières avec une pression maximale admissible (PS) supérieure à 0,5 bar, un volume
+(V) maximal de 10 litres et un volume minimal supérieur à 2 litres.
+
+
+
+
+Page 6 de 29 pages                                                               ITM-SST 1308.1
+5.2. Chaudières de 2e catégorie.
+
+Les chaudières avec une pression maximale admissible (PS) supérieure à 0,5 bar, lorsque le
+volume (V) est supérieur à 10 litres et inférieur ou égal à 50 litres et le produit PS x V
+inférieur à 1000 bar.L.
+
+5.3. Les chaudières de la 3ième catégorie sont toutes les chaudières non comprises dans les
+catégories 0, 1 et 2.
+
+5.3.1. Catégorie 3A : Les chaudières de la catégorie 3 avec un produit PS x V inférieur ou
+égal à 15.000 bar.L et une pression maximale admissible (PS) égale ou inférieure à 32 bar et
+un volume (V) égal ou inférieur à 10000 L et une production de vapeur égale ou inférieure à
+2t/h par générateur de vapeur respectivement une puissance calorifique égale ou inférieure à
+1,2 MW par générateur d’eau surchauffée font partie de la sous catégorie 3/A.
+
+5.3.2. Catégorie 3 B:Les chaudières de la catégorie 3 avec un produit PS x V supérieur à
+15.000 bar.L ou une pression maximale admissible (PS) supérieure à 32 bar ou un volume (V)
+supérieur à 10000 L et une production de vapeur supérieur à 2t/h par générateur de vapeur
+respectivement une puissance calorifique supérieure à 1,2 MW par générateur d’eau
+surchauffée, ainsi que les chaudières de récupération de calories avec une température des gaz
+de combustion supérieure à 400°C font partie de la sous catégorie 3/B.
+
+Art.6. - Conditions générales d’installation et d’exploitation.
+
+6.1. Les chaudières à vapeur doivent être installées et exploitées en application de l’annexe II
+des présentes prescriptions et conformément aux règles de l’art.
+
+6.2. L’exploitant de chaudière à vapeur est responsable que :
+
+1. l’installation est maintenue, exploitée et entretenue en bon état de service ;
+2. les installations de sécurité sont utilisées de manière adéquate ;
+3. les parties de la chaudière à vapeur présentant un risque sont immédiatement mises hors
+   service ;
+4. les mesures de sécurité nécessaires sont prises ;
+5. les opérations de contrôle périodiques sont engagées en temps utile.
+
+6.3. Une chaudière à vapeur présentant des défauts mettant en danger la sécurité et la santé
+des personnes est à mettre hors service.
+
+Art.7. - Conditions particulières
+
+Les chaudières à vapeur doivent satisfaire également aux conditions particulières fixées par le
+Ministre dans le cadre de ses attributions figurant à la loi modifiée du 10 juin 1999 relative
+aux établissements classés dans le but d’éliminer des dangers pour la sécurité et la santé des
+personnes.
+
+Art.8. - Conditions d’installation des chaudières à vapeur fixes dans des locaux
+
+8.1. Les chaudières des catégories 0 et 1 peuvent être placées dans un local quelconque, même
+si celui-ci fait partie d’une maison d’habitation.
+
+
+
+
+Page 7 de 29 pages                                                               ITM-SST 1308.1
+Au cas où l’emploi d’une chaudière de ces catégories présente des risques d’incendie, les
+causes du danger sont à éliminer avant la mise en service du générateur à vapeur ou à eau
+surchauffée.
+
+8.2. Les chaudières de la 2e catégorie, ainsi que les chaudières de récupération de calories
+avec une température des gaz de combustion égale ou inférieure à 400°C, peuvent être placées
+à l’intérieur d’un atelier, pourvu que l’atelier ne fasse pas partie intégrante d’une maison
+d’habitation ou soit accessible au public. Un intervalle libre d’un mètre doit être laissé autour
+de la chaudière ou de son revêtement.
+
+8.3. Les chaudières de la 3e catégorie.
+
+Un intervalle d’un mètre doit être laissé autour de la chaudière ou de son revêtement.
+
+Pour les conditions d’installation des chaudières de la 3e catégorie, deux sous catégories sont
+à prendre en considération.
+
+8.3.1. Catégorie 3/A
+
+Ces chaudières peuvent être placées.
+
+1. Dans, sous et au-dessus de locaux de travail.
+2. Sous, au-dessus et à côté de locaux d’habitation.
+3. Sous et au-dessus de locaux sociaux.
+
+8.3.2. Catégorie 3/B
+
+Ces chaudières ne peuvent être placées.
+
+dans, sous, au-dessus et à côté de locaux d’habitation, de locaux sociaux (par exemple les
+locaux douches/lavabos, les locaux vestiaires et les locaux de repos) et de locaux de travail
+(par exemple les ateliers), elles sont à installer dans une chaufferie fermée telle que définie à
+l’article 20 ci-après, distante au moins de 10 mètres de maisons d’habitation ou accessibles au
+public.
+
+Nonobstant des impositions qui précèdent une chaudière de la catégorie 3/B peut être placée
+sous une construction dans laquelle ne se fait aucun travail à poste fixe nécessitant la présence
+d’un personnel à poste fixe, par exemple des locaux de commande (« Schaltwarten ») et des
+locaux destinés à des équipements qui ne sont utilisés qu’occasionnellement c.à.d. moins de 5
+heures/semaine.
+
+Art.9. - Générateurs à tubes bouilleurs et générateurs à vase clos
+
+Un espace libre d’un mètre doit être laissé autour des générateurs.
+
+Ne sont pas assujettis à l’application des articles 5 et 8 des présentes prescriptions:
+
+-   Les générateurs composés de tubes bouilleurs de moins de 60 mm de diamètre extérieur,
+    dont les ouvertures sont pourvues de fermetures autoclaves et dont les collecteurs de 150
+    mm de diamètre extérieur au plus sont isolés du contact des gaz de la combustion
+    et
+
+
+
+Page 8 de 29 pages                                                                  ITM-SST 1308.1
+-   Les générateurs à vase clos à couvercle amovible à fermeture rapide, en communication
+    ou non avec un autoclave à vapeur.
+
+Art.10. - Chaudières à vapeur installées en plein air
+
+Les chaudières à vapeur installées en plein air sont à protéger de manière adéquate, afin
+d’éviter l’accès de personnes non autorisées. Les installations de sécurité sont à protéger
+contre les influences atmosphériques. Une distance de 10 mètres (catégorie 3/B)
+respectivement de 5 mètres (catégorie 3/A) est à respecter des bâtiments se trouvant sur des
+propriétés voisines ainsi que des voies publiques.
+
+Art.11. - Conditions d’implantation des chaudières à vapeur fixes
+
+11.1. Les chaudières à vapeur doivent être implantées de sorte qu’elles peuvent être
+exploitées, entretenues, révisées et surveillées de manière adéquate dans toutes leurs parties et
+que la sécurité et la santé des personnes sont assurées.
+
+11.2. Les chaudières à vapeur et toutes leurs parties intégrantes doivent être implantées de
+sorte à éviter toutes les nuisances en relation avec les secousses, les vibrations et l’acoustique,
+ainsi qu’afin de garantir la protection des personnes en relation avec d’autres risques du point
+de vue de la sécurité.
+
+11.3. Les armatures de la chaudière à vapeur et des installations de sûreté et de détente
+doivent être montées de sorte qu’elles peuvent être actionnées sans risque et que le procédé de
+détente est perceptible sans équivoque.
+
+Art.12. - Déclaration de mise en service
+
+12.1. Sont soumis à l’obligation de déclaration de mise en service préalable à toute
+exploitation les équipements sous pression soumis à l’action de la flamme ou à un apport
+calorifique ci- après : Annexe III des présentes prescriptions.
+
+-   les chaudières à vapeur et à eau surchauffée à feu nu des catégories 1 (avec une pression
+    maximale admissible (PS) supérieure à 32 bar), 2 et 3, les chaudières de récupération de
+    calories, les chaudières d’incinérateurs, les chaudières électriques à électrode ou à
+    immersion et les générateurs à vase clos ;
+-   les chaudières à tubes bouilleurs ;
+-   les appareils à vapeur à couvercle amovible à fermeture rapide (autoclaves à vapeur), ainsi
+    que les récipients à vapeur ou à eau surchauffée, tels que définis à l’article 28 ci-après ;
+-   les tuyauteries de vapeur ou à eau surchauffée dont la pression maximale admissible (PS)
+    est supérieure à 4 bar, la dimension nominale (DN) supérieure à 250 et le produit pression
+    maximale admissible (PS) par la dimension nominale (DN) est supérieur à 5000.
+
+12.2. L’exploitant est responsable de la déclaration des équipements soumis à cette exigence.
+Une nouvelle déclaration doit être faite en cas de réparation ou modification notable ou en cas
+d’une nouvelle installation d’une chaudière existante.
+
+12.3. La déclaration est à adresser à l’ ITM.
+
+12.4. Contenu de la déclaration,
+
+Le contenu doit être conforme à l’annexe IV des présentes prescriptions.
+
+
+Page 9 de 29 pages                                                                 ITM-SST 1308.1
+12.5. Sont à joindre à la déclaration, les rapports de l’organisme de contrôle désigné par
+l’exploitant pour procéder au contrôle de première mise en service des appareils sous
+pression, énumérées au point 12.1 ci-dessus.
+
+Art.13. - Conception, fabrication et évaluation de la conformité des chaudières à vapeur
+          neuves
+
+13.1. Les chaudières à vapeur ou à eau surchauffée neuves, leurs tuyauteries, accessoires de
+sécurité et accessoires sous pression doivent satisfaire au règlement grand-ducal du 21 janvier
+2000 précité transposant en droit national la directive 97/23/CE.
+
+13.2. Chaque appareil ou ensemble soumis au règlement grand-ducal précité doit porter de
+manière visible, facilement lisible et indélébile le marquage «CE» accompagné du numéro
+d'identification de l'organisme notifié impliqué dans la phase de contrôle de la production
+
+Art.14. - Plaque signalétique, instructions de service et documents techniques
+
+14.1. Outre le marquage «CE» et le numéro d’identification de l’organisme notifié, chaque
+appareil ou ensemble doit porter une plaque signalétique comportant au moins les mentions
+suivantes :
+- le nom du fabricant
+- l’année de fabrication
+- le numéro de fabrication (le cas échéant l’identification de la série ou du lot)
+- le volume géométrique «V» de l’équipement sous pression, exprimé en litres «L »
+- la pression maximale de service admissible «PS» en bar (pression de timbre,
+    «Auslegungsdruck»
+- la pression d’essai appliquée en bar et la date
+- la température maximale de service
+- la surface de chauffe
+- le cas échéant : la dimension nominale « DN » de la tuyauterie.
+
+14.2. Instructions de service et documents techniques.
+
+14.2.1. Chaque appareil ou ensemble, lors de sa mise sur le marché, doit être accompagné, en
+tant que de besoin, d’une notice d’instructions destinée à l’utilisateur, contenant toutes les
+informations utiles à la sécurité en ce qui concerne :
+
+-   le montage, y compris l’assemblage des différents équipements sous pression
+-   la mise en service
+-   l’utilisation
+-   la maintenance, y compris les contrôles par l’utilisateur.
+
+14.2.2. La notice d’instructions doit reprendre les informations apposées sur l’équipement et
+doit être accompagnée, le cas échéant, de la documentation technique, ainsi que des plans et
+schémas nécessaires à une bonne compréhension de ces instructions.
+
+14.2.3. Le cas échéant, la notice d’instructions doit également attirer l’attention sur les
+dangers d’utilisation erronée et sur les caractéristiques particulières de la conception.
+
+14.2.4. Les instructions de service doivent être présentées à l’organisme de contrôle procédant
+au premier contrôle périodique avant mise en service et ensuite être versées au registre prévu
+au paragraphe 33 ci après.
+
+
+Page 10 de 29 pages                                                             ITM-SST 1308.1
+Art. 15. - Normes et règles techniques
+
+Les normes, prescriptions, directives de sécurité et d’hygiène et les règles de l’art à appliquer
+lors du montage de l’installation et de l’exploitation des appareils à vapeur sont en particulier
+les présentes prescriptions et en général les normes européennes (E.N.) afférentes les plus
+récentes en vigueur ou à défaut les normes reconnues suffisantes du point de vue de la
+sécurité par un organisme de contrôle et acceptées comme telles par l’Inspection du travail et
+des mines.
+
+Art.16. - Prescriptions générales
+
+16.1. L'exploitant d'appareils et installations à vapeur doit se conformer aux prescriptions du
+Code du travail et des règlements d'exécution concernant la sécurité et la santé des salariés.
+
+16.2. Il y a lieu d'observer en outre les prescriptions afférentes de prévention contre les
+accidents édictées par l'Association d'Assurance contre les Accidents, Section Industrielle.
+
+Art.17. - Contrôles réglementaires
+
+A l’exception des chaudières des catégories 0 et 1, toutes les chaudières à vapeur et à eau
+surchauffée, y compris les chaudières à tubes bouilleurs et les générateurs à vase clos, les
+appareils à vapeur à couvercle amovible à fermeture rapide (autoclaves à vapeur) et les
+récipients à vapeur ou à eau surchauffée, tels que définis à l’article 32 ci-après, ainsi que leurs
+tuyauteries, sont soumis aux contrôles des articles 18 et 19 ci- après.
+
+Art.18. - Contrôle de première mise en service
+
+Ce contrôle, effectué par un organisme de contrôle, est constitué par :
+
+1. la vérification administrative du marquage, de la déclaration de conformité, de la
+   documentation technique, de la notice d’instructions et du manuel d’entretien destinés à
+   l’utilisateur et du manuel d’entretien ;
+2. la vérification de la conformité aux prescriptions d’installation ;
+3. les contrôles de l’étanchéité ;
+4. les essais de fonctionnement de la chaudière à vapeur et des équipements de sécurité.
+
+Le rapport de ce contrôle est à soumettre pour visa à l’ITM.
+
+Copie du rapport visé est à verser au registre prévu à l’article 33 ci-après.
+
+Art.19. - Opérations de contrôles périodiques
+
+19.1. Intervalle des vérifications périodiques à effectuer par un organisme de contrôle :
+
+Les chaudières à vapeur ou à eau surchauffée, y compris les chaudières à tubes bouilleurs et
+les générateurs à vase clos, ainsi que les récipients à vapeur y compris les appareils à
+couvercle amovible à fermeture rapide tels que définis à l’article 32 ci-après, doivent subir :
+
+1. tous les ans une vérification extérieure en service ;
+2. tous les deux ans une vérification intérieure à l’arrêt ;
+3. tous les dix ans une requalification périodique comportant une inspection avant épreuve,
+   l'épreuve hydraulique et la vérification des accessoires de sécurité.
+
+
+Page 11 de 29 pages                                                                ITM-SST 1308.1
+Tuyauteries : Les inspections périodiques (vérification extérieure en service resp. vérification
+à l’arrêt) des tuyauteries à vapeur ou à eau surchauffée sont à effectuer tous les 10 ans
+notamment avant toute remise en service après un chômage prolongé. Dans le cas de
+tuyauteries enterrées ou calorifugées, les inspections périodiques pourront n’intéresser que les
+parties jugées les plus vulnérables ou pouvant mettre en danger des personnes dans leur
+entourage.
+
+19.2. Vérification extérieure en service.
+
+Les générateurs à vapeur ou à eau surchauffée, ainsi que les récipients à vapeur, y compris les
+appareils à vapeur à couvercle amovible à fermeture rapide, sont soumis annuellement à une
+vérification extérieure en service, à cette occasion sont vérifiés notamment les équipements
+d’indication et de sécurité.
+
+L’organisme de contrôle décidera lors de cette vérification annuelle, si l’appareil doit être
+soumis seulement à cette vérification en service ou en plus à une vérification complète à
+l’arrêt. Cette décision doit être motivée.
+
+Copies des rapports de visite (extérieure/intérieure) sont à tenir à la disposition de l'ITM et
+des organismes de contrôle dans le registre prévu au paragraphe 33 ci-après.
+
+19.3. Vérification intérieure à l’arrêt.
+
+Les générateurs à vapeur ou à eau surchauffée, ainsi que les récipients à vapeur, y compris les
+appareils à vapeur à couvercle amovible à fermeture rapide, sont soumis tous les deux ans à
+une vérification complète, côté vapeur et côté feu pour les générateurs, côté vapeur seulement
+pour les appareils non soumis à l’action de la flamme. L’organisme de contrôle décidera lors
+de cette vérification intérieure si l’appareil doit être soumis seulement à cette vérification
+complète ou en plus à une requalification. Cette décision doit être motivée.
+
+19.4. Requalification.
+
+Les générateurs à vapeur ou à eau surchauffée, ainsi que les récipients à vapeur, y compris les
+appareils à vapeur à couvercle amovible à fermeture rapide, sont soumis tous les dix ans à une
+vérification complète avant épreuve, la vérification des accessoires de sécurité et la réépreuve
+hydraulique.
+
+Le retarage ou remplacement des soupapes de sécurité des générateurs par des éléments
+révisés dont la valeur de tarage a été vérifiée et certifiée, y compris les appareils à couvercle
+amovible à fermeture rapide, ainsi que des récipients à vapeur ou à eau surchauffée avec un
+produit PSx V égal ou supérieur à 2000 bar.L une pression maximale admissible (PS) égale
+ou supérieure à 2 bar et un volume supérieur à 2 L, est à effectuer à la même occasion. Le
+plomb bloquant le tarage doit mentionner l’année de tarage (Annexe VII des présentes
+prescriptions.
+
+La pression de l’essai hydrostatique est à maintenir tout le temps nécessaire à l’examen
+complet des parois extérieures.
+
+
+
+
+Page 12 de 29 pages                                                               ITM-SST 1308.1
+La pression à appliquer est celle appliquée lors de l’essai de résistance initiale (PE).
+L’épreuve hydraulique de requalification est satisfaisante si l’équipement sous pression n’a
+pas fait l’objet de suintement, fuite ou rupture pendant la durée de l’épreuve et ne présente pas
+de déformation permanente appréciable.
+
+Sont dispensés de réépreuve hydraulique les tuyauteries et leurs accessoires.
+
+Lors de cette réépreuve décennale la chaudière à vapeur ou à eau surchauffée respectivement
+le récipient à vapeur doivent être dégarnis de leur enveloppe calorifuge, soit totalement, soit
+partiellement, selon ce qui est jugé nécessaire par décision motivée de l’organisme de contrôle
+procédant à la requalification.
+
+Le cas échéant la réépreuve hydraulique peut être complétée par toute investigation
+complémentaire jugée utile par l'organisme de contrôle procédant à la réépreuve, par exemple
+des essais non destructifs.
+
+Au cas où il est établi qu’une épreuve de résistance initiale n’a pas eu lieu, l’ITM, sur avis
+obligatoire de l’organisme de contrôle, peut soit fixer la valeur de la pression de réépreuve de
+résistance à appliquer, soit remplacer la réépreuve de résistance par d’autres techniques de
+contrôle permettant de garantir un niveau de sécurité au moins équivalent.
+
+Le rapport de requalification est à soumettre pour visa à l’ITM.
+
+Copie du rapport visé est à verser au registre prévu à l’article 33 ci-après.
+
+19.5. Les opérations de contrôles périodiques ont lieu avant l’expiration du délai fixé à cette
+fin par l’organisme de contrôle lors de sa visite précédente, sauf si l’ITM a accordé une
+dérogation sur avis obligatoire de l’organisme de contrôle.
+
+19.6. Une vérification par l’organisme de contrôle doit également avoir lieu à la demande de
+l’ITM.
+
+19.7. D’éventuels flexibles doivent subir tous les cinq ans une réépreuve de résistance. La
+pression de réépreuve à appliquer doit être identique à la valeur de l’épreuve de résistance
+initiale (PE). Cette réépreuve, à effectuer par un organisme de contrôle, est valable pour une
+durée maximale de cinq ans.
+
+Les flexibles n’ayant pas encore servi (stock) et dont l’âge est au moins cinq ans doivent
+subir, avant leur mise en service, également une réépreuve de résistance, à effectuer par un
+organisme de contrôle, valable pour une durée de cinq ans. La pression de réépreuve doit être
+identique à la pression de l ‘épreuve de résistance initiale (PE).
+
+19.8. A l’occasion de chaque vérification l’organisme de contrôle dresse un rapport indiquant
+l’état de conservation des appareils à vapeur ou à eau surchauffée (y compris d’éventuels
+flexibles), ainsi que ses constatations concernant l’observation des prescriptions
+réglementaires et des conditions d’exploitation.
+
+Il fixe en plus dans son rapport le délai pendant lequel, à son avis, les différents appareils à
+vapeur ou à eau surchauffée peuvent encore être exploités en sécurité avant d’être soumis à
+une nouvelle vérification.
+
+Ces rapports de vérification sont à tenir à la disposition de l’ITM et des organismes de
+contrôle dans le registre prévu à l’article 33 ci-après.
+
+
+Page 13 de 29 pages                                                               ITM-SST 1308.1
+Art.20. - Réparations et modifications notables
+
+20.1. Toute réparation notable et toute modification notable des appareils à vapeur ou à eau
+surchauffée et de leurs accessoires doivent être exécutées dans tous les cas par un homme de
+l’art sous la surveillance d’un organisme de contrôle. Cette surveillance n’est pas requise pour
+les générateurs de catégorie 0.
+
+20.2. L’appareil à vapeur ou à eau surchauffée doit ensuite être soumis à une vérification
+complète et à une épreuve hydraulique à effectuer par le même organisme de contrôle ; la
+pression à appliquer doit être identique à la valeur de l’épreuve de résistance initiale (PE). Le
+cas échéant la réépreuve hydraulique peut être complétée par toute investigation
+complémentaire jugée utile, par exemple des essais non destructifs.
+
+Au cas où il est établi qu’une épreuve de résistance initiale n’a pas eu lieu, l’ITM sur avis
+obligatoire de l’organisme de contrôle, peut soit fixer la valeur de la pression de résistance à
+appliquer, soit remplacer la réépreuve de résistance par d’autres techniques de contrôle
+permettant de garantir un niveau de sécurité au moins équivalent.
+
+20.3. Pour les tuyauteries à vapeur ou à eau surchauffée, en absence d’assemblages
+permanents longitudinaux, l’essai de résistance peut être remplacé par un contrôle non
+destructif volumique adapté, sous réserve que chaque nouvel élément de tuyauterie ait fait
+l’objet d’un essai de résistance.
+
+20.4. Le rapport de surveillance, de vérification et d’épreuve hydraulique est à soumettre pour
+visa à l’ITM et à verser au registre prévu à l’article 33 ci-après.
+
+Art.21. - Accidents et incidents
+
+21.1. Chaque appareil à vapeur ou à eau surchauffée ayant été la cause d’un accident ou d’un
+incident grave doit être vérifié par un organisme de contrôle.
+
+21.2. L’exploitation de cet appareil ne peut être reprise qu’après acceptation par l’ITM du
+rapport de vérification de l’organisme ; le rapport visé par l’ITM est à verser au registre prévu
+à l’article 33 ci-après.
+
+Art.22. - Chauffeur de chaudière à vapeur ou à eau surchauffée
+
+22.1. Le chauffeur chargé par l’exploitant de la surveillance et de l’exploitation de chaudières
+à vapeur ou à eau surchauffée doit avoir accompli sa 18e année, être initié et formé à cette
+tâche, à l’exception de la conduite des générateurs de la catégorie zéro.
+
+22.2. Pour les chaudières de la 3e catégorie, ainsi que pour les chaudières à tubes bouilleurs, il
+doit avoir subi en plus une épreuve constatant ses connaissances en matière de sécurité en
+relation avec l’exploitation et la conduite de chaudières à vapeur ou à eau surchauffée.
+
+22.3. Cette épreuve est sanctionnée en cas de succès par un certificat d’aptitude à la conduite
+de chaudières à vapeur, certificat émis par l’Inspection du travail et des mines.
+
+22.4. L’ITM peut disposer qu’un chauffeur de chaudière à vapeur qui n’a pas l’expertise
+requise ou a contrevenu à ses obligations à plusieurs reprises ou sur qui on ne peut pas
+compter, ne peut pas être occupé plus longtemps comme tel.
+
+
+
+
+Page 14 de 29 pages                                                                ITM-SST 1308.1
+Art.23. - Chaufferie fermée
+
+23.1. Une chaufferie fermée doit avoir au moins une issue donnant directement sur l’extérieur,
+être équipée de portes s’ouvrant vers l’extérieur et ne doit avoir aucune communication
+directe (portes ou autres ouvertures) avec des locaux exposés à un danger d’incendie ou
+d’explosion.
+
+23.2. Chaque chaufferie fermée doit être construite en bonne et solide maçonnerie ou en béton
+armé ; elle doit avoir un mur extérieur continu dégagé ou une surface de plafond d’au moins
+1/10e de la surface de base, qui lors d’une surpression de la chaufferie cède plus facilement
+que les autres murs d’enceinte.
+
+23.3. Les chaufferies fermées dans lesquelles des chaudières de la catégorie 3/B sont
+installées, doivent respecter une distance de 10 mètres entre la chaufferie et des bâtiments se
+trouvant sur des propriétés voisines, ainsi que des voies publiques.
+
+Cette distance est réduite à 5 mètres pour les chaufferies équipées de chaudières de la
+catégorie 3/A.
+
+Art.24. - Exploitation
+
+24.1. L’exploitant d’une installation à vapeur ou à eau surchauffée doit se conformer aux
+prescriptions de la loi modifiée du 17 juin 1994 concernant la sécurité et la santé au travail et
+des arrêtés d’exécution concernant la sécurité et la santé du personnel.
+
+24.2. La mise en service, l’exploitation et l’entretien des générateurs et appareils à vapeur ou
+à eau surchauffée ne peuvent être confiés qu’à du personnel expérimenté, parfaitement au
+courant du fonctionnement des appareils et des mesures de sécurité à observer.
+
+24.3. Pour les chaudières de la 3e catégorie, ainsi que pour les chaudières à tubes bouilleurs, le
+chauffeur doit procéder au contrôle de la chaudière à vapeur en conformité des instructions de
+service suivant une liste de contrôle établie à cet effet et ces contrôles sont consignés dans le
+registre d’exploitation prévu à l’article 33 ci-après.
+
+Un modèle d’une liste de contrôle figure à l’annexe V des présentes prescriptions.
+
+24.4. L’eau d’alimentation et l’eau de chaudière des catégories 0, 1 et 2 doit être conforme
+aux indications du constructeur. Pour les chaudières de la 3e catégorie et les chaudières à
+tubes bouilleurs les normes européennes afférentes sont d’application.
+
+24.5. Les personnes non-autorisées ne doivent pas être admises dans la chaufferie et leur
+présence ne doit être tolérée. Cette interdiction est à afficher de manière permanente et bien
+lisible. L’exploitant doit fixer la liste des personnes autorisées.
+
+24.6. Toutes les conduites transportant des fluides sous pression doivent être marquées ou
+peintes suivant les prescriptions de la norme DIN 2403 et doivent porter les indications
+prévues par le règlement grand-ducal du 28 mars 1995 concernant la signalisation de sécurité.
+
+24.7. Les générateurs et appareils à vapeur ou à eau surchauffée et leurs accessoires tels par
+exemple les tuyauteries, robinetteries et flexibles sont à maintenir en tout temps en un parfait
+état d’entretien, de conservation, de fonctionnement et d’étanchéité.
+
+
+
+Page 15 de 29 pages                                                                ITM-SST 1308.1
+24.8. Il doit être porté immédiatement remède à toute défectuosité pouvant compromettre la
+sécurité du personnel ou du voisinage, ainsi que le bon fonctionnement des appareils à vapeur.
+
+24.9. L’utilisation permanente de tuyauteries flexibles est interdite aux emplacements où il est
+possible de monter des tuyauteries fixes.
+
+24.10. Les flexibles doivent être remplacés chaque fois que leur état l’exige.
+
+24.11. La longueur des flexibles doit être aussi courte que possible.
+
+Art.25. - Chaudières à vapeur ou à eau surchauffée sans surveillance continue
+
+25.1. Les générateurs de vapeur ou à eau surchauffée, exploités sans présence humaine
+permanente doivent être prévus par le constructeur pour ce mode opératoire. Les exigences
+essentielles de sécurité prévues à l’annexe I du règlement grand-ducal du 21 janvier 2000
+doivent être interprétés correctement en vue des dangers supplémentaires générés par ce mode
+opératoire.
+
+25.2. L’appareil doit pouvoir fonctionner automatiquement et le fabricant doit clairement
+prévoir le mode d’exploitation sans surveillance permanente dans ses instructions de service.
+Il devra aussi prévoir les intervalles de surveillance nécessaires à une exploitation sûre de
+l’appareil.
+
+25.3. Le système d’apport de chaleur ne doit pouvoir être mis en marche que si tous les
+dispositifs de sécurité relatifs à la surchauffe sont opérationnels. Le cas échéant, le dispositif
+de surveillance du niveau du fluide devra être opérationnel, et ses valeurs mesurées doivent se
+trouver dans des limites prévues par le fabricant.
+
+25.4. Les accessoires de sécurité tels que défini à l’article 1 au point 2.1.3 du règlement
+grand-ducal susmentionné doivent assurer automatiquement que les limites de pression
+d’exploitation ne peuvent être dépassées.
+
+Quand la qualité de l’eau est sujette de variations rapides qui peuvent mener à des situations
+dangereuses pendant la période sans surveillance, des protections adéquates doivent être
+prévues à l’aide d’accessoires de sécurité.
+
+Des dispositifs de surveillance qui permettent que des actions pour éviter le dépassement des
+limites acceptables (température, pression) soient entamées automatiquement doivent être
+prévues.
+
+Des dispositifs d’indication et d’alarme adéquates qui indiquent les origines d’anomalies
+doivent être prévus.
+
+Dans le cas d’une interruption de courant électrique, les installations doivent pouvoir être
+mises à l’arrêt ou dans une position d’attente sûre. Un redémarrage automatique après un arrêt
+causé par une anomalie ne doit pas être possible.
+
+25.5. Les accessoires de sécurité doivent être conçus de manière à ce que toute l’installation
+soit mise en arrêt automatiquement en cas de leur défaillance ou en cas de coupure de leur
+énergie électrique.
+
+
+
+
+Page 16 de 29 pages                                                                ITM-SST 1308.1
+Si pour certaines opérations sur l’installation certains accessoires de sécurité doivent être
+neutralisés, le mode de fonctionnement sans supervision doit être mis hors service
+automatiquement. Une signalisation adéquate doit être prévue.
+
+25.6. Les instructions de service doivent clairement indiquer la possibilité d’exploitation en
+mode opératoire sans surveillance permanente, et que l’installation est équipée pour ce mode
+opératoire. Les instructions doivent attirer l’attention sur des risques résiduels et les modalités
+d’opération à respecter dans le but des les éliminer. Est à indiquer notamment:
+
+- Comment les accessoires de sécurité doivent êtres essayés, avec indication des intervalles
+  de ces essais de sécurité.
+- Les exigences de qualité de l’eau d’approvisionnement de la chaudière
+- Des instructions de redémarrage après un arrêt pour chaque origine possible
+
+25.7. Après une mise à l’arrêt, la chaleur résiduelle doit être évacuée automatiquement et sans
+intervention humaine.
+
+25.8. Après mise en arrêt du système de chauffage due à une coupure de sa source d’énergie,
+un réarmement manuel doit être nécessaire pour le remettre en marche.
+
+25.9. Lors de la réception par un organisme de contrôle d’un appareil à vapeur destiné à être
+exploité sans surveillance permanente, l’organisme de contrôle devra contrôler si le fabricant
+a prévu l’appareil pour ce mode opératoire.
+
+25.10. L’exploitant des générateurs de vapeur ou à eau surchauffée, exploités sans présence
+humaine permanente (sans surveillance continue), doit respecter les prescriptions
+d’exploitation du constructeur.
+
+Art.26. - Générateurs et récipients à basse pression mais à température élevée
+
+Doivent être respectées les exigences essentielles du règlement grand-ducal du 21 janvier
+2000 relatif aux équipements sous pression, en ce qui concerne la conception et la fabrication
+des générateurs et récipients des installations travaillant à une surpression égale ou supérieur à
+0,05 MPa (0,5 bar), à une température supérieure à 250° C et ayant un volume supérieur à 2
+litres.
+
+
+                               Titre III - Chaudières locomobiles
+
+Art.27. - Définition et mesures de sûreté
+
+27.1. Les chaudières locomobiles à vapeur peuvent être transportées d’un lieu à un autre et
+n’exigent aucune construction pour fonctionner sur un point donné. Elles ne sont employées
+que d’une manière temporaire à chaque emplacement et sont à munir d’au moins une soupape
+de sécurité.
+
+27.2. A l’exception des articles 4, 5, 8,9, 10, 19 et 23 les dispositions des titres I et II sont
+applicables, conformément au sens, aux chaudières locomobiles.
+
+
+
+
+Page 17 de 29 pages                                                                ITM-SST 1308.1
+Art.28. - Opérations de contrôles périodiques par un organisme de contrôle
+
+28.1. Les chaudières locomobiles sont soumises annuellement à une vérification extérieure en
+service et à une vérification complète à l’arrêt, côté feu et côté eau, sans que l’enveloppe ou le
+calorifugeage doivent être enlevés.
+
+Ces vérifications sont à effectuer par un organisme de contrôle, qui vérifie lors des
+vérifications en service notamment les équipements d'indication et de sécurité.
+
+Copie des rapports de ces visites sont à tenir à la disposition de l’ITM et des organismes de
+contrôle dans le registre prévu à l’art. 33 ci-dessus.
+
+28.2. Les chaudières locomobiles sont à soumettre tous les cinq ans à une réépreuve,
+comprenant une visite avant épreuve, côté feu et côté eau, une réépreuve hydraulique et la
+vérification des accessoires de sécurité.
+
+La pression de l’essai hydrostatique est à maintenir tout le temps nécessaire à l’examen
+complet des parois extérieures.
+
+La pression à appliquer est celle appliquée lors de l’essai de résistance initiale (PE).
+
+L’épreuve hydraulique quinquennale est satisfaisante si l’équipement sous pression n’a pas
+fait l’objet de suintement, fuite ou rupture pendant la durée de l’épreuve et ne présente pas de
+déformation appréciable.
+
+Sont dispensés de réépreuve hydraulique les tuyauteries et leurs accessoires.
+
+Lors de cette réépreuve quinquennale la chaudière locomobile doit être dégarnie de son
+enveloppe calorifuge, soit totalement, soit partiellement, selon ce qui est jugé nécessaire par
+l’organisme de contrôle procédant à la réépreuve.
+
+Le cas échéant la réépreuve peut être complétée par toute investigation complémentaire jugée
+utile, par exemple des essais non-destructifs.
+
+Au cas où il est établi qu’une épreuve de résistance n’a pas eu lieu, l’ITM, sur avis obligatoire
+de l’organisme de contrôle, peut soit fixer la valeur de la pression de la réépreuve de
+résistance à appliquer, soit remplacer la réépreuve de résistance par d’autres techniques de
+contrôle permettant de garantir un niveau de sécurité au moins équivalent.
+
+Vérification des accessoires de sécurité avec retarage ou remplacement des soupapes de
+sécurité.
+
+Le rapport de cette réépreuve quinquennale est à soumettre pour visa à l’ITM.
+
+Copie du rapport visé est à verser au registre prévu à l’art. 33 ci-après.
+
+28.3. Les opérations de contrôle périodiques ont lieu avant l’expiration du délai fixé à cette fin
+par l’organisme de contrôle lors de sa visite précédente, sauf si l’ITM a accordé une
+dérogation sur avis obligatoire de l’organisme de contrôle.
+
+28.4. Une vérification par l’organisme de contrôle doit également avoir lieu à la demande de
+l’ITM.
+
+
+Page 18 de 29 pages                                                                 ITM-SST 1308.1
+28.5. A l’occasion de chaque vérification l’organisme de contrôle dresse un rapport indiquant
+l’état de conservation des installations (y compris d’éventuels flexibles), ainsi que ses
+constatations concernant l’observation des prescriptions réglementaires et des conditions
+d’exploitation.
+
+Il fixe en plus dans son rapport le délai pendant lequel, à son avis, la chaudière locomobile
+peut encore être exploitée en sécurité avant d’être soumise à une nouvelle vérification.
+
+Ces rapports sont à tenir à la disposition de l’ITM et des organismes de contrôle dans le
+registre prévu à l’art. 33 ci-après.
+
+Art.29. - Etablissement
+
+29.1. Il est interdit de mettre en activité une chaudière locomobile à moins de 5 mètres de
+distance d’une maison d’habitation ou accessible au public et d’un amas de matières
+combustibles.
+
+Si cette distance est jugée insatisfaisante, l’ITM peut fixer un écartement plus considérable.
+
+29.2. Dans le cas où la mise en service d’une chaudière locomobile présente des risques
+d’incendie, les causes du danger sont à éliminer avant la mise en service de celle-ci.
+
+
+                       Titre IV - Chaudières des machines locomotives
+
+Art.30. - Définition et mesures de sûreté
+
+30.1. Les machines à vapeur locomotives travaillent en même temps qu’elles se déplacent par
+leur propre force et sont à munir d’au moins une soupape de sécurité.
+
+30.2. A l’exception des articles 4, 5, 8,9, 10, 19 et 23 les dispositions des titres I et II sont
+applicables, conformément au sens, aux chaudières des machines locomotives.
+
+Art.31. - Opérations de contrôles périodiques par un organisme de contrôle
+
+31.1. Les chaudières des machines locomotives sont soumises annuellement à une vérification
+extérieure en service et à une vérification complète à l’arrêt, côté feu et côté eau, sans que
+l’enveloppe ou le calorifugeage doivent être enlevés. Ces vérifications sont à effectuer par un
+organisme de contrôle, qui vérifie lors des vérifications en service notamment les équipements
+d'indication et de sécurité.
+
+Copie des rapports de ces visites sont à tenir à la disposition de l’ITM et des organismes de
+contrôle dans le registre prévu à l’art. 33 ci-dessus.
+
+31.2. Les chaudières des machines locomotives sont à soumettre tous les cinq ans à une
+réépreuve, comprenant une visite avant épreuve, côté feu et côté eau, une réépreuve
+hydraulique et la vérification des accessoires de sécurité.
+
+La pression de l’essai hydrostatique est à maintenir tout le temps nécessaire à l’examen
+complet des parois extérieures.
+
+La pression à appliquer est celle appliquée lors de l’essai de résistance initiale (PE).
+
+
+Page 19 de 29 pages                                                                 ITM-SST 1308.1
+L’épreuve hydraulique quinquennale est satisfaisante si l’équipement sous pression n’a pas
+fait l’objet de suintement, fuite ou rupture pendant la durée de l’épreuve et ne présente pas de
+déformation appréciable.
+
+Sont dispensés de la réépreuve hydraulique les tuyauteries et leurs accessoires sous pression.
+
+Lors de cette réépreuve quinquennale la chaudière de la machine locomotive doit être
+dégarnie de son enveloppe calorifuge, soit totalement, soit partiellement, selon ce qui est jugé
+nécessaire par l’organisme de contrôle procédant à la réépreuve.
+
+Le cas échéant la réépreuve peut être complétée par toute investigation complémentaire jugée
+utile, par exemple des essais non destructifs.
+
+Au cas où il est établi qu’une épreuve de résistance initiale n’a pas eu lieu, l’ITM, sur avis
+obligatoire de l’organisme de contrôle, peut soit fixer la valeur de la pression de la réépreuve
+de résistance à appliquer, soit remplacer la réépreuve de résistance par d’autres techniques de
+contrôle permettant de garantir un niveau de sécurité au moins équivalent.
+Vérification des accessoires de sécurité avec retarage ou remplacement des soupapes de
+sécurité.
+
+Le rapport de cette réépreuve quinquennale est à soumettre pour visa à l’ITM.
+
+Copie du rapport visé est versé au registre prévu à l’art. 33 ci-après.
+
+31.3. Les opérations de contrôle périodiques ont lieu avant l’expiration du délai fixé à cette fin
+par l’organisme de contrôle lors de sa visite précédente, sauf si l’ITM a accordé une
+dérogation sur avis obligatoire de l’organisme de contrôle.
+
+31.4. Une vérification par l’organisme de contrôle doit également avoir lieu à la demande de
+l’ITM.
+
+31.5. A l’occasion de chaque vérification l’organisme de contrôle dresse un rapport indiquant
+l’état de conservation des installations (y compris d’éventuels flexibles), ainsi que ses
+constatations concernant l’observation des prescriptions réglementaires et des conditions
+d’exploitation.
+
+Il fixe en plus dans son rapport le délai pendant lequel, à son avis, la chaudière de la machine
+locomotive peut encore être exploitée en sécurité avant d’être soumise à une nouvelle
+vérification.
+
+Ces rapports sont à tenir à la disposition de l’ITM et des organismes de contrôle dans le
+registre prévu à l’art. 33 ci-après.
+
+
+ Titre V - Récipients à vapeur ou à eau surchauffée non soumis à l’action de la flamme, y
+          compris les appareils à vapeur à couvercle amovible à fermeture rapide
+                                   (autoclaves à vapeur)
+
+Art.32. - Champ d'application, déclaration et contrôles périodiques
+
+32.1. Sont soumis aux dispositions des présentes prescriptions, les récipients à vapeur ou à
+eau surchauffée et les appareils à vapeur à couvercle amovible à fermeture rapide (autoclaves
+à vapeur) avec une pression maximale admissible (PS) supérieure à 0,5 bar, un volume (V)
+
+Page 20 de 29 pages                                                                ITM-SST 1308.1
+supérieur à 1 litre (L) et un produit PS x V supérieur à 50 bar.L, ainsi que lorsque la pression
+maximale admissible (timbre) est supérieure à 1000 bar.
+
+32.2. Déclaration :
+
+32.2.1. Les appareils à vapeur à couvercle amovible à fermeture rapide (autoclaves) avec une
+pression maximale admissible (PS) supérieure à 0,5 bar, un volume (V) supérieur à 1 litre et
+un produit PS.V supérieur à 200 bar.L, ainsi que lorsque la pression maximale admissible
+(PS) est supérieure à 1000 bar, sont soumis à l’obligation de déclaration de mise en service.
+
+32.2.2. Les récipients à vapeur ou à eau surchauffée avec une pression maximale admissible
+(PS) supérieur à 2 bar, un volume (V) supérieure à 1 litre et un produit PS.V supérieur à
+10.000 bar.L, ainsi que lorsque la pression maximale admissible (PS) est supérieure à 1000
+bar, sont soumis à l’obligation de déclaration de mise en service.
+
+32.2.3. Cette déclaration est à effectuer suivant les dispositions des paragraphes 12.2, 12.3,
+12.4 et 12.5 ci-dessus.
+
+32.3. A l’exception des articles 5, 8, 9, 10, 22 et 23, les dispositions des titres I et II des
+présentes prescriptions sont applicables, conformément au sens, au récipient à vapeur ou à eau
+surchauffée y compris les appareils à vapeur à couvercle amovible à fermeture rapide
+(autoclaves à vapeur), tels que définis au paragraphe 32.1 ci-dessus.
+
+32.3.1 Sont soumis à des contrôles périodiques: les autoclaves
+       - Dont le volume est supérieur à 1 litre sans dépasser 400 litres et dont le produit de
+         la pression de service et du volume est égale ou supérieures à 200 bar.litres
+       - Dont le volume est supérieur à 400 litres et dont la pression de service est
+         supérieure à 0,5 bar.
+
+32.3.2 Sont soumis à des contrôles périodiques: les récipients à vapeur
+       - Dont le volume est supérieur à 1 litre sans dépasser 1000 litres et dont le produit de
+         la pression de service et du volume est égale ou supérieures à 2000 bar.litres
+       - Dont le volume est supérieur à 1000 litres et dont la pression de service est
+         supérieure à 2 bar.
+
+(voir Annexe VI des présentes prescriptions).
+
+32.3.4. Les récipients à vapeur ou à eau surchauffée et les autoclaves à vapeur sont à munir
+d’une soupape de sécurité réglée pour la pression indiquée par le timbre, à moins que cette
+pression ne soit égale ou supérieure à celle fixée pour le générateur à vapeur alimentant en
+vapeur ou en eau surchauffée les récipients ou les autoclaves.
+
+
+                              Titre VI – Dispositions générales.
+
+Art.33. - Registre de sécurité
+
+33.1. Pour chaque appareil à vapeur ou eau surchauffée est à tenir un registre d’entretien
+séparé.
+
+
+
+
+Page 21 de 29 pages                                                              ITM-SST 1308.1
+Doivent figurer au moins sur ce registre :
+
+-   les descriptions des opérations de maintenance (entretien et réparation) que l’appareil a
+    subi ;
+-   le rapport des vérifications effectuées par le personnel d’exploitation ou de maintenance ;
+-   un descriptif de toutes les interventions et modifications effectuées sur l’appareil pouvant
+    avoir une influence sur la sécurité du personnel ;
+-   les dates des interventions ;
+-   le nom des personnes ou de l’entreprise ayant effectué les interventions.
+
+33.2. Toutes les vérifications et tous les contrôles effectués par un organisme de contrôle
+doivent faire l’objet d’une inscription sur un second registre dénommé registre de contrôle
+réglementaire, registre complété par la documentation technique prévu à l’art. 14.2.2.
+
+Ce registre doit comprendre les mentions suivantes :
+
+-   date et nature des opérations de contrôle périodiques ;
+-   organisme et nom de l’inspecteur ayant effectué l’opération de contrôle périodique ;
+-   motif de l’opération de contrôle ;
+-   la nature et la cause de l’incident, si le contrôle a été effectué suite à un incident.
+
+33.3. Pour chaque chaudière à vapeur ou à eau surchauffée est à tenir un registre
+d’exploitation séparé.
+
+33.4. Ces registres doivent être incorporés dans un seul dossier de sécurité à tenir pour chaque
+appareil séparément.
+
+33.5. Ce dossier de sécurité doit être tenu à la disposition de l’ITM et des organismes de
+contrôle.
+
+Art.34. - Les annexes I à VII des présentes prescriptions en font partie intégrante
+
+
+
+
+              Visa du Directeur adjoint                           Mise en vigueur
+              de l'Inspection du Travail                          le 20 août 2008
+                     et des Mines
+
+
+                                                                     Paul WEBER
+                                                                       Directeur
+                 Robert HUBERTY                               de l’Inspection du Travail
+                                                                     et des Mines
+
+
+
+
+Page 22 de 29 pages                                                                  ITM-SST 1308.1
+                               ANNEXE I (article 5)
+
+                      Classement des chaudières à vapeur fixes
+
+
+
+
+Page 23 de 29 pages                                              ITM-SST 1308.1
+                                    ANNEXE II (article 6)
+
+
+
+                      Conditions générales d'installation et d'exploitation
+
+
+1. Les appareils à vapeur ou à eau surchauffée doivent être installés de sorte que toutes leurs
+   parties sont suffisamment accessibles aux personnes qui les utilisent, entretiennent,
+   surveillent ou vérifient.
+
+2. La quantité en eau d’alimentation appropriée nécessaire à une marche en sécurité de la
+   chaudière à vapeur est à assurer tant que celle-ci reste soumise à un apport calorifique.
+
+3. La chaudière à vapeur pour laquelle une circulation naturelle de l’eau est insuffisante pour
+   assurer qu’un dépassement considérable de la température maximale admissible ne se
+   produise pas doit être pourvue d’installations garantissant une circulation de l’eau de
+   chaudière requise à chaque instant.
+
+4. La chaudière à vapeur doit être équipée d’installations qui indiquent si la quantité en eau
+   est suffisante à une marche en sécurité.
+
+5. La chaudière à vapeur doit être équipée des accessoires de sécurité destinés à éviter un
+   dépassement des valeurs limites admissibles de certains paramètres d’exploitation.
+
+6. La chaudière à vapeur doit être équipée d’installations nécessaires à sa vidange.
+
+7. Les parties de la chaudière à vapeur prévues à la vapeur surchauffée doivent être équipées
+   d’installations permettant de constater la température de la vapeur.
+
+8. La chaudière à vapeur et les économiseurs de l’installation de l’eau d’alimentation, les
+   surchauffeurs, les surchauffeurs intermédiaires, les récipients de détente et les
+   refroidisseurs de vapeur obturables doivent être équipés d’installations indiquant leur
+   pression interne.
+
+9. Les générateurs d’eau surchauffée doivent être équipés d’installations indiquant la
+   température de sortie de chaudière de l’eau surchauffée (Vorlauftemperatur).
+
+
+
+
+Page 24 de 29 pages                                                             ITM-SST 1308.1
+                       ANNEXE III (article 12.1)
+
+                      Déclaration de mise en service
+
+
+
+
+Page 25 de 29 pages                                    ITM-SST 1308.1
+                                   ANNEXE IV (article 12.4)
+
+
+Déclaration de mise en service d’un équipement sous pression de vapeur ou à eau surchauffée
+
+Nom :
+
+Prénom :
+
+Domicile : (1) si personne physique
+
+
+Agissant en qualité
+
+
+Société
+
+
+Forme juridique :
+
+Adresse :
+
+
+déclare mettre en service à l’adresse
+suivante :
+
+un équipement sous pression de
+vapeur ou à eau surchauffée
+fabriqué par
+dont l’identification est :
+
+
+
+   A cette déclaration sont jointes en annexe :
+   -  une description succincte de l’installation avec identification des différents
+      équipements sous pression constitutifs de l’installation,
+   -  une copie de (ou des) la déclaration (s) de conformité délivrée (s) par le fabricant,
+   -  une copie de ( ou des) l’attestation (s) de conformité délivrée (s) par l’organisme
+      notifié et / ou de l’organisme de contrôle
+
+   Je tiens à votre disposition la documentation suivante :
+   -   la documentation technique,
+   -   les documents relatifs aux accessoires de sécurité (avec certificats de réglage).
+
+                                                   Fait à………………………………
+
+   (1) rayer la mention inutile
+
+
+
+
+   Page 26 de 29 pages                                                            ITM-SST 1308.1
+                                                ANNEXE V (article 24.3)
+
+                 Modèle de liste de contrôle (non exhaustif) pour un générateur
+                                 à vapeur ou à eau surchauffée.
+
+
+
+                   Modèle de liste de contrôle pour générateur à vapeur ou à eau surchauffée.
+                    (En principe la notice du constructeur est à prendre en considération)
+
+
+
+
+                                                         semaine
+
+
+
+
+                                                                                   12 mois
+                                                                          6 mois
+                                        poste
+
+
+
+
+                                                                   mois
+                                                  jour
+    Travaux de vérification                                                                         Genre de contrôle
+ d’entretien et de contrôle par :                                                                      Exemples
+
+Chaudière
+Soupapes de sécurité                                                                         Fonctionnalité
+Indicateurs de niveau d’eau                                                                  Soufflage
+Régulateur de niveau d’eau et                                                                Fonctionnalité et Soufflage
+limiteur de niveau d’eau
+Manomètre                                                                                    Fonctionnalité et libre passage
+Manostat (régulateur)                                                                        Etalonnage
+Manostat (limiteur)                                                                          Fonctionnement et libre passage
+Indicateur de température                                                                    Etalonnage
+Régulateur de température                                                                    Etalonnage
+Limiteur de température                                                                      Fonctionnement
+Armatures                                                                                    Fonctionnalité, étanchéité et
+                                                                                             énergie auxiliaire
+Trous d’homme, trous de main                                                                 Etanchéité, reserrage si nécessaire
+Eau d’alimentation, eau de                                                                   Analyses
+chaudière
+Installation de surveillance de la                                                           Fonctionnement
+qualité de l’eau
+Limiteur de débit                                                                            Fonctionnement
+Installation de chauffe
+Fin de course clapet de sortie des                                                           Essai et fonctionnement
+gaz de combustion
+Installation d’alimentation en air et                                                        Fonctionnalité
+combustible
+Ventilateur de l’air de combustion,                                                          Essai de fonctionnement et
+d’allumage et/ou de                                                                          transmission de l’énergie
+refroidissement
+Pression d’air, indicateur de la                                                             Fonctionnalité et libre passage
+quantité d’air, contrôleur de la
+pression d’air
+Dispositif d’obturation du                                                                   Fonctionnalité, étanchéité et
+combustible                                                                                  énergie auxiliaire
+Indicateur pression combustible                                                              Fonctionnalité et libre passage
+Dispositif d’obturation avant le                                                             Fonctionnalité et étanchéité
+brûleur
+Dispositif de contrôle de                                                                    Fonctionnement
+l’étanchéité
+Contacteur d’urgence                                                                         Fonctionnement
+Contrôleur de la flamme                                                                      Fonctionnement
+Appréciation                                                                                 Image de la flamme, valeurs
+                                                                                             sortie gaz de combustion
+
+
+
+
+Page 27 de 29 pages                                                                                           ITM-SST 1308.1
+                               ANNEXE VI (article 32.3.)
+
+            Récipients à vapeur et autoclaves soumis aux contrôles périodiques
+
+
+
+
+Page 28 de 29 pages                                                        ITM-SST 1308.1
+                                ANNEXE VII (article 19.4)
+
+                Retarage ou remplacement décennal des soupapes de sécurité
+
+
+
+
+Page 29 de 29 pages                                                          ITM-SST 1308.1
+

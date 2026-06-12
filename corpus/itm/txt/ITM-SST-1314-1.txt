@@ -1,0 +1,568 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        Strassen, juillet 2009
+
+
+
+
+                                                                                         ITM-SST 1314.1
+
+                                 Installations de production de froid
+                                 fonctionnant au dioxyde de carbone
+                                             (CO2) (R744)
+
+                                         Prescriptions de sécurité et de santé types
+
+                                          Le présent document comporte 11 pages
+
+    Autres prescriptions à prendre en considération :
+
+    ITM-CL 318.2
+    Tuyauteries métalliques destinées au transport de fluides à l’intérieur d’une entreprise
+    ITM-SST 1305.1
+    Appareils sous pression contenant de l’air comprimé ou des gaz liquéfiés, comprimés ou dissous
+
+                                                            Sommaire
+    Article                                                                                                Page
+
+     1.        Objectifs et domaine d'application                                                                2
+     2.        Définitions                                                                                       2
+     3.        Normes et règles techniques                                                                       2
+     4.        Conception, fabrication et évaluation de la conformité
+               (Groupe frigorifique, conduite CO2 et îlots surgelés et réfrigérateurs)                            3
+     5.        La salle des machines                                                                              4
+     6.        Installation de détection CO2                                                                      5
+     7.        Installations électriques                                                                          6
+     8.        Signalisation de sécurité                                                                          6
+     9.        Le dossier du constructeur                                                                         7
+    10.        Examen préalable                                                                                   7
+    11.        Contrôles périodiques                                                                              7
+    12.        Entretien, modifications, réparation                                                               9
+    13.        Exploitation                                                                                      10
+    14.        Registres                                                                                         10
+    15.        Accidents – Incidents                                                                             10
+
+
+          _________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2763 STRASSEN Tél : 247-86145 Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er. - Objectifs et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions
+générales de sécurité, de santé, d'hygiène, de salubrité et de commodité de toutes les
+installations de production de froid fonctionnant au dioxyde de carbone (CO2).
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés
+de cas en cas, mais uniquement si des mesures de rechange garantissant une
+protection au moins équivalente sont prises.
+
+Ces mesures de rechange ne devront pas être en contradiction avec la législation
+applicable et doivent être reconnues comme garantissant un niveau de sécurité
+équivalent par un organisme de contrôle et acceptées comme telles par l’Inspection du
+travail et des mines.
+
+Art. 2. - Définitions
+
+Sous la dénomination « organisme de contrôle » est à comprendre, dans le contexte
+des présentes prescriptions tout organisme autorisé par le règlement ministériel
+concernant l’intervention des organismes de contrôle, dans le cadre des compétences
+et attributions de l’Inspection du travail et des mines le plus récent en date, du
+Ministre du travail et de l’emploi, à contrôler les appareils à pression fixes.
+
+Sous la dénomination « ITM » est à comprendre l’Inspection du travail et des mines.
+
+Art. 3. - Normes et règles techniques
+
+3.1 Les prescriptions à appliquer lors de la conception et de la fabrication des
+appareils sous pression sont définies au règlement du 21 janvier 2000 concernant les
+équipements sous pression transposant la directive 97/23/CE en droit luxembourgeois.
+
+3.2 Les prescriptions suivantes sont également d’application :
+
+ITM-SST 1305 Appareils sous pression contenant de l’air comprimé ou des gaz
+liquéfiés, comprimés ou dissous
+
+et
+
+ITM-CL 318 Tuyauteries d'usine métalliques destinées au transport de fluides à
+l’intérieur d’une entreprise
+
+3.3 Dans le domaine non réglementé, les normes, prescriptions, directives de sécurité
+et d’hygiène et les règles de l’art à appliquer lors du montage de l’installation et de
+l’exploitation des appareils sous pression sont en particulier les présentes
+prescriptions et en général les normes européennes (EN) afférentes les plus récentes
+en vigueur ou à défaut les normes reconnues comme suffisantes du point de vue de la
+sécurité par un organisme de contrôle et acceptées comme telles par l’ITM.
+
+Exemples :
+
+EN 378 Systèmes de réfrigération et pompes à chaleur - Exigences de Sécurité et
+d'environnement,
+EN 14276 Equipements sous pression pour systèmes de réfrigération,
+
+
+page 2 de 11 pages                                                     ITM-SST 1314.1
+Art. 4. - Conception, fabrication et évaluation de la conformité (Groupe
+frigorifique, conduite CO2 et îlots surgelés et réfrigérateurs)
+
+Les installations frigorifiques pour la production de froid fonctionnant au CO2 doivent
+satisfaire au règlement du 21 janvier 2000 concernant les équipements sous pression
+transposant la directive 97/23/CE en droit luxembourgeois. Le marquage « CE » de
+conformité ainsi que la fourniture de la déclaration « CE » de conformité sont requis.
+
+Les parties de l’installation frigorifique fonctionnant au CO2 ne tombant pas sous le
+champ d’application de la directive susmentionnée, ainsi que les tuyauteries de la
+catégorie 0 telles que définies au règlement grand-ducal susmentionné, doivent être
+conçues, fabriquées, examinées et être soumises aux essais conformément aux règles
+de l’art.
+
+4.1 Conduites contenant du CO2:
+
+Avant le début des travaux, le code de construction est à définir par le constructeur en
+accord avec le client.
+- Les tuyauteries, armatures et raccordements doivent être conçues pour être
+   exploitées avec le CO2 (acier inoxydable, cuivre, …)
+- Les modes de travail doivent être déterminées:
+   o Sont à choisir pour les tuyauteries des méthodes de jointement notamment le
+       brasage fort pour les connexions impliquant du cuivre et le soudage pour les
+       connexions des parties en acier inoxydable.
+   o Le volume et les méthodes des contrôles non-destructifs (radiographie (RT),
+       par ressuage (PT), ou par ultra-son (UT) sont à déterminer suivant le code de
+       construction choisi.
+   o Le mode de soudage est à choisir (soudure bout-à-bout, soudure d’angle).
+
+4.2 Dispositifs de surveillance et de protection de l’installation
+
+4.2.1 Conformément au point 2.10 de l’annexe I du règlement grand-ducal
+susmentionné, chaque système de réfrigération doit être protégé contre des
+surpressions moyennant l’installation de dispositifs de protection tels que :
+    - soupapes de sécurité
+    - dispositifs limiteurs de pression
+    - interrupteurs d’urgence
+
+Après déclenchement des dispositifs de limitation de pression, le redémarrage de
+l’installation ne peut se faire automatiquement même si la valeur est revenue à sa
+valeur normale.
+
+Lorsque des soupapes de sécurité ouvrent, le CO2 doit être guidé par des canalisations
+étanches vers l’extérieur à l’air libre.
+
+Les installations de dispositifs de protection sont à installer de façon à garantir un
+accès facile. Les interrupteurs d’urgence doivent être disposés de façon bien visible
+dans la salle des machines.
+
+4.2.2 Les principaux utilisateurs de CO2 comme les chambres froides doivent être
+séparées par des vannes automatiques permettant de les séparer du circuit principal de
+CO2.
+
+page 3 de 11 pages                                                      ITM-SST 1314.1
+Les différentes sections pouvant être isolées, doivent être munies de soupapes de
+sécurité déclenchant lors d’une surpression due à une séparation d'un tronçon du
+circuit caloporteur et à l'expansion du fluide caloporteur lors du réchauffement
+
+Art. 5. - La salle des machines
+
+5.1 Dimensions et accessibilité de la salle des machines
+
+5.1.1 Si la salle des machines est aménagée à l’intérieur du bâtiment, elle doit être
+      aménagée de façon à être sans communication directe avec des pièces, parties
+      de bâtiment, ou bâtiments entiers où ont accès des personnes qui ne sont pas
+      nécessairement au courant des mesures générales de sécurité de
+      l'établissement.
+
+         Deux cas peuvent se présenter:
+         a) Des établissements, auxquels ont accès des personnes du grand public ou
+            des personnes tiers au service, comme une surface de vente dans un
+            magasin ou un grand bâtiment administratif.
+            Dans ces bâtiments l’accès à la salle des machines doit se faire directement
+            de l’extérieur.
+
+         b) Des établissements auxquels ont accès que des personnes initiées et
+            autorisés et qui sont ou courant des dangers de cette installation ainsi que
+            des mesures générales de sécurité de l'établissement comme des
+            exploitations artisanales ou industrielles ou des petits bâtiments
+            administratifs occupés seulement par une entreprise ainsi que des dépôts.
+            Dans ces bâtiments l’accès dans la salle des machines peut se faire par un
+            sas. A ce moment le sas doit être équipé avec une détection de CO2 et une
+            ventilation.
+
+         Dans tous les cas l’accès direct même par un sas de la salle des machines de
+         personnes tiers ne doit pas être possible.
+
+5.1.2 Les dimensions de la salle des machines doivent permettre l’installation des
+      équipements dans de bonnes conditions de travail, laissant assez de place pour
+      assurer le montage, le service, l’entretien et le dépannage.
+5.1.3 Une hauteur de dégagement d’au moins 2 mètres doit exister sous les
+      tuyauteries, équipements et dispositifs situés au-dessus d’un lieu de passage.
+5.1.4 Les portes doivent être conçues de façon à pouvoir s'ouvrir en tout temps et
+      sans difficulté, depuis l'intérieur dans le sens d'une fuite éventuelle. Elles
+      doivent être à fermeture automatique. Les portes doivent présenter une
+      résistance au feu de minimum 30 minutes, et être étanches au gaz et aux
+      fumées.
+5.1.5 La salle des machines doit être étanche par rapport aux locaux adjacents.
+
+5.2 Utilisation de la salle des machines.
+
+La salle des machines ne peut pas contenir d’autres installations que celles nécessaires
+pour la production du froid, ni servir de dépôt ou de stockage.
+
+
+
+
+page 4 de 11 pages                                                      ITM-SST 1314.1
+Art. 6. - Installation de détection CO2
+
+6.1 Détection CO2
+
+6.1.1 La salle des machines et tout autre local fermé accessible à une personne et
+      contenant des installations au CO2 (p.ex. chambres froides) doivent être
+      équipés d'une installation de détection CO2.
+6.1.2 La détection CO2 doit être effectuée par mesurage direct (mesure de la
+      concentration de CO2). Les détecteurs indirects (p.ex. par détermination de la
+      concentration de l’O2) ne sont pas acceptés.
+6.1.3 La détection de CO2 doit fonctionner à deux niveaux d’alarme :
+      - Pré alarme optique à une concentration de 1,5 Vol% (15’000 ppm)
+      - Alarme principale à une concentration de 3 Vol% (30’000 ppm)
+
+6.1.4 Un redémarrage automatique de l'installation après le déclenchement d’une
+      alarme n'est pas admis même si les concentrations de CO2 sont revenues aux
+      taux normaux. La remise en marche doit être effectuée manuellement par une
+      personne qualifiée et après que tous les contrôles et mises aux points
+      nécessaires ont été effectués.
+
+6.1.5 Dans le cas d'une installation mixte (NH3 – CO2) les alarmes ainsi que les
+      asservissements de sécurité de l'installation NH3 prévalent sur celles des
+      dispositifs de l'installation CO2. Les prescriptions de sécurité types en vigueur
+      concernant les installations NH3 sont à respecter.
+
+6.2 Asservissements de sécurité
+
+6.2.1 Lors de la détection de CO2 (pré alarme à 15’000ppm) :
+      - alarme optique à l’entrée de la salle des machines ainsi que, le cas échéant,
+         à l’entrée des lieux tel que mentionnés au point 6.1.1
+
+6.2.2 Lors de la détection de CO2 (alarme principale à 30’000ppm) :
+      - alarme optique et acoustique à l’extérieur de la salle des machines ainsi
+         que, le cas échéant à l’entrée des lieux tel que mentionnés au point 6.1.1
+      - mise en route du système de ventilation mentionné au point 6.3.1 pour la
+         détection de CO2 dans la salle des machines ou le cas échéant dans le sas.
+      - séparation du réseau principal des installations contenant du CO2 installées
+         en ce lieu surveillé où la détection a déclenché. (vannes automatiques
+         permettant de les séparer du circuit principal de CO2.)
+      - l’installation frigorifique est à mettre à l’arrêt si nécessaire. Une procédure
+         de sécurité issue d’une analyse des risques doit déterminer la nécessité de
+         mettre en arrêt l’installation
+
+6.2.3 Les alarmes optiques et acoustiques sont à installer à l’entrée de la salle des
+machines ainsi que, le cas échéant, à l’entrée des lieux tel que mentionnés au point
+6.1.1.
+
+6.2.4 Les alarmes doivent être transmises vers un poste occupé en permanence.
+
+
+
+
+page 5 de 11 pages                                                     ITM-SST 1314.1
+6.3 Système de ventilation
+
+6.3.1 Un système de ventilation doit être installé dans la salle des machines et, le cas
+      échéant dans le sas, ainsi que dans les autres lieux tel que mentionnés au point
+      6.1.1 afin d’assurer la mise en œuvre des mesures d’urgence en cas d’une
+      détection de CO2. La pulsion doit se faire en haut et l’extraction en bas du lieu
+      ventilé.
+
+6.3.2 Des dispositions doivent être prises afin d’assurer un renouvellement de l’air
+      par un apport suffisant d’air venant de l’extérieur ainsi qu’une bonne
+      distribution de cet air dans l’ensemble des lieux ventilés sans créer de volumes
+      morts.
+6.3.3 Le système de ventilation ne doit pas être raccordé à d’autres conduites de
+      ventilation.
+6.3.4 Les sorties d’air doivent être aménagées de façon à ne causer ni nuisance ni
+      danger pour les personnes présents sur les lieux ou dans le voisinage.
+6.3.5 La mise en marche forcée de la ventilation par la salle des machines doit
+      pouvoir se faire à partir de l’extérieur du local.
+
+Art. 7. - Installations électriques
+
+Nonobstant de la liberté du constructeur dans le cadre des procédures de déclaration
+« CE » de conformité dans le cadre des législations afférentes, la conception, la
+construction, l'installation, les essais et l'utilisation des équipements électriques
+doivent se faire conformément aux normes, prescriptions et directives de sécurité et
+aux règles de l'art et de sécurité normalement applicables au Grand-duché de
+Luxembourg,
+à savoir:
+       - les prescriptions allemandes afférentes DIN/VDE,
+       - les normes européennes appropriées, pour autant qu'elles existent et à fur et
+           à mesures que celles-ci paraissent et remplacent les prescriptions
+           DIN/VDE précitées,
+       - le règlement ministériel du 8 août 1989 concernant les prescriptions de
+           raccordement aux réseaux de distribution de l'énergie électrique à basse
+           tension au Grand-duché de Luxembourg.
+
+Art. 8. - Signalisation de sécurité
+
+La signalisation de sécurité effectuée par des symboles normalisés répondant aux
+dispositions du règlement grand-ducal du 28 mars 1995 concernant les prescriptions
+minimales pour la signalisation de sécurité sur les lieux de travail doit couvrir :
+      o     matières asphyxiantes,
+      o     les voies d’évacuation d’urgence,
+      o     les équipements d’urgence tel que : poste d’alerte, moyen de lutte contre
+            l’incendie, postes de premier secours, bouton d’arrêt d’urgence,
+      o     les consignes d’utilisation des équipements de sécurité,
+      o     accès interdit à toute personne non autorisée.
+
+•      Un panneau d’interdiction d’entrer dans un lieu surveillé par une détection de
+       CO2 en cas de détection de CO2 est à apposer à l’entrée de ce local.
+
+
+
+
+page 6 de 11 pages                                                      ITM-SST 1314.1
+•      A défaut de pictogrammes normalisés, la signalisation de sécurité doit être
+       affichée en aux moins deux langues (de préférence en français et en allemand,
+       tout en tenant compte de la langue usuelle des personnes à prévenir).
+•      Toutes les conduites transportant du gaz doivent être identifiées d’après les
+       prescriptions allemandes (DIN 2403) en plus des indications prévues par le
+       règlement grand-ducal du 28 mars 1995 susmentionné.
+•      La signalisation de sécurité doit être apposée aux endroits appropriés et doit être
+       durable.
+•      Les fiches de sécurité afférentes (Sicherheitsdatenblätter) doivent être disposées,
+       clairement visible, à l’extérieur de la salle des machines.
+
+Art. 9. - Le dossier du constructeur
+
+Pour les installations ou parties d’installation soumises à la directive 97/23/CE de la
+catégorie 0, le constructeur établit un dossier du constructeur. Ce dossier comprend
+les documents suivants :
+    - Les certificats de soudage respectivement de brasage
+    - Les instructions de soudage respectivement de brasage
+    - Les certificats des matériaux utilisés
+    - Une indication du code de construction ainsi que le niveau de qualité
+       d’exécution choisi
+    - Les rapports des contrôles non-destructifs
+
+Art. 10. - Examen préalable
+
+Un organisme de contrôle doit être chargé d’un examen préalable des documents
+relatifs à l’installation (plans d’aménagement des locaux, dossiers techniques de
+l’installation – machines, conduites, etc, plans d’installation et documents techniques
+en rapport aux installations de sécurité, code de construction).
+L’organisme de contrôle doit dresser un rapport de l’examen préalable.
+
+Art. 11. - Contrôles périodiques
+
+Les installations sont soumises à des contrôles périodiques pour garantir la sécurité de
+l’installation à effectuer par un organisme de contrôle.
+
+L’organisme de contrôle considère l’ensemble des installations telles qu’elles
+fonctionnent sur le lieu d’implantation. Il vérifie tous les éléments et toutes les parties
+dans le contexte de leur interaction et de leur interdépendance; il procède aux essais
+nécessaires et il apprécie l’objet dans l’optique de sa destination, de son utilisation et
+de son entretien ainsi que dans le but primordial de la sécurité des personnes.
+
+Comme référence de contrôle, l’organisme de contrôle considère notamment la
+présente prescription, ainsi que le cas échéant, le code de construction choisi pour
+l’exécution.
+
+Le constructeur doit mettre à disposition de l’organisme de contrôle la documentation
+nécessaire pour effectuer les contrôles périodiques, à savoir le cas échéant :
+   - Plans de construction
+   - Indication du code de construction choisi ainsi que le niveau de qualité
+       d’exécution choisi
+   - Certificats de conformité
+
+page 7 de 11 pages                                                        ITM-SST 1314.1
+     -    Certificats d’essais
+     -    Certificats de matériaux utilisés
+     -    Registres
+
+11.1 Premier contrôle périodique
+
+Le premier contrôle périodique comprend:
+a)    Pour les installations soumises à la directive 97/23/CE de la catégorie I à IV
+      •     La vérification de l’identification du fabricant ou de son mandataire dans
+            la Communauté européenne
+      •     La vérification administrative des instructions de service
+      •     La vérification administrative du marquage, de la déclaration de
+            conformité, de la documentation technique et de la notice d’instruction
+            délivrée à l’utilisateur,
+      •     la vérification de la conformité aux prescriptions d’installation,
+      •     les essais d’étanchéité effectués à une pression de 0,8 fois la pression
+            maximale de service (PS) avant calorifugeage,
+      •     les essais de fonctionnement de l’installation et des équipements de
+            sécurité.
+
+b)       Pour les installations ou parties d’installation soumises à la directive 97/23/CE
+         de la catégorie 0
+         •      La vérification de l’attestation de l’application des règles de l’art par le
+                fabricant respectivement du rapport de réception finale par un organisme
+                agrée
+         •      La vérification administrative du dossier constructeur:
+         •      La vérification administrative des instructions de service
+         •      les essais d’étanchéité effectués à une pression de 0,8 fois la pression
+                maximale de service (PS) avant calorifugeage,
+         •      Les essais de fonctionnement de l’installation et des équipements de
+                sécurité.
+         •      épreuve de résistance à une pression PS x 1,43.
+
+11.2 Contrôle annuel:
+
+L’organisme de contrôle procède à la vérification de l’ensemble de l’installation à
+savoir :
+     - l’identité de l’installation frigorifique,
+     - l’état général de sécurité et de propreté,
+     - l’état général des appareils de pression, des tuyauteries, accessoires de sécurité
+        et accessoires sous pression,
+     - contrôle visuel de l’installation frigorifique,
+     - vérification de la détection de gaz et des asservissements de sécurité.
+
+11.3 Contrôle quinquennal:
+Tous les 5 ans un contrôle complet à l’arrêt est à effectuer. Lors de ce contrôle les
+vérifications suivantes sont à effectuer :
+    - Les vérifications effectuées lors du contrôle annuel,
+    - une épreuve d’étanchéité,
+    - le contrôle du remplacement des dispositifs de sûreté par des éléments révisés,
+        dont la valeur de tarage a été vérifiée et certifiée.
+
+
+page 8 de 11 pages                                                          ITM-SST 1314.1
+11.3 Les rapports de contrôle
+
+11.3.1 Chaque visite de contrôle de l’organisme de contrôle doit se solder par un
+rapport.
+Le rapport est dressé en deux exemplaires avec une copie. En cas de premier contrôle
+périodique les rapports sont soumis pour visa à l’ITM, qui fait archivage de la copie.
+Sans préjudice des obligations de l’organisme de contrôle envers son commettant, la
+distribution finale des rapports est faite par l’organisme de contrôle comme suit :
+    - 1 exemplaire pour l’exploitant ou le propriétaire
+    - 1 exemplaire archivé par l’organisme de contrôle
+
+Le propriétaire et/ou l’exploitant veillent à ce que le rapport visé, ou au moins une
+copie du rapport visé, soit versée au registre prévu à l’article 14 de la présente
+prescription.
+
+11.3.2 Au cas où l’organisme de contrôle constate une situation pouvant présenter des
+dangers pour les personnes, il doit en informer immédiatement l’exploitant par le
+moyen de communication le plus direct et le plus rapide possible, sans préjudice du
+rapport écrit ultérieur, de préférence, en lui faisant contresigner son rapport provisoire
+de contrôle.
+
+11.3.3 L’inspecteur de l’organisme de contrôle concerné doit dans un pareil cas
+indiquer en plus les mesures à prendre immédiatement et il doit s’assurer qu’il est
+obtempéré et que les risques inacceptables sont éliminés. A défaut, il doit en informer
+sans délai l’ITM.
+
+11.3.4 Le propriétaire et/ou l’exploitant de l’installation doivent veiller à ce que les
+anomalies éventuelles détectées par l’organisme de contrôle soient levées dans les
+délais indiqués dans les rapports.
+
+11.3.5 Une visite de recontrôle par l’organisme de contrôle est à prévoir. Si les
+réparations ou la mise en état n’ont pas pu être effectués dans les délais fixés par
+l’organisme de contrôle, l’appareil est à mettre hors service. Avant une remise en
+service, un nouveau contrôle par l’organisme de contrôle est exigé.
+
+Art. 12. - Entretien, modifications, réparation
+
+L’entretien régulier doit être effectué par une entreprise travaillant dans le domaine
+d’installation sur base d’un contrat écrit. Tous les entretiens prévus par le constructeur
+et nécessaires pour garantir l’exploitation en sécurité des installations doivent être
+effectués.
+
+Toutefois, chaque installation de production de froid au dioxyde de carbone doit faire
+l’objet d’une maintenance préventive au moins une fois par an.
+
+Chaque réparation et chaque modification aux installations et accessoires contenant
+du fluide frigorigène sont à effectuer par un homme de l’art sous surveillance d’un
+organisme de contrôle. Lors de modifications effectuées sur des installations munies
+du marquage « CE » de conformité, les dispositions du règlement grand-ducal du 21
+janvier 2000 concernant les équipements sous pression sont à respecter.
+
+A la suite de telles interventions, les réparations respectivement modifications doivent
+être réceptionnées par le même organisme de contrôle.
+
+page 9 de 11 pages                                                        ITM-SST 1314.1
+Art. 13. - Exploitation
+
+Il est interdit d’exploiter une installation frigorifique, si elle n’est pas couverte par une
+autorisation d’exploitation conformément à la loi modifiée du 10 juin 1999 relative
+aux établissements classés.
+L’installation doit avoir subi le premier contrôle périodique effectué par un organisme
+de contrôle.
+
+Art. 14. - Registres
+
+14.1 Pour chaque installation de production de froid au dioxyde de carbone un registre
+d’entretien séparé est à tenir.
+
+Doivent figurer au moins dans ce registre :
+
+-   Le dossier du constructeur
+-   les descriptions des opérations de maintenance (entretien et réparations) que
+    l’installation a subies ;
+-   le rapport des vérifications par le personnel d’exploitation ou de maintenance ;
+-   un descriptif de toutes les interventions et modifications effectuées sur
+    l’installation de production de froid au dioxyde de carbone pouvant avoir une
+    influence sur la sécurité du personnel ;
+-   les dates des interventions ;
+-   le nom des personnes ou de l’entreprise ayant effectué les interventions.
+
+14.2 Toutes les vérifications et tous les contrôles effectués sur l’installation de
+production de froid au dioxyde de carbone par un organisme de contrôle doivent faire
+l’objet d’une inscription sur un second registre dénommé registre de contrôle
+réglementaire, registre complété par le dossier technique prévu au paragraphe 9.
+
+Ce registre doit comprendre les mentions suivantes :
+
+-   date et nature des vérifications et contrôles ;
+-   l’organisme contrôle et le nom de l’inspecteur ayant effectué les vérifications et
+    contrôles ;
+-   motif de la vérification ou du contrôle ;
+-   la nature et la cause de l’incident, si le contrôle a été effectué suite à un incident.
+
+14.3 Ces registres doivent être incorporés dans un seul dossier de sécurité à tenir pour
+chaque installation de production de froid au dioxyde de carbone séparément.
+
+14.4. Ce dossier de sécurité doit être tenu à la disposition de l’ITM et des organismes
+de contrôle.
+
+Art. 15. - Accidents - Incidents
+
+15.1. En cas d'accident ou d'indisposition grave, les responsables pour l’exploitation
+sont tenus de prendre les mesures pour assurer les premiers soins aux victimes.
+
+15.2 Est à mettre hors service, chaque appareil ayant été la cause d'un accident ou d'un
+incident grave ainsi que chaque appareil ayant subi des avaries pouvant influencer la
+sécurité des personnes. L’ITM est à informer dans un délai de 2 jours ouvrables.
+
+
+
+page 10 de 11 pages                                                         ITM-SST 1314.1
+15.3 Ces appareils ne peuvent être remis en service qu'après délivrance d'un certificat
+de contrôle visé par l’ITM, certificat établi par un organisme de contrôle.
+
+15.4. La déclaration des accidents de travail à l’ITM doit se faire conformément à
+l’article L.614-11 du Code du travail.
+
+
+
+
+                          Visa du                        Mise en vigueur
+                    Directeur adjoint                     le 8.07.2009
+                de l’Inspection du travail
+                       et des mines                              s.
+
+                            s.                             Paul WEBER
+                                                              Directeur
+                      Robert HUBERTY                 de l’Inspection du travail
+                                                            et des mines
+
+
+
+
+page 11 de 11 pages                                                          ITM-SST 1314.1
+

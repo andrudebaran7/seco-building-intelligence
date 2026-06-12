@@ -12,3 +12,6 @@ corpus/aqc/pdf/
 # Material interno (no publicado en el repo)
 docs/research/
 docs/guion_video.md
+
+# PDFs del corpus ITM (re-descargables con: python3 ingest_itm.py)
+corpus/itm/pdf/

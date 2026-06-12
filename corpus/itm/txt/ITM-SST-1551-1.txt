@@ -1,0 +1,2328 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                         Strassen, septembre 2012
+
+
+                        Le présent texte a été établi par l’Inspection du travail et des mines et
+                           le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                                            ITM-SST 1551.1
+
+                                 Prescriptions de sécurité incendie
+                                    INSTRUCTION TECHNIQUE
+                         Etude de stabilité au feu à l’aide d’une
+                               approche performancielle
+                                                 Le présent document comporte 48 pages
+
+                                                                SOMMAIRE
+Article                                                                                                              Page
+ 1)                     Introduction sur les approches par le calcul                                                           2
+ 2)                     Prescriptions réglementaires                                                                           3
+ 3)                     Analyse quantitative des risques, scénarios d’incendie                                                 4
+ 4)                     Détermination des courbes d’échauffement (EN1991-1-2 avec AN-LU)                                      11
+ 5)                     Dimensionnement de la structure portante pour les différents matériaux de
+                        construction usuels, (Eurocodes - annexes nationales)                                                 16
+ 6)                     Procédure de validation et de contrôle                                                                27
+ 7)                     Organisme agréé pour le contrôle des calculs au feu                                                   29
+ 8)                     Transposition des hypothèses de dimensionnement et des résultats de calcul
+                        dans les documents d’exécution et d’exploitation                                                      30
+ 9)                     Analyse des risques restants lors de l’intervention                                                   30
+ Annexe I               Paramètres de calculs à considérer                                                                    33
+ Annexe II              Modèle de calcul au feu naturel                                                                       44
+ Annexe III             Méthode de détermination des charges au feu caractéristiques.                                         47
+
+
+      _____________________________________________________________________________________________________________________
+      Direction, Département Sécurité et Santé
+      Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+      Bureaux: 3, rue des Primeurs, L-2361 Strassen    Tél: 247-86145   Fax: 49 14 47
+      Site Internet: http://www.itm.lu
+Art. 1 Introduction sur les approches par le calcul
+Deux approches existent pour estimer l’action thermique à considérer pour vérifier la stabilité au
+feu d’une construction :
+   1.    Feu nominal (approche prescriptive) : l’action thermique est définie par la courbe
+         standard température/temps selon la norme internationale ISO 834
+   2.    Feu naturel (approche performancielle) : l’action thermique est donnée par des scénarios
+         d’incendie réel qui dépendent du type de bâtiment et de son exploitation.
+En plus de l’action thermique, la façon d’appréhender la structure se divise en 2 catégories :
+   1.    Soit un seul élément est vérifié, extrait de son contexte structurel et de l’interaction avec
+         les éléments voisins, comme c’est le cas pour un essai au feu conventionnel.
+   2.    Soit plusieurs éléments de structure ou même la structure dans son entièreté sont étudiés
+Ces 2 approches concernant l’analyse structurelle sont résumées sur la Figure 1 ci-dessous.
+Le présent document avec les méthodes de calcul suggérées traite exclusivement de l’approche
+performancielle, appelée également « Actions thermiques physiquement fondées » dans le schéma
+ci-dessous de la Figure 2 extraite des Eurocodes.
+
+
+
+
+         Figure 1 : Approche prescriptive et performancielle (EN 1991-1-2 avec AN-LU)
+
+
+
+
+Page 2 sur 48 pages                                                                   ITM-SST 1551.1
+                                                                                               Procédures de calcul
+
+
+
+
+                                   Règles prescriptives (actions thermiques                                                                 Code axé sur les performances (actions
+                                        données par le feu nominal)                                                                           thermiques physiquement fondées)
+
+
+
+                                                                                                                                                  Sélection de modèles de
+                                                                                                                                                développement de feu simples
+                                                                                                                                                         ou avancés
+
+
+
+
+                                                                                              Analyse de                                                Analyse d'une            Analyse de
+                   Analyse d'un                               Analyse d'une partie                                         Analyse d'un
+                                                                                            l’ensemble de                                                partie de la          l’ensemble de
+                     élément                                    de la structure                                              élément
+                                                                                              la structure                                                structure              la structure
+
+
+
+
+                 Détermination des                              Détermination des           Sélection des               Détermination des               Détermination          Sélection des
+                actions mécaniques                             actions mécaniques              actions                 actions mécaniques                des actions              actions
+                 et des conditions                              et des conditions           mécaniques                  et des conditions               mécaniques et          mécaniques
+                     aux limites                                    aux limites                                             aux limites                 des conditions
+                                                                                                                                                          aux limites
+
+
+
+
+  Données
+                                                          Modèles de                                              Modèles de
+ présentées        Modèles de          Modèles de                           Modèles de       Modèles de                             Modèles de          Modèles de              Modèles de
+                                                         calcul simples                                          calcul simples
+sous forme de     calcul simples      calcul avancés                       calcul avancés   calcul avancés                         calcul avancés      calcul avancés          calcul avancés
+                                                        (si disponibles)                                        (si disponibles)
+   tableau
+
+
+
+                                                                              Figure 2 : Procédures de calcul
+
+                 Art. 2 Prescriptions réglementaires
+                 2.1. Hypothèses de base
+                 Même si le contexte général et les notions de sécurité au feu sont semblables en Europe et même si
+                 la caractérisation au feu des produits de construction est régie par une directive européenne, les
+                 exigences relatives aux ouvrages ne sont pas homogènes car relevant dans chaque cas de l’autorité
+                 nationale. Néanmoins les réglementations des pays européens et du Luxembourg en particulier
+                 définissent des exigences dont le niveau varie principalement selon le type de bâtiment (hauteur,
+                 nombre de niveaux, taille des compartiments, bâtiment isolé au non,…) et son utilisation (nombre
+                 d’occupants, type d’activité, occupé la nuit ou pas, locaux à risque, …). Le niveau d’exigence est
+                 en fait fonction d’un temps d’évacuation estimé et des conséquences en cas de ruine.
+                 En matière de résistance, les exigences R30, R60, R90, R120, R180 et R240 ont été définies dans
+                 le passé à une époque où l’approche prescriptive était la seule voie.
+
+                 2.2. Adaptation en cas d’approche performancielle
+                 En cas d’utilisation d’une approche performancielle, les exigences doivent être fixées sur base
+                 d’une étude de risque définissant le temps d’évacuation des occupants et le temps nécessaire pour
+                 l’intervention des services de secours dans des conditions acceptables.
+
+
+
+                 Page 3 sur 48 pages                                                                                                                            ITM-SST 1551.1
+Dans ce cas, une étude du comportement du bâtiment jusqu’au refroidissement complet de la
+structure est à réaliser (exigence standard). La résistance au feu de la structure y compris ses
+assemblages est à démontrer jusqu’au refroidissement complet en tenant compte des mesures de
+protection actives (par exemple désenfumage, sprinkler, détection incendie). Néanmoins pour
+certains types de bâtiments et d’exploitation, cette exigence standard peut être allégée ou renforcée
+(voir article 9).
+Dans tous les cas, l’approbation sera donnée suivant la procédure de validation de l’article 6, au
+vu des résultats de cette étude et des risques restants comme par exemple :
+  • les modes de ruine probables y compris les effets du second ordre,
+  • les effets de ruines d’éléments secondaires,
+  • les possibilités de défaillance des mesures de protection passives (portes et volets coupe-
+      feu,…)
+  • les possibilités de défaillance des mesures de protection actives,
+  • des changements d’exploitation ou d’affectation, etc.
+Cette analyse des risques restants sera réalisée suivant les profils de risque définis dans l’article 9
+du document ITM-SST 1551.
+De plus, quelle que soit l’approche considérée, l’influence du comportement de la structure dans
+le compartiment soumis au feu sur le compartimentage (compartiments voisins, parois du
+compartiment) et sur les issues (cages d’escalier, portes, …) devra être analysée.
+
+Art. 3 Analyse quantitative des risques, Scénarios d’incendie
+Le bâtiment est divisé en compartiments délimités par des parois satisfaisant aux exigences EI 30,
+60, 90 ou 120. La taille maximale des compartiments et le niveau de performance EI est donnée
+dans les conditions types ITM y relatives. L’incendie est supposé affecter un seul compartiment à
+la fois.
+Lors de la détermination de la résistance au feu des parois de compartiment, il est tenu compte de
+la stabilité générale du bâtiment et de l’influence des éléments structurels sur la paroi. De plus il
+est tenu compte des dilatations et des déformations des éléments structurels dues à l’incendie. Dans
+le cas particulier où une paroi de compartiment fait partie de la structure portante, le critère R de
+résistance au feu peut être vérifié par l’approche performancielle.
+Connaissant la disposition de ces compartiments et les éléments de structures qui s’y trouvent,
+différents scénarios seront analysés afin de couvrir les situations les plus critiques (éléments
+chauffés, taux de chargement, effet des dilatations thermiques,…). Ainsi dans le cas d’une colonne
+d’un bâtiment multi-étagé soumise seulement aux actions verticales, le compartiment du rez-de-
+chaussée doit évidemment être analysé mais également les compartiments situés aux étages
+supérieurs lorsque la section de la colonne est modifiée. En fait chaque élément structurel d’une
+section transversale donnée doit être étudié dans sa zone de sollicitation mécanique maximale,
+mais aussi dans sa zone de sollicitation thermique maximale.
+
+3.1. Développement du feu : courbe ISO (Approche prescriptive)
+Dans le compartiment incendié, l’embrasement est supposé généralisé ; l’échauffement des gaz
+chauds est uniforme et suit la courbe ISO. Aucune donnée n’est nécessaire pour déterminer le
+développement du feu.
+
+
+
+Page 4 sur 48 pages                                                                    ITM-SST 1551.1
+3.2. Développement du feu : feu naturel (Approche performancielle)
+Contrairement au calcul conventionnel, l’approche performancielle de la sécurité incendie se base
+sur les scénarios possibles de feu. Chaque scénario décrit l’évolution d’un feu en fonction des
+paramètres physiques qui le caractérisent comme la charge calorifique, la taille du foyer, sa
+position, la vitesse de propagation, le débit calorifique maximal, les conditions de ventilation, les
+caractéristiques thermiques des parois du compartiment, les mesures actives de lutte contre le feu
+et la probabilité d’occurrence du feu (voir EN 1991-1-2 avec AN-LU). Ces paramètres physiques
+doivent être choisis pour être représentatifs des scénarios les plus défavorables.
+La Figure 3 montre la comparaison entre les échauffements mesurés lors d’essais d’incendie
+concernant différentes configurations (taille du compartiment, charge calorifique, isolation des
+murs, caractéristiques du combustible, …) et la courbe conventionnelle ISO 838. Elle démontre
+que la courbe normalisée ne correspond pas au développement d’un incendie réel.
+
+
+
+
+Figure 3 : Courbe conventionnelle température-temps comparée à des résultats de feux réels en
+                                       laboratoire.
+
+La figure 4 montre les cinq phases d’un feu réel :
+   1.   Une phase de commencement ou phase couvante : feu couvant à très basse température
+        avec une durée souvent difficile à estimer. Elle est caractérisée par une variété de
+        phénomènes de combustion qui peuvent donner un feu qui brûle lentement (c’est-à-dire
+        sans la présence de flammes ou de feu bien apparent => feu couvant), ou qui présente de
+        très petites flammes peu visibles ou qui présente un caractère d’incandescence. Cette phase
+        n’est pas montrée sur la Figure 4.
+
+Page 5 sur 48 pages                                                                  ITM-SST 1551.1
+   2.   Une phase de croissance et de développement appelée « pré-flashover » (feu localisé) : elle
+        couvre la période de la propagation du feu jusqu’à éventuellement le « flashover » ou
+        l’embrasement de tout le compartiment; la durée de cette phase dépend principalement des
+        caractéristiques du compartiment et des matières combustibles.
+   3.   Le «flashover » est la transition entre le feu localisé et l’embrasement généralisé dû à une
+        inflammation spontanée des gaz combustibles, dès que par exemple la température des gaz
+        de la couche de fumée atteint une valeur suffisamment élevée.
+   4.   Une phase de plein développement ou phase « post-flashover » : cette phase correspond à
+        un feu généralisé dont la durée dépend de la charge calorifique et de la ventilation ; elle est
+        caractérisée par un taux de combustion relativement stable.
+   5.   Une phase décroissante : le feu commence à diminuer jusqu’à ce que tous les matériaux
+        combustibles aient complètement brûlé et plus aucune énergie ne soit libérée par le foyer ;
+        l’activité de l’incendie s’estompe tout simplement (extinction).
+
+
+
+
+                Figure 4 : Les différentes phases de développement d’un incendie réel.
+
+3.1.1. Charge calorifique Qfi (Fire load)
+La charge calorifique de matériaux combustibles dans une zone est la charge au feu ou encore la
+quantité totale de chaleur que peut dégager l'ensemble des combustibles présents dans un espace
+déterminé dans des conditions d’incendie réelles.
+La charge calorifique donne l’énergie totale disponible dans le compartiment [MJ]. La densité de
+charge calorifique qf [MJ / m2] est la charge calorifique par m2 de plancher.
+Pour les bâtiments tels que appartement, hôpital, hôtel, bibliothèque, bureau, école, centre
+commercial, théâtre, cinéma, espace public dans les gare ou aéroport, la densité de charge au feu
+caractéristique est donnée dans le tableau E.4 de l’EN1991-1-2.
+
+
+Page 6 sur 48 pages                                                                    ITM-SST 1551.1
+En cas de bâtiment non couvert par ce tableau ou moyennant justification particulière, la charge
+calorifique peut être estimée pour l’industrie en utilisant le tableau 1 de l’annexe 1.
+Une alternative consiste à inventorier l’ensemble des matériaux combustibles dans le
+compartiment et à en déduire la charge calorifique en appliquant l’équation (E. 2) et le tableau E.3
+de l’EN 1991-1-2 avec AN-LU. Le tableau 3 de l’annexe 1 peut également être utilisé lorsque le
+tableau E.3 ne contient pas les informations nécessaires.
+3.1.2. Densité de charge calorifique de calcul qf,d ( Design fire load)
+La densité de charge calorifique de calcul [qf,d] [MJ/m2] est la densité caractéristique de charge
+calorifique multipliée par les coefficients majorateurs et/ou minorateurs afin d’obtenir la valeur à
+utiliser dans les calculs pour obtenir la sécurité voulue (Voir équation (E. 1) de l’EN 1991-1-2 avec
+AN-LU).
+3.1.3. Débit calorifique maximal par unite de surface RHRf (Rate of Heat Release)
+La vitesse à laquelle la charge au feu va se consumer est fonction du débit calorifique maximal
+[RHRf] en [kW/m2] (voir EN 1991-1-2 avec AN-LU (tableau E.5)) et de la vitesse de
+développement du feu (Voir 3.2.4).
+Pour les bâtiments tels que appartement, hôpital, hôtel, bureau, école, centre commercial, espace
+public dans les gares ou aéroport, le débit calorifique par m2 est de 250 kW/m2 et de 500 kW/m2
+pour les théâtres, cinémas, bibliothèques et halls d’exposition. Le débit calorifique total est la taille
+du foyer multiplié par cette valeur. Pour d’autres types de bâtiment, voir les valeurs du débit
+calorifique donné dans le tableau 2 de l’annexe 1.
+Ces valeurs sécuritaires de débit calorifique peuvent être différentes des valeurs adoptées pour le
+calcul de dimensionnement des installations d’évacuation des fumées.
+3.1.4. Taille du foyer et vitesse de propagation.
+Le feu démarre en général comme un feu localisé. En phase de pre-flashover, la surface du feu
+augmente selon une équation parabolique (équation (E.5) de l’EN 1991-1-2 avec AN-LU)
+dépendant d’un paramètre tα (150, 300 ou 600 secondes) qui donne le temps après lequel le débit
+calorifique atteint 1 MW (tableau E.5 de l’EN 1991-1-2 avec AN-LU) (Voir figure 5).
+
+
+
+
+                      Figure 5: Débit calorifique des incendies Q [W] = 106 ( t / tα )²
+
+
+Page 7 sur 48 pages                                                                       ITM-SST 1551.1
+Tant qu’il y a suffisamment d’oxygène dans le compartiment, l’augmentation de la taille du foyer
+est représentée par cette équation jusqu’à atteindre la surface totale du compartiment en cas de
+charge au feu répartie. Toutefois, dans certains cas où la charge au feu est suffisamment isolée, la
+taille maximale du foyer peut être limitée à la surface couverte par cette charge au feu isolée.
+Si l’oxygène dans le compartiment est totalement consommé, le feu est dit contrôlé par la
+ventilation; la taille du foyer et par conséquent le débit calorifique sont limités en conséquence.
+Cette prise en compte de l’oxygène peut se faire par l’équation simplifiée (E.6) ou le chapitre 3.3.2
+de l’EN 1991-1-2 avec AN-LU, correspondant aux modèles avancés tels que Ozone ou similaire.
+En cas de flash-over, la taille du foyer atteint instantanément la totalité du compartiment en cas de
+charge au feu assez bien répartie.
+Pour certaines configurations, le flash-over n’est pas possible et on se base alors sur des feux
+localisés (voir EN 1991-1-2 avec AN-LU : Annexe C). Il y a absence de risque d’embrasement
+général notamment dans les cas décrits dans le complément non contradictoire de la règle
+3.3.1.3(1) NOTE de l’EN 1991-1-2 avec AN-LU.
+Des scénarios de feu localisé doivent toujours être évalués.
+3.1.5. Position du foyer
+Les positions du foyer à considérer dans les calculs sont celles qui conduisent aux effets les plus
+défavorables. Elles dépendent de 3 types de paramètres :
+  • Les facteurs influençant le développement du feu (charge au feu, ventilation, taille du
+      compartiment ou du local,...)
+  • La structure influencée par le foyer (type de structure, taux de chargement, …)
+  • La position du foyer par rapport aux éléments de structure (feu localisé à mi-portée d’une
+      poutre, feu localisé au pied d’un poteau, etc.).
+3.1.6. Conditions de ventilation
+Les conditions de ventilation sont un facteur essentiel du développement du feu. Si le feu est
+contrôlé par la ventilation, une augmentation des ouvertures provoque une augmentation de la
+température maximale de gaz chauds; sinon, elle provoque une réduction. La température menant
+au bris des vitrages non-résistants au feu est généralement comprise entre 100 et 500°C dépendant
+du type de châssis, de la qualité des vitrages, du mode de pose, de l’épaisseur, des dimensions, du
+nombre de couches de vitrage, etc.
+En l’absence de données précises à ce sujet, il convient d’envisager deux scénarios extrêmes en
+fonction de la température des gaz chauds près des vitrages à l’intérieur du compartiment ou du
+local:
+  • Scénario 1 : 90% de la surface des vitrages est considéré comme ouverture dès le début de
+l’incendie. Ce scénario couvre notamment le bris de vitrages volontaire causé par l’intervention
+des services d’incendie et de sauvetage.
+   • Scénario 2 :
+       o Simple vitrage : A 100°C, 50% de la surface des simples vitrages exposés à cette
+          température sont supposés être des ouvertures complètes. A 250°C, 90% de la surface des
+          vitrages exposés à cette température est considéré comme ouverture.
+       o Double vitrage : A 200°C, 50% de la surface des doubles vitrages exposés à cette
+          température sont supposés être des ouvertures complètes. A 400 °C, 90% de la surface
+          des vitrages exposés à cette température est considéré comme ouverture.
+
+
+
+Page 8 sur 48 pages                                                                  ITM-SST 1551.1
+      o Triple vitrage dans un châssis en acier : A 300°C, 50% de la surface des vitrages
+        exposés à cette température sont supposés être des ouvertures complètes. A 500°C, 90%
+        de la surface des vitrages exposés à cette température est considéré comme ouverture.
+Si les vitrages ont une fonction de résistance au choc ou de résistance au feu, les températures de
+référence de 100 à 500 C° prévues dans le scénario 2 pour leur éclatement doivent être remplacées
+par les caractéristiques de ces vitrages et de leur châssis à déclarer par le fournisseur.
+L’ensemble des vitrages présents dans le compartiment ou dans le local en feu sont à considérer.
+Lorsque la ventilation est mise en route pour des fonctions d’aide au désenfumage, il faut en tenir
+compte lors de la détermination de la courbe d’échauffement dans le compartiment en feu. Sinon,
+la ventilation mécanique est à arrêter dans le compartiment en feu et de préférence dans tout le
+bâtiment.
+3.1.7. Caractéristiques thermiques des parois du compartiment
+La résistance au feu d’une paroi justifiée par un classement EI est évaluée sur base de la courbe
+ISO suivant la réglementation européenne (Directive 89/106/CEE : produits de construction). Une
+paroi réalisée sur chantier par la combinaison d’éléments résistants et d’éléments isolants peut par
+contre être vérifiée par calcul suivant l’approche du feu naturel. Les performances de résistance
+des parois verticales et des portes du compartiment doivent tenir compte des effets du second ordre
+provoqués par les gradients thermiques.
+Dans un compartiment il peut y avoir des locaux dont les parois doivent également justifier un
+classement (locaux techniques, archives, cuisine, etc) qui forment des compartiments secondaires
+ainsi que des locaux sans exigences EI particulières mais qui peuvent néanmoins présenter une
+certaine résistance au feu. L’étude vérifiera si le feu dans un de ces locaux n’est pas plus
+défavorable que le feu dans le compartiment principal pour les éléments de structure traversant ces
+locaux.
+3.1.8. Mesures actives de lutte contre le feu et probabilité d’occurrence du feu.
+Le concept de sécurité des Eurocodes est basé sur un concept semi-probabiliste qui a conduit aux
+coefficients de sécurité sur les matériaux et aux coefficients majorateurs des charges. Sur base de
+ce principe, des coefficients majorateurs et minorateurs de la charge au feu ont été mis au point
+pour quantifier le risque d’incendie en fonction du type d’activité, de la taille du compartiment et
+de l’effet bénéfique des mesures actives de lutte contre le feu (Voir équation (E.1) de l’EN 1991-1-
+2 avec AN-LU).
+Probabilité d’occurrence du feu.
+Des coefficients traduisent respectivement le risque en fonction de la taille du compartiment et du
+type d’activité (voir tableau E.1)
+
+Mesures actives de lutte contre le feu
+Des coefficients traduisent la réduction ou l’accroissement du risque de développement d’un
+incendie en fonction respectivement de la présence ou de l’absence de certaines mesures actives
+telles que sprinklers, approvisionnements en eau indépendants, détection automatique par la
+chaleur et/ou par la fumée, transmission automatique de l’alarme aux pompiers, pompiers
+d’entreprises, voies d’accès sécurisées (e.g. cages d’escalier pressurisées), équipements de lutte
+contre le feu et systèmes de désenfumage dans les escaliers (voir tableau E.2).
+Toutes les valeurs numériques du tableau E.2 sont à utiliser à l'exception de celle du coefficient
+δn7, correspondant à l'intervention des pompiers hors site c'est-à-dire des services d'incendie
+volontaires ou professionnels, dont la valeur est à prendre comme δn7 =1,0.
+
+Page 9 sur 48 pages                                                                  ITM-SST 1551.1
+3.1.9. Scénarios d’incendie.
+Etant donné que le nombre de scénarios incendie dans un bâtiment peut devenir très élevé (ou
+même infiniment élevé), ni les données, ni les ressources sont disponibles pour atteindre la
+quantification de tous ces scénarios. Ainsi, l’analyse détaillée et la quantification des scénarios
+d’incendie pour un bâtiment spécifique, devront toutefois se limiter aux scénarios, les plus
+révélateurs.
+La caractérisation d’un scénario incendie aux fins d’une analyse, devrait contenir une description
+des éléments suivants:
+   type, taille et lieu / endroit des sources d’allumage ;
+   répartition et type de combustible ;
+   densité de la charge calorifique ;
+   type de feu ;
+   conditions de ventilation internes ;
+   conditions de ventilation externes ;
+   état des portes ;
+   rupture / cassure des fenêtres ;
+   système de ventilation au niveau du bâtiment.
+   performance de chacune des mesures de sécurité ;
+   suppression du feu ;
+Seuls les scénarios d’incendie réalistes les plus défavorables seront étudiés. Le choix de ces
+scénarios dépend de cas en cas. Néanmoins l’approche générale suivante peut servir de base pour
+les cas les plus courants. Elle devra être adaptée pour des configurations plus spécifiques.
+La première étape consiste à déterminer les différents compartiments au feu du bâtiment. Par
+compartiment au feu, on considère les compartiments limités par des parois certifiées par un
+classement EI. Chaque compartiment devra être analysé. L’incendie est supposé affecter un seul
+compartiment à la fois. En plus, à l’intérieur de ces compartiments, des scénarios considérant des
+espaces confinés par des murs sans exigences EI particulières mais présentant néanmoins une
+certaine résistance au feu seront éventuellement aussi pris en compte (voir 3.2.7).
+Pour chaque compartiments, les données décrivant les caractéristiques du foyer, sa position et sa
+vitesse de propagation (3.2.1 à 3.2.5) ainsi que les conditions (ventilation, parois, mesures actives)
+influençant son développement (3.2.6 à 3.2.8) sont à inventorier.
+Généralement, le feu conduira à un flash-over. La courbe de température uniforme après flash-over
+est obtenue par des modèles (Voir 4.3) qui utilisent comme donnée la charge au feu de calcul et
+qui détermine la courbe de calcul de dégagement de chaleur en fonction des conditions de
+ventilation. La position du foyer initial n’influence généralement pas la courbe de température lors
+d’un feu généralisé, ce qui limite le nombre de scénarios.
+Avant le flash-over, le feu est localisé. Des modèles spécifiques pour cette phase (Voir 4.2) sont à
+utiliser. La position du foyer et sa distance par rapport aux éléments structuraux, et plus
+précisément aux sections les plus critiques de ces éléments, permet de définir les scénarios
+critiques.
+La détermination des sections critiques des éléments structuraux se fait d’abord par une étude de
+la structure non soumise au feu mais soumise aux charges statiques accidentelles à considérer en
+cas d’incendie (voir 4.5). Ensuite, il faut tenir compte de sections critiques induites par les
+dilatations éventuellement bridées et les déplacements provoqués par les échauffements de la
+structure.
+
+
+Page 10 sur 48 pages                                                                  ITM-SST 1551.1
+Pour certains types de compartiment, il n’y a pas de flash-over et les scénarios se limitent à des
+feux localisés (voir 3.2.4).
+Pour évaluer la sévérité d’un scénario, il faut déterminer son influence sur la stabilité de la
+structure. Cela implique le calcul des actions thermiques (voir article 4), la détermination des
+échauffements des de la structure et des sollicitations qu’ils y induisent, et enfin la vérification de
+la stabilité de la structure (Voir article 5). Les conséquences possibles de chaque scénario
+d’incendie doivent également être décrites.
+En général, l’exigence d’une résistance durant la durée complète de l’incendie jusqu’au
+refroidissement complet de la structure est la demande standard (résistance au feu naturel
+illimitée). Cependant, pour certains bâtiments, des allègements sont permis et il suffit de vérifier
+la stabilité durant 30, 60, 90 ou 120 minutes (voir article 9). Dans ce cas, il faudra veiller à ce que
+les scénarios prennent bien en compte les conditions les plus sévères durant ce laps de temps.
+Ainsi, par exemple, si le pic des courbes d’échauffement apparaît après le temps de résistance
+requis, il faudra particulièrement bien justifier pourquoi ce pic ne peut apparaître plus tôt.
+Lorsque l’ensemble des scénarios qui seront analysés en détails a été fixé, il faut démontrer que cet
+ensemble est bien représentatif pour la totalité du bâtiment et couvre donc bien les scénarios les
+plus critiques.
+Pour ce faire, les scénarios retenus seront comparés à l’aide de tableaux et figures récapitulatifs
+donnant les caractéristiques suivantes :
+  •   Densité de charge calorifique de calcul qf,d ( Design fire load) et mesures actives de lutte
+      contre le feu considérées dans cette charge calorifique de calcul ;
+  •   Debit calorifique maximal par unite de surface RHRf (Rate of Heat Release);
+  •   Taille initiale du foyer et vitesse de propagation ;
+  •   Position du foyer ;
+  •   Conditions de ventilation ;
+  •   Caractéristiques thermiques des parois du compartiment ;
+  •   Identification des éléments structurels critiques pour le scénario et taux de chargement de ces
+      éléments à température ambiante sous charges statiques accidentelles ;
+  •   Temps jusqu’au moment de l’apparition de phénomènes remarquables, tels que p.ex. le
+      flashover, bris des fenêtres, activation de mesures actives ;
+  •   Courbe d’évolution en fonction du temps du débit calorifique (Rate of Heat Release) ;
+  •   Courbe d’évolution en fonction du temps de l’envergure/taille du foyer;
+  •   Courbes d’évolution en fonction du temps des températures aux endroits critiques dans le
+      compartiment ;
+  •   Conséquences du scénario sur la structure.
+
+Art. 4 Détermination des courbes d’échauffement (EN1991-1-2 avec AN-LU)
+4.1. Introduction
+En matière de développement de l’incendie, différentes simplifications de la dynamique du feu
+naturel peuvent être réalisées. L’Eurocode 1 distingue les modèles à appliquer en situation de pré-
+flashover (modèles de feu localisé et modèles à 2 zones) et en situation de post-flashover (feu
+généralisé). En général, les 2 types de modèles devront être utilisés puisque les scénarios doivent
+couvrir les 2 types de situations : feu localisé avant flash-over et feu généralisé après flash-over.
+
+
+
+Page 11 sur 48 pages                                                                   ITM-SST 1551.1
+4.2. Feu localisé et modèle à 2 zones
+Dans un feu localisé, il y a accumulation de produits combustibles dans une couche en dessous du
+plafond (couche supérieure), avec une interface horizontale entre cette couche chaude et la couche
+inférieure où la température des gaz demeure beaucoup plus basse.
+Cette situation est bien représentée par un modèle à deux zones, utilisé dans toutes les situations
+de pré-flashover. En plus du calcul de l'évolution de la température des gaz, ces modèles sont
+utilisés pour connaître la propagation des fumées dans les bâtiments et pour estimer la sécurité des
+personnes en fonction de la hauteur de la couche de fumée.
+Dans les modèles à deux zones, la température des gaz est calculée avec l'hypothèse qu'elle est
+uniforme dans chaque couche. Cette température moyenne dans la zone chaude est généralement
+suffisamment précise tant que des phénomènes globaux sont considérés : quantité de fumée à
+extraire du bâtiment, probabilité de flashover, écroulement total du toit ou du plafond, etc.
+Pour l'évaluation du comportement local d'un élément de structure situé au-dessus du feu,
+l'hypothèse d'une température uniforme peut être insuffisante et le modèle à deux zones doit être
+combiné avec des modèles spécifiques qui donnent l'évaluation de l'effet local sur ces éléments en
+fonction de leur distance par rapport au foyer (Méthode d'Heskestad ou d'Hasemi selon les
+équations (C1) à (C3) respectivement (C4) à (C8) de l’EN 1991-1-2 avec AN-LU), (voir Figure 6).
+
+
+                       θ = Température de l’air
+                          au niveau du plafond              Donné par les formules pour
+                                                            feux localisés
+
+                       Modèle deux zones
+
+
+
+                                                                          x
+                                        Sol
+                                                                                Z (Epaisseur de la zone chaude)
+
+
+
+
+                                                  θg
+                                                       Y = Hauteur
+                                                       de la zone
+
+                                                                                                           θ
+                                                       libre de fumée
+
+                                                                            20°C         θ (Température des gaz)
+
+
+        Figure 6 : Combinaison entre un modèle à deux zones et un modèle de feu localisé
+
+4.3. Feu généralisé et modèle à 1 zone
+Pour modéliser un feu généralisé dans un compartiment, outre les feux nominaux déjà mentionnés
+(ISO, courbes hydrocarbure, ...), il existe plusieurs types de modèles.
+
+4.3.1 Modèle à une zone
+Le modèle à une zone est basé sur l'hypothèse fondamentale que, pendant le feu, la température
+des gaz chauds est uniforme dans le compartiment. Les modèles à une zone sont adaptés pour des
+conditions de post-flashover.
+Les données nécessaires doivent être plus précises que pour les courbes paramétriques et sont les
+mêmes que celles requises pour un modèle à deux zones.
+Page 12 sur 48 pages                                                                                               ITM-SST 1551.1
+La Figure 7 montre comment un feu de compartiment est modélisé, et représente différents termes
+d'échanges d’énergie et de masse.
+                       Z
+
+
+                        H
+
+
+                                    QC                                 p = f(Z)
+                                    QR
+                                              m, T, V,                            QC+R,O
+                                              E, ρ(Z)
+                           mOUT,L
+                                                                                  mOUT
+                       ZP
+
+                           mIN,L
+                                         Feu : RHR,
+                                              Produits de combustion
+                        0
+
+
+                        Figure 7 : Un compartiment dans un modèle à une zone
+
+4.3.2. Feux paramétriques
+Les feux paramétriques constituent un moyen simple pour tenir compte d'importants phénomènes
+physiques pouvant influencer le développement d'un feu dans un compartiment particulier. Comme
+les feux nominaux, ils consistent en la détermination d'une courbe température-temps, mais ces
+courbes contiennent des paramètres destinés à représenter certains aspects de la réalité.
+Pour presque tous les feux paramétriques mentionnés dans la littérature, les paramètres pris en
+compte sont, d'une manière ou d'une autre :
+  • la géométrie du compartiment,
+  • la charge calorifique présente dans le compartiment,
+  • les ouvertures dans les murs et/ou dans le toit et
+  • le type et la nature des différents éléments de construction constituant les limites du
+      compartiment.
+Les feux paramétriques sont basés sur l'hypothèse que la température est uniforme dans le
+compartiment, ce qui limite leur champ d'application aux conditions de feu généralisé dans des
+compartiments de dimensions modérées. Ils constituent néanmoins un pas significatif vers la
+considération de la nature réelle d'un feu particulier par rapport aux feux nominaux, tout en étant
+basés sur quelques expressions analytiques simples, c'est à dire qu'aucun outil informatique
+sophistiqué n'est nécessaire pour les appliquer (Voir équations (A.1) à (A.12) de l’annexe A de
+l’EN 1991-1-2 avec AN-LU). Il est intéressant de remarquer que l’annexe A de l’Eurocode donne
+une courbe d’échauffement très semblable à la courbe ISO pour O= 0.04 [m1/2] et b=1160
+[J/m2s1/2K].
+
+4.4. Combinaison entre les modèles à 1 zone et les modèles à 2 zones. Choix du modèle
+Après avoir défini les caractéristiques du feu, c'est-à-dire la courbe du débit calorifique total, la
+géométrie du compartiment et les caractéristiques des parois, il est nécessaire de choisir le modèle
+de feu naturel à appliquer selon le scénario considéré. Ce choix peut être fait en fonction du
+domaine d'application des modèles.
+
+Page 13 sur 48 pages                                                                       ITM-SST 1551.1
+Dans cette optique, on suppose que la première application doit être celle du « modèle à deux
+zones ». La question est comment et quand la transition de l'application du « modèle à deux
+zones » à celle du « modèle à une zone » se produit.
+Les résultats d'un « modèle à deux zones » sont donnés sous la forme de deux variables
+principales:
+  •   température de la zone supérieure Tu ;
+  •   hauteur de l'interface des deux zones Hi.
+Ces deux variables vont conditionner la simulation avec le modèle de zones (voir Figure 8). Les
+quatre conditions suivantes peuvent limiter l'application d'un « modèle à deux zones » :
+Condition 1 (C1) : Tu > 500°C
+La température élevée des produits de combustion (plus élevée que 500°C) conduit à un flashover
+par une pyrolyse de l'ensemble de la charge calorifique du compartiment ;
+Condition 2 (C2) : Hi < Hq et Tu > Tignition
+Si la diminution de la hauteur d'interface (Hi) est telle que le matériau combustible se trouve dans
+la couche de fumée (hauteur maximale du combustible = Hq) et si la couche de fumée présente une
+température plus élevée que la température d’inflammation Tignition (supposée égale à 300°C en
+l’absence de données plus précises), le feu se propage très rapidement dans tout le compartiment
+par l'inflammation du combustible ;
+Condition 3 (C3) : Hi < 0,1 H
+La hauteur d'interface (Hi ) diminue et devient trop faible par rapport à la hauteur du compartiment
+(H), ce qui n'est plus représentatif d'un phénomène à deux zones ;
+Condition 4 (C4) : Afi > 0,5 Af
+La surface du feu (Afi) est trop importante par rapport à la surface du sol du compartiment (Af )
+pour être considérée comme un feu localisé.
+Si une de ces 4 conditions est remplie, le modèle 2 zones doit se transformer en modèle 1 zone. En
+plus, les conditions 1 ou 2 conduisent à une modification du taux initial de dégagement de chaleur.
+Cette modification est réalisée comme indiqué dans la Figure 8.
+
+
+
+
+   Figure 8 : Courbes de débit calorifique total: La courbe bleue modifiée par le flash-over
+(embrasement généralisé) et par l’oxygène disponible couvre évidemment la même surface que
+                                   la courbe initiale rouge.
+
+
+Page 14 sur 48 pages                                                                 ITM-SST 1551.1
+ L'approche décrite ci-dessus est présentée dans le schéma de la Figure 9. Ce schéma montre dans
+ quelles conditions (modélisation à deux zones ou à une zone) les courbes de température de calcul
+ doivent être déterminées.
+
+                                                                                                            Condition C1: Tu > 500 ° C
+
+                   Caractéristiques du feu
+                                                                                                              Tu
+
+                       Courbe de calcul du debit calorifique                                                                                      Flash Over
+
+
+
+
+                            Modèle à 2 zones                                                                Condition C2:   Hq > Hi      Tu > Tignition
+
+
+
+
+  Charge au feu                                                    Charge au feu                              Tu
+   localisée                                                   uniformément répartie
+                                                                                                       Hq                                          Hi
+
+
+ou C2             C3                                   C3 ou C4                C1 ou C2                     Condition C3:   Hi < 0,1H
+
+
+
+
+ RHR                              RHR non                                     RHR
+modifié                           modifié                                    modifié                                                                                          H
+
+                                                                                                                                                  Hi
+
+                                                                                                            Condition C4:   A fi > 0,5 A f
+ Modèle                                                           Modèle                  O2     non
+                                                                                       suffisant
+ 2 zones                                                          2 zones                 ??
+                                                                                            oui
+
+
+
+                               Courbe
+                          température-temps
+                         de dimensionnement                                                                                                                    A fi
+                                                                                                                                             Af
+
+
+
+
+                                    Figure 9 : Combinaison de modèles à une zone et à deux zones
+
+ La combinaison des modèles 2 zones et 1 zone avec transition des 2 zones vers 1 zone suivant les
+ critères exposés à la Figure 9 doit être implémentée dans tout logiciel et les résultats validés par
+ comparaison avec de nombreux essais.
+
+ 4.5. Détermination des actions mécaniques en cas d’incendie
+ En situation d'incendie, les charges mécaniques appliquées aux structures peuvent être obtenues en
+ utilisant les formules suivantes (voir relation (6.11b) de l'EN 1990) :
+
+
+ ∑G
+  i ≥1
+           k , j + ( Ψ1,1 ou Ψ2,1 )Q k ,1 +                          ∑Ψ Q
+                                                                      i ≥1
+                                                                                2,i    k ,i
+
+
+ où :
+ Gk,j est la valeur caractéristique des actions permanentes
+ Qk,1 est l’action variable principale caractéristique
+ Qk,i :sont les valeurs caractéristiques des actions variables d’accompagnement
+ ψ1,1 est le coefficient d’accompagnement pour la valeur fréquente d'une action variable
+ ψ2 est le coefficient d’accompagnement pour les valeurs quasi-permanentes des actions variables
+
+
+ Page 15 sur 48 pages                                                                                                                                                 ITM-SST 1551.1
+Les valeurs recommandées de ψ1 et ψ2 sont données dans le tableau ci-dessous. Dans l’annexe
+nationale Luxembourgeoise, ψ2 est imposé pour l’action variable dominante Qk,1 sauf pour
+l’action de vent où ψ1 est à considérer.
+
+      Tableau 1 : Valeurs recommandées des facteurs ψ notées en gras pour les bâtiments
+   Action                                                                           Ψ0      Ψ1    Ψ2
+     Charges imposées dans les bâtiments, catégorie (voir EN 1991-1-1)
+
+      Catégorie A : domestique, zones résidentielles                                0,7     0,5   0,3
+      Catégorie B : zones de bureaux                                                0,7     0,5   0,3
+      Catégorie C : zones de congrégation                                           0,7     0,7   0,6
+      Catégorie D : zones de commerces                                              0,7     0,7   0,6
+      Catégorie E : zones de stockage                                               1,0     0,9   0,8
+      Catégorie F : zones de trafic routier poids du véhicule ≤ 3kN               0,7     0,7   0,6
+      Catégorie G : zones de trafic routier 30 kN < poids du véhicule ≤ 160 kN      0,7     0,5   0,3
+      Catégorie H : toits                                                            0       0     0
+      Charges de neige sur les bâtiments (voir EN 1991-1-3/ AN-LU)                 0,50 0,20      0
+
+      Charges de vent sur les bâtiments (voir EN 1991-1-4 / AN-LU)                  0,6     0,2   0
+
+
+
+Art. 5 Dimensionnement de la structure portante pour les différents matériaux
+de construction usuels, (Eurocodes - annexes nationales)
+Pour les Eurocodes 2, 3, 4, 5, 6 et 9 les généralités et les bases de calcul définissent les grands
+principes valables quelle que soit l’approche considérée pour représenter l’action thermique.
+Le type d’approche pour l’action thermique peut influencer les procédures et modèles de calcul.
+Les clauses spécifiques à l’approche performancielle sont repérées ci-dessous pour les différents
+Eurocodes. En cas d’approche performancielle, les méthodes sont limitées à des vitesses
+d’échauffement situées entre 2 et 50 K/min.
+
+Dans les tableaux 2 à 7, le signe «  » signifie que la clause en question est applicable, le signe «-»
+signifie qu’elle ne l’est pas.
+
+
+
+
+Page 16 sur 48 pages                                                                      ITM-SST 1551.1
+5.1. Béton armé
+Le dimensionnement est à réaliser suivant l’EN 1992-1-2 avec AN-LU. Seules les méthodes de
+calcul avancées permettent d’analyser une structure sous feu naturel. En effet, les méthodes
+simplifiées ainsi que les valeurs tabulées ne sont applicables que dans le cas du feu ISO.
+
+                                                 Tableau 2
+
+Table des matières                                                                         FEU     FEU
+                                                                                           ISO    Naturel
+    1.     Généralités                                                                              
+    2.    Base de calcul                                                                            
+          2.1 Exigences                                                                             
+             2.1.1 Généralités                                                                      
+             2.1.2 Exposition au feu normalisé                                                      -
+             2.1.3 Exposition au feu paramétré                                               -       
+Spécificité dans le cas de l’approche performancielle
+Pour la fonction séparative, pendant la phase de déclin de l’incendie, l’augmentation de
+température moyenne sur la totalité de la surface non exposée est limitée à 200 K, et
+l’augmentation de température maximale en un point quelconque de cette surface ne
+doit pas dépasser 240 K.
+          2.2 Actions                                                                               
+          2.3 Valeurs de calcul des propriétés des matériaux                                        
+          2.4 Méthodes de vérification                                                              
+    3.    Propriétés des matériaux                                                                  
+          3.1 Généralités                                                                           
+          3.2 Propriétés de résistance et de déformation aux températures élevées                   
+             3.2.1 Généralités                                                                      
+             3.2.2 Béton                                                                            
+Spécificité dans le cas de l’approche performancielle
+Pour les actions thermiques conformes à l’EN 1991-1-2, section 3 (Simulation d’un
+incendie naturel), notamment lorsque l’on considère la partie descendante de la courbe
+de température, il convient de modifier le modèle mathématique de la relation
+contrainte/déformation. L’annexe C de l’EN 1994-1-2 est à considérer.
+             3.2.3 Acier de béton armé                                                              
+             3.2.4 Acier de précontrainte                                                           
+          3.3 Propriétés thermiques et physiques du béton de granulats siliceux et                  
+          calcaires
+             3.3.1 Dilatation thermique                                                             
+
+
+
+
+Page 17 sur 48 pages                                                                       ITM-SST 1551.1
+             3.3.2 Chaleur spécifique                                                             
+Spécificité dans le cas de l’approche performancielle
+Le pic que présente la chaleur spécifique aux alentours de 100 °C ne peut pas être
+considéré dans la phase de refroidissement. De même, l’influence de la température sur
+la masse volumique n’est pas valable en phase de refroidissement.
+             3.3.3 Conductivité thermique                                                         
+          3.4 Dilatation thermique des aciers de béton armé et de précontrainte                   
+    4.    Procédures de calcul                                                                    
+          4.1 Généralités                                                                         
+          4.2 Méthode de calcul simplifiée                                                        
+             4.2.1 Généralités                                                                    
+             4.2.2 Distributions de température                                                   
+             4.2.3 Section droite réduite                                                         
+             4.2.4 Réduction de la résistance                                                     -
+          4.3 Méthodes de calcul avancées                                                         
+             4.3.1 Généralités                                                                    
+             4.3.2 Réponse thermique                                                              
+             4.3.3 Réponse mécanique                                                              
+             4.3.4 Validation des méthodes de calcul avancées                                     
+          4.4 Cisaillement, torsion et ancrage                                                    
+          4.5 Eclatement                                                                          
+             4.5.1 Eclatement explosif                                                            
+             4.5.2 Chute du béton                                                                 
+          4.6 Jonctions                                                                           
+          4.7 Revêtements de protection                                                           
+    5.    Valeurs tabulées                                                                        -
+    6.    Béton à haute résistance                                                                -
+Annexes Informatives
+A Distributions de température                                                                    -
+B Méthodes de calcul simplifiées                                                                  
+C Flambement des poteaux en conditions d'incendie                                                 -
+D Méthodes de calcul pour le cisaillement, la torsion et l'ancrage                                
+E Méthode de calcul simplifiée pour les poutres et les dalles                                     -
+
+
+
+
+Page 18 sur 48 pages                                                                     ITM-SST 1551.1
+5.2. Béton précontraint
+
+Le dimensionnement est à réaliser suivant l’EN 1992-1-2 avec AN-LU – Voir 5-1 ci-dessus.
+A ce sujet, il s’agit de tenir compte du fait que les déformations et les contraintes thermiques
+créées pendant l’échauffement modifient fortement la zone de béton fissuré. Cela entraîne la
+nécessité de prendre en compte l’effet de l’état fissuré du béton sur la résistance à l’effort tranchant
+du béton même.
+Cette vérification est notamment obligatoire pour les dalles alvéolées précontraintes et les poutres
+précontraintes soumises à un incendie. Dans ce cas on se réfère entre autres aux documents
+suivants:
+  •   Arnold VAN ACKER : Shear resistance of prestressed hollow core floors exposed to fire –
+      Journal of the fib, volume 4, Number 2, June 2003.
+  •   EN 1168 : Hollow core slabs, Annex G - Resistance to fire – CEN/TC229 N1606, 2010-06-
+      10, background document février 2010.
+  •   BFBN betonproducten, lettre circulaire de A.P. PIELKENROOD “Nader onderzoek brand
+      Lloydsraat te Rotterdam”, 16.11.2009
+Au cas où cette vérification au cisaillement n’a pas pu être effectuée, une protection thermique
+additionnelle adéquate est à prévoir.
+
+
+
+
+Page 19 sur 48 pages                                                                    ITM-SST 1551.1
+5.3. Acier
+Le dimensionnement est à réaliser suivant l’EN 1993-1-2 avec AN-LU. La majorité de cet
+Eurocode peut être utilisé pour les deux types d’approche. Les seules restrictions sont décrites ci-
+dessous et concernent la température des structures protégées lors de la phase de refroidissement.
+Les méthodes peuvent être utilisées pour autant que les propriétés des matériaux de protection
+soient connues dans le domaine des températures. Pour plusieurs matériaux isolants, l’effet
+retardateur de l’échauffement est produit par l’évaporation de l’eau libre et par des changements
+d’état des matériaux. Ces effets ne se produisent pas lors de la phase de refroidissement.
+
+                                                 Tableau 3
+
+Table des matières                                                                        FEU     FEU
+                                                                                          ISO    Naturel
+    1.    Généralités                                                                              
+    2.    Bases de calcul                                                                          
+    3.    Propriétés des matériaux                                                                 
+    4.    Calcul du comportement au feu
+          4.1 Généralités                                                                          
+          4.2 Modèles de calcul simplifiés                                                         
+             4.2.1 Généralités                                                                     
+             4.2.2 Classification des Sections                                                     
+             4.2.3 Résistance                                                                      
+             4.2.4 Température critique                                                            
+             4.2.5 Evolution de la température de l’acier                                          
+Spécificité dans le cas de l’approche performancielle
+La formule de calcul de la température dans l’acier protégé et non protégé est valable
+pour la phase croissante et décroissante du feu. Par contre, la formule du calcul de la
+température dans l’acier protégé comprend des paramètres caractérisant l’effet de
+l’isolant. Ces paramètres doivent selon les cas être adaptés pour la phase de
+refroidissement.
+          4.3 Modèles de calcul avancés                                                            
+Spécificité dans le cas de l’approche performancielle
+Des méthodes de calcul avancées peuvent être utilisées en association avec une courbe
+d’échauffement quelconque, à condition que les propriétés des matériaux soient connues
+dans le domaine de températures concerné
+Annexe A Ecrouissage de l’acier au carbone aux températures élevées                                
+Annexe B Transfert thermique aux structures extérieures                                     -       
+Annexe C (informative) Acier inoxydable                                                            
+Annexe D (informative) Assemblages                                                                 
+Annexe E (informative) Sections de Classe 4                                                        
+
+Page 20 sur 48 pages                                                                      ITM-SST 1551.1
+5.4. Structures mixtes acier/béton
+Le dimensionnement est à réaliser suivant l’EN 1994-1-2 avec AN-LU.
+
+                                                 Tableau 4
+
+Table des matières                                                                         FEU     FEU
+                                                                                           ISO    Naturel
+    1.    Généralités                                                                               
+    2.    Bases de calcul
+          2.1 Exigences                                                                             
+             2.1.1 Exigences fondamentales                                                          
+             2.1.2 Exposition à un feu nominal                                                      
+             2.1.3 Exposition au feu paramétrique                                                   
+
+Spécificité dans le cas de l’approche performancielle
+Pour la fonction séparative, pendant la phase de déclin de l’incendie, l’augmentation de
+température moyenne sur la totalité de la surface non exposée est limitée à 200 K, et
+l’augmentation de température maximale en un point quelconque de cette surface ne
+doit pas dépasser 240 K.
+          2.2 Actions                                                                               
+          2.3 Valeurs de calcul des propriétés des matériaux                                        
+          2.4 Méthodes de vérification                                                              
+    3.    Propriétés des matériaux
+          3.1 Généralités                                                                           
+          3.2 Propriétés mécaniques                                                                 
+             3.2.1 Résistance et propriétés de déformation de l’acier de construction               
+             3.2.2 Résistance et propriétés de déformation du béton                                 
+Spécificité dans le cas de l’approche performancielle
+Pour les actions thermiques conformes à l’EN 1991-1-2, section 3 (Simulation d’un
+incendie naturel), notamment lorsque l’on considère la partie descendante de la courbe
+de température, il convient de modifier le modèle mathématique de la relation
+contrainte/déformation. L’annexe C de l’EN 1994-1-2 est à considérer.
+             3.2.3 Aciers d’armature                                                                
+          3.3 Propriétés thermiques                                                                 
+Spécificité dans le cas de l’approche performancielle
+Le pic que présente la chaleur spécifique aux alentours de 100 °C ne peut pas être
+considéré dans la phase de refroidissement.
+             3.3.4 Matériaux de protection contre le feu                                            
+Spécificité dans le cas de l’approche performancielle
+Les paramètres définissant les matériaux de protection doivent selon les cas être
+adaptés pour la phase de refroidissement.
+Page 21 sur 48 pages                                                                       ITM-SST 1551.1
+Table des matières                                                                       FEU     FEU
+                                                                                         ISO    Naturel
+          3.4 Masse volumique                                                                     
+Spécificité dans le cas de l’approche performancielle
+De même, l’influence de la température sur la masse volumique n’est pas valable en
+phase de refroidissement.
+    4.    Procédures de vérification
+          4.1 Introduction                                                                        
+          4.2 Valeurs tabulées                                                                    -
+          4.3 Modèles de calcul simplifiés                                                        -
+          4.4 Modèles de calcul avancés                                                           
+Spécificité dans le cas de l’approche performancielle
+Des méthodes de calcul avancées peuvent être utilisées en association avec une courbe
+d’échauffement quelconque, à condition que les propriétés des matériaux soient connues
+dans le domaine de températures concerné
+    5.    Dispositions constructives                                                              
+Annexe A « Relations contrainte-déformation aux températures élevées pour les aciers              
+de construction »
+Annexe B « Relations contrainte-déformation aux températures élevées pour le                      
+béton de granulats siliceux »
+Cette annexe a été remplacée dans l’AN-LU
+Annexe C « Relations contrainte-déformation du béton adaptées à l'incendie                 -       
+naturel avec branche de température décroissante pour utilisation dans les modèles
+de calcul avancés »
+Spécificité dans le cas de l’approche performancielle
+Cette annexe régit le comportement mécanique du béton en cas d’approche
+performancielle
+Annexe D « Modèle de calcul de la résistance au feu des dalles mixtes non                         -
+protégées soumises à un incendie en face inférieure de la dalle selon la courbe
+température-temps normalisée »
+Annexe E « Modèle de calcul des moments résistants positif et négatif d’une                       
+poutre en acier connectée à une dalle en béton et soumise à un incendie en face
+inférieure de la dalle en béton »
+Spécificité dans le cas de l’approche performancielle
+Le tableau D.5 de l’annexe D doit être adapté.
+Annexe F « Modèle de calcul des moments résistants positifs et négatifs pour une                  -
+poutre en acier partiellement enrobée de béton, connectée à une dalle de béton et
+soumise aux conditions de l'incendie normalisé en face inférieure de la dalle »
+Annexe G « Modèle de calcul par sommation pondérée de la résistance à l'incendie                  -
+normalisé de poteaux mixtes avec profilé en acier partiellement enrobé, dans le cas
+de flambement suivant l'axe faible »
+
+
+Page 22 sur 48 pages                                                                     ITM-SST 1551.1
+Annexe H [informative] « Modèle de calcul simplifié pour les profils creux remplis                  -
+de béton exposés aux conditions d'incendie normalisé »
+Annexe I [informative] « Conception et évaluation de modèles expérimentaux »                        
+
+
+5.5. Bois
+Le dimensionnement est à réaliser suivant l’EN 1995-1-2 avec AN-LU. Concernant les sections en
+bois lamellé collé, une attention particulière doit être prêtée à la qualité des colles sous feu selon le
+chapitre 3.5 de cette norme.
+Le dimensionnement suivant l’EN 1995-1-2 suppose que les poutres et les poteaux en bois sont de
+sections pleines.
+Lorsque des règles d’application données dans l’EN 1995-1-2 sont valables seulement pour la
+courbe standard temps-température, ceci est identifié dans les articles appropriés. Le tableau
+suivant commente et rappelle ces cas.
+
+                                                 Tableau 5
+
+Table des matières                                                                         FEU     FEU
+                                                                                           ISO    Naturel
+    1.    Généralités                                                                               
+    2.    Bases du calcul
+          2.1 Exigences                                                                             
+             2.1.1 Exigences de base                                                                
+             2.1.2 Exposition à un feu nominal                                                      
+             2.1.3 Exposition à un feu paramétrique                                                 
+Spécificité dans le cas de l’approche performancielle
+Pour la fonction séparative, pendant la phase de déclin de l’incendie, l’augmentation de
+température moyenne sur la totalité de la surface non exposée est limitée à 200 K, et
+l’augmentation de température maximale en un point quelconque de cette surface ne
+doit pas dépasser 240 K.
+          2.2 Actions                                                                               
+          2.3 Valeurs de calcul des propriétés des matériaux et des résistances                     
+          2.4 Méthodes de vérification                                                              
+    3.    Propriétés des matériaux
+          3.1 Généralités                                                                           
+          3.2 Propriétés mécaniques                                                                 
+          3.3 Propriétés thermiques                                                                 
+
+
+
+
+Page 23 sur 48 pages                                                                       ITM-SST 1551.1
+          3.4 Profondeur de carbonisation                                                           
+Spécificité dans le cas de l’approche performancielle
+Le paragraphe 3.4 est spécifique au feu standard. En cas de feu paramétrique selon
+l’annexe A de l’EN 1991-1-2, l’annexe A de l’EN 1995-1-2 s’applique. Il n’y a pas de
+méthode pour un feu non standard et non paramétrique. Néanmoins, par analogie avec
+un feu paramétrique, des valeurs sécuritaires des vitesses de combustion et des
+profondeurs de carbonisation pourraient être déduites pour des feux naturels
+quelconques.
+          3.5 Colles                                                                                
+    4.     Méthodes de calcul pour la résistance mécanique
+          4.1 Généralités                                                                           
+          4.2 Règles simplifiées pour déterminer les propriétés de section                          
+Spécificité dans le cas de l’approche performancielle
+Ces règles se basent sur le paragraphe 3.4. Voir remarque ci-dessus.
+          4.3 Règles simplifiées pour l’analyse des éléments de structure et des                    
+          composants
+          4.4 Méthodes de calcul avancées                                                           
+    5.    Procédures de calcul pour les sous-systèmes de plancher et de mur                         
+          5.1 Généralités                                                                           
+          5.2 Analyse de la fonction porteuse                                                       
+          5.3 Analyse de la fonction séparative                                                     -
+    6.    Assemblages                                                                               -
+    7.    Détails structuraux                                                                       
+Annexe A (Informative) « Exposition à un feu paramétrique »                                  -       
+Annexe B (informative) « Méthodes de calcul avancées »                                              
+Annexe C (Informative) « Solives de plancher et montants de mur porteur dans des                    -
+systèmes dont les cavités sont totalement remplis d’isolation »
+Annexe D (informative) « Carbonisation des éléments dans les systèmes de murs et                    -
+planchers avec cavités de vide »
+Annexe E (informative) « Analyse de la fonction séparative des systèmes de mur et                   -
+de plancher
+Spécificité dans le cas de l’approche au feu normalisé
+Ces règles ne peuvent être appliquées que pour des exigences de résistance inférieures à
+60 minutes.
+Annexe F (informative) « Guide pour les utilisateurs de cette partie d’Eurocode »                   
+
+
+
+
+Page 24 sur 48 pages                                                                       ITM-SST 1551.1
+5.6. Construction en maçonnerie
+
+Le dimensionnement est à réaliser suivant l’EN 1996-1-2 avec AN-LU.
+Comme les résultats d’essais au feu normalisé constituent la base de données pour les méthodes
+de calcul du comportement au feu des maçonneries, la présente norme traite par conséquent
+principalement du calcul en vue de la résistance au feu normalisé. Il n’y pas de méthode
+compatible avec l’approche performancielle.
+
+
+                                                Tableau 6
+
+Table des matières                                                                         FEU     FEU
+                                                                                           ISO    Naturel
+    1.    Généralités
+    2.    Principes et règles de base                                                               
+Spécificité dans le cas de l’approche performancielle
+Pour la fonction séparative, pendant la phase de déclin de l’incendie, l’augmentation de
+température moyenne sur la totalité de la surface non exposée est limitée à 200 K, et
+l’augmentation de température maximale en un point quelconque de cette surface ne
+doit pas dépasser 240 K.
+    3.    Matériaux                                                                                 
+    4.    Procédures de calcul de la résistance au feu des murs en maçonnerie                       
+    5.    Dispositions de détail                                                                    
+Annexe A (informative) « Recommandations pour la sélection des périodes de                          -
+résistance au feu »
+Annexe B (normative) « Tableaux de valeurs de la résistance au feu des murs en                      -
+maçonnerie »
+Annexe C (informative) « Modèle de calcul simplifié »                                               -
+Annexe D (informative) « Méthode de calcul complexe »                                               
+Spécificité dans le cas de l’approche performancielle
+Le pic que présente la chaleur spécifique aux alentours de 100 C ne peut pas être
+considéré dans la phase de refroidissement.
+Annexe E (informative) « Exemples de liaisons satisfaisant aux prescriptions de la                  
+Section 5 »
+
+
+
+
+Page 25 sur 48 pages                                                                       ITM-SST 1551.1
+5.7. Aluminium
+Le dimensionnement est à réaliser suivant l’EN 1999-1-2 avec AN-LU. Lorsque les règles données
+dans l’EN 1999-1-2 sont valables uniquement pour l’exposition au feu normalisé, ceci est identifié
+dans les articles et paragraphes pertinents de cet Eurocode. Le tableau suivant commente et
+rappelle ces cas.
+
+
+                                                 Tableau 7
+
+Table des matières                                                                         FEU     FEU
+                                                                                           ISO    Naturel
+    1.    Généralités
+    2.    Base de calcul                                                                            
+    3.    Propriétés des matériaux                                                                  
+    4.    Calcul du comportement au feu                                                             
+          4.1 Généralités                                                                           
+          4.2 Modèles de calcul simplifiés                                                          
+             4.2.1 Généralités                                                                      
+             4.2.2 Résistance                                                                       
+             4.2.3 Echauffement de l’aluminium                                                      
+Spécificité dans le cas de l’approche performancielle
+La formule de calcul de la température dans l’aluminium protégé comprend des
+paramètres caractérisant l’effet de l’isolant. Ces paramètres doivent selon les cas être
+adaptés pour la phase de refroidissement.
+          4.3 Modèles de calcul complexe                                                            
+             4.3.1 Généralités                                                                      
+             4.3.2 Réponse thermique                                                                
+             4.3.3 Réponse mécanique                                                                
+             4.3.4 Validation des modèles de calcul complexe                                        
+Annexe A (informative) « Propriétés des alliages d’aluminium ne figurant pas dans l’EN              
+1999-1-1 »
+Annexe B (informative) « Transfert thermique aux éléments de structure                       -       
+extérieurs en aluminium »
+
+
+
+
+Page 26 sur 48 pages                                                                       ITM-SST 1551.1
+Art. 6 Procédure de validation et de contrôle
+La procédure de validation valide et vérifie la méthode de calcul et teste l’exactitude des résultats.
+Le choix des scénarios et les programmes de calcul qui seront utilisés sont à soumettre
+préalablement aux autorités compétentes, selon le schéma de la Figure 10.
+
+
+
+                   Définir l'envergure
+                        du projet
+                   (première ébauche)
+
+
+
+                                                           Déterminer les scénarios
+                            Définir
+                                                            de dimensionnement
+                       les exigences de
+                        performance
+
+
+
+                                                                 Définir le
+                  Définir la stratégie de
+                                                             concept de sécurité
+                protection des personnes
+                                                                  incendie
+                 et du service d'incendie
+
+
+
+                                                             Evaluer le concept de
+                   Définir les exigences                   sécurité incendie par des
+                   fonctionnelles et les                     méthodes d'ingénieur
+                   critères quantitatifs
+
+
+
+                Analyser ou modifier
+                le concept de sécurité          NON              Respect des
+                incendie, les exigences de                        Critères
+                performance ou la
+                stratégie de protection
+                                                             OUI
+
+                                                           Concept de sécurité
+                                                            incendie valable
+
+ Figure 10 : Méthodologie comprenant les phases successives de développement du concept de
+                           sécurité incendie selon ISO TC92 SC4
+
+
+
+
+Page 27 sur 48 pages                                                                   ITM-SST 1551.1
+La procédure de validation et de contrôle comprend les opérations successives suivantes (1 à 4
+pour la validation, 5 pour le contrôle initial et 6 pour le contrôle lors d’un changement dans
+l’exploitation ou d’affectation) :
+
+1.    Les scénarios d’incendie à considérer pour l’établissement des actions thermiques et pour
+      l’évaluation des performances de résistance au feu seront proposés par le maître d’ouvrage.
+      Ces scénarios précisent clairement toutes les mesures de protection actives ou passives mises
+      en œuvre et considérées dans les calculs. Ces scénarios d’incendie doivent être validés par les
+      autorités compétentes qui peuvent exiger l’avis d’un organisme agréé.
+2.    Les courbes d’action thermiques générées par les scénarios retenus seront établies par le
+      bureau d’étude, avec l’aide d’une méthode ou d’un logiciel reconnus de son choix et en
+      phase avec l’Eurocode 1 partie feu et son Annexe Luxembourgeoise. Une méthode ou un
+      logiciel est considéré comme reconnu s’il est suffisamment validé par une campagne
+      expérimentale basée sur des rapports d’essais d’organismes reconnus.
+3.    La résistance au feu exigée sera justifiée par le bureau d’études sur base des courbes
+      d’actions thermiques obtenues lors de l’étape précédente. Cette justification sera établie sur
+      base des principes et des méthodes proposées dans les parties concernées des normes
+      européennes et des Annexes Nationales luxembourgeoises. Un modèle de calcul avancé
+      suffisamment reconnu et calibré sur des essais pourra être utilisé par le bureau d’études.
+4.    La validation des études effectuées dans le cadre des points 1 à 3 ci-dessus devra être fournie
+      par un organisme agréé par l’autorité compétente suivant l’article 7. Cet organisme vérifiera
+      les calculs, en particulier leur cohérence par rapport aux scénarios retenus et aux normes, et
+      remettra en cas d’accord au bureau d’études et à l’autorité compétente un rapport favorable à
+      l’obtention duquel sera conditionnée l’autorisation d’exploitation.
+      Dépendant du résultat de la validation, l’autorité compétente peut exiger du bureau d’études
+      un recoupement à l’aide d’un autre modèle de calcul. Dans le même sens, il sera exigé
+      notamment dans le cas d’analyse complexe de procéder à des calculs supplémentaires en
+      faisant varier certains paramètres physiques déterminants.
+5.    Il appartiendra à un organisme de contrôle agréé par l'autorité compétente de contrôler la
+      conformité de la construction avec les hypothèses retenues dans l’étude d’ingénierie
+      incendie relative à la justification de la résistance au feu des structures et de vérifier la bonne
+      exécution et la mise en place des mesures additionnelles éventuelles requises par cette étude.
+      Ce contrôle se basera sur les notes justificatives du bureau d’études et sur les plans de
+      construction (voir l’article 8). Il conditionnera la délivrance par l’autorité publique
+      compétente de l’autorisation d’exploitation.
+6.    Lors d’un changement d’affectation ou d’un changement dans l’exploitation susceptible
+      d’aggraver la charge au feu ou les conditions de ventilation, un contrôle supplémentaire est
+      obligatoire. Il consiste à valider la cohérence des scenarios et se basera sur les notes
+      justificatives du bureau d’études et sur les plans de construction fixant les conditions
+      d’exploitation (voir article 8).
+
+Remarque:
+1) La qualification des concepteurs:
+Les concepteurs appelés à intervenir sur les points 1 à 3 doivent être ingénieurs et présenter à
+l’autorité compétente un certificat de réussite des épreuves d’un cours de " fire safety engineering"
+ou un dossier démontrant leur expérience personnelle dans le domaine.
+
+Page 28 sur 48 pages                                                                     ITM-SST 1551.1
+2) L'organisme de contrôle agréé qui est retenu pour intervenir sur les points 1, 4 et 5 dans le
+cadre de la validation et du contrôle, tel que décrit dans le présent article, doit être le même
+bureau. Sauf dans des cas particuliers (par exemple lors d'un projet avec une architecture
+compliquée, un établissement d'une grande envergure, etc.), sur accord de l'autorité compétente,
+le bureau de contrôle qui intervient au point 4 peut être différent de celui des points 1 et 5.
+
+Note :
+         L’ingénierie du comportement structurel en situation d’incendie requérant le recours à un
+         modèle de calcul avancé peut aussi s’avérer nécessaire dans le cadre d’une analyse au feu
+         normalisé, soit pour effectuer une analyse du comportement global de la structure, soit
+         pour justifier des éléments qui ne sont pas couverts par les valeurs tabulées ni par les
+         méthodes simplifiées proposées dans les Eurocodes, soit encore pour analyser le
+         comportement de certains assemblages ou des déformations. Dans ce cas, comme au point
+         4 ci-dessus, les autorités compétentes pourront demander un contrôle par un organisme
+         agréé par les autorités compétentes suivant l’article 7. Ceci s'applique également
+         lorsqu’on est en dehors des domaines de validité des méthodes tabulées ou simplifiées.
+
+Art. 7 Organisme agréé pour le contrôle des calculs au feu
+
+Les organismes spécialisés qui souhaitent intervenir dans la procédure de contrôle des calculs et
+de la réalisation au niveau des points 1 et 4 à 6 de l'article 6, doivent être préalablement agréés à
+cet effet comme "organisme de contrôle" par le Ministre ayant le Travail dans ses attributions.
+Les conditions d'agrément et les règles d'intervention des organismes de contrôle sont déterminées
+par l'article 614 du Code du travail et les règlements grand-ducaux et ministériels qui en découlent
+dans le cadre des compétences et attributions de l'Inspection du travail et des mines.
+Ceci implique notamment pour l'organisme de contrôle :
+  •   de présenter lors de la demande d'agrément un dossier établissant la compétence du
+      personnel dans l’ingénierie concernée et démontrant que l'organisme dispose de moyens de
+      calcul [et de matériels] appropriés.
+  •   d'être organisé et de réaliser ses interventions de manière à garantir une totale indépendance
+      par rapport à la démarche de conception, ce qui n'exclut pas la possibilité d'échange
+      d'informations techniques entre l'organisme de contrôle et les auteurs de projet [et les firmes
+      réalisant la structure].
+  •   d'être accrédité pour ses activités au titre des normes applicables des séries EN ISO/CEI
+      17000 respectivement EN 45000 par l’Office Luxembourgeois d’Accréditation et de
+      Surveillance (OLAS) de l’Institut Luxembourgeois de la Normalisation, de l’Accréditation
+      de la Sécurité et la qualité des produits et services (ILNAS) ou par tout autre organisme
+      d’accréditation équivalent signataire de l’accord multilatéral pris dans le cadre de la
+      coordination européenne des organismes d’accréditation.
+
+
+
+
+Page 29 sur 48 pages                                                                 ITM-SST 1551.1
+Art. 8 Transposition des hypothèses de dimensionnement et des résultats de
+calcul dans les documents d’exécution et d’exploitation
+Les aménagements prévus par le concepteur lors de l'analyse au feu de la structure (mise en place
+de mesures actives spécifiques, renforcement de structure, connections supplémentaires, armatures
+supplémentaires…) doivent clairement figurer dans les notes justificatives ainsi que sur les plans
+de construction, afin de vérifier sans équivoque leur existence lors de la mise en exploitation de
+l'ouvrage.
+Les notes justificatives fixent les conditions d’exploitation et décrivent les hypothèses utilisées
+pour l’étude d’ingénierie incendie ainsi que les recommandations déduites des résultats de cette
+étude. Elles donnent les différents scénarios qui impliquent la définition :
+  • des compartiments au feu et des cellules étudiés avec les caractéristiques de parois et des
+     ouvertures
+  • des données relatives au feu (densité de charge calorifique, débit calorifique maximal, les
+     tailles des foyers considérés (tailles et position des foyers, vitesses de propagation)
+  • des mesures actives de lutte contre le feu
+Les documents en question seront tenus à la disposition des autorités compétentes. Il est de la
+responsabilité du propriétaire et de l'exploitant de garantir le respect des conditions d’exploitation.
+
+Art. 9 Analyse des risques restants lors de l’intervention
+L’analyse des risques restants (RR) consiste à analyser différentes situations telles que :
+
+Exigence allégée :
+1.    Etude de la stabilité au feu de la structure limitée à une durée de 30, 60, 90 ou 120 minutes
+      (RR1).
+2.    Mise en évidence des points sensibles de la structure. Les éléments particulièrement vitaux
+      pour la stabilité d’ensemble de la structure et les éléments dont la ruine entrainerait une ruine
+      en chaîne de l’ensemble de la structure du bâtiment doivent être mis en évidence. De la
+      même façon seront également mis en évidence les éléments dont la ruine ne conduit qu’à un
+      effondrement partiel de la structure (RR2).
+3.    Etude des modes de ruine. Les conséquences ainsi que les circonstances (ruine brutale ou
+      ductile, effondrement en chaîne, extension de la perte de stabilité de la structure à d’autres
+      compartiments que celui incendié) seront documentées et mise à disposition des autorités
+      compétentes. Dans certaines conditions, certaines ruines seront autorisées (RR3).
+
+Exigence standard :
+4.    Risque en phase de refroidissement. Les études comprendront une partie spécifiquement
+      dédiée à la phase de refroidissement et aux dégâts et dangers que celle-ci peut engendrer.
+      Ceci revient à analyser une résistance au feu naturel illimitée. Par exemple, les risques de
+      défaillances des assemblages dans la phase de refroidissement doivent être analysés (RR4).
+
+
+
+
+Page 30 sur 48 pages                                                                   ITM-SST 1551.1
+Exigence renforcée :
+5.      Possibilités de défaillance de certaines mesures de protection passives (portes, volets coupe-
+        feu,…) ou actives (désenfumage, sprinkler, détection…). Les types de défaillance à
+        considérer sont à fixer par les autorités compétentes (RR5).
+6.      Prise en compte de changements futurs d’exploitation ou d’affectation (RR6). Cette
+        exigence n’est à considérer que sur demande du maître d’ouvrage.
+
+Afin de qualifier les risques affectant un bâtiment, un profil de risque a été défini dans le tableau 8
+ci-dessous.
+
+
+                                       Tableau 8: Définition du profil de risque
+
+                                                                          Bâtiments
+                                                  Bâtiments Bas                           Bâtiments Elevés
+                                                                         Moyens (> 7 m;
+                                                     (< 7 m)                              (> 22 m)
+                                                                            < 22 m)
+                                                         2 à 3 niveaux
+                                                                          4 à 7 niveaux      plus de 7
+     Catégories d’occupation               1 niveau
+                                                                                              niveaux
+                                                          (R+1 à R+2)
+                                                                          (R+3 à R+6)
+Catégorie a : Occupants qui sont
+éveillés /conscients et familiarisés          A               A
+avec le bâtiment
+Catégorie b : Occupants qui sont                                               C                 C
+éveillés /conscients mais qui ne
+                                              A               B
+sont pas familiarisés avec le
+bâtiment
+Catégorie c : Majorité des
+Occupants qui sont susceptibles
+                                              B               C                C
+de dormir / de ne pas être
+conscients
+                                                                                                 D
+Catégorie d : Occupants recevant
+                                              C               D                D
+des soins médicaux
+
+
+
+
+Le tableau 9 ci-dessous montre les analyses requises suivant le profil de risque
+RR1 signifie résistance au feu naturel pendant un temps déterminé
+RR2 signifie mise en évidence des points sensibles de la structure.
+RR3 signifie étude des modes de ruine.
+RR4 signifie situation standard.
+RR5 signifie possibilités de défaillance de mesures passives ou actives
+RR6 signifie une prise en compte de changements futurs d’exploitation ou d’affectation.
+
+
+
+
+Page 31 sur 48 pages                                                                        ITM-SST 1551.1
+               Tableau 9: Analyse des risques restants en fonction du profil de risque
+
+
+                                   Profil de risque   Analyse des risques restants
+
+                                   A                  RR1
+                                   B                  RR1,RR2
+                                   C                  RR1,RR2,RR3, RR4
+                                   D                  RR1, RR2, RR3, RR4, RR5
+
+
+
+
+              Visa du Directeur adjoint                   Mise en vigueur, le 26.10.2012
+              De l’Inspection du travail
+                     et des mines                                        s.
+
+                          s.                                       Paul WEBER
+                                                                     Directeur
+                 Robert HUBERTY                              de l’Inspection du travail
+                                                                    et des mines
+
+
+
+
+Page 32 sur 48 pages                                                                       ITM-SST 1551.1
+                              ANNEXE I : Paramètres de calculs à considérer
+
+ La source ci-dessus donne un intervalle de variation des charges au feu. Les valeurs
+ caractéristiques correspondant aux fractiles 80% ont été déduites des valeurs limites des intervalles
+ en supposant que celles-ci correspondent aux fractiles 5% et 95% et que les charges au feu se
+ distribuent suivant une loi statistique de Gumbel (voir annexe 3). Le tableau ci-dessous donne les
+ valeurs caractéristiques à utiliser. Pour certains types d'occupation, vu le nombre trop réduit de
+ données statistiques, la valeur 80% fractile est notée en rouge et doit être considérée avec
+ précaution. Cette valeur peut être utilisée à titre indicatif mais devra être justifiée et validée par les
+ autorités compétentes de cas en cas.
+
+ Le tableau 1 donne des valeurs pour la production MJ/m2 et en MJ/m3 pour l’entreposage. Dans le
+ cas de l’entreposage il y a lieu de tenir compte de la hauteur de stockage en m.
+
+
+                Tableau 1 : Densité de charges calorifiques selon l’exploitation en industrie.
+ Source : source VKF-AEAI : Note explicative de protection incendie (19.12.2007)
+ http://bsvonline.vkf.ch/web/BSVonlineStart.asp?Sprache=f
+
+                                                                       Production                      Entreposage                    Entreposage net
+                                                                  Densité de                       Densité de                       Densité de
+                                                                                 Densité de                       Densité de                       Densité de
+                                                                   charges                          charges                          charges
+                                                                                  charges                          charges                          charges
+                                                                 calorifiques                     calorifiques                     calorifiques
+                                                                                calorifiques                     calorifiques                     calorifiques
+                     Occupation                                     de – à
+                                                                                 caractérist.
+                                                                                                     de – à
+                                                                                                                  caractérist.
+                                                                                                                                      de – à
+                                                                                                                                                   caractérist.
+                                                                  (mesures                         (mesures                         (mesures
+                                                                                80% fractile                     80% fractile                     80% fractile
+                                                                   suisses)                         suisses)                         suisses)
+
+                                                                     qm             qf,k              qm             qf,k              qm             qf,k
+
+                                                                   MJ/m2           MJ/m2            MJ/m3           MJ/m3            MJ/m3           MJ/m3
+
+Carton & Papier
+Fabrique de carton / carton
+ondulé
+Fabrique de carton / carton   Entreposage de matières
+                                                                                                  1600 - 1700               1664   2000 - 2300               2192
+ondulé                        premières
+Fabrique de carton / carton   Entreposage de papier en
+                                                                                                                            3700                        14700
+ondulé                        bobines
+Fabrique de carton / carton
+                              Production, traitement             700 - 2400                1785
+ondulé
+
+
+
+Fabrique de papier
+                              Entreposage de matières
+Fabrique de papier                                                                                                     20000                            22000
+                              premières (cellulose)
+
+                              Entreposage de matières
+Fabrique de papier                                                                                                          6900                             8600
+                              premières (vieux papier, pressé)
+
+                              Entreposage de matières
+Fabrique de papier            premières (vieux papier, en                                         1700 - 3700               2977   2200 - 5400               4243
+                              vrac)
+
+Fabrique de papier            Production, transformation         200 - 1200                839
+
+Fabrique de papier            Entreposage de produits finis                                       1500 - 4100               3160   2100 - 8100               5931
+
+
+
+
+ Page 33 sur 48 pages                                                                                                                 ITM-SST 1551.1
+Imprimerie
+                                      Entreposage de papier en
+Imprimerie                                                                                  2000 - 5300   4107   3900 - 6700   5688
+                                      bobines
+Imprimerie                            Production                        400 - 500    464
+                                      Production avec local pour
+Imprimerie                                                             2000 - 2200   2128
+                                      déroulement du papier
+Imprimerie                            Expédition, emballage                                 200 - 2400    1605   300 - 3000    2024
+
+Imprimerie                            Reliure                                        2400
+
+
+
+
+Industrie alimentaire
+
+Boissons (sans alcool)
+
+Boissons (sans alcool)                Remplissage                       300 - 350    332
+
+Boissons (sans alcool)                Entreposage                                                          600                  900
+
+
+
+Chocolat
+
+                                      Entreposage de matières
+Chocolat                              premières (y compris matériau                         4900 - 5400   5219   8100 - 8200   8164
+                                      d’emballage)
+
+Chocolat                              Production, local de conchage    500 - 2000    1458
+
+                                      Entreposage de produits finis,
+Chocolat                                                                                    1000 - 2000   1639   2600 - 3300   3047
+                                      expédition
+
+
+
+Commerce alimentaire
+                                      Entreposage de produits frais,
+Commerce alimentaire                                                                        400 - 1000     783   1100 - 1900   1611
+                                      expédition
+Commerce alimentaire                  Entreposage de récipients                                           1800                 2400
+                                      Emballage / portionnement de
+Commerce alimentaire                                                                 1900
+                                      viande
+
+
+
+Fabrication        de      produits
+laitiers
+Fabrication de produits laitiers      Production de fromage                          300
+
+Fabrication de produits laitiers      Entreposage de fromage                                400 - 1500    1102   800 - 1800    1439
+
+
+
+Grains
+
+Minoterie                             Entreposage de farine                                 3600 - 3800   3728   5100 - 5400   5292
+
+Minoterie                             Production                       500 - 1700    1266
+
+
+
+Graisses, huiles, beurre
+
+Graisses, huiles                      Production                                     8500
+                                                                                                                   4800 -
+Graisses, huiles, beurre              Entreposage                                           3400 - 7200   5826                 8823
+                                                                                                                   11100
+
+
+
+Pâtes alimentaires
+
+Pâtes alimentaires                    Production                        500 - 800    692
+
+Pâtes alimentaires                    Entreposage                                           1500 - 2000   1819   2400 - 2900   2719
+
+
+
+
+ Page 34 sur 48 pages                                                                                              ITM-SST 1551.1
+Produits     de     boulangerie-
+pâtisserie
+Produits     de       boulangerie-   Entreposage de matières
+                                                                                                        1500                  2800
+pâtisserie                           premières
+Produits     de       boulangerie-
+                                     Production                       300 - 700    555
+pâtisserie
+Produits     de       boulangerie-   Entreposage de produits finis,
+                                                                                          500 - 2100    1522   600 - 2300     1685
+pâtisserie                           expédition
+
+
+
+Sucre
+
+Fabrique de sucre                    Production, emballage            100 - 200    164
+
+Fabrique de sucre                    Entreposage                                          4200 - 5000   4711   5200 - 7400    6605
+
+
+
+Industrie chimique
+Industrie chimique générale
+
+Industrie chimique générale          Production                       500 - 7800   5161
+
+Industrie chimique générale          Entreposage, solvants                                1800 - 6800   4993
+
+Industrie chimique générale          Entreposage, résine époxy                                          3800                  5000
+
+
+
+Produits pharmaceutiques
+
+Produits pharmaceutiques             Production                       300 - 1100   811
+
+Produits pharmaceutiques             Entreposage                                          1100 - 2500   1994   1300 - 3700    2832
+
+
+
+Logistique
+Centre de distribution
+
+Centre de distribution               Entreposage                                          300 - 8100    5280   400 - 16200   10489
+                                     Entreposage de produits de
+Centre de distribution                                                                                  1500                  3100
+                                     jardin
+                                     Entreposage de produits
+Centre de distribution                                                                                  8100                 16200
+                                     ménagers
+                                     Entreposage d’appareils
+Centre de distribution                                                                    200 - 1300     902   300 - 2300     1577
+                                     électriques
+Centre de distribution               Entreposage de meubles                               1000 - 3000   2277   1300 - 5000    3663
+
+
+
+Matières et
+marchandises
+diverses
+Accessoires auto
+
+Accessoires auto                     Entrepôt de pièces de rechange                        400 - 800     655   700 - 1300     1083
+
+                                     Entrepôt de liquides (huiles,
+Accessoires auto                                                                                        1200                  3000
+                                     nettoyants, solvants)
+Accessoires auto                     Entrepôt de pneus                                    700 - 1200    1019   800 - 1800     1439
+
+
+
+Aliments fourragers
+
+Aliments fourragers                  Production d’aliments composés   500 - 1400   1075
+
+                                     Entreposage d’aliments
+Aliments fourragers                                                                       900 - 1500    1283   1300 - 2200    1875
+                                     composés
+
+
+
+ Page 35 sur 48 pages                                                                                            ITM-SST 1551.1
+Appareils électriques
+
+Appareils électriques           Production et emballage        100 - 150   132
+
+Appareils électriques           Entreposage                                       500 - 1300    1011   700 - 2300    1722
+
+
+
+Déchets, recyclage
+                                Déchets spéciaux (peintures,
+Déchets                                                                                         2500                 6100
+                                solvants)
+Déchets                         Déchets spéciaux (acides)                                       1300                 2800
+                                Recyclage de plastiques,
+Déchets                                                                                         3800                 6000
+                                entrepôt
+                                Recyclage de plastiques,
+Déchets                                                                    1200
+                                production
+Déchets                         Plaquettes de bois                                400 - 1800    1294   1300 - 2500   2066
+
+
+
+Matériaux de construction
+
+Matériaux de construction       Briques silico-calcaires       300 - 550   460
+
+Matériaux de construction       Béton (puits, etc.)                        300
+
+Matériaux de construction       Bois                                              1200 - 1600   1455   2000 - 3200   2766
+                                Matériaux d’isolation
+Matériaux de construction                                                          300 - 600     492    400 - 700     592
+                                (polystyrol)
+                                Marché d’articles de
+Matériaux de construction                                                         500 - 1200     947   800 - 2000    1566
+                                construction
+
+
+
+Production de verre
+
+Production de verre             Emballage                                  350
+
+Production de verre             Entreposage                                        100 - 150     132    150 - 200     182
+
+
+
+Produits à base de tabac
+
+Produits à base de tabac        Production                     250 - 600   473
+
+Tabac, fabrique de cigarettes   Entreposage                                       900 - 1800    1475   1400 - 2400   2039
+
+Textiles
+Etoffes, vêtements
+
+Etoffes, vêtements              Entreposage                                        100 - 600     419   300 - 1100     811
+
+
+
+Fabrique de tapis
+
+Fabrique de tapis               Production                                 2500
+
+Fabrique de tapis               Production, teinturerie                    300
+
+Fabrique de tapis               Entreposage                                       500 - 1200     947   800 - 2000    1566
+
+
+
+Filature
+
+Filature                        Production                     500 - 700   628
+
+Filature                        Entreposage                                       3100 - 3300   3228   3800 - 4700   4375
+
+
+
+Tissage
+
+Tissage                         Production                     200 - 300   264
+
+Tissage                         Entreposage                                       700 - 1400    1147   900 - 1800    1475
+
+ Page 36 sur 48 pages                                                                                    ITM-SST 1551.1
+Transformation des
+métaux
+Construction     de     véhicules
+automobiles
+                                    Production (véhicules de
+Construction     de     véhicules
+                                    nettoyage, véhicules blindés,   300 - 400    364
+automobiles
+                                    etc.)
+Construction     de     véhicules
+                                    Entreposage                                          200 - 600     455    300 - 900     683
+automobiles
+
+
+
+Construction métallique
+                                    Entreposage de peintures,
+Construction métallique                                                                 1000 - 2500   1958   1600 - 4900   3707
+                                    revêtements en poudre
+Construction métallique             Peinture au pistolet                         100
+
+Construction métallique             Production, galvanisation       100 - 300    228
+
+Construction métallique             Entreposage                                          100 - 200     164    150 - 250     214
+
+
+
+Fabrication de machines
+
+Fabrication de machines             Travail du métal                             250
+
+Fabrication de machines             Entreposage, expédition                              50 - 100       82    50 - 150      114
+
+
+
+Transformation               du
+plastique
+Fabrique de câbles
+
+Fabrique de câbles                  Production                      400 - 1700   1230
+
+Fabrique de câbles                  Entreposage de produits finis                       1600 - 4000   3132   5300 - 7900   6960
+
+
+
+Feuilles et bâches
+
+Feuilles et bâches                  Production                      700 - 2400   1785
+
+Feuilles et bâches                  Entreposage de produits finis                       900 - 2200    1730   1300 - 3000   2385
+
+Matières synthétiques
+                                    Entreposage de matières                                                    5100 -
+Matières synthétiques                                                                   4100 - 5100   4739                 8293
+                                    premières (granulés)                                                       10100
+
+Bouteilles PET                      Moulage par injection                        800
+
+Bouteilles PET                      Entreposage                                         400 - 1000     783   500 - 2100    1522
+
+Polystyrol                          Découpage                       100 - 300    228
+
+Polystyrol                          Entreposage                                          200 - 400     328    400 - 500     464
+                                    Entreposage (rembourrage,
+Mousses                                                                                  300 - 400     364    500 - 700     628
+                                    matelas)
+
+
+
+Moulage par injection
+
+Moulage par injection               Production                      100 - 1600   1058
+
+Moulage par injection               Entreposage de produits finis                       1400 - 2100   1847   1600 - 2600   2239
+
+
+
+Panneaux de mousse dure
+
+Panneaux de mousse dure             Production                                   1600
+
+Panneaux de mousse dure             Entreposage de produits finis                                     1700                 3100
+
+
+
+ Page 37 sur 48 pages                                                                                          ITM-SST 1551.1
+Tuyaux, conduites
+
+Tuyaux, conduites                  Production                       700 - 2000    1530
+
+Tuyaux, conduites                  Entreposage de produits finis                         1300 - 3200   2513    1600 - 5300    3963
+
+
+
+Travail du bois
+Charpenterie
+
+Charpenterie                       Production pure                                900
+                                   Halle de production avec dépôt
+Charpenterie                                                        1400 - 3600   2805
+                                   intermédiaire
+Charpenterie                       Entreposage                                           1700 - 2800   2402    1800 - 4600    3588
+
+
+
+Commerce d’articles en bois
+
+Commerce d’articles en bois        Débitage                                       5000
+
+Commerce d’articles en bois        Entreposage                                           1300 - 2500   2066    2400 - 7500    5656
+
+
+
+Entrepôt de briquettes
+
+Entrepôt de briquettes             Entreposage                                                         11600                 16600
+
+
+
+Fabrique de      panneaux     de
+particules
+Fabrique de      panneaux     de   Production de panneaux de
+                                                                    900 - 1300    1155
+particules                         particules
+Fabrique de      panneaux     de                                                                                 6200 -
+                                   Entreposage                                           4100 - 6600   5696                   8754
+particules                                                                                                       10200
+
+
+
+Menuiserie du bâtiment et
+d’intérieur
+Menuiserie                         Production pure                                900
+
+                                   Production avec dépôt
+Menuiserie                                                          900 - 2000    1602
+                                   intermédiaire
+Menuiserie                         Entreposage                                           1000 - 3000   2277    1300 - 5000    3663
+                                   Fabrication de meubles
+Menuiserie                                                           500 - 550    532
+                                   rembourrés
+Menuiserie                         Laquage de meubles                250 - 600    473
+
+
+
+Scierie
+
+Scierie                            Scierie                          1000 - 1700   1447
+
+Scierie                            Entrepôt de bois de sciage                                          2400                   4900
+
+
+
+
+ Page 38 sur 48 pages                                                                                            ITM-SST 1551.1
+  Tableau 2 : Débit calorifique maximal par unité de surface RHRf (Rate of Heat Release)
+                              (source NBN S 21-208 annexe B).
+                                          Produits stockés
+                                                                          RHR      ht
+                                                                         [kW/m²]   [m]
+                       Foyer-type de bois
+                                                                          290      0,1
+                                                                          544      0,2
+                                                                          990      0,4
+                                                                          1582     0,8
+                       Palettes de bois
+                                                                          1250     0,5
+                                                                          3500     1,5
+                                                                          6000     3,0
+                                                                          9000     4,9
+                       Meubles en caisse
+                                                                          100      3,3
+                       Planches sciées empilées
+                                                                           82      1,5
+                       Panneaux de particules empilés
+                                                                          134      2,4
+                       Matériaux cellulosiques
+                                                                          160       -
+                       Sacs postaux
+                                                                          350      1,5
+                       Feuilles de carton empilées
+                                                                          524      1,8
+                       Rouleaux de carton
+                                                                          840      7,0
+                       Boîtes de carton
+                                                                          1030     7,0
+                       Boîtes de carton compartimentées
+                                                                          1500     4,6
+                       Matériel électrique en cartons
+                                                                          284      2,0
+                       Produits emballés en général
+                                                                          1130     3,6
+                       Atelier de réparation de voiture, essence,
+                       peintures                                          260      0,8
+
+                       Garage de camions
+                                                                          1860      -
+                       Produits industriels méthyliques
+                                                                          740       -
+                       Essence
+                                                                          1590      -
+                       Fuel léger
+                                                                          1470      -
+                       Composants en fibre de verre, en boîte             870      4,6
+                       Cellules de douches en PE renforcé de fibres de    1250     4,6
+                       verre emballées en cartons empilés
+                       Bouteilles en plastique en boîtes                  4320     4,6
+                       Bouteilles PVC emballées en cartons                3000     4,6
+                       compartimentés empilés
+                       Bouteilles PE emballées en cartons                 5500     4,6
+                       compartimentés empilés
+                       Bouteilles PE emballées en cartons empilés         1750     4,6
+
+
+Page 39 sur 48 pages                                                                     ITM-SST 1551.1
+                                        Produits stockés
+                                                                             RHR             ht
+                                                                            [kW/m²]         [m]
+                        Casiers à lettres en PE remplis et empilés           7500           1,5
+                        Poubelles de PE en carton, empilés                   1750           4,6
+                        Films de matière plastique en rouleaux               4200           4,3
+                        Film de PP et PE en rouleaux, empilés                5500           4,3
+                        Bains en PP emballés dans des cartons fermés,        3900           4,6
+                        empilés
+                        Isolant en PU empilé                                 1210           4,6
+                        Panneaux d’isolant en mousse rigide de PU en         1700           4,6
+                        cartons fermés, empilés
+                        Panneaux d’isolant en mousse rigide de PS,           2900           4,3
+                        empilés
+                        Réservoirs en PS emballés dans des cartons           12440          4,6
+                        Récipients en PS, en boîtes                          3450           4,3
+                        Bains en PS emboîtés dans des cartons, empilés       4750           4,3
+                        Jouets en PS, en boîtes                              1400           4,6
+                        Jouets en PS en pièces détachées emballées           1800           4,6
+                        dans des cartons empilés
+
+
+PE = polyéthylène                                            PP = polypropylène       PU = polyurétane
+PVC = chlorure de polyvinyl                                  PS = polystyrène
+ht = Hauteur du stockage
+
+
+
+
+Page 40 sur 48 pages                                                                                     ITM-SST 1551.1
+             Tableau 3 : Pouvoir calorifique « Hu » de divers matériaux et produits.
+
+Sources : AEAI (Association des établissements cantonaux d’assurance incendie Suisse)
+Le tableau donne le pouvoir calorifique à considérer pour des matériaux et produits typiques
+utilisés dans la construction et pour les aménagements intérieurs.
+
+                                      Matériau                 Valeur          Unité
+             ABS                                                  35.20          MJ/kg
+             Acétate d’éthyle                                     20.80          MJ/kg
+             Acétone (0.8 kg/litre)                               28.80          MJ/kg
+             Acide cyanoacétique                                  16.92          MJ/kg
+             Acide sulfhydrique                                   15.12          MJ/kg
+             Alcool (0.7 kg/litre)                                27.00          MJ/kg
+             Aliments4)                                           15.60          MJ/kg
+             Amidon                                               17.60          MJ/kg
+             Appareils électriques1)                              10.00          MJ/kg
+             Appareils téléphoniques                              41.76          MJ/kg
+             Armoires roulantes / archives                       114.60          MJ/m3
+             Beurre                                               38.20          MJ/kg
+             Biscuits                                             17.60          MJ/kg
+             Biscuits au beurre                                   17.20          MJ/kg
+             Bitume                                               35.28          MJ/kg
+             Bois: - hêtre                                        18.70          MJ/kg
+                   - bouleau                                      18.70          MJ/kg
+                   - pin douglas                                  19.60          MJ/kg
+                   - érable                                       17.80          MJ/kg
+                   - chêne                                        18.70          MJ/kg
+                   - épicéa                                       20.40          MJ/kg
+                   - pin                                          17.80          MJ/kg
+             Bois de sciage                                       12.60          MJ/kg
+             Bonbons, simples                                     16.10          MJ/kg
+             Calcium                                              15.50          MJ/kg
+             Caoutchouc2)                                         39.06          MJ/kg
+             Carton                                               16.50          MJ/kg
+             Carton-pâte                                          16.80          MJ/kg
+             Cellulose                                            16.30          MJ/kg
+             Cellulose, dérivés de                                29.30          MJ/kg
+             Charbon de bois                                      33.70          MJ/kg
+             Chocolat au lait                                     23.50          MJ/kg
+             Chocolat noir                                        23.50          MJ/kg
+             Colle, à eau                                          5.00          MJ/kg
+             Contreplaqué 5 mm                                    53.00         MJ/m2
+             Coton (balles)                                       15.48          MJ/kg
+             Coton (fibre textile)                                17.40          MJ/kg
+             Cuir                                                 19.80          MJ/kg
+             Ecran, terminal avec écran                          137.88        MJ/pièce
+             EPS (polystyrène) - styropor                         38.00          MJ/kg
+
+Page 41 sur 48 pages                                                                      ITM-SST 1551.1
+                                    Matériau                   Valeur     Unité
+             Essence de nettoyage = white-spirit                  43.50     MJ/kg
+             Farine                                               15.90     MJ/kg
+             Farine de maïs                                       15.70     MJ/kg
+             Farine de riz                                        15.50     MJ/kg
+             Farine de seigle                                     16.56     MJ/kg
+             Fibres textiles en coton                             17.40     MJ/kg
+             Fibres textiles en laine                             23.20     MJ/kg
+             Fromage3)                                            13.10     MJ/kg
+             Graisse                                              40.00     MJ/kg
+             Huile à moteur                                       41.60     MJ/kg
+             Huile hydraulique (0.91 kg/litre)                    35.70     MJ/kg
+             Huile lubrifiante                                    42.00     MJ/kg
+             Huile pour machines                                  42.30     MJ/kg
+             Huile solaire                                        25.10     MJ/kg
+             Kérosène (J P1)                                      43.00     MJ/kg
+             Laine                                                23.20     MJ/kg
+             Lampadaires                                          20.00   MJ/pièce
+             Lampes                                               15.00   MJ/pièce
+             Légumes (frais)                                      10.00     MJ/kg
+             Margarine                                            32.40     MJ/kg
+             Mousse                                               39.80     MJ/kg
+             Nitrate de potassium                                  4.68     MJ/kg
+             Noisettes                                            16.80     MJ/kg
+             Nylon                                                29.88     MJ/kg
+             Ordinateur avec imprimante                          100.00   MJ/pièce
+             Palettes (en bois)                                  369.60   MJ/ pièce
+             Panneaux de particules                               17.28     MJ/kg
+             Panneaux de particules de bois                       19.20     MJ/kg
+             Panneaux de particules de bois 19 mm                295.20    MJ/m2
+             Papier                                               16.50     MJ/kg
+             Papier, empilé de manière non compacte               17.60     MJ/kg
+             Papier, papier de toilette                           17.60     MJ/kg
+             Papier, vieux papier                                 13.40     MJ/kg
+             Papier, vieux papier en balles                       15.12     MJ/kg
+             Parfumerie, articles de                              25.20     MJ/kg
+             Pâtes alimentaires, pâtes aux œufs                   15.10     MJ/kg
+             PE (polyéthylène), récipients ou pièces moulées      43.92     MJ/kg
+             PE, feuilles                                         44.50     MJ/kg
+             Peinture, en général, combustible                    42.00     MJ/kg
+             Perceuse                                            110.50   MJ/pièce
+             Pétrole brut                                         43.50     MJ/kg
+             PMMA                                                 24.84     MJ/kg
+             Pneus                                                27.70     MJ/kg
+             Polyamide                                            28.44     MJ/kg
+             Polycarbonate                                        29.88     MJ/kg
+             Polyester                                            27.36     MJ/kg
+
+Page 42 sur 48 pages                                                                  ITM-SST 1551.1
+                                    Matériau      Valeur     Unité
+             Polyéthylène                            43.92     MJ/kg
+             Polyoxymethylène                        15.48     MJ/kg
+             Polypropylène                           43.92     MJ/kg
+             Polystirol                              39.60     MJ/kg
+             Polyuréthane                            22.70     MJ/kg
+             Poudre de lait, entier                  21.00     MJ/kg
+             Poudre de lait, maigre                  15.50     MJ/kg
+             PP                                      45.36     MJ/kg
+             Propène                                 45.60     MJ/kg
+             PS                                      39.60     MJ/kg
+             PU dur                                  24.12     MJ/kg
+             PU souple                               23.04     MJ/kg
+             PVC                                     18.00     MJ/kg
+             Résine époxy, EP                        29.16     MJ/kg
+             Résine polyester (GFK)                  19.08     MJ/kg
+             Savon                                   46.90     MJ/kg
+             Sucre                                   17.10     MJ/kg
+             Sucre de canne                          16.80     MJ/kg
+             Tabac                                   16.50     MJ/kg
+             Tapis                                   46.20    MJ/m2
+             Téléviseurs en couleurs                313.56   MJ/pièce
+             Textiles                                22.32     MJ/kg
+             Verre                                   28.80     MJ/kg
+             Vêtements                               21.00     MJ/kg
+             Vieux papier                            13.50     MJ/kg
+             Viscose, articles en                    17.60     MJ/kg
+             Viscose, fibres de                      15.60     MJ/kg
+             White-spirit, essence de nettoyage      43.50     MJ/kg
+             Xylène                                  40.00     MJ/kg
+
+
+
+
+Page 43 sur 48 pages                                                    ITM-SST 1551.1
+                       ANNEXE II : Modèle de calcul au feu naturel
+
+
+La note de justification de la résistance au feu naturel doit contenir les renseignements suivants.
+
+Données à fournir :
+
+    •   Descriptifs de la structure considérée
+            o    Principe général de stabilité
+            o    Vues en plan et en élévation des éléments de structure
+            o    Indication des charges : poids propre de la structure, des charges permanentes et
+                 d’exploitation, vent, neige, …
+            o    Indication des systèmes statiques utilisés pour la vérification de la structure à
+                 froid
+            o    Définition de caractéristiques mécaniques de matériaux utilisés pour les éléments
+                 de la structure (nuance de l’acier e.g. S355JR, classe du béton e.g. C30/37…)
+    •   Définition des compartiments au feu et des cellules étudiés (plans, surface, caractéristiques
+        de parois et des portes)
+            o    Plans d’architectes définissant les compartiments au feu.
+            o    Indication des surfaces des compartiments.
+            o    Indication des REI des murs et cloisons ainsi que des portes sur les vues en plan
+                 de chaque étage.
+            o    Indication des REI des planchers.
+            o    Indication des E des parties de façades permettant d’éviter la propagation du feu
+                 d’un compartiment à l’autre.
+    •   Définition des ouvertures.
+            o    Systèmes d’évacuation de fumée et de chaleur par ventilation mécanique ou
+                 naturelle (surface utile des ouvertures pour ventilation naturelle, débit m3/heure
+                 par ventilation mécanique, température de déclenchement, surface utile des
+                 amenées d’air frais, attestation de conformité pour le fonctionnement à haute
+                 température)
+            o    Caractéristiques de porte et cloisons (spécifications du degré de résistance au feu ;
+                 si pas de résistance au feu, nature des cloisons)
+            o    Définition des surfaces vitrés (spécifications du degré de résistance au feu et au
+                 choc; en absence de spécifications, nature des vitrages et des châssis ; voir
+                 catégories §3.2.6)
+    •   Données relatives au feu
+            o    densité de charge calorifique (qf) pour chaque compartiment
+            o    débit calorifique maximal (RHRf) pour chaque compartiment
+            o    vitesse de propagation (tα) pour chaque compartiment
+
+
+
+Page 44 sur 48 pages                                                                   ITM-SST 1551.1
+    •   Descriptif des modèles de feu utilisés :
+           o     Description du feu considéré (feu généralisé et/ou feu localisé) et mention des
+                 modèles utilisés pour calculer les courbes d’échauffement (ex. courbe
+                 paramétrique, modèle à deux zones, méthodes analytiques de l’Eurocode pour le
+                 feu localisé, computational fluid dynamic,…)
+           o     Conditions limites considérés pour le calcul du feu généralisé (conditions de
+                 ventilation, conditions aux limites du compartiment)
+           o     Tailles et positions des foyers pour les feux localisés, avec justification des
+                 positions choisies
+           o     Critères définissant le passage d’un feu localisé à feu généralisé
+    •   Descriptifs des mesures actives de lutte contre le feu :
+           o     Sprinklers (éventuellement nombres d’approvisionnements en eau indépendants)
+           o     détection automatique par la chaleur et/ou par la fumée ;
+           o     transmission automatique de l’alarme aux pompiers
+           o     pompiers d’entreprises
+           o     voies d’accès sécurisées
+           o     équipements de lutte contre le feu
+           o     systèmes de désenfumage dans les escaliers
+    •   Détermination du profil de risque en fonction de la catégorie d’occupation et du nombre de
+        niveaux.
+    •   Détermination du type d’analyse de structure à réaliser (analyse des risques restants) en
+        fonction du profil de risque
+
+Résultats à fournir :
+
+Résumé des compartiments et cellules étudiés ainsi que des scénarios.
+Pour chaque compartiment et pour chaque scenario considéré,
+    •   Evolution du feu :
+           o     pour chaque compartiment et pour chaque scenario considéré, courbe du débit
+                 calorifique total du feu en fonction du temps pendant toute la durée de l’incendie
+                 jusqu'à extinction ; explications physiques des changements brusques de cette
+                 courbe (Flashover, bris de vitrages, ouverture automatique, compartiment
+                 complètement en feu, …).
+    •   Champ de températures :
+           o   pour chaque compartiment et pour chaque scenario considéré, évolution de la
+               température de l’air pendant toute la durée de l’incendie jusqu'à extinction.
+               Plusieurs points d’intérêts sont à considérer (ex. température de la couche chaude
+               et de la couche froide pour feu généralisé avec modèle a deux zones, pour feu
+               localisé température a différents distance du foyer).
+
+
+Page 45 sur 48 pages                                                                ITM-SST 1551.1
+            o      évolution de la température dans la structure pour le scenario considéré le plus
+                   défavorable. Plusieurs points d’intérêts sont à considérer (ex. pour une poutre en
+                   béton armé, température superficielle, des barres acier, dans différents point dans
+                   la section).
+    •   Descriptif des méthodes de calcul utilisées :
+            o      Descriptif du modèle statique utilisé pour la vérification de la structure. Si le
+                   modèle est différent du modèle utilisé pour la vérification à température ambiante,
+                   justification des hypothèses prises pour le calcul au feu.
+            o      Justification de la stabilité globale de la structure lors de l’incendie d’après la
+                   stratégie de vérification au feu choisi.
+    •   Comportement de la structure :
+            o      Vérification de la structure portante, en considérant singles éléments, des parties
+                   de la structure ou la structure entière (ex. poutre + poteau, portiques, hall
+                   industriel). La résistance au feu doit être garantie en conformité avec l’article 9 de
+                   ce document.
+            o      Si on ne considère pas la structure dans son ensemble, l’éventuelle interaction
+                   entre les éléments singulièrement considéré ou des parties de structure analysée
+                   doit être tout de même impérativement prise en compte (influence de la dilatation
+                   thermique, de la modification de rigidité, de la déformation des éléments
+                   adjacents). Cette interaction peut être négligée dans le cas ou elle aura un effet
+                   favorable.
+            o      La vérification doit être faite avec des méthodes reconnues ainsi que:
+                          Méthodes simplifiés contenues dans l’Eurocode
+                          Méthodes analytiques conformes aux principes des Eurocodes
+                          Méthodes de vérification avancées (ex. logiciels aux éléments finis).
+                        Dans ce dernier cas, il est nécessaire de montre la validité de la méthode utilisée
+                        pour l’application prévue (par document de validation annexé ou référence aux
+                        documents scientifiques de validité reconnue).
+            o      Justification des détails constructifs de la structure (ex. assemblages) pour la
+                   résistance au feu requise et en conformité au comportement prévu.
+
+
+
+
+Page 46 sur 48 pages                                                                      ITM-SST 1551.1
+   ANNEXE III : Méthode de détermination des charges au feu caractéristiques.
+ Source : source VKF-AEAI : Note explicative de protection incendie (19.12.2007)
+ http://bsvonline.vkf.ch/web/BSVonlineStart.asp?Sprache=f
+
+ Cette source a été utilisée de la façon suivante pour obtenir les charges au feu caractéristiques.
+ Cette source donne un intervalle de variation des charges au feu.
+ La valeur limite inférieure de l’intervalle est supposée être la valeur correspondant au fractile 5%
+ et est notée qm5%
+ La valeur limite supérieure de l’intervalle est supposée être la valeur correspondant au fractile 95%
+ et est notée q m95%
+ Les charges au feu sont supposées se distribuer suivant une loi statistique de Gumbel.
+
+ Dès lors, la moyenne μ et le coefficient de variation V se calcule par les formules suivantes :
+                                                   5%
+                                                 qm
+                                             1 − 95
+                                                 qm %
+• V=
+          6                                 qm 5% 
+                                                         6                          
+              [0,577  + ln( − ln( 0,05 ))] − 
+                                             95%  ⋅    [0,577 + ln( − ln(0,95))]
+          π                                 qm   π                              
+                            5%
+                          qm
+• µ=
+              6                             
+        1−        [0,577 + ln( − ln(0,05))] ⋅ V
+              π                             
+
+ La moyenne et le coefficient de variation étant connus, la valeur caractéristique correspondant au
+ fractile 80% se déduit par la formule suivante :
+                                                      
+                        ⋅ V ⋅ [0,577 + ln( − ln(0,08))]
+                      6
+ q 80
+   f ,k
+        %
+          = µ ⋅ 1 −
+                    π                                 
+ A titre d’exemple,
+
+                                                               Production                    Entreposage                    Entreposage net
+                                                          Densité de                     Densité de                       Densité de
+                                                                         Densité de                     Densité de                       Densité de
+                                                           charges                        charges                          charges
+                                                                          charges                        charges                          charges
+                                                         calorifiques                   calorifiques                     calorifiques
+                                                                        calorifiques                   calorifiques                     calorifiques
+                     Occupation                             de – à
+                                                                         caractérist.
+                                                                                           de – à
+                                                                                                        caractérist.
+                                                                                                                            de – à
+                                                                                                                                         caractérist.
+                                                          (mesures                       (mesures                         (mesures
+                                                                        80% fractile                   80% fractile                     80% fractile
+                                                           suisses)                       suisses)                         suisses)
+
+                                                             qm             qf,k            qm             qf,k              qm             qf,k
+                                                                  2                2             3                3               3
+                                                           MJ/m            MJ/m           MJ/m            MJ/m             MJ/m            MJ/m3
+
+Carton & Papier
+                           Entreposage de matières
+Fabrique de papier         premières (vieux papier, en                                  1700 - 3700               2977   2200 - 5400               4243
+                           vrac)
+
+
+ La valeur limite inférieure de l’intervalle notée qm5% vaut 1700 MJ/m3.
+ La valeur limite supérieure de l’intervalle notée q m95% vaut 3700 MJ/m3.
+
+ Page 47 sur 48 pages                                                                                                       ITM-SST 1551.1
+    Le coefficient de variation V et la moyenne μ valent :
+
+                                                   5%
+                                                  qm
+                                             1−    95%
+                                                  qm
+•      V=                                                                                 = 0,25
+              6                            qm 5% 
+                                                                                     
+                [0,577 + ln( − ln(0,05))] −  95%  ⋅  6 [0,577 + ln( − ln(0,95))]
+                                              
+              π                            qm   π                                
+
+                              5%
+                             qm
+•      µ=                                           = 2523 MJ/m3
+                6                          
+            1−    [0,577 + ln( − ln(0,05))] ⋅ V
+                π                          
+
+    La valeur caractéristique correspondant au fractile 80% vaut :
+                                                         
+                           ⋅ V ⋅ [0,577 + ln( − ln(0,08))] = 2977 MJ/m3
+                         6
+    q 80
+      f ,k
+           %
+             = µ ⋅ 1 −
+                       π                                 
+
+
+
+
+    Page 48 sur 48 pages                                                                      ITM-SST 1551.1
+

@@ -1,0 +1,1118 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                       Strassen, 15 décembre 2014
+
+
+             Le présent texte a été établi par l’Inspection du travail et des mines et
+                                    la Ville de Luxembourg.
+
+                                                                     ITM-SST 1554.1
+
+
+                 Prescriptions de prévention incendie
+                        INSTRUCTION TECHNIQUE
+           Spécifications techniques pour les façades
+
+                            Le présent document comporte 31 pages
+
+
+
+                                            SOMMAIRE
+
+ Article
+
+ 1)   Objectifs et domaines d’applications                                                    2
+ 2)   Définitions                                                                             2
+ 3)   Exigences de résistance au feu des façades                                              5
+ 4)   Evaluation de la résistance au feu des façades simple parois                           11
+ 5)   Réaction au feu des matériaux et masse combustible mobilisable                         18
+ 6)   Prise en compte des bris de vitrages dans les scénarios d’incendie                     19
+
+ Annexe 1 Exigences règlementaires                                                           22
+ Annexe 2 Exemples de mesures du C et du D                                                   25
+ Annexe 3 Essais pour déterminer la chaleur de combustion mobilisable                        28
+
+
+
+
+ Page 1 sur 31                                                                    ITM-SST 1554.1
+Article 1       Objectifs et domaines d’applications
+
+Le début d'un incendie à proximité d’une façade (à l’intérieur ou à l’extérieur du bâtiment)
+engendre des risques de propagation du feu par les façades vers le(s) niveau(x)
+supérieur(s), ou latéralement vers d’autres parties du même bâtiment, ou vers les bâtiments
+voisins.
+    La présente instruction technique a pour objet de:
+      préciser les conditions d'application des exigences réglementaires ITM SST 1501
+          (bâtiments bas), ITM SST 1502 (bâtiments moyens) et ITM SST 1503 (bâtiments
+          élevés) qui s’appliquent aux façades en matière de sécurité incendie et de sécurité
+          des personnes.
+      définir les dispositions pour éviter le passage rapide des flammes ou gaz chauds
+          d'un étage à l'autre dans le plan vertical et d’un compartiment principal à l’autre
+          dans le plan horizontal.
+      définir les dispositions relatives aux façades, et à leur jonction avec les planchers
+          et la toiture, permettant de ne pas devoir effectuer de vérifications expérimentales
+          sur le système de façade proposé par rapport au danger d'incendie ; au cas où
+          des essais seraient réalisés, ils doivent se faire conformément aux prescriptions
+          de la norme EN 1364-3 (assemblage complet) ou EN 1364-4 (configuration
+          partielle).
+      préciser les conditions pour la prise en compte des bris de vitrage dans les
+          scénarios d’incendie.
+
+Les solutions constructives prévues dans cette instruction font référence aux notions de
+propagation de feu suivantes:
+      les règles en matière de séparation entre compartiments (règle dite du C + D, voir
+          article 3) ;
+      la résistance au feu des éléments et produits de construction (voir article 4) ;
+      l’étanchéité aux jonctions façade-planchers (voir article 4).
+      la destruction progressive de la façade (voir article 4).
+      la réaction au feu des éléments et produits de construction (voir article 5) ;
+      la limitation de la masse combustible mobilisable de la façade (voir article 5) ;
+      la chute de parties de construction (vitrages, profilés métalliques, voir article 6).
+
+ Article 2       Définitions
+
+    1. Baie
+    Toute ouverture pratiquée dans un mur ou dans une toiture ayant pour objet le passage
+    des personnes et/ou l'éclairage naturel des locaux.
+    2. Baie vitrée
+    Baie pour l’éclairage naturel avec un remplissage par un vitrage (porte extérieure,
+    fenêtre, vasistas, lucarne, soupirail, etc.).
+    3. Bardage
+    Ensemble constitué d'éléments manufacturés de parement (plaques, clins, ardoises,
+    tuiles, bardeaux, carreaux, dalles, etc.) fixés sur une ossature, elle-même fixée à un
+    support en béton, en acier, en bois ou en maçonnerie. Le bardage comporte au dos du
+    parement une lame d'air ventilée qu'il y ait ou non un isolant.
+
+
+
+Page 2 sur 31                                                                 ITM-SST 1554.1
+    4. Chaleur de combustion mobilisable
+    Quantité de chaleur susceptible d’être dégagée lors de la participation du matériau à la
+    propagation du feu sur la façade, déterminée suivant l’annexe 3.
+    5. Elément de remplissage
+    Elément en feuille, plaque ou panneau, simple ou composé destiné à s'intégrer dans les
+    menuiseries pour constituer la façade du bâtiment.
+    Les éléments de remplissage peuvent être opaques, translucides ou transparents y
+    compris dans le cas des baies et des fenêtres.
+    6. Façade légère
+    Façade constituée d'une ou plusieurs parois, dont la paroi extérieure, au moins, est
+    caractérisée par une masse faible, généralement inférieure à 100 kg/m2.
+    7. Façade double paroi
+    Façade vitrée ou partiellement vitrée constituée de deux façades séparées par une lame
+    d'air (aussi appelée cavité, couche aérée ou espace intermédiaire) d'épaisseur minimale
+    de 200 mm et ancrées à la structure primaire du bâtiment, assurant à elles deux la
+    fonction « façade ».
+    La façade double paroi peut être ventilée de manière naturelle et/ou mécanique :
+         par l’extérieur (figure 1) : façade double paroi ventilée dont la paroi intérieure est
+          étanche à l’air et dont la paroi extérieure laisse passer l’air.
+         par l’intérieur (figure 2) : façade double paroi ventilée dont la paroi extérieure est
+          étanche à l’air et dont la paroi intérieure laisse passer l’air.
+    La façade double paroi peut être segmentée ou non (horizontalement ou verticalement)
+    par des séparations résistantes au feu ou non.
+
+
+
+
+    Façade double paroi segmentée (ventilation          Façade double paroi non segmentée
+                   par étage)                                (ventilation multi-étages)
+
+                                Figure 1 : Ventilation par l’extérieur
+
+
+
+
+Page 3 sur 31                                                                   ITM-SST 1554.1
+        Façade double paroi segmentée                   Façade double paroi non segmentée
+        (ventilation par étage)                              (ventilation multi-étages)
+
+                                Figure 2 : Ventilation par l’intérieur
+
+
+    8. Jonction façade/plancher
+    Dispositif intérieur placé entre le nez de plancher et la façade.
+    9. Densité de charge calorifique d’une façade [MJ/m²]
+    La densité de charge calorifique d’une façade est le quotient de la quantité de chaleur
+    [MJ] susceptible d’être dégagée par la totalité des matériaux combustibles situés dans
+    une surface de référence par la valeur de cette dernière [m²]. Cette quantité de chaleur
+    est obtenue (annexe 3) en faisant la somme des masses [kg] des matériaux
+    combustibles présents dans la surface de référence multipliée par leur pouvoir
+    calorifique supérieur PCS [MJ/kg].
+    10. Matériau non combustible (Euroclasse A1 à A2)
+    Au sens de la présente instruction technique, tout matériau classé de A1 à A2 selon la
+    décision de la Commission Européenne 200/147/CE du 8 février 2000 (Journal officiel L
+    50 du 23.02.2000) reprise dans la norme EN 13501-1:2002.
+    11. Matériau faiblement combustible (Euroclasse B)
+    Au sens de la présente instruction technique, tout matériau classé B selon la décision de
+    la Commission Européenne 200/147/CE du 8 février 2000 (Journal officiel L 50 du
+    23.02.2000) reprise dans la norme EN 13501-1:2002.
+    12. Matériau combustible (Euroclasse C)
+    Au sens de la présente instruction technique, tout matériau classé C selon la décision de
+    la Commission Européenne 200/147/CE du 8 février 2000 (Journal officiel L 50 du
+    23.02.2000) reprise dans la norme EN 13501-1:2002.
+    13. Matériau très combustible (Euroclasse D)
+    Au sens de la présente instruction technique, tout matériau classé D selon la décision de
+    la Commission Européenne 200/147/CE du 8 février 2000 (Journal officiel L 50 du
+    23.02.2000) reprise dans la norme EN 13501-1:2002.
+
+
+
+
+Page 4 sur 31                                                                 ITM-SST 1554.1
+    14. Matériau très inflammable et propagateur de flamme (Euroclasse E)
+    Au sens de la présente instruction technique, tout matériau classé E selon la décision de
+    la Commission Européenne 200/147/CE du 8 février 2000 (Journal officiel L 50 du
+    23.02.2000) reprise dans la norme EN 13501-1:2002.
+    15. Résistance au feu (complément à la définition 41 de l’ITM SST 1500 conforme à
+        l’EN 13501-2)
+    Si les deux côtés des éléments sont soumis à l’essai, avec une courbe normalisée
+    température/temps (suivant EN 1363-1) à partir de l’intérieur et une courbe d’exposition
+    à un feu externe (suivant EN 1363-2) à partir de l’extérieur, la durée la plus faible
+    détermine le classement.
+    Les essais et le classement peuvent également être réalisés d’un seul côté.
+    Quels que soient les essais réalisés et les classements déterminés, les classes sont
+    identifiées par :
+         “i→o” lorsque le classement est envisagé de l’intérieur vers l’extérieur (courbe
+          normalisée température/temps),
+         “o→i” lorsque le classement est envisagé de l’extérieur vers l’intérieur (courbe
+          d’exposition à un feu externe),
+         “o↔i” lorsque le classement est envisagé de l’extérieur vers l’intérieur et de
+          l’intérieur vers l’extérieur.
+    NOTE : Par exemple, un classement EI 60 (i→o) indique un mur capable d’assurer une
+    étanchéité aux flammes et une performance d’isolation depuis l’intérieur uniquement, alors qu’un
+    classement EI 60 (o↔i) indique un mur ayant la possibilité d’assurer le même niveau de
+    performance depuis l’intérieur et l’extérieur.
+
+
+Article 3       Exigences de résistance au feu des façades
+
+3.1 Exigences réglementaires
+Les exigences réglementaires sont les prescriptions ITM-SST 1501, 1502 et 1503 dont un
+résumé est donné à l’annexe 1 des présentes instructions techniques.
+
+3.2 Façades simple paroi
+3.2.1 Bâtiments bas
+Les fixations à chaque niveau des montants constituant l'ossature de façade doivent être
+protégées contre un incendie présent dans le compartiment attenant et inférieur.
+La jonction des parois de compartimentage et de la façade, là où les prescriptions
+ITM-SST 1501 l’exigent, présente au moins la résistance au feu prescrite.
+Le joint linéaire contre la façade est fermé afin qu'aucune fumée froide ne puisse s'immiscer
+entre la façade et les parois de compartiments.
+De plus, si le joint linéaire a une largeur supérieure à 10 mm, la liaison des parois de
+compartiment avec la façade présente au moins EI 60 (i→o).
+3.2.2 Bâtiments moyens et élevés
+La résistance au feu du système de façade est évaluée suivant le chapitre 4.
+Les fixations à chaque niveau des montants constituant l'ossature de façade doivent être
+protégées contre un incendie présent dans le compartiment attenant et inférieur.
+La jonction des parois de compartimentage (planchers, murs) et de la façade présente au
+moins la résistance au feu requise pour les parois de compartimentage.
+
+
+
+Page 5 sur 31                                                                      ITM-SST 1554.1
+Pour limiter le risque de propagation du feu entre compartiments le long de la façade, sur un
+plan horizontal ou vertical, il faut satisfaire à une des trois options suivantes :
+(1) option 1 : la façade est dotée d'un élément de construction résistant au feu à sa jonction
+    avec la paroi du compartiment (plancher ou mur).
+   NOTE : Le D de C+D est uniquement mesuré sur la face supérieure (figure 3).
+
+
+
+
+                                     Figure 3 : Règle C + D
+
+
+  La figure 4 montre comment cet élément de construction peut être réalisé dans le cas d'un
+  plancher de compartimentage.
+
+
+
+
+                                Figure 4 : Option 1 (coupes verticales)
+
+
+
+Page 6 sur 31                                                                    ITM-SST 1554.1
+       NOTE : pour pouvoir considérer la notion C+D dont il est question dans le présent document
+       lors de la lecture des figures, il y a lieu de tenir compte des précisions suivantes :
+
+
+                                            D=a
+                                         C = b+c+d
+
+       Il est à noter que, dans les règles qui suivent, pour les bâtiments élevés de type B, E 60
+       devient E 90 et 1 m devient 1,2 m.
+
+L’élément de construction résistant au feu comprend:
+     a)   soit une saillie horizontale présentant au moins E 60 (E 90 pour les bâtiments
+          élevés de type B) de largeur "a" et d’épaisseur « d » (D), avec a+d > 1 m (1,2 m
+          pour les bâtiments élevés de type B), raccordée au plancher (figure 4, A et B);
+     b)    soit un élément constitué :
+            d'une saillie horizontale présentant au moins E 60, de largeur "a"(D),
+                raccordée au plancher ;
+            au niveau supérieur, d'une allège qui présente au moins E 60 (o→i), de
+                hauteur "b"(C);
+            au niveau inférieur, d'un linteau qui présente au moins E 60 (i→o), de hauteur
+                "c"(C).
+La somme des dimensions a, b, c et d (épaisseur du plancher) (C + D) est égale ou
+supérieure à 1 m, chacune des valeurs a, b ou c pouvant éventuellement être nulle, (figure 4,
+C à L).
+La figure 5 montre comment cet élément de construction peut être réalisé dans le cas d'une
+paroi verticale de compartimentage.
+
+
+
+
+                             Figure 5 : Option 1 (coupes horizontales)
+
+
+
+
+Page 7 sur 31                                                                    ITM-SST 1554.1
+L’élément de construction résistant au feu comprend:
+     a)   soit un élément se trouvant dans le prolongement de la façade et qui présente au
+          moins E 60 (i↔o); la largeur de cet élément (b1+b2+a) (figure 5, A et B) est de 1 m
+          au moins; les parties de cet élément situées à gauche et à droite de l’axe du mur
+          mitoyen ont une largeur de 0,50 m au moins, s'il s'agit de deux bâtiments distincts;
+          (a1 ≥ 0,50 m et a2 ≥ 0,50 m);
+     b)   soit une saillie verticale, dans l’axe du mur séparant les deux bâtiments ou
+          compartiments et qui présente au moins E 60 (i→o) (E 90 (i→o) pour les bâtiments
+          élevés type B). La longueur de cet élément (b1+b2+a) (figure 5, C et D) est de 1 m
+          au moins;
+     c)   soit une combinaison des éléments précédents de telle manière que la somme des
+          longueurs soit de 1 m au moins (figure 5, E).
+Lorsque les façades du bâtiment et d'une autre construction contiguë forment un dièdre
+rentrant inférieur à 100°, les parties de façade incluant l'arête du dièdre présenteront
+chacune un degré pare flamme de 60 minutes (E 60) (E90 pour les bâtiments élevés de type
+B), sur une longueur horizontale développée de 4 m. Si le dièdre est supérieur à 100° mais
+inférieur à 135°, cette distance est ramenée à 2 m.
+
+(2) option 2 : la façade présente au moins E 30 (i↔o) sur toute la hauteur du bâtiment
+    (figure 6).
+   NOTE 1: Cette solution implique que le verre résiste à 842°C ce qui exclut pratiquement qu’il se
+   brise en cas d’analyse sous feu naturel.
+   NOTE 2 : Les présentes instructions techniques ne donnent pas de règles de conception pour ce
+   cas et l’évaluation doit se faire par essai.
+
+
+
+
+                             Figure 6 : Options 2 (coupe verticale)
+
+
+
+
+Page 8 sur 31                                                                     ITM-SST 1554.1
+(3) option 3 : les compartiments situés le long des façades, sont équipés d’une installation
+    d’extinction automatique par eau selon EN 12845 (figure 7).
+
+
+
+
+                             Figure 7 : Option 3 (coupe verticale)
+
+                                                                     L’incendie a pris naissance au
+                                                                        ième
+                                                                     22      étage de ce bâtiment de
+                                                                     38 étages.
+                                                                     Au moment de l’incendie, le
+                                                                     bâtiment n’était équipé d’un
+                                                                     système d’extinction
+                                                                                               ième
+                                                                     automatique qu’aux 30 ,
+                                                                       ième   ième       ième
+                                                                     31 , 34       et 35      étages.
+                                                                     L’incendie s’est propagé très
+                                                                     rapidement depuis l’étage
+                                                                     sinistré aux étages supérieurs
+                                                                     via la façade.
+                                                                     Sa propagation s’est
+                                                                     interrompue brusquement au
+                                                                        ième
+                                                                     30      étage grâce au système
+                                                                     d’extinction automatique.
+                         Figure 8 : Bâtiment « One Meridian Plaza », USA, 1991
+
+3.3 Façades double paroi
+Ce chapitre ne concerne que les façades double paroi des bâtiments moyens et élevés dont
+l'espace entre les parois n'est pas utilisé pour l'évacuation et dont les compartiments
+adjacents ne sont pas sprinklés.
+Dans les façades double-paroi non segmentées, l’espace compris entre la paroi extérieure et
+la paroi intérieure peut en cas d’incendie jouer le rôle de cheminée pour la propagation de la
+chaleur et des fumées d’un étage (compartiment) à l’autre (figure 9).
+
+
+Page 9 sur 31                                                                       ITM-SST 1554.1
+             Figure 9 : Illustration de la propagation et de la pénétration de l’incendie
+                              via la façade double paroi non segmentée
+Les quatre types de conception autorisés, sont décrits ci-après :
+
+3.3.1   Façade double paroi segmentée
+3.3.1.1 Type 1 : Compartimentage permanent
+Les planchers et parois qui interrompent la cavité d'une façade double paroi doivent occuper
+tout l'espace compris entre les deux parois et présenter E 60 (E 90 pour les bâtiments élevés
+de type B).
+3.3.1.2 Type 2 : Compartimentage en cas d’incendie
+Lorsque la cavité de la façade double paroi comporte une circulation d'air, la continuité du
+compartimentage à travers la cavité peut être assurée par un dispositif automatique
+d'obturation en cas d'incendie de résistance au feu E 60 (E 90 pour les bâtiments élevés de
+type B). Ce dispositif est testé avec son support, dans l’orientation de la paroi de
+compartimentage, sa fermeture est commandée par une détection thermique au droit de ce
+dispositif.
+Lorsque des ouvertures de passage d'air existent entre la cavité de la double paroi et
+l’intérieur, la commande de la fermeture des dispositifs E 60 (E 90 pour les bâtiments élevés
+de type B) est activée par une détection de fumée dans la cavité ou dans le compartiment et
+répond aux conditions prévues à l’article 3.3.3.
+3.3.2   Façade double paroi non segmentée (sans compartimentage)
+3.3.2.1 Type 3 : Façade double paroi semi-ouverte
+La paroi extérieure est considérée comme semi-ouverte si elle comporte des ouvertures
+uniformément réparties sur au moins 50 % de sa surface en cas d’incendie.
+Les prescriptions relatives aux façades simple paroi (voir 4.4) sont d'application à la paroi
+intérieure.
+Les ouvertures peuvent être permanentes ou réalisées par des ventelles mobiles à ouverture
+automatique en cas d'incendie.
+L'ouverture automatique est commandée par une installation automatique de détection
+incendie répondant aux conditions prévues par l’article 3.3.3.
+3.3.2.2 Type 4 : Façade double paroi dont la paroi extérieure n’est pas semi-ouverte
+La paroi intérieure doit présenter sur toute la hauteur une étanchéité aux flammes E30 (i↔o)
+(E 60 pour les bâtiments élevés de type B).
+NOTE : Les présentes instructions techniques ne donnent pas de règles de conception pour ce cas et
+l’évaluation doit se faire par essai.
+
+
+Page 10 sur 31                                                                        ITM-SST 1554.1
+3.3.3   Dispositifs d’ouverture/fermeture automatique (type 2 ou type 3)
+3.3.3.1 Commande
+L’ouverture ou la fermeture est commandée par une installation automatique de détection
+incendie conforme à la EN 54-14 et aux normes de systèmes EN 54-1 à 9.
+De plus, une installation manuelle d'ouverture est à prévoir. Le dispositif de commande est à
+réserver au Service d'incendie. Son emplacement est défini en accord avec le service
+d'incendie.
+3.3.3.2 Sécurité positive
+En cas de coupure de l’alimentation normale (énergie électrique ou réseau d'air comprimé),
+le système d’ouverture/fermeture est mis automatiquement en position incendie.
+Tout défaut de la source d'énergie, de l'alimentation ou de la commande électrique ou
+pneumatique doit être signalé automatiquement au tableau pompiers.
+3.3.3.3 Fonctionnement en cas d’incendie dans un compartiment voisin
+Lorsque les dispositifs d’ouverture/fermeture ne sont pas intrinsèquement à sécurité positive,
+les câbles électriques desservant le dispositif de fermeture doivent être protégés P90 suivant
+EN 1366-11 sur tout leur tracé jusqu'à la façade double paroi.
+3.3.3.4 Autonomie
+Tous les systèmes d’ouverture/fermeture qui sont actionnés par le courant électrique doivent
+être alimentés par une source autonome de courant, d'une autonomie d'au moins 60 minutes
+(au moins 90 minutes pour les bâtiments élevés des types B et C).
+
+
+Article 4        Evaluation de           la   résistance         au     feu    des      façades
+                 simple paroi
+
+4.1 Généralités
+Le présent chapitre donne les règles d’application en matière de conception, de construction
+et de finition des systèmes de façades simple paroi
+       des bâtiments moyens et élevés, au niveau des séparations verticales, et
+       des bâtiments bas, moyens et élevés pour les séparations horizontales entre les
+            compartiments,
+en vue de respecter les conditions types ITM-SST 1501, 1502 et 1503.
+NOTE : Les conditions à respecter visent à limiter la propagation des flammes d'un compartiment à un
+autre, vers le haut ou horizontalement, pendant un laps de temps suffisant pour l'intervention des
+Services d'incendie. Elles sont valables pour les séparations entre compartiments et pour la
+séparation entre compartiments et cages d'escalier.
+
+4.2 Exigences pour éviter la propagation de l’incendie
+La propagation interne du feu doit être évitée entre la façade et les extrémités des parois de
+compartimentage verticales et horizontales (figure 10), et le risque de propagation externe
+de l’incendie le long de la face extérieure de la façade doit être limité (figure11).
+
+
+
+
+Page 11 sur 31                                                                     ITM-SST 1554.1
+Figure 10 : Propagation interne de l’incendie       Figure11 : Propagation externe de l’incendie
+      (Risque de déformation entre les fixations)
+
+
+A) Exigences pour éviter la propagation interne de l’incendie
+     (1) La jonction des parois de compartimentage horizontales et verticales avec la façade
+          présente au moins la résistance au feu des parois des compartiments, à savoir :
+
+
+
+
+     (2) Les éléments de façade sont fixés à la structure portante. Cette fixation doit être
+          protégée contre l'incendie quelle que soit la position du feu.
+
+B) Exigences pour limiter le risque de propagation externe de l’incendie
+     (1) La façade est équipée d'un élément de construction à la jonction entre la façade et
+         la paroi de compartiment (horizontale ou verticale) résistant au feu dont la
+         résistance au feu répond aux exigences suivantes :
+         pour une paroi horizontale de compartimentage (c'est-à-dire le plancher) d’un
+            bâtiment moyen ou élevé de type A, les éléments qui se situent :
+             - le long des deux faces de la paroi du compartiment ont au moins
+               E60 (i↔o) ;
+
+
+Page 12 sur 31                                                                   ITM-SST 1554.1
+                                              Figure 12
+             - uniquement sous la paroi de compartimentage ont au moins E 60 (i→o) ;
+
+
+
+
+                                              Figure 13
+             - uniquement au-dessus de la paroi de compartimentage ont au moins
+               E 60 (o→i) ;
+
+
+
+
+                                              Figure 14
+            pour une paroi verticale de compartimentage (c'est-à-dire le mur de séparation)
+             d’un bâtiment moyen ou élevé de type A, les éléments de construction qui se
+             situent le long des deux faces ou uniquement le long d'une seule face de la
+             paroi de compartimentage présentent au moins E 60 (i↔o).
+
+
+
+
+                      Figure 15               Figure 16               Figure 17
+
+
+
+
+Page 13 sur 31                                                               ITM-SST 1554.1
+            pour un bâtiment élevé de type B, E60 devient E90.
+
+C) Exigence pour limiter le risque de propagation façade/toiture
+Une séparation EI 60 est requise entre la façade et la toiture.
+
+4.3 Evaluation de la résistance au feu des éléments de construction
+
+      (1) La résistance au feu d'un élément de construction peut être établie :
+          soit au moyen de la classification selon EN 13501-2 basée sur des essais de
+             résistance au feu sur des systèmes de façade représentatifs et leur jonction
+             avec les parois de compartiments suivant EN 1363-1 (courbe
+             température/temps normalisée), EN 1363-2 (courbe d’exposition au feu
+             externe), EN 1364-3 (essai de résistance au feu des façades rideaux –
+             assemblage complet) et EN 1363-4 (essai de résistance au feu des façades
+             rideaux – configuration partielle).
+          soit en appliquant les règles de conception des systèmes de façades données
+             au chapitre 4.4.
+
+      (2) La partie de façade résistant au feu peut contenir une ouverture, à condition que
+          (figure 18) :
+          l'ouverture soit équipée d'un élément qui présente le même degré de résistance
+              au feu à fermeture automatique en cas d'incendie ;
+          ou que l'ouverture soit située sous le plancher et soit raccordée à une conduite
+              à la superficie transversale interne de maximum 200 cm2 dans un matériau
+              dont le point de fusion est supérieur à 1.000 K (727°C), d'une longueur d'au
+              moins 1m avec une distance intermédiaire entre deux ouvertures d'au moins 1
+              m.
+
+
+
+
+                                           Figure 18
+
+
+
+
+Page 14 sur 31                                                              ITM-SST 1554.1
+4.4 Règles de conception des façades simple paroi
+4.4.1 Généralités
+Les règles de conception en matière de résistance au feu, auxquels les systèmes de façade
+simple paroi des bâtiments moyens et élevés doivent répondre, portent sur :
+       les éléments de façade,
+       la fixation des éléments de façade à la structure portante,
+       la jonction des éléments de façade aux parois des compartiments,
+       la jonction de l’élément résistant au feu aux éléments de façades et parois de
+        compartiments.
+4.4.2 Eléments de façades
+(1) La classe E60 (E 90 pour les bâtiments élevés de type B) d'éléments de façade est
+    vérifiée soit par essai, soit par calcul pour les éléments en béton, acier, mixtes, bois,
+    maçonnerie ou aluminium, suivant la partie 1.2 de l'Eurocode correspondant (EN 1992-
+    1-2 à EN 1996-1-2 et EN 1999-1-2).
+(2) Les éléments de la façade rideau qui ne participent pas à l'étanchéité aux flammes, et
+    qui se trouvent devant ou sous des éléments étanches aux flammes, peuvent tomber
+    progressivement en cours d'échauffement, pour autant que l'étanchéité aux flammes
+    requise reste assurée.
+4.4.3 Fixations
+(1) Les fixations des montants de la partie de la façade située au-dessus du plancher,
+    doivent présenter la même résistance au feu que le plancher. Elle peut être obtenue par
+    une protection thermique vis-à-vis d'un feu sous le plancher, à condition que cette
+    protection soit maintenue en cas de chute d'éléments de la façade rideau. La résistance
+    au feu des fixations est suffisante si les fixations sont :
+       soit situées au-dessus du plancher, dans les cas de bâtiments bas et moyens,
+       soit dimensionnées selon l’Eurocode 3 (EN 1993-1-2),
+       soit protégées par un élément présentant au moins la classe K2 suivant EN 13501-2
+        qui correspond à la durée de résistance au feu requise du plancher.
+    En cas de bâtiments élevés, les fixations doivent être boulonnées (sans décrochement
+    possible).
+(2) Les fixations des éléments étanches aux flammes, et des éléments de la façade rideau
+    qui se trouvent au-dessus de ceux-ci, doivent résister aux efforts produits par le
+    flambement mécanique sous dilatation thermique de la façade rideau en cours
+    d'échauffement. Pour les éléments en acier, la résistance peut être calculée sous l'effet
+    d'une dilatation de 1 cm/m de celle-ci sur sa surface exposée au feu à l’étage en-
+    dessous, déduction faite des jeux éventuels par rapport aux butées des fixations
+    concernées.
+4.4.4 Jonctions entre éléments étanches aux flammes et parois de compartimentage
+    (1) Lorsqu'un élément de façade étanche aux flammes est réalisé devant le nez du
+        plancher ou de la paroi de compartimentage, alors la jonction avec celui-ci doit être
+        EI (i→o) de durée de résistance au feu correspondant à celle requise pour le
+        plancher ou la paroi.
+    (2) L'obturation résistante au feu entre le nez du plancher, ou de la paroi de
+        compartimentage, et l’élément étanche aux flammes peut, à défaut d'essai, être
+        réalisée (figure 19) par un remplissage en laine de roche d'une épaisseur minimale
+        de 8 cm, sans discontinuité. La laine de roche est pressée fermement et supportée
+
+
+Page 15 sur 31                                                               ITM-SST 1554.1
+        par une tôle de maintien en acier d'épaisseur comprise entre 0,6 mm et 1 mm. Cette
+        tôle est fixée de part et d'autre de l'obturation par des fixations en acier de section
+        minimale 20 mm2, à raison de trois fixations par mètre. Un recouvrement de largeur
+        minimale de 10 cm est à prévoir entre les tôles, et sur les parois de part et d'autre
+        (l'élément étanche aux flammes et le nez du plancher ou de la paroi de
+        compartimentage).
+
+
+
+
+                                           Figure 19
+
+
+
+
+                                           Figure 20
+
+    (3) Dans le cas d'éléments de façade lourds en béton, pierre ou maçonnerie qui
+        reposent sur la dalle, l'obturation résistant au feu de la jonction peut aussi être
+        réalisée par remplissage au plâtre ou au mortier (figure 20).
+
+
+
+
+Page 16 sur 31                                                                 ITM-SST 1554.1
+4.4.5 Jonctions entre éléments étanches aux flammes et façade rideau
+(1) Lorsque des allèges intérieures étanches aux flammes doublent la façade rideau, il doit
+     y avoir, entre la façade rideau et ces éléments (figure 21),
+      en-dessous de ceux-ci, une jonction résistant au feu EI 60 (i→o), afin d’assurer la
+          jonction étanche aux flammes tant que la façade rideau reste en place, et
+      au-dessus de ceux-ci une jonction étanche aux flammes E 60 (o→i), afin d’assurer
+          la jonction étanche aux flammes lorsque des éléments de la façade rideau tombent.
+    Toutefois, si les allèges intérieures étanches aux flammes sont eux-mêmes EI 60 (i→o),
+    la jonction résistant au feu en-dessous de ceux-ci n'est pas nécessaire, pour autant que
+    la distance entre la face intérieure de la façade rideau et la face extérieure des allèges
+    étanches aux flammes soit inférieure à 10 cm (figure 22).
+
+
+
+
+                                          Figure 21
+
+
+
+
+                                          Figure 22
+
+
+
+
+Page 17 sur 31                                                                ITM-SST 1554.1
+(2) L'étanchéité aux flammes des jonctions requises peut être réalisée en tôle d'acier
+    d'épaisseur comprise entre 0,6 mm et 1 mm, permettant la déformation de la façade due
+    à la dilatation thermique tout en conservant la fermeture de la jonction. Cette tôle est
+    fixée de part et d'autre de la jonction par des fixations de section minimale 20 mm2, à
+    raison de trois fixations par mètre. Un recouvrement de largeur minimale 10 cm est à
+    prévoir entre les tôles et sur les éléments de façade (sur les éléments étanches aux
+    flammes et sur la façade rideau).
+(3) L'isolation thermique des jonctions résistant au feu requises en-dessous des éléments
+    de doublage étanchés aux flammes peut être réalisée en laine de roche d'épaisseur
+    minimale 8 cm sans discontinuité, supportée par les jonctions étanches aux flammes.
+
+
+Article 5        Réaction au feu des matériaux et masse combustible
+                 mobilisable
+5.1 Réaction au feu
+5.1.1 Façades sans cavité ventilée
+Les prescriptions ITM-SST 1501, 1502 et 1503 fixent les exigences suivantes pour la
+réaction au feu pour les revêtements et l’isolation thermique des façades sans cavité
+ventilée:
+       Bâtiments bas et bâtiments moyens jusque R + 3 : les éléments constituant la
+        façade doivent être au moins Euroclasse D s2 d2.
+       Bâtiments moyens au-delà de R + 3 : les éléments constituant la façade doivent être
+        au moins Euroclasse B s2 d1.
+       Bâtiments élevés (types A, B ou C) : les éléments constituant la façade doivent être
+        au moins Euroclasse A2 s2 d0.
+
+5.1.2 Bardages ventilés
+Une façade constituée d’une ossature, d’une isolation thermique et d’un bardage formant
+une cavité de ventilation verticale peut propager l’incendie par effet cheminée, les exigences
+du tableau suivant sonrt à respecter.
+
+                          Bardage combustible                  Bardage au moins Euroclasse
+                                                                           A2
+                                                                     (non combustible)
+
+  Isolation       Ce type de façade ne peut pas être Ce type de façade ne peut pas
+ thermique        réalisé pour les bâtiments au-delà de R être réalisé pour les bâtiments au-
+combustible       + 3.                                    delà de R + 6.
+                  Pour limiter le risque présenté par ce      La barrière pare-flamme est à
+                  type de façade, il y a lieu de prévoir      réaliser tous les deux niveaux à
+                  une barrière pare-flamme à chaque           travers la cavité et l’isolation
+                  niveau à travers la cavité et l’isolation   thermique.
+                  thermique.
+                                                         Une barrière pare-flamme doit
+                  Une       barrière pare-flamme    doit également être prévue entre la
+                  également être prévue entre la façade façade et la toiture.
+                  et la toiture.
+                  Tous   les   éléments    constituant   la
+
+
+Page 18 sur 31                                                                  ITM-SST 1554.1
+                  façade doivent être au moins
+                  Euroclasse D (très combustible).
+
+  Isolation       Ce type de façade ne peut pas être Autorisé.
+ thermique        réalisé pour les bâtiments au-delà de R
+  au moins        + 6.
+ Euroclasse
+                  Une barrière pare-flamme doit être
+     A2
+                  réalisée tous les deux niveaux à
+   (non           travers la cavité.
+combustible)
+                  Une       barrière pare-flamme    doit
+                  également être prévue entre la façade
+                  et la toiture.
+
+5.2 Masse combustible mobilisable
+
+La mise en œuvre d’une façade dont la densité de charge calorifique est supérieure à
+qf,k = 125 MJ/m² n’est pas admise. La densité de charge calorifique [MJ/m²] s’obtient en
+multipliant le pouvoir calorifique supérieur PCS, déterminé à l’aide de l’Annexe 3, par la
+masse volumique et par l’épaisseur du matériau.
+
+La densité de charge calorifique qui provient des tissus posés devant les façades ne peut
+pas dépasser 50 MJ/m².
+
+Article 6        Prise en compte des bris de vitrages dans les scénarios
+                 d’incendie
+6.1 Conservation de la résistance au feu
+
+Suivant ITM SST 1503 « bâtiments élevés », § 5.8.2, « Si les façades vitrées du bâtiment
+dominent des constructions faisant partie ou non de ce bâtiment, les toitures de ces
+constructions devront satisfaire aux conditions suivantes :
+     coupe-feu 120 minutes (REI 120) sur une distance horizontale minimale de 6 m à
+        partir de ces façades pour les bâtiments de type B,
+     sur cette distance, ni lanterneaux, ni aérateurs ni exutoires de fumée ni ouvertures
+        ne peuvent être installés.»
+
+Il y a lieu en outre de s’assurer que la chute de débris de vitrages n’entraine pas la perte de
+la résistance au feu REI 120 requise.
+
+6.2 Sécurité des personnes
+
+6.2.1 Prévention des accidents à l’extérieur des bâtiments
+Suivant ITM SST 1501 « bâtiments bas », 1502 « bâtiments moyens » et 1503 « bâtiments
+élevés », § 4.3.5, « Près des entrées et aux endroits où les chemins piétons longent les
+façades, il y a lieu de veiller à la prévention des accidents pouvant être provoqués par
+notamment :
+       la chute et le renversement d’objets,
+       le bris de verre, …. »
+
+En cas d’incendie dans les bâtiments élevés, les sorties de secours (sorties des cages
+d’escaliers et sorties des compartiments du rez-de-chaussée vers l’extérieur) empruntées
+
+
+Page 19 sur 31                                                                 ITM-SST 1554.1
+par un grand nombre d’occupants doivent être protégées vis-à-vis de la chute de débris de
+vitrage et d’autres éléments de façade, ou à défaut, la chute de débris au-dessus de ces
+sorties doit pouvoir être exclue.
+6.2.2 Prévention des accidents à l’intérieur des bâtiments
+Suivant ITM SST 1501 « bâtiments bas », 1502 « bâtiments moyens » et 1503 « bâtiments
+élevés », § 6.8.1, « Les éléments vitrés devront être équipés de vitrages de sécurité ou
+protégés par des garde-corps, des grilles ou par d'autres dispositifs ou aménagements
+appropriés dans les cas suivants :
+     les parois vitrées intérieures d’une hauteur de 1,80 m ou plus depuis le sol,
+     les portes en verre,
+     toute surface en verre en travers des circulations, dans les locaux de séjour et au
+         voisinage des postes de travail,
+     les allèges vitrées de façades,
+     la totalité des châssis vitrés extérieurs si ces derniers sont de plancher à plancher.
+         Dans le cas d’une façade à double paroi vitrée les deux parois devront être
+         équipées de vitrages de sécurité.
+Les fenêtres situées à plus de 1 m du sol ne sont pas concernées par ces dispositions.
+Le choix des types de vitrage de sécurité peut se faire selon les données de la figure 23 qui
+est basée sur la norme belge NBN S 23-002/A1:2010.
+En cas de vitrages isolants,
+     un verre de sécurité doit être utilisé du (ou des) côté(s) où le choc risque de se
+        produire et de présenter un danger ;
+     dans le cas où un verre de sécurité du côté impact doit être trempé, l’autre verre doit
+        aussi être un verre de sécurité.
+
+
+
+
+hc
+                     hc
+
+
+
+
+                   hc = hauteur de chute (hauteur au-dessus du sol en contrebas)
+                   H = hauteur de protection (hauteur sécurisée au-dessus du sol fini
+                   intérieur)
+                        si hc < 12m : H = 1 m
+                        si hc > 12m : H = 1,1 m
+
+
+
+Page 20 sur 31                                                                ITM-SST 1554.1
+                               Cas 1       Cas 2     Cas 3     Cas 4             Cas 5                   Cas 6        Cas 7    Cas 8
+Catégorie d’usage                  Parois verticales           Parois       Portes(S>0,5 m²)           Toitures      Plafonds Applique
+(suivant EN 1991-1-1)        hc < 1,5m      hc >     h>H     inclinées Palières      Autres           et auvents              Bardage
+                               h<H         1,5m                        hb<1,4m      hb<1,4m                                   Zone de
+                                           h<H                                                                                 choc
+Habitation, résidentiel     1C ou 2B2                 A(*)     (**)
+Bureaux
+Lieux de rassemblement
+de personnes                1C ou 2B2      1B1      1C                   1B1        1C ou 2B2             1B1          1C ou   1C ou
+(à l’exception des                                 ou1B1                                                                2B2     3B3
+surfaces
+des autres catégories)
+Surfaces commerciales                                A(*)
+Surfaces de stockage
+et aires d’accès
+
+(*) verre de sécurité non obligatoire, sauf si l’activité l’exige (portes, lieux de rassemblement des personnes, etc.)
+(**) pour les parois inclinées (cas 4), des prescriptions spécifiques sont données dans la NBN S 23 -002/A1, § 4.4.2.2.2.
+
+                                     Figure 23 : Types de casse du vitrage
+
+Selon l’EN 12600, la figure 23 définit la classe  (par exemple 1C) ou  (par exemple
+2B2) comme suit :
+Types de rupture () :
+   A : fissures avec fragments séparés (recuit, durci, trempé chimiquement)
+   B : fissures avec fragments unis (certains feuilletés, armés, films sur verre recuit)
+   C : désintégration en un grand nombre de morceaux de faible masse (trempé
+   thermiquement)
+Classeset  de hauteurs de chute du dispositif d’essai, telles que définies par l’EN 12600 :
+   Classe 1 : 1,2 m
+   Classe 2 : 45 cm
+   Classe 3 : 19 cm
+
+
+
+
+Page 21 sur 31                                                                                          ITM-SST 1554.1
+                                     ANNEXES
+                    ANNEXE 1 : Exigences règlementaires
+
+Les exigences réglementaires pour éviter la propagation des flammes par les façades telles
+que reprises dans les conditions types ITM-SST 1501, 1502 et 1503, sont résumées ci-
+dessous :
+Pour éviter un retour de flammes entre :
+      deux compartiments principaux voisins,
+      deux types différents d’exploitation,
+      un compartiment et un escalier,
+      un compartiment et un local à risques importants,
+Les façades doivent comporter à chaque étage au niveau des plafonds et des murs un
+élément de construction résistant au feu. Les critères de ces éléments respectivement les
+distances minimales à respecter figurent dans les tableaux correspondants ci-après.
+Toutefois, si la totalité du bâtiment est équipé d’une installation d’extinction automatique
+(p.ex. bâtiment élevé de type C) les mesures de protection telles que décrites ci-dessous ne
+sont pas exigées.
+
+
+A. SUR LE PLAN HORIZONTAL
+
+    a)   Si l’angle formé au droit des deux parties à protéger est supérieur à 135°.
+
+
+
+
+                                    Distance « a » Résistance au feu de
+             Type de bâtiments         [mètre]     l’élément pare-flamme
+             Bâtiments bas                1,0                  E 30
+             Bâtiments moyens             1,0                  E 60
+             Bâtiments élevés
+             Type A                       1,0                  E 60
+             Type B                       1,2                  E 90
+             Type C                        0                     -
+
+    b)   Si l’angle formé au droit des deux parties à protéger est inférieur à 100°, les parties
+         de façade incluant l'arête du dièdre devront créer une séparation d’une longueur
+         horizontale développée de 4 m.
+
+
+
+
+Page 22 sur 31                                                                  ITM-SST 1554.1
+    c)   Si l’angle est supérieur à 100° mais inférieur à 135°, cette distance est ramenée à 2
+         m.
+
+
+
+
+                                        Résistance au feu de
+                     Type de bâtiments l’élément pare-flamme
+                     Bâtiments bas                  E 30
+                     Bâtiments moyens               E 60
+                     Bâtiments élevés
+                     Type A                        E 60
+                     Type B                        E 90
+                     Type C                   aucune exigence
+
+
+
+
+Page 23 sur 31                                                                ITM-SST 1554.1
+B. SUR LE PLAN VERTICAL
+
+
+
+
+                               Somme C+D    Résistance au feu de
+           Type de bâtiments     [mètre]   l’élément pare-flamme
+           Bâtiments bas           0                 -
+           Bâtiments moyens       1,0              E 60
+           Bâtiments élevés
+           Type A                 1,0              E 60
+           Type B                 1,2              E 90
+           Type C                  0                 -
+
+
+
+
+Page 24 sur 31                                                     ITM-SST 1554.1
+                 ANNEXE 2 : Exemples de mesures du C et du D
+
+2.1. Etage supérieur en retrait
+    La valeur D est mesurée en supposant que la façade de l'étage inférieur est dans le
+    même plan que celle du nez de plancher de l'étage supérieur. D n'est pris en compte
+    que si sa valeur est supérieure ou égale à 0,15 m.
+
+
+
+
+                       Figure 2.1 : Etage supérieur en retrait
+
+2.2. Etage supérieur en avancée
+    La valeur l’avancée L n'est pas prise en compte.
+
+
+
+
+                             Figure 2.2 : Etage supérieur en avancée
+
+2.3. Allège en retrait d’une façade entièrement vitrée
+    Pour pouvoir prendre en compte la hauteur d'une allège dans le calcul de C, le retrait R
+    ne devra pas excéder 0,20 m, mesuré par rapport au nu du vitrage intérieur.
+
+
+
+
+                   Figure 2.3 : Allège en retrait d’une façade entièrement vitrée
+
+
+
+
+Page 25 sur 31                                                                      ITM-SST 1554.1
+2.4. Façade inclinée sur plusieurs niveaux (partie opaque et partie vision)
+
+
+
+
+Figure 2.4.1 : Façade inclinée vers l’intérieur   Figure 2.4.2 : Façade inclinée vers l’extérieur
+
+
+
+    Façade inclinée vers l'intérieur (figure 2.4.1):
+    Quelle que soit la valeur de α°, on applique la règle générale du paragraphe 1.1.
+
+    Façade inclinée vers l'extérieur (figure 2.4.2):
+       Si α ≤ 15°: on applique les règles de façades, on mesure C selon la verticale et D
+       est égal à 0.
+       Si α > 15°: la façade du niveau inférieur au niveau incliné doit être pare-flammes ou
+       Ei→0 de degré identique au degré exigé pour la stabilité au feu de la structure du
+       bâtiment, avec un maximum pare-flammes1 h ou E 60.
+
+2.5. Garde-corps
+    Les garde-corps sont pris en compte pour la mesure de C s'ils répondent aux exigences
+    de l’annexe 1 point B. Toutefois, des orifices ponctuels d'écoulement d'eaux pluviales,
+    de diamètre maximal de 80 mm, peuvent traverser ces garde-corps.
+
+
+
+
+                                     Figure 2.5 : Garde-corps
+
+
+
+
+Page 26 sur 31                                                                   ITM-SST 1554.1
+2.6. Fenêtres et portes fenêtres
+    Les parties ouvrantes de ces éléments ne sont pas prises en compte pour la mesure de
+    C.
+
+2.7. Balcons
+    En présence d'un balcon ou d'une avancée, placés devant une baie et répondant
+    aux exigences de l’annexe 1 point B. D est la plus courte distance mesurée au droit de
+    la baie, perpendiculairement à la façade.
+
+
+
+
+                   Figure 2.7.1                                Figure 2.7.2
+
+
+
+
+                   Figure 2.7.3                                Figure 2.7.4
+
+
+
+
+                   Figure 2.7.5                                Figure 2.7.6
+
+
+
+
+Page 27 sur 31                                                                ITM-SST 1554.1
+ANNEXE 3 : Détermination de la chaleur de combustion mobilisable
+1.   Essais
+     La séquence suivante doit être réalisée :
+     1.   Mesure du pouvoir calorifique supérieur PCS1, (MJ/kg) du matériau concerné. La
+          masse volumique du matériau ρ1 en kg/m3 est fournie par le demandeur de l'essai.
+     2.   Réalisation d'un essai suivant le programme thermique normalise durant ½ heure,
+          sur une éprouvette de dimensions 0,30 x 0,40 mètre et d'épaisseur e0 mètre. Cette
+          épaisseur e0 est déterminée par le laboratoire sur proposition du demandeur. Elle
+          tient compte de la nature du matériau et des différentes épaisseurs utilisées. Elle est
+          choisie pour que l'épaisseur résiduelle e3 soit au moins de 5 mm ou qu'elle permette
+          l'application de la formule du point 4.
+     3.   A l'issue de la ½ heure d'exposition, extinction rapide au CO2 et refroidissement de
+          l'éprouvette.
+     En fonction du comportement du matériau examiné pendant l'essai, on distingue deux
+     cas qui vont influer sur le mode de détermination de la quantité de chaleur mobilisable :
+             cas 1: le matériau ne s'est pas déformé et comporte une épaisseur partielle non
+              endommagée;
+             cas 2: le matériau s'est déformé et il est impossible de distinguer entre partie
+              endommagée et partie non endommagée.
+
+          Cas 1 :
+              1. L'éprouvette est brossée sur la face exposée pour éliminer la partie du
+                  matériau totalement carbonisée.
+              2.   Mesure des épaisseurs e2 (m) et e3 (m) (voir figure 1) après une coupe
+                   orthogonale aux deux faces principales dans l’axe longitudinal de l'éprouvette:
+                   e3 : épaisseur de l'éprouvette non endommagée par le feu;
+                   e2 : épaisseur moyenne endommagée par le feu ;
+                   e1 : épaisseur du matériau solide disparu pendant l'essai ou éliminé par
+                         brossage après l'essai (car non adhérente à e2).
+
+
+
+
+                                            Figure 3.1
+
+
+
+
+Page 28 sur 31                                                                    ITM-SST 1554.1
+                      Détermination de la masse volumique du matériau endommagé d'épaisseur
+                      e2 (m) par prélèvement d'un élément de surface de 0,01 m2, soit ρ2 (kg/m3).
+             3.       Mesure du pouvoir calorifique supérieur du matériau endommagé PCS2
+                      (MJ/kg).
+                      La chaleur de combustion mobilisable pour 1 kg de matériau est:
+
+
+
+
+       Cas 2 :
+              1.       Broyage et pesage de l'intégralité de l'éprouvette.
+                 2.    Mesure du pouvoir calorifique supérieur PCS2 (MJ/kg) et de la masse
+                       volumique ρ2, (kg/m3) du matériau broyé. Ce matériau résiduel est placé
+                       dans un caisson de dimensions 0,4 x 0,3 (m) afin de déterminer
+                       l'épaisseur résiduelle conventionnelle er utilisée dans la formule ci-
+                       dessous.
+                       La chaleur de combustion mobilisable pour 1 kg de matériau est;
+
+
+
+
+Page 29 sur 31                                                                    ITM-SST 1554.1
+2.   Détermination sans essai
+En l’absence d’essai, les valeurs indicatives suivantes peuvent être utilisées.
+
+
+            Matériaux                     Masse volumique                    PCS (en
+                                              (kg/m3)                        MJ/kg)
+                                   Matières de synthèse
+ Acrylonitrile-butadiène-styrène                   1060                           36
+ (ABS)
+ Fibre de cellulose                                  70                           16
+ EPDM (60 à 70 shore)                              1150                           43
+ Fond de joint en mousse PE                          70                           40
+ Formo-phénol                                      1300                           30
+ Néoprène                                          1240                           45
+ PA 66 GF 25                                       1300                           23
+ Polyacrylate de méthyle                           1200                           23
+ Polyamides                                        1150                           38
+ Polyépoxydiques                                   1400                           27
+ Polyesters                                        1400                           31
+ Polyéthylènes                                      980                           46
+ Polyisobutylène                                    930                           42
+ Polyisopropène                                     910                           15
+ Polyméthacrylate de méthyle                       1200                           26
+ Polypropylènes                                     910                           46
+ Polystyrène expansé (PSE)                           35                           41
+ Polysulfide PS                                    1380                           24
+ Polysulfure                                       1700                           42
+ Polyuréthane expansé                                40                           27
+ Polyvinyle de butyral                             1066                           30
+ PVC (rigide)                                      1400                           30
+ PVC (souple)                                      1700                           30
+ Résine Polyuréthane                               1200                           30
+ Mastic Silicone                                   1200                           18
+ Mastic Polyuréthane                                  -                           25
+ Elastomères thermoplastiques                      1000                           45
+ (TPE)
+
+
+
+
+Page 30 sur 31                                                                    ITM-SST 1554.1
+            Matériaux               Masse volumique    PCS (en
+                                        (kg/m3)        MJ/kg)
+                       Matériaux industriels variés
+ Aggloméré bois et ciment                  500            6
+
+ Caoutchouc                               1200           42
+ Carton                                   1100           17
+ Contreplaqué ignifugé                     600           18
+ Contreplaqué ordinaire                    750           19
+ Feutre                                    130           23
+ Laine de roche                            180             1
+ Laine de verre                            130           1,8
+ Linoléum                                 1200           26
+ Panneaux de fibres ou de                 1000           19
+ particules
+ Papier goudronné                            -           25
+ Papier kraft                              120           17
+ Papier ordinaire                            -           16
+ Papier plastifié                            -           17
+ Plâtre                                    730           0,6
+ Stratifiés décoratifs                       -           19
+                               Substances naturelles
+ Bois sec                                  650           21
+ Bois en équilibre avec une               1000           18
+ atmosphère à 65% d’humidité et à
+ 20°C
+ Cuir                                      865           17
+
+
+
+
+Page 31 sur 31                                           ITM-SST 1554.1
+

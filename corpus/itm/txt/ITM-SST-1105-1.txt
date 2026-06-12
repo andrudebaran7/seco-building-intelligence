@@ -1,0 +1,549 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                       Strassen, le 11 août 2014
+
+
+
+                                                                                       ITM-SST 1105.1
+                                                                                       (ancien ITM-CL 179)
+
+
+
+
+          Conditions d'exploitation pour les émetteurs
+
+        d'ondes électromagnétiques à haute fréquence
+
+                                             Prescriptions de sécurité types
+
+                               Les présentes prescriptions comportent 12 pages
+
+
+                                                                 Sommaire
+    Article                                                                                                        Page
+
+    1. Objectif et domaine d'application                                                                              3
+
+    2. Définitions                                                                                                    3
+       2.1 Organisme de contrôle                                                                                      3
+       2.2 Emetteur d'ondes électromagnétiques                                                                        3
+       2.3 Antenne d’émission                                                                                         3
+       2.4 Station émettrice                                                                                          4
+       2.5 Puissance exprimée en watts resp. Dbw                                                                      4
+       2.6 Puissance exprimée en dBm                                                                                  4
+       2.7 Puissance rayonnée d'une antenne                                                                           4
+       2.8 Gain d'une antenne                                                                                         4
+           2.8.1 Puissance apparente rayonnée par rapport à une antenne
+                   Isotrope
+           2.8.2 Puissance apparente rayonnée par rapport à une antenne
+                 doublet demi-onde                                                                                    5
+           2.8.3 Puissance apparente rayonnée par rapport à une antenne
+                 verticale courte                                                                                     5
+       2.9 Puissance d'un émetteur radioélectrique                                                                    5
+           2.9.1      Puissance en crête                                                                              5
+           2.9.2      Puissance moyenne                                                                               5
+           2.9.3      Puissance de la porteuse                                                                        5
+       2.10 Champ de proximité, champ éloigné                                                                         6
+
+
+        _____________________________________________________________________________________________________________________
+        Direction
+        Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs L-2361 Strassen Tél : 478-6213   Fax: 40 60 47
+        Site Internet : http://www.itm.lu
+3. Normes et règles techniques                                                   6
+
+4. Protection du public et des travailleurs non visés à l’article 5              7
+   4.1 Stations émettrices de mobilophonie (GSM, DCS)                            7
+   4.2 Autres stations émettrices à haute fréquence                              7
+   4.3 Condition supplémentaire concernant les antennes paraboliques
+       Asservies                                                                 7
+
+5. Protection des travailleurs occupés près des émetteurs
+   d’ondes électromagnétiques                                                    7
+
+6. Compatibilité électromagnétique des appareils et des installations
+   sensibles                                                                     9
+
+7. Compartimentage, protection contre les incendies                              9
+
+8. Sécurité des supports d’antennes                                              9
+   8.1 Résistance au vent                                                        9
+   8.2 Balisage et marquage                                                     10
+   8.3 Installations électriques                                                10
+   8.4 Protection contre la foudre et les surtensions                           10
+
+9. Travaux en hauteur                                                           10
+
+10. Réception                                                                   11
+
+11. Registre de sécurité                                                        11
+
+
+
+
+Page 2 de 12 pages                                                      ITM-SST 1105.1
+Art. 1. Objectif et domaine d'application
+
+1.1 Les présentes prescriptions ont pour objet de spécifier les mesures à prendre
+pour prévenir une exposition dommageable des personnes, des appareils et des
+installations sensibles ainsi que de protéger les personnes contre les risques
+inhérents aux installations d’émetteurs d’ondes électromagnétiques.
+
+Elles s'appliquent à tout émetteur produisant des ondes électromagnétiques non-
+ionisantes comprises dans la bande de fréquence de 10 kHz à 3000 GHz dont la
+puissance rayonnée par antenne est égale ou supérieure à 100 W (20 dBW).
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être
+accordées, mais uniquement si des mesures de rechange garantissant une
+protection au moins équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues par un organisme de contrôle et
+acceptées comme telles par l'Inspection du travail et des mines.
+
+Art. 2 Définitions
+
+2.1 Organisme de contrôle
+
+Sous la dénomination "organisme de contrôle" sont à comprendre les organismes
+agrées suivant l’arrêté le plus récent du Ministre du Travail et de l’Emploi, concernant
+l'intervention d'organismes de contrôle dans des domaines précis afférents aux
+présentes prescriptions.
+
+2.2 Emetteur d'ondes électromagnétiques
+
+Sous "émetteur d'ondes électromagnétiques" est à comprendre l'ensemble des
+composants nécessaires à produire des radiofréquences capables de se propager
+dans l'espace à savoir l'émetteur comportant l'étage de puissance HF (HF = haute
+fréquence), le câble d'alimentation en signaux HF de l'antenne respectivement le
+guide d'ondes de l'alimentation de l'antenne et l'antenne d’émission proprement dite
+montée sur un support.
+
+2.3 Antenne d’émission, support d’antenne
+
+On entend par antenne d’émission l’élément rayonnant représentant l’interface entre
+l’alimentation en signaux HF par câble ou par guide d’onde et l’espace, capable
+d’émettre des ondes électromagnétiques dans l’espace avec un certain gain.
+L’antenne est montée sur un support d’antenne qui peut être p.ex. un pylône, un
+château d’eau, un tri-pied sur toiture, etc.
+
+
+
+
+Page 3 de 12 pages                                                        ITM-SST 1105.1
+2.4 Station émettrice
+
+On entend par station émettrice, l’émetteur d’ondes électromagnétiques et tous les
+équipements annexes et connexes nécessaires au fonctionnement de cet émetteur,
+comme p. ex. un redresseur, un groupe électrogène, une installation de climatisation,
+etc.
+
+2.5 Puissance exprimée en watts respectivement décibels
+Dans les formules, le symbole "p" indique la puissance en watts [W] et le symbole
+"P" la puissance en décibels [dBW] .
+
+         p [watts] ; P [dBW]
+
+La conversion p [Watts] en P [dBW]        se fait selon la formule
+
+         p [W] = colog (P [dBW] /10)      (1 W correspond à 0 dBW)
+
+2.6 Puissance exprimée en dBm
+
+0 dBm correspond à une puissance de 1 mW appliquée à une résistance de 600 .
+
+2.7 Puissance rayonnée d'une antenne
+
+D'une façon générale, la puissance rayonnée d'une antenne quelconque par rapport
+à une antenne de référence se calcule en multipliant la puissance à l'entrée de
+l'antenne (= puissance à la sortie de l'étage de puissance HF de l'émetteur diminuée
+des pertes sur le câble/guide d'ondes de l'antenne) par le gain de l'antenne (=gain
+par rapport à une antenne de référence):
+
+         pr [W] = pe [W] x colog (G [dB] /10)    pr = puissance rayonnée
+                                                 pe = puissance à l'entrée de l'antenne
+                                                 G = gain par rapport à une antenne
+                                                      de référence (voir sub 2.8)
+2.8 Gain d'une antenne
+
+Par gain d'une antenne on entend le rapport généralement exprimé en décibels,
+entre la puissance nécessaire à l'entrée de l'antenne de référence sans pertes et la
+puissance fournie à l'entrée de l'antenne donnée, pour que les deux antennes
+produisent dans une direction donnée le même champ ou la même puissance
+surfacique, à la même distance. En l'absence d'indication contraire, il s'agit du gain
+de l'antenne dans la direction du maximum du rayonnement. On peut éventuellement
+considérer le gain pour une polarisation spécifiée.
+
+Suivant l'antenne de référence choisie on distingue:
+
+     - le gain isotrope ou absolu (Gi) - référence antenne isotrope
+     - le gain par rapport à un doublet demi-onde (Gd) - référence doublet /2
+     - le gain par rapport à une antenne verticale courte (Gv) – de longueur l  /4
+
+
+
+
+Page 4 de 12 pages                                                         ITM-SST 1105.1
+2.8.1 Puissance apparente rayonnée par rapport à une antenne isotrope: Pi.r
+
+             pi.r [W] = pe[W] x colog (Gi [dBi]/10)
+
+2.8.2 Puissance apparente rayonnée par rapport à une antenne doublet demi-onde:
+Pa.r
+
+             pa.r[W] = pe[W] x colog (Gd [dBr]/10)
+
+2.8.3 Puissance apparente rayonnée par rapport à une antenne verticale courte: Pa.r.v
+
+             pa.r.v [W] = pe[W] x colog (Gv [dBv]/10)
+
+
+2.9 Puissance d'un émetteur radioélectrique
+
+Chaque fois que la puissance d'un émetteur radioélectrique est mentionnée, elle doit
+être exprimée sous l'une des formes ci-dessous, selon la classe d'émission, en
+utilisant les symboles arbitraires indiqués:
+
+- puissance en crête (Px ou px);
+- puissance moyenne (Py ou py);
+- puissance de la porteuse (Pz ou pz).
+
+Pour différentes classes d'émission, les rapports entre la puissance en crête, la
+puissance moyenne et la puissance de la porteuse, dans les conditions de
+fonctionnement normal et en absence de modulation, sont indiqués dans les
+"Recommandations pertinentes de l’UIT", qui sont à utiliser comme guide.
+
+2.9.1 Puissance en crête: Moyenne de la puissance fournie à la ligne d'alimentation
+de l'antenne par un émetteur en fonctionnement normal, au cours d'un cycle de
+radiofréquence correspondant à l'amplitude maximale de l'enveloppe de modulation.
+
+2.9.2 Puissance moyenne: Moyenne de la puissance fournie à la ligne d'alimentation
+de l'antenne par un émetteur en fonctionnement normal, évaluée pendant un
+intervalle de temps relativement long par rapport à la période de la composante de
+plus basse fréquence de la modulation.
+
+2.9.3 Puissance de la porteuse: Moyenne de la puissance fournie à la ligne
+d'alimentation de l'antenne par un émetteur au cours d'un cycle de radiofréquence en
+l'absence de modulation.
+
+
+
+
+Page 5 de 12 pages                                                      ITM-SST 1105.1
+Remarque: Dans le cadre des présentes prescriptions, on ne considère que la
+puissance en crête pour le calcul de la puissance rayonnée d'une antenne.
+
+2.10 Champ de proximité (Nahfeld), champ éloigné (Fernfeld) : La limite entre le
+champ de proximité et le champ éloigné où l’onde électromagnétique est plane, est
+définie par la relation :
+
+                                2
+                          2D
+            d         
+                min
+                            
+
+où D est la plus grande dimension de l’antenne [m] et où  est la longueur d’onde
+[m]. Le champ de proximité de l’antenne est donc défini par :
+
+                          d  dmin
+
+et le champ éloigné par :
+
+                          d  dmin .
+
+
+Art. 3 Normes et règles techniques
+
+Les normes et les prescriptions concernant la sécurité, les limites d'exposition et les
+règles de l'art à appliquer lors de la conception, de la construction et de l'exploitation
+d'installations émettant des rayons électromagnétiques sont en particulier les
+présentes prescriptions et en général les normes et prescriptions suivantes:
+
+-   RECOMMANDATION DU CONSEIL du 12 juillet 1999 relative à la limitation de
+    l’exposition du public aux champs électromagnétiques (de 0 Hz à 300 GHz)
+-   EN 60601-1-2 (VDE 0750-1-2) « Appareil électromédical, sécurité, compatibilité
+    électromagnétique »
+-   EN 50061/A1 « Sécurité des stimulateurs cardiaques implantables »
+-   ITM-CL 17 « Installations électriques »
+-   ITM-CL 124 « Sécurité relative aux travaux en hauteur - Travaux sur cordes »
+-   ITM-CL 148 « Installation d'extinction automatique fonctionnant avec un gaz »
+-   VDE V 0185-Teil 100 (ENV 61024-1) « Blitzschutzanlagen »
+-   DIN-VDE 57100 «Bestimmungen für das Errichten von Starkstromanlagen mit
+    Nennspannungen bis 1000 V»
+-   DIN-VDE 57848-1 « Sicherheit in elektrischen, magnetischen und
+    elektromagnetischen      Feldern     –    Teil  1:    Definitionen,   Mess-    u.
+    Berechnungsverfahren »
+-   DIN-VDE            0855-300           « Funksende-/-empfangssysteme           für
+    Senderausgangsleistungen bis 1 kW – Teil 300 : Sicherheitsanforderungen »
+
+
+
+
+Page 6 de 12 pages                                                          ITM-SST 1105.1
+Art. 4 Protection du public et des travailleurs non visés à l’article 5
+
+4.1 Stations émettrices de mobilophonie (GSM, DCS et UMTS et stations de la 4e
+génération))
+
+L’exploitant doit obligatoirement installer ses antennes de façon à garantir en tout
+lieu où peuvent séjourner des personnes une intensité maximale du champ
+électrique de 3 V/m par élément rayonnant.
+
+Exceptionnellement, au cas ou plusieurs éléments rayonnent dans la même
+direction, la valeur maximale autorisée du champ électrique de l’ensemble des
+éléments orientés dans le même sens se calcule par la formule :
+
+
+                Emax [V/m]= 3  n       n = nombre des éléments rayonnants dans
+                                        la même direction
+
+                                        3 = valeur numérique de l’intensité maximale
+                                        du champ électrique d’un seul élément
+                                        exprimé en V/m
+
+En ce qui concerne les effets athermiques, le rayonnement notamment pulsé ne doit
+pas entraver la santé des personnes. Cette obligation sera précisée au moment de la
+parution de recommandations de l’Organisation Mondiale de la Santé (OMS)
+relatives aux effets athermiques.
+
+4.2 Autres stations émettrices à haute fréquence
+
+L’exploitant d’une ou de plusieurs antennes est tenu d’installer les éléments
+rayonnants de façon que les conditions et les valeurs limites de la
+« Recommandation du Conseil du 12 juillet 1999 relative à la limitation de l’exposition
+du public aux champs électromagnétiques (de 0 Hz à 300 GHz) » sont respectées.
+
+4.3 Condition supplémentaire concernant les antennes paraboliques asservies
+
+L’émission d’ondes électromagnétiques de toute antenne parabolique asservie
+(antenne parabolique en liaison avec un satellite terrestre) doit être interrompue de
+façon automatique dès que l’angle d’élévation de l’antenne par rapport à l’horizontale
+devient inférieur à 10°.
+
+Art. 5 Protection des travailleurs occupés près des émetteurs d’ondes
+         électromagnétiques
+
+5.1 Il est strictement interdit que des travaux de n'importe quelle nature soient
+exécutés dans le champ de proximité (Nahfeld) de l'antenne lorsque l'émetteur est en
+service. Le champ de proximité dans la direction du rayonnement de l’antenne est
+délimité par d  dmin (voir sub 2.10). En ce qui concerne les travaux à exécuter en
+dehors du champ de proximité, chaque travailleur doit être muni d'un instrument de
+surveillance portable lequel mesure la puissance surfacique reçue et génère une
+
+
+
+Page 7 de 12 pages                                                        ITM-SST 1105.1
+alarme lorsque le seuil critique prévu par la norme est dépassé. Le travailleur doit
+porter cet instrument en permanence sur lui.
+
+Afin de détecter des fuites électromagnétiques au niveau des câbles d'antennes et
+des guides d'ondes dans les locaux techniques des grandes stations émettrices,
+l'exploitant de la station émettrice est tenu d'installer des instruments fixes de
+surveillance dans les locaux où sont logés ces émetteurs et le long des chemins de
+câbles respectivement guides d'ondes. Ces instruments doivent surveiller la
+puissance surfacique de fuite reçue et doivent générer des alarmes lorsque le seuil
+critique prévu par la norme est dépassé.
+
+Les valeurs limites à respecter pour les travailleurs pour tout genre d’émetteur
+d’ondes électromagnétiques sont celles de la « RECOMMANDATION DU CONSEIL
+du 12 juillet 1999 relative à la limitation de l’exposition du public aux champs
+électromagnétiques (de 0 Hz à 300 GHz) ».
+
+5.2 L'exploitant doit établir un balisage autour des zones des champs de proximité.
+Des pictogrammes normalisés doivent être apposés conformément aux dispositions
+du règlement grand-ducal du 28 mars 1995 concernant la signalisation de sécurité
+et/ou de santé au travail.
+
+
+
+
+5.3 Les travailleurs doivent limiter le stationnement en dehors des champs de
+proximité au temps strictement nécessaire à l'accomplissement des tâches prévues
+et s'abstenir de s'exposer inutilement hors des périodes de travail effectives.
+
+5.4 Dans le cadre d'une politique de prudence, les femmes enceintes ne doivent pas
+occuper des postes de travail soumis à des champs électromagnétiques, même si
+les valeurs limites prévues par la « RECOMMANDATION DU CONSEIL du 12 juillet
+1999 relative à la limitation de l’exposition du public aux champs électromagnétiques
+(de 0 Hz à 300 GHz) » sont respectées.
+
+5.5 Les travailleurs qui portent des implants actifs ou passifs doivent informer leur
+médecin de travail de cet état de fait. Celui-ci doit juger de l'aptitude du travailleur
+aux postes de travail en question et des mesures préventives à prendre.
+
+
+
+
+Page 8 de 12 pages                                                        ITM-SST 1105.1
+Art. 6 Compatibilité électromagnétique des appareils et des installations
+sensibles
+
+6.1 Afin d’assurer le bon fonctionnement des appareils médicaux, des appareils
+d'analyse ou d'autres installations sensibles pouvant engendrer des risques pour les
+personnes, la valeur limite d’immission prévue par la norme EN 60601-1-2 (VDE
+0750-1-2) [Appareil électromédical, sécurité, compatibilité électromagnétique] est à
+respecter par l’exploitant de la station émettrice.
+
+6.2 Afin de garantir la sécurité des stimulateurs cardiaques implantables, la valeur
+limite de la norme EN 50061/A1 est à respecter par l’exploitant de la station
+émettrice en tout lieux où des porteurs de stimulateurs cardiaques peuvent
+séjourner.
+
+Art. 7 Compartimentage, protection contre les incendies
+
+Lorsque le local des émetteurs héberge des équipements à charge calorifique
+importante ou représente un danger particulier quelconque en relation avec un risque
+d’incendie, ce local est à considérer comme un local dit « à risque ». Si d’autant plus
+ce local se situe à l’intérieur d’un immeuble administratif ou à caractère résidentiel ou
+dans un établissement d’hébergement ou dans une clinique, hôpital, école, etc., il
+doit être compartimenté d’office RF60 par rapport aux locaux voisins et être équipé
+d'une installation de détection d'incendie. Les alarmes y relatives doivent être
+transmises au responsable de l'immeuble et à la Protection Civile (112). La porte
+d'entrée du local technique doit également être coupe-fumée et coupe-feu d’un degré
+d’au moins 60 minutes.
+
+Tout local des émetteurs doit être pourvu d'extincteurs d'incendie appropriés
+portables en nombre suffisant.
+
+Si le local dispose d'une installation d'extinction automatique au gaz, elle doit être
+conforme à la prescription ITM-CL 148 - "Installation d'extinction automatique
+fonctionnant avec un gaz".
+
+Art. 8 Stabilité des supports des antennes, installations électriques, protection
+des installations contre la foudre et les surtensions
+
+8.1 Les supports des antennes équipés des éléments rayonnants, leurs fondations
+respectivement leurs points d’ancrage, les fixations des câbles d’alimentation H .F. et
+de balisage ainsi que les fixations des éléments rayonnants et tous les autres
+dispositifs des supports doivent être exécutés de façon à garantir une stabilité
+suffisante au vent. On distingue trois catégories de vitesses de vent [v] pour
+lesquelles la stabilité doit être garantie, à savoir :
+
+8.1.1 Support d’antennes du type pylône ou mât haubané (h  50 m):   v  200 km/h
+8.1.2 Support d’antennes à construire (6 m  h  50 m):              v  160 km/h
+8.1.3 Support d’antennes existant (6 m  h  50 m) :                 v  140 km/h.
+
+
+
+
+Page 9 de 12 pages                                                         ITM-SST 1105.1
+   Remarque : Les supports d’antennes d’une hauteur libre  6 m installés en toiture
+   sont à concevoir conformément à la norme DIN-VDE 0855-300 – chapitre 13 en
+   respectant le critère de la stabilité au vent soufflant à une vitesse v  140 km/h.
+
+8.2 En ce qui concerne le balisage et le marquage des supports d’antennes en
+relation avec la sécurité du trafic aérien, une autorisation de l’Administration de
+l’Aéroport de Luxembourg est à produire pour toute antenne montée sur un support
+surélevé.
+
+
+8.3 Les installations électriques sont à exécuter conformément à la prescription ITM-
+CL 17 - "Installations électriques".
+
+Au cas où le local des émetteurs se trouve dans un immeuble administratif ou à
+caractère résidentiel ou dans une clinique, hôpital, école, etc., il est impératif que le
+local des émetteurs ou le boîtier hébergeant l’émetteur dispose d'une alimentation
+électrique indépendante, sécurisée par des fusibles séparés et par un interrupteur
+différentiel. Ces dispositifs de sécurité sont à installer directement en aval du
+compteur d’énergie du distributeur d’énergie.
+
+8.4 Une analyse des risques relative à la foudre est à effectuer conformément à la
+norme DIN VDE 0185-Teil 100 (EN 61024-1). L’installation de protection extérieure
+contre la foudre est à concevoir en fonction des résultats découlant de cette analyse
+et est à construire, le cas échéant, conformément à la norme précitée.
+
+Toutefois, la protection des personnes contre les surtensions de contact et contre les
+courants corporels nuisibles doit être garantie en tout lieu conformément aux
+prescriptions des normes DIN VDE 0100, DIN VDE V 0185 et DIN VDE 0855-300
+notamment par un réseau équipotentiel de terre adéquat et par une protection
+adaptée des câbles électriques contre les surtensions.
+
+Les installations de protection extérieures et intérieures contre la foudre et les
+surtensions sont à réceptionner par un organisme de contrôle. La réception se base
+sur l’analyse des risques précitée et sur les spécificités de l’objet à protéger. Le
+rapport de contrôle est à présenter à l’Inspection du travail et des mines pour visa.
+
+Art. 9 Travaux en hauteur, chutes de glace
+
+En ce qui concerne l'exécution des travaux en hauteur sur les pylônes ou supports
+d’antennes, la prescription ITM-CL 124 - "Sécurité relative aux travaux en hauteur -
+Travaux sur cordes" est à respecter.
+
+Les alentours des pylônes ou mats haubanés sont à sécuriser moyennant une
+clôture installée à une distance appropriée du pied du pylône ou du mat qui elle est
+fonction de la hauteur du pylône ou du mat. Cette clôture sert à protéger le public
+contre d’éventuelles chutes de glace et évite que des personnes non autorisées
+puissent grimper sur le pylône ou sur le mat.
+
+
+
+
+Page 10 de 12 pages                                                        ITM-SST 1105.1
+Des pictogrammes normalisés concernant l’obligation du port de casque sur le site et
+les dangers éventuels de chute de glace sont à apposer soit sur la clôture ou sur la
+
+
+
+
+porte d’entrée du site soit en un endroit approprié. Les pictogrammes apposés sur
+des clôtures doivent être visibles à partir de l’extérieur des clôtures.
+
+Art. 10 Réception
+
+Les installations techniques ainsi que les dispositifs et mesures de sécurité de
+chaque site sont à réceptionner par un organisme de contrôle. Les frais y relatifs sont
+à charge de l’exploitant.
+
+En cas de doute concernant la comptabilité électromagnétique, l’exploitant de
+l’antenne doit charger, sur demande de l’Inspection du travail et des mines et à ses
+propres frais, un organisme de contrôle qui mesure les champs électriques,
+magnétiques ou électromagnétiques.
+
+Les mesures doivent obligatoirement se faire conformément à la prescription : DIN
+57848-1/VDE     0848-1   « Sicherheit   in    elektrischen,    magnetischen   und
+elektromagnetischen    Feldern    –    Teil     1:     Definitionen,   Mess-    u.
+Berechnungsverfahren ».
+
+Tout rapport de contrôle est à présenter à l’Inspection du travail et des mines pour
+visa.
+
+Art. 11 Registre de sécurité
+
+Un registre de sécurité doit être créé pour les stations émettrices. Il est à gérer par le
+travailleur désigné et être déposé en un lieu défini par l’exploitant. L’exploitant est
+tenu de communiquer les coordonnées de ce lieu à l’Inspection du travail et des
+mines.
+
+
+
+
+Page 11 de 12 pages                                                         ITM-SST 1105.1
+Le registre de sécurité doit être présenté sur demande aux agents de l'Inspection du
+travail et des mines. Il doit contenir toutes les caractéristiques et données techniques
+de la station, l’autorisation d’exploitation, les modes d'emploi et d'entretien, les plans
+et schémas, les diagrammes de l'antenne, les rapports et certificats de réception et,
+le cas échéant, les rapports de mesure du rayonnement électromagnétique effectués
+ainsi que les rapports de contrôle périodiques de même que les fiches et notes
+relatives aux interventions d'entretien courant et de dépannage.
+
+
+
+                                                   Mise en vigueur, le 11 août 2014
+
+                                                                    s.
+
+
+                                                              Robert Huberty
+                                                                 Directeur
+                                                        de l’Inspection du travail
+                                                               et des mines
+
+
+
+
+Page 12 de 12 pages                                                           ITM-SST 1105.1
+

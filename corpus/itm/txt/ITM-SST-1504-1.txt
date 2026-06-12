@@ -1,0 +1,237 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                             Strassen, février 2009
+
+
+     Le présent texte a été établi par l’Inspection du Travail et des Mines et le Service Incendie et
+                                 Ambulance de la Ville de Luxembourg.
+
+                                                                                                 ITM-SST 1504.1
+
+                                          Prescriptions de sécurité incendie
+
+                                              DISPOSITIONS SPECIFIQUES
+
+                                                     Bâtiments administratifs
+
+                                                      Le présent document comporte 5 pages
+
+                                                                  SOMMAIRE
+    Article                                                                                                            Page
+
+     1)                     Objectifs et domaine d'application                                                          2
+     2)                     Définitions                                                                                 2
+     3)                     Implantation                                                                                2
+     4)                     Aménagements extérieurs                                                                     2
+     5)                     Construction                                                                                2
+     6)                     Aménagements intérieurs                                                                     3
+     7)                     Compartimentage                                                                             3
+     8)                     Evacuation de personnes, issues et dégagements intérieurs                                   4
+     9)                     Eclairage                                                                                   4
+    10)                     Désenfumage (Evacuation de fumée et de chaleur)                                             4
+    11)                     Installations techniques                                                                    4
+    12)                     Installations au gaz                                                                        4
+    13)                     Installations électriques                                                                   4
+    14)                     Prévention de panique en cas d'alarme                                                       4
+    15)                     Moyens de secours et d'intervention                                                         5
+    16)                     Registre de sécurité                                                                        5
+    17)                     Réception et contrôles                                                                      5
+
+
+          _____________________________________________________________________________________________________________________
+          Direction, Département Sécurité et Santé
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs, L-2361 Strassen   Tél : 247-86145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er. - Objectifs et domaine d'application
+
+1.1. Généralités
+
+Les établissements sont soumis aux dispositions générales, ITM-SST 1501 / 1502 / 1503,
+applicables à tous les établissements et aux présentes dispositions.
+
+1.2. Domaine d’application
+
+Les présentes prescriptions ont pour objectif de spécifier les prescriptions de sécurité et de
+santé par rapport au personnel et au public, auxquelles doivent répondre la conception, la
+construction et l’aménagement d’un bâtiment administratif.
+
+Art. 2. - Définitions
+
+2.1. Bureau cloisonné, combiné et paysager
+
+On entend par bureau cloisonné un local à usage de bureau dont la surface est limitée à 50 m2
+par des parois qui délimitent la pièce de dalle à dalle et qui empêchent la propagation d’un feu
+pendant au moins une demi-heure.
+
+On entend par bureau combiné un local à usage de bureau dont la surface est délimitée par des
+parois d’une hauteur supérieure à 1,60 m qui n’empêchent pas la propagation d’un feu et qui
+ne suffisent pas à un critère de coupe-feu.
+
+On entend par bureau paysager une surface de bureau ouverte dont les cloisons ont une
+hauteur maximale de 1,60 m. Toutefois, quelques bureaux individuels peuvent être cloisonnés
+à condition qu'ils ne représentent pas plus de 30 % de la surface utile du niveau considéré, que
+leurs parois verticales, au-dessus de 1 m du sol fini, soient réalisés en verre transparent et que
+chaque local soit pleinement visible depuis n'importe quel angle du niveau.
+
+22. Surface utile
+
+La surface utile correspond à la surface totale aménagée en bureaux y compris les circulations
+et, déduction faite des sanitaires, escaliers, cages d'ascenseurs, locaux techniques.
+
+Art. 3. - Implantation
+
+Voir dispositions générales.
+
+Art. 4. - Aménagements extérieurs
+
+Voir dispositions générales.
+
+Art. 5. - Construction
+
+Voir dispositions générales.
+
+
+
+
+          Page 2 sur 5 pages                                                     ITM-SST 1504.1
+Art. 6. - Aménagements intérieurs
+
+En dérogation de l’article 6.2.3 des dispositions générales, les différents éléments de structure
+et de fixation des cloisons intérieures de distribution et les éléments décoratifs en relief
+peuvent ne pas être stable au feu.
+
+Art. 7. - Compartimentage
+
+7.1. Unités d’exploitation
+
+7.1.1. La surface utile d’une unité d’un bureau paysager ne doit pas être supérieure à 800 m2.
+Un bureau paysager est à compartimenter coupe-feu 60 minutes (EI 60) au moins par rapport
+à toute autre unité d’exploitation. Les portes d’accès sont coupe-feu et coupe-fumée 30
+minutes au moins (EI 30-S) (compartiment secondaire). Cette surface peut être doublée en cas
+de sprinklage.
+
+7.1.2. La surface utile maximale exploitable d’une unité de bureaux combinés ne doit pas
+dépasser 400 m2. Cette surface peut être doublée en cas d’une installation de sprinklage. Les
+unités sont à compartimenter comme indiqué au point 7.1.1. ci-dessus.
+
+7.1.3. Si l’aménagement d’une surface se fait avec des bureaux combinés et/ou avec des
+locaux à faibles risques, des fenêtres peuvent se trouver dans les cloisons des chemins
+d’évacuation à une hauteur minimale de 1,80 m, le verre devant avoir la qualité pare-flamme
+d’un degré de 30 minutes (E 30). Les portes des bureaux doivent être des portes pleines.
+
+Une telle surface ne peut se situer que sur un seul niveau, à moins que les bureaux soient
+équipés d’une installation de détection incendie et d’alarme.
+
+7.2. Escaliers
+7.2.1. Dans le cadre des bâtiments moyens, l’accès à une cage d’escalier à partir d’un bureau
+paysager ou d’un bureau combiné doit se faire par un sas dont la composition et les
+caractéristiques sont:
+             1. avoir deux portes coupe-feu et coupe-fumée sollicitées à la fermeture,
+                 s'ouvrant dans le sens de l'évacuation et de la même qualité qui est définie
+                 dans les dispositions générales pour les portes des cages d’escalier,
+             2. avoir des parois coupe-feu de la même qualité qui est définie dans les
+                 dispositions générales pour la stabilité de la construction,
+Toutefois ce sas n'est pas obligatoire si une des trois conditions suivantes sont remplies:
+             ¾ l'établissement est équipé d'une installation de sprinklage,
+             ¾ la cage d'escalier est mise en surpression en cas d'incendie: dans ce cas la
+               porte devra être EI 60-S,
+             ¾ si la surface utile par niveau est inférieure à 300 m².
+
+7.2.2. Des escaliers de communication internes non compartimentés peuvent être prévus entre
+2 niveaux, si la surface utile reliée ainsi ne dépasse pas 1.200 m2.
+
+
+
+
+          Page 3 sur 5 pages                                                    ITM-SST 1504.1
+Art. 8. - Evacuation de personnes, issues et dégagements intérieurs
+
+8.1. L’effectif théorique est à calculer en fonction de 1 personne par 10 m2 de la surface utile.
+Ce nombre sert à la détermination des largeurs des couloirs, du nombre d’issues de secours,
+des largeurs des escaliers, etc.
+
+8.2. En aggravation de l’article 8.2.2. des « Dispositions générales ITM-CL 1501, 1502 et
+1503 », un escalier distinct doit être prévu pour chaque tranche ou fraction de 400 m2 de
+surface utile de bureaux sur un étage.
+
+8.3. Pour les bâtiments administratifs, bas et moyens, dont la surface utile par niveau est
+inférieure ou égale à 400 m2, une seule cage d’escalier est suffisante à condition que chaque
+niveau soit accessible aux services d’incendie et de secours depuis des chemins d'évacuation
+accessoires tels que définis à l'article 8.6.5 des dispositions générales.
+
+Des emplacements extérieurs spécialement prévus à cet effet devront être neutralisés de façon
+à garantir en permanence l'accès des services de secours.
+
+8.4. Pour les bâtiments administratifs, bas et moyens, dont la surface utile par niveau est
+supérieure à 400 m2, mais que le plateau ou une partie du plateau est divisé en plusieurs
+surfaces locatives (< 400 m2), l’aménagement de ces plateaux doit se faire de façon à offrir
+aux personnes la possibilité d’accéder à aux moins 2 cages d’escaliers indépendantes l’une de
+l’autre à partir de chaque surface d’exploitation, sans devoir passer à travers une partie tiers
+privative.
+
+Art. 9. - Eclairage
+
+Voir dispositions générales.
+
+Art. 10. - Désenfumage (Evacuation de fumée et de chaleur)
+
+Voir dispositions générales.
+
+Art. 11. - Installations techniques
+
+Voir dispositions générales.
+
+Art. 12. - Installations au gaz
+
+Voir dispositions générales.
+
+Art. 13. - Installations électriques
+
+Voir dispositions générales.
+
+Art. 14. - Prévention de panique en cas d'alarme
+
+Voir dispositions générales.
+
+
+
+
+          Page 4 sur 5 pages                                                    ITM-SST 1504.1
+Art. 15. - Moyens de secours et d'intervention
+
+Tous les bâtiments ayant une surface utile recevant du public ou non, supérieure à 1.200 m2,
+sont à équiper d’une installation de détection incendie automatique et d’alarme, susceptible de
+détecter et de signaler tout début d’incendie dans n’importe quel local, compartiment,
+dégagement et espace, y compris dans les compartiments techniques, les dépôts et les
+annexes.
+
+Art. 16. - Registre de sécurité
+
+Voir dispositions générales.
+
+Art. 17. - Réceptions et contrôles
+
+Voir dispositions générales.
+
+
+
+
+                  Visa du Directeur adjoint                  Mise en vigueur, le 27 février 2009
+                  de l’Inspection du travail
+                         et des mines
+                                                                              s.
+                               s.
+                                                                         Paul Weber
+                     Robert HUBERTY                                       Directeur
+                                                                  de l’Inspection du travail
+                                                                         et des mines
+
+
+
+
+          Page 5 sur 5 pages                                                       ITM-SST 1504.1
+

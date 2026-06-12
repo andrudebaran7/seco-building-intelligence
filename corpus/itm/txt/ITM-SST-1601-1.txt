@@ -1,0 +1,367 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                           Strassen, 14 mars 2012
+
+
+
+
+                                                                                              ITM-SST 1601.1
+                                                                                                  (Ancien N° ITM-CL 601.6)
+
+
+
+
+    Umkleiden in Einrichtungen des Gesundheitswesens
+
+                                                                  (7 Seiten)
+
+                                                          Inhaltsverzeichnis
+    Kapitel                                                                                                                Seite
+
+    1     Gesetzliche Grundlagen ....................................................................................... 2
+    2     Gegenstand und Anwendungsbereich ................................................................. 2
+    3     Begriffsbestimmungen.......................................................................................... 2
+    4     Allgemeine Anforderungen an Umkleiden ............................................................ 2
+    5     Bauliche und technische Anforderungen .............................................................. 4
+        5.1 Fußboden.......................................................................................................... 4
+        5.2 Wände............................................................................................................... 4
+        5.3 Lüftung .............................................................................................................. 5
+        5.4 Beheizung ......................................................................................................... 5
+        5.5 Beleuchtung ...................................................................................................... 5
+    6     Ausstattung von Umkleideräumen ....................................................................... 5
+        6.1 Spinde / Schränke ............................................................................................. 5
+        6.2 Sitzgelegenheiten ............................................................................................. 6
+        6.3 Handwaschbecken ............................................................................................ 6
+        6.4 Hygieneset ........................................................................................................ 6
+        6.5 Spiegel .............................................................................................................. 6
+        6.6 Wäscheabwurf .................................................................................................. 7
+        6.7 Abfallsammelbehälter........................................................................................ 7
+
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 247-86145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+1. Gesetzliche Grundlagen
+
+1.1. Der Code du Travail ist zu beachten.
+
+1.2. Des Weiteren sind die Empfehlungen zur Unfallverhütung der Association
+d'Assurance Accidents (AAA) zu beachten. Dies gilt insbesondere betreffend der
+Kapitel:
+- „Allgemeine Vorschriften“
+- „Gesundheitswesen“
+
+1.3. Europäische Normen (EN) sind anzuwenden, so wie sie erscheinen und
+nationale Vorschriften ersetzen.
+
+2. Gegenstand und Anwendungsbereich
+
+2.1. Diese Vorschriften gelten für alle Umkleiden in Einrichtungen des
+Gesundheitswesens, außer für solche Umkleiden, welche ausschließlich für
+Patienten oder Besucher vorgesehen sind.
+
+2.1. Diese Vorschriften sind in Verbindung mit der Vorschrift ITM-CL 49 „Installations
+sanitaires“ anzuwenden. Im Falle unterschiedlicher oder gegensätzlicher
+Anforderungen sind für Einrichtungen des Gesundheitswesens die Anforderungen
+der vorliegenden Vorschrift maßgebend.
+
+2.3. Für Umkleiden die besonderen Funktionsbereichen zugeordnet sind (z.B. OP-
+Bereich, Intensivstation, Dialyse, Endoskopie, Isolierstationen, Laboratorien,
+Apotheken, Reinigungsdienst, Küche etc.), können weitergehende Anforderungen
+gelten.
+
+2.4. Erleichterungen oder Befreiungen hinsichtlich der in dieser Vorschrift definierten
+Anforderungen können bewilligt werden, sofern geeignete Ersatzmaßnahmen
+vorgeschlagen werden, welche mindestens ein gleich hohes Sicherheitsniveau
+gewährleisten.
+
+3. Begriffsbestimmungen
+
+3.1. Unter „Umkleideräumen“ werden hier Räume verstanden, in welchen
+bestimmungsgemäß Straßenkleidung gegen Arbeitskleidung oder umgekehrt
+getauscht wird.
+
+3.2. Unter „Umkleiden“ werden Umkleideräume einschließlich eventuell
+angegliederter Räume, wie zum Beispiel Waschräume oder Toiletten, verstanden.
+
+4. Allgemeine Anforderungen an Umkleiden
+
+4.1. Umkleiden müssen für die Beschäftigten zur Verfügung gestellt werden, welche
+bei der Ausübung ihrer Tätigkeit besondere Arbeitskleidung tragen müssen, die aus
+Gründen der Arbeitssicherheit in der Einrichtung angelegt und vor Verlassen der
+Einrichtung abgelegt werden muss. In Einrichtungen des Gesundheitswesens sind
+dies zum Beispiel:
+
+    •   Pflegepersonal
+
+
+
+Page 2 de 7 pages                                                        ITM-SST 1601.1
+     •    Ärztliches Personal
+     •    Laborpersonal
+     •    Küchenpersonal
+     •    Reinigungspersonal
+     •    sonstiges Funktionspersonal
+
+4.2. Die Umkleiden sind entsprechend der unterschiedlichen Tätigkeiten zu trennen.
+So müssen die Umkleiden für Pflege-, Reinigungs- und Küchenpersonal jeweils
+getrennt voneinander sein.
+
+Das Personal aus Risikobereichen (z.B. Intensivstation, Dialyse, Isolierstation etc.)
+darf sich aufgrund der Gefahr von Kreuzkontaminationen nicht zusammen mit dem
+Personal der Normalpflege umziehen. Für jeden Risikobereich muss eine separate
+Umkleide zur Verfügung stehen. Ausnahmen hiervon sind in Einzelfällen möglich,
+bedürfen jedoch der Abstimmung mit der Gewerbeinspektion.
+
+4.3. Die Verpflichtung zur Bereitstellung geeigneter Umkleiden gilt auch für
+Beschäftigte von Drittunternehmen, sofern diese innerhalb der Einrichtung tätig sind.
+
+4.4. Umkleiden müssen so ausgeführt sein und so betrieben werden, dass die
+grundsätzlichen Zielstellungen   von      Umkleiden     in   Einrichtungen     des
+Gesundheitswesens in jedem Fall erfüllt sind. Diese grundsätzlichen Zielstellungen
+sind:
+
+     •    Schutz der Straßenkleidung und Privatutensilien vor Krankheitserregern und
+          chemischen Agenzien.
+     •    Schutz der Angehörigen der Beschäftigten und der sonstigen Bevölkerung vor
+          Krankheitserregern aus der Einrichtung (Vermeidung der Verschleppung in
+          den Privatbereich).
+     •    Schutz der Patienten vor Krankheitserregern (Mikroorganismen) aus der
+          Privatsphäre der Beschäftigten.
+     •    Schutz vor Einsicht und Wahrung der Intimsphäre.
+     •    Sicherung der Straßenkleidung und Privatutensilien gegen Diebstahl.
+
+4.5. Die Zugänge von Umkleideräumen müssen so gestaltet sein, dass die
+Beschäftigten vor Zugluft und direktem Einblick geschützt sind.
+
+4.6. Eventuelle Fenster müssen so angeordnet oder beschaffen sein, dass eine
+Einsicht in den Umkleideraum nicht möglich ist.
+
+4.7. Wenn die Art der Tätigkeit oder gesundheitliche Gründe es erfordern, müssen
+den Beschäftigten Waschräume zur Verfügung gestellt werden1) (siehe ITM-CL 49).
+
+4.8. Waschräume müssen über einen mindestens 10-fachen Luftwechsel verfügen.
+
+4.9. Umkleideräume müssen von Waschräumen räumlich getrennt, aber über einen
+unmittelbaren Zugang verbunden sein.
+
+
+1)   In Einrichtungen des Gesundheitswesens ist dies grundsätzlich der Fall für z.B. OP-Personal, Intensiv-
+     Personal, Personal von Isolierstationen, Küchenpersonal, Reinigungspersonal, Entsorgungspersonal, Personal
+     aus Werkstätten sowie sonstigem Personal aus Bereichen mit ähnlichen Risiken.
+
+
+
+
+Page 3 de 7 pages                                                                             ITM-SST 1601.1
+4.10. In unmittelbarer Nähe von Umkleideräumen müssen Toiletten(räume)
+vorhanden sein (siehe ITM-CL 49).
+
+4.11. Umkleideräume und Ihre Einrichtungen müssen so bemessen und aufgeteilt
+sein, dass für alle Beschäftigten die den Raum gleichzeitig benutzen können, so viel
+freie Bodenfläche zur Verfügung steht, dass sich die Beschäftigten ungehindert
+umkleiden können (mindestens 0,5 m² pro Platz).
+
+4.12. Der Abstand zwischen gegenüberliegende Spinden muss so bemessen sein,
+dass auch dann noch ein ungehindertes Umziehen möglich ist, wenn die Türen der
+gegenüberliegenden Spinde gleichzeitig geöffnet sind. Empfohlen wird ein lichter
+Abstand von mindestens 1,4 m.
+
+4.13. Umkleiden müssen für Frauen und Männer getrennt sein. Die Zugänge der
+Umkleiden müssen entsprechend gekennzeichnet sein.
+
+5. Bauliche und technische Anforderungen
+
+5.1. Fußboden
+
+5.1.1. Fußböden müssen leicht zu reinigen sein. Schlecht zu reinigende Bereiche wie
+z.B. Nischen, unzugängliche Stellen unter Schränken und Einrichtungen etc., sind
+möglichst zu vermeiden.
+
+5.1.2. Der Anschluss der Bodenbeläge an die Wandbeläge muss mittels Hohlkehlen
+erfolgen.
+
+5.1.3. Die Sockel der Spinde sollen zum Bodenbelag hin abgedichtet sein, um zu
+verhindern dass bei der Bodenreinigung Wasser unter die Spinde läuft.
+
+5.1.4. Die Bodenbeläge müssen wasserfest sein und eine Rutschhemmung
+mindestens der Bewertungsgruppe R 10 besitzen. Bodenbeläge in nassbelasteten
+Barfußbereichen müssen der Bewertungsgruppe B entsprechen.
+
+5.1.5. Bodeneinläufe sollen aus hygienischen Gründen und wegen potentieller
+Geruchsbelästigung vermieden werden.
+
+5.1.6. Sind Fußböden mit Bodeneinläufen versehen, müssen diese einen
+Geruchsverschluss besitzen und mit rutschfesten, tritt- und kippsicheren
+Abdeckungen versehen sein. Diese Abdeckungen müssen ausreichend belastbar
+sein und mit der Oberkante des Fußbodens bündig abschließen.
+
+5.2. Wände
+
+5.2.1. Wände müssen leicht zu reinigen und scheuerwischbeständig sein. Aus
+ergonomischen Gründen sind Fliesenschilde bis zur Decke auszuführen.
+
+5.2.2. Der Bodenbelag ist mittels Hohlkehlen an den Wandbelag anzuschließen.
+
+
+
+
+Page 4 de 7 pages                                                      ITM-SST 1601.1
+5.3. Lüftung
+
+5.3.1. Umkleideräume müssen ausreichend be- und entlüftet werden.
+
+5.3.2. Bei natürlicher Lüftung müssen pro Quadratmeter Grundfläche des
+Umkleideraumes     mindestens     die folgenden freien Querschnitte der
+Lüftungsöffnungen vorhanden sein:
+
+    •   200 cm² bei einseitiger Fensterlüftung
+    •   jeweils 60 cm² für Zu- und Abluftöffnung bei Querlüftung
+
+5.3.3. Lüftungstechnische Anlagen müssen einen 4 bis 8-fachen Raumluftwechsel je
+Stunde ermöglichen.
+
+5.3.4. Die Be- und Entlüftung muss so ausgeführt werden, dass Dämpfe aus
+Waschräumen und Duschen nicht in die Umkleideräume gelangen (z.B. Unterdruck
+im Waschraum gegenüber dem Umkleideraum).
+
+5.3.5. Waschräume mit Duschen müssen über einen mindestens 10-fachen
+Luftwechsel verfügen.
+
+5.3.6. In Toilettenräumen muss eine wirksame Lüftung gewährleistet sein
+(mindestens 5-facher Raumluftwechsel je Stunde).
+
+5.3.7. Die Lüftung muss so ausgeführt sein und betrieben werden, dass keine Zugluft
+auftritt.
+
+5.3.8. Die Luftauslässe müssen von außen leicht zu reinigen sein.
+
+5.4. Beheizung
+
+5.4.1. In Umkleideräumen muss ganzjährig eine Mindesttemperatur von 20°C
+gewährleistet sein.
+
+5.4.2. Heizkörper müssen so angebracht und/oder gestaltet sein, dass sie keine
+Verletzungsgefahr darstellen (z.B. Berührungsschutz für heiße Flächen, Vermeidung
+von Kanten etc.).
+
+5.4.3. Heizkörper müssen leicht zu reinigen sein (Hygieneausführung).
+
+5.5. Beleuchtung
+
+In Umkleideräumen muss die Beleuchtungsstärke mindestens 100 Lux betragen.
+
+6. Ausstattung von Umkleideräumen
+
+6.1. Spinde / Schränke
+
+6.1.1. Allen Beschäftigten die sich umziehen müssen, muss eine abschließbare
+Aufbewahrungsmöglichkeit für Straßenkleidung und Privatutensilien oder eine offene
+Garderobe mit abschließbaren Wertfächern zur Verfügung stehen.
+
+
+
+
+Page 5 de 7 pages                                                       ITM-SST 1601.1
+6.1.2. Es muss eine Möglichkeit zur Aufbewahrung von Schuhwerk vorhanden sein.
+
+6.1.3. Wenn die Beschäftigten während Ihrer Arbeit infektiösen, giftigen,
+gesundheitsschädlichen, ätzenden, reizenden oder stark geruchsbelästigenden
+Stoffen ausgesetzt sind, muss eine getrennte Aufbewahrungsmöglichkeit für
+Straßenkleidung und Arbeitskleidung vorhanden sein, sofern die Arbeitskleidung
+mehrfach getragen wird (Spind mit Längstrennung oder zwei Spinde).
+
+6.2. Sitzgelegenheiten
+
+6.2.1. Es muss eine ausreichende Anzahl Sitzgelegenheiten vorhanden sein.
+
+6.2.2. Die Oberflächen der Sitzgelegenheiten müssen leicht abwaschbar, ggf.
+desinfizierbar sein.
+
+6.3. Handwaschbecken
+
+6.3.1. Innerhalb von Umkleideräumen mit mehr als drei gleichzeitig genutzten
+Plätzen, muss mindestens ein direkt zugängliches Handwaschbecken mit fließend
+warmem und kaltem Wasser vorhanden sein. Dies bedeutet, dass das
+Handwaschbecken vom Umkleideraum nicht durch eine Tür abgetrennt sein darf.
+
+6.3.2. Handwaschbecken dürfen keinen Überlauf besitzen. Armaturen müssen
+handberührungsfrei bedienbar sein. Der Wasserstrahl darf nicht direkt in die
+Abflussöffnung des Beckens gerichtet sein.
+
+6.3.3. In Umkleideräumen mit weniger als drei gleichzeitig genutzten Plätzen, kann
+auf das direkt zugängliche Handwaschbecken verzichtet werden, wenn ein direkt
+zugänglicher Händedesinfektionsmittelspender mit Tropfschale montiert ist und im
+unmittelbaren Umfeld des Umkleideraumes ein Handwaschbecken vorhanden ist.
+
+6.4. Hygieneset
+
+6.4.1. Handwaschbecken müssen mit einem Hygieneset mit folgenden Bestandteilen
+ausgestattet sein:
+
+     •   Seifenspender
+     •   Spender mit Händedesinfektionsmittel
+     •   Spender mit Hautpflegemittel
+     •   Einmal-Handtücher aus Papier oder Textil2)
+     •   Handtuchabwurf
+
+6.4.2. Ein Hygieneset kann bis zu zwei nebeneinander liegenden Handwaschbecken
+zugeordnet sein.
+
+6.5. Spiegel
+
+6.5.1. Umkleide- und Waschräume sind mit Spiegeln auszustatten.
+
+
+2)   z.B. aus einem Spender, von einer Rolle oder einer Ablage. Die Verwendung gewöhnlicher Mehrweg-
+     Handtücher oder von Warmlufthändetrocknern ist nicht gestattet.
+
+
+
+
+Page 6 de 7 pages                                                                    ITM-SST 1601.1
+6.5.2. Spiegel sollen möglichst wandbündig montiert sein.
+
+6.6. Wäscheabwurf
+
+6.6.1. Es müssen geeignete, geschlossene Behältnisse (z.B. Wäschesammler mit
+Deckel) oder Vorrichtungen zum Sammeln der benutzten Arbeitskleidung vorhanden
+sein.
+
+6.6.2. Die Deckel von Sammelvorrichtungen für Schmutzwäsche sollen mittels
+Fußbedienung zu öffnen sein.
+
+6.7 Abfallsammelbehälter
+
+6.7.1. Umkleideräume sind mit selbstschließenden Abfallsammelbehältern aus einem
+nichtbrennbaren Material auszustatten.
+
+6.7.2. Die Deckel von Abfallsammelvorrichtungen sollen mittels Fußbedienung zu
+öffnen sein.
+
+
+
+
+              Visa du directeur adjoint                     Mise en vigueur
+              de l’Inspection du travail                    le 14 mars 2012
+                     et des mines
+
+
+
+                                                            Paul WEBER
+                    Robert Huberty                             Directeur
+                                                      de l’Inspection du travail
+                                                             et des mines
+
+
+
+
+Page 7 de 7 pages                                                              ITM-SST 1601.1
+

@@ -1,0 +1,278 @@
+GRAND-DUCHE DE LUXEMBOURG                                                          Strassen, le 18 septembre 2017
+
+
+
+
+                      Le présent texte a été établi par l’Inspection du travail et des mines et
+                          le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+                                                                                  ITM-SST 1509.3
+
+
+                     Prescriptions de prévention incendie
+                              DISPOSITIONS SPECIFIQUES
+                            Etablissements d’hébergement
+                                           Le présent document comporte 6 pages
+
+
+                                                      SOMMAIRE
+       Article 1.       Objectif et domaine d'application                                                2
+       Article 2.       Définitions                                                                      2
+       Article 3.       Implantation                                                                     2
+       Article 4.       Aménagements extérieurs                                                          2
+       Article 5.       Construction                                                                     2
+       Article 6.       Aménagements intérieurs                                                          2
+       Article 7.       Compartimentage                                                                  3
+       Article 8.       Evacuation des personnes, issues et dégagements intérieurs                       3
+       Article 9.       Eclairage                                                                        4
+       Article 10. Désenfumage (Evacuation de fumée et de chaleur (E.F.C.))                              4
+       Article 11. Installations techniques                                                              4
+       Article 12. Installations au gaz                                                                  4
+       Article 13. Installations électriques                                                             4
+       Article 14. Prévention de panique en cas d'alarme                                                 4
+       Article 15. Moyens de secours et d'intervention                                                   4
+       Article 16. Registre de sécurité                                                                  6
+       Article 17. Réception et contrôles                                                                6
+
+
+
+
+       Inspection du travail et des mines
+       Adresse postale:        B.P. 27                 L-2010 Luxembourg                   Tel.: +352 247-76100
+       Bureaux:                3, rue des Primeurs     L-2361 Strassen                     Fax: +352 247-96100
+       Site internet:          http://www.itm.lu
+Article 1. Objectif et domaine d'application
+1.1. Généralités
+Les établissements sont soumis aux dispositions générales, ITM-SST 1501, 1502
+respectivement 1503, applicables à tous les établissements et aux dispositions spécifiques
+qui leur sont propres.
+
+1.2. Domaine d'application
+1.2.1. Les présentes prescriptions ont pour objectif de spécifier les règles générales de
+sécurité par rapport au public et au personnel de tous les établissements d'hébergement
+ouverts au public tels que notamment les hôtels, les auberges de jeunesse, les centres pour
+jeunes, les foyers et les structures d’accueil de nuit.
+1.2.2. Les présentes prescriptions ne s’appliquent pas aux logements collectifs et aux
+chambres meublées tels que les résidences pour étudiants.
+
+Article 2. Définitions
+2.1. Chambre
+Par chambre, il faut entendre un local pouvant recevoir quatre personnes au maximum.
+
+2.2. Dortoir
+Par dortoir, il y a lieu d’entendre un local pouvant recevoir plus de quatre personnes.
+
+Article 3. Implantation
+Voir dispositions générales.
+
+Article 4. Aménagements extérieurs
+Voir dispositions générales.
+
+Article 5. Construction
+5.1. Stabilité et résistance au feu des constructions
+En aggravation des dispositions générales applicables aux bâtiments bas à un seul niveau,
+la stabilité au feu des parties portantes (murs, piliers, planchers, poutres, etc.) est de 60
+minutes (R 60).
+
+Article 6. Aménagements intérieurs
+6.1. Mesures particulières
+6.1.1. Il est formellement interdit de fumer dans les chambres et dortoirs des établissements
+d’hébergement recevant principalement des jeunes tels que les auberges de jeunesse, les
+centres pour jeunes, etc..
+6.1.2. Les locaux où le public est autorisé à fumer doivent être munis de cendriers
+judicieusement répartis. Ils ne doivent en aucun cas être vidés dans des corbeilles à papier.
+Toutes précautions doivent être prises pour éviter tout incident.
+6.1.3. L'emploi d'appareils de chauffage autonomes à combustible solide, liquide ou gazeux
+est interdit dans les chambres et dortoirs.
+6.1.4. Les chambres et dortoirs en sous-sol sont interdits. Seules les salles de jeux et
+d’activités peuvent être autorisées en sous-sol.
+
+
+2                                                                             ITM-SST 1509.3
+6.2. Installation des dortoirs
+Les dortoirs peuvent être équipés soit de lits individuels à un niveau soit de lits superposés.
+N'est autorisé qu'un deuxième niveau de lits.
+Les lits supérieurs doivent être munis d'une échelle à quelques marches ainsi que de
+dispositifs de sécurité évitant les chutes.
+
+Article 7. Compartimentage
+7.1. Façades
+En aggravation des dispositions générales applicables aux bâtiments bas et afin d’éviter un
+retour de flammes dans la verticale ou la propagation horizontale d’un incendie par les
+façades entre compartiments coupe-feu ou entre bâtiments distincts mais contigus, les
+façades comporteront à chaque étage au niveau des plafonds et des murs un élément de
+construction satisfaisant au critère pare-flamme 30 minutes (E 30) d’une largeur d’un mètre
+au minimum.
+
+7.2. Escaliers
+L’établissement ayant plus de quatre chambres par niveau, l’accès à la cage d’escalier se
+fait par un sas. Le couloir d’accès aux chambres peut faire fonction de sas. La porte d’accès
+à la cage d’escalier est coupe-feu 30 minutes et coupe-fumée (EI 30-S).
+
+7.3. Locaux à risques particuliers
+En complément des dispositions générales ITM-SST 1501 / 1502 / 1503, sont à considérer
+comme étant des locaux à risques moyens:
+ les chambres,
+ les dortoirs,
+ les buanderies et les lingeries,
+ les ateliers de bricolage et d’entretien.
+Dans ces locaux il y a lieu de s’assurer de:
+ l'évacuation des émanations incommodes (ventilation importante et adéquate),
+ la protection des machines et la maintenance régulière de ces dernières,
+ le respect des règles de l'art et de la sécurité à l'occasion de la manipulation de
+  substances dangereuses, tels que solvants chlorés.
+Ils doivent être équipés conformément aux règles dictées par la sécurité du travail.
+
+7.4. Gaines techniques
+Les gaines vide - linges sont interdites. Celles qui subsistent, dans les bâtiments existants,
+doivent être isolées des chambres, des salles de réunions, des dortoirs, etc. par un
+compartimentage coupe feu d'au moins 60 minutes (EI 60).
+
+Article 8. Evacuation des personnes, issues et dégagements
+intérieurs
+8.1. L’effectif théorique est évalué sur la base du nombre de personnes pouvant être reçues
+dans les chambres et dortoirs.
+8.2. Les établissements relevant des bâtiments moyens ou hébergeant plus de 50
+personnes par niveau ou ayant une surface exploitable supérieure à 400 m2 par niveau
+doivent disposer de deux cages d’escalier au moins, éloignées aussi loin que possible l’une
+de l’autre.
+
+3                                                                            ITM-SST 1509.3
+8.3. Les établissements relevant des bâtiments bas, hébergeant moins de 50 personnes et
+ayant une surface exploitable inférieure à 400 m2 par niveau, la seconde voie d’évacuation
+aux étages peut se faire pour toutes les chambres d’hébergement par une fenêtre et une
+échelle accessibles par les pompiers.
+8.4. Les dortoirs qui aboutissent à des couloirs en forme de cul-de-sac sont interdits.
+8.5. Les dortoirs pouvant recevoir plus de 20 personnes doivent être pourvus de deux sorties
+distinctes menant à deux voies d’issues indépendantes.
+8.6. Les salles de réunion, de spectacles et de fêtes sont soumises aux prescriptions
+spécifiques liées aux salles recevant du public ITM-SST 1507.
+8.7. Des miroirs susceptibles de tromper les occupants sur la direction des sorties et des
+escaliers ne peuvent pas être disposés dans les chemins d’évacuation.
+8.8. En aggravation des dispositions générales et en application de la Recommandation
+Européenne, la longueur des culs-de-sac ne doit pas dépasser 10 m.
+8.9. Dans le cadre d’une mise en sécurité d’un hôtel existant et en aggravation de la
+Recommandation Européenne, les escaliers réglementés à créer pourront être traités
+comme étant des « escaliers accessoires » dont les dimensions sont soumises aux autorités
+compétentes.
+
+Article 9. Eclairage
+9.1. Les dortoirs pouvant recevoir plus de 10 personnes doivent disposés d’un éclairage de
+sécurité.
+9.2. L'éclairage de balisage de l'ensemble des établissements doit être du type permanent.
+
+Article 10. Désenfumage (Evacuation de fumée et de chaleur
+(E.F.C.))
+Voir dispositions générales.
+
+Article 11. Installations techniques
+Voir dispositions générales.
+
+Article 12. Installations au gaz
+Voir dispositions générales.
+
+Article 13. Installations électriques
+Voir dispositions générales.
+
+Article 14. Prévention de panique en cas d'alarme
+Voir dispositions générales.
+
+Article 15. Moyens de secours et d'intervention
+15.1. Détection incendie
+Tous les locaux, accessibles ou non au public ainsi que toutes les circulations, sont équipés
+de détecteurs appropriés aux risques.
+
+
+
+
+4                                                                            ITM-SST 1509.3
+15.2. Alarme
+15.2.1. Tous les établissements doivent être équipés d’un système d’alarme.
+15.2.2. Pour les établissements recevant moins de 50 personnes pour lesquels une
+surveillance permanente n’est pas exigée, aucune temporisation de l’alarme générale n’est
+autorisée.
+15.2.3. Un établissement dont la surveillance est intégrée à l’établissement et permanente,
+une temporisation maximale de 3 minutes est autorisée. Au-delà de ce délai, l’alarme
+générale doit être déclenchée.
+15.2.4. Un établissement dont la surveillance est en partie à distance, aucune temporisation
+n’est autorisée.
+
+15.3. Signalisation
+15.3.1. Les plans et consignes d’évacuation doivent être affichés de manière très visible
+dans chaque chambre.
+15.3.2. Les consignes d’évacuation doivent être libellées dans les langues étrangères,
+compte tenu de la clientèle habituelle de l’hôtel.
+
+15.4. Préposé à la sécurité incendie
+Pour les établissements pouvant recevoir plus de 50 personnes, l'exploitant doit nommer un
+préposé à la sécurité incendie compétent et qualifié, connaissant parfaitement tous les
+domaines de l'établissement, s'il ne veut pas se charger lui-même des attributions du
+préposé à la sécurité incendie.
+
+15.5. Service de sécurité incendie
+Pour les établissements pouvant recevoir plus de 50 lits, le service de sécurité incendie est
+composé selon le tableau suivant :
+
+        Niveau de                                       Nombre de lits
+       qualification
+                                 50 - 100                 100 - 400               >400
+    Agents de sécurité                                                             1
+        Type M1
+    Agents de sécurité
+                                    1*                        2*
+        Type M2
+    Agents de sécurité
+                                                                                    1
+        Type M3
+Note : présence des personnes chargées de la sécurité incendie :
+-        Agents de sécurité : « présence obligatoire en présence du public ».
+-       * type M2 pour les bâtiments bas, moyens et élevés de type A, type M1 pour les bâtiments
+élevés de type B et C
+
+15.6. Surveillance
+15.6.1. Les établissements d'hébergement ayant un nombre d’occupants supérieur à 50, ne
+peuvent être sans surveillance dans l'intérêt notamment:
+ de la prévention des incendies et de la panique,
+ du contrôle des accès,
+ de la découverte rapide d'un quelconque dérangement pouvant affecter la sécurité des
+  personnes,
+ de la mise en œuvre des interventions subséquentes nécessaires.
+
+5                                                                               ITM-SST 1509.3
+15.6.2. Une surveillance et une réception à distance, électroniques ou autres, sont admises.
+15.6.3. Encadrement des jeunes dans les établissements d’hébergement
+ Il est impératif que les jeunes soient encadrés par des personnes adultes compétentes
+  assurant le rôle de responsables et ayant une formation adéquate portant également sur
+  la sécurité, la manipulation des équipements et dispositifs de sécurité et de lutte contre
+  les incendies, l'évacuation du bâtiment et les gestes élémentaires de premiers secours.
+ Il est obligatoire que les responsables assurent une permanence à l'intérieur de
+  l'établissement d'hébergement pendant le séjour nocturne des jeunes dont ils assument
+  l'encadrement.
+ Les parents - aubergistes, les concierges ou leurs remplaçants doivent habiter
+  l'établissement d'hébergement dont ils sont responsables ou à proximité immédiate. En
+  cas de problèmes ou d'incidents ils doivent être physiquement présents sur les lieux.
+
+Article 16. Registre de sécurité
+Voir dispositions générales.
+
+Article 17. Réception et contrôles
+Voir dispositions générales.
+
+
+
+
+                                    Mise en vigueur, le
+                                    18 septembre 2017
+
+                                              s.
+
+                                         Marco BOLY
+                                           Directeur
+                                  de l’Inspection du travail
+                                         et des mines
+
+
+
+
+6                                                                          ITM-SST 1509.3
+

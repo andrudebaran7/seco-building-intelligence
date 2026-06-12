@@ -57,16 +57,19 @@ point-in-polygon spatial join                  exact join on ACT_<uuid> ID
 lu_<zone>_batiments.* (+3 .geojson)       →    lu_<zone>_batiments_3d.*
 ```
 
-### RAG corpus chain (construction pathology)
+### RAG corpus chain (pathology + regulations)
 
 ```
-ingest_aqc.py                                  rag_aqc.py
-qualiteconstruction.com WordPress API     →    chunking (~1,200 chars, 200 overlap)
-89 PDFs + text (pdftotext -layout)             + multilingual-e5-small embeddings
-+ manifest with code/theme/title               + cosine search (FR/ES/EN)
-
-corpus/aqc/{pdf,txt}/ + manifest.*        →    corpus/aqc/rag_index.db
+ingest_aqc.py: AQC pathology sheets (FR)       rag_aqc.py
+  WordPress API → 89 PDFs + text          →    chunking (~1,200 chars, 200 overlap)
+ingest_itm.py: ITM prescriptions (LU)          + multilingual-e5-small embeddings
+  conditions-types page → 143 PDFs             + cosine search, source + lang columns
+  (building/fire series, FR + DE)
+corpus/{aqc,itm}/ + manifests             →    corpus/rag_index.db (232 docs, 7,551 chunks)
 ```
+
+Risk reports cite **AQC only** (pathology); the search UI spans both corpora
+with a source filter.
 
 ### Connector: per-building risk report
 
@@ -138,7 +141,8 @@ which is why the product metric is top-3 with inspector validation.
 | `ingest_geoportail_lu.py` | LU INSPIRE WFS | `--bbox`, `--zona` | `data/lu_<zone>_batiments.{csv,jsonl}` + 3 GeoJSON |
 | `ingest_lu_3d.py` | LU 3D Buildings 2023 | `--commune` | `data/lu_<commune>_batiments_3d.{csv,jsonl}` + heights CSV |
 | `ingest_aqc.py` | AQC pathology sheets | `--out`, `--skip-text` | `corpus/aqc/{pdf,txt}/` + `manifest.{csv,jsonl}` |
-| `rag_aqc.py` | Local AQC corpus | `build` / `search "query"` | `corpus/aqc/rag_index.db` (SQLite with embeddings) |
+| `ingest_itm.py` | ITM prescriptions (LU) | `--series` | `corpus/itm/{pdf,txt}/` + `manifest.{csv,jsonl}` |
+| `rag_aqc.py` | AQC + ITM corpora | `build` / `search "query"` | `corpus/rag_index.db` (SQLite with embeddings) |
 | `informe_edificio.py` | Final FR dataset + RAG index | `--max-riesgo` / `--numero-dpe`, `--llm <provider>`, `--idiomas es,en,fr`, `--pdf` | `informes/informe_<dpe>_<mode>_<lang>.{md,pdf}` |
 | `ingest_be_geo.py` | UrbIS (BXL) / GRB (VL) via WFS | `--region`, `--bbox`, `--zona` | `data/be_<region>_<zone>_batiments.{csv,jsonl}` + GeoJSON |
 | `ingest_veka.py` | VEKA open data (Flanders) | `--dataset` | `data/veka_<dataset>.csv` |
@@ -240,20 +244,24 @@ VEKA: average e-peil per municipality CSV downloaded (12,379 rows, 322
 municipalities, time series by permit year and use type). It is the Flemish
 aggregated equivalent of the French DPE — no open individual certificate.
 
-### RAG corpus (AQC)
+### RAG corpus (AQC pathology + ITM regulations)
 
 | Metric | Value |
 |---|---|
-| Sheets downloaded (PDF) | 89 (themes A:10 B:13 C:13 D:14 E:16 F:10 G:13) |
-| Text extracted | 89/89, median ~14,500 characters/sheet |
-| Indexed chunks | 1,011 × 384 dimensions |
-| Index size | ~4 MB (SQLite) |
+| AQC sheets (FR) | 89 (themes A:10 B:13 C:13 D:14 E:16 F:10 G:13) |
+| ITM prescriptions (LU, building/fire series) | 143 (140 FR + 3 DE), median ~29,000 chars |
+| Indexed chunks | 7,551 × 384 dimensions (232 documents) |
+| Index size | ~30 MB (SQLite), `fuente` and `lang` per chunk |
 
 Validation queries (top-1 correct in both):
 - FR: *"fissures dans les murs causées par le retrait-gonflement des argiles"*
   → A.05 and A.02 (foundation movements in clay soils), score ~0.89.
 - ES (cross-lingual): *"humedad y condensación en ventanas por mala ventilación"*
   → E.09 "Condensations dans les logements" and E.08 "VMC", score ~0.85.
+- ITM (FR): *"désenfumage des bâtiments élevés sécurité incendie"* →
+  ITM-SST 1500/1503 fire-prevention prescriptions, score ~0.91.
+- ITM (DE): *"Sicherheitsvorschriften für Aufzüge"* → German-language ITM
+  documents. Pathology queries remain AQC-dominated (no cross-corpus noise).
 
 ### Risk reports (structured ↔ RAG connector)
 

@@ -1,0 +1,567 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        Strassen, janvier 2010
+
+
+    Le présent texte a été établi par l’Inspection du Travail et des Mines et le Service Incendie et Ambulance de la
+    Ville de Luxembourg.
+
+
+                                                                                         ITM-SST 1407.1
+                                                                                         (ancien N° ITM-CL 178.2)
+
+
+
+
+      Sécurité relative aux travaux en hauteur sur corde
+                                     -        Assurage en zone à risque de chute
+                                     -        Travail sur cordes en suspension dans le plan vertical
+                                     -        Sauvetage de hauteurs et de profondeurs
+
+
+
+                                                      Prescriptions de sécurité types
+
+                                              Les présentes prescriptions comportent 11 pages
+
+                                                                    Sommaire
+
+    Article                                                                                                Page
+
+      1                Objectif et domaine d'application                                                      2
+      2                Définitions                                                                            2
+      3                Loi, normes, prescriptions et règles techniques                                        3
+      4                Prescriptions générales                                                                4
+      5                Installation du chantier, points d'ancrage, réceptions                                 4
+      6                Nombre des points d'ancrage à essayer, fréquence des essais                            5
+      7                Equipement                                                                             6
+      8                Techniques d’exécution des travaux en hauteur                                          6
+      9                Formation des travailleurs                                                             8
+     10                Visite médicale                                                                        9
+     11                Accidents - Incidents                                                                 10
+     12                Registre de sécurité                                                                  11
+
+
+          ____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs, Strassen Tél : 2478-6145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les conditions générales de sécurité
+relatives aux différents types de travaux en hauteur, soit :
+        -     l’assurage en zone à risque de chute
+        -     le travail sur cordes en suspension dans le plan vertical
+        -     le sauvetage de hauteurs et de profondeurs
+
+
+Art. 2 - Définitions
+
+2.1. Sous dénomination « organisme de contrôle » est à comprendre tout organisme autorisé à
+contrôler les chantiers faisant l'objet des présentes prescriptions définies par le règlement ministériel le
+plus récent en date du Ministère du Travail et de l'Emploi relatif à l'intervention d'organismes de
+contrôle.
+
+2.2. Sous dénomination « travaux en hauteur » sont à comprendre tous les travaux exécutés en hauteur
+de ≥ 5.0 m par rapport au sol pour lesquels le travailleur se trouve en suspension dans le plan vertical
+ou en zone à risque de chute.
+
+2.3. Sous dénomination « zone à risque de chute » est à comprendre tout endroit pouvant être atteint
+sans utilisation de moyens techniques, mais dans lequel un accident de chute, dû aux conditions
+structurelles, peut se produire.
+
+2.4. Sous dénomination « travail sur cordes en suspension dans le plan vertical » est à comprendre le
+déplacement sur corde tout en étant assuré par une corde de sécurité
+
+2.5. Sous dénomination « sauvetage de hauteurs et de profondeurs » est à comprendre;
+       - le déplacement en suspension dans le plan vertical d’une personne non instruite en la
+           matière
+       - le rappel jusqu’au sol d’un travailleur en corde, ayant subi une chute dans la corde de
+           sécurité, si cette manœuvre nécessite la déconnection de la ligne de sécurité.
+
+2.6. On entend par « ligne de sécurité » la connexion entre le harnais antichute et les points d’ancrage.
+La ligne de sécurité se compose de tous les éléments reliant le travailleur aux points d’ancrage, tel que
+mousquetons, absorbeurs d’énergie, corde de sécurité, harnais etc.
+
+2.7. On entend par « ligne de travail » la connexion entre le harnais antichute et les points d’ancrage
+servant uniquement au déplacement des travailleurs.
+
+2.8. On entend par « ligne de descente » une ligne de sécurité ou une ligne de travail en combinaison
+avec une ligne de travail.
+
+2.9. Sous dénomination « progression en tête » on comprend;
+    -       toute progression verticale, horizontale ou oblique d’un travailleur en zone à risque de chute,
+            tout en étant assuré par un point d’ancrage ou un point de déviation, situé en aval à sa position.
+    -       toute progression horizontale ou oblique en zone à risque de chute, tout en étant assuré par un
+            point d’ancrage ou un point de déviation, situé en amont à sa position.
+
+
+
+
+Page 2 de 11 pages                                                                           ITM-SST 1407.1
+   Art. 3 – Loi, normes, prescriptions et règles techniques
+
+   3.1. Les documents à appliquer lors de la conception et de la réalisation des points d'ancrage et de
+   l'exécution des travaux en hauteur sur cordes sont en particulier les présentes prescriptions et en
+   général la législation luxembourgeoise, à savoir:
+         -   les Normes Européennes - Règlement ministériel du 25 février 1994 portant publication du
+             Catalogue I.T.M. des normes européennes applicables au Grand-Duché de Luxembourg
+             publiées au Mémorial A-No 46 ou à défaut les normes européennes EN afférentes en
+             vigueur ;
+         -   la loi du 31 juillet 2006 portant introduction d’un Code de Travail.
+
+   3.2. Les normes à appliquer sont les suivantes:
+
+EN 341        Equipement de protection individuelle contre les chutes de hauteur - descendeurs
+
+EN 353-1      Equipement de protection individuelle contre les chutes de hauteur - Antichutes mobiles sur
+              support d'assurage rigide
+
+EN 353-2      Equipement de protection individuelle contre les chutes de hauteur - Antichutes mobiles sur
+              support d'assurage flexible
+
+EN 354        Equipement de protection individuelle contre les chutes de hauteur - Longes
+
+EN 355        Equipement de protection individuelle contre les chutes de hauteur - Absorbeurs d'énergie
+
+EN 360        Equipement de protection individuelle contre les chutes de hauteur - Antichutes à rappel
+              automatique
+
+EN 361        Equipement de protection individuelle contre les chutes de hauteur - Harnais d'antichute
+
+EN 362        Equipement de protection individuelle contre les chutes de hauteur - Connecteurs
+              (Mousquetons)
+
+EN 363        Equipement de protection individuelle contre les chutes en hauteur - Systèmes d'arrêt des chutes
+
+EN 364        Equipement de protection individuelle contre les chutes de hauteur - Méthodes d'essai
+
+EN 365        Equipement de protection individuelle contre les chutes de hauteur - Exigences générales pour le
+              mode d'emploi et pour le marquage
+
+EN 397        Equipement de protection individuelle - Casque - Exigences de sécurité et méthode d'essai
+
+EN 564        Equipement d'alpinisme et d'escalade - Cordelette - Exigences de sécurité et méthode d'essai
+
+EN 565        Equipement d'alpinisme et d'escalade - Sangle - Exigences de sécurité et méthode d'essai
+
+EN 566        Equipement d'alpinisme - Anneaux cousus - Exigences de sécurité et méthode d'essai
+
+EN 567        Equipement d'alpinisme - Bloqueurs - Exigences de sécurité et méthode d'essai
+
+EN 795        Protection contre les chutes de hauteur - Dispositifs d'ancrage
+
+
+
+
+   Page 3 de 11 pages                                                                       ITM-SST 1407.1
+EN 892      Equipement d'alpinisme et d'escalade - Corde - Exigences de sécurité, description des essais,
+            marquage (cordes destinées au milieu industriel: ∅ ≥ 10 mm)
+
+EN 1891     Equipement de protection individuelle pour la prévention des chutes de hauteur – cordes tressées
+            / gainées à faible coefficient d’allongement
+
+
+   Art. 4 - Prescriptions générales
+
+   4.1. Toutes les constructions, bâtiments et autres ouvrages sont à concevoir de façon que les travaux
+   d'entretien et de nettoyage en hauteur puissent être exécutés dans les meilleures conditions de sécurité
+   possibles en évitant en principe les travaux sur cordes.
+
+   4.2. Lorsque les méthodes traditionnelles, utilisant des échafaudages, plates-formes élévatrices fixes
+   ou mobiles, grues automotrices équipées de nacelles de visite, chariots élévateurs industriels à portée
+   variable ou des nacelles suspendues mobiles ou volantes ou d’une ligne de vie suivant EN 795 ne sont
+   pas applicables, ou lorsqu'il existe un risque de chute et lorsque, pour des raisons techniques ou pour
+   un travail de très courte durée, la sécurité lors du maintien à l'emplacement de travail ne peut être
+   garantie par un autre moyen, l'utilisation des cordes pour les travaux en hauteur est tolérée.
+
+   4.3. Le cas échéant, l'équipement de protection individuel utilisé lors de l'exécution des travaux en
+   hauteur sur cordes doit correspondre aux normes mentionnées sub 3.1 et 3.2 et porter le marquage CE.
+   Un organisme de contrôle est à consulter en cas de doute. L'équipement en question n’est à utiliser que
+   sous les conditions d'utilisation établies par le fabricant du matériel.
+
+
+   Art. 5 - Installation du chantier, points d'ancrage, réceptions
+
+   5.1. Les dispositifs d'ancrage sont des éléments qui sont installés et conçus pour fixer des points
+   d'ancrage. Ils peuvent être fixes ou mobiles.
+   Les ancres structurelles sont des éléments qui sont fixés durablement sur une structure portante qui
+   peuvent reprendre les dispositifs d'ancrage ou constituer des points d'ancrage isolés.
+
+   Les points d'ancrage ne faisant pas partie intégrante de la structure d'origine doivent être conformes à
+   la norme EN 795. Ils peuvent être rangés dans une des 5 classes A-E de cette norme.
+   Les points d'ancrage doivent être répertoriés et numérotés sur un plan à l'échelle 1:50 ou plus précis,
+   lequel est à ajouter au plan de sécurité.
+   Le nombre des points d'ancrage par ligne de descente est de 2 par travailleur, à savoir un point
+   principal et un point supplémentaire de sécurisation pour fixer les cordes. Les points supplémentaires
+   de sécurisation de deux lignes de descente voisines peuvent être utilisés simultanément par 2
+   travailleurs.
+   L'accès aux points d'ancrage doit être réalisé de façon à ne pas créer des dangers supplémentaires. Si,
+   pour des raisons de sécurité, les points d’ancrage d’une ligne de descente ne peuvent pas être réalisés
+   hors zone à risque de chute, chaque personne s’y approchant doit être assurée par un autre système de
+   protection contre les chutes.
+
+
+
+
+   Page 4 de 11 pages                                                                      ITM-SST 1407.1
+5.2. Pour tous les chantiers d’une durée supérieure à 16 (heures x hommes) par année, comprenant
+installation du chantier et travaux sur cordes proprement dits, un plan de sécurité est à élaborer par
+l'entreprise qui exécute les travaux sur cordes. Le plan de sécurité doit comprendre les éléments
+suivants:
+    -   plan de tous les points d'ancrage à l'échelle 1:50 (voir 5.1)
+    -   descriptions des différents procédés de fixation des points d'ancrage
+    -   fiches techniques des équipements de protection individuels utilisés
+    -   une liste par travailleur des équipements de protection individuels utilisés comprenant
+            - la dénomination de l'équipement
+            - le nom du fabricant
+            - le no de fabrication, le no de série
+            - la durée de vie indiquée par le fabricant
+            - la date de mise en service de l'équipement
+            - la date de mise hors service de l'équipement
+            - le marquage CE
+            - les rapports médicaux des travailleurs.
+Ce plan est à présenter à l'organisme de contrôle lors de la réception/contrôle du chantier.
+
+5.3. Avant le début des travaux en hauteur sur cordes, les cordes, les équipements de protection
+individuelle comme casques, harnais et tout autre matériel d'attache ou de fixation doivent être
+réceptionnés/contrôlés par un organisme de contrôle. Ces réceptions/contrôles se font sur base des
+normes mentionnées sub 3.1 et 3.2.
+
+5.4. Les réceptions/contrôles comportent:
+    -   une appréciation de la situation actuelle du chantier, concernant la nécessité de prendre
+        recours à la méthode des cordes (voir art. 5 et 6)
+    -   une appréciation de l'installation des cordes (voir art. 7)
+    -   une appréciation de l'état du matériel utilisé (voir art. 10)
+    -   un contrôle de l'âge du matériel utilisé (voir art. 7)
+    -   un contrôle des documents de formation des travailleurs (voir art. 9)
+    -   des essais à effectuer sur les points d'ancrage (voir art. 6) respectivement des contrôles visuels
+        des points d'ancrage si des essais ne sont pas nécessaires conformément à l'article 6.
+
+5.5. Avant chaque démarrage de chantier où des travaux sur cordes sont exercés, les rapports de
+réception ou de contrôle sont à présenter par l'organisme de contrôle à l'Inspection du Travail et des
+Mines pour visa.
+
+
+Art. 6 - Nombre des points d'ancrage à essayer, fréquence des essais
+
+6.1. L'organisme de contrôle doit essayer au moins 20 % des différents types de points d'ancrage d'un
+chantier de façon statique. Les tests dynamiques sont également à exécuter si les conditions le
+permettent. Ces essais se font selon la norme EN 795. Le nombre minimal des points d'ancrage à
+essayer ne peut être inférieur à 2. L'organisme de contrôle choisit librement les points d'ancrage à
+essayer.
+Les points d'ancrage essayés sont à marquer sur le plan des points d'ancrage (voir 5.1 et 5.2).
+Les points d'ancrage qui n'ont pas subi d'essai statique ou dynamique ainsi que les ancres sur les
+structures et les dispositifs d'ancrage sont à vérifier de façon visuelle par l'organisme de contrôle.
+
+6.2. Les essais des points d'ancrage ont lieu une première fois avant la première mise en service du
+chantier par l’organisme de contrôle. Les essais se répètent ensuite à la cadence de tous les deux ans.
+
+
+
+
+Page 5 de 11 pages                                                                       ITM-SST 1407.1
+Art. 7 - Equipement
+
+7.1. Chaque employeur doit mettre à disposition à chacun de ses travailleurs qui travaillent sur cordes
+un ensemble complet d'équipements de sécurité (harnais, cordes, mousquetons, casque, descendeur,
+cordelettes, etc.). Chaque travailleur doit vérifier quotidiennement son équipement de travail.
+
+7.2. Le matériel utilisé lors de l'exécution des travaux en hauteur sur cordes (cordes, harnais, casques,
+descendeurs, cordelettes, etc.) est à tenir dans un état impeccable.
+
+7.3. Ce matériel est à remplacer en fonction de sa dégradation due à son utilisation. Sa mise hors
+service doit avoir lieu au plus tard à la date d'échéance marquée par le fabricant.
+Tout défaut constaté sur le matériel doit entraîner une mise hors service et une destruction immédiate.
+
+7.4. La vérification du bon état des outils de travail doit être faite par l’utilisateur avant chaque
+utilisation
+
+7.5. Le contrôle périodique des outils de travail en hauteur et de l’équipement de protection individuel
+doit se faire par un organisme de contrôle à raison de 1 fois par an.
+
+7.6. La documentation de l’utilisation de certains composants de l’équipement de protection individuel
+(p.ex. les cordes) doit se faire suivant les prescriptions du fabricant.
+
+
+Art. 8 – Techniques d’exécution des travaux en hauteur
+
+8.1. Généralités
+
+L'exécution des travaux en hauteur sur cordes doit être placée sous la surveillance permanente d'un
+responsable de chantier.
+Pour des raisons de sécurité, le travailleur en hauteur ne doit jamais agir seul.
+Lors de l'exécution des travaux en hauteur sur cordes, les travailleurs doivent obligatoirement porter
+des casques conformes à la norme EN 397 ainsi que des chaussures de sécurité. Le casque est à porter
+avec la jugulaire fermée permettant de maintenir le casque sur la tête même en cas de chute.
+Les outils d’assurage, les outils de travail et de maintient sur corde ainsi que tous les composants
+d’équipement de protection collective et individuelle ne peuvent être utilisés que pour les utilisations
+définies par le fabriquant dans les fiches techniques respectives.
+A l’exception des mousquetons utilisés sur les points de renvoie, les mousquetons utilisés dans une
+ligne de sécurité doivent obligatoirement être des mousquetons à verrouillage automatique et être
+conformes à la norme EN 362.
+Il est strictement défendu de manipuler des charges au-dessus d'un travailleur suspendu ou de faire
+travailler deux travailleurs l'un au-dessus de l'autre.
+Le petit matériel et l'outillage utilisés lors de l'exécution des travaux en hauteur proprement dits
+doivent être liés obligatoirement au harnais moyennant des cordelettes.
+Un balisage doit être systématiquement mis en place pour protéger la zone des travaux sur cordes. Les
+espaces accessibles et les chemins de travail situés en dessous et en dessus des aires de travail (à
+l'aplomb des travaux sur cordes et l'aire des points d'ancrage) qui pourrant être utilisés ou empruntés
+par des passants doivent être rendus inaccessibles dans un rayon suffisamment grand par des barrières
+ou d’autres dispositifs de fermeture.
+Les outils d’assurage, les outils de travail et de maintien sur corde ainsi que tous les composants
+d’équipement de protection collectifs et individuels doivent répondre aux critères de la directive
+européenne 89/686 concernant les certifications sujettes aux applications.
+
+
+
+Page 6 de 11 pages                                                                       ITM-SST 1407.1
+8.2. Travail en zone à risque de chute
+
+En complément aux conditions sous 8.1, les points suivants sont à respecter pour tout travail en zone à
+risque de chute.
+Les travailleurs doivent être sécurisés par une ligne de sécurité munie d’un système anti-chute
+autobloquant. Si la ligne de sécurité est réalisée par une corde dynamique du type EN892, le
+raccordement en cascade de plusieurs cordes est interdit. Cette corde doit être attachée à un point
+d’ancrage suivant EN795 ou à une structure ayant une stabilité au moins équivalente.
+Afin d’amortir une chute, il est interdit de doubler une corde du type EN892.
+Après chute et à titre exceptionnel, la descente contrôlée sur cette même corde est autorisée.
+Lors d’une progression en tête, la longueur de corde pouvant être sollicitée en cas de chute ne doit pas
+dépasser 30 mètres. Cette longueur doit être marquée de façon homologuée sur la corde utilisée. La
+longueur intégrale de la corde doit toutefois permettre un rappel après chute, allant jusqu’au sol.
+Lors d’une progression en tête, les points de renvoi doivent être appliqués de façon à permettre un
+assurage vertical et à réduire au maximum la hauteur d’une éventuelle chute. Les points de renvoi
+doivent prévenir tout choc latéral résultant d’un mouvement pendulaire et être intercalés au maximum
+2 mètres par rapport au plan horizontal ainsi que par rapport au plan vertical.
+La ligne de sécurité ne peut être détachée en aucun moment en zone à risque de chute, sauf si la
+sécurité est assurée en permanence par d’autres moyens, garantissant le même niveau de sécurité que
+cette même ligne.
+
+8.3. Travail sur cordes en suspension dans le plan vertical
+
+En complément aux conditions sous 8.1, les points suivants sont à respecter pour tout travail sur
+cordes en suspension dans le plan vertical.
+Chaque travailleur doit être encordé à deux cordes. L'encordage doit obligatoirement se faire à raison
+d'un travailleur par couple de cordes.
+La première corde, appelée corde de travail, sert au déplacement vertical et au maintien du travailleur
+en place. La seconde corde, appelée corde de sécurité, sert à assurer le travailleur en cas de chute.
+La corde de sécurité, assurant le travailleur, doit être connectée à un système anti-chute autobloquant.
+Ce système ne sert qu’à l’assurage et ne doit pas être sollicité lors du travail sur corde. Elle doit
+toutefois être guidée de façon à rendre une chute impossible et à permettre tout au plus un glissement.
+Elle ne doit être détachée en aucun moment en zone à risque de chute.
+Le déplacement et le maintien sur corde se font moyennant un outil complémentaire au système anti-
+chute autobloquant. Lors de l'exécution des travaux proprement dits, le travailleur doit avoir les deux
+mains libres pour travailler.
+Toute procédure de sécurisation, ne répondant pas aux critères ci-dessus, doit être indiquée dans le
+plan de sécurité et accordée au préalable par ITM.
+
+8.4. Sauvetage de hauteurs et de profondeurs
+
+En complément aux conditions sous 8.1, les points suivants sont à respecter pour tout sauvetage de
+hauteurs et de profondeurs.
+La corde de sécurité, assurant le sauveteur, doit être connectée à un système anti-chute autobloquant.
+Ce système ne sert qu’à l’assurage et ne doit pas être sollicité lors du travail sur corde.
+Le déplacement et le maintien sur corde se font moyennant un outil complémentaire au système anti-
+chute autobloquant.
+
+
+
+
+Page 7 de 11 pages                                                                       ITM-SST 1407.1
+En suspension dans le plan vertical, chaque sauveteur doit être encordé à deux cordes.
+Lors du sauvetage proprement dit, il est autorisé que deux personnes (travailleur à sauver et le
+sauveteur) utilisent la même corde de travail pour le déplacement, sous condition qu’elles soient
+assurées par une corde de sécurité.
+Lors d’une progression en tête, les points de renvoi doivent être appliqués de façon à permettre un
+assurage vertical et à réduire au maximum la hauteur d’une éventuelle chute. Les points de renvoi
+doivent prévenir tout choc latéral résultant d’un mouvement pendulaire et être intercalés au maximum
+2 mètres par rapport au plan horizontal ainsi que par rapport au plan vertical.
+Le sauvetage à partir d’un hélicoptère se fait suivant les manuels d’opérations particulières des
+opérateurs concernés, et dûment approuvés par la Direction de l’Aviation Civile (DAC).
+Si toutefois lors d’une opération de sauvetage, le sauveteur estime par son jugement professionnel que
+les critères de sécurité de travail décrits dans la présente prescription ne permettent pas de satisfaire au
+degré d’urgence de la situation, le sauveteur peut y déroger et appliquer une technique qu’il peut
+assumer, compte tenu des circonstances.
+
+
+Art. 9 - Formation des travailleurs
+
+Une formation est requise conformément à la loi du 31 juillet 2006 portant introduction d’un Code de
+Travail (art. L. 312-8), concernant la sécurité et la santé des travailleurs au travail.
+Pour les trois types de travail en hauteur, trois niveaux de formation sont requis, à savoir :
+
+9.1. Formation pour le travail en zone à risque de chute :
+
+Formation théorique:                        - Législation luxembourgeoise - Règlements ITM
+(notions élémentaires)                      - Normes européennes - Marquage CE
+                                            - Equipements individuels de sécurité - Propriétés -
+                                              Domaines d'application - Points d'ancrage – Points de
+                                              déviation - Confection - Propriétés – Contrôle du matériel
+                                            - Effets en cas de chute – Physique des forces
+                                            - Technique d’assurage lors d’une progression en tête
+                                            - Premiers secours adaptés aux travaux sur cordes
+
+Formation pratique:                         - Utilisation des différents équipements et techniques
+                                              d’assurage - Exercices pratiques
+                                            - Utilisation des points d'ancrage - Confection d'ancres et de
+                                              dispositifs d'ancrage sur des structures existantes –
+                                              Assurage d’une chute >1,20m d’un corps de 80kg et d’un
+                                              facteur de chute de 0,2
+
+9.2. Formation pour le travail sur corde:
+
+Formation théorique:                        - Législation luxembourgeoise – Règlements ITM
+(notions détaillées)                        - Normes européennes - Marquage CE
+                                            - Equipements individuels de sécurité - Propriétés -
+                                              Domaines d'application - Points d'ancrage – Points de
+                                              déviation - Confection - Propriétés – Contrôle du matériel
+                                              et documentation
+                                            - Effets en cas de chute – Physique des forces
+                                            - Technique d’assurage lors d’une progression en tête
+                                            - Premiers secours adaptés aux travaux sur cordes
+
+
+
+
+Page 8 de 11 pages                                                                         ITM-SST 1407.1
+Formation pratique:                      - Utilisation des différents équipements et techniques -
+                                           Exercices pratiques
+                                         - Utilisation des points d'ancrage - Confection d'ancres et de
+                                           dispositifs d'ancrage sur des structures existantes -
+                                           Assurage d’une chute
+                                           >1,20m d’un corps de 80kg et d’un facteur de chute de 0,2
+                                         - Nœuds
+                                         - Descente en rappel et remontée sur corde libre
+                                         - Exercices d’autoassurage et d’assurage d’une personne
+                                           instruite, moyennant deux cordes (statique et dynamique) -
+                                           Exercices sur structures réelles
+
+Test final:                               - Test théorique et pratique
+
+9.3. Formation pour le sauvetage de hauteurs et de profondeurs:
+
+Formation théorique:                     - Législation luxembourgeoise - Règlements ITM
+                                         - Normes européennes - Marquage CE
+                                         - Equipements individuels de sécurité - Propriétés -
+                                           Domaines d'application - Points d'ancrage – Points de
+                                           déviation - Confection - Propriétés – Contrôle du matériel
+                                           et documentation
+                                         - Effets en cas de chute – Physique des forces
+                                         - Technique d’assurage lors d’une progression en tête
+                                         - Premiers secours adaptés aux travaux sur cordes
+
+Formation pratique:                      - Utilisation des différents équipements et techniques -
+                                           Exercices pratiques
+                                         - Utilisation des points d'ancrage - Confection d'ancres et de
+                                           dispositifs d'ancrage sur des structures existantes -
+                                           Assurage d’une chute
+                                           >1,20m d’un corps de 80kg et d’un facteur de chute de 0,2
+                                         - Nœuds
+                                         - Descente en rappel et remontée sur corde libre
+                                         - Exercices d’autoassurage et d’assurage d’une personne
+                                           instruite, moyennant deux cordes (statique et dynamique) -
+                                           Exercices sur structures réelles
+                                         - Techniques de sauvetage de hauteurs et de profondeurs
+
+Test final:                               - Test théorique et pratique
+
+Formation continue:                       - Un entraînement ou bien des interventions réels de 6
+                                            heures par mois ou de 60 heures par année.
+
+
+Art. 10 - Visite médicale
+
+10.1. Tout travailleur embauché pour des travaux en hauteur sur cordes, doit passer avant de
+commencer les travaux, un examen médical d'embauche, auprès du service de santé compétent pour
+l'entreprise en question. Les travailleurs étrangers, mutés au Luxembourg, même pour une courte
+période, doivent se présenter au service de médecine de travail compétent pour l'entreprise; le médecin
+du travail décidera alors de l'utilité et de la nécessité d'un examen médical; dans tous les cas une fiche
+d'aptitude sera délivrée.
+
+
+
+
+Page 9 de 11 pages                                                                       ITM-SST 1407.1
+10.2. L'examen médical doit correspondre à la législation allemande G41 (Berufsgenossenschaftliche
+Grundsätze für arbeitsmedizinische Untersuchungen) et être effectué en vue de détecter des troubles
+de la santé, en particulier des troubles de la conscience, de l'équilibre et de l'appareil locomoteur,
+sujets à un risque accru de chute. Les critères d'inaptitude sont les suivants: troubles d'équilibre,
+vertiges avec nystagmus1, troubles de la mobilité, diminution de la force d'un membre, troubles du
+système circulatoire ( troubles du rythme cardiaque, insuffisance coronaire), diabète sucré nécessitant
+un traitement médicamenteux, troubles de la conscience de toute origine et nature, troubles de
+l'humeur et du comportement, démence, toute dépendance d'alcool, de drogues, de médicaments.
+
+La périodicité de l'examen médical est de deux ans pour les travailleurs de moins de trente ans et d’un
+an pour tous les autres. Après toute absence de plus de six semaines pour cause de maladie ou
+d'accident, un examen médical est obligatoire avant la reprise du travail.
+
+10.3. Une copie de la fiche médicale de chaque travailleur présent sur le chantier et visé par la
+présente, établie par le médecin du travail, doit se trouver dans le dossier du plan de sécurité (voir sub
+5.2).
+
+10.4. Toutes précautions appropriées doivent être prises pour empêcher qu'un accident ne se produise.
+Le strict respect des consignes du plan de sécurité (voir sub 5.2) ainsi que les présentes prescriptions
+de sécurité types sont à observer.
+
+10.5. Les travailleurs chargés d'effectuer les travaux en hauteur sur cordes ainsi que les travailleurs qui
+installent les points d'ancrage doivent disposer d'une formation adéquate de travail, afin d'éviter au
+maximum les dangers et les accidents inhérents à ce genre de travail. Cette formation doit
+obligatoirement comporter les éléments suivants:
+
+
+Art. 11 - Accidents - Incidents
+
+11.1. En cas d'accident, les travailleurs doivent appeler du secours dans les meilleurs délais en
+téléphonant au 112, numéro d’urgence européen.
+
+11.2. En cas de chute d’un travailleur dans la corde de sécurité, personne, excepté les sauveteurs de
+hauteurs et de profondeurs, n’est habilité à déconnecter la ligne de sécurité de la personne à sauver tant
+qu’elle se trouve suspendue dans le plan vertical.
+
+11.3. Après un accident ou un incident quelconque, les travaux en hauteur sur cordes doivent être
+suspendus de suite. Chaque accident ou incident doit être signalé dans les meilleurs délais à
+l'Inspection du Travail et des Mines.
+
+11.4. Sont à mettre hors service et à détruire tout équipement ayant causé un accident ou incident
+grave.
+
+11.5. Les équipements ne peuvent être remis en service et les travaux ne peuvent continuer qu'après
+délivrance d'un certificat de contrôle du chantier établi par un organisme de contrôle et visé par
+l'Inspection du Travail et des Mines.
+
+
+
+
+1 nystagmus: trouble de la motricité oculaire caractérisé par de lents changements dans la direction du regard,
+ brusquement interrompus par des mouvements de rappel très rapides.
+Page 10 de 11 pages                                                                              ITM-SST 1407.1
+Art. 12 - Registre de sécurité
+
+12.1. Les plans de chantier, le plan de sécurité, les rapports de réception ainsi que toute modification
+apportée en cours de chantier doivent être consignés sur un registre de sécurité tenu par l'exploitant de
+l'objet sur lequel sont exécutés les travaux sur cordes.
+
+12.2. Le registre doit pouvoir être consulté à tout moment par les agents des autorités compétentes.
+
+
+
+
+            Visa du Directeur adjoint                                 Mise en vigueur
+            de l’Inspection du travail                                 le 26.01.2010
+                   et des mines
+                                                                              s.
+                         s.
+                                                                        Paul WEBER
+                Robert HUBERTY                                             Directeur
+                                                                  de l’Inspection du travail
+                                                                         et des mines
+
+
+
+
+Page 11 de 11 pages                                                                      ITM-SST 1407.1
+

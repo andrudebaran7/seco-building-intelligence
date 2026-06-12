@@ -88,8 +88,9 @@ countries and four languages.
 2. **Report extraction**: inspection PDFs → metadata + defect observations →
    each observation classified against the 89-sheet AQC pathology taxonomy
    (the French reference for decennial claims), with measured accuracy.
-3. **Pathology RAG**: multilingual semantic search (FR/ES/EN) over the AQC
-   corpus, with citations.
+3. **Pathology + regulations RAG**: multilingual semantic search (FR/ES/EN/DE)
+   over the AQC pathology corpus and Luxembourg's ITM prescriptions (232
+   documents), with citations and a source filter.
 4. **Risk report generator**: building attributes become risk signals; each
    signal retrieves the pathology sheets that explain it; the output is a
    per-building report with citations — in **Spanish, English and/or French**
@@ -124,6 +125,7 @@ countries and four languages.
 | geoportail.lu + data.public.lu (LU) | Cadastre, addresses, 3D CityGML heights, 10 cm orthophoto | SECO Luxembourg's home market; CC0 |
 | UrbIS + GRB + VEKA (BE) | Buildings, parcels (CAPAKEY), energy stats | SECO's HQ market; CAPAKEY is the Belgian join key |
 | AQC Fiches Pathologie (FR) | 89 pathology sheets | The reference taxonomy + the RAG knowledge base |
+| ITM prescriptions (LU) | 143 safety prescriptions (building/fire series, FR+DE) | Luxembourg's mandatory technical rules — SECO's home-market regulatory layer |
 
 All sources are open-licensed (Licence Ouverte / CC0 / Flemish open licenses)
 and were **verified live** — including several undocumented traps (silent

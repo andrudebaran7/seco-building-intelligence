@@ -1,0 +1,855 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        (Ancien N° ITM-SST 1903.1)
+
+
+                                                                                        ITM-SST 1903.2
+
+
+
+          Installations de stockage fixes de liquides inflammables
+                       dans des réservoirs souterrains
+
+
+                                            U   Prescriptions de sécurité types
+                                        Le présent document comporte 15 pages
+
+
+                                                                Sommaire
+
+           Article                                                                                                   Page
+
+                1. Objectif et domaine d'application                                                                   2
+                2. Définitions                                                                                         2
+                3. Normes et règles techniques                                                                         3
+                4. Construction des réservoirs                                                                         4
+                5. Construction des tuyauteries                                                                        4
+                6. Equipement des réservoirs et des tuyauteries                                                        5
+                7. Installation et emplacement des réservoirs et des tuyauteries                                       9
+                8. Protection contre la foudre                                                                        10
+                9. Installations électriques                                                                          10
+               10. Moyens de lutte contre l’incendie                                                                  11
+               11. Contrôles de l’installation                                                                        11
+               12. Contrôles périodiques                                                                              12
+               13. Registre                                                                                           12
+               14. Les rapports de contrôle                                                                           13
+               15. Entretien - Exploitation                                                                           13
+               16. Travaux d'entretien à l'intérieur des réservoirs                                                   14
+               17. Réservoirs "hors service"                                                                          14
+
+
+
+
+        _____________________________________________________________________________________________________________________
+        Direction
+        Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-6213   Fax: 49 14 47
+        Site Internet : http://www.itm.lu
+Art. 1er. - Objectifs et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité, de santé, d'hygiène, de salubrité et de commodité de toutes les installations avec
+réservoirs souterrains fixes dans lesquels sont emmagasinés des liquides inflammables
+suivant l’article 2.3 ci-dessous.
+
+1.2. Les dépôts de gasoil d’une capacité supérieure ou égale à 300 litres et inférieure ou
+égale à 20.000 litres ne sont pas traités par la présente prescription de sécurité type et
+doivent être conformes au règlement grand-ducal du 26 juillet 1999 fixant les prescriptions
+générales pour les dépôts de gasoil d’une capacité allant de 300 litres à 20.000 litres en
+matière d’établissements classés.
+
+1.3. Les installations fixes de distribution de gasoil avec un dépôt d’une capacité supérieure
+ou égale à 300 litres et inférieure ou égale à 20.000 litres ne sont pas visées par la présente
+prescription de sécurité type et doivent être conformes au règlement grand-ducal du 26 juillet
+1999 fixant les prescriptions générales pour les stations fixes de distribution de gasoil dont la
+capacité totale des dépôts est supérieure à 300 litres et inférieure ou égale à 20.000 litres en
+matière d’établissements classés
+
+1.4. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de
+cas en cas par l'ITM, mais uniquement si des mesures de rechange sont prises et qui
+présentent des garanties de sécurité équivalentes.
+
+
+Art. 2. - Définitions
+
+2.1. Organismes de contrôle
+
+Sous la dénomination "organisme de contrôle" est à comprendre tout organisme autorisé à
+contrôler les installations visées par la présente prescription par le règlement ministériel le
+plus récent en date du Ministre ayant dans ses attributions le travail concernant l’intervention
+d’organismes de contrôle dans le cadre des compétences et attributions de l’ITM.
+
+2.2. Installations de stockage fixe de liquides inflammables
+
+Une installation de stockage fixe de liquides inflammables comprend le(s) réservoir(s) de
+stockage pour les liquides inflammables ses équipements et toutes les tuyauteries qui sont
+raccordées à ce(s) réservoir(s) jusqu’au consommateur. Est à considérer comme
+consommateur par exemple une installation de combustion ou une installation de
+distribution. Si en aval du réservoir une pompe met le liquide sous pression, cette pompe est
+considérée comme limite de l’installation. A partir de ce point la prescription ITM-CL 318
+Tuyauteries métalliques destinées au transport de fluides à l'intérieur d'une entreprise est
+applicable.
+
+
+2.3. Réservoir souterrain
+
+Réservoir qui est partiellement ou complètement remblayé.
+
+2.3. Classes de danger des liquides inflammables
+
+    - Classe de danger AI :         Liquides avec un point d’éclair < 21°C.
+    - Classe de danger AII :        Liquides avec un point d’éclair de 21°C à 55 °C
+    - Classe de danger AIII :       Liquides avec un point d’éclair >55°C et <100 °C
+    - Classe de danger B :          Liquides avec un point d’éclair < 21°C, qui se dissolvent
+
+page 2 de 15 pages                                                     ITM-SST 1903.2
+                                      dans l’eau à 15°C ou dont les particules inflammables
+                                      liquides se dissolvent dans l’eau à 15°C.
+
+2.4. LIE, Limite inférieure d’explosivité
+
+Limite inférieure du domaine de concentration d’une substance inflammable dans l’air à
+l’intérieur duquel une explosion peut se produire.
+
+2.5. LSE, Limite supérieure d’explosivité
+
+Limite supérieure du domaine de concentration d’une substance inflammable dans l’air à
+l’intérieur duquel une explosion peut se produire.
+
+                      Domaine de concentration d’une substance inflammable
+                      dans l’air, à l’intérieur duquel une explosion peut se     concentration
+                      produire
+                LIE                                                        LSE
+
+
+2.6. Distances de sécurité
+
+La distance de sécurité délimite une distance de protection pour
+-   sécuriser des bâtiments ou installations du risque d’incendie en provenance d’un
+    réservoir pour le stockage de liquides inflammables ;
+-   sécuriser le réservoir pour le stockage de liquides inflammables du risque d’incendie en
+    provenance de l’extérieur.
+
+2.7. Réservoir résistant à un choc de pression
+
+Les récipients et les appareils résistants à un choc de pression sont conçus de manière à
+résister, en cas d’explosion interne, à un choc de pression égal à la surpression d’explosion
+prévisible. Des déformations permanentes sont toutefois tolérées.
+
+2.8. ITM
+L’Inspection du travail et des mines
+
+
+Art. 3. - Normes et règles techniques
+
+3.1. Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à
+appliquer lors de la conception, de la réalisation et de l'exploitation de l’installation sont en
+particulier les présentes prescriptions et en général les normes et règles techniques
+appliquées en République Fédérale d'Allemagne, ou alors celles reconnues comme
+équivalentes du point de vue du niveau de la sécurité par l'ITM.
+
+3.2. Sont à préférer les normes DIN les plus récentes en vigueur dans la matière, les
+prescriptions allemandes "Technische Regeln für brennbare Flüssigkeiten (TRbF)",
+Technische Regeln wassergefährdender Stoffe (TRwS) respectivement les nouvelles
+prescriptions allemandes TRGS prises en exécution de la « Betriebssicherheitsverordnung »,
+ou alors les règles reconnues comme garantissant un niveau de sécurité équivalent, pour cet
+usage spécifique, par un organisme de contrôle et acceptées comme telles par l'ITM
+Sont d'application les normes européennes (EN) au fur et à mesure qu'elles paraissent et
+remplacent les normes nationales précitées.
+Ainsi la norme EN 13616 est applicable pour les dispositifs de sécurité de limitation de
+remplissage et la norme EN 16160 est applicable pour les dispositifs de sécurité de détection
+de fuite.
+En cas de contradiction avec ces règles techniques précitées et la présente prescription, les
+dispositions de la présente prescription sont applicables.
+page 3 de 15 pages                                                        ITM-SST 1903.2
+3.3. Le règlement grand-ducal modifié du 20 avril 1995 concernant les appareils et les
+systèmes de protection destinés à être utilisés en atmosphère explosibles faisant
+transposition de la directive 94/9/CE concernant les appareils et les systèmes de protection
+destinés à être utilisés en atmosphères explosibles est applicable.
+
+3.4. Les tuyauteries sous pression doivent être conformes au règlement grand-ducal du 21
+janvier 2000 concernant les équipements sous pression faisant transposition de la directive
+97/23/CE concernant les équipements sous pression respectivement à la version actuelle de
+la prescription de sécurité type ITM-CL 318 Tuyauteries métalliques destinées au transport
+de fluides à l'intérieur d'une entreprise.
+
+
+Art. 4. - Construction des réservoirs
+
+4.1. Les réservoirs doivent être du type "cylindrique".
+
+4.2. Les réservoirs doivent être munis d'un trou d'homme facilement accessible via une
+cheminée d'accès qui se trouve au-dessus du trou d'homme des réservoirs souterrains et qui
+doit être parfaitement étanche aux produits pétroliers. Des cheminées d’accès maçonnées
+ou bétonnées ne sont pas autorisées.
+La cheminée d’accès doit être soudée sur l’anneau du trou d’homme (Domschachtkragen)
+du réservoir. D’éventuelles pièces de rehaussement et d’égalisation doivent être fixées de
+manière à ce que des charges supplémentaires en provenance du passage éventuel de
+véhicules ne puissent pas endommager le réservoir. (cf DIN 6626 - Domschächte aus Stahl
+für Behälter zur unterirdischen Lagerung wassergefährdender, brennbarer und
+nichtbrennbarer Flüssigkeiten)
+Les passages des tuyauteries à travers les parois de la cheminée d’accès doivent être
+rendus étanches et résistant au produit contenu dans les réservoirs.
+
+4.3. Normes applicables pour les réservoirs souterrains.
+
+Le concepteur d'une installation de stockage peut choisir entre les possibilités suivantes:
+   1. choisir un réservoir conçu d'après la norme EN12285-1 classe C ;
+   2. choisir un réservoir d'après la norme EN12285-1 classe B qui a lui-même subi une
+       épreuve hydraulique de 2 bars (Certification du constructeur pour le réservoir
+       concerné) ;
+   3. choisir un réservoir conçu d'après la norme EN12285-1 classe A et
+          - soit équiper le réservoir d’équipements supplémentaires de protection contre
+              le passage de flammes dans le réservoir suivant article 6.5 ;
+          - soit fournir une déclaration du constructeur que le réservoir résiste à un choc
+              engendré par une pression d'explosion (explosionsdruckstossfest) ;
+   4. choisir un réservoir conçu suivant la norme DIN 6608.
+
+4.4. Chaque réservoir doit disposer d’un certificat du constructeur suivant la norme de
+construction, respectivement d’un certificat d’agrément (Bauartzulassung)
+
+4.5. Les informations suivantes doivent être indiquées bien lisiblement sur chaque réservoir :
+   - nom du constructeur ;
+   - numéro de fabrication ;
+   - l’année de fabrication ;
+   - capacité du réservoir ;
+   - norme de construction ou numéro d’agrément.
+
+4.6. Toutes les ouvertures et tous les raccords doivent se trouver à la partie supérieure du
+réservoir, au-dessus du liquide emmagasiné et accessibles via une cheminée d’accès.
+
+
+
+page 4 de 15 pages                                                    ITM-SST 1903.2
+4.7. Les réservoirs souterrains sont à protéger contre la corrosion par un revêtement
+extérieur adéquat conformément à la norme de construction en ce qui concerne sa qualité
+(Bitume, époxy, GFK, endoprène,….) et son épaisseur.
+
+
+Art. 5. - Construction des tuyauteries
+
+5.1. Toutes les tuyauteries des réservoirs souterrains dans lesquels sont emmagasinés des
+liquides inflammables doivent être en matière métallique ou en matière plastique si elles sont
+couvertes par un agrément reconnu (Baumusterprüfung). Elles doivent être installées à l'abri
+des chocs et donnant toutes garanties de solidité, de rigidité, de stabilité et d’étanchéité.
+Elles doivent résister aux surpressions et sous-pressions résultant de l’exploitation et aux
+charges et influences extérieures. Les tuyauteries doivent résister aux actions mécaniques,
+thermique et chimique, être imperméables et durables contre les liquides inflammables et
+des gaz et résister au vieillissement et aux flammes.
+
+5.2. Toutes précautions sont à prendre pour protéger les tuyauteries et ses accessoires
+contre la corrosion interne et externe.
+
+5.3. Toute tuyauterie fixe (remplissage, distribution, ventilation, récupération de gaz et
+autres) qui est raccordée au réservoir doit être à pente descendante de minimum 1% vers
+ce réservoir sans aucun point bas.
+Les tuyauteries servant au pompage de liquides inflammables sont exclues de cette
+condition.
+
+5.4. Toutes les dispositions matérielles sont à prendre pour éviter l'écoulement du produit par
+la bouche de remplissage, notamment par la présence d’une cuve de rétention étanche en
+dessous de la bouche de remplissage.
+
+5.5. L'orifice de la canalisation de remplissage doit être équipé d'un raccord fixe compatible
+avec les flexibles de remplissage.
+
+5.6. A proximité de l'orifice de remplissage, doivent être mentionnées, de façon apparente,
+des indications permettant d'identifier sans équivoque le produit contenu dans le réservoir
+auquel est liée cette canalisation
+
+5.7. Les tuyauteries aériennes sont à repérer quant à leur contenu et leur destination
+précise. Le règlement grand-ducal du 28 mars 1995 concernant les prescriptions minimales
+pour la signalisation de sécurité et/ou de santé au travail ainsi que la norme allemande DIN
+2403 est applicable.
+
+
+Art. 6. - Equipement des réservoirs et tuyauteries
+
+6.1. Dispositifs de détection et dispositifs de sécurité
+
+6.1.1. Tout réservoir souterrain doit être du type à double paroi.
+
+6.1.2. La double paroi des réservoirs souterrains doit être surveillée afin de détecter des
+fuites éventuelles par un dispositif approprié de détection de fuite par dépression ou par
+surpression.
+
+6.1.3. Le cheminement des tuyauteries aériennes qui sont visuellement accessibles (qui ne
+sont pas recouvertes ou cachées,…) doit être surveillé soit :
+ - par des dispositifs de sécurité appropriés afin de détecter des fuites éventuelles au
+    niveau des connections démontables (brides, raccords à visser…) Ces dispositifs de
+    sécurité sont à installer de tel sorte qu’une fuite éventuelle puisse être facilement
+
+
+page 5 de 15 pages                                                    ITM-SST 1903.2
+    détectée (détecteur de produit dans cuve en dessous des raccord(s), sur sol étanche
+    formant une cuve, …) ;
+    Par dérogation aux dispositions qui précèdent, les tuyauteries servant à aspirer les
+    liquides inflammables ne doivent pas être équipées de tel dispositif de sécurité.
+-   par d’autres mesures de surveillance adéquate (par exemple des procédures de
+    surveillance par le personnel,…) qui sont acceptées par l’ITM.
+
+Les rétentions doivent être dimensionnées à pouvoir retenir le volume du produit déversé en
+cas de fuite.
+
+6.1.4. Toutes les tuyauteries souterraines et toutes les tuyauteries qui ne sont pas
+visuellement accessibles ou où leur fuite n’est pas perceptible dans un délai acceptable
+(tuyauteries recouverts, dans des gaines techniques, tuyauteries cachés, etc) servant au
+transvasement de liquides inflammables doivent être à double paroi, concentriques et
+continues (sans raccord amovible). Elles doivent être équipées d'un dispositif de sécurité de
+détection de fuite approprié être et installées de tel sorte que chaque déclenchement d’une
+alarme puisse être constatée (avertisseur sonore, visuel, report d’alarme vers un poste de
+garde ou une permanence).
+Par dérogation à l’alinéa qui précède, les tuyauteries servant à aspirer les liquides
+inflammables peuvent être réalisées et exploitées à simple paroi. Néanmoins des
+dispositions de sécurité techniques doivent être prises pour détecter d’éventuelles
+inétanchéités Si une partie du tuyau servant à aspirer les liquides inflammables se trouve en
+contre-bas du niveau du liquide dans le réservoir, le tuyau doit être équipé d’une valve à
+membrane anti-siphon pour éviter la vidange du réservoir (Anti-Heberventil).
+
+6.1.5. Les dispositifs de sécurité indiquées aux articles qui précèdent qui précèdent disposer
+d’alarmes optiques et acoustiques judicieusement placées de telle sorte que chaque
+déclenchement d’une alarme sera constatée facilement (avertisseur sonore, visuel report
+d’alarme vers un poste de garde ou une permanence …). Leur déclenchement doit
+    - soit être constaté dans un délai raisonnable pour éviter des situations dangereuses ;
+    - soit être transféré à une surveillance de 24/24 heures ;
+    - soit provoquer des actions automatisées comme par exemple :
+            o isolation de la partie concernée de la tuyauterie ;
+            o arrêts de pompes concernées ;
+            o mise à l’arrêt des appareils utilisateurs concernés.
+La solution choisie doit être déterminée en fonction d’une évaluation des risques écrite faite
+en relation avec la nature du liquide stocké, et de l’entourage de l’installation de stockage.
+
+6.1.6. Lorsque les dispositifs de sécurité et dispositions de sécurité indiqués aux articles qui
+précèdent sont déclenchés, toutes dispositions doivent être prises par l'exploitant pour
+contrôler immédiatement l'état de l’installation.
+
+En cas de fuite sur une tuyauterie ou un réservoir, celle-ci ou celui-ci doit être mis hors
+service.
+
+
+6.2. Jaugeage d’un réservoir
+
+6.2.1. Chaque réservoir doit être équipé d'un dispositif permettant de connaître à tout
+moment le volume du liquide contenu. Des jaugeurs manuels (Peilstab), des indicateurs de
+niveau électrique à flotteur ou à dépression appropriés peuvent être utilisés.
+
+6.2.2. Tout orifice permettant le jaugeage direct doit être fermé par un obturateur étanche en
+dehors des opérations de jaugeage.
+
+6.2.3. Un jaugeage manuel direct ne doit pas être effectué pendant le remplissage du
+réservoir.
+
+
+page 6 de 15 pages                                                     ITM-SST 1903.2
+6.3. Remplissage d’un réservoir
+
+6.3.1. Le remplissage d’un réservoir souterrain ne peut se faire que par gravité ou par un
+pistolet de remplissage.
+
+6.3.2. Toute opération de remplissage doit être contrôlée par un dispositif de sécurité de
+limitation de remplissage qui doit interrompre automatiquement le remplissage du réservoir
+lorsque le niveau maximal d'utilisation est atteint. Il est interdit de faire subir au limiteur de
+remplissage en exploitation des pressions supérieures à la pression de service.
+Toutefois, les réservoirs de stockage de liquides inflammables de la classe de danger AIII ne
+doivent être équipés de tels dispositifs qu’à partir d’un volume géométrique de 1000 litres.
+
+6.3.3. Le limiteur de remplissage doit être réglé de sorte à ce qu’il n’y ait pas de risque de
+déversement du produit stocké ou d’endommagement du réservoir suite à des surpressions.
+
+Pour des réservoirs souterrains qui sont enterrés ≥ 80cm la capacité maximale de stockage
+(Füllungsgrad) est de
+
+                  Taux de remplissage =        100 __    en % du volume total
+                                           1 + a • 20
+a = coefficient de dilatation moyen (mittlerer kubischer Ausdehnungskoeffizient)
+                                           d15 – d50
+                                      a=
+                                           35 • d50
+d15 et d50 = Densité du produit à 15°C respectivement à 50°C
+
+Pour les liquides inflammables où le coefficient de dilatation moyen ne dépasse pas la valeur
+de 150 x 10-5 /K, la capacité de stockage ne peut pas dépasser 97% de la capacité totale
+effective du réservoir (Peiltabelle, tableau de jaugeages) pour les réservoirs qui sont enterrés
+au minimum à 0,80 mètres (Erddeckung).
+
+Pour le réglage de la sonde du limiteur de remplissage, le contenu restant du produit dans le
+tuyau de remplissage doit être pris en compte.
+
+6.3.4. Il appartient à l'utilisateur ou à la personne qui est déléguée à cet effet de contrôler
+avant chaque remplissage du réservoir que celui-ci est capable d'admettre sans risque de
+débordement la quantité de produit à livrer.
+
+6.4. Event (tube d'aération) d’un réservoir
+
+6.4.1 Chaque réservoir doit être équipé d'un ou de plusieurs tubes d'évent fixes. La section
+totale doit au moins être égale au quart de la somme des sections des canalisations de
+remplissage et ne comporter aucun robinet, et aucun obturateur.
+Ces tubes doivent être fixés à la partie supérieure du réservoir, au-dessus du niveau
+maximal du liquide emmagasiné, avoir une pente vers le réservoir et ne comporter qu'un
+minimum de coudes.
+
+6.4.2. L’orifice de l’évent doit être protégé contre la pluie et déboucher à l'air libre en un
+endroit visible depuis le point de livraison.
+
+6.4.3. Pour les réservoirs contenant des liquides inflammables de la classe de danger AI, AII
+ou B, les orifices d'évent doivent se trouver à l’air libre au moins 4 mètres au-dessus du
+niveau du sol à une distance horizontale minimale de 3 mètres de toute cheminée, ligne à
+haute tension, feu nu, porte ou fenêtre de locaux habités ou occupés.
+
+6.4.4. Pour les réservoirs contenant des liquides inflammables de la classe de danger AIII,
+les orifices d'évent doivent se trouver à l’air libre au moins 0,5 mètres au-dessus du niveau
+du sol.
+
+page 7 de 15 pages                                                      ITM-SST 1903.2
+6.4.5. L’orifice d’un évent d’aération d’un réservoir pour le stockage de liquides inflammables
+de la classe de danger AIII doit être au moins 50 cm plus haut que celui d’un réservoir pour
+le stockage de liquides inflammables de la classe de danger AI, AII ou B quand la distance
+horizontale des orifices se trouvent à une distance inférieure à 2m.
+
+6.4.6. Ces distances minimales à respecter sont à adapter en fonction du plan de zones à
+atmosphères explosives respectivement à atmosphères explosible.
+
+6.4.7. Les gaz et vapeurs évacués par l'évent ne doivent pas incommoder les tiers par les
+odeurs.
+
+6.4.8. Le cas échéant, les zones entourant l’évent doivent être signalisées conformément au
+règlement grand-ducal du 21 mars 2005 concernant les prescriptions minimales visant à
+améliorer la protection en matière de sécurité des travailleurs susceptibles d’être exposés au
+risque d’atmosphères explosives.
+
+6.5. Equipements de protection contre le passage de flammes dans le réservoir (Arrêtes
+     Flammes (Flammenduchschlagsicherungen))
+
+6.5.1. Les ouvertures des réservoirs pour le stockage de liquides inflammables d’une
+capacité géométrique supérieur à 1.000 litres sont à équiper d’armatures de protection
+contre le passage de flammes dans le réservoir. Ces armatures doivent être conformes à la
+norme EN 12874.
+
+Suivant le type de liquide inflammable stocké et suivant l’emplacement et l’installation du
+réservoir, l’installation d’équipements de type d’arrêtes-flammes suivantes peut être
+nécessaire :
+   - antidéflagrant (Deflagrationssicherung) ;
+   - antidétonant (Detonationssicherung) ;
+   - arrête – flamme liquides (Dauerbrandsicherung).
+
+6.5.2. Stockage de liquides inflammables, classe de danger AIII :
+
+Pour les réservoirs de stockage de liquides inflammables de la classe de danger AIII,
+l’installation d’équipements supplémentaires de protection contre le passage de flammes
+dans le réservoir n’est pas nécessaire pour autant que le réservoir n’est pas installé dans un
+lieu où il peut y avoir une atmosphère explosive. Dans ce cas les équipements de type
+d’arrêtes-flammes antidéflagrant / antidétonant sont à installer.
+
+6.5.3. Stockage de liquides inflammables, Classe de danger AI, AII, B :
+
+Pour les réservoirs de stockage de liquides inflammables de la classe de danger AI, AII, B,
+l’installation d’équipements supplémentaires de protection contre le passage de flammes
+dans le réservoir sont nécessaires suivant les indications aux points 6.5.3.A et 6.5.3.B ci-
+dessous.
+
+6.5.3.A Réservoir résistant à un choc de pression
+
+Pour les réservoirs de stockage de liquides inflammables de la classe de danger AI, AII, B
+qui résistent à un choc de pression, l’installation d’équipements supplémentaires de
+protection contre le passage de flammes dans le réservoir ne sont pas nécessaires pour
+autant que l’évent d’aération du réservoir ait une hauteur supérieure ou égale à 4 mètres.
+
+Quand le réservoir est installé en un lieu où il peut régner une atmosphère explosive, des
+équipements de type d’arrêtes-flammes antidéflagrant / antidétonant sont à installer dans les
+tuyauteries de remplissage et les tuyauteries de récupération de gaz.
+
+
+page 8 de 15 pages                                                    ITM-SST 1903.2
+Note : L’installation d’un réservoir souterrain conçu suivant la norme DIN 6608 ou suivant la
+norme EN12285-1 classe B peut être considérée comme résistant à un choc de pression
+quand tous les critères suivants sont respectés :
+   - un volume géométrique inférieur ou égal à 100 m3 ;
+   - limite Supérieure d’Explosivité (LSE) du produit stocké inférieure à -4° C ;
+   - un recouvrement minimal de 0,8 m ;
+   - une hauteur minimale de l’évent de 4 m ;
+   - une pression de remplissage maximale de 0,5 bar.
+
+6.5.3.B Réservoir non conçu pour résister à un choc de pression
+
+Pour les réservoirs de stockage de liquides inflammables de la classe de danger AI, AII, B
+qui ne sont pas conçus à résister à un choc de pression, l’installation d’équipements
+supplémentaires de protection contre le passage de flammes dans le réservoir sont
+nécessaires, notamment des équipements de type d’arrêtes-flammes au niveau :
+   - de l’orifice de l’évent d’aération ;
+   - de l’orifice du tuyau de remplissage ;
+   - de l’orifice de tuyaux de récupération de gaz ;
+   - de l’orifice de vidanges ;
+   - des raccords du limiteur de remplissage s’ils ne sont pas branchés par filet étanche;
+   - des raccords des instruments de jaugeage s’ils ne sont pas branchés par filet
+       étanche.
+
+En supplément des équipements de type d’arrêtes-flammes liquides sont nécessaires au
+niveau
+    - de l’orifice de l’évent d’aération ;
+    - de toute autre ouverture qui relie la partie avec des gaz évaporés du réservoir
+       (Dampfraum) avec l’air libre.
+
+Quand le réservoir est installé en un lieu où il peut régner une atmosphère explosive, des
+équipements de type d’arrêtes-flammes antidéflagrant / antidétonant sont à installer dans les
+tuyauteries de remplissage et les tuyauteries de récupération de gaz.
+
+
+Art. 7. - Installation et emplacement des réservoirs et tuyauteries
+
+7.1. Tous les réservoirs doivent être enterrés entre 0,8 m et 1,5 m dans le sol mesuré à partir
+de la partie supérieure des réservoirs. Au cas où le réservoir se trouve à une hauteur
+supérieure à 1,5 m dans le sol, la stabilité du réservoir et du dôme du réservoir doivent être
+réévaluées (par exemple note de calcul). Un contrôle conformément aux instructions du
+fabricant est à effectuer.
+
+7.2. Les parois des réservoirs enterrés doivent être entourées d'une couche de matière
+protecteur minimale de 0,20 m. Sans indications contraire du fabricant du réservoir cette
+couche doit être du sable jaune exempte de pierre, bien pilonnée, avec une grosseur de
+grain inférieure à 2 mm, et d'une épaisseur minimale de 0,2 m. Entre le réservoir et la dalle
+en béton (voir 7.3), le sable peut être remplacé par un matériel avec des propriétés
+protectrices comparables.
+
+7.3. La fixation de chaque réservoir souterrain nouvellement installé doit être assurée à l'aide
+d'une dalle en béton assurant dans tous les cas que le réservoir ne puisse pas remonter
+sous l'effet de la poussée des eaux (poussé d'Archimède) ou sous celle de matériaux de
+remblayage par suite de trépidations. La ceinture d'ancrage d'un réservoir doit être réalisée
+en tenant compte d'un coefficient de sécurité de 1,3 lors du calcul de la résistance de celle-
+ci.
+
+7.4. En aucun cas une cavité quelconque (cave, sous-sol, excavation) ne peut se trouver en
+dessous d'un réservoir enterré.
+
+page 9 de 15 pages                                                     ITM-SST 1903.2
+7.5. Aucun stockage de matières combustibles ne doit se trouver au-dessus d'un réservoir.
+
+7.6. Tout passage de véhicules et tout dépôt sur le sol au-dessus d'un réservoir enterré sont
+interdits, à moins que le (ou les réservoirs) ne soit (soient) protégé(s) par un plancher ou un
+aménagement pouvant résister aux charges éventuelles.
+
+7.7. Distances à respecter
+
+7.7.1. Distances horizontales à respecter entre des issues de tout établissement recevant du
+public et ne faisant pas partie de l’installation (p.ex. restaurant, théâtre, magasin, etc.) et
+ - les parois des réservoirs : ≥ 6 m ;
+ - les bouches d'emplissage : ≥ 10 m ;
+ - l'extrémité du tube d'évent : ≥ 10 m.
+
+7.7.2. Les parois des réservoirs souterrains doivent être placées à une distance horizontale
+d’au moins 1 m de la limite de propriété de l’établissement et de tout bâtiment.
+L’emplacement d’un réservoir en dessous d’un bâtiment est interdit.
+
+7.7.3. Les bouches d'emplissage des réservoirs doivent être situées à une distance
+horizontale minimale de deux mètres de la limite de propriété.
+
+7.7.4. L’espace entre plusieurs réservoirs souterrains doit être au moins 0,40 mètres.
+
+7.7.5. Les extrémités du tube d’évent de réservoirs de la classe de danger AI, AII et B
+doivent se trouver à plus de 10 mètres des issues de tout établissement recevant du public.
+
+7.7.6. Aucune canalisation d'alimentation en eau et d'évacuation d'eaux usées, de gaz ou
+d'électricité ne peut passer à une distance du ou des réservoirs inférieure à 0,50 mètres
+mesurée en projection sur le plan horizontal.
+
+
+Art. 8. - Protection contre la foudre
+
+8.1. Les installations de stockage et de transvasement de liquides inflammables tout comme
+les installations de refoulement de gaz doivent être convenablement protégées contre la
+foudre (DIN57185/VDE 0185 – 305).
+
+8.2. L’installation du matériel doit être réalisée par du personnel qualifié, tenu au courant
+des règles de sécurité particulières à ce matériel.
+
+
+Art. 9. - Installations électriques
+
+9.1. Les réservoirs et les tuyauteries doivent être reliés à une prise de terre. Un
+raccordement équipotentiel doit être prévu entre le camion citerne et la borne de remplissage
+d'un réservoir contenant des liquides inflammables de la classe de danger AI, AII et B (voir
+DIN 57100/VDE 0100 et DIN 50164/VDE 0185- 305).
+
+9.2. Les installations électriques doivent être conformes aux normes allemandes DIN/VDE,
+les plus récentes en vigueur en la matière ou aux normes européennes CENELEC au fur et
+à mesure que celles-ci paraissent et remplacent les normes DIN/VDE.
+
+9.3. L’installation du matériel doit être réalisée par du personnel qualifié, tenu au courant des
+règles de sécurité particulières à ce matériel.
+
+9.4. Les documents suivants sont à établir pour les installations de stockage de liquides
+inflammables de la classe de danger AI, AII et B :
+
+page 10 de 15 pages                                                     ITM-SST 1903.2
+   -   l’évaluation de risque d’explosion conformément à l’article 4 et 8 du règlement grand-
+       ducal du 21 mars 2005 concernant les prescriptions minimales visant à améliorer la
+       protection en matière de sécurité des travailleurs susceptibles d’être exposés au
+       risques d’atmosphères explosives est à établir et à insérer dans le registre de
+       sécurité de l'installation ;
+   -   le plan de zones à atmosphères explosives respectivement atmosphères explosible.
+
+
+9.6. Toutes les installations du stockage doivent être liées entre elles par une liaison
+équipotentielle.
+
+
+Art. 10. - Moyens de lutte contre l'incendie
+
+Des moyens de secours contre l'incendie, en rapport avec le genre et l'importance du dépôt
+sont à installer et maintenir en bon état. En particulier, des extincteurs portatifs normalisés
+pour feux d'hydrocarbures doivent être placés en nombre suffisant en des endroits bien
+visibles, facilement accessibles et être signalisés par des pictogrammes prévus par le
+règlement grand-ducal du 28 mars 1995 concernant les prescriptions minimales pour la
+signalisation de sécurité et/ou de santé au travail.
+En fonction du genre et de l’importance du dépôt, des moyens de lutte contre l’incendie
+supplémentaire peuvent être demandés par l’ITM.
+
+
+Art. 11. - Contrôles de l'installation
+
+11.1. Immédiatement avant la mise en fosse d’un réservoir souterrain, un organisme de
+contrôle doit vérifier à nouveau l’étanchéité du revêtement extérieur du réservoir à l’aide d’un
+contrôle diélectrique et doit surveiller la mise en place de chaque réservoir.
+La tension pour le contrôle diélectrique est à choisir conformément aux indications de la
+norme de construction sur base du type de revêtement et de l’épaisseur du revêtement.
+
+11.2. Après remblayage et avant la première exploitation de l’installation, l’étanchéité des
+réservoirs et tuyauteries comprenant tous les raccords, joints et tampons ainsi que les
+équipements est à contrôler à l’aide d’une épreuve pneumatique de 300 millibars avec
+enregistrement de la pression pendant au moins une heure. Le temps d’épreuve est
+déterminé en fonction du volume du réservoir.
+
+L’étanchéité des tuyauteries est à contrôler à l’aide d’une épreuve pneumatique ou
+hydraulique à une pression de 1,3 fois la pression de service ou à 5 bar au moins pendant
+au moins une heure.
+
+Ces contrôles doivent être effectués sous la surveillance d'un organisme de contrôle.
+
+Lorsque les tuyauteries sont soumises à l’application de la directive 97/23/CE concernant les
+équipements sous pression les essais d’étanchéité et de résistance sont à effectuer
+conformément à cette directive.
+
+11.3. Toute installation est à réceptionner avant sa mise en service par un organisme agrée.
+Ce contrôle de réception est constitué par :
+   1. la vérification administrative du dossier constructeur (certificats, fiches techniques,
+       rapports de contrôle décrits au point 11.2.) ;
+   2. la vérification de la plaquette signalétique du réservoir ;
+   3. la vérification de la conformité de l’installation aux présentes prescriptions et aux
+       prescriptions d’installation ;
+   4. le contrôle de fonctionnement et du réglage des équipements de sécurité ;
+   5. le contrôle visuel de l’étanchéité de l’installation ;
+   6. le contrôle de la protection contre la foudre ;
+
+page 11 de 15 pages                                                    ITM-SST 1903.2
+   7. le contrôle des installations électriques ;
+   8. le contrôle de l’isolation des tuyaux souterrains (p.ex. contrôle diélectrique) ;
+   9. en supplément pour les installations installées dans des zones à risques d’explosion,
+       - le contrôle de la conformité du matériel électrique installé dans les zones à risque
+           d’explosion ;
+       - le contrôle de la présence du plan de zones à atmosphères explosives
+           respectivement atmosphères explosible ;
+       - le contrôle de l’évaluation de risque d’explosion.
+
+11.4. Les tuyauteries sous pression sont soumises aux contrôles supplémentaires suivant la
+version actuelle de la prescription de sécurité type ITM-CL 318 Tuyauteries métalliques
+destinées au transport de fluides à l'intérieur d'une entreprise.
+
+11.5 Suite à un accident grave ou un incident, l’installation est à contrôler par un organisme
+de contrôle.
+
+
+Art. 12. - Contrôles périodiques
+
+12.1. Contrôles annuels
+
+12.1.1. L’installation de réservoirs et tuyauteries doit subir au moins une fois par an un
+contrôle sous la surveillance d'un organisme de contrôle. Ce contrôle annuel est constitué
+par :
+- un contrôle administratif de la présence et du contenu du registre de sécurité ;
+- un contrôle du bon fonctionnement des dispositifs de sécurité tel que systèmes de
+    limitation de remplissage, dispositifs de détection de fuite de la double paroi du réservoir
+    et des tuyauteries, dispositifs de détection de liquides inflammables etc… ;
+- un contrôle visuel de l’état général et de l’étanchéité de l’installation.
+
+12.1.2. Les équipements de type d’arrêtes-flammes doivent être contrôlés régulièrement
+suivant les indications du constructeur par une firme spécialisée mais au minimum une fois
+par an. Le certificat d’entretien est à insérer dans le registre de sécurité.
+
+12.2. Contrôles quinquennaux
+
+12.2.1. Les installations électriques et la protection contre la foudre des installations de
+stockage et de transvasement de liquides inflammables suivants sont à contrôler au moins
+tous les 5 ans par d'un organisme de contrôle :
+- installations de la classe de danger AI, AII et B ;
+- installations de la classe de risque AIII installés dans des zones à risques d’explosion.
+
+12.2.2. Tous les 5 ans, l’étanchéité des réservoirs et tuyauteries comprenant tous les
+raccords, joints et tampons ainsi que les équipements est à contrôler à l’aide d’une épreuve
+pneumatique avec un gaz inerte de 300 millibars pendant au moins une heure. Le temps
+d’épreuve est déterminé en fonction du volume du réservoir. Ce contrôle doit être effectué
+sous la surveillance d'un organisme de contrôle.
+
+12.2.3. Les dispositifs de sécurité contre la surpression doivent être remplacés au moins
+tous les 5 ans par de nouveaux éléments tarés ou par des éléments révisés.
+
+12.4. Tout réservoir ou toute canalisation qui n'a pas passé avec succès les contrôles
+précités et dont l’état risque de jouer sur la sécurité de personnes doit être mis hors service
+sans délai.
+
+12.5. Les tuyauteries sous pression sont soumises aux contrôles périodiques suivant la
+version actuelle de la prescription de sécurité type ITM-CL 318 Tuyauteries métalliques
+destinées au transport de fluides à l'intérieur d'une entreprise.
+
+page 12 de 15 pages                                                    ITM-SST 1903.2
+Art. 13. - Registre
+
+13.1. Un registre est à établir pour chaque installation comprenant :
+- le dossier de construction ;
+- le rapport de réception ;
+- les rapports des contrôles périodiques ;
+- les fiches des interventions d’entretien et de réparation de l’installateur ;
+- les certificats d’entretien des équipements.
+
+13.2. Le registre est à tenir à la disposition de l’ITM et des organismes de contrôles.
+
+
+Art. 14. - Les rapports de contrôle
+
+14.1. Chaque visite de contrôle de l’organisme de contrôle doit se solder avec un rapport et
+une vignette de contrôle à apposer en un lieu bien visible auprès de l’installation. La vignette
+renseigne sur l’échéance du prochain contrôle. Au cas ou le rapport demande un ou des
+recontrôles, la plus courte échéance est à indiquer sur la vignette.
+
+Chaque rapport doit renseigner sur :
+- la date et la nature de la réception, du contrôle et de la vérification ;
+- l’organisme de contrôle et l’inspecteur ayant effectué le contrôle ;
+- le motif du contrôle effectué suite à un incident ou accident, la cause et la nature de cet
+   incident ou accident ;
+- les conclusions.
+
+Le rapport est dressé en deux exemplaires. En cas de premier contrôle périodique les
+rapports sont soumis, avec une copie, pour visa à l’ITM, qui fait archivage de la copie. Sans
+préjudice des obligations de l’organisme de contrôle envers son commettant ou autre
+personne concernée, la distribution finale des rapports est faite par l’organisme de contrôle
+comme suit :
+- 1 exemplaire pour l’exploitant ;
+- 1 exemplaire archivé par l’organisme de contrôle.
+
+Le propriétaire et/ou l’exploitant veillent à ce que le rapport visé ou au moins une copie du
+rapport visé soit versée au registre de sécurité prévu à l’article 13 de la présente
+prescription.
+
+14.2. Au cas où l’organisme de contrôle constate un défaut ou une situation pouvant
+présenter des dangers pour des personnes, il doit en informer immédiatement l’exploitant par
+le moyen de communication le plus direct et le plus rapide possible, sas préjudice du rapport
+écrit ultérieur de préférence en lui faisant contresigner son rapport provisoire de contrôle.
+
+14.3. L’inspecteur de l’organisme de contrôle concerné doit dans un pareil cas indiquer en
+plus les mesures à prendre immédiatement et il doit s’assurer qu’il est obtempéré et que les
+risques inacceptables sont éliminés. A défaut, il doit en informer sans délais l’ITM.
+
+14.4. Le propriétaire et/ou l’exploitant de l’installation doivent veiller à ce que les anomalies
+éventuelles détectées par l’organisme de contrôle soient levées dans les délais indiqués
+dans les rapports.
+
+14.5. Une visite de recontrôle par l’organisme de contrôle est à prévoir. Si les réparations ou
+mises en état n’ont pas pu être effectuées dans les délais fixés par l’organisme de contrôle
+l’installation est à mettre hors service. Avant une remise en service, un nouveau contrôle par
+l’organisme de contrôle est exigé.
+
+
+page 13 de 15 pages                                                     ITM-SST 1903.2
+15. Entretien - Exploitation
+
+15.1. Toute opération de remplissage doit s'effectuer sous surveillance de la personne
+chargée du transvasement.
+
+15.2. Les opérations de transvasement des liquides inflammables doivent se faire sur un sol
+incombustible, imperméable, résistant au liquide transvasé et conçu de façon à recueillir les
+égouttures.
+
+15.3. L'exploitant doit tenir en réserve un stock suffisant de produits pour l'absorption des
+hydrocarbures afin de pouvoir intervenir rapidement en cas de déversement accidentel.
+
+15.4. Il doit être porté immédiatement remède à toute défectuosité pouvant compromettre la
+sécurité et la santé du voisinage ou du personnel.
+
+15.5. L'installation doit être maintenue en état d'étanchéité parfaite et les appareils ainsi que
+les dépendances de l'établissement doivent toujours être conservés en bon état.
+
+15.6. Tout réservoir et toute tuyauterie en service dont le manque d'étanchéité est constaté
+doit être immédiatement vidangé en vue de sa mise hors service, de son remplacement ou
+de sa réparation.
+
+15.7. Tout remplacement d'un réservoir avec d’autres caractéristiques (capacité, type) est
+soumis à une nouvelle autorisation.
+
+15.8. Pendant les opérations de transvasement il est interdit de fumer à proximité de ces
+opérations, d'y utiliser des appareils à feu nu ou de s'y livrer à des travaux susceptibles de
+produire des étincelles.
+
+
+Art. 16. - Travaux d'entretien à l'intérieur des réservoirs
+
+16.1. Les travaux d'entretien à l'intérieur des réservoirs doivent être placés sous la
+responsabilité d'une personne qualifiée. Ils doivent être exécutés par un personnel
+expérimenté.
+
+16.2. Avant tout travail d'entretien à l'intérieur du réservoir, celui-ci doit être débarrassé de
+toutes vapeurs inflammables.
+
+16.3. Aux accès des réservoirs où la nécessité d’accéder par le haut par du personnel
+d’entretien est prévisible, un point d’attache pour au moins deux cordes de sauvetage et une
+ligne de vie est à prévoir.
+Nul n’est autorisé à pénétrer dans un réservoir où une personne risque d’être intoxiquée ou
+de s’évanouir par asphyxie, que si :
+- l’on peut y pénétrer sans danger après s’être assuré par un moyen approprié que
+    l’endroit ne contient pas d’air vicié,
+- l’endroit est convenablement aéré au moyen d’une soufflerie ou par tout autre moyen
+    efficace,
+- l’absence d’air vicié et la présence d’une concentration d’oxygène d’au moins 20 % est à
+    constater par mesure avec un appareil de mesure calibré. L’absence de gaz comme
+    monoxyde de carbone et de dioxyde de carbone est à contrôler,
+- la personne qui pénètre dans l’endroit en question est
+            o munie d’un harnais ceinture de sécurité avec une corde d’assurance qui doit
+                être solidement attachée à un point d’attache solide ;
+            o surveillé par une deuxième personne se situant à l’extérieur de la zone de
+                danger, le surveillant en permanence et en mesure de lui porter secours en
+                cas de besoin ;
+
+page 14 de 15 pages                                                     ITM-SST 1903.2
+           o      équipée, s’il y a lieu, d’un appareil respiratoire approprié, autonome si
+                  nécessaire.
+Les travaux sont à interrompre immédiatement si une des personnes est frappée d’un
+malaise ou d’une fatigue insurmontable.
+Il est interdit d’utiliser des échelles de cordes dans les cuves ou réservoirs.
+
+
+Art. 17. - Installations "hors service"
+
+17.1. Les réservoirs et tuyauteries abandonnés doivent être vidés et nettoyés, puis enlevés.
+
+17.2. Les tuyauteries souterraines qui présentent une fuite doivent être vidées et nettoyées
+ou être retirées du sol après dégazage et nettoyage. Il est interdit de les neutraliser en les
+remplissant d'eau.
+
+17.3. L'ITM doit être informée dans un délai d'un mois de tout réservoir mis hors service.
+
+
+
+                                                               Mise en vigueur
+                                                                9 février 2015
+
+                                                                      s.
+
+                                                                 Marco BOLY
+                                                                 Directeur f.f.
+                                                          de l’Inspection du travail
+                                                                 et des mines
+
+
+
+
+page 15 de 15 pages                                                   ITM-SST 1903.2
+

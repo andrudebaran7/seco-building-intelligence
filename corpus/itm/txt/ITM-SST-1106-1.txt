@@ -1,0 +1,344 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                              Strassen, janvier 2010
+
+
+
+
+                                                                                               ITM-SST 1106.1 All
+                                                                                               (ancien N° ITM-CL 358.3)
+
+
+
+
+                                                     BLITZSCHUTZ
+
+
+                                                    Sicherheitsvorschriften
+                                                                    (6 Seiten)
+
+                                                             Inhaltsverzeichnis
+
+
+
+       Artikel                                                                                                Seite
+
+        1.                                   Allgemeines                                                        2
+
+        2.                                   Liste der anzuwendenden Normen                                     3
+
+        3.                                   Abnahme, Wiederholungsprüfungen, Reparaturen                       5
+
+        4.                                   Anlagen – Register                                                 6
+
+        5.                                   Quellen- bzw. Normenbezug                                          6
+
+
+
+
+        _____________________________________________________________________________________________________________________
+        Direction
+        Boîte postale 27 L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs       L-2361 STRASSEN Tél : 247-86145   Fax: 49 14 47
+        Site Internet : http://www.itm.lu
+1. Allgemeines
+
+Es gibt keine Einrichtungen und Verfahren, mit denen die natürlichen Gewittererscheinungen so
+beeinflusst werden können, dass Blitzentladungen verhindert werden. Blitze, die in bauliche Anlagen
+oder in Versorgungsleitungen, die in bauliche Anlagen eingeführt sind, direkt einschlagen oder in deren
+Nähe in die Erde einschlagen, sind für Menschen, die baulichen Anlagen selbst, deren Inhalte und
+Installationen sowie für die Versorgungsleitungen gefährlich. Deshalb ist die Anwendung von
+Blitzschutzmassnahmen zwingend notwendig.
+
+Die Notwendigkeit des Schutzes, die wirtschaftlichen Vorteile der Installation von Schutzmassnahmen
+und die Auswahl angemessener Schutzmassnahmen sollte nach dem Schadensrisikomanagement
+bestimmt werden. Die Entscheidung, Blitzschutz vorzusehen, kann unabhängig von jedem Ergebnis
+einer Risikoabschätzung getroffen werden, wenn der Wunsch besteht, dass das Schadensrisiko
+vermindert werden soll.
+
+Der Text der IEC-Schriftstücke 81/.../FDIS als 1. Ausgabe der Norm IEC 62305, ausgearbeitet vom
+Technischen Kommitee IEC TC81 „Lightning protection“, wurde der IEC-CENELEC parallelen
+Abstimmung unterworfen und von CENELEC am 01. 02. 2006 als Europäische Norm EN 62305:2006-
+01 angenommen.
+
+Die Norm EN 62305:2006-01, Teil 1 bis 4 gilt für ganz Europa ab dem Datum der Veröffentlichung
+einer identischen nationalen Norm oder deren Anerkennung. Dies erfolgte in Luxemburg durch
+Publikation im Amtsblatt „Memorial“ A - N°128 vom 27. Juli 2006. Ab diesem Datum ist diese Norm
+in Luxemburg anzuwenden und ersetzt vollständig die in der vorherigen Fassung der
+Sicherheitsvorschrift ITM-CL 358.2 zitierte Norm VDE V 0185.
+
+Der Text der europäischen Blitzschutznorm EN 62305:2006-01 ist integral in das deutsche
+Vorschriftenwerk DIN VDE eingegliedert und als Norm DIN EN 62305 (VDE 0185-305:2006-11) Teil
+1 bis 4 aufgenommen worden und gilt ab 1. Oktober 2006.
+
+Wegen der erweiterten Informationen zur Anwendung dieser Norm durch nationale informative
+Anhänge, Beiblätter und Korrekturen an der Norm DIN EN 62305 (VDE 0185-305: 2006-11) ist aus
+praktischen Gründen diese deutsche Ausgabe als Hauptregelwerk inklusiv der Beiblätter zu betrachten,
+welche in Luxemburg zur Anwendung kommt.
+
+Um die Notwendigkeit des Blitzschutzes zu ermitteln und dann die technisch und wirtschaftlich
+optimalen Schutzmassnahmen festzulegen, ist die Risikoanalyse nach Teil 2 der Norm DIN EN 62305
+(VDE 0185-305) durchzuführen. Die Erdblitzdichte (pro km2 und pro Jahr) ist mit dem Faktor 4,6 für
+das gesamte luxemburgische Territorium einzusetzen, dieser Wert ist aus den Angaben des Beiblattes 1
+der Norm VDE 0185-305-2 abgeleitet.
+
+Der Entwurf und die Planung eines Blitzschutzsystems (LPS: lightning protection system) hat
+sinngemäß grundsätzlich dieser Analyse entsprechend zu erfolgen.
+
+Die Errichtung eines Blitzschutzsystems (LPS) ist gemäss DIN EN 62305 Teil 3 (VDE 0185-305-3)
+durchzuführen. Dessen Abnahme bzw. deren Wiederholungsprüfungen sind vorwiegend entsprechend
+der Norm DIN EN 62305 Teil 3 (VDE 0185-305-3) durchzuführen. Falls besondere Gegebenheiten
+vorliegen bzw. besonders gefährliche Anlagen zu schützen sind, sind die entsprechenden dafür gültigen
+spezifischen Normen zusätzlich anzuwenden.
+
+Die Berechnung der Blitzschutzklasse sowie die angenommenen Berechnungsfaktoren sind in den
+technischen Unterlagen festzuhalten und dem Kontrollbüro1 (organisme de contrôle agréé) zwecks
+Überprüfung vorzulegen.
+
+
+1
+  Das Kontrollbüro muss dem Grossherzoglichem Reglement « Règlement ministériel du 6 mai 1996 concernant
+l’intervention d’organismes de contôle dans le cadre des compétences et attributions de l’Inspection du travail et
+des mines » entsprechen ;
+
+Seite 2 von 6                                                                                ITM-SST 1106.1 All
+Die Bestimmung des Gefährdungspegels LPL (lightning protection level), der Blitzschutzklasse und die
+sich daraus ableitenden Schutzmassnahmen können auch auf andere Art bestimmt werden. Diese sind
+z.B. bauliche Vorgaben des Errichters eines Gebäudes, regionale Vorschriften, Anforderungen von
+Sachversicherern usw. Die auf diese Weise ermittelte Blitzschutzklasse darf aber nie schlechter sein als
+die ermittelte Blitzschutzklasse gemäss der Risikoanalyse nach Teil 2 der Norm DIN EN 62305 (VDE
+0185-305).
+
+Es ist jedoch zu bemerken, dass Fangeinrichtungen vom Typ «ESE, early streamer emission device oder
+PDA, pointe à dispositif d’amorçage » außerhalb der Norm DIN EN 62305 Teil 1-4 (VDE 0185-305:1-
+4) sind. Der Einsatz dieser Fangeinrichtungen ist nicht verboten, jedoch darf ihr angeblich weit
+größerer Schutzbereich (collection volume), wie z.B. in der französischen Norm NF C 17-102
+angegeben, nicht berücksichtigt werden. Eine solche Fangstange ist daher identisch einer
+konventionellen Fangstange gemäss zu behandeln, für die Bestimmung des geschützten Volumens sind
+nur die realen Abmessungen der metallenen Fangeinrichtungen zu berücksichtigen (siehe DIN EN
+62305-3 (VDE 0185-305:3) Anhang A.1).
+
+2. Liste der anzuwendenden Normen
+
+2.1
+DIN VDE 0100-444                                  VDE 0100-444                     Oktober 1999
+Teil 4 : Schutzmassnahmen
+Kapitel 44 : Schutz bei Überspannungen
+Hauptabschnitt 444: Schutz gegen elektromagnetische Störungen (EMI) in Anlagen von Gebäuden
+
+2.2
+DIN VDE 0100-534                                    VDE 0100-534                      Februar 2009
+Errichten von Niederspannungsanlagen
+Teil 5-53: Auswahl und Errichtung elektrischer Betriebsmittel-Trennen, Schalten und Steuern Abschnitt
+534: Überspannung-Schutzeinrichtungen (ÜSE)
+
+2.3
+DIN VDE 0100-540                                    VDE 0100-540                      Juni 2007
+Errichten von Niederspannungsanlagen
+Teil 5-54: Auswahl und Errichtung elektrischer Betriebsmittel -Erdungsanlagen, Schutzleiter und
+Schutzpotentialausgleichsleiter
+
+2.4
+DIN EN 61400-1                                       VDE 0127-1                        Juli 2006
+Windenergieanlagen
+Teil 1 : Auslegungsanforderungen
+(unter Abschnitt 10.6 wird der Blitzschutz noch auf die nicht mehr existierende Norm IEC 61024-1
+bezogen, welche in der Norm IEC 62305 untergebracht wurde)
+
+2.5
+DIN EN 60079-14                                     VDE 0165-1                          Mai 2009
+Explosionsfähige Atmosphäre
+Teil 14: Projektierung, Auswahl und Errichtung elektrischer Anlagen
+
+2.6
+DIN EN 62305-1           Teil 1                     VDE 0185-305-1                      Oktober 2006
+Allgemeine Grundsätze
+2.6a
+DIN EN 62305-1 Berichtigung 1                       VDE 0185-305-1 Berichtigung 1 Juni 2007
+Berichtigungen zu DIN EN 62305-1: 2006-10
+
+
+
+
+Seite 3 von 6                                                                      ITM-SST 1106.1 All
+2.7
+DIN EN 62305-2             Teil 2                 VDE 0185-305-2                Oktober 2006
+Risiko-Management
+2.7a
+DIN EN 62305-2 Beiblatt 1                         VDE 0185-305-2 Beiblatt 1     Januar 2007
+Blitzgefährdung in Deutschland
+2.7b
+DIN EN 62305-2 Berichtigung 1                     VDE 0185-305-2 Berichtigung 1 Juni 2007
+Berichtigungen zu DIN EN 62305-2: 2006-10
+2.7c
+DIN EN 62305-2 Beiblatt 2                         VDE 0185-305-2 Beiblatt 2     Februar 2007
+Berechnungshilfe zur Abschätzung des Schadensrisikos für bauliche Anlagen
+
+2.8
+DIN EN 62305-3              Teil 3                 VDE 0185-305-3                Oktober 2006
+Schutz von baulichen Anlagen und Personen
+2.8a
+DIN EN 62305-3/A11                                 VDE 0185-305-3                Oktober 2009
+Änderung von DIN EN 62305-3
+2.8b
+DIN EN 62305-3 Beiblatt 1                          VDE 0185-305-3 Beiblatt 1     Oktober 2009
+Zusätzliche Informationen zur Anwendung der DIN EN 62305-3
+2.8c
+DIN EN 62305-3 Berichtigung 1                      VDE 0185-305-3 Berichtigung 1 Juni 2007
+2.8d
+DIN EN 62305-3 Beiblatt 2                          VDE 0185-305-3 Beiblatt 2     Oktober 2009
+Zusätzliche Informationen für besondere bauliche Anlagen
+2.8e
+DIN EN 62305-3 Beiblatt 3                          VDE 0185-305-3 Beiblatt 3     Januar 2007
+Zusätzliche Informationen für die Prüfung und Wartung von Blitzschutzsystemen
+2.8f
+DIN EN 62305-4 Beiblatt 4                          VDE 0185-305-3 Beiblatt 4     Januar 2008
+Verwendung von Metalldächern in Blitzschutzsystemen
+2.8g
+DIN EN 5-3 Beiblatt 5                              VDE 0185-305-3 Beiblatt 5     Oktober 2009
+Blitz- und Überspannungsschutz für PV-Stromversorgungssysteme
+
+2.9
+DIN EN 62305-4              Teil 4                  VDE 0185-305-4                Oktober 2006
+Elektrische und elektronische Systeme in baulichen Anlagen
+2.9a
+DIN EN 62305-4 Berichtigung 1                       VDE 0185-305-4 Berichtigung 1 Juni 2007
+
+2.10
+DIN EN 50164-1                                    VDE 0185-201                  März 2009
+Blitzschutzbauteile: Anforderungen an Verbindungsbauteile
+
+2.11
+DIN EN 50164-2                                    VDE 0185-202                  März 2009
+Blitzschutzbauteile: Anforderungen an Leitungen und Erder
+
+2.12
+DIN EN 50164-3                                    VDE 0185-203                  September 2009
+Blitzschutzbauteile: Anforderungen an Trennfunkenstrecken
+
+
+
+
+Seite 4 von 6                                                               ITM-SST 1106.1 All
+2.13
+DIN EN 50164-4                                      VDE 0185-204                    März 2009
+Blitzschutzbauteile: Anforderungen an Halter
+
+2.14
+DIN EN 50164-5                                     VDE 0185-205                     September 2009
+Blitzschutzbauteile: Anforderungen an Revisionskästen und Erderdurchführungen
+
+2.15
+DIN EN 50164-6                                      VDE 0185-206                    September 2009
+Blitzschutzbauteile: Anforderungen an Blitzzähler
+
+2.16
+DIN EN 50164-7                                     VDE 0185-207                     März 2009
+Blitzschutzbauteile: Anforderungen an Mittel zur Verbesserung der Erdung
+
+2.17
+DIN EN 60099-5                                    VDE 0675-5                        September 2000
+Überspannungsableiter
+Teil 5 : Anleitung für die Auswahl und die Anwendung
+
+2.18
+DIN EN 50310                                  VDE 0800-2-310                    Oktober 2006
+Anwendung von Maßnahmen für Erdung und Potentialausgleich in Gebäuden mit Einrichtungen der
+Informationstechnik
+
+2.19
+DIN VDE V 0800-2-548                               VDE V 0800-2-548                  Oktober 1999
+Elektrische Anlagen von Gebäuden
+Teil 5: Auswahl und Errichtung von Betriebsmitteln
+Hauptabschnitt 548: Erdung und Potentialausgleich für Anlagen der Informationstechnik
+
+2.20
+DIN VDE 0855-300                                VDE 0855-300                        August 2008
+Funksende-/-empfangssysteme für Senderausgangsleistungen bis 1 kW
+Teil 300: Sicherheitsanforderungen
+
+Bemerkungen:
+Für ältere Blitzschutzsysteme sind die Vorgaben der Norm DIN EN 62305 Teile 1-4 sinngemäß
+anzuwenden. Stellt sich heraus, dass ein System den grundsätzlichen Schutzanforderungen der
+genannten Norm nicht entspricht oder entsprechen kann, sind diesbezügliche Hinweise im Prüfbericht
+zu dokumentieren (siehe Kapitel 3: Abnahme, Wiederholungsprüfungen, Reparaturen).
+
+3. Abnahme, Wiederholungsprüfungen, Reparaturen
+
+Während der Bauphase des Blitzschutzsystems ist eine Baubegleitung durch ein Kontrollbüro
+(organisme de contrôle agréé) notwendig zwecks Überprüfung der Anlagenteile, welche nach
+Fertigstellung des Projektes nicht mehr überprüfbar sind, wie Verlegung der unterirdischen
+Erdungsanlage, Verbindungen an den Betonbewehrungen u.s.w.
+
+Nach Fertigstellung des Blitzschutzsystems sind sämtliche Anlagenteile von einem Kontrollbüro
+(organisme de contrôle agréé) abzunehmen. Das Abnahmeprotokoll (Prüfbericht) ist der
+Gewerbeinspektion (Inspection du Travail et des Mines) zum Visum vorzulegen.
+
+
+
+
+Seite 5 von 6                                                                   ITM-SST 1106.1 All
+Wiederholungsprüfungen sind in Zeitabständen gemäss Tabelle E.2 DIN EN 62305-3 (VDE 0185-305-
+3) Anhang E durchzuführen.
+
+Umfassende Prüfungen müssen von einem Kontrollbüro (organisme de contrôle agréé) durchgeführt
+werden. Sichtprüfungen können von einer unterwiesenen Betriebskraft oder von dem Elektroinstallateur
+ausgeführt werden.
+
+
+                Zeitabstände zwischen den Wiederholungsprüfungen einer Blitzschutzanlage
+                    gemäss DIN EN 62305-3 (VDE 0185-305-3) Anhang E, Tabelle E.2
+
+
+        Blitzschutzklasse   Sichtprüfung     Umfassende Prüfung     Umfassende Prüfung kritischer Systeme
+
+          I und II               1 Jahr       2 Jahre                      1 Jahr
+        III und IV               2 Jahre      4 Jahre                      1 Jahr
+
+Anmerkung:        Blitzschutzanlagen für explosionsgefährdete bauliche Anlagen sollen alle 6 Monate einer
+                  Sichtprüfung unterzogen werden. Der elektrische Test der Installationen sollte einmal im Jahr
+                  ausgeführt werden.
+                  Werden bei der Prüfung eines Blitzschutzsystems Mängel festgestellt, dann trägt der Betreiber
+                  der baulichen Anlage die Verantwortung dafür, dass die Mängel z. B. durch Reparatur ohne
+                  Verzögerung behoben werden.
+
+4. Anlagen-Register
+
+Für jede Blitzschutzanlage ist vom Betreiber ein Register zu führen, in welches alle wichtigen Daten
+und Dokumente wie, technische Unterlagen, Abnahme- und Wiederholungsprüfprotokolle, Störfälle,
+Wartungs- und Reparaturarbeiten, kleinere Umänderungen, usw. eingetragen bzw. aufbewahrt werden.
+Dieses Register ist den zuständigen Behörden auf Anfrage auszuhändigen.
+
+5. Quellen- bzw. Normenbezug
+
+Obengenannte Dokumente sind zu beziehen über:
+
+    -   EN 62305 in den Sprachen englisch, französisch, deutsch:
+           ILNAS
+           Organisme luxembourgeois de normalisation
+           34-40, avenue de la Porte-Neuve L-2227 Luxembourg
+
+    -   DIN VDE Normen und Beiblätter:
+           VDE-Verlag, D-10625 Berlin oder
+           Beuth-Verlag, D-10772 Berlin
+
+
+
+                                                                          Mise en vigueur
+                Visa du Directeur adjoint                                  le 26.01.2010
+                de l’Inspection du travail
+                       et des mines                                                 s.
+
+                            s.                                              Paul WEBER
+                                                                              Directeur
+                     Robert HUBERTY                                   de l’Inspection du travail
+                                                                             et des mines
+
+
+
+
+Seite 6 von 6                                                                             ITM-SST 1106.1 All
+

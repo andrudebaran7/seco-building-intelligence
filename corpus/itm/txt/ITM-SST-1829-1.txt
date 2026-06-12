@@ -1,0 +1,1999 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                          Strassen, mai 2011
+
+
+
+                                                                                       ITM-SST 1829.1
+                                                                                       (Ancien numéro ITM-CL 110.4)
+
+
+      Installations de production de froid fonctionnant à
+                          l'ammoniac
+                       tombant sous l’application de la directive 97/23/CE
+
+
+                                              Prescriptions de sécurité types
+                                          Le présent document comporte 38 pages
+    Article                                                                                                            Page
+
+     1.                 Objectif et domaine d'application                                                                2
+     2.                 Définitions                                                                                      2
+     3.                 Normes et règles techniques                                                                      4
+     4.                 Prescriptions générales                                                                          4
+     5.                 Exigences générales relatives aux systèmes de réfrigération                                      5
+     6.                 Installation et aménagement de la salle des machines                                             7
+     7.                 Dimensions et accessibilité de la salle des machines                                             9
+     8.                 Systèmes de ventilation de la salle des machines                                                 9
+     9.                 Installations de sécurité et mesures d’urgence                                                  10
+    10.                 Mesures d’urgence                                                                               11
+    11.                 Dispositifs de surveillance et de protection des installations                                  13
+    12.                 Installations électriques / alimentation de sécurité                                            14
+    13.                 Eclairage                                                                                       16
+    14.                 Appareils sous pression                                                                         17
+    15.                 Aéroréfrigérant                                                                                 18
+    16.                 Signalisation de sécurité                                                                       19
+    17.                 Marquages techniques                                                                            19
+    18.                 Protection et moyens de lutte contre l'incendie                                                 20
+    19.                 Equipements de protection individuelle et de premiers secours                                   21
+    20.                 Contrôle préalable et contrôles périodiques                                                     24
+    21.                 Instruction du personnel                                                                        29
+    22.                 Entretien et réparations                                                                        31
+    23.                 Exploitation                                                                                    34
+    24.                 Risques de légionelloses                                                                        36
+    25.                 Accidents et incidents graves                                                                   36
+    26.                 Registre                                                                                        36
+                        Annexe                                                                                          38
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-1   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1 - Objectifs et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions
+générales de sécurité, de santé, d'hygiène, de salubrité et de commodité par rapport
+au personnel, au public et au voisinage de tous les établissements et de toutes les
+entreprises utilisant de l'ammoniac comme réfrigérant dans des installations de
+production de froid confort et de froid technique.
+
+1.2. Les présentes prescriptions ne s'appliquent pas aux installations de production
+de froid industriel telles que définies sous 2.4 ci-dessous. Ces installations sont
+traitées cas par cas.
+
+1.3. Des allégements ou dispenses aux présentes prescriptions peuvent être
+accordés de cas en cas, mais uniquement si des mesures de rechange garantissant
+une protection au moins équivalente sont prises.
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de
+sécurité équivalent par un organisme de contrôle et acceptées comme telles par
+l'Inspection du travail et des mines.
+
+Art. 2 – Définitions et explications
+
+Dans le cadre des présentes prescriptions on entend par:
+
+2.1. "Systèmes de transfert du froid":
+
+Les systèmes de transfert du froid sont classés selon le principe par lequel ils
+soutirent la chaleur à l'air ou à tout autre milieu à refroidir. Dans le contexte des
+présentes prescriptions on distingue les systèmes suivants:
+
+      • Systèmes directs
+      • Systèmes indirects:        - systèmes indirects fermés
+                                   - systèmes indirects fermés reliés à l'air libre
+
+2.2. "production de froid confort" (Klimakälte) : la production de froid pour des locaux
+occupés, soit uniquement par des personnes, soit par des personnes et des
+machines (p.ex. les salles d'ordinateur(s)).
+
+2.3. "production de froid technique" (Technische Kälte) : la production de froid utilisé,
+soit pour assurer le refroidissement direct de machines, soit pour couvrir les besoins
+de chambres froides et de congélateurs tels qu’utilisés par exemple dans les
+magasins, grandes surfaces, hôtels, cliniques.
+
+2.4. "production de froid industriel" : la production de froid utilisé notamment pour les
+besoins de l'industrie alimentaire (fabriques de boissons, fabriques de crèmes
+glacées, de laiteries, d'abattoirs, etc.) ou de l'industrie chimique, etc., et fonctionnant
+d’après le principe du transfert du froid direct.
+
+
+
+
+page 2 de 38 pages                                                           ITM-SST 1829.1
+2.5 "installation de production de froid" : l’installation comprenant le compresseur, les
+échangeurs de chaleur du type évaporateur et condenseur, les pompes, la tuyauterie
+où circule le fluide frigorifique ammoniac ainsi que le système d'absorption pour
+ammoniac.
+
+2.6. "éclairage de sécurité": l’éclairage qui, lorsque l’éclairage normal et l’éclairage de
+remplacement sont défaillants, doit permettre l’évacuation sûre et facile du public et
+du personnel vers l’extérieur ainsi que les manoeuvres concernant la sécurité. Selon
+l’exploitation cet éclairage peut être du type permanent ou non permanent.
+
+Il est composé des éclairages dits de balisage et d’ambiance.
+       • L’éclairage d’ambiance permet une visibilité suffisante dans un local en cas
+          de défaillance des éclairages normal et de remplacement, assurant
+          notamment l’orientation et la reconnaissance des obstacles.
+       • L’éclairage de balisage est la signalisation lumineuse d’orientation vers les
+          issues. Il doit permettre à toute personne d’accéder à l’extérieur à partir
+          d’un local et d’un couloir. A l’aide de foyers lumineux la reconnaissance des
+          escaliers et autres, l’indication des changements de direction et l’indication
+          des sorties est assurée.
+
+2.7. « organisme de contrôle» : tout organisme autorisé par le plus récent règlement
+ministériel concernant l’intervention des organismes de contrôle, dans le cadre des
+compétences et attributions de l’Inspection du travail et des mines, à contrôler la
+sécurité intérieure des bâtiments respectivement les appareils à pression fixes.
+
+2.8. Classification des lieux suivant leur utilisation (genre d'occupation):
+
+2.8.1. Les pièces, parties de bâtiment et les bâtiments, susceptibles de recevoir une
+installation frigorifique couverte par la présente prescription sont classés en deux
+catégories suivant leur utilisation (genre d'occupation):
+
+                                 Catégories d’utilisation des lieux
+
+  Désignation         Définition générale du genre d'occupation                Exemples
+     de la
+   catégorie
+                     Pièces, parties de bâtiment, bâtiments         Hôpitaux, maisons de soins,
+       A             - où se trouvent des personnes gênées dans     centres de réhabilitation,
+                       leur liberté de mouvement;                   foyers pour personnes âgées,
+                     - où des personnes peuvent passer la nuit;     hôtels, théâtres, salles de
+                     - où un nombre incontrôlé de personnes ont     réunion, supermarchés,
+                       accès sans être personnellement au courant   restaurants, écoles, gares, etc.
+                       des dangers résultant d'une émission
+                       d'ammoniac et des mesures générales de
+                       sécurité de l'établissement
+                     Pièces, parties de bâtiment, bâtiments         Bureaux, locaux
+       B             - où seul un nombre limité de personnes        professionnels, laboratoires,
+                       peuvent se rassembler, dont certaines        petites boutiques, ateliers, etc.
+                       doivent nécessairement être au courant des   Installations de fabrication du
+                       mesures générales de sécurité générales de   froid par système indirect,
+                       l'établissement                              p.ex. chimiques, alimentaires,
+                                                                    boissons, fabrique de glace,
+                                                                    laiteries, abattoirs, etc.
+
+
+
+
+page 3 de 38 pages                                                                        ITM-SST 1829.1
+2.8.2. Si un bâtiment présente plusieurs catégories d'utilisation des lieux, les
+exigences se rapportant à la catégorie d'utilisation la plus sensible sont à observer
+(priorité de la catégorie A par rapport à la catégorie B).
+
+2.8.3. Si dans un périmètre, à définir de cas en cas en accord avec l'Inspection du
+travail et des mines, se trouvent plusieurs bâtiments appartenant à des catégories
+d'occupation différentes, les exigences se rapportant à la catégorie la plus restrictive
+des mesures d'urgence reprises à l’article 10 sont à appliquer à chacun de ces
+bâtiments.
+
+Art. 3. - Normes et règles techniques
+
+3.1 Dans le domaine non réglementé, ne transposant pas en droit luxembourgeois
+une directive européenne « mise sur le marché » (p.ex. directive machines, directive
+équipements sous pression, etc.), les normes, prescriptions, directives de sécurité et
+d’hygiène et les règles de l’art à appliquer lors du montage de l’installation et de
+l’exploitation des appareils sous pression sont en particulier les présentes
+prescriptions et en général les normes européennes (EN) afférentes les plus
+récentes en vigueur ou à défaut les normes reconnues comme suffisantes du point
+de vue de la sécurité par un organisme de contrôle et acceptées comme telles par
+l’ITM.
+
+3.2. Sans préjudice de la législation et de la règlementation applicables en la
+matière, les seules prescriptions valables relatives aux lieux d'emplacement des
+installations frigorifiques, à leur réception et à leurs contrôles périodiques sont les
+présentes prescriptions.
+
+Art. 4. - Prescriptions générales
+
+4.1. Sont à observer les dispositions du Titre premier – Sécurité au Travail, du Livre
+III du Code du Travail et des arrêtés et règlements grand-ducaux pris en exécution à
+cette loi, dont notamment:
+
+  * le règlement grand-ducal du 4 novembre 1994 concernant les prescriptions
+     minimales de sécurité et de santé pour les lieux de travail,
+  * le règlement grand-ducal modifié du 4 novembre 1994 concernant les
+     prescriptions minimales de sécurité et de santé pour l'utilisation par les
+     travailleurs au travail d'équipements de travail,
+  * le règlement grand-ducal du 4 novembre 1994 concernant les prescriptions
+     minimales de sécurité et de santé pour l'utilisation par les travailleurs au travail
+     d'équipements de protection individuelle,
+  * le règlement grand-ducal du 4 novembre 1994 concernant les prescriptions
+     minimales de sécurité et de santé relatives à la manutention manuelle de
+     charges comportant des risques, notamment dorsolombaires, pour les
+     travailleurs.
+  * le règlement grand-ducal du 27 juin 2008 concernant les prescriptions minimales
+     de sécurité et de santé à mettre en œuvre sur les chantiers temporaires ou
+     mobiles,
+
+
+
+
+page 4 de 38 pages                                                         ITM-SST 1829.1
+ * le règlement grand-ducal du 28 mars 1995 concernant les prescriptions minimales
+     pour la signalisation de sécurité et/ou de santé au travail,
+ * le règlement grand-ducal du 21 mars 2005 concernant les prescriptions minimales
+     visant à améliorer la protection en matière de sécurité et de santé des travailleurs
+     susceptibles d'être exposés au risque d'atmosphères explosives
+ * le règlement grand-ducal du 6 février 2007
+        1. concernant les prescriptions minimales de sécurité et de santé relatives à
+           l'exposition des travailleurs aux risques dus aux agents physiques (bruit);
+        2. portant modification du règlement grand-ducal du 17 juin 1997 concernant
+           la périodicité des examens médicaux en matière de médecine du travail.
+ * le règlement grand-ducal du 6 février 2007
+        1. concernant les prescriptions minimales de sécurité et de santé relatives à
+           l'exposition des travailleurs aux risques dus aux agents physiques
+           (vibrations);
+        2. portant modification du règlement grand-ducal du 17 juin 1997 concernant
+           la périodicité des examens médicaux en matière de médecine du travail.
+
+4.2. En ce qui concerne les bouteilles contenant de l'ammoniac, celles-ci doivent être
+conformes aux stipulations de l'arrêté grand-ducal du 24 octobre 1938 déterminant
+les conditions auxquelles doivent satisfaire les récipients destinés à contenir des gaz
+liquéfiés, comprimés ou dissous.
+
+4.3. Sont à observer les dispositions des législations relatives à la mise sur le
+marché de produits, dont notamment les machines (directives 98/37/CE,
+2006/42/CE), les équipements sous pression (directive 97/23/CE), la basse tension
+(directive 2006/95/CE), la compatibilité électromagnétique (directive 2004/108/CE),
+l’atmosphère explosives (directive ATEX (94/9/CE)).
+
+4.4. Les machines ne peuvent, ni être livrées, ni être montées avec une charge
+d’ammoniac.
+
+Art. 5. - Exigences générales relatives aux installations frigorifiques
+
+5.1. Les systèmes et les éléments de systèmes frigorifiques doivent être conçus et
+construits de manière à réduire le plus possible les risques encourus par le
+personnel de l'établissement ainsi que le personnel qui procède au montage, à
+l'entretien et à l'exploitation de l'installation, par le voisinage et par le public en
+général.
+
+5.2. Les mesures de sécurité, les conditions d'installation et d'exploitation doivent
+tenir compte en particulier de l'emplacement de l'installation, de la classification des
+catégories d’utilisation des lieux (genre d'occupation) et du nombre de personnes
+présentes. Toutes les mesures doivent être prises afin d'éviter toute émission de
+fluide frigorigène, de minimiser les risques dus aux effets toxiques et corrosifs de
+l'ammoniac et de prévenir les risques de panique.
+
+5.3. La méthode de transfert du froid direct est interdite pour les installations
+frigorifiques telles que prévues dans les présentes prescriptions.
+
+
+
+
+page 5 de 38 pages                                                         ITM-SST 1829.1
+5.4. Seuls sont autorisés les systèmes indirects fermés reliés à l’air libre ainsi que les
+systèmes indirects fermés pour les installations de froid climatisation confort et
+technique et ceci uniquement dans les limites et selon les conditions prévues par les
+présentes prescriptions.
+Tout système indirect fermé doit comporter un système d’expansion du liquide
+caloporteur, ainsi qu’une (ou des) soupape(s) de sûreté.
+Le tableau en annexe de la présente prescription est applicable.
+
+5.5. Pour des raisons de sécurité, le fluide caloporteur utilisé dans les systèmes
+indirects doit être ininflammable, inoffensif et non corrosif. Les deux circuits
+caloporteurs, à savoir :
+   • le circuit caloporteur de l’évaporateur vers le consommateur du froid
+   et
+   • le circuit caloporteur du condenseur vers l’aérorefroidisseur ou la tour de
+     refroidissement
+
+doivent être surveillés en permanence par des détecteurs de présence d’ammoniac
+dans leurs circuits, respectivement par des détecteurs surveillant la valeur pH du
+fluide se trouvant dans leurs circuits.
+
+Si la teneur en ammoniac dans le fluide caloporteur dépasse 200 ppm,
+respectivement si la valeur pH dépasse une valeur équivalente, une alarme doit être
+déclenchée en un endroit approprié et la machine ainsi que les circulateurs du fluide
+caloporteur doivent être mis à l’arrêt.
+
+5.6. En cas d’installations hybrides fonctionnant au CO2 les stipulations de la
+condition type ITM-SST 1313 « Installations de production de froid fonctionnant au
+dioxyde de carbone(CO2) » sont également d’application.
+
+5.7. Le système de réfrigération doit être conçu et construit de manière à ce que les
+émissions de bruit et de vibrations produites soient réduites au niveau le plus bas
+possible compte tenu de l'état de la technologie et de la disponibilité de moyens de
+réduction de bruit et de vibrations, notamment à la source.
+
+5.8. L'installation doit être adaptée au besoin, de façon à ce que la quantité
+d'ammoniac engagée soit réduite à un strict minimum ceci afin de réduire les risques
+dus à un dégagement accidentel d'ammoniac.
+
+5.8. L’emplacement de la machine frigorifique :
+
+   5.8.1 L’ensemble de l’installation doit se faire dans un local séparé étanche
+         dénommé par la suite salle des machines. Son usage doit être réservé
+         exclusivement à l'installation frigorifique.
+   5.8.2 L’accès à la salle des machines ne peut se faire que par l’intermédiaire d’un
+         “ sas ”.
+
+
+
+
+page 6 de 38 pages                                                          ITM-SST 1829.1
+   5.8.3 L’accès doit être rendu impossible aux personnes non autorisées.
+   5.8.4. La salle des machines peut contenir plusieurs groupes de production de
+          froid à l’ammoniac. Le(s) système(s) d’absorption est (sont) à dimensionner
+          dans ces cas de figure d’après la machine contenant la plus grande
+          quantité d’ammoniac (voir 6.1.13).
+
+5.9. Si un bâtiment présente plusieurs catégories d'utilisation des lieux, les exigences
+se rapportant à la catégorie d'utilisation la plus sensible sont à observer (priorité de la
+catégorie A par rapport à la catégorie B).
+
+5.10. Aucune ouverture vers l'extérieur de la salle des machines ne doit être
+aménagée, ni au-dessus, ni en-dessous de sorties de secours ou de voies
+d'évacuation ou de prises d’air.
+
+Art. 6. - Installation et aménagement de la salle des machines
+
+6.1 Conditions d’installations et d’aménagements générales applicables pour
+les bâtiments de la catégorie A et B:
+
+   6.1.1.    Les locaux attenants à la salle des machines se trouvant sur le même
+             étage ou sur l'étage immédiatement supérieur ou inférieur, ne peuvent
+             servir au séjour prolongé de personnes.
+
+   6.1.2.    La salle des machines ne peut être aménagée dans les sous-sols d'un
+             bâtiment.
+
+   6.1.3. Toutes les séparations horizontales ou verticales entre la salle des
+           machines et des constructions ou locaux attenants éventuels, doivent
+           avoir une résistance au feu d'un degré minimal de 90 minutes, et elles
+           doivent être étanches aux fumées froides.
+
+   6.1.4.    Si les chemins de fuite dans la salle des machines dépassent 20 mètres,
+             la salle des machines doit disposer de deux portes d'issues de secours
+             dont une doit mener directement vers l'extérieur. Les issues sont à
+             aménager aussi près que possible de deux extrémités opposées du local
+             concerné.
+
+   6.1.5     La salle des machines peut comporter un accès, servant au transport de
+             matériel lourd notamment lors du montage et lors de grands entretiens.
+             Cette entrée ne peut être utilisée comme issue de secours, et doit être
+             fermée à clé en cas de fonctionnement normal de l’installation.
+
+   6.1.6.    Tout sas doit avoir une surface minimale de 3m² et être ventilé par légère
+             surpression permanente (amenée d’air fraîche). Les portes des sas
+             donnant vers l’intérieur d’un bâtiment doivent avoir individuellement une
+             résistance au feu d'un degré minimal de 30 minutes. Elles doivent être
+             étanches aux fumées froides.
+             Tout sas est à équiper des moyens de sécurité appropriés.
+
+
+
+
+page 7 de 38 pages                                                           ITM-SST 1829.1
+             Pour les bâtiments de la catégorie A le(s) “ sas ” est (sont) à équiper
+             également d’un absorbeur. Sa capacité doit être au moins identique à
+             celle de l’absorbeur installé dans la salle des machines.
+
+   6.1.7.    Les portes de la salle des machines et du sas doivent être à fermeture
+             automatique.
+
+   6.1.8.    Les portes doivent être conçues de façon à pouvoir s'ouvrir en tout temps
+             et sans difficulté, depuis l'intérieur, dans le sens d'une fuite éventuelle.
+
+   6.1.9.    La salle des machines doit être aménagée à l'abri de tout risque d'incendie
+             et toute source de chaleur importante. Les locaux ou lieux attenants ne
+             doivent présenter aucun risque particulier d'incendie ou d'explosion, ils ne
+             doivent comporter, ni charge calorifique importante, ni source de chaleur
+             importante afin d'éviter tout échauffement anormal de la salle des
+             machines. Si ces critères ne peuvent être remplis, l'on doit obligatoirement
+             opter pour un emplacement séparé et isolé de la salle des machines par
+             rapport au bâtiment.
+
+   6.1.10. La salle des machines Les murs séparant la salle des machines des
+           locaux attenants doivent être dépourvus d'ouvertures permettant le
+           passage involontaire d'ammoniac vers d'autres parties du bâtiment. A cet
+           effet, toutes les traversées de conduites, de gaines, de câbles et de
+           tuyauteries à travers les murs, plafonds et planchers de la salle des
+           machines doivent être hermétiquement scellées. Les murs, plafonds et
+           planchers eux-mêmes doivent être parfaitement étanches. Les seules
+           ouvertures hormis des portes permises depuis l'extérieur sont celles qui
+           assurent l'amenée et le rejet de l'air de la salle des machines.
+
+   6.1.11. Aucune cage d'escalier ou d'ascenseur ne peut déboucher dans la salle
+           des machines.
+
+   6.1.12. La salle des machines respectivement le(s) sas doivent disposer de
+           bouches d'aération mécanique, permettant d'évacuer lentement sous
+           contrôle (p. ex. par les pompiers) et peu à peu l'ammoniac vers l'extérieur.
+
+             Les ouvertures de sortie d'air doivent être dirigées vers le haut afin
+             d'obtenir une dilution rapide de l'ammoniac dans l'atmosphère
+             environnante.
+
+   6.1.13 La salle des machines est à équiper d’un système d’absorption. Le système
+           d’absorption doit être dimensionné de façon à pouvoir absorber la totalité
+           de la quantité d’ammoniac utilisé dans la (plus grande) machine. Si le
+           système d’absorption fonctionne à l’eau, elle est à dimensionner au
+           minimum à raison de 10 litres d’eau pour 1 kg d’ammoniac. Si la machine
+           contient plusieurs machines, les systèmes d’absorption sont à
+           dimensionner d’après la machine contenant la plus grande quantité
+           d’ammoniac.
+
+
+
+
+page 8 de 38 pages                                                         ITM-SST 1829.1
+   6.1.14 Toutes les mesures appropriées doivent être prises afin que le produit
+         absorbant contaminé par l'ammoniac soit récupéré dans des récipients
+         appropriés et éliminé de façon sûre.
+
+6.2. Conditions d’installations et d’aménagements spécifiques de la salle des
+machines pour un bâtiment de la catégorie d'occupation A.
+
+6.2.1. L'installation frigorifique ne peut être qu’aménagée dans une salle des
+machines, qui est, soit contigüe au bâtiment, soit située à l'écart et isolée par rapport
+à celui-ci (voir aussi sous 6.1.9 ci-dessus). Si elle est contigüe au bâtiment de la
+catégorie A, elle ne peut y avoir de communication directe entre les deux bâtiments
+(portes, sas, escaliers, ascenseur, etc.), l'entrée vers l'installation devant se faire par
+l'extérieur.
+
+Il est à remarquer que la notion “ contigu ” permet dans ce cas l’aménagement d’une
+salle de machines à l’intérieur d’un bâtiment de la catégorie A sous condition qu’elle
+soit séparée complètement du bâtiment en question et qu’elle soit située vers
+l’extérieur.
+
+Si des situations se présentent qui ne sont pas couvertes par ce paragraphe, les
+propositions pour l’installation des équipements frigorifiques sont à fixer cas par cas
+en commun accord avec l’Inspection du travail et des mines.
+
+Art. 7.-. Dimensions et accessibilité de la salle des machines (pour les
+catégories A et B)
+
+7.1. Les dimensions de la salle des machines doivent permettre l'installation des
+équipements dans de bonnes conditions de travail, laissant au moins un espace libre
+d’un mètre autour de chaque machine pour pouvoir en assurer le montage, le
+service, l'entretien et le dépannage.
+
+7.2. Si nécessaire, des passerelles et des échelles fixes doivent être prévues pour le
+montage, l'exploitation, l'entretien et le contrôle du système afin d'éviter de marcher
+sur les tuyauteries, les raccords, les structures de soutien et leurs composants.
+
+7.3. Une hauteur de dégagement d'au moins 2,20 mètres doit exister à tout lieu de
+passage.
+
+Art.8.-. Systèmes de ventilation de la salle des machines (pour les catégories A
+et B)
+
+8.1. Un système de ventilation doit être installé dans la salle des machines afin
+d'assurer la mise en oeuvre des mesures d'urgence, et le cas échéant, afin d'éviter
+un surchauffement de la machine frigorifique et afin d'assurer la salubrité générale
+des lieux.
+
+8.2. Le système de ventilation de la salle des machines ne doit pas être raccordé à
+d'autres conduites de ventilation du bâtiment et doit servir exclusivement à la
+ventilation du local en question.
+
+
+
+
+page 9 de 38 pages                                                           ITM-SST 1829.1
+8.3. Le passage libre de l'air par les ouvertures de la salle des machines ne doit être
+gêné d'aucune façon; en particulier, les ouvertures de ventilation doivent être
+aménagées de façon à rester dégagées en permanence.
+
+8.4. Les sorties d'air doivent être aménagées de façon à ne causer, ni nuisances, ni
+dangers pour les personnes présentes sur les lieux ou dans le voisinage. Elles
+doivent être installées le plus favorablement possible par rapport aux vents
+dominants et par rapport aux ouvertures (portes, fenêtres, prises d'air de la
+ventilation, etc.) du bâtiment concerné et des bâtiments avoisinants.
+
+8.5. Les sorties d'air ne peuvent être aménagées au-dessus ou en-dessous d'une
+sortie de secours ou d'une voie de dégagement dans un périmètre de 10 mètres.
+
+8.6. Des dispositions doivent être prises afin d'assurer un renouvellement de l'air
+suffisant (voir EN 378-3) par aspiration depuis l’extérieur, ainsi qu’afin d’assurer une
+bonne distribution de cet air dans l'ensemble de la salle des machines et ce sans
+créer de volumes morts.
+
+8.7. L’aspiration de la ventilation de la salle des machines doit se faire en bas et
+l’extraction doit se faire en haut du local.
+
+8.8. En cas de fonctionnement intermittent de la ventilation, celle-ci doit être mise en
+marche au moment où le local est visité par le personnel.
+
+Art.-9. Installations de sécurité et mesures d'urgence (pour les catégories A et
+B)
+
+9.1. Les installations de réfrigération doivent être installées et équipées de façon à
+ne provoquer, ni inconfort, ni danger pour les personnes, le personnel et le public
+présents sur les lieux.
+
+9.2. Toutes les mesures doivent être prévues afin que l'ammoniac ne puisse
+s'échapper, ni dans la salle des machines, ni à l'intérieur, ni à l'extérieur du bâtiment
+abritant la salle des machines et ce même en cas de panne ou d'accident.
+
+9.3. La salle des machines frigorifiques ainsi que son (ses) sas doivent être dotés
+individuellement d'un détecteur d'ammoniac judicieusement installé (p.ex. au-dessus
+de chaque machine de production de froid) pour mesurer en permanence
+l’atmosphère. La réaction du système de détection doit déclencher au central de
+secours local, (local gardien, local de permanence technique, etc.) une alarme sous
+surveillance. Si cette surveillance n'est pas assurée de façon permanente, l'alarme
+doit automatiquement être transmise par un moyen de communication fiable prévu à
+cette fin, à une personne assurant un service de permanence.
+
+9.4. L'alarme ou sa transmission sont à afficher sur un tableau synoptique installé au
+central de secours du bâtiment (tableau de commande pour pompiers).
+
+
+
+
+page 10 de 38 pages                                                        ITM-SST 1829.1
+9.5. La détection d'ammoniac :
+
+   9.5.1. Les installations doivent être dotées de détecteurs 50 ppm et 200 ppm dans
+          la salle des machines et de détecteurs 200 ppm dans le sas.
+
+   9.5.2. Les détecteurs d’ammoniac doivent commander les mesures d’urgence tels
+          que prévues à l’article 10 ci-après.
+
+   9.5.3. Tout fonctionnement anormal du détecteur d'ammoniac doit déclencher une
+          alarme sous surveillance (système à sécurité positive).
+
+9.6. Seuils d’alarme :
+   9.6.1. Seuil d’alarme bas :
+          En cas de dépassement d’une concentration d’ammoniac de 50 ppm dans
+          l’atmosphère dans la salle des machines, une alarme doit être déclenchée.
+
+           Le déclenchement de cette alarme doit donner lieu à une inspection de
+           l'installation par un homme de l'art, afin de remédier aux causes de fuite
+           d’ammoniac.
+
+   9.6.2. Seuil d’alarme haut :
+          En cas de dépassement d’une concentration d’ammoniac de 200 ppm dans
+          l’atmosphère de la salle des machines respectivement dans le (les) sas.
+
+           Le déclenchement de cette alarme doit entraîner les mesures d’urgences
+           telles que décrites à l’article 10. A cet effet toute machine frigorifique doit
+           être équipée d'un interrupteur de sécurité asservi à la réaction du détecteur
+           d'ammoniac placé à l'intérieur de la salle des machines.
+
+9.7. Un bac de rétention, adapté à la quantité d'ammoniac et d'huile engagée, doit
+être monté sous la machine.
+
+9.8. Si la teneur en ammoniac dans un fluide caloporteur dépasse 200 ppm,
+respectivement si la valeur pH dépasse une valeur équivalente, une alarme doit être
+déclenchée en un endroit approprié, la machine et les circulateurs du fluide
+caloporteur doivent être mis à l’arrêt, une éventuelle vanne trois voies devant se
+fermer.
+
+Art. 10.-. Mesures d'urgence.
+
+10.1 Généralités
+
+   10.1.1. Les mesures d'urgence reprises ci-après, ont pour but d'empêcher
+           l'échappement de l'ammoniac hors de la salle des machines lorsqu’il aurait
+           pu s’y introduire, suite à une erreur humaine ou suite à une défaillance ou
+           à un fonctionnement anormal d'un des dispositifs de sécurité destinés à le
+           retenir à l'intérieur de la salle des machines.
+
+
+
+
+page 11 de 38 pages                                                         ITM-SST 1829.1
+             L'objectif des mesures d'urgence est de prévenir tout accident possible,
+             d'éviter les risques dus à l'ammoniac (toxicité, panique, etc.) et d'assurer
+             ainsi la protection des personnes présentes dans le bâtiment ou dans les
+             bâtiments avoisinants.
+
+   10.1.2. Les équipements respectivement arrêts d'urgence, doivent pouvoir être
+           actionnés depuis l'intérieur du (des) sas et installés à distance [p.ex. à
+           partir du centre local de secours (tableau de commande pour pompiers), à
+           proximité de la salle des machines].
+
+   10.1.5. En cas d'équipements commandés par informatique (ordinateurs,
+           microprocesseurs,…), l'accès au(x) logiciel(s) pour pouvoir ajuster les
+           paramètres auxquels sont asservis le fonctionnement de l'alarme et des
+           dispositifs d'urgence, doit être limité à des personnes compétentes
+           désignées nominativement par le propriétaire ou l'exploitant de
+           l'installation.
+
+10.2 Mise en œuvre des mesures d’urgence applicables pour les bâtiments des
+     catégories d'occupation A et B
+
+   10.2.1. Mesures d’urgence à mettre en œuvre suite au dépassement du seuil haut
+           à l’intérieur de la salle des machines :
+
+             a) arrêt du compresseur de la machine frigorifique;
+             b) mise en action des dispositifs de fermeture appropriés dans les circuits,
+                afin de limiter quantitativement la fuite d'ammoniac; (afin d’isoler p. ex.
+                le compresseur, le ballon, etc.) ;
+             c) arrêt de la ventilation de la salle des machines avec fermeture
+                automatique de toutes les ouvertures à l'exception des bouches
+                d'admission d'air éventuellement nécessaires à la ventilation d'urgence;
+             d) mise en action de la ventilation d'urgence reliée à un système
+                d'absorption de l'ammoniac propre à la salle des machines ;
+                Seule la ventilation interne de la salle des machines en circuit fermé,
+                assurant le recyclage de l'air après passage à travers le bac
+                d'absorption est autorisée;
+             e) arrêt des autres systèmes de ventilation du bâtiment ;
+             f) actionnement d’une alerte visuelle et sonore à l’extérieur du (des) sas
+                concerné(s).
+                Si l’accès à la salle des machines est possible depuis l’extérieur du
+                bâtiment sans passer par un sas, l’alerte visuelle doit se faire à cette
+                entrée.
+
+
+
+
+page 12 de 38 pages                                                          ITM-SST 1829.1
+   10.2.2. Mesures d’urgence à mettre en œuvre suite au dépassement du seuil haut
+           à l’intérieur du sas :
+             a) arrêt de la ventilation du sas concerné avec fermeture automatique de
+                toutes les ouvertures à l'exception des bouches d'admission d'air
+                éventuellement nécessaires à la ventilation d'urgence;
+             b) actionnement d’une alerte visuelle et sonore à l’extérieur du sas
+               concerné.
+
+   10.2.3. L'Inspection du travail et des mines peut, suivant la disposition des lieux de
+           la catégorie d'occupation A ou B, demander à l'exploitant de prévoir des
+           mesures supplémentaires.
+
+10.3. Mise en oeuvre des mesures d’urgence supplémentaires applicables
+      pour les bâtiments de la catégorie d'occupation A
+
+   10.3.1 Au cas où le seuil de la concentration d’ammoniac dépasse les 200 ppm
+   dans un sas, la ventilation d'urgence du sas concerné reliée au système
+   d'absorption de l'ammoniac propre au sas doit être mise en action.
+   Seule la ventilation interne de chaque sas en circuit fermé, assurant le recyclage
+   de l'air après passage à travers le bac d'absorption est autorisée.
+
+Art.11.-. Dispositifs de surveillance et de protection des installations
+
+11.1. Ces dispositifs sont destinés à surveiller les paramètres vitaux (pression.
+température, niveau de fluide, etc.) de l'installation frigorifique afin d'assurer son
+fonctionnement sûr.
+
+11.2. Dans les systèmes de réfrigération, la pression ne doit pas dépasser la
+pression maximale de service dans chacun des composants du système.
+
+11.3. Chaque système de réfrigération doit être protégé à cet effet des surpressions
+moyennant l'installation de dispositifs de protection tel que des dispositifs limiteurs de
+pression (Druckbegrenzungseinrichtungen), des dispositifs d’évacuation de la
+surpression (Abblasende Sicherheitseinrichtungen) ou par d'autres moyens conçus
+pour évacuer les surpressions.
+
+11.4. Chaque fois que des dispositifs de sécurité sont utilisés pour limiter les
+surpressions pendant le fonctionnement, un dispositif limiteur de pression doit être
+utilisé afin d’arrêter l'élément générateur de pression avant que tout dispositif de
+surpression ne fonctionne.
+
+11.5. Afin d'éviter les surpressions il convient d'utiliser si possible des soupapes de
+sûreté débitant vers le côté basse pression du système, plutôt que des soupapes
+débitant vers l'extérieur.
+
+
+
+
+page 13 de 38 pages                                                         ITM-SST 1829.1
+11.6. Lorsqu'une soupape de sûreté débitant vers l'extérieur doit être installée,
+l'évacuation de cette soupape doit se faire directement dans un système d'absorption
+(pour les caractéristiques du système d’absorption, il y a lieu de se référer au
+paragraphe 6.1.13 ci-dessus).
+
+11.7. L'installation d'un dispositif ne servant qu'une seule fois (du type disque de
+rupture ou bouchon fusible) est interdite.
+
+11.8. Chaque incident doit être signalé de façon appropriée sur la machine. Au cas
+où la machine frigorifique n'est pas sous surveillance constante d'un personnel
+technique, l'interruption automatique doit déclencher une alarme sous surveillance.
+
+11.9. Le redémarrage de l'installation subséquent à l'arrêt précité, ne peut se faire
+automatiquement même si la pression est revenue à sa valeur normale.
+
+La remise en marche ne doit être effectuée que par un personnel qualifié et après
+que tous les contrôles et mises au point nécessaires aient été effectués. En aucun
+cas la remise en marche ne peut s'effectuer à distance.
+
+11.10. Toute panne d'alimentation électrique du dispositif limiteur de pression ou de
+l'ordinateur (en cas d'équipements commandés par ordinateur) surveillant la pression
+dans les circuits principaux du système, doit arrêter le compresseur.
+
+11.11. Les dispositifs limiteurs de pression doivent être montés de telle manière que
+les ajustements ne puissent être faits qu'à l'aide d'un outillage spécial.
+
+11.12. Les dispositifs indicateurs et de surveillance doivent être fabriqués en
+matériaux compatibles avec l'ammoniac. Ils doivent être conçus et installés de façon
+à rester étanches et à supporter les pressions et températures qui peuvent se
+produire pendant le fonctionnement.
+
+Art. 12. - Installations électriques / alimentation de sécurité
+
+12.1. Généralité.
+
+   12.1.1. L'installation de l’alimentation électrique du système frigorifique doit être
+           réalisée de façon à pouvoir être coupée indépendamment de l'alimentation
+           électrique d'autres équipements et en particulier, de tout système
+           d'éclairage, de ventilation, d'alarme et d'autres dispositifs de sécurité.
+
+   12.1.2. Hormis la conception de la machine frigorifique avec son armoire
+           électrique, la conception, la construction, l'installation, les essais et
+           l'utilisation des équipements électriques de la salle des machines doivent
+           se faire conformément aux normes, prescriptions et directives de sécurité
+           et aux règles de l'art et de sécurité normalement applicables au Grand-
+           Duché de Luxembourg, à savoir:
+
+                -     les prescriptions allemandes afférentes DIN/VDE,
+
+
+
+
+page 14 de 38 pages                                                       ITM-SST 1829.1
+                -     les normes européennes appropriées, pour autant qu'elles existent
+                      et à fur et à mesures que celles-ci paraissent et remplacent les
+                      prescriptions DIN/VDE précitées,
+                -     le règlement ministériel du 8 août 1989 concernant les prescriptions
+                      de raccordement aux réseaux de distribution de l'énergie électrique
+                      à basse tension au Grand-Duché de Luxembourg.
+
+             Les installations électriques dont l’objet est la          sécurité   doivent
+             correspondre à la norme DIN VDE 0100 partie 560.
+
+             Pour des groupes électrogènes la prescription ITM CL 52 est à respecter.
+
+   12.1.3. Lorsque de l'humidité due à la condensation peut entrer en contact avec
+           l'équipement électrique, ces équipements doivent être adaptés pour le
+           service en milieu humide.
+
+   12.1.4. Des précautions spéciales doivent être prises pour éviter tout suintement
+           d'eau sur les tableaux électriques et sur tout autre équipement électrique.
+
+12.2. Conception de l’installation électrique.
+
+   12.2.1 Conformément à l’article 4 du règlement grand-ducal du 21 mars 2005
+          concernant les prescriptions minimales visant à améliorer la protection en
+          matière de sécurité et de santé des travailleurs susceptibles d’être
+          exposés au risque d’atmosphères explosibles, il y lieu d’évaluer les
+          risques spécifiques créés par des atmosphères explosives éventuelles
+          générées par la machine frigorifique installée dans une salle de machines
+          close.
+
+             Sur base de cette évaluation, il y a lieu de concevoir respectivement de
+             choisir les installations électriques conformément au règlement grand-
+             ducal du 20 avril 1995 concernant les appareils et les systèmes de
+             protection destinés à être utilisés en atmosphère explosible. Les
+             dispositions du manuel d’installation et d’utilisation du fabricant de la
+             machine frigorifique sont à prendre en compte.
+
+   12.2.2. L’alimentation de toutes les installations électriques figurant dans les
+           locaux où sont montés les équipements de production de froid, doit être
+           réalisée en tenant compte du résultat de cette évaluation.
+
+12.3. Alimentation de sécurité.
+
+    Les installations de sécurité vitales des installations de production de froid se
+    trouvant dans des immeubles disposant d’un groupe électrogène doivent être
+    raccordées à ce groupe électrogène.
+
+    Les installations de sécurité vitales des installations de production de froid se
+    trouvant dans des immeubles ne disposant pas d’un groupe électrogène sont à
+    raccorder directement à l’armoire de distribution électrique principale (TGBT) du
+    bâtiment, soit par du câble résistant au feu d’au moins 60 minutes, soit par du
+    câble normal posé dans une gaine compartimentée d’au moins 60 minutes (EI
+
+
+page 15 de 38 pages                                                          ITM-SST 1829.1
+    60). Cette gaine ne peut toutefois pas contenir d’autres câbles électriques ou des
+    conduites transportant des produits dangereux.
+
+    Les systèmes de détection et d’alarmes sont à sécuriser dans tous les cas par
+    des batteries donnant :
+
+    -   une garantie de fonctionnement d’au moins d’une heure pour :
+
+            •   les dispositifs de fermeture appropriés dans les circuits servant à limiter
+                la fuite d’ammoniac, si les dispositifs ne sont pas du type de sécurité
+                positive. Ceci est également à appliquer pour les clapets de ventilations
+                servant à rendre étanche la salle des machines.
+            •   l’éclairage de sécurité dans tous le cas de figures.
+
+    -   une garantie de fonctionnement d’au moins de 12 heures pour :
+
+            •   les systèmes de détection et d’alarmes.
+
+Art. 13 -. Eclairage
+
+13.1. Eclairage normal.
+
+   13.1.1. Les installations d'éclairage permanentes sont à prévoir dans les espaces
+           où sont installées les machines de réfrigération de façon à assurer un
+           éclairage suffisant pour l’exploitation et l’entretien de ces machines (300
+           Lux).
+
+13.2. Eclairage de sécurité des lieux de travail à danger particulier.
+
+   13.2.1. L'éclairage de sécurité des lieux de travail à danger particulier doit
+           permettre d'actionner en cas de panne de secteur les dispositifs de
+           sécurité de l'installation rendant possible l'arrêt des machines tournantes.
+           L’intensité ne peut pas être inférieure à 15 Lux (mesurée à 20 cm du sol),
+           au niveau des voies de circulation autour de la machine frigorifique.
+           L’autonomie de cet éclairage doit correspondre à l’exigence énoncée ci-
+           dessus sans pouvoir être inférieure à 15 minutes.
+
+   13.2.2. L'éclairage de sécurité des lieux de travail à danger particulier doit
+           s'allumer au plus tard 0,5 seconde après l'extinction de l'éclairage normal.
+
+13.3. Eclairage de sécurité servant à l’évacuation de personnes.
+
+   13.3.1. Un éclairage de sécurité d'une intensité lumineuse de 1 Lux à 20 cm du sol
+           doit être installé au-dessus de chaque porte de la salle des machines,
+           utilisée comme issue de secours.
+
+   13.3.2. Cet éclairage doit être visible depuis chaque endroit de la salle et doit être
+           complété par une signalisation normalisée.
+
+   13.3.3. L'éclairage de sécurité doit avoir une autonomie de fonctionnement d'au
+           moins 60 minutes.
+
+
+
+page 16 de 38 pages                                                          ITM-SST 1829.1
+Art. 14. – Appareils sous pression
+
+14.1. Conformité des appareils sous pression.
+
+Les appareils sous pression fixes et neufs, leurs tuyauteries, accessoires de sécurité
+et accessoires sous pression doivent satisfaire au règlement grand-ducal du 21
+janvier 2000 concernant les équipements sous pression transposant en droit
+luxembourgeois la directive 97/23/CE.
+
+14.2 Circuits frigorifiques
+
+   14.3.1. Tous les éléments du circuit frigorifique doivent être conçus, fabriqués et
+           installés de façon à rester étanches et à supporter les vibrations, les
+           pressions et les températures qui peuvent se produire pendant le
+           fonctionnement, l'immobilisation et le transport, en tenant compte des
+           contraintes thermiques, physiques et chimiques probables.
+
+   14.3.2. Les matériaux utilisés, l'épaisseur des parois ainsi que la résistance à la
+           corrosion doivent être compatibles avec l'ammoniac et répondre aux
+           pressions et autres contraintes qui peuvent être escomptées.
+
+14.3. Tuyauteries
+
+   14.4.1. Les tuyauteries des systèmes de réfrigération doivent être conçues et
+           installées de façon que les coups de bélier (choc hydraulique) ne puissent
+           endommager le système.
+
+   14.4.2. Le dégagement autour de la tuyauterie doit être suffisant pour permettre
+           l'entretien régulier des composants, la vérification des joints et la
+           réparation de fuites éventuelles. Tous les joints démontables doivent être
+           facilement accessibles pour inspection.
+
+   14.4.3. Les tuyaux et les composants en acier doivent être protégés contre la
+           corrosion, en particulier avant la pose d'une isolation.
+
+   14.4.4. Les tuyauteries doivent être protégées contre la chaleur (séparation des
+           tuyaux chauds et des sources de chaleur).
+
+   14.4.5. Les longueurs des tuyaux doivent être les plus courtes possibles.
+
+   14.4.6. Les tuyauteries de connexion pour les dispositifs de mesure, de
+           commande et de sécurité doivent être réalisés de façon à réduire les
+           effets néfastes dus à la corrosion et aux vibrations.
+
+14.5. Conduites de vidange et d'évacuation
+
+   14.5.1. Les dispositifs d'arrêt des conduites de vidange d'huile et d'échappement
+           qui ne doivent pas être actionnés en cas de fonctionnement normal du
+           système, doivent être protégés contre toute manœuvre délibérée par du
+           personnel non qualifié.
+
+
+
+
+page 17 de 38 pages                                                      ITM-SST 1829.1
+   14.5.2. Dans les conduites de vidange d'huile doit être installé un robinet d'arrêt
+           avec tige horizontale en amont du robinet à fermeture rapide ou un robinet
+           combinant ces deux fonctions.
+
+   14.5.3. Les systèmes de réfrigération doivent comporter les dispositifs d'arrêt et de
+           connexion nécessaires afin de permettre au compresseur ou à un
+           dispositif d'évacuation externe de transférer l'ammoniac ou l'huile de
+           chaque section séparée du système vers les réservoirs de liquides
+           internes.
+
+   14.5.4. Les conduites de vidange doivent être munies de robinets afin de pouvoir
+           vidanger facilement l'ammoniac ou l'huile du système et de récupérer le
+           fluide dans des récipients sans qu'il y ait émission d'ammoniac dans
+           l'atmosphère environnante.
+
+14.6. Robinetterie
+
+   14.6.1. En dehors des robinets d'isolement actionnés en cas d'urgence, les
+           systèmes de réfrigération doivent être munis d'un nombre suffisant de
+           robinets d'isolement afin de minimiser le danger de perte d'ammoniac,
+           notamment durant les opérations de maintenance et de réparation.
+
+   14.6.2. Des robinets à fermeture rapide doivent être installés sur tous les
+           composants du système où il y a un risque d'échappement soudain
+           d'ammoniac susceptible de mettre en danger le personnel.
+
+Art. 15. - Aéroréfrigérant
+
+15.1. Le condenseur doit être refroidi par un système indirect de refroidissement,
+fonctionnant en circuit avec un mélange d'eau et de glycol (éventuellement) comme
+fluide caloporteur.
+
+15.2. Le circuit caloporteur doit être surveillé en permanence par un détecteur
+d'ammoniac. Si la teneur en ammoniac dans le fluide caloporteur dépasse 200 ppm,
+respectivement si la valeur pH dépasse une valeur équivalente, une alarme doit être
+déclenchée en un endroit approprié et la machine ainsi que les circulateurs du fluide
+caloporteur doivent être mis à l’arrêt ; une éventuelle vanne à trois voies devant se
+fermer.
+
+15.3. Pour des raisons d'hygiène, les aéroréfrigérants du type sec sont à préférer à
+ceux du type humide.
+
+Si toutefois pour des raisons d'efficacité de fonctionnement des aéroréfrigérants
+humides doivent être installés, il faut veiller à ce que les rejets d'air ne puissent
+s'introduire de quelque façon que ce soit dans des locaux habités ou occupés
+normalement (voir aussi l’article 24 ci-après).
+
+15.4. Les aéroréfrigérants placés à l'extérieur doivent être conçus de façon à résister
+aux intempéries. Leur bon fonctionnement ne doit pas être entravé par les influences
+atmosphériques.
+
+
+
+page 18 de 38 pages                                                       ITM-SST 1829.1
+15.5. Ils doivent être protégés des manipulations par des personnes non autorisées.
+
+Art. 16. - Signalisation de sécurité
+
+16.1. La signalisation de sécurité doit être effectuée au moyen des symboles
+normalisés tels que ceux prévus par le règlement grand-ducal du 28 mars 1995
+concernant la signalisation de sécurité ou, à défaut de pictogrammes normalisés, elle
+doit être affichée en au moins deux langues (français et allemand). Elle doit être
+apposée de façon durable et bien visible aux endroits appropriés de sorte que le
+personnel, même étranger aux lieux puisse s'orienter rapidement
+
+Les panneaux doivent être constitués d'un matériel résistant aux chocs, aux
+intempéries et aux agressions dues au milieu ambiant.
+
+Il y a lieu d'utiliser, en cas de mauvaises conditions d'éclairage naturel, des couleurs
+fluorescentes, des matériaux réfléchissants ou un éclairage artificiel.
+
+16.2. La signalisation doit couvrir:
+
+    -   les voies d'évacuation d'urgence;
+    -   les équipements d'urgence tels que: interrupteurs d'urgence, commandes
+        manuelles déclenchant les mesures d'urgence, postes d'alertes, boutons
+        poussoirs d'alarme;
+    -   la localisation des équipements de sécurité;
+    -   les consignes d'utilisation des équipements de sécurité;
+    -   la signalisation des extincteurs portatifs d'incendie, des robinets d'incendie et
+        de tous les autres moyens et équipements de secours et d'intervention;
+    -   la localisation des équipements de protection individuelle;
+    -   la signalisation des substances dangereuses (ammoniac, symboles et
+        indication de dangers, risques particuliers);
+    -   les consignes de comportement en cas d'urgence;
+    -   les gestes de premier secours en cas d'accident avec l'ammoniac (mesures
+        d'urgences, interdictions à respecter);
+    -   les consignes d'emploi de l'installation frigorifique;
+    -   l'interdiction de fumer et d'apporter un feu nu;
+    -   les informations à l'intention des secouristes et médecins;
+    -   une pancarte "ammoniac" à l'entrée de la salle des machines.
+
+Art. 17. - Marquages techniques
+
+17.1. Le marquage technique comporte:
+
+    -   l'identification posée à l'extérieur des portes d'accès de la salle des machines
+        de l'installation frigorifique;
+    -   une plaque signalétique clairement lisible, placée à proximité ou sur la (les)
+        machine(s);
+
+17.2. Le marquage technique doit permettre en outre l'identification:
+
+    -   de chaque système et de ses principaux composants;
+
+
+
+page 19 de 38 pages                                                        ITM-SST 1829.1
+    -   des principaux dispositifs de commandes et de réglage;
+    -   des principaux dispositifs d'arrêt et de sécurité des interrupteurs d'urgence
+        installés sur la machine;
+    -   des dispositifs de protection et de surveillance qui ne peuvent être actionnés
+        que par du personnel autorisé;
+    -   de la tuyauterie contenant l'ammoniac;
+    -   de la tuyauterie d'échappement des soupapes de sécurité.
+
+Le marquage des tuyauteries doit être effectué suivant les prescriptions de la norme
+DIN 2403 tout en portant les indications prévues par le règlement grand-ducal du 28
+mars 1995 concernant la signalisation de sécurité.
+
+Art. 18. - Protection et moyens de lutte conte l'incendie
+
+18.1. Les matériaux utilisés pour la confection, le revêtement et l'isolation technique
+ou acoustique des sols, murs et plafonds de la salle des machines, de l'enceinte et
+de la tuyauterie doivent être incombustibles.
+
+18.2. A l'intérieur de la salle il est interdit:
+
+    -   de stocker des matières premières combustibles ou des produits facilement
+        inflammables;
+    -   de fumer ou d'utiliser du feu nu (les surfaces chaudes dont la température
+        dépasse 300° sont assimilées au feu nu);
+    -   d'installer un appareil à flamme nue;
+    -   de stocker des bouteilles d'ammoniac (vides ou pleines).
+
+18.3. L'exploitant doit tenir en réserve un stock de produits pour l'absorption d'huile,
+afin de pouvoir intervenir rapidement en cas de fuite.
+
+18.4. En général, il ne doit pas y avoir de sources d'ignition dans la salle.
+
+18.5. Le matériel de secours et de combat contre l'incendie, maintenu en bon état de
+fonctionnement et aisément accessible, doit pouvoir être mis en service
+immédiatement.
+
+18.6. Des extincteurs portables sont à placer en des endroits judicieusement choisis,
+à une hauteur permettant de les manipuler facilement.
+
+Ils doivent être disponibles en nombre adéquat dans chaque salle des machines, en
+fonction de la taille de l'installation et de leur compatibilité avec l'ammoniac et les
+matériaux d'isolation utilisés.
+
+
+
+
+page 20 de 38 pages                                                         ITM-SST 1829.1
+18.7. Dans le cas où des opérations d'entretien, comportant l'emploi de chalumeaux,
+lampes à souder, appareils à meuler etc., doivent être effectuées, un permis de feu
+doit être établi après une coordination de sécurité effectuée par une personne
+responsable de l'entreprise effectuant les travaux.
+
+Les travaux ne peuvent être entrepris que si toutes les précautions ont été prises.
+
+Il faut, en particulier, procéder:
+
+     -   à l'enlèvement des restes d'huiles;
+     -   au rinçage au gaz inerte afin d'enlever les restes de gaz ammoniac;
+     -   au soudage sous gaz inerte.
+
+18.8. Ces travaux ne peuvent être effectués que par du personnel possédant les
+qualifications requises.
+
+Art. 19.- Equipements de protection individuelle et de premiers secours
+
+19.1. Equipements de protection individuelle
+
+   19.1.1. Tout installateur de machines frigorifiques est tenu de mettre à la
+           disposition de chacun des salariés employés aux travaux de maintenance
+           sur le circuit frigorifique les équipements de protection individuelle
+           suivants:
+
+             - un écran facial ou une paire de lunettes de protection résistants aux
+               agressions chimiques de l'ammoniac ;
+             - des gants protecteurs résistants aux agressions chimiques de
+               l'ammoniac ;
+             - une paire de bottes de sécurité résistantes aux agressions chimiques
+               de l'ammoniac ;
+             - une combinaison résistante aux agressions chimiques de l'ammoniac ;
+             - un masque complet filtrant anti gaz (ammoniac) ;
+             - deux cartouches filtrantes de rechange ;
+             - un appareil respiratoire autonome de secours.
+
+   19.1.2. L'équipement de protection doit être compatible avec l'ammoniac et les
+           basses températures et doit avoir de bonnes propriétés isolantes.
+
+   19.1.3. Les équipements de protection doivent être adaptés à la personne qui est
+           censée l'employer. Ils doivent convenir au porteur, après tout ajustement
+           nécessaire.
+
+   19.1.4. Le personnel doit être parfaitement et régulièrement instruit et entraîné à
+           l'utilisation des équipements de protection. Le port des masques à gaz et
+           plus particulièrement la pose et dépose de l'appareil respiratoire autonome
+           doivent faire l'objet d'exercices répétés périodiquement.
+
+
+
+
+page 21 de 38 pages                                                      ITM-SST 1829.1
+   19.1.5. Tout salarié susceptible d'utiliser un équipement de protection respiratoire
+           doit être soumis à des visites médicales périodiques effectuées par un
+           médecin du travail, suivant les dispositions réglementaires applicables en
+           la matière.
+
+   19.1.6. L'équipement de protection doit être fourni gratuitement par l'employeur. Il
+           doit être soigneusement rangé et doit être disponible à tout moment et
+           ceci dans un état impeccable.
+
+             Il incombe à l'employeur d'en assurer le bon fonctionnement et l'état
+             hygiénique satisfaisant par les entretiens, réparations et remplacements
+             nécessaires.
+
+             Les équipements manquants sont à remplacer immédiatement et ceux qui
+             ont été souillés sont à nettoyer à la suite de chaque intervention.
+
+             Un équipement de protection individuelle est en principe destiné à un
+             usage personnel. Si toutefois les équipements de protection sont
+             susceptibles d'être utilisés par plusieurs personnes, des mesures
+             appropriées doivent être prises pour qu'une telle utilisation ne pose aucun
+             problème de santé ou d'hygiène aux différents utilisateurs.
+             En particulier les masques des équipements de protection respiratoire
+             doivent, dans ce cas là, être désinfectés après chaque utilisation.
+
+   19.1.7. Sans préjudice des obligations mentionnées précédemment et concernant
+           l'installateur de machines frigorifiques, l'exploitant du système frigorifique
+           est obligé de tenir à la disposition du personnel (d'entretien ou de
+           surveillance) au moins deux masques anti gaz et deux cartouches
+           filtrantes de rechange.
+
+             Les équipements de protection individuelle doivent être rangés
+             soigneusement à l'abri des agressions du milieu ambiant et de façon à
+             être immédiatement accessibles.
+
+             Ils doivent se trouver à l'extérieur de la salle des machines mais à
+             proximité de son entrée, de préférence à l'intérieur d’un sas, s'il en existe
+             un.
+
+             Ces équipements doivent être vérifiés et entretenus régulièrement. Ils
+             doivent aussi être contrôlés et nettoyés après chaque utilisation. Si des
+             défauts ou des manques sont notés, l'équipement doit être remplacé sans
+             faute.
+
+   19.1.8. Dans tous les cas, l'équipement de protection doit être entretenu selon les
+           instructions du fabricant et être vérifié périodiquement, même s'il n'a pas
+           été utilisé.
+           En particulier, les cartouches filtrantes doivent être remplacées à la date
+           limite d'utilisation indiquée par le fabricant.
+
+
+
+
+page 22 de 38 pages                                                         ITM-SST 1829.1
+19.2. Premiers secours
+
+   19.2.1. Sont à tenir à disposition du personnel, en nombre suffisant et placées en
+           des endroits judicieusement choisis à l’extérieur de la salle des machines,
+           des trousses de premiers secours contenant le matériel nécessaire pour
+           donner les premiers soins en cas d'accidents pouvant survenir sur le site
+           (notamment brûlures dues au froid, brûlures dues à l’ammoniac, etc.)
+
+             Ces trousses doivent faire l'objet d'une signalisation appropriée et doivent
+             être facilement accessibles.
+
+   19.2.2. Un ensemble - douche d'urgence et douche oculaire à - commande
+           distincte doit être installé près ou de préférence au-dessus de la porte de
+           sortie, à l'extérieur de la salle des machines, de préférence dans un le(s)
+           sas, s'il en existe un.
+
+             Les tuyaux d'amenée d'eau à ces douches doivent être installés de façon
+             à les protéger du gel.
+
+             Cet équipement doit faire l'objet d'une signalisation appropriée et ne doit
+             pas se trouver encombré.
+
+   19.2.3. Un local sanitaire comprenant au moins un lavabo et permettant au
+           personnel de mettre et d'enlever leur équipement de protection en
+           particulier leur combinaison de protection et l'appareil respiratoire
+           autonome doit se trouver à proximité de la salle des machines.
+
+   19.2.4. Le(s) sas sont à équiper d’un appareil téléphonique ou de tout autre
+           moyen de communication permettant d'appeler rapidement des secours
+           en cas d'accident ou d’incident quelconque.
+
+             Il faut prévoir, le cas échéant, la mémorisation, sur le poste ou sur une
+             liste affichée à proximité, des numéros utiles d'appel au secours.
+
+   19.2.5. Une fiche contenant au moins les informations suivantes :
+
+              •   les consignes de comportement et de premiers soins à porter à une
+                  personne en cas d'accident avec l'ammoniac,
+              •   les symboles et indications de dangers,
+              •   les risques particuliers et conseils de prudence relatifs à l'ammoniac
+                  et
+              •   les informations à l'intention des secouristes et médecins
+
+             doit être affichée de façon durable et bien visible à l’extérieur de la salle
+             des machines respectivement à l’extérieur du sas.
+
+
+
+
+page 23 de 38 pages                                                         ITM-SST 1829.1
+   19.2.7. Une procédure concernant les mesures d'urgence et de premiers secours
+           doit être établie et revue régulièrement par l'installateur respectivement
+           l’exploitant du (des) système(s) frigorifique(s).
+
+             Ces consignes doivent faire l'objet d'une formation adéquate et répétée
+             périodiquement que l'installateur respectivement l’exploitant est tenu de
+             dispenser aux salariés susceptibles d'intervenir sur les systèmes
+             frigorifiques. Cette formation doit être complétée, le cas échéant, par des
+             exercices de mise en pratique de ces mesures.
+
+19.3. Avant d'entamer une quelconque opération d'entretien ou de maintenance, le
+personnel doit vérifier s'il dispose de tous les équipements de protection nécessaires
+et s'ils sont opérationnels et sans défauts.
+
+Sur le lieu d'intervention, il faut s'assurer de la présence et du fonctionnement correct
+des équipements de premiers secours et de l'équipement de sécurité assurant la
+mise en oeuvre des mesures d'urgence.
+
+Il y a lieu de vérifier également si l'alimentation en eau est assurée (douche, lavabo).
+
+Art. 20.- Contrôle préalable et contrôles périodiques
+
+20.1. Contrôle préalable :
+
+Un organisme de contrôle doit être chargé d’un examen préalable des documents
+relatifs à l’installation (évaluation des risques, plans d’aménagement des locaux,
+dossiers techniques des machines, plans d’installation et documents techniques en
+rapport aux installations de sécurité) avant le passage d’un contrat avec un
+fournisseur ou installateur.
+
+L’organisme de contrôle doit dresser un rapport de l’examen préalable.
+
+20.2. Premier contrôle périodique :
+
+   20.2.1 Un premier contrôle périodique doit être effectué par un organisme de
+          contrôle agréé pour contrôler des appareils sous pression avant toute
+          mise en service, après une réinstallation sur un autre site, après un arrêt
+          de plus de deux ans de l’installation de production de froid, après chaque
+          transformation ou chaque extension et après chaque réparation portant
+          sur le circuit contenant le fluide frigorigène et, en général, après chaque
+          opération pouvant avoir une influence sur la sécurité de fonctionnement
+          de l'installation et ce avant sa remise en service.
+
+   20.2.2. Le premier contrôle périodique sur le site d'installation est constitué par :
+
+             - la vérification de la présence de la (des) déclaration(s) de conformité
+               CE ;
+             - la vérification de la présence du (des) marquage(s) CE
+               réglementaire(s) ;
+
+
+
+
+page 24 de 38 pages                                                          ITM-SST 1829.1
+             - la vérification de la présence de la documentation réglementaire.
+             - des essais d'étanchéité effectués à un gaz inerte à une pression
+               maximale de 0,8 fois la pression de timbre (Auslegungsdruck) de la
+               partie basse pression de l’installation,
+             - des essais de fonctionnement des installations de sécurité,
+             - un contrôle de la conformité de l'installation aux prescriptions de
+               l’autorisation d’exploitation;
+             - un contrôle de la conformité de l’aménagement du local machine en ce
+               qui concerne le compartimentage vis à vis d’autres parties d’un
+               établissement en tenant compte de la catégorie de l’immeuble
+               applicable ;
+             - un contrôle de la conformité des équipements de sécurité (détecteurs
+               d'ammoniac, absorbeur, etc.) ;
+             - un contrôle de la conformité des équipements de protection
+               individuelle ;
+             - un contrôle de la conformité des mesures de sécurité servant à
+               l’évacuation des personnes ;
+             - un contrôle de la conformité des chemins de fuite ;
+             - un contrôle de la conformité du fonctionnant des systèmes d’alarmes ;
+             - Les installations électriques ;
+             - Les instructions de service ;
+             - La présence d’un plan relatif à la protection contre les explosions
+               conformément au règlement grand-ducal du 21 mars 2005 concernant
+               les prescriptions minimales visant à améliorer la protection en matière
+               de sécurité et de santé des travailleurs susceptibles d’être exposés au
+               risque d’atmosphères explosives.
+
+   Le rapport du premier contrôle périodique complet est à soumettre pour visa à
+   l'Inspection du travail et des mines.
+   Copie du rapport visé est à verser au registre prévu au paragraphe 26.2 ci-
+   dessous.
+
+
+20.3. Autres contrôles périodiques.
+
+   20.3.1. Sans préjudice du strict respect du calendrier d'entretien courant fixé par le
+           fabricant, les installations de production de froid doivent être soumises à
+           des examens et essais périodiques à effectuer par un organisme de
+           contrôle agréé pour contrôler des appareils sous pression d'après
+           l'échéancier suivant:
+
+      20.3.1.1        Chaque année, une visite de l'installation en service et de ses
+                      accessoires tels que tuyauteries, robinetteries, canalisations,
+                      raccords, etc., en vue de vérifier leur état de conservation
+                      (corrosion), d'entretien et le fonctionnement des installations de
+                      sécurité, dont notamment:
+
+                      • les dispositifs de sécurité, de commande et de mesure (y inclus
+                        leurs paramètres de réglage) ainsi que les systèmes d'alarme de
+                        la machine frigorifique;
+
+
+
+page 25 de 38 pages                                                        ITM-SST 1829.1
+                      • d'éventuels circuits de mise à terre;
+                      • l'éclairage de secours;
+                      • les installations électriques;
+                      • les équipements de secours et d'interventions et les moyens de
+                        protection individuels;
+                      • les installations de sécurité assurant la mise en œuvre des
+                        mesures d'urgences;
+                      • le contrôle du registre de la machine frigorifique (article 26),
+                        comportant également les renseignements sur des remplissages
+                        d’ammoniac additionnels.
+
+      20.3.1.2        Tous les cinq ans, une visite complète de l'installation sans
+                      dégarnissage de l’isolation, comportant en dehors des vérifications
+                      précitées pour le contrôle annuel, un contrôle d'étanchéité de
+                      l’installation en fonctionnement à l’aide d’un détecteur de fuites pour
+                      ammoniac (Schnüffler);
+
+      20.3.1.3. Tous les dix ans une visite complète à l’arrêt, avec dégarnissage de
+                l’isolement suivant les indications de l’organisme de contrôle,
+                comportant en dehors des vérifications précités, des contrôles non
+                destructifs, à déterminer également par l’organisme de contrôle, un
+                essai d’étanchéité de l’installation à l’aide d’un détecteur d’ammoniac
+                (Schnüffler).
+
+20.4 Une réépreuve de résistance quinquennale ou décennale n’est normalement
+         pas requise, mais peut être exigée par l’organisme de contrôle suite à une
+         demande motivée et acceptée par l’ITM, par exemple, si :
+
+             •        des endommagements par corrosion ou d’autres défauts sont
+                      évidents ;
+             •        la réépreuve de résistance est exigée en remplacement d’une autre
+                      vérification ;
+             •        il y lieu de démontrer le bon état après réparation, modification ou
+                      nouvelle installation.
+
+         20.4.1 En principe la réépreuve de résistance est une épreuve hydrostatique.
+
+                  La pression à appliquer lors de la réépreuve hydraulique ne doit pas
+                  être supérieure à la pression PT de l’épreuve de résistance initiale, en
+                  concordance avec les données fournies par le constructeur de
+                  l’installation et avec le certificat d’épreuve initiale.
+
+         20.4.2 Réépreuve de résistance au gaz :
+
+                  L’épreuve hydrostatique peut être remplacée par une épreuve
+                  pneumatique effectuée à la pression PT de l’épreuve de résistance
+                  initiale avec l’accord de l’organisme de contrôle et de l’exploitant.
+
+
+
+
+page 26 de 38 pages                                                            ITM-SST 1829.1
+                  Dans ce cas une analyse des risques préliminaire est à effectuer pour
+                  déterminer les risques résultant de l’épreuve pneumatique afin de
+                  pouvoir déterminer les mesures de sécurité supplémentaires à
+                  prendre pour protéger les personnes pouvant être atteintes.
+
+                  Pour les réépreuves de résistance autres que l’épreuve hydrostatique,
+                  des mesures complémentaires, telles que des contrôles non-
+                  destructifs ou d’autres méthodes d’efficacité équivalente doivent être
+                  mises en œuvre avant ces essais.
+
+                  Un essai pneumatique ne peut seulement être effectué que si une
+                  épreuve de résistance initiale a été effectuée et que si l’ITM a donné
+                  son accord en ce qui concerne les mesures de sécurité prises.
+
+20.5. Essai d’étanchéité :
+
+      Un essai d'étanchéité quinquennal ou décennal effectué au gaz inerte à une
+      pression maximale de 0,8 fois la pression de timbre (Auslegungsdruck) de la
+      partie basse pression de l’installation n’est normalement pas requis, mais peut
+      être exigé par l’organisme de contrôle suite à une demande motivée et
+      acceptée par l’ITM, par exemple, si :
+
+           •    la sécurité de l’inspecteur procédant au contrôle d'étanchéité de
+                l’installation en fonctionnement à l’aide d’un détecteur d’ammoniac n’est
+                pas garantie;
+           •    le contrôle d'étanchéité de l’installation en fonctionnement à l’aide d’un
+                détecteur d’ammoniac n’apporte pas une preuve suffisante de
+                l’étanchéité de l’installation
+
+20.6. Soupapes de sécurité :
+
+           •    Les soupapes de sécurité débitant vers l’extérieur (voir § 11.6
+                ci-dessus) de l’installation doivent être retarées tous les cinq ans ou
+                être échangées contre de nouvelles soupapes.
+           •    Les certificats de tarage respectivement de retarage sont à soumettre à
+                l’organisme de contrôle effectuant le contrôle décennal.
+
+20.7. Il est recommandé que le responsable ou le propriétaire de l'établissement ou
+une personne qu'ils délèguent à cet effet, ainsi qu'un représentant de l'entreprise
+chargée de l'entretien courant de l'installation accompagnent l'inspecteur de
+l'organisme de contrôle lors des contrôles et vérifications.
+
+20.8. Lors de chaque intervention l’organisme de contrôle peut exiger des contrôles
+supplémentaires suite à une demande motivée et acceptée par l’ITM, si l’état de
+l’installation de production de froid exigeant des investigations plus poussées fait
+soupçonner des défauts pouvant mettre en danger des personnes.
+
+20.10. En cas d'une anomalie constatée, le responsable de l'établissement ou le
+propriétaire doivent se conformer aux délais pour réparations et mise en état figurant
+sur les rapports de réception et de vérification de l'organisme de contrôle.
+
+
+
+page 27 de 38 pages                                                         ITM-SST 1829.1
+20.11. Les visites et épreuves périodiques doivent avoir lieu avant l'expiration du
+délai fixé à cette fin par l'organisme lors de la visite précédente, sauf si l'Inspection
+du travail et des mines a accordé une dérogation sur avis obligatoire de l'organisme
+de contrôle.
+
+20.12 Au cas où l’organisme de contrôle constate une situation pouvant présenter
+des dangers pour les personnes, il doit en informer immédiatement l’exploitant par le
+moyen de communication le plus direct et le plus rapide possible, sans préjudice du
+rapport écrit ultérieur, de préférence, en lui faisant contresigner son rapport
+provisoire de contrôle.
+
+20.13 L’inspecteur de l’organisme de contrôle concerné doit dans un pareil cas
+indiquer en plus les mesures à prendre immédiatement et il doit s’assurer qu’il est
+obtempéré et que les risques inacceptables sont éliminés. A défaut, il doit en
+informer sans délai l’ITM.
+
+20.14 Les rapports de contrôle
+
+      20.14.1 Chaque visite de contrôle de l’organisme de contrôle doit se solder par
+              un rapport indiquant :
+                • la conformité de l'installation par rapport aux conditions fixées
+                    dans l’autorisation d’exploitation sur base du dossier technique,
+                • le fonctionnement correct des dispositifs de sécurité de la
+                    machine et des installations de sécurité assurant la mise en
+                    œuvre des mesures d'urgence,
+                • l'état de conservation des composants de l'installation
+                ainsi que
+                • ses constatations concernant l'observation des conditions
+                    d'exploitation.
+
+                Le rapport doit contenir en plus le délai pendant lequel, selon l’avis de
+                l’organisme de contrôle, les différentes installations peuvent encore être
+                exploitées en toute sécurité avant d'être soumises à une nouvelle
+                vérification.
+
+      20.14.2 Le rapport est dressé en deux exemplaires avec une copie. En cas de
+              premier contrôle périodique et contrôle décennal, les rapports sont
+              soumis pour visa à l’ITM, qui fait archivage de la copie.
+              Sans préjudice des obligations de l’organisme de contrôle envers son
+              commettant, la distribution finale des rapports est faite par l’organisme
+              de contrôle comme suit :
+
+                - 1 exemplaire pour l’exploitant ou le propriétaire
+                - 1 exemplaire archivé par l’organisme de contrôle
+
+                Le propriétaire et/ou l’exploitant veillent à ce que le rapport visé, ou au
+                moins une copie du rapport visé, soit versée au registre prévu à l’article
+                26 de la présente prescription.
+
+
+
+
+page 28 de 38 pages                                                          ITM-SST 1829.1
+20.15 Le propriétaire et/ou l’exploitant de l’installation doivent veiller à ce que les
+anomalies éventuelles détectées par l’organisme de contrôle soient levées dans les
+délais indiqués dans les rapports.
+
+20.16 Pour toute remarque figurant dans le rapport de l’organisme de contrôle
+exigeant un recontrôle, les travaux y relatifs sont à faire dans les meilleurs délais et
+l’organisme de contrôle est à avertir pour pouvoir effectuer le recontrôle.
+Si les réparations ou la mise en état n’ont pas pu être effectués dans les délais fixés
+par l’organisme de contrôle, l’appareil est à mettre hors service.
+Avant une remise en service, un nouveau contrôle par l’organisme de contrôle est
+exigé.
+
+Art. 21.- Instructions de service et documents techniques
+
+21.1. Chaque appareil ou ensemble d’appareils, doit être accompagné lors de sa
+mise sur le marché, en tant que de besoin, d’une notice d’instructions destinée à
+l’utilisateur, contenant toutes les informations utiles à la sécurité en ce qui concerne :
+
+    -   le montage de l’ensemble, y compris l’assemblage des différents équipements
+        sous pression,
+    -   la mise en service,
+    -   l’utilisation,
+    -   la maintenance, y compris les contrôles par l’utilisateur.
+
+21.2. La notice d’instructions doit reprendre les informations apposées sur
+l’équipement et doit être accompagnée, le cas échéant, de la documentation
+technique, ainsi que des plans et schémas nécessaires à une bonne compréhension
+de ces instructions.
+
+21.3. Le cas échéant, la notice d’instructions doit également attirer l’attention sur les
+dangers d’utilisation erronée et sur les caractéristiques particulières de la conception.
+
+21.4. Les instructions de service doivent être présentées à l’organisme de contrôle
+procédant au premier contrôle périodique avant mise en service et ensuite être
+versées au registre prévu à l’article 26 ci-après.
+
+21.5. L'installateur respectivement l’exploitant doivent s'assurer que le personnel
+chargé du montage, des réparations et de l'entretien d'un système de réfrigération
+est convenablement instruit en fonction de ses tâches. Seul un personnel compétent
+et qualifié est autorisé à prendre part à ces opérations.
+
+21.6. Il appartient à l'installateur respectivement à l’exploitant d'assurer une formation
+de base et un recyclage périodique approprié et suffisant au personnel de façon à
+confirmer sa compétence dans les tâches qu'il accomplit. En particulier il doit veiller à
+ce que les nouveaux embauchés soient initiés immédiatement à leur tâche, avec le
+concours et sous la conduite d'un collègue expérimenté.
+
+21.7. La formation doit porter sur le mode de fonctionnement, le montage, l'entretien
+et les réparations à effectuer sur le système de réfrigération et les précautions à
+prendre pour éviter les dangers.
+
+
+
+page 29 de 38 pages                                                         ITM-SST 1829.1
+L'instruction doit porter en particulier sur:
+
+        -   la description de la machine et de l'équipement et la localisation et
+            l'utilisation des différents interrupteurs d'urgence;
+        -   la manutention du matériel;
+        -   la mise en route et l'arrêt du système;
+        -   la surveillance et le contrôle quotidien à effectuer et avant tout les gestes à
+            faire et à ne pas faire en cas de fonctionnement normal;
+        -   les causes des défauts et pannes qui peuvent survenir et les mesures à
+            prendre ainsi que l'interprétation des différentes alarmes;
+        -   les précautions à prendre pour empêcher le gel de l'eau dans certains
+            éléments du système;
+        -   les précautions à prendre lors des réparations afin de prévenir un accident
+            ou une explosion;
+        -   la manipulation de l'ammoniac et les risques y inhérents;
+        -   les moyens de protection individuelle mis à disposition du personnel et leur
+            utilisation;
+        -   l'obligation de porter les moyens de protection en cas de travaux effectués
+            sur la partie du système contenant l'ammoniac;
+        -   les mesures d'hygiène et de premier secours;
+        -   le comportement en cas de fonctionnement anormal ou d'urgence, le
+            fonctionnement de l'équipement de sécurité déclenchant les mesures
+            d'urgence et les différents dispositifs d'alarme.
+        -   les risques et dangers inhérents à l'ammoniac;
+        -   les moyens de protection individuelle et leur utilisation;
+        -   les équipements de premiers secours.
+
+21.8. Le personnel doit être entraîné au bon usage de tous les dispositifs de
+protection et de tous les moyens destinés à assurer sa protection et celle d'autrui.
+
+21.9. Le responsable de l'établissement où se trouve l'installation de réfrigération doit
+s'assurer que le personnel de son établissement chargé de l'exploitation et de la
+surveillance de l'installation est convenablement initié à sa tâche.
+
+21.11. Le personnel d'entretien doit être rendu particulièrement attentif aux
+instructions concernant le calendrier des entretiens et contrôles à effectuer.
+
+21.12. En plus le personnel doit être formé sur la façon d'utiliser le manuel
+d'instructions. Un exemplaire de ce manuel doit être placé à proximité de la machine
+frigorifique.
+
+21.13. De même un diagramme du schéma des tuyauteries du système de
+réfrigération montrant les codes des dispositifs d'arrêt et de commande doit être
+affiché à proximité de la machine.
+
+21.14. Seules les personnes ayant subi une instruction adéquate sont dûment
+autorisées à avoir accès à la salle des machines et à assurer la surveillance de
+l'installation.
+
+
+
+
+page 30 de 38 pages                                                          ITM-SST 1829.1
+21.15. Il est primordial de signaler au personnel de l'établissement que sa tâche
+consiste uniquement à assurer une surveillance journalière sur place afin de
+découvrir rapidement toute anomalie.
+
+21.16. En pareil cas, il doit signaler immédiatement tout dérangement et demander
+l'intervention d'une entreprise spécialisée.
+
+En aucun cas le personnel de l’établissement ne peut procéder lui-même à une
+intervention de réparation sur la partie du système contenant le fluide frigorifique.
+
+Art. 22.- Entretien et réparations
+
+22.1 Un contrat d’entretien écrit garantissant la sécurité, doit être conclu entre
+l’exploitant et un installateur, ayant pour but d’effectuer en dehors des réparations les
+contrôles et travaux d’entretiens qui sont nécessaires d’après la présente
+prescription.
+
+22.2. Les installations sont à maintenir continuellement en bon état d'entretien, de
+sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les
+défectuosités et anomalies constatées.
+
+22.3. L'entretien doit garantir un bon état de fonctionnement et de sécurité de
+l'ensemble du système. Il doit s'effectuer suivant les règles de l'art et suivant les
+modes de maintenance et le calendrier d'entretien fourni par le fabricant. Toutefois,
+chaque installation de réfrigération doit faire l'objet d'une maintenance préventive au
+moins une fois par an.
+
+22.4. Les travaux de maintenance et de réparation ne peuvent être confiés qu'à un
+personnel qualifié, compétent et bien initié à sa tâche occupé par une entreprise
+légalement autorisée à exercer le métier d'installateur de systèmes de réfrigération et
+possédant tous les certificats d'aptitudes requis.
+
+22.5. L'installateur ne peut affecter à des travaux de maintenance et de réparation
+sur des systèmes de réfrigération que du personnel présentant les aptitudes
+physiques requises et ne souffrant d'aucun handicap et d'aucune maladie
+susceptible de mettre en danger sa propre santé et celle d'autrui.
+
+22.6. Le personnel chargé d'effectuer les interventions portant sur les installations
+frigorifiques doit être instruit des précautions à prendre pour éviter les dangers et doit
+disposer du matériel et de l'équipement de sécurité nécessaire pour sa propre
+protection et pour l'exécution des travaux.
+
+22.7. Le personnel doit être rendu attentif aux équipements de protection et de
+premiers secours mis à sa disposition par une signalisation adéquate.
+
+22.8. Les interrupteurs d'urgence doivent être identifiés et être installés de façon bien
+visible et facilement accessible. Il en est de même des commandes manuelles
+d'urgence, déclenchant les mesures d'urgence en cas d'incident grave.
+
+22.9. Les salariés doivent prendre connaissance de toutes les consignes de sécurité
+concernant leur travail et doivent s'y conformer.
+
+
+page 31 de 38 pages                                                         ITM-SST 1829.1
+22.10. L'exécution des travaux portant sur la partie du système contenant le fluide
+frigorifique doit être placée sous la surveillance permanente d'un responsable. Au
+cours de ces opérations de maintenance portant sur les éléments contenant le fluide
+frigorigène, il faut la présence d'au moins deux personnes sur les lieux de travail.
+
+Pendant toute la durée d'une intervention sur une partie de l'installation contenant de
+l'ammoniac, les portes de la salle des machines doivent être hermétiquement closes.
+
+22.11. Une procédure doit être établie pour toutes les opérations de réparation sur
+les éléments contenant du fluide frigorigène, de même que pour les opérations de
+chargement et de vidange de l'ammoniac et de vidange de l'huile contaminée par
+l'ammoniac.
+
+22.12. En cas d'intervention dans une salle de machines comprenant plusieurs
+installations, des travaux ne peuvent être effectués simultanément que sur la partie
+contenant de l'ammoniac d'une seule machine.
+
+22.13. Avant de commencer tout travail de réparation, il y a lieu de débrancher, de
+vidanger, de nettoyer ou purger les éléments à réparer. En particulier pour les
+opérations de soudage, un permis de travail spécial (permis de feu) doit être délivré
+par le responsable de l'établissement où est installé le système de réfrigération.
+Avant le commencement des opérations toutes les mesures de précaution
+nécessaires doivent être prises (voir au paragraphe 18.8 ci-dessus).
+
+Les opérations de soudage ne peuvent être effectuées que par du personnel
+compétent, possédant un certificat de qualification.
+
+L'huile usagée doit être récupérée de façon à empêcher le dégazage de l'ammoniac.
+Elle doit être conservée dans un conteneur séparé approprié et elle doit être mise à
+disposition de façon sûre.
+
+Un stock de produits pour l'absorption de l'huile doit être tenu en réserve dans la
+salle des machines, afin de pouvoir intervenir rapidement en cas d'un déversement
+accidentel.
+
+22.14. Les tuyaux de chargement doivent être aussi courts que possible et être
+équipés de robinets ou de raccords auto-obturateurs minimisant les pertes
+d'ammoniac.
+
+22.15. Les systèmes de réfrigération ne peuvent être chargés en ammoniac qu’avec
+l’accord de l’organisme de contrôle procédant aux vérifications requise, qu'après que
+tous les essais sous pression et les essais d'étanchéité aient été effectués et que la
+détection, le système d’absorption et toutes autres mesures de première urgence
+soient opérationnels. De plus, il faut veiller à ce que toutes les ouvertures vers
+d’autres parties du bâtiment soient colmatées de façon à être étanches au gaz.
+
+Lors du remplissage des machines à l’ammoniac, toute personne étrangère doit
+quitter les lieux.
+
+
+
+
+page 32 de 38 pages                                                      ITM-SST 1829.1
+22.16. Aucun fluide frigorifique ne doit être ajouté avant que toutes les fuites
+éventuelles n'aient été repérées et réparées correctement. L'installation ne peut être
+remise en service qu'après que tous les défauts aient été corrigés de façon
+satisfaisante.
+
+22.17. Pendant le chargement d'un système, il faut prendre soin de ne jamais
+dépasser la charge maximale admissible. Les conteneurs d'ammoniac ne doivent
+pas être raccordés à un système ou à des tuyauteries dont la pression est suffisante
+pour provoquer un retour de fluide vers le conteneur engendrant une pression
+hydrostatique suffisante, par suite d'un trop plein, qui risque de faire éclater le
+conteneur ou de faire ouvrir une soupape de sûreté.
+
+22.18. Lors des travaux de maintenance sur la partie du système contenant
+l'ammoniac, le personnel y occupé doit porter obligatoirement son équipement de
+protection individuelle, à savoir:
+
+    -   une combinaison résistant aux fluides corrosifs;
+    -   des gants protecteurs;
+    -   un écran facial;
+    -   des bottes de sécurité.
+
+Le masque à gaz doit se trouver à portée de main.
+
+Il y a lieu de vérifier la concentration en ammoniac sur l'affichage du détecteur avant
+d'entrer dans la salle. Si la concentration en ammoniac dans l'atmosphère de la salle
+exige le port de l'appareil respiratoire autonome, il faut s'assurer qu'il soit
+opérationnel avant d'y entrer.
+
+En cas d'intervention suite à une alarme, le personnel doit porter obligatoirement son
+équipement de protection avant d'entrer dans la salle des machines, y compris son
+équipement de protection respiratoire.
+
+22.19. La maintenance et la réparation, demandant l'assistance d'autres salariés
+qualifiés, doivent être effectuées en présence et sous la responsabilité du personnel
+chargé de l'entretien qui doit leur communiquer toutes les consignes de sécurité et
+leur fournir les équipements de protection nécessaires.
+
+22.20. A la suite d'un dérangement, l'installation ne peut être remise en service
+qu'après que tous les défauts aient été corrigés de façon satisfaisante et après essai
+et vérification de l'élément réparé.
+
+22.25. A chaque maintenance périodique les interventions suivantes, en dehors de
+celles prévues par le calendrier d'entretien du fabricant, sont à effectuer:
+
+    -   tous les dispositifs de sécurité, de commande et de mesure ainsi que les
+        systèmes d'alarme doivent être contrôlés afin de vérifier que leur
+        fonctionnement est correct et qu'ils sont en parfait état de marche;
+    -   le contrôle de la charge en fluide frigorigène;
+    -   le contrôle de la charge en eau des systèmes d’absorption ;
+    -   l'essai de fonctionnement des dispositifs de sécurité.
+
+
+
+page 33 de 38 pages                                                      ITM-SST 1829.1
+22.26. Chaque réparation et chaque modification aux installations et accessoires
+contenant du fluide frigorigène sont à effectuer par un homme de l'art sous la
+surveillance d'un organisme de contrôle.
+
+A la suite de telles interventions, l'installation doit être soumise à une visite complète
+et une épreuve de résistance à effectuer par le même organisme.
+
+Toutes les interventions d'entretien régulier, chaque action de dépannage et chaque
+modification aux installations doivent être consignées dans un registre (voir article 26
+ci-après).
+
+22.27. Le circuit de refroidissement du condenseur doit être inspecté régulièrement
+afin de détecter des fuites éventuelles et de prévenir la corrosion. La concentration
+en glycol du fluide caloporteur doit être vérifiée périodiquement.
+
+22.28. Les travaux d’entretien doivent également inclure l’entretien et le contrôle des
+différents détecteurs à l’ammoniac.
+
+Art. 23.- Exploitation
+
+23.1. Il est interdit d’exploiter une installation frigorifique, si elle n’est pas couverte
+par un rapport de contrôle périodique (dont la durée de validité n’est pas encore
+venue à échéance) établi par un organisme de contrôle.
+
+23.2. La salle des machines doit être tenue dans un parfait état de propreté et
+d'entretien, elle doit être nettoyée aussi souvent que nécessaire.
+
+Elle ne peut être utilisée à des fins accessoires ou de dépôt. Elle doit rester
+constamment dégagée de matériaux, d'objets ou d'équipements étrangers,
+facilement combustibles ou inflammables ou autrement dangereux.
+
+23.3. Il est interdit de stocker de l'ammoniac sur l'ensemble du site sur lequel se
+trouvent les installations de production de froid. Toutefois, dépendant du type
+d’établissement (p.ex. entreprise industrielle), une certaine quantité d’ammoniac peut
+être stockée sur le site dans un local approprié et uniquement prévu pour ces fins.
+Des détails seront à fixer cas par cas entre l’exploitant et ITM.
+
+23.4. Afin de prévenir tout acte de malveillance ou criminel, les portes d'entrée de la
+salle des machines, en particulier celles menant directement à l'extérieur doivent
+présenter une résistance mécanique suffisante et adéquate.
+
+L'accès à la salle des machines est interdit aux personnes qui n'y sont pas appelées
+par leur service. Cette interdiction est à signaler en conséquence au moyen de
+panneaux apposés sur les portes d'entrée.
+
+Un contrôle très strict et ininterrompu de l'accès à la salle des machines doit avoir
+lieu.
+
+
+
+
+page 34 de 38 pages                                                          ITM-SST 1829.1
+23.5. L'exploitant du système de réfrigération est tenu de veiller à ce que celui-ci soit
+inspecté, surveillé en permanence et entretenu de façon satisfaisante.
+
+23.6. Il incombe au personnel d'exploitation ayant acquis les connaissances requises
+(voir paragraphe au 21.12. ci-dessus), de surveiller régulièrement le fonctionnement
+correct de la machine frigorifique afin de découvrir rapidement toute anomalie.
+
+Dans ce cas, il doit immédiatement demander l'assistance d'une entreprise
+spécialisée. En aucun cas, le personnel d'exploitation ne peut procéder lui-même à
+une quelconque intervention sur la partie du système contenant de l'ammoniac.
+
+23.7. En dehors des tâches de surveillance et de contrôle, l'entretien, consistant en
+des interventions ne requérant aucune connaissance spécialisée de la technique de
+la réfrigération et ne portant donc pas sur le circuit contenant l'ammoniac peut être
+effectué par le personnel de l'établissement.
+
+23.8. Le personnel d'exploitation est responsable de la propreté des lieux et de l'état
+d'entretien du système de réfrigération. Il doit, en particulier, veiller au respect du
+calendrier des entretiens courants et contrôles périodiques à effectuer.
+
+Il doit vérifier et inspecter régulièrement les équipements de protection, le
+fonctionnement des dispositifs de premiers secours, de l'équipement de sécurité
+assurant la mise en oeuvre des mesures d'urgence et les différents dispositifs
+d'alarme, afin qu'il soit remédié sans délai à toute défectuosité constatée.
+
+23.9. Les portes de la salle des machines doivent être maintenues dans un parfait
+état d'entretien, en particulier, l'état de conservation des joints assurant leur
+étanchéité doit être inspecté périodiquement par le personnel d'exploitation.
+
+Toute fermeture défaillante doit être signalée sans faute.
+
+23.10. Il doit être remédié de même à toute défectuosité de l'enceinte étanche.
+
+23.11. Lors des rondes de surveillance et en particulier après chaque intervention sur
+la machine frigorifique, le personnel d'exploitation est tenu de contrôler l'état de
+fermeture des portes donnant accès à la salle des machines.
+
+23.12. L'exploitant est tenu de récupérer toute eau contaminée par l'ammoniac et
+d'en assurer sa mise à disposition de façon sûre.
+
+23.13. L'exploitant doit avertir les pompiers devant intervenir dans on entreprise de la
+présence d'une installation fonctionnant à l'ammoniac et doit tenir à leur disposition
+un plan des lieux reprenant l'emplacement de la salle des machines.
+
+
+
+
+page 35 de 38 pages                                                        ITM-SST 1829.1
+Art. 24.- Risques de légionelloses
+
+24.1. Des mesures doivent être prises pour prévenir tout risque de légionellose et en
+particulier tout aéroréfrigérant humide respectivement toute installation d’absorption
+doit être conçu(e) de façon à éviter la prolifération et la dispersion aérogène de
+microorganismes. Les aéroréfrigérants humides respectivement les installations
+d’absorption doivent être nettoyés et désinfectés régulièrement.
+
+24.2. Si une installation frigorifique est aménagé(e) dans des lieux de la catégorie
+d'occupation A, un éventuel aéroréfrigérant humide respectivement le système
+d’absorption doivent être pourvus chacun d'une installation fixe assurant en
+permanence la désinfection de l'eau de réfrigération respectivement d’absorption,
+sans préjudice des mesures supplémentaires de nettoyage et de désinfection à
+appliquer.
+
+Art. 25.- Accidents et incidents graves.
+
+25.1 Chaque installation frigorifique tombant sous les dispositions des présentes
+prescriptions de sécurités types et ayant été la cause d’un accident ou d’incident
+grave est à vérifier par un organisme de contrôle.
+
+25.2 L’exploitation d’une installation ne peut être reprise qu’après acceptation par
+l’Inspection du travail et des mines du rapport de vérification de l’organisme, rapport
+à verser au registre prévu au paragraphe 26.3 ci-dessous.
+
+Art. 26.- Registre
+
+26.1. L'exploitant est obligé de tenir pour chaque machine frigorifique un registre
+séparé comprenant deux volets.
+
+26.2. Le premier volet concerne l'entretien de la machine.
+
+Doivent y être consignées les informations suivantes:
+
+    -   les caractéristiques de la machine frigorifique y compris les déclarations CE
+        de conformité;
+    -   le dossier technique ainsi que les résultats de l'épreuve de résistance initiale
+        et le rapport du premier contrôle périodique dont question au paragraphe 20.2.
+        ci-dessus;
+    -   les instructions concernant le fonctionnement et l'entretien de la machine;
+    -   les plans et schémas de la machine et de l'installation;
+    -   les descriptions des opérations de maintenance (entretien et réparation) que
+        l'appareil ou l'installation a subies;
+    -   un descriptif de toutes les interventions et modifications effectuées sur
+        l'installation pouvant avoir une influence sur la sécurité du personnel;
+    -   un rapport des vérifications effectuées par le personnel de maintenance;
+    -   les dates des interventions;
+    -   le nom des personnes ou de l'entreprise ayant effectué les interventions;
+    -   le rapport des observations et constatations effectuées par le personnel
+        d'exploitation.
+
+
+
+page 36 de 38 pages                                                       ITM-SST 1829.1
+26.3. Tous les contrôles, visites, vérifications, surveillances et épreuves effectués par
+un organisme de contrôle doivent faire l'objet d'une inscription au second volet du
+registre, comprenant notamment:
+
+    -   une copie de tous les rapports de surveillance, de visite et de contrôle;
+    -   les résultats de tous les essais et une copie des rapports y afférents.
+
+Ce volet doit comprendre en plus les mentions suivantes:
+
+    -   le rapport du premier contrôle périodique, des contrôles ultérieurs ou des
+        surveillances ultérieures;
+    -   la nature et la cause de l'incident ou de l’accident si le contrôle et la réception
+        ont été effectués suite à un incident ou un accident;
+    -   la date et le volume des remplissages d’ammoniac additionnels.
+
+26.4. A moins qu'il ne confie la gestion du registre à l'entreprise chargée de
+l'entretien courant, l'exploitant est tenu de gérer lui même le registre; sa gestion fait
+l'objet d'un contrôle de la part de l'organisme agréé, lors des visites périodiques.
+
+26.5. Le registre doit être conservé et déposé dans la salle des machines. Il doit être
+tenu à la disposition des organes de contrôle compétents.
+
+
+
+
+            Visa du Directeur adjoint                        Mise en vigueur
+            de l’Inspection du travail                        le 30.05.2011
+                   et des mines
+                                                                     s.
+
+               Robert HUBERTY                                  Paul WEBER
+                                                                  Directeur
+                                                         de l’Inspection du travail
+                                                                et des mines
+
+
+
+
+page 37 de 38 pages                                                            ITM-SST 1829.1
+                                                    ANNEXE
+                                                                                                 admissibilité
+  Type de transfert                     Salle des machines
+ d’énergie thermique
+
+
+
+
+                                                Circuit                                          INTERDIT
+Système direct                                  NH3
+fermé
+
+
+
+                                                                 Circuit
+                                                                 eau
+
+Système indirect             Circuit
+ouvert                       NH3                                                                 INTERDIT
+
+
+                                                                Circuit
+                                                                eau
+
+
+Système indirect
+ouvert aéré dans
+la salle des                                                                                     INTERDIT
+                              Circuit
+machines                      NH3
+
+
+
+
+                                                                               Circuit
+Système indirect                                                               eau
+fermé                        Circuit
+                             NH3                                                                  ADMIS
+
+
+
+
+SystèmeVisa  du Chargé de la Direction du
+          indirect                                                        Mise en vigueur
+          Département Sécurité et Santé                              Strassen, le ………..2011
+fermé aéré dans
+la salle des
+                           Circuit
+                           NH3
+                                                                                                  ADMIS
+machines       Robert HUBERTY
+                  Directeur adjoint                                        Paul WEBER
+                                                                             Directeur
+                                                                    de l’Inspection du Travail
+                                                             Circuit       et des Mines
+                                                             eau 1               Circuit
+Système double                                                                   eau 2
+indirect
+fermé/ouvert et                   Circuit
+aéré dans la salle                NH3                                                             ADMIS
+des machines
+
+
+
+
+page 38 de 38 pages                                                                         ITM-SST 1829.1
+

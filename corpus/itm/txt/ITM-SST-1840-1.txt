@@ -1,0 +1,552 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                         Strassen, janvier 2010
+
+
+
+
+                                                                                          ITM-SST 1840.1
+                                                                                          (ancien N° ITM-CL 359.1)
+
+
+
+
+                                                        EOLIENNES
+
+
+
+                                               Prescriptions de sécurité types
+                                            Les présentes prescriptions comportent 10 pages
+
+
+
+                                                                  Sommaire
+
+       Article                                                                                                    Page
+
+       1.           Objectifs et domaine d'application                                                                  2
+       2.           Définitions                                                                                         2
+       3.           Normes et règles techniques                                                                         2
+       4.           Prescriptions générales                                                                             3
+       5.           Protection des travailleurs                                                                         3
+       6.           Dispositions concernant la construction et l’équipement des éoliennes                               5
+       7.           Installations électriques, Protection contre la foudre                                              6
+       8.           Eclairage                                                                                           6
+       9.           Equipements de premiers secours                                                                     7
+       10.          Dispositions concernant le montage des éoliennes                                                    7
+       11.          Exploitation                                                                                        8
+       12.          Réceptions et contrôles périodiques des éoliennes                                                   8
+       13.          Registres et manuels                                                                                9
+
+
+
+
+        _____________________________________________________________________________________________________________________
+        Direction
+        Boîte postale 27 L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs L-2361 Strassen   Tél :2478-6145   Fax: 49 14 47
+        Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de sécurité
+relatives au montage et à l’exploitation des éoliennes.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en cas, mais
+uniquement si des mesures de rechange garantissant une protection au moins équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de sécurité équivalent
+par un organisme de contrôle et acceptées comme telles par l'Inspection du Travail et des Mines.
+
+Art. 2 - Définitions
+
+2.1. Sous la dénomination "organisme de contrôle" est à comprendre tout organisme figurant à l'arrêté le
+plus récent en vigueur du Ministre du Travail concernant l'intervention d'organismes de contrôle dans
+les domaines afférents aux présentes prescriptions.
+
+2.2. Par «nacelle» on comprend le compartiment placé au-dessus du mât et abritant la génératrice et
+l’arbre de transmission de l’éolienne.
+
+2.3. Sous la dénomination « travailleur » est à comprendre tout salarié tel que défini à l’article 1er de la
+loi du 24 mai 1989 sur le contrat de travail ainsi que les stagiaires, les apprentis et les élèves et étudiants
+occupés pendant les vacances scolaires.
+
+Art. 3 - Normes et règles techniques
+
+3.1. Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à appliquer lors de
+la conception, de la construction, du montage et de l'exploitation des éoliennes sont en particulier les
+présentes prescriptions et en général les normes et règles techniques nationales appliquées dans les pays
+de l’Union Européenne ou alors celles reconnues comme équivalentes par l'Inspection du Travail et des
+Mines.
+
+3.2. Sont d'application les normes européennes (E.N.), au fur et à mesure qu'elles paraissent et
+remplacent les diverses normes nationales, notamment la norme ENV 61400-1 (VDE V 0127 Teil 1)
+« Windenergieanlagen - Teil 1 :Sicherheitsanforderungen) concernant les aérogénérateurs. Le Service
+de l’Énergie de l’État met à disposition les normes à appliquer.
+
+3.3. Chaque modèle d’éolienne doit disposer d’un contrôle type («Typenprüfung») qui garantit
+l’application de certaines normes et règles techniques à la conception. Ce contrôle type doit être effectué
+par un organisme agréé dans un pays de l’Union Européenne.
+
+3.4. Pour chaque nouveau projet d’une éolienne ou d’un parc éolien, un avis sera demandé par
+l’Inspection du travail et des mines auprès de la Direction de l’aviation civile (DAC) qui demandera une
+analyse des risques auprès de l’Administration de la navigation aérienne portant sur l’impact de sécurité
+du projet par rapport
+
+         - à la circulation aérienne,
+         - aux surfaces de protection de l’espace aérien,
+         - aux aides radio à la navigation,
+         - aux aérodromes et hélisurfaces existants
+     et concernant
+         - le balisage des éoliennes et
+         - le balisage des grues utilisées pendant la phase chantier et pendant les périodes d’entretien
+            des éoliennes.
+
+
+
+
+Page 2 de 10 pages                                                                          ITM-SST 1840.1
+Art. 4 - Prescriptions générales
+
+4.1. L'exploitant doit se conformer aux prescriptions de la loi modifiée du 17 juin 1994 concernant la
+sécurité et la santé des travailleurs au travail et des arrêtés et règlements grand-ducaux pris en exécution
+à cette loi.
+
+4.2. L'exploitant doit se conformer aux prescriptions de la loi modifiée du 17 juin 1994 concernant les
+services de santé au travail et des règlements grand-ducaux pris en exécution à cette loi.
+
+4.3. Il y a lieu d'observer en outre les prescriptions afférentes de prévention contre les accidents édictées
+par l'Association d'Assurance contre les Accidents, section industrielle.
+
+4.4. L'exploitant doit le cas échéant respecter les modalités du règlement grand-ducal modifié du 8
+janvier 1992 relatif aux machines.
+
+4.5. En outre, il y a lieu de se conformer aux dispositions:
+
+     − de l'arrêté grand-ducal du 28 août 1924, concernant la santé et la sécurité du personnel occupé
+       aux travaux de construction;
+     − du règlement grand-ducal du 28 septembre 1988 relatif aux matériels et engins de chantier;
+     − des règlements grand-ducaux du 24 décembre 1990 concernant le rapprochement des
+       législations des Etats membres de la Communauté Européenne relatives à la protection des
+       engins de chantier;
+     − des règlements grand-ducaux du 1er juin 1989 relatifs à la détermination de l'émission sonore
+       des engins et matériels de chantier.
+
+Art. 5 - Protection des travailleurs, Visite médicale
+
+5.1. Tout travailleur embauché pour des travaux en hauteur doit passer avant de commencer les travaux,
+un examen médical d’embauche, auprès du service de santé compétent pour l’entreprise en question.
+
+5.2. L’examen médical doit correspondre à la législation allemande G41 (Berufsgenossenschaftliche
+Grundsätze für arbeitsmedizinische Untersuchungen) et être effectué en vue de détecter des troubles de
+la santé, en particulier des troubles de la conscience, de l’équilibre et de l’appareil locomoteur, sujets à
+un risque accru de chute. Les critères d’inaptitude sont les suivants : troubles d’équilibre, vertiges avec
+nystagmus11, troubles de la mobilité, diminution de la force d’un membre, troubles du système
+circulatoire (troubles du rythme cardiaque, insuffisance coronaire), diabète sucré nécessitant un
+traitement médicamenteux, troubles de la conscience de toute origine et nature, troubles de l’humeur et
+du comportement, démence, toute dépendance d’alcool, de drogues, de médicaments.
+
+La périodicité de l’examen médical est de 2 ans pour les travailleurs de moins de 30 ans et de 1 an pour
+tous les autres. Après toute absence de plus de 6 semaines pour cause de maladie ou d’accident, un
+examen médical est obligatoire avant la reprise du travail.
+Un dossier reprenant une copie du certificat médical de chaque travailleur doit être tenu par le
+responsable des travaux.
+
+5.3. Lors des travaux de montage, de maintenance ou de réparation des éoliennes (installations
+électriques incluses) toutes mesures efficaces doivent être prises pour protéger les travailleurs contre
+tout risque d’accident ou toute atteinte à leur santé.
+
+
+
+
+1
+  nystagmus : trouble de la motricité oculaire caractérisé par de lents changements dans la direction du regard, brusquement
+interrompus par des mouvements de rappel très rapides.
+
+
+
+
+Page 3 de 10 pages                                                                                        ITM-SST 1840.1
+5.4. L’entreprise chargée du montage et l’entreprise chargée de la maintenance et des réparations
+doivent instruire, chacune en ce qui la concerne, de manière appropriée, les travailleurs des dangers
+(notamment dangers de l’électricité) pouvant survenir ainsi que des précautions à prendre pour les
+éviter.
+
+5.5. L’entreprise chargée du montage et l’entreprise chargée de la maintenance et des réparations
+doivent mettre, chacune en ce qui la concerne, à la disposition des travailleurs l’équipement de sécurité
+nécessaire pour leur propre protection et pour l’exécution des travaux (p.ex. vêtements de protection,
+casques, lunettes, harnais de sécurité, gants, chaussures de sécurité, cordelettes, mousquetons,
+descendeurs, etc.).
+
+5.6. Chaque travailleur doit disposer de son propre matériel de sécurité (harnais, mousquetons, casque,
+descendeur, cordelettes, etc.).
+
+5.7. Ce matériel est à remplacer en fonction de sa dégradation due à son utilisation. Sa mise hors service
+doit avoir lieu au plus tard à l’échéance marquée par le fabriquant.
+
+5.8. Lors de l’exécution des travaux en hauteur, les travailleurs doivent obligatoirement porter des
+casques conformes à la norme EN 397 ainsi que des chaussures de sécurité. Le casque est à porter avec
+la jugulaire fermée permettant de maintenir le casque sur la tête même en cas de chute.
+
+5.9. Les travailleurs doivent porter des vêtements bien ajustés et non flottants.
+
+5.10. Les travailleurs doivent faire bon usage de tous les dispositifs de protection ou de sécurité et de
+tous les autres moyens destinés à assurer leur propre protection ou celle d’autrui.
+
+5.11. Les travailleurs doivent recevoir consigne de ni enlever ni modifier les dispositifs de protection ou
+de sécurité.
+
+5.12. L’entreprise chargée du montage et l’entreprise chargée de la maintenance et des réparations
+doivent assurer, chacune en ce qui la concerne, la surveillance nécessaire pour que les travailleurs
+accomplissent leur travail dans les meilleures conditions possibles de sécurité, de santé, d’hygiène et
+d’ergonomie. L’exécution des travaux aux installations électriques doit être placée sous la surveillance
+permanente d’un responsable.
+
+5.13. L’entreprise chargée du montage et l’entreprise chargée de la maintenance et des réparations sont
+tenus, chacune en ce qui la concerne, d’assurer une formation spécifique et continue appropriée et
+suffisante des travailleurs, notamment en ce qui concerne les tâches qu’ils exécutent, ainsi que la
+manipulation du matériel. La formation doit également porter sur l’usage, l’entretien et le contrôle de
+l’équipement de sécurité ou de protection, la prévention des accidents, le comportement en cas
+d’urgences, l’hygiène et les premiers secours.
+
+5.14. Les travailleurs doivent prendre connaissance de toutes les consignes de sécurité concernant leur
+travail et s'y conformer.
+
+Le responsable des travaux doit s'assurer que les travailleurs connaissent les consignes et les ont bien
+comprises.
+
+5.15. Seuls les travailleurs dûment formés doivent prendre part aux opérations de travail dangereuses.
+
+5.16. Lors de travaux dans la nacelle, au moins une personne supplémentaire doit se trouver à l’embase
+de l’éolienne, afin de pouvoir prendre les mesures pour assurer les premiers soins et donner accès à
+l’éolienne aux services de secours publics, en cas d’accident ou d’indisposition grave d’un travailleur
+dans la nacelle.
+
+
+
+
+Page 4 de 10 pages                                                                       ITM-SST 1840.1
+5.17. Dans les limites de leurs responsabilités, les travailleurs doivent faire tout ce qui est dans leur
+pouvoir pour préserver leur santé et leur sécurité, ainsi que celles de leurs collègues de travail.
+
+5.18. En cas d'accident ou d'indisposition grave, le responsable des travaux est tenu de prendre les
+mesures pour assurer les premiers soins aux victimes.
+
+Art. 6 - Dispositions concernant la construction et l’équipement des éoliennes
+
+6.1. Les éoliennes et leurs éléments doivent satisfaire aux stipulations afférentes reprises aux articles
+3.2, 3.3 et 4.4 ci-dessus.
+
+6.2. Il est interdit d'utiliser des dispositifs, équipements ou produits de protection qui ne sont pas de
+nature à protéger efficacement les travailleurs contre les dangers de tout ordre auxquels ils sont exposés.
+
+6.3. Toutes les parties telles que par exemple les passerelles, échelles, pièces en mouvement, pièces
+chaudes etc., pouvant donner lieu à atteinte aux travailleurs, doivent être entourées d'enveloppes
+protectrices appropriées ou munies de garde-corps solides.
+
+6.4. Toute éolienne doit disposer en des endroits judicieusement choisis des dispositifs d'arrêt d'urgence
+facilement repérables et accessibles, permettant de l'arrêter instantanément en cas d'urgence (p.ex.
+bouton "STOP" arrêtant tout mouvement).
+
+6.5. Les dispositifs de mise en marche et d'arrêt (tels qu'interrupteurs, leviers, boutons-poussoirs,
+commandes au pied ou au genou) doivent être conçus, construits et installés de sorte:
+
+      - qu'ils puissent être commandés facilement et en toute sécurité;
+      - que l’éolienne ne puisse être mise en marche involontairement.
+
+6.6. Toute éolienne doit être équipée d’un moyen sûr et conforme aux normes européennes harmonisées
+pour accéder à la nacelle (p. ex. échelle équipée d’un rail ou d’une corde en acier tendue en acier
+permettant l’auto-assurance moyennant l’utilisation de parachutes).
+
+6.7. La nacelle est à équiper de points d’ancrage en nombre suffisant et placés à des endroits
+judicieusement choisis, afin de garantir un accès sûr à toute personne appelée à y pénétrer.
+
+6.8. Il doit exister un moyen de communication (téléphone fixe ou téléphone mobile ou émetteur-
+récepteur) entre les travailleurs dans la nacelle et la personne supplémentaire se trouvant à l’embase de
+l’éolienne (voir paragraphe 5.16).
+
+6.9. Un appareil téléphonique raccordé au réseau fixe ou mobile est à installer sur le site ou se trouvent
+les éoliennes.
+
+6.10. Les éoliennes doivent être conçues de façon à ce que soient données en tout temps toutes les
+garanties de stabilité et de solidité, même lors d’intempéries (telles que tempête, gel, givre et neige).
+
+6.11. Les éoliennes doivent pouvoir résister à la vitesse du vent certifiée au niveau du contrôle type.
+
+6.12. Le dispositif de protection, prévu pour le cas où la vitesse du vent dépasserait la vitesse de
+déclenchement fixée par le constructeur de l’éolienne, doit être certifié au niveau du contrôle type.
+
+6.13. Les pales de l’hélice des éoliennes doivent être protégées contre l’englaciation moyennant un
+chauffage électrique ou tout autre moyen reconnu comme équivalent en matière de sécurité par
+l’Inspection du Travail et des Mines, ou bien l’hélice doit être automatiquement mise à l’arrêt en cas
+d’englaciation.
+
+
+
+
+Page 5 de 10 pages                                                                        ITM-SST 1840.1
+Des panneaux signalétiques sont à prévoir afin d’aviser la population de garder la distance en cas
+d’englaciation.
+
+Art. 7 - Installations électriques, Protection contre la foudre
+
+7.1. Les installations de production, de distribution, de transport et de transformation d’énergie
+électrique ainsi que leurs annexes doivent être conçues, réalisées, entretenues et exploitées
+conformément aux normes, prescriptions et directives de sécurité, de même qu’aux règles de l’art, de la
+sécurité et de l’hygiène normalement applicables au Grand-Duché de Luxembourg, à savoir:
+
+        -   aux prescriptions allemandes afférentes DIN/VDE ;
+        -   aux normes européennes CENELEC, au fur et à mesure que celles-ci paraissent et
+            remplacent les prescriptions DIN/VDE précitées;
+        -   au règlement ministériel du 8 août 1989 concernant les prescriptions de raccordement aux
+            réseaux de distribution de l’énergie électrique à basse tension au Grand-Duché de
+            Luxembourg.
+
+7.2. Pour empêcher la mise sous tension, soit accidentellement, soit par inadvertance d’une
+installation électrique sur laquelle sont effectués des travaux, toutes précautions appropriées
+doivent être prises.
+
+7.3. En ce qui concerne la protection contre la foudre, il faut que les impositions de la norme
+VDE 0127 (IEC 88/117/CD) « Windenergieanlagen – Teil 24 : Blitzschutz für
+Windenergieanlagen » soient respectées.
+
+Article 8 - Eclairage
+
+8.1. Eclairage normal
+
+8.1.1. L'éclairage naturel, artificiel ou mixte des espaces et locaux doit être adapté aux activités
+respectives. L'intensité, la localisation et la répartition de l'éclairage doivent être telles que les personnes
+puissent exercer leurs activités en toute sécurité, sans fatigue des yeux et sans autre atteinte quelconque
+à leur bien-être et à leur intégrité physique. Une intensité lumineuse nominale de 300 LUX doit être
+garantie dans la nacelle et dans l’espace où se trouvent les armoires électriques.
+
+8.1.2. L’intérieur du mât doit être pourvu d'un éclairage suffisant pour assurer la circulation facile et
+sûre des personnes.
+
+8.2. Eclairage de secours
+
+8.2.1. L'éclairage de secours doit permettre l'évacuation de l'éolienne et l'intervention des services de
+secours en cas d'un grave sinistre.
+
+8.2.2. L'éclairage de secours est à réaliser par des sources de courant autonomes.
+
+8.2.3. L'éclairage de secours doit fonctionner de façon qu'en cas de la défaillance de l'éclairage normal,
+les personnes puissent s'orienter aisément, qu'elles puissent éviter les obstacles et dangers de chutes ou
+de trébuchements éventuels et qu'elles puissent trouver les issues sans risque de panique.
+
+
+
+
+Page 6 de 10 pages                                                                           ITM-SST 1840.1
+8.2.4. Sans préjudice des dispositions y afférentes spécifiées ailleurs dans le présent texte, l'éclairage de
+secours doit fonctionner notamment:
+
+        -   dans toutes les voies d'issues intérieures et spécialement aux portes, aux endroits dangereux
+            et près des sorties.
+
+8.2.5. L'éclairage de secours doit s'allumer au plus tard 15 secondes après l'extinction de l'éclairage
+normal ou de l'éclairage de sécurité.
+
+8.2.6. L'éclairage de secours doit avoir une autonomie de fonctionnement d'au moins 60 minutes.
+
+8.2.7. L'éclairage de secours doit avoir une intensité lumineuse minimale de 1 LUX. Cette intensité
+minimale est à mesurer à une distance de 20 cm du sol (ou des marches d'escaliers) à la fin de
+l'autonomie de fonctionnement de l'éclairage de secours.
+
+Art. 9 – Equipement de premiers secours
+
+9.1. Afin de permettre un sauvetage approprié d’une personne se trouvant dans la nacelle, toute éolienne
+doit être pourvue des équipements suivants:
+
+        -   un monte-charge d’une charge utile d’au moins 250 kg (pouvant être utilisé pour évacuer
+            une personne blessée);
+        -   deux parachutes supplémentaires pour harnais de sécurité, réservées aux besoins des
+            services de secours publics;
+        -   un mode d’emploi et l’outillage nécessaire pour activer le cas échéant le frein manuel du
+            générateur;
+        -   un système d’ouverture permettant le cas échéant l’accès à la nacelle de l’extérieur en cas
+            d’approche aérienne;
+        -   une attache de fixation dans la nacelle permettant à exercer un rappel en corde avec deux
+            personnes.
+
+9.2. Les éoliennes doivent être signalées par un numéro national à attribuer par l’Agence de l’Energie.
+Ce numéro est unique pour chaque éolienne.
+
+Il est à afficher, en noir, à l’extérieur de la nacelle de façon à être visible à partir d’un hélicoptère de
+sauvetage (hauteur des lettres ≥ 800 mm) et sur le mât à côté de la porte d’entrée donnant accès à
+l’éolienne (hauteur des lettres ≥ 100 mm).
+
+Art. 10 - Dispositions concernant le montage des éoliennes
+
+10.1. Les éoliennes doivent être montées conformément aux instructions de montage du constructeur.
+
+10.2. Les grues servant de montage des éoliennes doivent être mises à terre selon les règles de l’art et
+être reliées directement à la mise à la terre de l’éolienne.
+
+10.3. La distance minimale mesurée en projection horizontale, qui doit séparer l’éolienne de toute
+habitation est de 300 m, sous réserve de conditions plus contraignantes imposées par toute autre autorité
+compétente.
+
+10.4. La distance minimale mesurée en projection horizontale, qui doit séparer l’éolienne de toute voie
+publique et de toute construction agricole non habitée (excepté chemin vicinal interdit à la circulation,
+chemin forestier et chemin syndical) est égale à la longueur maximale de culbutage (mât + hélice) de
+celle-ci augmentée d’un facteur de sécurité de 10%, sous réserve de conditions plus contraignantes
+imposées par toute autre autorité compétente.
+
+
+
+
+Page 7 de 10 pages                                                                         ITM-SST 1840.1
+10.5. En ce qui concerne la sécurité du trafic aérien, les stipulations de l’avis de l’Administration de
+l’Aéroport doivent être respectées (voir chapitre 3.4).
+
+Art. 11 - Exploitation
+
+11.1. Les opérations de réglage d'appareils en marche doivent être effectuées avec la prudence et la
+prévoyance requise.
+
+11.2. Les divers organes des éoliennes (installations électriques incluses) sont à maintenir en tout temps
+en parfait état d'entretien, de sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les
+défectuosités et anomalies constatées.
+
+11.3. Il est interdit à toute personne n'ayant pas la qualification professionnelle requise et certifiée
+d'effectuer des travaux d’entretien et de réparation ou d'apporter des modifications aux éoliennes.
+
+11.4. Une périodicité au moins annuelle des vérifications et de l’entretien des éoliennes (installations
+électriques incluses) doit faire partie intégrante d’un contrat de maintenance ou d’un «concept de
+partenariat» avec le constructeur de l’éolienne ou un organisme spécialisé en matière d’entretien
+d’éoliennes.
+
+L'entretien régulier doit être assuré d'après les instructions du constructeur par un personnel qualifié et
+expérimenté. L'entreprise chargée de la maintenance et des réparations est responsable, soit de s'assurer
+que les travailleurs ont acquis les aptitudes nécessaires, soit de faire mettre en œuvre les instructions,
+formations et formations continues requises.
+
+11.5. L'entretien doit s'effectuer suivant les instructions du constructeur de l’éolienne et dans le strict
+respect des règles de la sécurité du travail, et les aménagements, équipements et moyens de sécurité
+doivent être prévus en conséquence.
+
+11.6. Les éoliennes ayant subi une avarie grave ou qui ont été la cause d'un accident ou d'un incident
+grave ne peuvent être remises en service qu’après réception par un organisme de contrôle et autorisation
+de l'Inspection du Travail et des Mines.
+
+Art. 12 - Réceptions et contrôles périodiques des éoliennes
+
+12.1. Un organisme de contrôle doit vérifier si la situation géologique du site respecte les conditions
+définies au niveau du contrôle type de la fondation de l’éolienne. A cette fin, il doit formuler un avis
+géologique en s’appuyant sur les examens géotechniques nécessaires. Dans le cas d’un non-respect des
+conditions, la conception, les dimensions et la mise en œuvre doivent être adaptées à la situation
+géologique et vérifiées par un organisme de contrôle.
+
+La réalisation de la fondation et des armatures doit être contrôlée avant le bétonnage par un organisme
+de contrôle.
+
+Il est impératif de prendre des échantillons normalisés du béton lors du bétonnage et de faire analyser
+ces échantillons par un laboratoire spécialisé en la matière.
+
+Lorsque l’éolienne est assemblée par soudage sur site, il faut que ces soudures soient vérifiées au rayon
+X par un organisme de contrôle.
+
+12.2. L’éolienne doit être réceptionnée par un organisme de contrôle avant sa mise en service, après
+chaque incident ou accident pouvant avoir eu une influence sur la sécurité de l’éolienne et après chaque
+modification ou réparation substantielle et cela avant sa mise ou remise en service.
+
+
+
+
+Page 8 de 10 pages                                                                       ITM-SST 1840.1
+Le contrôle de réception doit comprendre toutes les composantes de l’éolienne ayant une influence sur
+la stabilité et la solidité de celle-ci, tous les dispositifs concernant la sécurité, ainsi que toutes les
+composantes essentielles de l’installation électromécanique.
+
+12.3. L’éolienne (composantes de l’éolienne ayant une influence sur la stabilité et la solidité de celle-ci,
+dispositifs concernant la sécurité, composantes essentielles de l’installation électromécanique
+(installations électriques incluses)) en service doit être contrôlée au moins tous les 5 ans par un
+organisme de contrôle.
+
+12.4. Il est recommandé que le propriétaire et l'exploitant de l’éolienne ou une personne qu'ils délèguent
+à cet effet, ainsi qu'un représentant de l'entreprise ayant monté l’éolienne ou effectuant l'entretien
+courant de l’éolienne accompagnent l'inspecteur de l'organisme de contrôle lors des réceptions,
+contrôles et vérifications.
+
+12.5. Au cas où l’inspecteur de l'organisme de contrôle constaterait un défaut ou une situation pouvant
+présenter des dangers pour les personnes, il doit en informer immédiatement l'exploitant par le moyen
+de communication le plus direct et le plus rapide possible, sans préjudice du rapport écrit ultérieur.
+
+Dans un cas pareil, l'inspecteur concerné doit indiquer en plus les mesures à prendre immédiatement et
+il doit s'assurer que l’exploitant s’y est obtempéré et que les risques inacceptables sont éliminés. A
+défaut, il doit en informer sans délai l'Inspection du Travail et des Mines.
+
+12.6. L'organisme de contrôle fait la distribution des rapports de réception ou de contrôle à raison de:
+
+      - 1 exemplaire pour l'Inspection du Travail et des Mines;
+      - 5 exemplaires à son commettant qui les répartira de la façon suivante:
+      - 1 exemplaire pour le registre tel que prévu à l'article 13.1 ci-dessous;
+      - 1 exemplaire pour le registre tel que prévu à l'article 13.2 ci-dessous;
+      - 1 exemplaire au propriétaire de l’éolienne;
+      - 1 exemplaire à l'exploitant si celui-ci n'est pas en même temps le propriétaire;
+      - 1 exemplaire au fournisseur de l’éolienne.
+
+12.7. Les exploitants des éoliennes doivent se conformer aux délais pour réparation et mise en
+conformité figurant sur les rapports de réception et de contrôle de l'organisme de contrôle.
+
+12.8. Les réceptions et contrôles se baseront notamment sur les présentes prescriptions, sur les
+prescriptions et recommandations du «Germanischer Lloyd» les plus récentes en date concernant les
+éoliennes ou sur des prescriptions au moins équivalentes en matière de sécurité, sur le contrôle type
+(«Typenprüfung») de l’éolienne, sur les normes et règles techniques suivies lors de la construction de
+l’éolienne et sur les données techniques figurant dans les manuels descriptifs concernant l’éolienne.
+
+Art. 13 - Registres et manuels
+
+13.1. Toutes les réceptions, tous les contrôles et toutes les vérifications concernant l’éolienne doivent
+faire l'objet d'une inscription sur un registre (ou d'une insertion dans un dossier) ouvert à cet effet.
+Ce registre (ou dossier) doit comprendre au moins les mentions suivantes:
+
+        -   la date et la nature de la réception, du contrôle et de la vérification;
+        -   la personne ou l'organisme ayant effectué le contrôle;
+        -   le motif du contrôle effectué suite à un incident ou accident, ainsi que la cause et la nature
+            de cet incident ou accident;
+        -   les rapports (résultats et commentaires des examens, vérifications et essais) de la réception,
+            du contrôle ou de la vérification;
+        -   la contresignature éventuelle par l'exploitant (ou par une personne que celui-ci a déléguée à
+            cet effet) des rapports de la réception, du contrôle ou de la vérification.
+
+
+
+
+Page 9 de 10 pages                                                                         ITM-SST 1840.1
+13.2. Pour chaque éolienne il doit être tenu un registre d'entretien séparé.
+
+      Ce registre doit comprendre au moins les mentions suivantes:
+       - la date et la nature des opérations de maintenance et des interventions et modifications
+           effectuées sur l’éolienne et pouvant avoir une influence sur la sécurité;
+       - la personne ou l’organisme ayant effectué les opérations de maintenance ou les
+           interventions et modifications;
+       - la description des opérations de maintenance ou des interventions et modifications;
+       - les rapports des contrôles et vérifications effectués.
+
+13.3. Tous ces registres et le manuel d'utilisation, ainsi que le manuel comprenant les descriptions
+techniques de l’éolienne, doivent être tenus sur les lieux, à disposition des organes de contrôle et de
+l'organisme de contrôle effectuant les réceptions et contrôles.
+
+13.4. Ces mêmes documents doivent être disponibles dans les bureaux du propriétaire de l’éolienne.
+
+
+
+             Visa du Directeur adjoint                                  Mise en vigueur
+             de l’Inspection du travail                                  le 26.01.2010
+                    et des Mines
+                                                                               s.
+                         s.
+                                                                         Paul WEBER
+                Robert HUBERTY                                              Directeur
+                                                                   de l’Inspection du travail
+                                                                          et des mines
+
+
+
+
+Page 10 de 10 pages                                                                       ITM-SST 1840.1
+

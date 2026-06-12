@@ -1,0 +1,160 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                         Strassen, 9 février 2015
+
+
+
+                                                                                         ITM-SST 1237.1
+
+
+
+
+      Appareils de levage mobiles équipés d’une nacelle
+                    avec marquage « CE »
+
+
+
+                                              Prescriptions de sécurité types
+                                  Les présentes prescriptions comportent 3 pages
+
+                                 Est aussi applicable la prescription ITM-SST 1230
+
+                                                                  Sommaire
+
+    Article                                                                                                    Page
+
+     1.                 Objectif et domaine d'application                                                           2
+     2.                 Définitions                                                                                 2
+     3.                 Exploitation de l’appareil                                                                  2
+     4.                 Contrôles périodiques de l’appareil                                                         3
+
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2763 STRASSEN Tél : 2478-6213 Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les règles de sécurité et de
+santé types à observer lors de l’implantation, de l’exploitation et du contrôle d’une nacelle
+automotrice et conçue d’après les exigences de la directive 98/37/CE respectivement
+2006/42/CE relative aux machines.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de
+cas en cas par l’Inspection du travail et des mines, selon le cas sur avis d’un organisme de
+contrôle, si des mesures de rechange garantissant une protection au moins équivalente sont
+prises.
+
+
+Art. 2. - Définitions
+
+Les définitions suivantes s’appliquent dans le cadre des présentes prescriptions :
+
+2.1. « appareil de levage mobile équipé d’une nacelle » : un appareil équipé d’un habitacle
+ou équipé d’un équipement interchangeable comprenant un habitacle prévu pour le levage
+de personnes, dénommé « appareil » ci-après.
+
+2.1. « équipement interchangeable », dispositif qui, après la mise en service d'une machine
+ou d'un tracteur, est assemblé à celle-ci ou à celui-ci par l'opérateur lui-même pour modifier
+sa fonction ou apporter une fonction nouvelle, dans la mesure où cet équipement n'est pas
+un outil.
+
+2.2. Par « habitacle », on entend la partie de l'appareil dans laquelle prennent place les
+personnes et/ou où sont placées les personnes afin d'être levées ou descendues.
+
+Conformément au point 6.2.1. de l’annexe I de la directive 98/37/CE relative aux machines
+respectivement au point 6.2 de l’annexe I de la directive 2006/42/CE relative aux machines,
+lorsque les exigences de la sécurité n’imposent pas d’autres solutions, l’habitacle doit, en
+règle générale être conçu et construit de façon à ce que les personnes s’y trouvant
+disposent d’organes de commandes des mouvements relatifs de montée, de descente et, le
+cas échéant de déplacement de cet habitacle par rapport à la machine.
+
+
+Art. 3. – Exploitation de l’appareil
+
+3.1. Pendant la manipulation de l’appareil, le conducteur de l’appareil de levage ainsi que
+toute autre personne dans l’habitacle doivent être attachées, moyennant un harnais de
+sécurité, selon le résultat de l’évaluation des risques qui a déterminé un risque de chute en
+dehors de l’habitacle comme risque plus important que d’autres risques éventuels en relation
+avec le port du harnais de sécurité.
+
+3.2. L’appareil doit être mis en position de travail et être assemblé de façon à ce que soient
+données en tout temps toutes les garanties de stabilité et de solidité, même lors
+d'intempéries, telles que vent, tempête, gel, givre et neige.
+
+3.3. Le cas échéant, les béquilles de soutènement doivent reposer sur un sous-sol stable et
+solide. Si cette condition ne peut être garantie des selles d'appui doivent être utilisées.
+
+3.4. L’utilisation de l’appareil est interdite, lorsque la vitesse du vent dépasse la vitesse fixée
+par le fabricant, mais au plus tard lorsque la vitesse du vent dépasse 60 km/h ainsi que lors
+de rafales fréquentes ou lors du risque d’orages.
+
+
+
+page 2 de 3 pages                                                                 ITM-SST 1237.1
+3.5. En toute situation, il doit pouvoir être possible de ramener l’habitacle de l’appareil dans
+une position où il est possible de libérer les passagers.
+
+3.6. La zone en dessous de l’habitacle est à définir et à délimiter comme zone dangereuse
+où l’accès est interdit. Si l’accès à cette zone est indispensable, des mesures doivent être
+prises pour éviter la chute d’objets en dehors de l’habitacle.
+
+3.7. Lors du déplacement de l’appareil, le conducteur doit avoir une visibilité suffisante pour
+ne pas mettre en danger les personnes se trouvant dans le champ d’action de l’appareil.
+
+3.8. Lorsque des travaux sur des lignes électriques sous tension doivent être exécutés à
+partir de l’habitacle, l’appareil doit être spécialement conçu par le fabricant pour ce genre de
+travaux.
+
+3.9. L'exploitant est tenu d'arrêter par écrit des consignes afin d'éviter toute collision entre
+l’appareil et des obstacles fixes ou mobiles ainsi que d’entrer dans les zones de sécurité des
+lignes haute-tension. Ces consignes doivent être remises aux utilisateurs de l’appareil et le
+cas échéant à toutes les autres personnes concernées.
+
+3.10. Lorsque l’appareil doit être monté près d’une ligne électrique à haute tension ou à
+tension inconnue, le gestionnaire du réseau électrique, exploitant la ligne en question, doit
+en être informé avant le montage de l’appareil. Le cas échéant, le gestionnaire du réseau
+électrique définit une zone ou une distance de sécurité qui doit être respectée.
+
+Aucun appareil ne doit être mis en place au-dessus de lignes électriques aériennes. Il est
+interdit de mettre un appareil en position de travail en dessous d'une ligne de haute-tension,
+à moins de respecter les distances de sécurité lors de travaux non électrotechniques.
+
+3.11. La distance ou zone de sécurité, définie par le gestionnaire du réseau électrique en
+question, doit être respectée. En cas de doute ou en cas de conditions météorologiques
+réduisant sensiblement la distance de sécurité entre l’appareil installé et la ligne électrique à
+haute tension (vent, neige, glace, haute température, etc.), des mesures pour rétablir la
+sécurité doivent être prises, si nécessaire, le gestionnaire du réseau électrique est à
+informer. Le cas échéant, les personnes aux abords et sur l’appareil doivent se rendre en
+lieu sûr. Des dispositions pour rétablir les conditions de sécurité nécessaires doivent être
+prises.
+
+
+Art. 4. – Contrôles périodiques de l’appareil
+
+L’appareil doit être soumis à un contrôle périodique, au moins tous les six mois, par un
+organisme de contrôle. Pour les appareils moins utilisés, cette échéance peut être allongée
+par l’Inspection du travail et des mines, jusqu’à une année sur demande motivée.
+
+
+                                         Mise en vigueur
+                                         le 9 février 2015
+
+                                                 s.
+
+                                            Marco BOLY
+                                            Directeur f.f.
+                                     de l’Inspection du travail
+                                            et des mines
+
+
+
+
+page 3 de 3 pages                                                                ITM-SST 1237.1
+

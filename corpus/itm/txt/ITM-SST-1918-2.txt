@@ -1,0 +1,412 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                              Strassen, janvier 2009
+
+
+
+                                                                                          N° ITM-SST 1918.2
+
+
+
+
+                  Recommandations pour les laboratoires d’essais et de
+
+                               développement utilisant des nanoparticules
+
+
+                                               Prescriptions de sécurité types
+
+                                              Le présent document comporte 8 pages
+
+
+                                                                  Sommaire
+
+    Article                                                                                                            Page
+
+     1.                              Domaine d'application                                                              2
+     2.                              Prévention des risques                                                             2
+     3.                              Bonnes pratiques de travail                                                        3
+     4.                              Zone de travail                                                                    3
+                                     4.1. Consignes générales d'exploitation - Mesures d'hygiène                        3
+                                     4.2. Entretien des lieux et des équipements                                        4
+                                     4.3. Ventilation                                                                   4
+                                     4.4. Filtration                                                                    5
+     5.                              Equipements de protection individuelle                                             5
+                                     5.1. Protection respiratoire                                                       5
+                                     5.2. Protection cutanée                                                            6
+     6.                              Risques d'explosion                                                                6
+     7.                              Prévention et lutte contre les incendies                                           6
+     8.                              Stockage et traitement des déchets                                                 7
+     9.                              Autres aspects de prévention                                                       7
+    10.                              Annexes: dispositions et règlements                                                8
+    11.                              Bibliographie                                                                      8
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 247-86145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1. - Domaine d’application
+
+Les présentes recommandations s’appliquent aux laboratoires d’essais et de développement
+dans lesquels des nanoparticules sont utilisées et/ou fabriquées.
+Les recommandations sont constituées d’extraits des documents cités à l’article 11.
+
+Art. 2. - Prévention des risques
+
+En raison de l’insuffisance des connaissances relatives aux dangers pour la santé humaine
+attachés à la fabrication de nano-objets et à l’utilisation de produits en contenant, il n’existe
+pas, en l’état actuel du droit, de réglementation particulière applicable à ce domaine.
+Néanmoins, les nano-objets et les nanomatériaux présentent des propriétés physiques,
+chimiques et biologiques extrêmement variables, et les procédés de mise en œuvre pour la
+recherche et le développement, la production ou l’utilisation sont également susceptibles
+d’une grande diversité. C’est la raison pour laquelle des mesures de précaution doivent
+être définies et mises en place jusqu’à ce que soient mieux connus l’importance des
+expositions professionnelles aux nano-objets et aux nanomatériaux et les risques
+correspondants sur la santé.
+
+Une première précaution consiste à appliquer les règles générales de prévention du risque
+chimique.
+
+Rappelons qu’il n’existe pas de nano-objet « générique ». L’application du principe de
+précaution conduit, alors, à recommander une politique de gestion des risques basée sur la
+taille et la nature chimique de la substance, ainsi que sur ses propriétés spécifiques. Le risque
+doit toujours être envisagé a priori et l’innocuité démontrée au cas par cas. Lorsque des
+données sont disponibles pour des objets de taille micrométrique (ou supérieure) et de même
+nature chimique, l’hypothèse minimale pour élaborer une démarche de prévention est que les
+nano-objets correspondants présentent au moins la même toxicité et sont probablement plus
+dangereux.
+
+La démarche de prévention doit s’articuler comme suit :
+   • identifier les dangers présentés par la substance chimique,
+   • évaluer les risques pour la santé au travail en fonction des procédés appliqués et des
+      modes de travail,
+   • mettre en place des mesures pour limiter ou prévenir les risques,
+   • vérifier l’efficacité des mesures prises
+
+Principales voies de la démarche de prévention :
+    • modifier le procédé ou l’activité de façon à ne plus produire ou utiliser la substance
+       dangereuse,
+    • remplacer la substance dangereuse par une autre moins toxique,
+    • évaluer et suivre régulièrement l’exposition des salariés,
+    • utiliser la substance sous une forme plus sûre : de préférence des nano-objets en
+       suspension dans un milieu liquide plutôt qu’en poudre, à l’état agrégé ou aggloméré,
+       en pastilles, intégrés dans une matrice minérale ou organique, etc.,
+    • optimiser le procédé pour obtenir un niveau d’empoussièrement aussi faible que
+       possible afin de limiter l’exposition (privilégier les systèmes clos),
+    • capter les polluants à la source (ventilation locale),
+    • employer un équipement de protection individuelle, former et informer les salariés
+       exposés.
+
+
+
+
+page 2 de 8 pages                                                                 ITM-SST 1918.2
+Art. 3. - Bonnes pratiques de travail
+
+Les bonnes pratiques de travail à appliquer ne sont pas très différentes de celles qui sont
+recommandées pour toute activité exposant à des produits chimiques dangereux, mais
+elles prennent une importance particulière en raison de la très grande capacité de
+diffusion des nano-objets dans l’atmosphère.
+
+La production des nano-objets et des nanomatériaux requiert l’isolement complet du procédé
+(en vase clos) : l’encoffrement ainsi que l’automatisation (ou la robotisation) de l’ensemble du
+procédé doivent être envisagés et mis en œuvre dès que le contexte le permet afin de limiter
+les interventions et donc les expositions des opérateurs. Le concept de procédé intégré, déjà
+appliqué par certains industriels, est une approche qui permet d’éliminer les manipulations
+entre les différentes étapes, ainsi que les ruptures de confinement. En cas de procédé
+particulièrement polluant qui ne peut être confiné, les opérateurs doivent être installés dans
+des postes de commande ou de contrôle isolés et à ambiance contrôlée. La production doit,
+par ailleurs, être effectuée en continu (plutôt que par campagnes). Les méthodes de fabrication
+en phase liquide doivent toujours être privilégiées au détriment des techniques en phase
+vapeur et des méthodes mécaniques. Les nano-objets employés sont de préférence sous forme
+de suspension, de solution ou de gel ou incorporés dans des matrices organiques ou minérales.
+La manipulation et le transfert des substances formées, surtout celles qui sont à l’état
+pulvérulent, ainsi que le nettoyage et la maintenance des installations doivent être réduits et
+contrôlés afin d’éviter ou de limiter la dispersion des polluants et la formation d’aérosols. La
+récupération, le conditionnement, le stockage et le transport, qui sont des points critiques
+d’exposition des opérateurs, doivent être automatisés et intégrés dans la filière de production
+et d’utilisation, surtout dans le domaine des nano poudres : idéalement les nano-objets et les
+nanomatériaux doivent être directement produits sur leur site d’utilisation. Le recyclage des
+produits ne répondant pas aux critères de fabrication exigés ainsi que la collecte, l’évacuation
+et le traitement des déchets doivent également être prévus dès le lancement de la production :
+il faut éviter tout rejet dans la zone de travail et dans l’environnement.
+
+Art. 4. - Zone de travail
+
+    4.1. Consignes générales d’exploitation - Mesures d’hygiène
+
+La zone de travail doit être signalisée, délimitée et restreinte aux seuls salariés directement
+concernés par la fabrication ou l’utilisation des nano-objets ou des nanomatériaux. Les zones
+susceptibles d’exposer aux nano-objets doivent être clairement identifiées et séparées des
+zones « propres ». Le passage des unes aux autres doit comporter les installations nécessaires
+au changement d’équipements de protection éventuels. L’installation de vestiaires doubles
+permet d’éviter tout risque de contamination à l’extérieur des aires de travail.
+
+Les sols et les surfaces de travail (de préférence lisses avec des coins arrondis) doivent être
+régulièrement et soigneusement nettoyés à l’aide de linges humides et d’un aspirateur équipé
+de filtres à très haute efficacité (à définir suite à l’analyse du risque) afin de minimiser la
+contamination des lieux et la remise en suspension dans l’air des nano-objets déjà déposés.
+L’utilisation d’un jet d’air (soufflette) ou d’un balai est à proscrire. Tout renversement doit
+être immédiatement nettoyé selon une procédure établie en fonction du risque. Un bon
+exemple de méthodologie d’entretien et de décontamination des lieux de travail est fourni
+dans le guide de bonnes pratiques pour travailler avec le béryllium (Dion et Perrault, 2004).
+
+
+
+
+page 3 de 8 pages                                                                ITM-SST 1918.2
+La présence sur les lieux de travail d’éviers et de douches est nécessaire pour la
+décontamination des régions cutanées exposées aux nano-objets. Le linge souillé ne doit pas
+être apporté au domicile. Afin d’éviter l’ingestion de nano-objets, il doit être défendu de boire
+ou de manger sur les lieux de travail, sauf dans des aires strictement réservées à cet usage qui
+doivent être maintenues propres.
+
+    4.2. Entretien des lieux et des équipements
+
+L’entretien des lieux de travail, entre autres, l’enlèvement de la poussière déposée sur les
+planchers et les surfaces de travail, doit être réalisé de façon régulière afin d’éviter toute
+accumulation et tout risque de remise en suspension dans l’air ou d’explosion si les poussières
+sont explosives, comme dans le cas de certaines poudres métalliques. Les poussières doivent
+être aspirées à l’aide d’équipements sous vide et muni d’un filtre à haute efficacité,
+particulièrement dans le cas des nanoparticules. Dans le cas de potentiel d’explosion, ces
+équipements doivent être antidéflagrants et la conception même du bâtiment doit tenir compte
+du potentiel d’explosion. Tout équipement devrait être nettoyé en profondeur et cadenassé au
+besoin avant d’en faire l’entretien. En effet, l’entretien préventif des équipements minimise
+les risques d’interruption non planifiée de la production tout en assurant des opérations plus
+sécuritaires. Les opérations de nettoyage devraient toujours être réalisées sous vide avec un
+système de filtration à haute efficacité. Avant de faire l’entretien des équipements, ceux-ci
+devraient également être nettoyés sous vide.
+
+    4.3. Ventilation
+
+Au cours de certaines étapes des procédés de fabrication qui nécessitent généralement une
+intervention humaine, il est impossible d’éviter le dégagement ou le relargage de nano-objets
+dans l’atmosphère des lieux de travail, notamment lors des opérations de mélange, de
+séchage, de récupération, d’échantillonnage, de transfert, de pesée, de conditionnement ou
+encore d’usinage (découpe, perçage…). Ces travaux doivent donc être réalisés en mettant en
+œuvre un captage des polluants à la source. La ventilation par aspiration localisée constitue
+la méthode de référence : il s’agit de capter les produits dégagés au fur et à mesure de leur
+production, au plus près de leur source d’émission, et aussi efficacement que possible en
+tenant compte de la nature, des caractéristiques et du débit des polluants ainsi que des
+mouvements d’air. Le captage à la source par des extractions localisées permet ainsi d’éviter
+la propagation des nano-objets dans l’atmosphère des lieux de travail et est déjà couramment
+utilisé, notamment lors des travaux de soudage et de coupage. Les dispositifs qui ont fait la
+preuve de leur efficacité pour le captage des vapeurs et des gaz devraient, en l’absence de
+champs thermiques, électrostatiques ou magnétiques significatifs, se montrer efficaces pour
+les aérosols ultrafins ou nano-aérosols. La ventilation générale n’est pas satisfaisante : elle
+entraîne un niveau de pollution résiduelle ainsi que des gradients de concentration importants
+entre la source et l'ambiance de l’atelier. En laboratoire, il est conseillé de capter les nano-
+objets à la source à l’aide de systèmes en dépression totale, voire de systèmes à flux
+laminaire : hottes, boîtes à gants, etc. (les courants d’air sont moins accusés et la manipulation
+est plus aisée). Dans les ateliers où les opérations manuelles d’échantillonnage, de
+récupération, de pesée, etc., ne peuvent être effectuées sous des hottes ou des boîtes à gants, il
+est recommandé de les réaliser dans des salles ou des cabines mis en dépression vis-à-vis du
+reste des locaux et munies de dispositifs de captage des polluants à la source. De même, bien
+que la fabrication des nano-objets et des nanomatériaux nécessite des procédés en vase clos,
+des dysfonctionnements ou des fuites peuvent survenir.
+
+
+
+
+page 4 de 8 pages                                                                  ITM-SST 1918.2
+L’installation des équipements de production dans des locaux mis en dépression par un
+système d’extraction équipé de filtres permet également d’éviter la dispersion des nano-objets
+dans l’ensemble du bâtiment. L’utilisation d’outils mécaniques portatifs (scie, perceuse, etc.)
+munis de systèmes de captage des polluants intégrés est également recommandée, par
+exemple lors de l’usinage de nano composites.
+
+    4.4. Filtration
+
+L’air des locaux dans lesquels des nano-objets où des nanomatériaux sont fabriqués ou
+utilisés doit être filtré avant toute recirculation ou rejet dans l’atmosphère. Dès lors que la
+taille des particules, des agrégats ou des agglomérats est supérieure à 5 nanomètres, leur
+capture par des médias fibreux est réalisable. L’utilisation de filtres céramiques (filtres à
+particules) dans l’épuration des fumées de moteur diesel atteste de l’efficacité de cette
+technologie. Dans le domaine de la protection des personnes, des lieux de travail et de
+l’environnement, l’utilisation de filtres à fibres à très haute efficacité est recommandée.
+En effet, compte tenu de leurs caractéristiques physiques et dimensionnelles, un filtre
+susceptible de retenir les nano-objets doit avoir une efficacité supérieure à 99,97 %. En
+revanche, bien que l’efficacité du filtre augmente lorsque la taille de la particule diminue, on
+s’interroge sur l’efficacité de filtration pour des particules de taille inférieure à 5 nanomètres,
+compte tenu du faible nombre d’études et de leurs conclusions contradictoires.
+
+Art. 5. - Equipements de protection individuelle
+
+Le port des équipements de protection individuelle est réservé aux situations où les bonnes
+pratiques de travail sont peu ou pas applicables et où les mesures de prévention générales sont
+insuffisantes.
+
+    5.1. Protection respiratoire
+
+Si le captage est insuffisant dans les ateliers de production ou d’utilisation des nano-objets et
+des nanomatériaux, il est recommandé de porter un appareil de protection respiratoire ; en
+tenant compte du fait que les objets de taille nanométrique sont susceptibles de passer par la
+moindre fuite. L’efficacité de protection et les bonnes conditions d’utilisation de l’appareil
+employé doivent être vérifiées en situation réelle et dans la durée (saturation, usure…).
+Dans le cas où les travaux sont peu exposants (maintenance, nettoyage de machines
+préalablement décontaminées), sont de courte durée et lorsque l’air ambiant contient
+suffisamment d’oxygène (minimum 17 % en volume), il est préconisé de porter un appareil
+filtrant anti-aérosols, plus précisément un demi-masque, un masque complet ou une
+cagoule muni d’un filtre de classe 3 (P3 ou FFP3). Dans le cas où les travaux sont amenés
+à durer plus d’une heure et sont exposants (fabrication, manipulation, transfert de nano-
+objets, etc.), il est recommandé de porter un appareil isolant à apport d’air externe, plus
+précisément un masque, une cagoule ou une combinaison complète à adduction d’air
+comprimé.
+
+
+
+
+page 5 de 8 pages                                                                  ITM-SST 1918.2
+    5.2. Protection cutanée
+
+Il est préconisé de revêtir une combinaison à capuche jetable de type 5 (étanche aux
+poussières) avec serrage au cou, aux poignets et aux chevilles, dépourvue de plis ou de revers,
+avec des poches à rabats ainsi que des couvre-chaussures. Il est également conseillé de porter
+des gants étanches ainsi que des lunettes équipées de protections latérales. Ces effets doivent
+être maintenus en bon état et nettoyés, pour ceux qui ne sont pas jetables, après chaque usage.
+Notons qu’il est préférable, lorsque cela est possible d’utiliser des vêtements jetables.
+
+Art. 6. - Risques d’explosion
+
+Au même titre que les nuages de poussières traditionnelles, on peut s’attendre à ce que les
+nuages de nanoparticules puissent être explosifs, dès lors que les particules sont capables de
+brûler dans l’air. Même dans l’hypothèse de procédés de petite taille, si une explosion
+survient, elle est susceptible de détruire tout ou partie du moyen de production. En dehors des
+effets directs de la pression et d’éventuels débris projetés, on peut craindre la dissémination
+dans l’atmosphère de l’atelier d’une quantité importante de nanoparticules propulsées par le
+souffle de l’explosion. Il peut alors s’ajouter une dimension toxique aggravant le risque
+global.
+
+On peut supposer que le comportement des nuages de poussières ultrafines doit se rapprocher
+de celui des nuages de gaz. Cependant, la présence de très fines particules est susceptible de
+bouleverser significativement le régime d’échanges thermiques. Les projections théoriques
+prédisent non seulement que la vitesse de flamme pourrait être plus élevée mais également
+moins prévisible. Dans ce contexte, les modèles habituellement utilisés pour les explosions
+de gaz et de poussières deviendraient caduques, en particulier dans la manière de
+dimensionner les dispositifs de sécurité.
+
+Par ailleurs, la diminution de la taille des particules s’accompagne d’une augmentation de la
+réactivité du nuage et en particulier de sa sensibilité à l’inflammation par étincelle. Or,
+l’apparition d’électricité statique dans les procédés de fabrication des nanoparticules est quasi
+systématique. Ces deux facteurs conjugués – un faible seuil d’inflammation et une
+production naturelle de charges pendant la manipulation – rendent le risque
+d’amorçage d’explosions par étincelles électrostatiques élevé et nécessitent le
+développement de moyens de prévention et de lutte spécifiques. La mise en œuvre d’un
+procédé de production et d’entreposage à atmosphère contrôlée (azote, gaz inerte…) peut par
+exemple s’avérer nécessaire.
+
+Art. 7. - Prévention et lutte contre les incendies
+
+La prévention des incendies devrait tenir compte des réglementations en vigueur, notamment
+au niveau des installations électriques. Compte tenu de la très faible granulométrie des
+nanoparticules et de leur temps très long de sédimentation, les équipements électriques
+devraient être protégés contre les poussières, voire, dans certains cas, être étanches aux
+vapeurs. Des précautions supplémentaires devraient également être prises quant à la
+température d’opération des équipements électriques et des risques accrus d’auto-allumage
+des nanoparticules. La lutte contre les incendies n’est pas documentée dans la littérature
+disponible à ce jour. Cependant les mêmes principes s’appliquant aux matériaux pulvérulents
+en général, avec une précaution particulière pour les poussières métalliques facilement
+oxydables, devraient être considérés en ce qui a trait aux nanoparticules.
+
+
+
+
+page 6 de 8 pages                                                                 ITM-SST 1918.2
+Le choix du produit pour l’extinction tient compte de la compatibilité ou de l’incompatibilité
+du matériau avec l’eau. Les poussières métalliques réagissent avec l’eau pour former entre
+autre de l’hydrogène qui s’enflamme très facilement et déflagre. Des poudres chimiques sont
+disponibles pour éteindre les feux de poussières métalliques. Lors de l’attaque pour éteindre
+un feu de poussières métalliques, il faut prendre garde de créer un mouvement d’air important
+qui aurait pour effet de mettre en suspension la poussière métallique et ainsi augmenter le
+risque de déflagration. Pour réduire les risques d’incendie et de déflagration, il peut s’avérer
+nécessaire d’utiliser un procédé de production et d’entreposage à atmosphère contrôlé
+(dioxyde de carbone, azote ou gaz inerte).
+
+Art. 8. - Stockage et traitement des déchets
+
+Le stockage des nano-objets présente un aspect particulier en raison de leurs caractéristiques
+granulométriques et de leur réactivité de surface. Le faible diamètre des composés augmente
+les temps de sédimentation et facilite la remise en suspension. Les nano-objets doivent être
+stockés dans des réservoirs ou emballages totalement étanches et soigneusement fermés. Ces
+réservoirs doivent être entreposés dans des locaux frais, bien ventilés, à l’abri des rayons
+solaires et à l’écart de toute source de chaleur ou d’ignition et des matières inflammables.
+
+L’entreposage des nanoparticules nécessite également des protections particulières en ce qui a
+trait à la conservation du produit. En effet, la petite taille des particules, qui cherchent souvent
+à s’agglomérer, offre une très grande surface de contact avec l’air environnant, favorisant
+ainsi la réactivité chimique. Afin d’éviter l’oxydation, voire l’explosion dans certains cas de
+métaux, une protection adéquate doit souvent être apportée aux nanomatériaux. Selon le
+produit à entreposer, différentes procédures préventives permettront d’éviter toute
+détérioration du produit ou tout risque d’incendie ou d’explosion. Parmi les solutions
+possibles, l’entreposage en présence d’un gaz inerte ou dans des conditions anhydres. Dans
+d’autres situations, il peut être possible d’enrober les nanoparticules dans une couche
+protectrice constituée de sels ou de différents polymères qui peuvent ensuite être éliminés
+avant l’utilisation du produit
+
+Les déchets, notamment les matériels, les conditionnements, les filtres, les parties
+d’installations, les équipements et les vêtements contaminés, doivent être sortis de la zone de
+production conditionnés dans des sacs fermés, étanches et étiquetés. Par la suite, les déchets
+doivent être traités dans des installations appropriées (incinération ou recyclage).
+
+Art. 9. - Autres aspects de prévention
+
+Plusieurs autres aspects peuvent être considérés mais ne seront pas décrits ici, car ils sont très
+spécifiques aux produits utilisés, synthétisés ou manipulés de même qu’aux procédés mis en
+œuvre. De plus, la littérature ne nous renseigne aucunement sur les mesures spécifiques à
+mettre en place avec les nanoparticules. Pensons, entre autre, aux aspects de prévention à
+élaborer et à mettre en place en cas d’asphyxie dans les procédés utilisant de grandes quantités
+de gaz inertes, d’électrocution reliés à l’usage de procédés à hautes tensions et à forts
+courants, de fuites ou de déversements accidentels, de même qu’à l’équipement de protection
+d’urgence, aux premiers secours et à la surveillance médicale.
+
+
+
+
+page 7 de 8 pages                                                                   ITM-SST 1918.2
+ Art. 10. - Annexes
+
+ Législation relative aux substances dangereuses
+
+    (1) Règlement grand-ducal du 30 juillet 2002 concernant la protection de la santé et de la sécurité des
+        travailleurs contre les risques liés à des agents chimiques sur le lieu de travail.
+
+    (2) Règlement grand-ducal du 30 juillet 2002 concernant la protection des travailleurs contre les risques
+        liés à l'exposition à des agents cancérigènes ou mutagènes au travail
+
+    (3) Loi modifiée du 03 aout 2005 relative à la classification, à l'emballage et à l'étiquetage des préparations
+        dangereuses.
+
+ Art. 11. - Bibliographie
+
+(1) INRS - Les nanomatériaux (www.inrs.fr)
+(2) IRSST-Nanoparticules : connaissances actuelles sur les risques et les mesures de
+    prévention en SST. (www.irsst.qc.ca)
+(3) IRSST-Nettoyage et décontamination des lieux de travail où il y a présence de Béryllium-
+    synthèse des bonnes pratiques.
+
+
+
+
+              Visa du Directeur adjoint                                      Mise en vigueur, le
+           de l’Inspection du travail et des                                 le 26 janvier 2009
+                        mines
+
+
+
+                    Robert HUBERTY
+                                                                                Paul WEBER
+                                                                                  Directeur
+                                                                          de l’Inspection du travail
+                                                                                 et des mines
+
+
+
+
+page 8 de 8 pages                                                                                  ITM-SST 1918.2
+

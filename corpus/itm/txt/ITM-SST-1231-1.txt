@@ -1,0 +1,286 @@
+GRAND-DUCHÉ DE LUXEMBOURG
+
+
+
+
+                                                                           Strassen, 9 février 2015
+
+
+                                                                           ITM-SST 1231.1
+
+
+                                       Grues à tour
+                                   avec marquage « CE »
+
+
+                        Prescriptions de sécurité et de santé types
+                         Les présentes prescriptions comportent 6 pages
+
+                        Est aussi applicable la prescription ITM-SST 1230
+
+                                                Sommaire
+        Article                                                                                       Page
+          1         Objectif et domaine d'application                                                    2
+          2         Définitions                                                                          2
+          3         Protection des salariés                                                              2
+          4         Équipement de la grue                                                                2
+          5         Dispositions concernant le montage de la grue                                        3
+          6         Installations électriques                                                            3
+          7         Exploitation                                                                         4
+          8         Grue dont les zones d'action interfèrent avec un obstacle                            4
+          9         Contrôles périodiques de la grue                                                     5
+
+
+
+
+    ______________________________________________________________________________________________________
+    Direction
+    Adresse postale : Boîte postale 27 L-2010 Luxembourg
+    Bureaux : 3, rue des Primeurs L-2763 Strassen Tél. : 2478-6213 Fax. : 491447
+    Site Internet : http://www.itm.etat.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les règles de sécurité et
+de santé types à observer lors de l’implantation, de l’exploitation et du contrôle d’une
+grue à tour conçue d’après les exigences de la directive 98/37/CE respectivement
+2006/42/CE relative aux machines.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés
+de cas en cas par l’Inspection du travail et des mines, selon le cas sur avis d’un
+organisme de contrôle, si des mesures de rechange garantissant une protection au
+moins équivalente sont prises.
+
+
+Art. 2. - Définition
+
+Sous la dénomination « grue à tour » est à comprendre toute grue à tour
+(Turmdrehkran), qu'elle soit fixe, sur chemin de roulement, sur rails, pliable, à montage
+automatique, à lest central, à socle en fondation, etc., dénommée « grue » ci-après.
+
+
+Art. 3. - Protection des salariés
+
+Lors de travaux sur un chantier, le conducteur de l’appareil doit se concerter sur les
+consignes de sécurité applicables face à la situation de l’appareil sur le chantier, le cas
+échéant avec le chef de chantier et le coordinateur de sécurité.
+
+Lors de travaux sur le site d’une entreprise le conducteur de l’appareil doit se concerter
+sur les consignes de sécurité applicables face à la situation de l’appareil dans
+l’entreprise avec l’employeur ou son représentant de la ou des entreprises concernées.
+
+Les responsables doivent s’assurer que les personnes présentes le cas échéant sur le
+chantier respectivement dans l’entreprise, connaissent ces consignes et les ont bien
+comprises.
+
+
+Art. 4. - Équipement de la grue
+
+4.1. Toute grue dont l’accessibilité en bout de flèche est donnée doit être équipée d'une
+ligne de vie ou à défaut d'un chariot équipé d'une nacelle.
+
+4.2. Toute grue montée sur un emplacement exposé à un vent violent et en tout cas
+toute grue dont la hauteur sous flèche est supérieure à 25 mètres doit être équipée d'un
+anémomètre.
+
+4.3. Le cas échéant, le conducteur doit tenir compte des limites indiquées par un
+système électronique, respectivement du diagramme de charge de la grue, et doit
+couper tout mouvement tendant à amener l'appareil dans une position dangereuse
+(surcharge, risque de renversement).
+
+
+
+Page 2 de 6 pages                                                         ITM-SST 1231.1
+En l'absence d'un système électronique contrôlant la charge et tous les mouvements de
+la grue, un graphique de charge doit être placé à proximité immédiate de tous les
+postes de commande.
+Les courbes du graphique de charge indiquent la charge maximale qui peut être
+déplacée en relation avec une portée et hauteur donnée.
+
+4.4. Tout crochet de levage simple doit être muni d'un dispositif de sécurité contre le
+décrochage accidentel d'une charge.
+
+4.5. Lorsque la grue est prévue pour le travail après la tombée du jour ou au
+crépuscule, un éclairage artificiel d’une intensité lumineuse de 20 lux des voies de
+circulation et accès aux postes de commande de la grue est à prévoir.
+
+
+Art. 5. - Dispositions concernant le montage de la grue
+
+5.1. Au moins une personne compétente, ayant suivi une formation spéciale, de
+préférence par le fabricant, sinon par l'importateur de la grue, connaissant parfaitement
+le matériel à monter et ayant une expérience pratique dans le montage de grues, doit
+faire partie des équipes de montage de la grue.
+
+5.2. La grue doit être mise en position de travail et montée conformément aux
+instructions de montage du fabricant de la grue, quelle que soit la configuration de la
+grue.
+
+5.3. Toutes les garanties de stabilité et de solidité doivent être données, quelles que
+soient les conditions météorologiques.
+
+5.4. Les abords du lieu de montage de la grue doivent être tels que la stabilité de la
+grue est garantie en tenant compte d'éventuelles fouilles et excavations ainsi que le
+danger de dégorgement par l’eau de pluie.
+
+5.5. L'exploitant doit informer de manière appropriée les travailleurs des dangers
+pouvant survenir lors du montage de la grue et de ceux résultant de la conduite et de
+l'utilisation de la grue, ainsi que des précautions à prendre.
+
+5.6. Lorsque le mât de la grue est scellé dans un socle en béton en fondation et démuni
+d’un lestage prévu par le fabricant, cette fondation doit être faite selon les instructions
+du fabricant, ou suivant des calculs statiques et dynamiques de la grue. Ce calcul est à
+documenter.
+
+
+Art. 6. - Installations électriques
+
+6.1. La grue doit être équipée respectivement branchée au réseau électrique par
+l’intermédiaire d’un dispositif de surveillance de phases.
+
+
+
+
+Page 3 de 6 pages                                                         ITM-SST 1231.1
+Art. 7. - Exploitation
+
+7.1. La grue doit être installée de façon à ce que sa zone de travail puisse être
+convenablement éclairée, s’il est prévu d’effectuer des travaux, après la tombée du jour
+ou au crépuscule.
+
+7.2. Les abords de la grue et les passages ne doivent pas être encombrés de matériel.
+Lorsque la grue est du type tournante à la base, il doit être obtempéré que le risque de
+coincement soit évité par exemple en rendant l’accès à la base impossible.
+
+7.3. En principe, la visibilité sur la zone d'action de la grue depuis le poste de
+commande de la grue doit être garantie en tout temps. Cependant, lorsque le travail à
+effectuer nécessite que la charge soit prise ou déposée en un lieu hors visibilité du
+grutier, le grutier doit être guidé par une personne compétente ayant la zone d’action
+dans son champ visuel. La communication doit se faire par un moyen de
+communication bidirectionnel ou par signes gestuels entre le grutier et la personne
+compétente.
+
+7.4. Aucune zone ne faisant pas partie du chantier ne doit être balayée par des charges
+transportées par la grue lorsqu'on ne s'est pas assuré que cette zone est libre de toute
+personne.
+
+7.5. La manutention d'objets de grande surface doit être arrêtée lorsque la vitesse du
+vent dépasse la vitesse fixée par le fabricant de la grue (en tenant compte de la
+configuration de la grue) mais au plus tard lorsque la vitesse du vent dépasse 60 km/h.
+
+7.6. Tout travail par grue doit être arrêté lorsque la vitesse de vent dépasse la vitesse
+fixée par le fabricant de la grue (en tenant compte de la configuration de la grue) en
+tenant compte du paragraphe 7.5 ci-dessus.
+Si le fabricant n’a pas prévu une limitation, cette limite est fixée à une vitesse du vent de
+72 km/h.
+Le grutier doit quitter son appareil en pareil cas.
+
+7.7. A chaque fois que le grutier quitte sa grue, la flèche de celle-ci doit être mise en
+girouette. Le grutier doit se rendre compte si la mise en girouette a été réalisée avec
+succès.
+
+7.8. Lors de la mise en girouette, toute charge doit être déposée, le crochet doit être
+mis en position de repos suivant les instructions du fabricant. Le lestage par du matériel
+quelconque est interdit.
+
+7.9. Il est interdit de soulever, en fonction de la portée de travail, des charges plus
+lourdes que celles prévues par le fabricant de la grue.
+
+
+Art. 8. - Grue dont la zone d'action interfère avec un obstacle
+
+8.1. L'exploitant est tenu d'arrêter par écrit des consignes à respecter afin d'éviter toute
+collision entre les parties fixes et mobiles de grues en présence ainsi qu'avec des
+obstacles fixes et les zones de sécurité des lignes haute-tension.
+
+Page 4 de 6 pages                                                           ITM-SST 1231.1
+8.2. Lorsque la grue doit être montée près d’une ligne électrique à haute tension ou à
+tension inconnue, le gestionnaire du réseau électrique, exploitant la ligne en question,
+doit en être informé avant le montage de la grue. Le cas échéant, le gestionnaire du
+réseau électrique définit une zone ou une distance de sécurité qui doit être respectée.
+La distance ou zone de sécurité précisée par le gestionnaire du réseau électrique doit
+être également respectée en cas de balancement de charges, des moyens de levage et
+des moyens de suspension de charges.
+
+8.3. Aucune charge ne doit être transportée au-dessus de lignes électriques. La
+distance ou zone de sécurité, définie par le gestionnaire du réseau électrique en
+question, doit être respectée. En cas de doute ou en cas de conditions météorologiques
+réduisant sensiblement la distance de sécurité entre la grue installée et la ligne
+électrique à haute tension (vent, neige, glace, haute température, etc.), des mesures
+pour rétablir la sécurité doivent être prises, si nécessaire, le gestionnaire du réseau
+électrique est à informer. Le cas échéant, les personnes aux abords et sur la grue
+doivent se rendre en lieu sûr. Des dispositions pour rétablir les conditions de sécurité
+nécessaires doivent être prises.
+
+8.4. Ces consignes doivent être remises au(x) chef(s) de chantier(s), aux grutiers et à
+toutes les autres personnes concernées.
+
+Avant que les grues ne soient mises en service, la personne responsable du chantier
+doit s’assurer personnellement que le grutier et toutes les autres personnes concernées
+connaissent ces consignes et les ont bien comprises.
+
+8.5. En plus des consignes de sécurité, il y a lieu d'installer des dispositifs automatiques
+de contrôle du mouvement des grues. Un tel dispositif de contrôle automatique doit
+consister en un appareillage ralentissant puis arrêtant tout mouvement de grue
+susceptible de provoquer une collision entre les parties fixes et mobiles des grues en
+présence ou entre la grue et un éventuel obstacle fixe.
+Après cet arrêt, il doit être possible au grutier de manœuvrer sa grue avec les
+précautions requises dans la zone dangereuse, tout en activant un dispositif spécial.
+Un son d'avertissement doit retentir dans la cabine de conduite, tant que dure la
+présence de la grue dans la zone dangereuse.
+
+8.6. Il est recommandé de pourvoir les grutiers des grues dont les zones d'action
+interfèrent d'appareils radio, afin qu'ils puissent communiquer verbalement entre eux.
+
+
+Art. 9. - Contrôles périodiques de la grue
+
+9.1. Outre les vérifications prévues lors du premier contrôle périodique dans la
+prescription ITM-SST 1230, une vérification portant sur l'intégralité et la conformité des
+graphiques de charge est à effectuer.
+
+9.2. Lorsque le gestionnaire du réseau électrique a défini une distance ou zone de
+sécurité autour d’une ligne électrique à haute tension, un certificat lui est transmis par
+l’exploitant, attestant le respect ou le non-respect de cette distance ou zone de sécurité.
+
+
+Page 5 de 6 pages                                                          ITM-SST 1231.1
+9.3. Tout crochet de levage dont l’âge dépasse une année doit être démonté et
+présenté à l'organisme de contrôle effectuant les contrôles de réception de la grue s'il
+n'a pas subi ce contrôle dans les derniers douze mois. Lorsque le démontage du
+crochet est impossible, il y a lieu de se référer aux indications du fabricant pour vérifier
+comment une usure du point d'attache du crochet peut être détectée, afin de garantir la
+sécurité du crochet.
+
+9.4. La grue en service doit être contrôlée au moins tous les douze mois par un
+organisme de contrôle, ainsi qu’après chaque montage.
+
+9.5. Par dérogation au paragraphe 9.4, les grues à montage automatique sont
+exemptes du contrôle après chaque montage. Ces grues sont à faire contrôler tous les
+3 mois par un organisme de contrôle s’ils ont subi plus de 3 montages entretemps, ou
+au premier montage après cette échéance. Lorsque ces grues sont en arrêt pendant
+une période dépassant les 3 mois, le contrôle doit être effectué lors du prochain
+montage.
+
+9.6. Les accessoires de levage, tels par exemples câbles, élingues, les chaînes de
+manutention, les crochets secondaires et dispositifs similaires pour l'amarrage, le
+soulèvement et le transport des charges doivent être contrôlés et acceptés tous les 12
+mois par un organisme de contrôle.
+
+
+
+
+                                      Mise en vigueur
+                                      le 9 février 2015
+
+                                              s.
+
+                                         Marco BOLY
+                                         Directeur f.f.
+                                  de l’Inspection du travail
+                                         et des mines
+
+
+
+
+Page 6 de 6 pages                                                          ITM-SST 1231.1
+

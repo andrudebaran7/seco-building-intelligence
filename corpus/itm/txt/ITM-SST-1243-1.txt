@@ -1,0 +1,549 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        Strassen, mai 2013
+
+
+
+
+                                                                                        ITM-SST 1243.1
+
+
+
+       Appareils de levage et de transport de personnes à
+        mobilité réduite utilisés à des fins de soins ou de
+                        traitement médical
+                     (avec marquage « CE »)
+
+
+                                              Prescriptions de sécurité types
+
+                                   Les présentes prescriptions comportent 12 pages
+
+                     Sont également applicables les prescriptions spécifiques à
+                                  l’appareil de levage concerné
+
+                                                              Sommaire
+
+    Article                                                                                        Page
+
+     1.               Objectif et domaine d'application                                                2
+     2.               Définitions                                                                      2
+     3.               Législation et règles techniques                                                 2
+     4.               Protection des utilisateurs                                                      3
+     5.               Formation                                                                        4
+     6.               Mesures de sécurité                                                              4
+     7.               Installations électriques, hydrauliques et mécaniques                            4
+     8.               Accessoires de levage                                                            4
+     9.               Registre de sécurité                                                             5
+    10.               Entretien - Réparation                                                           5
+    11.               Contrôles                                                                        6
+    12.               Modification, transformation                                                     9
+    13.               Accidents – Incidents                                                            9
+    Annexe            Exemples d’appareils visés                                                      11
+
+
+
+
+        ___________________________________________________________________________________________________________________
+        Direction
+        Boîte postale 27 L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-6213   Fax: 49 14 47
+        Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les règles de sécurité et de
+santé types à observer lors de l’implantation, de l’exploitation et du contrôle d’un appareil de
+levage de personnes à mobilité réduite utilisés à des fins de soins ou de traitement médical
+et conçus d’après les exigences des directives applicables dans le cadre de la libre
+circulation de produits dans l’Union Européenne. Des exemples des appareils visés par le
+présent document sont montrés en annexe.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de
+cas en cas par l’Inspection du travail et des mines, selon le cas sur avis d’un organisme de
+contrôle, si des mesures de rechange garantissant une protection au moins équivalente sont
+prises.
+
+Art. 2. - Définitions
+
+Les définitions suivantes s’appliquent dans le cadre des présentes prescriptions :
+
+2.1. « appareil de levage » : appareil destiné à effectuer des opérations de levage de
+personnes à mobilité réduite, dénommé « appareil » par la suite.
+
+« Opération de levage»: opération de déplacement de personnes à mobilité réduite
+nécessitant, à un moment donné, un changement de hauteur avec danger de chute d’une
+hauteur dépassant 20 cm.
+
+2.2. « exploitant » : une personne ou entreprise qui est propriétaire de l’appareil ou qui met
+l’appareil à disposition d’un tiers moyennant un contrat de location ou de leasing ou par toute
+autre moyen ou contrat de mise à disposition.
+
+2.3. « utilisateur » : la personne se trouvant dans l’appareil.
+
+2.4. « conducteur » : toute personne se servant de l’appareil de levage pour effectuer une
+opération de levage d’une personne.
+
+2.5. « composant de sécurité » un composant :
+         qui sert à assurer une fonction de sécurité, et
+         dont la défaillance et/ou le mauvais fonctionnement met en danger la sécurité des
+          personnes, et
+         qui n’est pas indispensable au fonctionnement de la machine ou qui peut être
+          remplacé par d’autres composants permettant à la machine de fonctionner.
+
+2.6. « organisme de contrôle » : tout organisme agrée par le Ministre ayant le travail dans
+ses attributions pour contrôler des ascenseurs et des appareils de levage.
+
+2.7. « ITM » : l’Inspection du travail et des mines
+
+2.8. « ADA » : l’Administration des douanes et accises
+
+Art. 3. - Législation et règles techniques
+
+3.1. Les appareils doivent d'une manière générale être construits, installés, équipés,
+exploités et entretenus conformément aux stipulations des présentes prescriptions et à
+législation et réglementation nationale en vigueur :
+- la loi modifiée du 10 juin 1999 relatif aux établissements classés
+
+
+
+
+Page 2 de 12 pages                                                           ITM-SST 1243.1
+-   le cas échéant, le règlement grand-ducal modifié du 8 janvier 1992 relatif aux machines
+    transposant la directive 98/37/CE relative aux machines ou la loi modifiée du 27 mai
+    2010 relatif aux machines transposant la directive 2006/42/CE relative aux machines en
+    droit luxembourgeois (textes coordonnés ITM-AM 192 respectivement ITM-SST 7201).
+-   le règlement grand-ducal modifié du 11 août 1996 relatif aux dispositifs médicaux
+    transposant la directive 93/42/CEE relative aux dispositifs médicaux
+
+3.2. L’exploitant, le propriétaire, l’utilisateur, le conducteur et la personne ou entreprise
+chargé(e) de la maintenance de l’appareil doivent se conformer à ces règles lors de
+l’exploitation, mais également pendant toute la durée des travaux d’installation, d’entretien,
+de surveillance et de contrôle dont notamment les articles L.311-1 à L.314-4 du Code du
+travail et les articles L.341.1 à L.345.2 et des règlements grand-ducaux pris en exécution de
+ces articles sont applicables, dont notamment le règlement grand-ducal modifié du 4
+novembre 1994 concernant les prescriptions minimales de sécurité et de santé pour
+l’utilisation par les travailleurs au travail d’équipements de travail;
+
+3.3. Sont à suivre les instructions du fabricant de l’appareil.
+
+Art. 4. - Protection des personnes
+
+4.1. Les conducteurs de l’appareil ne doivent être soumis, ni à l’influence de l’alcool ou de
+drogues, ni aux effets de médicaments pouvant influencer leur perception ou réaction en
+quelque sorte, les empêchant ainsi d'effectuer leur fonction sans mettre en danger leur
+sécurité et celle d’autres personnes.
+
+4.2. Les conducteurs d’appareil agissant dans un cadre professionnel doivent se soumettre
+avant leur prise de fonction à une visite médicale constatant leur aptitude à effectuer ces
+tâches. Leur poste de travail est à considérer comme poste à risque au sens de l’article L.
+326-4. Du Code du travail.
+
+La surveillance médicale doit être effectuée conformément aux dispositions :
+   - des articles L.326-1. à L.326-3. du Livre III du Code du travail;
+   - du règlement grand-ducal modifié du 17 juin 1997 concernant la périodicité des
+       examens médicaux en matière de médecine du travail.
+Le cas échéant, l’avis du médecin du travail en relation avec les points 4.1 et 4.2 est décisif.
+
+Les conducteurs d’appareil agissant dans un cadre privé doivent évaluer si leur état de santé
+leur permet d’effectuer leurs tâches de façon à ne pas mettre en danger leur propre sécurité
+ou celle d’autrui.
+
+4.3. Les utilisateurs et conducteurs doivent faire bon usage de tous les dispositifs de
+protection ou de sécurité et de tous les autres moyens destinés à assurer leur propre
+protection ou celle d'autrui. Il est interdit d’enlever ou de modifier les dispositifs de protection.
+
+4.4. L'employeur des personnes conductrices de l’appareil, ainsi que l'entreprise de
+montage, doivent veiller et s’assurer que les personnes qui sont amenées de travailler avec
+un appareil ou de monter un appareil peuvent accomplir leur travail dans les meilleures
+conditions de sécurité, de santé, d'hygiène et d'ergonomie possibles.
+
+
+
+
+Page 3 de 12 pages                                                               ITM-SST 1243.1
+Art. 5. - Formation
+
+5.1. Les exploitants d'appareils et employeurs des personnes conductrices sont tenus
+chacun en ce qui le concerne d'assurer une formation spécifique et continue appropriée et
+suffisante des conducteurs. La formation doit porter sur:
+    - le fonctionnement de l’appareil,
+    - la conduite de l’appareil et de ses accessoires et équipements
+    - l'usage des équipements protecteurs,
+    - le contrôle superficiel de l’appareil, des accessoires et équipements,
+    - la prévention des accidents,
+    - le comportement en cas d'urgences,
+    - l'hygiène et les premiers secours.
+
+5.2. Les conducteurs d’appareils doivent en plus être toujours bien initiés à leur tâche.
+
+5.3. Dans le domaine professionnel l'employeur doit s'assurer que les salariés connaissent
+les consignes et les ont bien comprises. Seuls les salariés dûment formés et autorisés par
+l'employeur doivent prendre part aux opérations de levage de personnes.
+
+Art. 6. - Mesures de sécurité
+
+6.1. L’utilisation de l’appareil doit être réservée aux personnes autorisées.
+
+6.2. En aucun cas, l’appareil ne doit être utilisé dans des conditions différentes de celles
+définies dans la notice d’instruction du fabricant.
+
+6.3. Il est interdit de soulever des charges pour lesquelles l’appareil n’est pas conçu.
+
+6.4. Les appareils, leurs composants et tous leurs équipements connexes et annexes sont à
+mettre hors usage, tant qu'ils présentent des défauts pouvant mettre en danger la santé et la
+sécurité des utilisateurs, conducteurs et des personnes se trouvant dans leurs alentours.
+
+6.5. Une attention particulière est à porter à l’interaction de l’appareil de levage avec son
+entourage direct. Les risques de collision avec des obstacles et de coincement de personnes
+sont à éliminer.
+
+Art. 7. - Installations électriques, hydrauliques, mécaniques
+
+7.1. Le cas échéant, le raccordement de l’appareil doit être conçu, réalisé, entretenu et
+exploité conformément aux normes, prescriptions et directives de sécurité et aux règles de
+l’art et de sécurité normalement applicables au Grand-Duché de Luxembourg.
+
+7.2. L’installation électrique d’appareils destinés à fonctionner dans des locaux humides, à
+l’extérieur ou dans des piscines, bains ou établissements similaires doit être conçue à cet
+effet.
+
+Art. 8. - Accessoires de levage
+
+8.1. Le présent article concerne uniquement les appareils avec lesquels des accessoires de
+levage sont utilisés.
+
+
+
+
+Page 4 de 12 pages                                                              ITM-SST 1243.1
+8.2. Les accessoires de levage utilisés avec l’appareil, tels par exemple, les câbles, élingues,
+assises, crochets secondaires et dispositifs porteurs, doivent être en parfait état et prévus
+pour les charges à manipuler.
+
+Les accessoires de levage doivent avoir un marquage permettant l’identification de
+l’accessoire.
+
+Art. 9. - Registre de sécurité
+
+9.1. L’exploitant de l’appareil doit gérer ou faire gérer un registre de sécurité.
+
+9.2. Ce registre doit contenir :
+       - L’autorisation d’exploitation établie conformément à la loi modifiée du 10 juin 1999
+           relative aux établissements classés,
+       - la déclaration CE de conformité,
+       - la notice d’instructions,
+       - toutes les caractéristiques de l’appareil et ses éléments, les plans et schémas
+           nécessaires à une exploitation et un entretien en sécurité,
+       - les rapports du premier contrôle périodique et des contrôles périodiques,
+       - les fiches de travail et les notes relatives aux interventions d’entretien courant et
+           de dépannage,
+       - les consignes de sécurité relatives à l’exploitation de l’appareil.
+
+9.3. La gestion du registre peut être confiée à l’entreprise chargée de l’entretien courant.
+
+9.4. L’original ou la copie doit être conservé dans l’entreprise chargée de l’entretien courant
+ou chez l’exploitant de l’appareil.
+En tout cas, le registre doit être conservé en un lieu se trouvant sur le territoire du Grand-
+duché de Luxembourg.
+Le registre de sécurité doit être présenté aux agents de l’organisme de contrôle ainsi qu’aux
+inspecteurs de l’ITM et aux agents de l’ADA sur demande.
+
+Art. 10. - Entretien/Réparation
+
+10.1. Sans préjudice de la situation d’entreprises ou d’administrations disposant d’un propre
+personnel qualifié et expérimenté, l’entretien régulier des appareils de même que de leurs
+accessoires doit être assuré par un personnel qualifié.
+
+10.2. Dans le cas où l’exploitant de l’appareil ne dispose pas d’un propre personnel qualifié
+et expérimenté, l’entretien doit s’effectuer sur la base d’un contrat écrit prévoyant, à côté des
+redressements de pannes et de dérangements, le nombre d’interventions régulières
+courantes par an prévues par le fabricant de l’appareil dans sa notice d’instructions.
+Les installations prévues pour le levage de personnes doivent subir au moins une
+intervention d’entretien par an.
+
+10.3. Les installations électriques, hydrauliques, pneumatiques et mécaniques sont à
+maintenir continuellement en bon état d'entretien, de sécurité et de fonctionnement. Il doit
+être remédié sans délai à toutes les défectuosités et anomalies constatées.
+
+10.4. L’entretien au sens du présent article doit garantir un bon état de fonctionnement, de
+fiabilité et de sécurité des appareils de même que de leurs éléments. Il s’effectue suivant les
+règles de l’art et suivant les modes de maintenance et d’entretien fournis par le fabricant.
+
+
+
+
+Page 5 de 12 pages                                                              ITM-SST 1243.1
+10.5. Toutes les interventions d’entretien régulier et chaque action de dépannage doivent
+être consignées dans le registre de sécurité comme fiche de travail. La fiche de travail
+renseigne sur la date et la nature de l’entretien ou la réparation et la personne ayant effectué
+l’entretien ou la réparation.
+
+10.6. A côté des dites interventions régulières, le conducteur, dans les limites de ses
+connaissances techniques, veille à une surveillance sur place de même qu’à la découverte
+rapide et à la demande de redressement subséquente immédiate de tout dérangement et en
+particulier de ceux pouvant mettre en danger les personnes. L’entreprise chargée de
+l’entretien courant est obligée d’instruire et d’informer l’utilisateur et le conducteur sur place
+ou l’exploitant dans la mesure des besoins.
+
+10.7. L’entretien doit s’effectuer dans le strict respect des règles de sécurité au travail.
+
+10.8. Le personnel chargé d'effectuer des travaux d'entretien aux installations électriques et
+hydrauliques doit avoir reçu des consignes écrites concernant les précautions à prendre pour
+éviter tout danger et doit disposer du matériel et de l'équipement de sécurité nécessaires
+pour sa propre protection et pour l'exécution des travaux.
+
+10.9. Toutes précautions appropriées doivent être prises pour empêcher la mise sous
+tension ou sous pression, soit accidentellement, soit par inadvertance d'une installation
+électrique ou hydraulique sur laquelle sont effectués des travaux.
+
+10.10. Lors des travaux de montage, d'entretien ou de réparation des appareils toutes
+mesures efficaces doivent être prises pour protéger les salariés contre tout risque d'accident
+ou toute atteinte à leur santé.
+
+10.11. Une personne chargée d'effectuer des travaux aux appareils doit être instruite des
+précautions à prendre pour éviter les dangers et doit disposer du matériel et de l'équipement
+de sécurité nécessaire pour sa propre protection et pour l'exécution des travaux.
+
+Art. 11. - Contrôles
+
+11.1. Les appareils doivent être contrôlés par un organisme de contrôle, après chaque
+incident ou accident pouvant avoir eu une influence sur la sécurité de l’appareil et après
+chaque modification substantielle, et ce avant leur mise ou remise en service.
+
+11.2. Les contrôles périodiques des appareils ainsi que des accessoires de levage utilisés en
+relation avec l’appareil doivent s’effectuer sur base d’un contrat écrit à conclure entre
+l’organisme de contrôle et l’exploitant de l’appareil. Dans le cas d’une mise à disposition de
+l’appareil à un utilisateur, le contrat écrit est à conclure entre l’organisme de contrôle et
+l’exploitant.
+
+11.3. Sur demande de l’organisme de contrôle, l’exploitant ou une personne qu'il délègue à
+cet effet doit accompagner l'inspecteur de l'organisme de contrôle lors de tout contrôle.
+
+11.4. Les contrôles se baseront notamment sur les présentes prescriptions, sur les normes
+et règles techniques suivies lors de la construction de l’appareil et sur les données
+techniques figurant dans les notices techniques, normes, ainsi que sur les prescriptions
+pertinentes en la matière concernant l’appareil.
+
+11.5. Premier contrôle périodique pour les appareils installés à demeure
+
+
+
+
+Page 6 de 12 pages                                                              ITM-SST 1243.1
+Sans préjudice du strict respect des prescriptions concernant la mise sur le marché de
+machines, l’exploitant doit charger un organisme de contrôle d’un premier contrôle de
+l’installation avant sa mise en exploitation. L’organisme de contrôle considère l’ensemble des
+installations telles qu’installées sur le lieu de l’implantation. Il vérifie tous les éléments et
+toutes les parties dans le contexte de leur interaction et de leur interdépendance entre eux et
+avec leurs alentours.
+
+Ce premier contrôle périodique doit se solder par un rapport de premier contrôle périodique à
+verser ensemble avec une copie de la déclaration CE de conformité au registre de sécurité
+prévu à l’article 9.
+
+Le registre de sécurité doit être transmis d’avance à l’organisme de contrôle.
+
+Les contrôles et essais sur les appareils neufs comprennent:
+
+a) Vérification administrative
+      - vérification de l’autorisation d’exploitation
+    - vérification du certificat de déclaration CE de conformité
+    - vérification du marquage « CE » de conformité
+    - vérification du registre de sécurité.
+
+b) Vérification technique
+    - vérifications portant sur les indications d’identification (panneau d’identification),
+    - vérifications portant sur les panneaux signalétiques avertissements et pictogrammes
+        de sécurité
+    - examens et essais des dispositifs de sécurité, de signalisation et d’éclairage,
+    - essais de fonctionnement des dispositifs de sécurité et de fonctionnement dans
+        toutes les configurations de travail, lors de ces essais. Des essais sous charge sont
+        effectués au cas où le responsable de la mise sur le marché ne s'est pas assuré de
+        l'aptitude à l'emploi après l’installation de l’appareil.
+    - le cas échéant, l’intégration de l’appareil dans son entourage.
+
+11.6. Contrôles périodiques
+
+      11.6.1. Sans préjudice du strict respect des prescriptions ci-dessous concernant
+              l’entretien courant des appareils conçus pour le levage de personnes installés
+              à demeure ou mobiles, ceux-ci sont à contrôler annuellement.
+
+      11.6.2. L’organisme de contrôle considère l’ensemble des installations telles qu’elles
+               fonctionnent sur le lieu d’implantation. Il procède aux essais nécessaires et il
+               apprécie l’objet dans l’optique de sa destination, de son utilisation et de son
+               entretien ainsi que dans le but primordial de la sécurité des personnes.
+
+      11.6.3. Dans ce contexte l’organisme de contrôle procède aux
+               - vérification du registre de sécurité,
+               - examens visuels portant sur l’appareil,
+               - examens et essais des dispositifs de sécurité, de signalisation et
+                 d’éclairage,
+               - essais de fonctionnement des dispositifs de sécurité et de fonctionnement
+                 dans toutes les configurations de travail, lors de ces essais, des essais
+                 sous charge sont exclus
+               - examens visuels portant sur l’ensemble des structures, de la partie
+                 mécanique, de la partie entrainement.
+
+
+
+
+Page 7 de 12 pages                                                            ITM-SST 1243.1
+11.7. Les rapports de contrôle
+
+     11.7.1. Chaque visite de contrôle de l’organisme de contrôle doit se solder avec un
+              rapport et une vignette de contrôle à apposer en un lieu bien visible près des
+              contrôles de l’appareil. La vignette renseigne sur l’échéance du prochain
+              contrôle. Au cas où le rapport demande un ou des recontrôles, la plus courte
+              échéance des recontrôles est à indiquer sur la vignette.
+
+              Chaque rapport doit renseigner sur :
+               la date et la nature de la réception, du contrôle et de la vérification ;
+               l’organisme de contrôle et la personne ayant effectué le contrôle ;
+               le motif du contrôle effectué suite à un incident ou accident (voir article 13
+                ci-après), la cause et la nature de cet incident ou accident.
+               les conclusions
+
+              Le rapport est dressé en deux exemplaires. En cas de premier contrôle
+              périodique les rapports sont soumis, avec une copie, pour visa à l’ITM. Sans
+              préjudice des obligations de l’organisme de contrôle envers son commettant
+              ou autre personne concernée, la distribution finale des rapports est faite par
+              l’organisme de contrôle comme suit :
+              - 1 exemplaire pour l’exploitant
+              - 1 exemplaire archivé par l’organisme de contrôle
+
+              L’exploitant veille à ce que le rapport visé ou au moins une copie du rapport
+              visé soit versée au registre de sécurité prévu à l’article 9 de la présente
+              prescription.
+
+     11.7.2. Au cas où l’organisme de contrôle constate un défaut ou une situation pouvant
+               présenter des dangers pour des personnes, il doit en informer
+               immédiatement l’exploitant par le moyen de communication le plus direct et
+               le plus rapide possible, sans préjudice du rapport écrit ultérieur de
+               préférence en lui faisant contresigner son rapport provisoire de contrôle.
+
+     11.7.3. L’inspecteur de l’organisme de contrôle concerné doit dans un pareil cas
+               indiquer en plus les mesures à prendre immédiatement et il doit s’assurer
+               qu’il est obtempéré et que les risques inacceptables sont éliminés. A défaut,
+               il doit en informer sans délai l’ITM.
+
+     11.7.4. L’exploitant de l’installation doivent veiller à ce que les anomalies éventuelles
+                détectées par l’organisme de contrôle soient levées dans les délais indiqués
+                dans les rapports.
+
+     11.7.5. Une visite de recontrôle par l’organisme de contrôle est à prévoir. Si les
+              réparations ou mises en état n’ont pas pu être effectuées dans les délais
+              fixés par l’organisme de contrôle, l’appareil est à mettre hors service. Avant
+              une remise en service, un nouveau contrôle par l’organisme de contrôle est
+              exigé.
+
+11.8. Organisme de contrôle à charger
+
+     11.8.1. Une analyse ou un contrôle effectué suite à un incident ou accident (voir article
+              13 ci-après), doit être effectué par un autre organisme de contrôle que celui
+              chargé des contrôles périodiques.
+
+
+
+
+Page 8 de 12 pages                                                         ITM-SST 1243.1
+      11.8.2. Lorsqu’un organisme de contrôle fait des constatations sur une installation, il
+               n’est pas possible de charger un autre organisme de contrôle d’une contre
+               expertise. L’Inspection du travail et des mines est chargée en cas de
+               désaccord entre l’exploitant et l’organisme de contrôle de faire la médiation
+               entre parties, sinon de prendre une décision.
+
+Art. 12. - Modification, transformation
+
+12.1. Il est interdit de procéder à une modification de l’appareil sans pour autant procéder à
+une analyse des risques portant sur cette modification. Dans le cas où des modifications
+substantielles visant à modifier la performance, la destination ou le type original de l’appareil
+sont effectuées sur l’appareil, cet appareil devra être considéré comme nouveau produit mis
+sur le marché respectivement mis en service. Les procédures prévues dans les législations
+afférentes sont applicables.
+
+12.2. Il est recommandé de consulter le fabricant.
+
+12.3. Après chaque transformation, chaque réaménagement, subis par l’appareil et pouvant
+avoir eu une influence sur la sécurité de l’installation, l’appareil est à faire soumettre à un
+contrôle par un organisme de contrôle avant la remise en service.
+
+Art. 13. - Accidents - Incidents
+
+13.1. En cas d'accident ou d'incident grave, les responsables pour l’exploitation sont tenus
+de prendre les mesures pour assurer les premiers soins aux victimes.
+
+13.2. Sont à mettre hors service, chaque appareil ayant été la cause d'un accident ou d'un
+incident grave ainsi que chaque appareil ayant subi des avaries pouvant influencer la
+sécurité des personnes. L’ITM est à informer dans un délai de 2 jours ouvrables.
+
+13.3. Ces appareils ne peuvent être remis en service qu'après délivrance d'un rapport de
+contrôle établi par un organisme de contrôle, visé par l’ITM qui ne s’oppose pas à une
+remise en service.
+
+13.4. (1) La déclaration des accidents graves ayant occasionné, soit la mort, soit une lésion
+permanente, soit au moins une des lésions temporaires suivantes:
+                – des fractures;
+                – des brûlures externes au troisième degré et sur plus de neuf pour cent
+                   de la superficie du corps ou internes;
+                – des plaies avec perte de substance ou
+                – des traumatismes qui, en l’absence de traitement, peuvent mettre
+                   la survie en péril,
+
+doit s’effectuer sans délai par l’employeur ou son délégué auprès de l’Inspection du travail et
+des mines, par voie écrite ou par tout moyen de télécommunication approprié.
+
+(2) Les autres accidents de travail et les cas de maladie professionnelle doivent
+obligatoirement être déclarés par l’employeur ou son délégué à l’Inspection du travail et des
+mines.
+
+
+
+
+Page 9 de 12 pages                                                            ITM-SST 1243.1
+Dans le cas de salariés intérimaires accidentés, la déclaration d’accident est à remplir par la
+société utilisatrice et à contresigner par l’entrepreneur de travail intérimaire.
+
+
+
+
+            Visa du Directeur adjoint                   Mise en vigueur, le 15 mai 2013
+         de l’Inspection du travail et des
+                      mines                                             s.
+
+                        s.
+                                                                   Paul WEBER
+                                                                     Directeur
+               Robert HUBERTY                               de l’Inspection du travail
+                                                                   et des mines
+
+
+
+
+Page 10 de 12 pages                                                           ITM-SST 1243.1
+                                                                    ANNEXE
+
+                      Exemples d’appareils de levage visés
+
+
+    Appareil
+
+
+
+
+                            Accessoire
+                            de levage
+
+
+
+
+Page 11 de 12 pages                                          ITM-SST 1243.1
+                      Exemples d’accessoires de levage visés
+
+
+
+
+Page 12 de 12 pages                                            ITM-SST 1243.1
+

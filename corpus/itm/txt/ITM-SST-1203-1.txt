@@ -1,0 +1,733 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                 Strassen, juillet 2011
+
+
+
+                                                                                             ITM-SST 1203.1
+                                                                                             (Ancien numéro ITM-CL 230.2)
+
+
+
+
+                                                       ASCENSEURS
+                                              (régis par la directive 95/16/CE)
+
+
+                         Prescriptions de sécurité et de santé types
+
+                                          Le présent document comporte 16 pages
+
+
+    Sommaire                                                                                                      Article
+
+    1.                                        Objectif et domaine d’application                                           2
+    2.                                        Définitions                                                                 2
+    3.                                        Normes et règles techniques                                                 3
+    4.                                        Prescriptions générales                                                     3
+    5.                                        Intégration de l’ascenseur dans un bâtiment                                 3
+    6.                                        Identification de l’installation                                            7
+    7.                                        Installations électriques                                                   8
+    8.                                        Espace de refuge                                                            8
+    9.                                        Instructions de dépannage                                                   9
+    10.                                       Entretien                                                                   9
+    11.                                       Accidents – Incidents                                                   10
+    12.                                       Contrôles et vérifications                                              10
+    13.                                       Registre de sécurité                                                    13
+    14.                                       Vignette de contrôle                                                    14
+                                              Annexe                                                                  15
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs, L-2361 Strassen Tél.. : 2478-6145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art. 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions
+générales de sécurité relatives aux ascenseurs mis sur le marché et mis en service
+après l’entrée en vigueur du règlement grand-ducal modifié du 25 octobre 1999
+relatif aux ascenseurs.
+
+1.2. Des allégements ou dispenses aux prescriptions concernant l’exploitation
+figurant dans les présentes prescriptions de sécurité types peuvent être accordés de
+cas en cas, mais uniquement si des mesures de rechange garantissant une
+protection au moins équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de
+sécurité équivalent par un organisme de contrôle et acceptées comme telles par
+l'Inspection du travail et des mines.
+
+Art. 2. – Définitions
+
+Dans le cadre des présente, prescriptions, on entend par:
+
+2.1. « ascenseur » : tout appareil utilisé principalement ou subsidiairement au
+     transport de personnes et auquel s’applique le règlement grand-ducal modifié
+     du 25 octobre 1999 relatif aux ascenseurs.
+
+2.2. « bâtiment » : tout bâtiment ou construction servant à l’installation d’un
+     ascenseur.
+
+2.3. « bâtiment bas » : tout bâtiment ou parties d’un bâtiment dont la hauteur du
+     dernier niveau exploitable est inférieure ou égale à 7m par rapport au niveau de
+     référence.
+
+2.4. « bâtiment moyen » : tout bâtiment ou parties d’un bâtiment dont la hauteur du
+      dernier niveau exploitable est supérieure à 7 m et inférieure ou égale à 22 m
+      par rapport au niveau de référence.
+
+2.5. « bâtiment élevé » : tout bâtiment ou parties d’un bâtiment dont la hauteur du
+     dernier niveau exploitable est supérieure à 22 m par rapport au niveau de
+     référence.
+
+2.6. « clapet coupe-feu » : tout clapet motorisé agissant aussi bien en cas de
+     détection d’une sur-température que de fumées.
+
+2.7. « désenfumage » : l’évacuation des fumées et de la chaleur dégagées en cas
+     d’incendie
+
+2.8. « ITM » : l’Inspection du travail et des mines.
+
+
+
+
+Page 2 de 16 pages                                                      ITM-SST 1203.1
+2.9. « niveau de référence » : le niveau de la voirie publique desservant
+     l’établissement et qui est utilisable par les véhicules de secours et de lutte
+     contre l'incendie.
+
+3.0. « organisme de contrôle » : tout organisme autorisé à contrôler les ascenseurs
+      par le règlement ministériel le plus récent en vigueur relatif à l’intervention des
+      organismes de contrôle pris par le ministre ayant dans ses attributions le travail.
+
+3.1. « organisme notifié » : tout organisme notifié à la Commission Européenne dans
+      le cadre de la directive 95/16/CE relative aux ascenseurs.
+
+Art. 3. - Normes et règles techniques
+
+Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à
+appliquer lors du montage et de l'exploitation des ascenseurs sont en particulier les
+présentes prescriptions.
+
+Art. 4. - Prescriptions générales
+
+4.1. Les ascenseurs doivent d’une manière générale être conçus, construits,
+installés, équipés, exploités et entretenus conformément aux prescriptions du
+règlement grand-ducal modifié du 25 octobre 1999 relatif aux ascenseurs.
+
+4.2. L’exploitant doit se conformer aux dispositions des articles L. 311-1 à L. 314-4
+du Titre Ier - Sécurité au travail du Livre III - Protection, Sécurité et Santé des
+travailleurs du Code du travail et de ses règlements d'exécution.
+
+Art. 5. – Intégration de l’ascenseur dans un bâtiment
+
+5.1. Généralités
+
+5.1.1 Lors de la conception de l’installation d’un ascenseur il faut prendre en
+considération l’interaction de l’installation de l’ascenseur avec le bâtiment.
+
+5.1.2 Les conditions du compartimentage telles que reprises au pt 5.2 ci-dessous ne
+sont pas d’application pour les maisons unifamiliales ainsi que pour les ascenseurs
+reliant un même compartiment incendie (p.ex. ascenseurs panoramiques).
+
+5.2. Gaine d’ascenseur
+
+Toute gaine d’ascenseur ou tout ensemble de gaines d’ascenseurs est à
+compartimenter coupe-feu et coupe-fumée envers toute autre unité d’exploitation. La
+gaine de l’ascenseur et les paliers d’accès sont à délimiter :
+
+       Pour les bâtiments bas :
+           par des parois coupe-feu 60 min (REI 60), les portes d’accès aux surfaces
+           d’exploitation doivent être coupe-feu et coupe-fumée 30min (EI 30-S).
+
+
+
+
+Page 3 de 16 pages                                                         ITM-SST 1203.1
+           La gaine d’ascenseur peut se trouver dans la cage d’escalier. Les
+           matériaux de la gaine d’ascenseur doivent dans ce cas être non-
+           combustibles (Euroclasses A1 ou A2).
+
+       Pour les bâtiments moyens :
+           par des parois coupe-feu 90 minutes (REI 90), les portes d’accès aux
+           surfaces d’exploitation doivent être coupe-feu et coupe-fumée 30 minutes
+           (EI 30-S).
+           La gaine d’ascenseur peut se trouver dans la cage d’escalier. Les
+           matériaux de la gaine d’ascenseur doivent dans ce cas être non-
+           combustibles (Euroclasses A1 ou A2).
+
+       Pour les bâtiments élevés :
+           par des parois coupe-feu 90 minutes (REI 90), les portes d’accès aux
+           surfaces d’exploitation doivent être coupe-feu et coupe-fumée 30 minutes
+           (EI 30-S) pour les bâtiments élevés d’une hauteur inférieure ou égale à
+           30m,
+           Par des parois coupe-feu 120 minutes (REI 120), les portes d’accès aux
+           surfaces d’exploitation doivent être coupe-feu et coupe-fumée 60 minutes
+           (EI 60-S) pour les bâtiments élevés d’une hauteur supérieure à 30m.
+
+5.3. Différents cas de figures
+
+Les différentes variantes d’implantation d’un ascenseur dans un bâtiment sont
+concevables selon les figures représentées à l’annexe.
+
+Les conditions spécifiques d’implantation, (notamment la réalisation du
+compartimentage de l’ascenseur vis-à-vis d’autres parties d’un bâtiment), sont fixées
+dans les autorisations d’exploitation délivrées par le ministre ayant dans ses
+attributions le travail pour tous les établissements classés tombant sous ses
+compétences.
+
+Les conditions spécifiques d’implantation pour les établissements de la classe 2
+(ainsi qu’éventuellement pour les établissements non classés) sont fixées par le
+bourgmestre de la commune concernée dans l’autorisation d’exploitation
+(respectivement dans l’autorisation de bâtir à délivrer).
+
+5.4. Désenfumage et ventilation
+
+    5.4.1 Désenfumage
+
+    Un désenfumage de la gaine de l’ascenseur est à prévoir pour garantir
+    l’évacuation des fumées et de la chaleur dégagées en cas d’incendie.
+
+
+
+
+Page 4 de 16 pages                                                      ITM-SST 1203.1
+    Une ouverture horizontale d’une section efficace totale d’au moins 2,5% de la
+    surface horizontale de la gaine de l’ascenseur débouchant à l’extérieur est à
+    réaliser à cet effet en haut de la gaine. Le cas échéant, un calcul de l’ouverture de
+    désenfumage peut être demandé par l’ITM.
+
+    En cas d’une réalisation du désenfumage à l’aide d’une gaine qui traverse
+    d’autres locaux / compartiments, cette gaine de désenfumage est à
+    compartimenter par rapport à ces unités d’un degré coupe-feu, coupe fumée,
+    remplissant les mêmes critères que la gaine d’ascenseur.
+
+    Si cette ouverture se trouve dans un mur vertical, elle doit se trouver en tête de
+    gaine et sa surface doit être d’au moins 5% de la surface horizontale de la gaine
+    de l’ascenseur.
+
+    En cas d’un désenfumage non permanent, l’ouverture du désenfumage doit être
+    asservie à un système de détection de fumée réalisé d’après les règles de l’art et
+    installé dans la gaine de l’ascenseur. Le désenfumage doit être activé dans les
+    situations suivantes :
+
+        -   en cas de détection de fumée dans la gaine ascenseur,
+        -   en cas de dysfonctionnement du système de détection,
+        -   en cas de rupture de l’alimentation électrique,
+
+5.4.2 Ventilation
+
+    Sans préjudice des obligations reprises sous le point 5.4.1 ci-dessus, la
+    ventilation efficace de la gaine de l’ascenseur doit se faire de manière à garantir
+    en tout temps la sécurité et la santé des personnes pouvant se trouver dans
+    l’ascenseur respectivement dans la gaine de l’ascenseur et elle doit respecter les
+    dispositions concernant cette même ventilation du règlement grand-ducal modifié
+    du 25 octobre 1999 relatif aux ascenseurs.
+
+    La ventilation efficace de la gaine de l’ascenseur telle qu’elle est définie ci-
+    dessus doit se faire à travers une ouverture horizontale ou verticale installée en
+    tête de la gaine de l’ascenseur et ayant une surface géométrique d’au moins 1%
+    de la surface horizontale de la gaine.
+
+    La ventilation peut mener, soit :
+        a) à l’air libre, soit
+        b) vers l’intérieur du bâtiment.
+
+        a) Au cas où la ventilation se fait à l’air libre et qu’il s’agit d’une ventilation non
+        permanente, l’activation de cette ventilation (une ouverture occasionnelle
+        adéquate par clapet motorisé) est à prévoir pour garantir la salubrité (humidité,
+        moisissure, température,….) de la gaine ainsi que la sécurité et la santé des
+        personnes pouvant se trouver dans l’ascenseur respectivement dans la gaine
+        de l’ascenseur.
+
+
+
+
+Page 5 de 16 pages                                                              ITM-SST 1203.1
+        L’ouverture de la ventilation peut être prise en compte pour le calcul de la
+        surface de désenfumage telle que décrite à l’alinéa 5.4.1 ci-dessus, si
+        l’ouverture de la ventilation débouche à l’air libre.
+
+        La ventilation non permanente doit aussi être activée afin que la température à
+        l’intérieur de la gaine ne dépasse pas les critères tels que définis par le
+        fabricant de l’ascenseur. Le cas échéant, la ventilation peut être renforcée par
+        l’activation du désenfumage.
+
+        Si l’augmentation de la température à l’intérieur de la gaine d’ascenseur
+        dépasse le niveau pouvant porter préjudice à la sécurité et à la santé des
+        personnes de maintenance pendant leur intervention, une activation de la
+        ventilation respectivement du désenfumage (p.ex. par bouton de commande,
+        par une détection de présence de personnes, par l’activation de la commande
+        de l’ascenseur à partir du toit de la cabine de l’ascenseur, etc.) est également
+        à prévoir.
+
+        b) Si la ventilation non permanente se fait vers l’intérieur du bâtiment dans un
+        compartiment coupe-feu différent du compartiment de la gaine de l’ascenseur,
+        un clapet réglant la ventilation de la gaine d’ascenseur et un clapet coupe-
+        feu/coupe fumée motorisé installés en série, sont à prévoir entre les deux
+        compartiments.
+
+        Au cas d’une ventilation permanente vers l’intérieur du bâtiment, uniquement
+        un clapet coupe-feux / coupe-fumée motorisé est à prévoir entre la gaine
+        d’ascenseur et le compartiment concerné de la ventilation.
+
+     Pour toute ventilation vers l’intérieur d’un bâtiment et pour toute ventilation non
+     permanente, une analyse de son efficacité est à faire par un homme de l’art en la
+     matière.
+
+     Cette analyse est à verser au registre de sécurité de l’installation tel que prévu à
+     l’article 13 ci-après.
+
+     En principe, la ventilation efficace de la gaine de l’ascenseur telle que définie ci-
+     dessus et le désenfumage sont à réaliser d’une façon naturelle.
+
+     Toutefois, si pour des raisons de conception, un système de ventilation
+     respectivement de désenfumage mécanique(s) de la gaine de l’ascenseur ou du
+     volume à l’intérieur du bâtiment dans lequel la gaine de l’ascenseur est ventilée
+     doit être prévu pour pouvoir remplir les conditions de désenfumage et de
+     ventilation efficace telle que définie ci-dessus, une description technique de la
+     réalisation est à joindre à la demande d’autorisation de l’ascenseur.
+
+     Les conditions à respecter en pareil cas seront fixées cas par cas dans l’arrêté
+     d’autorisation du ministre ayant dans ses attributions le travail.
+
+
+
+
+Page 6 de 16 pages                                                          ITM-SST 1203.1
+    Si par la fixation d’éléments de protection (grille, clapet, chapeau, etc.) sont
+    réduites les ouvertures dynamiques concernant la ventilation respectivement le
+    désenfumage de la gaine d’un ascenseur par rapport aux surfaces géométriques
+    initiales, les ouvertures géométriques doivent être adaptées de sorte qu’une
+    ouverture libre efficace de 1% pour la ventilation respectivement 2,5% pour le
+    désenfumage soit garantie.
+
+    Pour définir les ouvertures réelles nécessaires il y lieu de se référer aux normes
+    respectives.
+
+5.5. Mesures de sécurité spécifiques
+
+5.5.1. En cas de panne d'électricité, les cabines d'ascenseurs doivent être ramenées
+automatiquement et rester bloquées,
+
+    •   pour les bâtiments bas et moyens équipés d’un groupe électrogène de
+        secours : au niveau de référence respectivement au niveau le plus proche,
+    •   pour les bâtiments élevés (qui de toute façon sont équipés d’un groupe
+        électrogène) : au niveau de référence.
+
+5.5.2. En cas d’incendie, les ascenseurs d’un bâtiment doivent être ramenés au
+niveau de référence (respectivement au niveau le plus proche du niveau de
+référence, si le niveau de référence est concerné par une alerte d’incendie) si le
+bâtiment concerné est équipé d’une installation de détection incendie.
+
+5.5.3. Le raccordement des ascenseurs à des installations d’alimentation de sécurité
+(p.ex. à un groupe électrogène) permettant de les ramener au niveau de référence
+en cas de rupture de l’alimentation normale
+
+    •   peut se faire par du câble standard pour les bâtiments bas et moyens,
+    •   doit être réalisé par du câble résistant au feu pendant 60 minutes au moins
+        p.ex. P60 ou par un compartimentage REI 60 du câblage selon la norme EN
+        13501 pour les bâtiments élevés dont la hauteur est supérieure à 30m.
+
+5.5.4. Les cabines des ascenseurs doivent être équipées d’un appareil de
+communication bidirectionnel permettant de contacter en tout temps depuis la cabine
+de l’ascenseur verbalement les services de secours, soit directement, soit en
+passant par un poste de gardiennage éventuel, qui doit dans ce cas être occupé
+continuellement.
+
+Art. 6. – Identification de l’installation
+
+6.1. Afin de garantir lors d’un appel de secours depuis l’intérieur d’une cabine
+d’ascenseur une intervention efficace des services d’intervention, il est nécessaire
+d’équiper chaque cabine d’ascenseur d’une pancarte indiquant l’adresse de
+l’immeuble dans lequel cet ascenseur est installé et le numéro de l’ascenseur si cet
+immeuble en comporte plusieurs.
+
+
+
+
+Page 7 de 16 pages                                                      ITM-SST 1203.1
+Cette numérotation doit aussi être reprise près des ascenseurs au rez-de-chaussée
+et au niveau de référence de l’immeuble ainsi que dans la salle des machines.
+
+6.2. Un affichage dans au moins deux des langues luxembourgeoise, française ou
+allemande, ou un pictogramme doit être placé près de chaque porte palière,
+indiquant que l’usage de l’ascenseur est interdit lors d’un incendie dans l’immeuble.
+
+Art. 7. - Installations électriques
+
+Les installations de raccordement de l’ascenseur aux installations d'énergie
+électrique du bâtiment, ainsi que leurs annexes doivent être conçues, réalisées,
+entretenues et exploitées conformément aux normes, prescriptions et directives de
+sécurité, de même qu'aux règles de l'art, de la sécurité et de l'hygiène normalement
+applicables dans le Grand-Duché de Luxembourg, à savoir:
+         • aux prescriptions allemandes afférentes DIN/VDE,
+         •    aux normes européennes CENELEC, au fur et à mesure que celles-ci
+              paraissent et remplacent les prescriptions DIN/VDE précitées,
+         •    aux prescriptions de raccordement pour les installations à courant fort
+              disposant d’une tension nominale inférieure ou égale à 1000 V au Grand-
+              Duché de Luxembourg (TAB-BT),
+         •    aux prescriptions de raccordement pour les postes à moyenne tension au
+              Grand-Duché de Luxembourg (TAB-MT),
+         •    aux règlements communaux applicables en la matière.
+
+Art. 8. – Espace de refuge
+
+Tout ascenseur doit être conçu et construit pour que l'accès au volume parcouru par
+la cabine soit empêché, sauf pour la maintenance et les cas d'urgence. Avant qu'une
+personne ne se trouve dans ce volume, l'utilisation normale de l'ascenseur doit être
+rendue impossible.
+
+Tout ascenseur doit être conçu et construit pour empêcher tout risque d'écrasement
+lorsque la cabine se trouve dans une de ses positions extrêmes. Cet objectif est
+atteint par un espace libre ou un refuge au-delà des positions extrêmes.
+
+Cependant, dans des cas exceptionnels prévus par le règlement grand-ducal modifié
+du 25 octobre 1999 relatif aux ascenseurs, le ministre ayant dans ses attributions le
+travail peut donner son autorisation pour installer un ascenseur sans espace libre ou
+refuge respectivement avec espace libre ou refuge à dimensions réduites et ceci
+notamment dans des immeubles existants si les conditions décrites ci-dessus ne
+peuvent être réalisées.
+
+A cet effet, une demande de dérogation pour la construction d’un ascenseur avec
+des refuges à dimension réduites doit être adressée à l’ITM avant le début des
+travaux de construction de la gaine de l’ascenseur par moyen d’une lettre
+recommandée avec avis de réception. Cette demande doit être accompagnée d’une
+justification technique avec un descriptif des mesures compensatoires. L’ITM peut
+exiger que le demandeur charge un organisme notifié de donner un avis.
+
+
+
+
+Page 8 de 16 pages                                                      ITM-SST 1203.1
+D’autres moyens doivent être prévus pour éviter le risque d’écrasement lorsque la
+cabine se trouve dans une des positions extrêmes dans le cadre de la procédure
+d’évaluation de la conformité décrite au chapitre IV du règlement grand-ducal modifié
+du 25 octobre 1999 relatif aux ascenseurs.
+
+Art. 9. – Instructions de dépannage
+
+Les instructions de dépannage et de déblocage de l’installation doivent être affichées
+au moins en deux langues, en tout cas en français et en allemand auprès de la
+machine et de ses organes de commande.
+
+Art. 10. - Entretien
+
+10.1. Les installations sont à maintenir continuellement en bon état d’entretien, de
+sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les
+défectuosités et anomalies constatées.
+
+10.2. L’entretien régulier des installations doit être assuré par un personnel qualifié
+tel que défini aux articles 20.1 et 20.2 du règlement grand-ducal relatif aux
+ascenseurs repris sub 4.1 ci-dessus.
+
+Sont également à contrôler régulièrement les systèmes de ventilation respectivement
+de désenfumage non permanents, de même que leurs systèmes de détection.
+
+10.3. Au cas où des opérations d’entretien sont effectuées dans la gaine de
+l’ascenseur et qui ne sont pas en relation directe avec les installations de
+l’ascenseur, comme par exemple le nettoyage des vitres de la gaine, le personnel
+entrant dans la gaine doit :
+
+   -   être accompagné par une personne d’une entreprise telle que décrite au
+       paragraphe10.2. ci-dessus ou
+   -   avoir reçu une formation adéquate par une personne d’une entreprise telle
+       que décrite au paragraphe 10.2 ci-dessus, et avoir reçu des instructions
+       écrites concernant la sécurité pour les opérations dans l’ascenseur. Cette
+       formation doit être reconduite pour chaque type d’ascenseur
+
+10.4. Lors des travaux de montage, d’entretien ou de réparation des installations
+toutes mesures efficaces doivent être prises pour protéger les travailleurs contre tout
+risque d’accident et toute atteinte à leur santé.
+
+10.5. Le personnel chargé d’effectuer des travaux aux installations doit être instruit
+des précautions à prendre pour éviter les dangers et doit disposer du matériel et de
+l’équipement de sécurité nécessaires pour sa propre protection pendant l’exécution
+des travaux.
+
+10.6. Ce même personnel doit avoir acquis les aptitudes nécessaires et doit avoir
+reçu les instructions, formations et formations continues requises.
+
+
+
+
+Page 9 de 16 pages                                                       ITM-SST 1203.1
+10.7. L’exécution des travaux doit être placée sous la surveillance d’un responsable.
+
+10.8. Toutes précautions appropriées doivent être prises pour empêcher la mise en
+mouvement, soit accidentelle, soit par inadvertance de l’ascenseur ou de tout autre
+équipement annexe ou connexe de l’installation sur laquelle sont effectués des
+travaux, ou qui, compte tenu de sa conception ou de ses liens électriques,
+mécaniques ou hydrauliques, pourra entrer dans le champ de travail d’entretien ou
+de réparation.
+
+10.9. Toutes précautions appropriées doivent être prises pour empêcher la mise
+sous tension, soit accidentelle, soit par inadvertance d’une installation électrique sur
+laquelle sont effectués des travaux.
+
+10.10 Le local machine(s) doit être accessible à tout moment au personnel autorisé.
+Pour cette raison, soit :
+
+    •   la (les) porte(s) d’entrée dudit local est (sont) à équiper d’une serrure
+        fonctionnant à l’aide d’une clef spéciale s’adaptant au triangle de
+        déverrouillage, conformément à l’annexe B de la norme EN 81-1:1998,
+    •   la clef de(s) la porte(s) du local machine(s) est à déposer dans un boîtier fixé à
+        proximité du local machine, boîtier qui doit pouvoir être ouvert avec la clef
+        spéciale en forme de triangle telle que décrite ci-dessus.
+
+Art. 11. – Accidents - Incidents
+
+11.1. Chaque ascenseur ayant été la cause d'un accident ou d'un incident grave
+ainsi que chaque ascenseur ayant subi des avaries pouvant influencer la sécurité
+des personnes est à mettre hors service. L’ITM est à informer en pareil cas endéans
+un délai de 2 jours ouvrables.
+
+11.2. Ces ascenseurs ne peuvent être remis en service qu’après délivrance d’un
+certificat de sécurité établi par un organisme de contrôle.
+
+Art. 12. – Contrôles et vérifications
+
+12.1. Les ascenseurs doivent être contrôlés par un organisme de contrôle avant leur
+mise en service, après chaque incident ou accident pouvant avoir eu une influence
+sur la sécurité de l’ascenseur et après chaque modification substantielle, et ce avant
+leur mise ou remise en service.
+
+12.2. Les contrôles sont à effectuer suivant l’échéancier prévu par le règlement
+grand-ducal modifié du 25 octobre 1999 relatif aux ascenseurs par un organisme de
+contrôle.
+
+12.3. Sur demande de l’organisme de contrôle, le propriétaire ou l'exploitant de
+l’ascenseur ou une personne qu'ils délèguent à cet effet doit accompagner
+l'inspecteur de l'organisme de contrôle lors de tout contrôle.
+
+
+
+
+Page 10 de 16 pages                                                         ITM-SST 1203.1
+12.4. Les contrôles se baseront notamment sur le règlement grand-ducal
+susmentionné, les présentes prescriptions, sur les normes et règles techniques
+suivies lors de la construction de l’ascenseur et sur les données techniques figurant
+dans les notices techniques, normes, ainsi que sur les prescriptions pertinentes en la
+matière concernant l’ascenseur.
+
+12.5. Premier contrôle périodique
+
+Sans préjudice du strict respect des prescriptions concernant la mise sur le marché
+d’ascenseurs, leur propriétaire ou exploitant doit charger un organisme de contrôle
+d’un premier contrôle de l’installation avant sa mise à disposition. L’organisme de
+contrôle considère l’ensemble des installations telles qu’installées sur le lieu de
+l’implantation. Il vérifie tous les éléments et toutes les parties dans le contexte de leur
+interaction et de leur interdépendance entre eux et avec leurs alentours et
+notamment le bâtiment où il est intégré. Ce premier contrôle périodique doit se solder
+par un rapport de premier contrôle périodique à verser ensemble avec une copie de
+la déclaration CE de conformité au registre de sécurité.
+
+Les contrôles et essais sur les ascenseurs neufs comprennent:
+
+a) Vérification administrative
+   - vérification de l’autorisation d’exploitation
+   - vérification du certificat de déclaration CE de conformité
+   - vérification du marquage « CE » de conformité
+   - vérification du registre de sécurité.
+
+b) Vérification technique
+   - vérifications portant sur les indications d’identification (panneau
+       d’identification),
+   - vérifications portant sur les panneaux signalétiques avertissements et
+       pictogrammes de sécurité
+   - examens et essais des dispositifs de sécurité, de signalisation et d’éclairage,
+   - essais de fonctionnement des dispositifs de sécurité dans toutes les
+       configurations de travail
+   - Le fonctionnement des systèmes de ventilation respectivement de
+       désenfumage non permanents, de même que leurs systèmes de détection.
+   - le cas échéant, l’intégration de l’ascenseur dans son entourage.
+
+12.6. Contrôles périodiques
+
+12.6.1. Sans préjudice du strict respect des prescriptions ci-dessous concernant
+l’entretien courant des ascenseurs, ceux-ci doivent en plus être soumis
+régulièrement à un examen et à des essais annuels par un organisme de contrôle.
+
+12.6.2. L’organisme de contrôle considère l’ensemble des installations telles qu’elles
+fonctionnent sur le lieu d’implantation. Il procède aux essais nécessaires et il
+apprécie l’objet dans l’optique de sa destination, de son utilisation et de son entretien
+ainsi que dans le but primordial de la sécurité des personnes.
+
+
+
+
+Page 11 de 16 pages                                                          ITM-SST 1203.1
+12.6.3. Dans ce contexte l’organisme de contrôle procède aux
+        - vérification du registre de sécurité,
+        - examens visuels portant sur l’ascenseur,
+        - examens et essais des dispositifs de sécurité, de signalisation et
+          d’éclairage,
+        - essais de fonctionnement des dispositifs de sécurité et de fonctionnement
+          dans toutes les configurations de travail,
+        - examens visuels portant sur l’ensemble des structures, de la partie
+          mécanique, de la partie entrainement de la charge.
+        - le fonctionnement des systèmes de ventilation respectivement de
+          désenfumage non permanents, de même que leurs systèmes de
+          détection.
+
+12.7. Les rapports de contrôle
+
+12.7.1. Chaque visite de contrôle de l’organisme de contrôle doit se solder avec un
+rapport et une vignette de contrôle à apposer dans la cabine. La vignette renseigne
+sur l’échéance du prochain contrôle. Au cas où le rapport demande un ou des
+recontrôles, la plus courte échéance des recontrôles est à indiquer sur la vignette.
+
+Chaque rapport doit renseigner sur :
+     − la date et la nature de la réception, du contrôle et de la vérification ;
+     − l’organisme de contrôle et la personne ayant effectué le contrôle ;
+     − le motif du contrôle effectué suite à un incident ou accident, la cause et la
+        nature de cet incident ou accident.
+     − les conclusions
+
+Le rapport est dressé en deux exemplaires. En cas de premier contrôle périodique
+les rapports sont soumis, avec une copie, pour visa à l’ITM, qui fait archivage de la
+copie. Sans préjudice des obligations de l’organisme de contrôle envers son
+commettant ou autre personne concernée, la distribution finale des rapports est faite
+par l’organisme de contrôle comme suit :
+         - 1 exemplaire pour l’exploitant
+         - 1 exemplaire archivé par l’organisme de contrôle
+
+Le propriétaire et/ou l’exploitant veillent à ce que le rapport visé ou au moins une
+copie du rapport visé soit versée au registre de sécurité.
+
+12.7.2. Au cas où l’organisme de contrôle constate un défaut ou une situation
+pouvant présenter des dangers pour des personnes, il doit en informer
+immédiatement l’exploitant par le moyen de communication le plus direct et le plus
+rapide possible, sans préjudice du rapport écrit ultérieur de préférence en lui faisant
+contresigner son rapport provisoire de contrôle.
+
+
+
+
+Page 12 de 16 pages                                                      ITM-SST 1203.1
+12.7.3. L’inspecteur de l’organisme de contrôle concerné doit dans un pareil cas
+indiquer en plus les mesures à prendre immédiatement et il doit s’assurer qu’il est
+obtempéré et que les risques inacceptables sont éliminés. A défaut, il doit en
+informer sans délai l’ITM.
+
+12.7.4. Le propriétaire et/ou l’exploitant de l’installation doivent veiller à ce que les
+anomalies éventuelles détectées par l’organisme de contrôle soient levées dans les
+délais indiqués dans les rapports.
+
+12.7.5. Une visite de recontrôle par l’organisme de contrôle est à prévoir. Si les
+réparations ou mises en état n’ont pas pu être effectuées dans les délais fixés par
+l’organisme de contrôle, l’ascenseur est à mettre hors service. Avant une remise en
+service, un nouveau contrôle par l’organisme de contrôle est exigé.
+
+12.8. Organisme de contrôle à charger
+
+12.8.1. Une analyse ou un contrôle effectué suite à un incident ou accident doit être
+effectué par un autre organisme de contrôle que celui chargé des contrôles
+périodiques.
+
+12.8.2. Lorsqu’un organisme de contrôle fait des constatations sur une installation, il
+n’est pas possible de charger un autre organisme de contrôle d’une contre expertise.
+L’Inspection du travail et des mines est chargée en cas de désaccord entre
+l’exploitant et l’organisme de contrôle de faire la médiation entre parties, sinon de
+prendre une décision.
+
+Art. 13. – Registre de sécurité
+
+13.1. Un registre de sécurité tel que prévu à l’article 21 du règlement grand-ducal
+repris sous le paragraphe 4.1. ci-dessus doit être ouvert pour chaque ascenseur.
+
+Le registre de sécurité doit contenir en plus des éléments prévus au règlement
+grand-ducal repris sous le paragraphe 4.1. ci-dessus :
+      - Le certificat CE de conformité
+      - L’analyse des risques établie conformément aux dispositions du paragraphe
+        5.4.2 ci-dessus
+
+13.3. Ce registre de sécurité doit être tenu à la disposition des inspecteurs de
+l’organisme de contrôle ainsi que des agents des autorités de l’Etat compétents en la
+matière, effectuant les contrôles et vérifications.
+
+13.4. Ce registre de sécurité doit être déposé à cet effet dans la salle des machines
+ou auprès des organes de commandes de l’ascenseur, de préférence dans une
+armoire fermée par une clef à trois pans.
+
+
+
+
+Page 13 de 16 pages                                                        ITM-SST 1203.1
+Art. 14. – Modifications et transformations
+
+Il est interdit de procéder à des modifications de l’ascenseur sans pour autant
+procéder à une analyse des risques portant sur cette modification. Dans le cas où
+des modifications substantielles visant à modifier la performance, la destination ou le
+type original de l’ascenseur sont effectuées sur l’ascenseur, cet ascenseur doit être
+considéré comme nouveau produit mis sur le marché respectivement mis en service
+au sens de la directive 95/16/CE relative aux ascenseurs. Les procédures
+respectives prévues par cette directive sont alors applicables. Toutes les
+modifications sont à documenter conformément aux annexes afférentes de la
+directive 95/16/CE.
+
+Il est recommandé en pareil cas de consulter le fabricant de l’appareil
+
+Après chaque transformation, chaque réaménagement, subis par l’ascenseur et
+pouvant avoir eu une influence sur la sécurité de l’installation, l’ascenseur est à faire
+soumettre à un contrôle par un organisme de contrôle avant la remise en service.
+
+
+
+          Visa du Directeur adjoint                       Mise en vigueur
+          de l’Inspection du travail                      le 12 juillet 2011
+                 et des mines
+                                                                  s.
+                      s.
+                                                            Paul WEBER
+              Robert HUBERTY                                   Directeur
+                                                      de l’Inspection du travail
+                                                             et des mines
+
+
+
+
+Page 14 de 16 pages                                                        ITM-SST 1203.1
+                                     Annexe
+
+ 1) Critères du compartimentage dépendant du type de bâtiment :
+
+
+
+
+2) Configurations à respecter selon l’exploitation et l’aménagement de l’immeuble :
+
+   Figure 1)
+
+
+
+
+Page 15 de 16 pages                                                    ITM-SST 1203.1
+    Figure 2)
+
+
+
+
+    Figure 3)
+
+
+
+
+Les caractéristiques REI(S) du compartimentage de la figure 3 sont normalement
+atteintes par une porte supplémentaire à rajouter devant la porte palière de
+l’ascenseur.
+
+Si la porte donnant accès à l’unité d’exploitation peut être verrouillée, toutes les
+mesures de sécurité nécessaires doivent être prises pour éviter tout enfermement
+d’une personne entre la porte de la cabine de l’ascenseur et la porte donnant accès
+à l’unité d’exploitation ainsi que pour éviter tout risque d’écrasement d’une personne
+entre ces portes lors d’une mise en marche éventuelle de l’ascenseur.
+
+
+
+
+Page 16 de 16 pages                                                     ITM-SST 1203.1
+

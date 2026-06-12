@@ -1,0 +1,578 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                            Strassen, 14 février 2012
+
+
+
+                                                                                                   ITM-SST 1830.1
+                                                                                                    (Ancien N° ITM-CL 115.1)
+
+
+
+
+                                                   INSTALLATIONS A LASER
+
+
+                                               U   Prescriptions de sécurité types
+                                                   Le présent document comporte 12 pages
+
+
+                                                                   U   Sommaire
+
+
+    Article                                                                                                             Page
+
+
+      1.        Objectif et domaine d'application                                                                          3
+
+      2.        Définitions                                                                                                3
+
+      3.        Normes et règles techniques                                                                                4
+
+      4.        Prescriptions générales                                                                                    4
+
+      5.        Construction et équipement des installations à laser                                                       5
+
+      6.        Réceptions et contrôles                                                                                    6
+
+      7.        Exploitation                                                                                               6
+
+                7.1)         Responsable de sécurité Laser                                                                 6
+                7.2)         Délimitation et signalisation des zones de danger                                             7
+                7.3)         Mesures de sécurité                                                                           8
+                7.4)         Entretien des installations à laser                                                           9
+
+      8.        Surveillance médicale                                                                                    10
+
+      9.        Utilisations particulières                                                                               10
+           _____________________________________________________________________________________________________________________
+           Direction
+           Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+           Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 247-86145    Fax: 49 14 47
+           Site Internet : http://www.itm.lu
+        9.1)    Installations à laser pour démonstrations,
+                affichages et spectacles                                    10
+        9.2)    Installations à laser pour démonstrations
+                dans l'enseignement                                         10
+        9.3)    Installations à laser pour utilisations médicales           11
+        9.4)    Installations à laser pour travaux d'alignement
+                et de nivellement                                           11
+
+10.     Signalisation de sécurité                                           12
+
+11.     Registre                                                            12
+
+
+
+
+Page 2 de 12 pages                                                  ITM-SST 1830.1
+Art. 1er - Objectif et domaine d'application
+
+1.1 Les présentes prescriptions ont pour objectif de spécifier les prescriptions
+générales de sécurité relatives aux installations à laser.
+
+1.2 Des allégements ou dispenses aux présentes prescriptions peuvent être
+accordées au cas par cas, mais uniquement si des mesures de rechange
+garantissant une protection au moins équivalente, sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de
+sécurité équivalent par un organisme de contrôle et acceptées comme telles par
+l'Inspection du travail et des mines.
+
+Art. 2. - Définitions
+
+2.1 Sous la dénomination « organisme de contrôle » est à comprendre tout
+organisme autorisé à contrôler les installations à laser par le règlement ministériel le
+plus récent en date, du Ministre ayant dans ses attributions le travail concernant
+l'intervention d'organismes de contrôle dans le cadre des compétences et attributions
+de l’Inspection du travail et des mines.
+
+2.2 Par « installation à laser » est à comprendre tout appareil et toute installation
+servant à générer, à transmettre ou à utiliser un ou plusieurs rayons laser.
+
+2.3 Par « laser » (amplification de lumière par une émission stimulée de
+rayonnements) : est à comprendre tout dispositif susceptible de produire ou
+d’amplifier des rayonnements électromagnétiques de longueur d’onde correspondant
+aux rayonnements optiques, essentiellement par le procédé de l’émission stimulée
+contrôlée.
+
+2.4 Par « rayonnements laser » sont à comprendre les rayonnements optiques
+provenant d’un laser.
+
+2.5 La « classe d'une installation à laser » caractérise le potentiel de danger que peut
+présenter le rayon laser.
+Les classes 1, 1M, 2, 2M, 3R, 3B et 4 mentionnées dans les présentes prescriptions
+sont à comprendre au sens des définitions reprises dans la norme EN 60825.
+
+2.6 Par « limite d'émission accessible » (LEA) est à comprendre le niveau maximal
+d'émission accessible permis dans une classe particulière.
+
+2.7 Par « exposition maximale permise » (EMP) est à comprendre le niveau de
+rayonnement laser auquel des personnes peuvent être exposées dans les conditions
+normales sans subir des effets nuisibles. Une définition plus rigoureuse, des niveaux
+d'exposition maximale permise dans l'état actuel des connaissances ainsi que des
+exemples de calcul de l'exposition maximale permise sont spécifiés dans la norme
+EN 60825.
+
+
+
+
+Page 3 de 12 pages                                                        ITM-SST 1830.1
+2.8 Par « zone de risque laser » est à comprendre la zone à l'intérieur de laquelle,
+l'éclairement ou l'exposition énergétique est susceptible de dépasser l'exposition
+maximale permise (EMP) appropriée sur la cornée.
+
+Art. 3. - Normes et règles techniques
+
+Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à
+appliquer lors de la conception, de la construction, du montage, de l'aménagement et
+de l'exploitation sont en particulier les présentes prescriptions et en général les
+normes européennes (EN) afférentes les plus récentes en vigueur, notamment la
+norme EN 60825.
+
+La conception et la construction des installations à laser ne sont régies par les
+présentes prescriptions seulement si elles ne sont pas déjà régies par les
+dispositions de la directive modifiée 2006/42/CE relative aux machines.
+
+Art. 4. - Prescriptions générales
+
+4.1 Il est interdit d'utiliser des installations à laser ou des parties de ces installations,
+qui ne sont pas construites, disposées ou mises en œuvre dans des conditions
+assurant la sécurité et l'hygiène des travailleurs.
+
+4.2 L'exploitant doit en outre se conformer:
+
+ - au Code du travail et des arrêtés et règlements grand-ducaux pris en exécution de
+    ce Code dont notamment:
+
+     * le règlement grand-ducal modifié du 4 novembre 1994 concernant les
+       prescriptions minimales de sécurité et de santé pour l'utilisation par les
+       travailleurs au travail d'équipements de travail;
+     * le règlement grand-ducal du 4 novembre 1994 concernant les prescriptions
+       minimales de sécurité et de santé pour l'utilisation par les travailleurs au
+       travail d'équipements de protection individuelle;
+     * le règlement grand-ducal du 26 juillet 2010
+        1. relatif aux prescriptions minimales de sécurité et de santé relatives à
+            l’exposition des salariés aux risques dus aux agents physiques
+            (rayonnements optiques artificiels et rayonnement solaires)
+        2. portant modification du règlement grand-ducal modifié du 17 juin 1997
+            concernant la périodicité des examens médicaux en matière de
+            médecine du travail
+
+ - à la loi du 27 mai 2010 relative aux machines, transposant en droit
+   luxembourgeois la directive modifiée 2006/42/CE relative aux machines, si un
+   laser est intégré dans des installations tombant sous les dispositions de cette
+   législation.
+
+
+
+
+Page 4 de 12 pages                                                            ITM-SST 1830.1
+Art. 5. - Construction et équipement des installations à laser
+
+5.1 Les installations à laser doivent être rangées dans une des classes de 1 à 4
+mentionnées au paragraphe 2.5 et doivent être clairement identifiées comme
+appartenant à une de ces classes.
+
+Si la modification par l'utilisateur d'une installation à laser initialement classifiée
+affecte un aspect quelconque des performances de l'appareil ou de ses fonctions
+prévues, la personne ou l'organisation effectuant une telle modification a la
+responsabilité d'assurer la reclassification et le nouvel étiquetage de l'installation à
+laser.
+
+5.2 Les installations à laser doivent être pourvues des équipements de protection
+nécessaires pour réduire les possibilités d'exposition à un rayonnement laser de
+niveau dangereux et à d'autres risques associés tels que par exemple, les
+émanations de gaz ou de vapeurs provenant des agents cryogènes, des
+rayonnements connexes émis par les lampes à éclair ou aux tubes à décharge de
+lasers continus, des rayonnements de retour de cible, des risques électriques par
+l'utilisation de hautes tensions, de l'énergie accumulée dans des batteries de
+condensateurs.
+
+5.3 Le faisceau émis par tout appareil à laser des classes 3B et 4 doit être terminé à
+la fin de son trajet utile ou par une matière à réflexion diffuse ayant une réflectivité et
+des propriétés thermiques adéquates, ou par des absorbeurs.
+
+Les trajets des faisceaux laser doivent être enfermés dans la mesure du possible,
+dans une enceinte de protection.
+
+5.4 Les installations à laser des classes 3 à 4 doivent être conçues et équipées de
+telle façon que tout rayonnement involontaire soit rendu impossible par l'utilisation de
+commandes de sécurité adéquates qui ne peuvent être actionnées que sous
+l'exercice d’une action volontaire.
+
+5.5 Les miroirs, les lentilles et les diviseurs de faisceau doivent avoir une monture
+rigide et ne doivent être soumis à des mouvements commandés que pendant le
+temps d'émission du laser.
+
+5.6 Les installations à laser des classes 3 à 4 doivent être conçues et équipées de
+telle façon que toute réflexion spéculaire involontaire du rayonnement soit
+impossible.
+
+5.7 Les installations d'optique ou équipements de protection individuelle utilisés pour
+l'observation ou pour l'ajustement des installations à laser doivent être conçus de
+façon à ce que la limite d'émission accessible, correspondant aux installations de la
+classe 1M, ne soit pas dépassée.
+
+
+
+
+Page 5 de 12 pages                                                           ITM-SST 1830.1
+5.8 Les équipements optiques destinés à être utilisés comme adapteurs non fixes sur
+des installations à laser, doivent porter des indications renseignant sur les
+modifications relatives au rayonnement et sur l'exposition que l'équipement optique
+est supposé engendrer.
+
+5.9 Les installations à laser des classes 1 à 3R doivent être conçues de manière à ce
+qu'il ne soit pas possible d'y installer des adaptateurs qui entraînent un reclassement
+de l'installation vers les classes 3B et 4.
+
+Art. 6. - Réceptions et contrôles
+
+6.1.1 Les installations à laser qui comprennent des sources laser des classes 3B et 4
+doivent être réceptionnées avant leur mise en service par un organisme de contrôle
+agréé.
+
+6.1.2 Pour les installations à laser qui comprennent des sources laser des classes
+3B et 4, un organisme de contrôle doit vérifier les zones à risque laser et contrôler
+que toutes les mesures de sécurité telles que spécifiées à l'article 5 et au paragraphe
+7.3 soient prises.
+
+6.1.3 Les installations à laser mobiles qui comprennent des sources laser des
+classes 3B et 4 autres que ceux spécifiés à l'article 9 ci-après doivent être
+réceptionnées par un organisme de contrôle chaque fois qu'ils sont mis en œuvre à
+un endroit différent du lieu de réception d'origine.
+
+6.1.4 L'organisme de contrôle doit dresser un rapport de réception qui est à tenir à
+disposition des services de contrôle.
+
+6.1.5 Toute installation reclassée doit être réceptionnée par un organisme de
+contrôle avant sa remise en service.
+
+Art. 7. - Exploitation
+
+7.1 Responsable de sécurité laser
+
+7.1.1 L'exploitant qui utilise des installations à laser qui comprennent des sources
+laser des classes 3B et 4 doit nommer un responsable de sécurité laser.
+
+7.1.2 L'exploitant doit charger le responsable de sécurité laser des charges
+suivantes:
+
+  - évaluation et contrôle des risques présentés par les installations à laser ou à
+    proximité directe de telles installations;
+  - surveillance du fonctionnement de l'installation à laser et signalisation d'éventuels
+    dérangements;
+  - choix des équipements de protection individuelle;
+  - instruction du personnel travaillant avec des installations à laser ou à proximité
+    directe de telle installations;
+
+
+
+
+Page 6 de 12 pages                                                          ITM-SST 1830.1
+  - surveillance quant au respect des règles de sécurité lors de l'exploitation des
+    installations à laser;
+  - collaboration avec l'Inspection du travail et des mines, les organismes de contrôle
+    agréés et les autres intervenants extérieurs;
+  - surveillance générale du respect des dispositions légales et réglementaires en
+    vigueur en matière de mesures de sécurité liées à la mise en œuvre des
+    installations à laser.
+
+7.1.3 L'exploitant doit investir le responsable de sécurité laser d'une autorité et de
+compétences à la mesure de ses charges et notamment.
+
+  - mettre à sa disposition les informations, le matériel et les moyens budgétaires
+    nécessaires;
+  - pourvoir à sa formation et à sa formation continue;
+  - demander son avis sur les projets d'aménagement d'installations à laser et sur les
+    propositions de règlements et de consignes en relation avec la sécurité des
+    installations à laser.
+
+7.2 Délimitation et signalisation des zones de danger
+
+7.2.1 Les zones de travail ou de circulation traversées par un rayon laser, provenant
+d'une installation des classes autres que la classe 1, doivent être clairement et
+durablement signalées.
+
+7.2.2 L'exploitant doit veiller à ce que les zones à risque laser des installations des
+classes 3R, 3B et 4 soient délimitées par des enceintes de protection et à ce que les
+zones à risques soient clairement identifiées au moins par des pancartes
+normalisées d'avertissement évitant ainsi que des personnes non autorisées ne
+pénètrent dans les zones à risque.
+
+Les installations laser de la classe 4 de forte puissance doivent être installées dans
+des locaux fermés et des mesures adéquates doivent être prises pour restreindre
+pendant l'opération l'accès à des personnes autorisées, portant obligatoirement les
+équipements de protection adéquats.
+
+Des signaux d'avertissement sonore et/ou lumineux doivent être installés aux accès
+du local, avertissant que l'installation laser est en opération.
+
+Un verrouillage de sécurité doit être prévu pour les panneaux d'accès lorsque les
+conditions ci-après sont remplies.
+       - le panneau d'accès est conçu pour être retiré ou déplacé au cours de la
+          maintenance ou du fonctionnement et
+       - le retrait du panneau permet l'accès aux niveaux de rayonnement laser de
+          la classe 3 R à 4.
+
+
+
+
+Page 7 de 12 pages                                                        ITM-SST 1830.1
+7.2.3 Il peut être fait abstraction des mesures prévues au paragraphe 7.2.1 et 7.2.2
+dans les cas suivants :
+- si le laser est utilisé à l'extérieur sur une grande distance à condition que toute
+  exposition à un rayonnement dépassant l'exposition maximale permise soit évitée
+  par des mesures de sécurité ou des mesures d'organisation.
+- si le laser fait partie d’une installation qui dispose d’une enceinte complètement
+  close, verrouillée, et qui est configurée de façon à ce que le fonctionnement du
+  laser soit interrompu au moment de l’ouverture de l’enceinte.
+
+7.3 Mesures de sécurité
+
+Outre les mesures constructives à prévoir lors de l'installation d'un équipement laser
+telles que spécifiées à l'article 5, les dispositions suivantes doivent être respectées.
+
+7.3.1 L'exploitant doit veiller par des mesures de sécurité et d'organisation
+adéquates, que le niveau d'exposition maximale permise ne soit pas dépassé et ceci
+aussi bien pour les rayons laser directs que réfléchis ou diffus.
+
+7.3.2 Si les mesures préconisées dans le paragraphe précédent s'avèrent
+impossibles à réaliser pour les installations des classes 3B et 4, l'exploitant doit
+mettre à disposition du personnel des équipements de protection individuelle
+spéciaux pour la protection des yeux ou de la peau, tels que lunettes de sécurité,
+habits ou gants de protection.
+
+7.3.3 L'exploitant doit veiller, à ce que les personnes qui utilisent les installations à
+laser des classes 2 à 4, ainsi que les personnes qui entrent dans des zones à risque
+laser pour les installations des classes 3 à 4, soient informées des dangers ainsi que
+des moyens de protection à prendre.
+
+7.3.4 L'exploitant doit veiller à ce que toutes les mesures de protection soient prises
+au cas ou il y aurait un danger d'inflammation ou d'explosion par une source laser.
+
+7.3.5 L'exploitant doit veiller à ce que toutes les mesures de protection soient prises
+au cas ou l'utilisation de rayons laser pourrait générer des gaz toxiques, des
+poussières de fumées toxiques, des mélanges explosifs ou des rayonnements
+secondaires.
+
+La concentration dans l'air des poussières, fumées, gaz, brouillards ou vapeurs
+dangereux ne doit pas atteindre des niveaux susceptibles de constituer un danger
+pour la santé des travailleurs sur les lieux de travail.
+
+En particulier, les concentrations maximales admissibles des substances
+dangereuses tolérables dans l'atmosphère sur les lieux de travail ne doivent pas
+dépasser les valeurs limites AGW (Arbeitsplatzgrenzwert) et les valeurs limites BGW
+(Biologischer Grenzwert) les plus récentes en vigueur.
+
+
+
+
+Page 8 de 12 pages                                                         ITM-SST 1830.1
+7.3.6 Des mesures de sécurité doivent être prévues pour palier aux risques de
+brûlure par la manipulation de liquides cryogènes ou de l'explosion d'une batterie de
+condensateurs ou d'un système de pompage optique au cours du fonctionnement de
+certains systèmes laser à grande puissance.
+
+7.3.7 Pour les lasers de classe 1M et 2M, l’exposition maximale permise (EMP) peut
+être dépassée et des lésions oculaires peuvent apparaître après une exposition avec
+l’une des deux catégories d’instruments optiques d’observation (loupes ou jumelles)
+dans les conditions suivantes :
+- pour des faisceaux divergents, si l’utilisateur place les composants optiques à
+   moins de 100 mm de la source pour concentrer (collimater) le faisceau
+- pour un faisceau collimaté avec un diamètre supérieur au diamètre de mesure
+   spécifié pour la condition 3 du tableau intitulé « Diamètres d’ouverture de mesure
+   et distances de mesure pour l’évaluation par défaut (simplifiée) » de la norme
+   européenne EN 60825-1.
+
+7.4 Entretien des installations à laser
+
+7.4.1 Les installations à laser sont à maintenir continuellement en bon état
+d'entretien, de sécurité et de fonctionnement. Il doit être remédié sans délai à toutes
+les défectuosités et anomalies constatées.
+
+7.4.2 L'entretien régulier des installations à laser doit être assuré par un personnel
+qualifié.
+
+7.4.3 Lors des travaux d'entretien, de montage ou de réparation des installations,
+toutes mesures efficaces doivent être prises pour protéger le personnel d'entretien
+contre tout risque d'accident et toute atteinte à leur santé.
+
+7.4.4 Le personnel d'entretien doit rigoureusement suivre les consignes et
+échéances d'entretien telles que prévues par le constructeur.
+
+7.4.5 Le personnel chargé d'effectuer des travaux aux installations à laser doit être
+instruit des précautions à prendre pour éviter les dangers et doit disposer du matériel
+et de l'équipement de sécurité nécessaires pour sa propre protection et pour
+l'exécution des travaux.
+
+7.4.6 Ce même personnel doit avoir acquis les aptitudes nécessaires et doit avoir
+reçu les instructions, formations et formations continues requises.
+
+7.4.7 L'exécution des travaux doit être placée sous la surveillance permanente d'un
+responsable.
+
+7.4.8 Toutes précautions appropriées doivent être prises pour empêcher la mise
+sous tension, soit accidentelle, soit par inadvertance d'une installation électrique sur
+laquelle sont effectués des travaux.
+
+
+
+
+Page 9 de 12 pages                                                        ITM-SST 1830.1
+7.4.9 Si au cours de l'entretien d'une installation à laser, la classe de l'installation
+vient à changer, l'exploitant doit veiller à ce que les conditions des paragraphes 7.3
+et 7.4 soient respectées.
+
+Si ces conditions ne peuvent être respectées complètement, des mesures spéciales
+ou des horaires d'intervention adéquats doivent garantir que personne ne puisse
+jamais être exposé à des rayonnements dépassant l'exposition maximale permise.
+
+Art. 8. - Surveillance médicale
+
+La surveillance médicale est effectuée conformément au :
+- règlement grand-ducal du 26 juillet 2010 cité à l’article 4 ci-dessus ;
+- et au règlement grand-ducal modifié du 17 juin 1997 concernant la périodicité des
+  examens médicaux en matière de médecine du travail.
+
+Art. 9. - Utilisations particulières
+
+Sans préjudice des dispositions des articles 1 à 8, des mesures spéciales sont
+prévues pour certaines utilisations particulières:
+
+9.1 Installations à laser pour démonstrations, affichages et spectacles
+
+9.1.1 Seules les installations à laser des classes 1, 1M, 2 et 2M doivent être utilisées
+pour les démonstrations, l'affichage ou le spectacle dans des zones non surveillées.
+
+9.1.2 L'emploi d'installations à laser de classe supérieure utilisées à de telles fins ne
+peut être autorisé que lorsque le fonctionnement du laser est sous le contrôle d'un
+opérateur expérimenté et de bonne formation et lorsque l'exposition des spectateurs
+à des niveaux excédant l'exposition maximale permise (EMP) applicable est rendue
+impossible.
+
+9.2 Installations à laser de démonstration dans l'enseignement
+
+9.2.1 Toute installations à laser de démonstration, utilisée pour des besoins
+d'enseignement p.ex. dans les écoles, doit être conforme à toutes les exigences
+applicables pour les installations à laser des classes 1, 1M, 2 ou 2M et ne doit pas
+permettre l'accès humain à un rayonnement laser excédant les limites d'émission
+accessible de la classe 1, 1M, 2 ou 2M.
+
+9.2.2 En particulier pour les installations à laser de la classe 2 ou 2M utilisées à des
+fins d'enseignement, les mesures additionnelles suivantes doivent être prises:
+
+ - La zone de risque laser doit être aussi réduite que possible au moyen de
+   protections et tout accès involontaire doit être rendu impossible par des enceintes
+   de protection.
+
+ - L'accès aux zones à risque laser doit être clairement identifié par des pancartes
+   normalisées d'avertissement.
+
+
+
+
+Page 10 de 12 pages                                                        ITM-SST 1830.1
+ - Les installations à laser de la classe 2 ou 2M ne peuvent être manipulées que par
+    des personnes autorisées ayant reçu une formation appropriée.
+
+ - Lors de la préparation d'expériences ou de démonstrations, les personnes
+   présentes doivent être informées sur les dangers potentiels des rayons laser et
+   sur les moyens de protection individuels mis à leur disposition.
+
+9.3 Installations à laser pour utilisations médicales
+
+Les installations à laser pour utilisations médicales doivent être utilisées
+conformément aux dispositions de la publication ITM-CL 606.4.
+
+
+9.4 Installations à laser pour travaux d'alignement et de nivellement
+
+9.4.1 L'exploitant doit veiller à ce que les installations à laser utilisées pour des
+travaux topographiques ou des travaux d'alignement ou de nivellement répondent
+aux exigences suivantes:
+
+ - les installations à laser doivent appartenir aux classes 1, 1M, 2, 2M ou 3R
+
+9.4.2 Pour les installations à laser de la classe 2 et 2M, il y a lieu de veiller dans la
+mesure du possible, à ce que le faisceau laser soit arrêté à la fin de son trajet utile et
+à ce que le faisceau laser ne soit pas dirigé à hauteur de tête du personnel.
+
+9.4.3 Pour les installations à laser de la classe 3R et 3B utilisées pour des travaux
+topographiques ou des travaux d'alignement ou de nivellement, les mesures
+suivantes doivent être garanties:
+
+ -   seuls des membres du personnel qualifiés, compétents et désignés
+    nominativement par le responsable de sécurité laser doivent être affectés aux
+    travaux d'installation, de réglage et à la mise en œuvre du matériel laser.
+ - un panneau avertisseur laser normalisé doit être affiché dans les zones où ces
+    lasers sont utilisés.
+ - des précautions doivent être prises pour s'assurer que des personnes ne
+    regardent pas directement dans le faisceau. La vision directe du faisceau à
+    travers des instruments d'optique peut être dangereuse et ne doit pas être
+    autorisée sans l'accord spécifique du responsable de sécurité à laser.
+ - le faisceau laser doit être arrêté à la fin de son trajet utile.
+ - le trajet du faisceau laser doit être situé bien au-dessus ou bien au-dessous de la
+    hauteur de l'œil partout où cela s'avère possible.
+ - des précautions doivent être prises pour s'assurer que le faisceau laser ne soit pas
+    dirigé par inadvertance sur des surfaces réfléchissantes.
+ - lorsque l'installation à laser n'est pas utilisée, l'équipement doit être entreposé
+    dans un emplacement où les personnes non autorisées ne peuvent entrer.
+
+
+
+
+Page 11 de 12 pages                                                         ITM-SST 1830.1
+9.4.4 Pour les installations à laser de la classe 3B, en plus des stipulations du
+paragraphe qui précède, l'exploitant doit veiller à ce que la puissance émettrice du
+laser soit adaptée aux besoins de l'application laser en utilisant des filtres
+atténuateurs ou en mettant en œuvre des lasers de puissance adéquate.
+
+Le rayon laser doit rester en dehors des zones de travail ou de circulation.
+
+Art. 10. - Signalisation de sécurité
+
+La signalisation de sécurité doit être effectuée par des symboles normalisés
+répondant aux exigences du règlement grand-ducal du 28 mars 1995 concernant les
+prescriptions minimales pour la signalisation de sécurité et/ou santé au travail
+respectivement aux exigences de l'article 5 de la norme européenne EN 60825.
+
+Art. 11. - Registre
+
+11.1 Un registre doit être ouvert pour chaque installation laser des classes 3 B et 4.
+
+11.2 Ce registre doit contenir toutes les caractéristiques de l'appareil et de ses
+éléments ou accessoires, les modes d'emploi et d'entretien, les plans et schémas,
+les rapports et certificats de réception et de contrôle périodiques de même que les
+fiches de travail et les notes relatives aux interventions d'entretien courant et de
+dépannage.
+
+11.3 La gestion du registre doit être confiée à l'entreprise chargée de l'entretien
+courant.
+
+11.4 Le registre doit être mis à disposition et/ou déposé à proximité de l'installation
+en question et il doit être présenté aux agents et experts de l'inspection du travail et
+des mines sur demande.
+
+
+
+
+              Visa du directeur adjoint                     Mise en vigueur
+              de l’Inspection du travail                   le 14 février 2012
+                     et des mines
+                                                                    s.
+                          s.
+                                                              Paul WEBER
+                  Robert Huberty                                 Directeur
+                                                        de l’Inspection du travail
+                                                               et des mines
+
+
+
+
+Page 12 de 12 pages                                                              ITM-SST 1830.1
+

@@ -1,0 +1,799 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                             Strassen, août 2008
+
+
+
+                                                                                          ITM-SST 1312.1
+
+
+
+     Appareils sous pression fixes isolés thermiquement utilisés
+      à l’emmagasinage de gaz liquéfiés à basse température.
+
+            Conçus d’après les exigences de la directive 97/23/CE
+                      "Equipements sous pression".
+
+                                               Prescriptions de sécurité types
+
+                                              Le présent document comporte 15 pages
+
+                                                                  Sommaire
+    Article                                                                                                         Page
+
+     1.                        Objectif et domaine d'application                                         2
+     2.                        Définitions                                                               2
+     3.                        Normes et règles techniques                                               2
+     4.                        Prescriptions générales                                                   3
+     5.                        Conception, fabrication et évaluation de la conformité                    3
+     6.                        Plaque signalétique, instructions de service et documents                 3
+     7.                        Equipements des réservoirs aériens fixes                                  4
+     8.                        Zone de sécurité                                                          5
+     9.                        Signalisation de sécurité                                                 6
+    10.                        Installations électriques et liaisons équipotentielles                    7
+    11.                        Contrôles périodiques                                                     7
+    12.                        Réparations et modifications                                             11
+    13.                        Accidents et incidents grave                                             11
+    14.                        Exploitation des installations fixes à gaz liquéfiés à basse température 11
+    15.                        Registres                                                                13
+    16.                        Abrogations                                                              14
+                               Annexe                                                                   15
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 247-86145   Fax: 49 14 47
+          Site Internet : http://www.itm.lu
+Art.1er- Objectif et domaine d’application.
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité relatives aux appareils sous pression fixes, isolés thermiquement, utilisés pour le
+stockage des gaz liquéfiés à basse température, tels que (liste non exhaustive) : Argon, Azote,
+Chlore, Dioxyde de carbone, Dioxyde de soufre, Hélium, Hydrogène, Néon, Oxygène,
+Protoxyde d’azote/ Hémioxyde (voir Classification des fluides, en annexe), qu’il s’agisse de
+récipients à double paroi ou à simple paroi, ainsi qu’à leurs évaporateurs. Elles s’appliquent
+également aux accessoires de sécurité et aux accessoires sous pression, ainsi qu’aux
+tuyauteries afférentes se trouvant à l'intérieur du périmètre de l'appareil.
+
+1.2. Les présentes prescriptions ne s’appliquent pas aux récipients mobiles destinés au
+transport pour lesquels les dispositions réglementant le transport des marchandises
+dangereuses (ADR/RID) sont d’application.
+
+1.3. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si des mesures de rechange garantissant une protection au moins
+équivalente sont prises.
+
+Ces mesures de rechange doivent être reconnues comme garantissant un niveau de sécurité
+équivalent par un organisme de contrôle et acceptées comme telles par l’Inspection du travail
+et des mines.
+
+Art.2- Définitions.
+
+2.1. Par la dénomination «réservoirs aériens fixes» sont à comprendre ci-après toutes les
+installations et tous les récipients installés à demeure, sous pression contenant des gaz à basse
+température tels, les évaporateurs et leurs installations annexes.
+
+2.2. Sous la dénomination «évaporateurs» sont à comprendre ci-après les installations
+permettant d’évaporer le gaz liquéfié stocké dans les réservoirs aériens fixes.
+
+Les évaporateurs sont aussi désignés « réchauffeurs » en langage technique.
+
+2.3. Sous la dénomination «organisme de contrôle» est à comprendre tout organisme autorisé
+à contrôler les appareils à pression fixes par le règlement ministériel le plus récent en date du
+Ministre ayant dans ses attributions le Travail, concernant l’intervention d’organismes de
+contrôle dans le cadre des compétences et attributions de l’Inspection du travail et des mines.
+
+2.4. Sous la dénomination «organisme notifié» est à comprendre tout organisme notifié à la
+Commission européenne conformément à la directive 97/23/CE.
+
+2.5. «Réparation notable ou modification notable» : est considéré comme notable toute
+intervention susceptible d’avoir une incidence sur la conformité de l’installation aux
+exigences du règlement grand-ducal du 21 janvier 2000.
+
+Art.3- Normes et règles techniques.
+
+3.1. Les prescriptions à appliquer lors de la conception et la fabrication des réservoirs aériens
+fixes dans lesquels sont emmagasinés des gaz liquéfiés sont définies au règlement grand-
+ducal du 21 janvier 2000 concernant les équipements sous pression transposant la directive
+97/23/CE en droit luxembourgeois.
+
+
+Page 2 de 15 pages                                                                ITM-SST 1312.1
+3.2. Les normes, prescriptions, directives de sécurité et d’hygiène et les règles de l’art à
+appliquer lors du montage de l’installation et de l’exploitation des réservoirs aériens fixes sont
+en particulier les présentes prescriptions et en général les normes européennes (EN) afférentes
+les plus récentes en vigueur ou à défaut les normes reconnues comme suffisantes du point de
+vue de la sécurité par un organisme de contrôle et acceptées comme telles par l’Inspection du
+travail et des mines.
+
+Art.4- Prescriptions générales.
+
+4.1. L’exploitant des réservoirs aériens fixes doit se conformer aux prescriptions du Code du
+Travail et des règlements d'exécution concernant la sécurité et la santé des salariés.
+
+4.2. Il y a lieu d’observer en outre les prescriptions afférentes de prévention contre les
+accidents édictées par l’Association d’Assurance contre les Accidents, Section Industrielle.
+
+Art. 5. - Conception, fabrication et évaluation de la conformité.
+
+5.1. Les réservoirs aériens fixes mis sur le marché après le 29 mai 2002, leurs tuyauteries,
+accessoires de sécurité et accessoires sous pression doivent satisfaire au règlement grand-
+ducal du 21 janvier 2000 concernant les équipements sous pression transposant en droit
+luxembourgeois la directive 97/23/CE.
+
+5.2. Les tuyauteries doivent être conçues et installées de manière à ce que seules des forces
+admissibles agissent sur les tubulures des réservoirs aériens fixes.
+
+Art.6. Plaque signalétique, instructions de service et documents techniques.
+
+6.1. Outre le marquage «CE» de conformité et le numéro d’identification de l’organisme
+notifié, chaque appareil ou ensemble doit porter une plaque signalétique comportant au moins
+les mentions suivantes :
+
+-   le nom du fabricant
+-   l’année de fabrication
+-   le numéro de fabrication (le cas échéant l’identification de la série ou du lot)
+-   le volume géométrique «V» de l’équipement sous pression, exprimé en litres «L»
+-   la pression maximale de service admissible «PS» en bar (pression de timbre,
+    «Auslegungsdruck»)
+-   la pression d’essai appliquée «PT» en bar et la date
+-   la température maximale de service
+-   le cas échéant : la dimension nominale «DN» de la tuyauterie.
+
+6.2. Instructions de service et documents techniques.
+
+6.2.1. Chaque appareil ou ensemble, lors de sa mise sur le marché, doit être accompagné, en
+tant que de besoin, d’une notice d’instructions destinée à l’utilisateur, contenant toutes les
+informations utiles à la sécurité en ce qui concerne :
+
+-   le montage de l’ensemble, y compris l’assemblage des différents équipements sous
+    pression,
+-   la mise en service,
+-   l’utilisation,
+-   la maintenance, y compris les contrôles par l’utilisateur.
+
+
+Page 3 de 15 pages                                                                 ITM-SST 1312.1
+6.2.2. La notice d’instructions doit reprendre les informations apposées sur l’équipement et
+doit être accompagnée, le cas échéant, de la documentation technique, ainsi que des plans et
+schémas nécessaires à une bonne compréhension des ces instructions.
+
+6.2.3. Le cas échéant, la notice d’instructions doit également attirer l’attention sur les dangers
+d’utilisation erronée et sur les caractéristiques particulières de la conception.
+
+6.2.4. Les instructions de service doivent être présentées à l’organisme de contrôle procédant
+au premier contrôle périodique avant mise en service et ensuite être versées au registre prévu
+au paragraphe 15.2 ci-après.
+
+Art. 7. Equipements des réservoirs aériens fixes.
+
+7.1. Sans préjudice des impositions figurant à l’annexe 1 du règlement grand-ducal du 21
+janvier 2000 concernant les «équipements sous pression» transposant la directive 97/23/CE en
+droit national, les points suivants sont à respecter.
+
+7.2. Les dispositifs de sécurité et de régulation et tout particulièrement la conduite de
+décharge doivent être disposés de telle manière, que leur fonctionnement ne peut être entravé
+par les conditions climatiques comme la pluie ou la neige. Leur fixation doit être conçue avec
+une attention particulière.
+
+7.3. En cas d’emploi de disques de rupture il faut prévoir un dispositif de protection contre les
+dommages mécaniques.
+
+7.4. Les valves de chargement et de déchargement doivent être clairement identifiées.
+
+7.5. Les équipements et accessoires doivent être installés de manière à faciliter leur accès pour
+la maintenance et le contrôle.
+
+7.6. Tous les accessoires de l’installation, tels les tuyauteries fixes, les vannes, les robinets, les
+détendeurs, les dispositifs de sûreté, les clapets, les tuyaux flexibles, les joints, etc. doivent
+être conçus et réalisés en vue de leur utilisation pour des installations fonctionnant à basse
+température.
+
+7.7. Tout rejet de purge doit se faire à l’air libre et dans tous les cas selon une orientation, en
+un lieu et à une hauteur suffisante pour qu’il n’en résulte aucun risque.
+
+7.8. Les raccords de remplissage et les commandes des équipements doivent être situés à
+proximité les uns des autres, de manière à ce que le réservoir et ses commandes soient visibles
+et facilement accessibles depuis la position de l’opérateur.
+
+7.9. Le réservoir à gaz liquéfié et ses accessoires doivent, le cas échéant, être efficacement
+protégés contre la corrosion.
+
+7.10. Du fait qu’il y a risque d’échappement de gaz dans l’atmosphère, les organes de contrôle
+et de sécurité, les raccords, les vannes d’isolement et les orifices de purge, s’ils sont exposés,
+sont à protéger efficacement contre les chocs extérieurs susceptibles de les détériorer.
+
+7.11. Les matériaux constitutifs des tuyauteries, leurs dimensions et leur mode d’assemblage
+doivent être choisis pour assurer avec un coefficient de sécurité suffisant la résistance aux
+actions mécaniques, physiques et chimiques dues au gaz liquéfié à basse température.
+
+
+Page 4 de 15 pages                                                                    ITM-SST 1312.1
+7.12. Tous les accessoires doivent être montés selon les règles de l’art par une personne
+qualifiée et expérimentée dans les installations de gaz liquéfié.
+
+7.13. Les appareils de contrôle doivent être réglés suivant les conditions imposées par les
+raisons de service sans préjudice des facteurs imposés par la sécurité.
+
+7.14. Les sections de conduite de gaz liquéfié sous pression pouvant être obturées par des
+vannes d’arrêt doivent impérativement être équipées d’un dispositif de sûreté, empêchant un
+dépassement inadmissible de la pression provoquée par l’expansion du gaz liquéfié.
+
+7.15. Si le réservoir est équipé d'une enveloppe extérieure, celle-ci doit être équipée d’un
+dispositif de sûreté fiable, évitant qu’une pression supérieure à la pression de calcul ne puisse
+s’y établir.
+
+7.16. Dans le cadre d'une enveloppe extérieure, celle-ci doit comporter une cellule de mesure
+de dépression et/ou un raccord de contrôle pour les enveloppes avec isolation sous vide.
+
+7.17. Il faut prévoir un dispositif de sûreté adéquat pour éviter une dépression non admissible
+dans l’enceinte intérieure ou extérieure d’un réservoir de grandes dimensions (par exemple
+capacité dépassant 100 m3), en particulier de grands diamètres.
+
+7.18. Ouverture de visite: Le contrôle des parties internes des récipients à pression fixes à gaz
+liquéfiés en aciers sensibles à la corrosion (Korrosionsneigung) par exemple les aciers
+ferritiques tenaces à la rupture fragile doit être possible.
+
+Art. 8 Zone de sécurité.
+
+8.1. Une zone de sécurité doit être créée autour du réservoir aérien fixe à gaz liquéfié : Pour
+les fluides du groupe 1 : 10m ; pour les fluides du groupe 2 : 10m pour une capacité
+supérieure à 50m3 resp. 5m pour une capacité maximale de 50 m3.
+
+8.2. Dans la zone de sécurité de l’installation du réservoir aérien fixe ne doivent pas se
+trouver:
+- des propriétés tiers;
+- des ouvertures de caves, des fosses, des trous d’homme, des passages de câbles, des
+    caniveaux ou des regards;
+- des immeubles habités ou occupés par des tiers;
+- des voies publiques;
+- des dépôts quelconques, de même que des équipements ou des constructions non
+    indispensables à l’exploitation de l’installation de gaz liquéfié et qui nuiraient soit à la
+    ventilation de l’installation, soit à l’intervention de secours lors d’un accident ;
+- des arbres ou des buissons représentant un danger de chute ;
+- des dépôts d’hydrocarbures et d’autres matériaux combustibles.
+
+8.3. Le réservoir aérien fixe à gaz liquéfié doit être entouré sur la totalité de sa périphérie par
+une clôture de protection, construite en matériaux incombustibles, totalement ou partiellement
+grillagée d’une hauteur minimale de 2,00 mètres et n’empêchant pas la ventilation correcte de
+l’installation.
+
+Cette clôture doit laisser un passage libre minimal 1m autour des équipements qu’elle entoure.
+
+
+
+
+Page 5 de 15 pages                                                                 ITM-SST 1312.1
+La clôture doit être aménagée de façon à faciliter toute intervention ou évacuation en cas de
+nécessité et pourvue d’une porte au moins s’ouvrant vers l’extérieur. Cette porte devra être
+fermée à clef en dehors des besoins de service.
+
+8.4. L’emplacement du dépôt de gaz liquéfié doit être tel que la chute éventuelle de
+conducteurs électriques pouvant se trouver à proximité ne risque pas de provoquer des dégâts
+aux installations fonctionnant à basse température.
+
+8.5. L’accès à la zone de protection est interdit à toute personne étrangère au service. Seules
+sont autorisées à l’intérieur de la zone de sécurité les personnes s’occupant de l’installation de
+gaz liquéfié pendant la durée nécessaire à leur intervention.
+
+8.6. Aucune canalisation aérienne de transport de liquides inflammables ou de gaz
+inflammables ne peut se situer à moins de 10 m d’une l’installation du groupe 1 et aucune
+canalisation souterraine ne peut se situer à moins de 2 m d'un réservoir aérien.
+
+8.7. Il est strictement interdit de fumer dans la zone de sécurité d’une installation de gaz
+liquéfié contenant un gaz comburant ou inflammables.
+
+Art. 9 Signalisation de sécurité
+
+9.1. La signalisation de sécurité effectuée par des symboles normalisés et répondant aux
+dispositions du règlement grand-ducal du 28 mars 1995 concernant les prescriptions
+minimales pour la signalisation de sécurité sur les lieux de travail doit couvrir notamment:
+
+-   les voies d’évacuation d’urgence;
+-   les équipements d’urgence tels que : postes d’alerte, moyens de lutte contre l’incendie,
+    postes de premiers secours, boutons d’arrêt d’urgence ;
+-   les consignes d’utilisation des équipements de sécurité ;
+-   le balisage des postes de travail et des voies de circulation ;
+-   la circulation dans l’établissement ainsi que la circulation routière aux alentours de
+    l’établissement et sur les parkings.
+
+9.2. A défaut de pictogrammes normalisés, la signalisation de sécurité doit être affichée en au
+moins deux langues (de préférence en français et en allemand, tout en tenant compte de la
+langue du personnel à prévenir).
+
+Sont à couvrir par une telle signalisation:
+
+-   les consignes d’emploi des machines et équipements;
+-   les consignes de comportement en cas d’urgence.
+
+9.3. Toutes les conduites transportant des gaz doivent être peintes d’après les prescriptions
+allemandes (DIN 2403) en plus des indications prévues par le règlement grand-ducal repris
+sous 9.1 ci-dessus.
+
+9.4. La signalisation de sécurité doit être apposée aux endroits appropriés et doit être durable.
+
+
+
+
+Page 6 de 15 pages                                                                 ITM-SST 1312.1
+Art. 10 Installations électriques et liaisons équipotentielles.
+
+10.1. Les éventuelles installations électriques doivent être conformes aux normes allemandes
+DIN/VDE, les plus récentes en vigueur en la matière ou aux normes européennes CENELEC
+au fur et à mesure que celles-ci paraissent et remplacent les normes DIN/VDE précitées.
+
+10.2. Dans l’enceinte du dépôt et de ses installations annexes le nombre d’appareils
+électriques doit être réduit au minimum strictement nécessaire.
+
+10.3. L’installation et l’entretien du matériel doivent être confiés à du personnel qualifié, tenu
+au courant des règles de sécurité particulières à ce matériel.
+
+10.4. Les réservoirs, supports et accessoires métalliques doivent être mis à la terre
+conformément aux prescriptions des normes de sécurité DIN 50164/VDE0185.
+
+10.5. Les réservoirs, supports, tuyauteries et accessoires doivent être munis de liaisons
+équipotentielles (voir DIN 57100/VDE 0100) et un raccordement doit être prévu pour la
+liaison équipotentielle entre le camion-citerne et l’équipement de remplissage du réservoir de
+stockage.
+
+10.6. Tout appareillage électrique situé dans l’enceinte du dépôt doit être, le cas échéant, du
+type destiné aux atmosphères explosibles (voir DIN 57165/VDE 0165).
+
+Art.11 Contrôles périodiques.
+
+11.1. Le premier contrôle périodique par un organisme de contrôle à la mise en service est
+constitué par :
+1. La vérification administrative du marquage, de la déclaration de conformité, de la
+   documentation technique et de la notice d’instructions destinée à l’utilisateur.
+2. La vérification de la conformité aux prescriptions d’installation.
+3. Les contrôles de l’étanchéité.
+4. Les essais de fonctionnement de l’installation et des équipements de sécurité (si
+   réalisables).
+
+Le rapport de la visite de contrôle est à soumettre pour visa à l’Inspection du travail et des
+mines.
+
+Copie du rapport visé est à verser au registre prévu au paragraphe 15.2 ci-après.
+
+11.2. Les réservoirs aériens fixes à gaz liquéfiés doivent subir :
+
+1. Tous les trente mois une vérification extérieure en service.
+2. Tous les cinq ans une vérification à l’arrêt.
+3. Tous les dix ans une requalification, comprenant une vérification extérieure, complétée, le
+   cas échéant, d’une visite intérieure, ainsi que la vérification des accessoires de sécurité.
+
+11.2.1. Le rapport de requalification est à soumettre pour visa à l’Inspection du travail et des
+mines et copie de tout rapport dressé par un organisme de contrôle est à verser au registre
+prévu à l’art. 15.2 ci - après.
+
+
+
+
+Page 7 de 15 pages                                                                  ITM-SST 1312.1
+11.2.2. A l’occasion de chaque vérification, l’organisme de contrôle dresse un rapport
+indiquant l’état de conservation des installations (y compris le cas échéant les flexibles), ainsi
+que ses constatations concernant l’observation des prescriptions réglementaires et des
+conditions d’exploitation.
+
+Il fixe en plus dans son rapport le délai pendant lequel, à son avis, les différentes installations
+sous pression peuvent encore être exploitées en sécurité avant d’être soumises à une nouvelle
+vérification.
+
+Ces rapports de vérification sont à tenir à la disposition de l’Inspection du travail et des mines
+et des organismes de contrôle dans le registre prévu au paragraphe 15.2 ci - après.
+
+11.2.3. Les vérifications périodiques ont lieu avant l’expiration du délai fixé à cette fin par
+l’organisme de contrôle lors de sa visite précédente, sauf si l’Inspection du travail et des
+mines a accordé une dérogation sur avis obligatoire de l’organisme de contrôle.
+
+11.2.4. Une vérification par l’organisme de contrôle a lieu également à la demande de
+l’Inspection du travail et des mines.
+
+11.3. Vérification extérieure en service.
+
+11.3.1. L’organisme de contrôle procède à la vérification de l’ensemble de l’installation à
+savoir :
+
+-   l’identité entre récipient et documents de contrôle, de même qu’à une vérification pour
+    contrôler que les conditions d’implantation sont inchangées ;
+-   l’état général de sécurité et de propreté ;
+-   l’état général des appareils sous pression, leurs tuyauteries, accessoires de sécurité et
+    accessoires sous pression ;
+-   l’aptitude au fonctionnement des équipements et plus particulièrement des dispositifs de
+    sûreté ;
+-   vérification du plomb bloquant le tarage des dispositifs de sûreté ;
+-   la mesure du taux de dépression pour les appareils isolés sous vide en cas de doute
+    d’influences néfastes ou de conditions défavorables ;
+-   le matériel électrique et les liaisons équipotentielles ;
+-   les systèmes de surveillance ;
+-   le dispositif de détection de fuites ;
+-   les moyens de lutte contre l’incendie et de secours ;
+-   les circuits de mise à la terre, de protection contre la foudre et les systèmes de protection
+    cathodiques éventuels.
+
+11.3.2. Examen visuel des récipients à pression à double paroi resp. examen visuel du bon état
+du revêtement d’isolation thermique des récipients à simple paroi, complété, le cas échéant,
+par des sondages locaux destinés à vérifier le bon état de la paroi dans les zones réputées
+critiques que sont les points singuliers tels que piquages, tubulures, trous d’homme, prises de
+température et supports, ainsi que la mise à nu au droit des points thermiques observés lors de
+ces contrôles.
+
+11.3.3. Le cas échéant, l’organisme définit les travaux de réparation nécessaires et les délais
+d’exécution.
+
+
+
+
+Page 8 de 15 pages                                                                 ITM-SST 1312.1
+11.4. Vérification à l’arrêt (vérification quinquennale).
+
+11.4.1. Récipients à pression fixes à gaz liquéfiés sans ouverture de visite.
+
+11.4.1.1 Sur la base des connaissances acquises que les gaz stockés à basse température ne
+provoquent ni corrosion, ni usure significative, ces récipients ne sont soumis à une
+vérification intérieure que lors de travaux de réparation ou d’entretien permettant une telle
+inspection.
+
+11.4.1.2. Lorsqu’une vérification intérieure est effectuée, il faut dans la mesure du possible :
+- vérifier toutes les parties quant à des effets d’usure, de corrosion ou autres dommages ;
+- contrôler chaque cordon de soudure, piquage de tubulure et/ou de tuyauterie par des
+  contrôles non destructifs. Généralement en fonction de la nature du matériau utilisé et de
+  l’emplacement à vérifier les procédés suivants sont appropriés :
+    - le contrôle radiographique (RT)
+    - le contrôle par ressuage (PT)
+    - le contrôle magnétoscopique (MT)
+    - le contrôle à l’ultra son (UT).
+
+11.4.1.3. Vérification par l’organisme de contrôle du remplacement des dispositifs de sûreté
+par des éléments révisés, dont la valeur de tarage a été vérifiée et certifiée; le plomb bloquant
+le tarage doit mentionner l’année de tarage.
+
+11.4.1.4. Vérification par l’organisme de contrôle de la conformité et du bon état extérieur de
+l’installation.
+
+11.4.1.5. Vérification par l'organisme de contrôle de la tuyauterie par un essai d'étanchéité ou
+par d'autres moyens appropriés.
+
+11.4.1.6. Le cas échéant, l’organisme de contrôle définit les travaux de réparation et les délais
+d’exécution.
+
+11.4.2. Récipients à pression fixes à gaz liquéfiés avec ouverture de visite.
+
+11.4.2.1. Visite intérieure des récipients pour lesquels une corrosion par traces d’humidité
+n’est pas à exclure (point 7.18.) et comportant dans la mesure du possible :
+
+- vérifier toutes les parties quant à des effets d’usure, de corrosion ou autres dommages ;
+- contrôler chaque cordon de soudure, piquage de tubulure et /ou de tuyauterie par des
+  contrôles non destructifs. Généralement en fonction de la nature du matériau utilisé et de
+  l’emplacement à vérifier les procédés suivants sont appropriés :
+    - le contrôle radiographique (RT)
+    - le contrôle par ressuage (PT)
+    - le contrôle magnétoscopique (MT)
+    - le contrôle à l'ultra son (UT).
+
+11.4.2.2. Vérification par l’organisme de contrôle de la conformité et du bon état extérieur de
+l’installation.
+
+
+
+
+Page 9 de 15 pages                                                                ITM-SST 1312.1
+11.4.2.3. Vérification par l’organisme de contrôle du remplacement des dispositifs de sûreté
+par des éléments révisés, dont la valeur de tarage a été vérifiée et certifiée ; le plomb bloquant
+le tarage doit mentionner l’année de tarage.
+
+11.4.2.4. Vérification par l’organisme de contrôle de la tuyauterie par un essai d'étanchéité ou
+par d'autres moyens appropriés.
+
+11.4.2.5. Le cas échéant, l’organisme de contrôle définit les travaux de réparation nécessaires
+et les délais d’exécution.
+
+11.5. Requalification périodique décennale.
+
+11.5.1. Les récipients à pression en acier ayant subi une épreuve de résistance avant leur
+mise en service, utilisés à l’emmagasinage de gaz liquéfiés à basse température sont
+dispensés de renouvellement d’épreuve de résistance périodique décennale.
+
+Exceptions :
+
+1. L’épreuve de résistance doit être renouvelée sur demande du propriétaire en cas de
+   modification ou de réparation notables.
+2. Suite à une demande motivée de l’organisme de contrôle, chaque vérification doit être
+   complétée par un essai de résistance, soit hydraulique, soit à l’aide de certains fluides
+   gazeux avec surveillance sonore (Schall-Emissions Prüfung), mais seulement si une
+   épreuve initiale a été effectuée, et le cas échéant, par toute investigation complémentaire
+   non destructive avec le dégarnissage nécessaire du dispositif de protection thermique.
+3. L’Inspection du travail et des mines peut prescrire à tout moment le renouvellement
+   d’épreuve de résistance d’un appareil à pression suspect.
+
+11.5.2. Au cas où il est établi qu’une épreuve de résistance initiale n’a pas eu lieu,
+l’Inspection du travail et des mines, sur avis obligatoire de l’organisme de contrôle, peut soit
+fixer la valeur de la pression de réépreuve de résistance à appliquer, soit remplacer la
+réépreuve de résistance par d’autres techniques de contrôle permettant de garantir un niveau
+de sécurité au moins équivalent.
+
+11.5.3. Sont dispensés de réépreuve de résistance les tuyauteries et leurs accessoires de
+sécurité sous pression.
+
+11.5.4. Vérification par l’organisme de contrôle du remplacement des dispositifs de sécurité
+par des éléments révisés, dont la valeur de tarage a été vérifiée et certifiée ; le plomb bloquant
+le tarage doit mentionner l’année de tarage.
+
+11.5.5. Vérification par l’organisme de contrôle de la tuyauterie par des moyens appropriés.
+
+11.5.6. D’éventuels flexibles doivent subir tous les cinq ans une réépreuve de résistance. La
+pression de réépreuve à appliquer doit être identique à la valeur de l’épreuve de résistance
+initiale. Cette réépreuve, à effectuer par un organisme de contrôle, est valable pour une durée
+maximale de cinq ans.
+
+Les flexibles n’ayant pas encore servi (stock) et dont l’âge est au moins cinq ans doivent
+subir, avant leur mise en service, également une réépreuve de résistance, à effectuer par un
+organisme de contrôle, valable pour une durée de cinq ans. La pression de réépreuve doit être
+identique à la pression de l’épreuve de résistance initiale.
+
+
+Page 10 de 15 pages                                                                ITM-SST 1312.1
+11.5.7. Pour les installations constituées en matériaux non ferreux, par exemple le cuivre,
+l’aluminium et leurs alliages, ou en d’autres matériaux, les contrôles périodiques sont à fixer
+au cas par cas par l’Inspection du travail et des mines suite à une demande motivée de
+l'exploitant accompagné de l'avis de l’organisme de contrôle et sur présentation de la
+déclaration de conformité, ainsi que de la documentation technique de l’installation en
+question.
+
+Le rapport de requalification est à soumettre pour visa à l’Inspection du travail et des mines.
+
+Copie du rapport visé est à verser au registre prévu à l’article 15.2 ci-après.
+
+Art. 12 – Réparations et modifications notables.
+
+12.1. Toute modification notable doit se faire en observant les dispositions du règlement
+grand-ducal du 21 janvier 2000 concernant les «équipements sous pression» et si possible
+avec l’accord du constructeur de l’installation.
+
+12.2. Toute réparation notable et toute modification notable aux installations sous pression et
+à leurs accessoires (par exemple tuyauteries/canalisations) doivent être exécutées par un
+homme de l’art sous la surveillance d’un organisme de contrôle.
+
+12.3. L’installation doit ensuite être soumise à une visite complète (le cas échéant) et à une
+épreuve de résistance à effectuer par le même organisme de contrôle.
+
+12.4. Le rapport de surveillance, de vérification et d’épreuve de résistance est à soumettre
+pour visa à l’Inspection du travail et des mines.
+
+Copie du rapport visé est à verser au registre prévu au paragraphe 15.2. ci-après.
+
+Art. 13. - Accidents et incidents graves.
+
+13.1. Chaque appareil sous pression ayant été la cause d’un accident ou d’un incident grave
+doit être vérifié par un organisme de contrôle.
+
+13.2. L’exploitation de cet appareil ne peut être reprise qu’après acceptation par l’Inspection
+du travail et des mines du rapport de vérification de l’organisme de contrôle, rapport à verser
+au registre prévu au paragraphe 15.2. ci-après.
+
+Art. 14 Exploitation des installations fixes à gaz liquéfiés à basse température.
+
+14.1. Généralités.
+
+14.1.1. La mise en service et l’exploitation de l’installation ne peuvent être confiées qu’à du
+personnel expérimenté, parfaitement au courant de son fonctionnement, des mesures de
+sécurité à observer et informé des risques associés à une installation à basse température.
+
+14.1.2. Seules les personnes autorisées doivent être habilitées à faire fonctionner l’installation.
+Des instructions de fonctionnement précises doivent être fournies au personnel.
+
+14.1.3. Il doit être porté immédiatement remède à toute défectuosité pouvant compromettre la
+sécurité du voisinage ou du personnel.
+
+
+
+Page 11 de 15 pages                                                                ITM-SST 1312.1
+14.1.4. Pendant la saison froide, des contrôles réguliers doivent être effectués du
+fonctionnement des armatures du réservoir et des évaporateurs à air ambiant ainsi que de la
+présence éventuelle de neige ou de givre, qui seront éliminés si nécessaire des éléments de
+vaporisation. Lorsque les armatures sont couvertes de glace de façon à mettre en danger le
+bon fonctionnement, ou lorsque les robinets risquent de perdre leur fonctionnalité, il est à
+procéder à un dégivrage.
+
+14.2. Emplissage d’un réservoir à gaz liquéfié à basse température.
+
+14.2.1. L’aire de transvasement du liquide doit être désignée comme une zone d’interdiction
+de stationnement.
+
+14.2.2. Le véhicule-citerne, lorsqu’il est en position de remplissage ou de dépotage, doit être
+situé en terrain dégagé et non pas dans une enceinte murée empêchant l’évacuation du liquide
+ou des vapeurs lourdes. Le véhicule doit avoir toute liberté d’accès ou d’évacuation à tout
+moment.
+
+14.2.3. Les voies et les aires desservant le poste de déchargement du véhicule-citerne doivent
+être disposées de façon que l’évacuation des véhicules puisse s’effectuer en marche avant.
+
+14.2.4. Pour les gaz inflammables ou comburants, l’aire de transfert de liquide doit être
+réalisée en béton ou dans un matériau ininflammable adéquat (bitume prohibé) et non-poreux.
+
+14.2.5. Le transvasement du gaz liquide d’un véhicule-citerne situé sur la voie publique est
+interdit.
+
+14.2.6. Les commandes du réservoir de stockage doivent être placées au même niveau que
+celles du véhicule-citerne afin de faciliter le contrôle des opérations de transvasement du gaz
+liquide.
+
+14.2.7. L’opération de déchargement doit être conduite par un préposé qualifié et responsable
+de l’usage en toute sécurité du matériel, ainsi que des mesures à prendre en cas d’accident.
+
+14.2.8. Le préposé doit être présent pendant les opérations de transvasement du gaz liquide.
+
+14.2.9. Toute opération de transvasement de gaz ne peut commencer que si l’installation se
+trouve en parfait état de fonctionnement.
+
+14.2.10. La quantité de gaz à emmagasiner dans le réservoir ne peut jamais dépasser le niveau
+maximum prévu et indiqué sur l’installation par le fournisseur et ceci dans les conditions les
+plus défavorables.
+
+14.2.11. Il est interdit de remplir un réservoir à pression fixe qui n’est pas couvert par un
+rapport dressé par un organisme de contrôle, rapport duquel il résulte que le dépôt répond aux
+prescriptions réglementaires et aux conditions imposées.
+
+14.2.12. Il est interdit de remplir un réservoir à pression fixe qui n’a pas été soumis aux
+contrôles périodiques dans les délais prescrits.
+
+14.2.13 Les camions-citernes amenant le gaz doivent être conformes aux dispositions
+réglementant le transport des marchandises dangereuses (ADR).
+
+
+
+Page 12 de 15 pages                                                             ITM-SST 1312.1
+14.2.14. Les voies de passage routier à circulation réglementée doivent être signalées d’après
+les dispositions du Code de la route.
+
+14.3. Accès à l’installation.
+
+14.3.1. L’accès à l’installation doit être interdit à toute personne non autorisée. Cette
+interdiction est à afficher de façon apparente.
+
+14.3.2. L’installation doit être conçue de manière à ce que les personnes autorisées puissent
+facilement accéder à la zone de travail de l’installation et à tout moment en sortir.
+
+14.4. Mesures spéciales.
+
+14.4.1. Il est rappelé que la basse température du fluide ou des pièces métalliques peut
+occasionner des brûlures graves.
+
+14.4.2. Des équipements de protection individuelle (p.ex. gants, lunettes etc.) efficaces
+doivent être portés par le personnel intervenant sur l’installation.
+
+14.4.3. Le cas échéant, les vêtements de protection (en fibres naturelles) du personnel
+intervenant sur une installation de gaz liquéfié doivent être exempts de toute matière grasse.
+
+14.4.4. Le cas échéant, l’emploi d’huiles, de graisses, de lubrifiants ou de chiffons gras et
+d’autres produits non compatibles avec le gaz liquéfié est interdit à l’intérieur du dépôt.
+
+14.4.5. Le cas échéant, une attention particulière est à apporter aux risques liés à la
+suroxygénation.
+
+14.5. Surveillance et entretien
+
+14.5.1. L’installation doit être maintenue constamment en un bon état d’entretien, de
+fonctionnement et de propreté. Une visite si possible journalière, mais au moins bi-
+hebdomadaire de l’installation, par une personne qualifiée et responsable désignée par
+l’exploitant doit être assurée et consignée dans un registre ouvert à cet effet.
+
+14.5.2. L’entretien de l’installation ne peut être confié qu’à une personne expérimentée,
+parfaitement au courant du fonctionnement et des mesures de sécurité à observer.
+
+14.5.3. Tout le personnel impliqué directement dans la maintenance d’une installation doit
+être pleinement informé des risques y relatifs.
+
+Art. 15 – Registres.
+
+15.1. Pour chaque réservoir aérien fixe est à tenir un registre d’entretien séparé.
+
+Doivent figurer au moins dans ce registre:
+
+-   les descriptions des opérations de maintenance (entretien et réparation) que l’appareil ou
+    l’installation a subi ;
+-   le rapport des vérifications effectuées par le personnel d’exploitation ou de maintenance;
+
+
+
+
+Page 13 de 15 pages                                                                   ITM-SST 1312.1
+-   un descriptif de toutes les interventions et modifications effectuées sur l’appareil pouvant
+    avoir une influence sur la sécurité du personnel ;
+-   les dates des interventions ;
+-   le nom des personnes ou de l’entreprise ayant effectué les interventions.
+
+15.2. Toutes les vérifications et tous les contrôles effectués sur les réservoirs aériens fixes par
+un organisme de contrôle doivent faire l’objet d’une inscription sur un second registre
+dénommé registre de contrôle réglementaire, registre complété par le dossier technique prévu
+au chiffre 6.2.2 ci-dessus.
+
+Ce registre doit comprendre les mentions suivantes:
+
+-   date et nature de la réception, de la réépreuve, du contrôle respectivement de la
+    vérification;
+-   organisme et nom de l’inspecteur ayant effectué la réception, le contrôle respectivement la
+    vérification ou la réépreuve;
+-   motif du contrôle respectivement de la vérification;
+-   la nature et la cause de l’incident, si le contrôle a été effectué suite à un incident.
+
+15.3. Ces registres doivent être incorporés dans un seul dossier de sécurité à tenir pour chaque
+réservoir fixe séparément.
+
+15.4. Ce dossier de sécurité doit être tenu à la disposition des organes de contrôle compétents.
+
+15.5. Les consignations prévues au paragraphe 14.5.1. ci-dessus font l’objet d’un troisième
+registre tenu par l’exploitant.
+
+Article 16 Abrogations.
+
+Les prescriptions de sécurité types (ancien N° ITM-CL 227 / ITM-SST 1303) "Appareils sous
+pression fixes dans lesquels est emmagasiné de l'oxygène liquéfié" et (ancien N° ITM-CL
+272/ITM-SST 1304) "Appareils sous pression fixes dans lesquels est emmagasiné du gaz
+inerte liquéfié" sont abrogées.
+
+Annexe : Classification des fluides.
+
+
+
+              Visa du Directeur adjoint                            Mises en vigueur
+              de l’Inspection du travail                           le 20 août 2008
+                     et des mines
+
+
+                 Robert HUBERTY                                      Paul WEBER
+                                                                       Directeur
+                                                               de l’Inspection du travail
+                                                                      et des mines
+
+
+
+
+Page 14 de 15 pages                                                                    ITM-SST 1312.1
+                                                                 ANNEXE
+
+
+
+
+                              Classification des fluides
+
+
+
+
+Les fluides sont répartis en 2 groupes:
+
+Le groupe 1 comprend les fluides dangereux. Un fluide dangereux est une substance
+ou une préparation visée par les définitions énoncées à l'article 2 de la Directive
+67/548/EEC (telle qu'amendée par le Directive 94/69/EEC) concernant le
+rapprochement des dispositions législatives, réglementaires et administratives relatives
+à la classification, l'emballage et l'étiquetage des substances dangereuses. (Art. 2.2 de
+la loi du 15 juin 1994)
+
+
+Le groupe 1 comprend les fluides définis comme étant:
+
+-   explosifs;
+-   extrêmement inflammables;
+-   hautement inflammables;
+-   inflammables (lorsque la température maximale admissible est supérieure au point
+    d'éclair);
+-   très toxiques;
+-   toxiques;
+-   comburants.
+
+
+Le groupe 2 comprend tous les autres fluides non compris dans le groupe 1.
+
+(par exemple: Argon, Hélium, Krypton, Néon, Azote, Xénon, Dioxyde de carbone,
+vapeur d'eau, eau surchauffée, air comprimé, etc.)
+
+
+
+
+Page 15 de 15 pages                                                        ITM-SST 1312.1
+

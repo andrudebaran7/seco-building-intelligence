@@ -1,0 +1,1728 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                           Mise en vigueur le 01.04.2021
+
+
+
+
+                                                                        ITM-SST 1703.3
+
+                          Oberirdische Flüssiggasbehälter mit einem
+                            Fassungsvermögen ≤ 3000 Liter Inhalt
+
+                                              Sicherheitsvorschriften
+
+                                                    (34 Seiten)
+
+                                                Inhaltsverzeichnis
+   Artikel                                                                              Seite
+
+    1                 Anwendungsbereich, Zweck und Geltungsbereich                          2
+    2                 Begriffe, Definitionen                                                2
+    3                 Allgemeine Anforderungen                                              6
+    4                 Errichtung von Flüssiggasanlagen                                      6
+    5                 Flüssiggasbehälter                                                    7
+    6                 Ausrüstung eines Flüssiggasbehälters                                 21
+    7                 Fernfüllleitung                                                      23
+    8                 Rohrleitungen samt deren Ausrüstung bis zur
+                      Hauptabsperreinrichtung                                              24
+    9                 Elektroinstallationen, Erdung und Potenzialausgleich                 25
+   10                 Blitzschutz                                                          25
+   11                 Inbetriebnahmeprüfung                                                26
+   12                 Wiederkehrende Prüfung                                               27
+   13                 Prüfberichte und Prüfplaketten                                       28
+   14                 Änderungs- bzw. Reparaturarbeiten an Flüssiggasanlagen               29
+   15                 Besondere Vorfälle bzw. Unfälle an Flüssiggasanlagen                 30
+   16                 Rohrleitungen ab der Hauptabsperreinrichtung bis zu den
+                      Gasverbrauchern                                                      30
+   17                 Befüllung von Flüssiggasbehältern mittels Tankfahrzeugen             30
+   18                 Betreiben bzw. Wartungsarbeiten von Flüssiggasanlagen                31
+   19                 Sicherheitsregister                                                  31
+   20                 Entleeren eines Flüssiggasbehälters                                  32
+   21                 Austausch eines Flüssiggasbehälters                                  32
+
+                      Anhang 1                                                             33
+
+
+
+
+   ITM
+   Adresse postale:     B.P. 27                     L-2010 Luxembourg                 Tel.: +352 247-76100
+   Bureaux:             3, rue des Primeurs         L-2361 Strassen                   Fax: +352 247-96100
+   Site internet:       http://www.itm.lu
+Artikel 1 - Anwendungsbereich, Zweck und Geltungsbereich
+
+Vorwort
+Einige Inhalte in Form von Bildern und Textpassagen wurden von der deutschen Vorschrift
+TRF 2012 unter deren Zustimmung in diese Sicherheitsvorschrift integriert. In diesem Zusam-
+menhang möchten wir dem deutschen Verband Flüssiggas e.V. (DVFG) und dem deutschen
+Verein des Gas- und Wasserfaches e.V. (DVGW) für ihre Unterstützung danken.
+Sollten bei der technischen Umsetzung des Artikel 5 dieser Vorschrift Unklarheiten bestehen,
+können auch die deutschen Kommentare zur TRF 2012 bzw. das Prüfhandbuch für Flüssig-
+gasanlagen zu Rate gezogen werden.
+
+Diese Vorschrift gilt für die Planung, Errichtung, Instandhaltung und Änderung sowie für die
+Prüfung von Anlagen, die mit Flüssiggas betrieben werden, bestehend aus Flüssiggas-Versor-
+gungsanlagen mit ortsfesten oberirdischen Flüssiggasbehältern ≤ 3000 Liter Fassungsvermö-
+gen (einschließlich eventuell notwendiger Behälter-Füllleitungen) und Betrieb aus der Gas-
+phase
+
+1.1 Zweck dieser Sicherheitsvorschrift ist es, die allgemeinen Sicherheitsanforderungen für die
+oberirdische Lagerung von Flüssiggas (wie in 2.2 definiert) und die damit verbundenen und
+verwandten Anlagen festzulegen.
+
+1.2 Die Entlastung oder der Verzicht auf diese Anforderungen kann von der ITM von Fall zu
+Fall gewährt werden, jedoch nur, wenn alternative Maßnahmen ergriffen werden, um ein min-
+destens gleichwertiges Sicherheitsniveau zu gewährleisten.
+Diese alternativen Maßnahmen müssen von einem Kontrollbüro als gleichwertiges Sicher-
+heitsniveau anerkannt und von der ITM als solche akzeptiert werden.
+
+
+Artikel 2 - Begriffe, Definitionen
+
+2.1 Flüssiggasbehälter
+Flüssiggasbehälter im Sinne dieser Vorschrift sind ortsfeste oberirdisch aufgestellte
+Druckgeräte zum Lagern von Flüssiggas (LPG) mit einem Fassungsvermögen von ≤ 3000 Liter
+(geometrisches Fassungsvermögen größer als 300 Liter, aber höchstens 3000 Liter), die an
+ihrem Aufstellungsort befüllt werden. Der Flüssiggasbehälter muss mit einer CE-
+Kennzeichnung versehen sein und den zur Zeit der Herstellung entsprechenden europäischen
+Rechtsvorschriften für das Inverkehrbringen von Druckgeräten entsprechen.
+
+2.2 Flüssiggasanlage bezeichnet folgenden Anlagen bzw. Anlagenteile:
+    den Flüssiggasbehälter:
+    - mit seiner Ausrüstung
+    - mit einer Fernfüllleitung, sofern vorhanden
+    - mit allen Rohrleitungen, die das Flüssiggas in der Gasphase verwenden bis zur
+      Hauptabsperreinrichtung
+    - mit einem Druckregler am Flüssiggasbehälter, der den Druck in der Rohrleitung gemäß
+      den Bestimmungen der großherzoglichen Verordnung über Gasanlagen in der
+      aktuellsten Fassung konstant hält.
+
+2.3 Schutzabstand
+Schutzabstände sind Abstände zwischen Flüssiggasbehältern und benachbarten Anlagen,
+Einrichtungen, Gebäuden oder öffentlichen Verkehrswegen, deren Zweck es ist, den Flüssig-
+gasbehälter vor einem Schadensereignis, wie Erwärmung infolge Brandbelastung oder me-
+chanischer Beschädigung, zu schützen.
+
+2.4 Explosionsgefährdeter Bereich
+Explosionsgefährdeter Bereich ist ein Bereich, in dem gefährliche explosionsfähige Atmo-
+sphäre auftreten kann. Ein Bereich, in dem explosionsfähige Atmosphäre nicht in einer solchen
+Menge zu erwarten ist, dass besondere Schutzmaßnahmen erforderlich werden, gilt nicht als
+
+
+page 2 de 34 pages                                                             ITM-SST 1703.3
+explosionsgefährdeter Bereich. Explosionsgefährdete Bereiche werden nach Häufigkeit und
+Dauer des Auftretens gefährlicher explosionsfähiger Atmosphäre in Zonen unterteilt. Diese
+Einteilung dient als Grundlage für die Festlegung von Maßnahmen, insbesondere zur Vermei-
+dung der Entzündung gefährlicher explosionsfähiger Atmosphäre.
+Zone 0 Bereiche, in denen ständig oder langzeitig explosionsfähige Atmosphäre als Gemisch
+aus Luft und brennbaren Gasen, Dämpfen oder Nebeln vorhanden ist.
+Zone 1 Bereiche, in denen sich bei Normalbetrieb gelegentlich eine gefährliche explosionsfä-
+hige Atmosphäre als Gemisch aus Luft und brennbaren Gasen, Dämpfen oder Nebeln bilden
+kann.
+Zone 2 Bereiche, in denen bei Normalbetrieb eine gefährliche explosionsfähige Atmosphäre
+als Gemisch aus Luft und brennbaren Gasen, Dämpfen oder Nebeln normalerweise nicht oder
+aber nur kurzzeitig auftritt.
+
+2.5 Schutzmaßnahme
+Schutzmaßnahmen sind alle Maßnahmen, die der Sicherheit des Betriebes einer Flüssiggas-
+anlage dienen. Die Sicherheit des Betriebes einer Flüssiggasanlage ist gewährleistet, wenn
+die Anforderungen der Vorschriften und technischen Regeln für die Errichtung und den Betrieb
+der Flüssiggasanlage eingehalten werden.
+
+2.6 Gasdichte Abtrennung
+Gasdichte Abtrennungen sind solche, die einen Gasdurchtritt verhindern, z. B.:
+- Stahlblech
+- Stahlbetonwände
+- Ziegelsteinwände, die mindestens einseitig verputzt oder beidseitig verfugt sind
+
+2.7 „Zugelassene Prüfstelle“ ist eine vom Minister gemäß Artikel L. 614-7 Absatz 1 Nummer 2
+des Artikels L. 614-7 des Arbeitsgesetzbuches zugelassene Prüfstelle, die die in den Absätzen
+2 und 3 des gleichen Artikels genannten Kriterien erfüllt.
+
+2.8 „Sachkundige Person“ ist jede Person, die die Gewähr dafür bietet, dass sie die ihr
+übertragenen Aufgaben dank ihrer Ausbildung, Kenntnisse und Berufserfahrung in ihrem
+Tätigkeitsbereich sicher ausführen kann.
+Die Sachkundigen werden vom Hersteller, Fachbetrieb und dem Händler von Flüssiggas unter
+ihrer alleinigen und ausschließlichen Verantwortung gemäß ihrem Tätigkeitsbereich ernannt.
+
+2.9 Fachbetriebe
+Fachbetriebe für:
+- die Errichtung von Flüssiggasanlagen,
+- die Einlagerung von Flüssiggasbehältern,
+- die Installation von Rohrleitungen samt deren Ausrüstung gemäß großherzoglicher Ver-
+    ordnung über Gasanlagen in der aktuellsten Fassung.
+- die Errichtung von KKS-Anlagen,
+- die Erstellung von äußerem Korrosionsschutz
+sind Unternehmen, die über Einrichtungen für die sachgemäße Verarbeitung und Durchfüh-
+rung der notwendigen Prüfungen und über eigenes, verantwortliches Aufsichtspersonal und
+„Sachkundige Personen“ für die Fertigung verfügen.
+
+2.10 Betreiber einer Flüssiggasanlage
+Betreiber ist die Person oder ein Betrieb, die bzw. der das im Flüssiggasbehälter gelagerte
+Gas verwendet.
+
+2.11 Druck
+Der Gasdruck (p) ist der gemessene statische Überdruck von gasförmigen und flüssigen Stof-
+fen in Druckbehältern oder Rohrleitungen gegenüber der Atmosphäre und wird in Millibar
+(mbar) oder in bar angegeben. Der Druck im Flüssiggasbehälter ist nur von der Zusammen-
+setzung des Flüssiggases und dessen Temperatur abhängig.
+
+
+
+
+page 3 de 34 pages                                                           ITM-SST 1703.3
+2.12 Nenndruck (PN)
+Der Nenndruck ist die Bezeichnung für eine ausgewählte Druck-Temperatur-Abhängigkeit, die
+zur Normung von Bauteilen herangezogen wird. Der Nenndruck wird ohne Einheit angegeben.
+Der Zahlenwert des Nenndruckes für ein genormtes Bauteil aus dem in der Norm genannten
+Werkstoff legt den maximal zulässigen Betriebsüberdruck (MOP) in bar fest, für den das Bau-
+teil bei 20 °C ausgelegt ist.
+
+2.13 Betriebsdruck (OP)
+Der Betriebsdruck (OP = operating pressure) ist der in einem Anlagenteil bei ordnungsgemä-
+ßer Betriebsweise jeweils auftretende Gasdruck, angegeben in Pa, mbar oder bar (z. B. 50
+mbar)
+
+2.14 Maximal zulässiger Druck (PS)
+Der maximal zulässige Druck ist der maximale Druck, dem ein Druckgerät höchstens
+ausgesetzt werden darf. Er legt die Einstufung gemäß Druckgeräte-Richtlinie fest und
+entspricht dem vom Hersteller/Errichter angegebenen höchsten Druck, für den die Anlage
+ausgelegt ist.
+
+2.15 Maximal zulässiger Betriebsdruck (MOP)
+Der maximal zulässige Betriebsdruck (MOP = maximum operating pressure) ist der maximale
+Druck, bei dem eine Leitungsanlage unter normalen Betriebsbedingungen betrieben werden
+kann. Ein Überschreiten des maximal zulässigen Betriebsüberdruckes wird z.B. durch ein
+Sicherheitsventil (SV) oder ein Sicherheitsabsperrventil (SAV bzw. Over-Pressure Shut Off
+(OPSO)) verhindert.
+
+2.16 Ansprechdruck
+Als Ansprechdruck wird der Druck bezeichnet, bei dem gemäß einer Einstellung z. B. das
+Sicherheitsabsperrventil (SAV bzw. Over-Pressure Shut Off (OPSO)) zu schließen beginnt
+bzw. das Sicherheitsventil (SV) oder das Sicherheitsabblaseventil (PRV (Pressure relief
+valve)) zu öffnen beginnen. Der Ansprechdruck wird angegeben als Überdruck in bar oder
+mbar.
+
+2.17 Hauptabsperreinrichtung
+Hauptabsperreinrichtungen dienen zur Absperrung der Gasversorgung eines Gebäudes oder
+Gebäudeteiles und befinden sich unmittelbar vor bzw. hinter der Gebäudeeinführung.
+
+2.18 Hauseinführungen
+Hauseinführungen sind Bauteile, die ein sicheres Einführen des Gases in das Gebäude
+gewährleisten.
+
+2.19 Isolierstücke
+Isolierstücke sind Bauteile zur Unterbrechung der elektrischen Leitfähigkeit einer Rohrleitung.
+
+2.20 Nennweite DN:
+Sie ist eine numerische Größenbezeichnung, welche für alle Bauteile eines Rohrsystems
+benutzt wird, für die nicht der Außendurchmesser oder die Gewindegröße angegeben werden.
+Es handelt sich um eine gerundete Zahl, die als Nenngröße dient und nur näherungsweise mit
+den Fertigungsmaßen in Beziehung steht. Die Nenngröße wird durch DN, gefolgt von einer
+Zahl, ausgedrückt. Fehlt DN in den Normen, ist davon auszugehen, dass DN dem
+Innendurchmesser in Millimetern entspricht.
+
+2.21 Rohrleitungen
+Zu Rohrleitungen im Sinne dieser technischen Regeln gehören auch deren Ausrüstungsteile.
+Ausrüstungsteile von Rohrleitungen sind die sicherheitstechnisch erforderlichen Ausrüstungs-
+teile und die dem Betrieb der Rohrleitung dienenden sonstigen Armaturen, wie Druckregelge-
+räte, Sicherheitsabsperrventile, Sicherheitsabblaseventile, Filter, Isolierstücke, Ventile, Schie-
+ber, sowie Halterungen bzw. Führungen der Rohre.
+
+
+
+page 4 de 34 pages                                                                ITM-SST 1703.3
+2.21a Mitteldruck-Rohrleitung
+Mitteldruck-Rohrleitungen sind alle Rohrleitungen einschließlich deren Ausrüstungen (wie
+Druckregelgeräte, Ventile, Isolierstücke) mit einem zulässigen Betriebsüberdruck > 0,1 bar.
+
+2.21b Niederdruck-Rohrleitung
+Niederdruck-Rohrleitungen sind alle Rohrleitungen einschließlich deren Ausrüstungen (wie
+Druckregelgeräte, Ventile, Isolierstücke) mit einem zulässigen Betriebsüberdruck ≤ 0,1 bar.
+
+2.22 Sicherheitsabsperreinrichtung (SAV bzw. Over-Pressure Shut Off (OPSO))
+Sicherheitsabsperreinrichtungen sind Einrichtungen, die im normalen Betrieb geöffnet (be-
+triebsbereit) sind und die Aufgabe haben, den Gasstrom selbsttätig abzusperren, sobald der
+eingestellte Ansprechdruck hinter dem nachgeschalteten Druckregelgerät erreicht wird. Sie
+öffnen nach dem Sperren nicht selbsttätig.
+
+2.23 Sicherheitsabblaseeinrichtung (PRV (Pressure relief valve))
+Sicherheitsabblaseeinrichtungen sind Einrichtungen die im normalen Betrieb geschlossen (be-
+triebsbereit) sind und die Aufgabe haben, einen Gasstrom aus der druckführenden Leitung
+selbsttätig freizugeben, sobald der Druck in dem abzusichernden System den Ansprechdruck
+steigend erreicht hat.
+Sicherheitsabblaseeinrichtungen schließen wieder selbsttätig, wenn der Druck unter den An-
+sprechdruck fällt.
+
+2.24 Befahren von Behältern
+Unter Befahren sind alle Tätigkeiten/Arbeiten zu verstehen, bei denen sich die bzw. der Arbei-
+tende in Behältern und engen Räumen aufhält oder sich hineinbeugt. Der Begriff „Befahren“
+ist aus dem Bergbau übernommen.
+
+2.25 Freimessung
+Freimessung beschreibt das Ermitteln einer möglichen Konzentration eines gefährlichen Ar-
+beitsstoffes bzw. des Sauerstoffgehalts vor und während der Arbeiten in Behältern und engen
+Räumen mit dem Ziel festzustellen, ob die Atmosphäre im Behälter oder engen Raum ein
+gefahrloses Arbeiten ermöglicht.
+Eine Freimessung stellt eine Momentaufnahme der Situation dar. Können gefährliche Arbeits-
+stoffe auch während der Befahrung auftreten, ist eine permanente Messung erforderlich.
+
+2.26 Europäische Rechtsvorschriften für das Inverkehrbringen von Druckgeräten
+Richtlinie 2014/68/EU zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die
+Bereitstellung von Druckgeräten auf dem Markt, die durch das Gesetz vom 27. Juni 2016 über
+die Bereitstellung von Druckgeräten auf dem Markt in nationales Recht umgesetzt wurde.
+
+2.27 "ITM" Inspection du travail et des mines
+
+
+
+
+page 5 de 34 pages                                                            ITM-SST 1703.3
+Artikel 3 - Allgemeine Anforderungen
+
+3.1 Im Hinblick auf die Installation und Wartung einer Flüssiggasanlage sind die Normen, An-
+forderungen, Sicherheits- und Hygienerichtlinien und der Stand der Technik für die Ent-
+wicklung, den Bau und den Betrieb von oberirdischen Flüssiggasbehältern anzuwenden.
+Europäische Normen (EN) sind anzuwenden, so wie sie erscheinen und nationale Vorschriften
+ersetzen.
+
+3.2 Alle neuen Flüssiggasbehälter müssen den Bestimmungen der Richtlinie 2014/68/EU-
+Druckgeräterichtlinie entsprechen, die durch das Gesetz vom 27. Juni 2016 über die
+Bereitstellung von Druckgeräten auf dem Markt in nationales Recht umgesetzt wurde.
+
+3.3 Bei Montage-, Reparatur- und Wartungsarbeiten sind insbesondere die Bestimmungen der
+Artikel L. 311 bis L. 314 des Arbeitsgesetzbuches und die nach diesem Kodex erlassenen
+großherzoglichen Erlasse und Vorschriften zu beachten:
+- die geänderte großherzogliche Verordnung vom 4. November 1994 über Mindestvorschriften
+für Sicherheit und Gesundheitsschutz bei Benutzung von Arbeitsmitteln durch Arbeitnehmer
+bei der Arbeit
+- die großherzogliche Verordnung vom 21. März 2005 über Mindestvorschriften zur Verbesse-
+rung des Schutzes der Gesundheit und Sicherheit der Arbeitnehmer, die dem Risiko einer
+explosiven Atmosphäre ausgesetzt sein könnten.
+
+3.4 Zusätzlich sind sofern zutreffend folgende Bestimmungen zu beachten:
+    - Das Gesetz vom 27. Juni 2016 über Geräte und Schutzsysteme zur Verwendung in
+       explosionsgefährdeten Bereichen zur Umsetzung der Richtlinie 2014/34/EU (ATEX-
+       Richtlinie)
+    - Die Großherzogliche Verordnung über Gasanlagen in der aktuellsten Fassung
+
+3.5 Des Weiteren sind die Empfehlungen zur Unfallverhütung der Association d'Assurance
+Accidents (AAA) zu beachten.
+
+
+Artikel 4 - Errichtung von Flüssiggasanlagen
+
+4.1 Errichtung
+Flüssiggasanlagen dürfen nur von solchen Fachbetrieben errichtet, instandgehalten oder ge-
+ändert werden, die dafür die erforderliche Sachkunde und Erfahrung besitzen.
+
+Von den nachfolgenden Fachbetrieben kann im Allgemeinen angenommen werden, dass
+diese die erforderliche Sachkunde und Erfahrung für die Rohrleitungsinstallation besitzen:
+
+   -   Fachbetriebe des Heizungs- und Sanitärhandwerks, die bei der Handwerkskammer
+       entsprechend dem großherzoglichen Verordnung Titel 2 Artikel 3 eingetragen sind.
+
+
+
+
+page 6 de 34 pages                                                           ITM-SST 1703.3
+Artikel 5 - Flüssiggasbehälter
+
+5.1 Herstellung und Inverkehrbringen
+5.1.1 Allgemeines
+Flüssiggasbehälter müssen hinsichtlich der Auslegung, Fertigung und Konformitätsbewertung
+der zur Zeit der Herstellung gültigen Druckgeräte - Richtlinie entsprechen und mit einer CE-
+Kennzeichnung versehen sein
+
+5.1.2 Betriebsbedingungen
+Oberirdische Flüssiggasbehälter müssen gegen unzulässige Erwärmung durch
+Sonneneinstrahlung geschützt sein, z. B. durch einen reflektierenden Anstrich. Um die
+ursprünglichen Eigenschaften des reflektierenden Anstrichs zu erhalten, ist die Oberfläche des
+Flüssiggasbehälters bei Verschmutzung zu reinigen und der Anstrich gegebenenfalls
+auszubessern oder zu erneuern.
+
+Die Auslegung der Flüssiggasbehälter ergibt sich unter anderem nach EN 12542.
+
+Der maximal zulässige Betriebsdruck des Flüssiggasbehälters muss mindestens 15,6 bar und
+die maximal zulässige Betriebstemperatur muss mindestens 40 °C betragen.
+
+5.1.3 Behälterdokumentation
+Jedem Druckgerät ist eine Dokumentation beizufügen, die neben den Informationen für die
+Montage, Inbetriebnahme, Betrieb und Wartung Folgendes enthalten muss:
+- Konformitätserklärung des Herstellers
+- weitere der Sicherheit der Anlage dienende Unterlagen, insbesondere:
+        - Behälterzeichnung mit Stückliste
+        - Werkstoffbescheinigungen
+        - Unterlagen über die durchgeführten Prüfungen
+        - Bescheinigung über die Prüfung des Sicherheitsventils
+        - Bescheinigung über einen besonders wirksamen und mangelfreien Korrosionsschutz
+Der Betreiber muss die Behälterdokumentation aufbewahren, dies kann auch in elektronischer
+Form sein.
+Die Dokumentation ist der zugelassenen Prüfstelle bei der Inbetriebnahmeprüfung vorzulegen.
+
+5.2 Aufstellung von Flüssiggasbehältern - Bauliche Anforderungen an die Aufstellorte
+
+5.2.1 Allgemeines
+
+5.2.2.1 Erdung
+Eine Erdung eines oberirdischen Flüssiggasbehälters ist grundsätzlich erforderlich.
+
+5.2.2.2 Blitzschutz
+Bei oberirdischer Lagerung von Flüssiggas im Freien ist kein Blitzschutz erforderlich, da
+aufgrund der Behälterwandstärke die Behälterwand als blitzstromtragfähig gilt.
+
+5.2.3 Oberirdische Flüssiggasbehälter
+
+5.2.3.1 Aufstellung im Freien
+Oberirdisch im Freien aufgestellte Flüssiggasbehälter müssen standsicher sein.
+Der Boden unterhalb des Flüssiggasbehälters muss eben sein.
+Sie sind so zu gründen, dass durch die Gründung selbst oder durch äußere Kräfte keine
+unzulässigen Verlagerungen oder Neigungen eintreten können.
+
+Oberirdisch aufgestellte Flüssiggasbehälter müssen zu anderen Lagerbehältern und
+untereinander einen für die Brandbekämpfung ausreichenden Abstand haben. Diese
+Forderung ist erfüllt, wenn der Abstand 1 m beträgt.
+
+
+
+
+page 7 de 34 pages                                                            ITM-SST 1703.3
+5.2.3.2 Aufstellung im hochwassergefährdeten Bereich
+Die Aufstellung eines oberirdischen Behälters im hochwassergefährdeten Bereichen HQ10
+(forte probabilité) und HQ100 (probabilité moyenne) ist verboten.
+Im Gefährdungsbereich HQ extrême (faible probabilité) ist die Aufstellung unter
+Berücksichtigung geeigneter Maßnahmen möglich. Diese Maßnahmen muss der Antragsteller
+vor der Aufstellung von einer zugelassenen Prüfstelle prüfen und freigegeben lassen.
+Der Antragsteller prüft die Einstufung der Hochwassergefährdung anhand der nationalen
+Plattform (www.geoportail.lu).
+
+5.3 Betriebliche Anforderungen
+
+5.3.1 Schutzziele
+Die nachfolgenden technischen und betrieblichen Anforderungen dienen in ihrer Umsetzung
+dazu, dass Flüssiggasbehälter sicher betrieben werden. Die Ermittlung und Beurteilung der
+Gefährdungen sowie der Festlegung der abgeleiteten und nachfolgend aufgeführten Maßnah-
+men verfolgen hierbei für den Betrieb der Flüssiggasbehälter zwei Schutzziele:
+- Schutz der Umgebung vor Gefahren, die von den Flüssiggasbehältern ausgehen können
+- Schutz der Flüssiggasbehälter vor Gefahren, die aus der Umgebung auf die Flüssiggas-
+    behälter einwirken können
+
+5.3.2 Allgemeine Anforderungen
+Gasbeaufschlagte Anlagenteile sowie deren Ausrüstungsteile einschließlich aller Rohrlei-
+tungsverbindungen müssen so ausgeführt sein, dass sie bei den aufgrund der vorgesehenen
+Betriebsweise zu erwartenden mechanischen, chemischen und thermischen Beanspruchun-
+gen technisch dicht sind.
+
+5.3.2.1 Sicherheitskennzeichnung
+Der explosionsgefährdete Bereich muss mit dem Warnzeichen „Warnung vor explosionsfähi-
+ger Atmosphäre“ deutlich erkennbar und dauerhaft gekennzeichnet sein.
+Bereiche mit Flüssiggasbehältern sind deutlich und dauerhaft zu kennzeichnen. Diese
+Forderung ist erfüllt, wenn die Beschilderung auf dem Flüssiggasbehälter bei der Aufstellung
+im Freien oder umgrenzten Bereichen im Freien mit dem Namen des Gases, mit dem
+Gefahrensymbol und mit der Gefahrenbezeichnung gekennzeichnet ist.
+
+
+
+
+page 8 de 34 pages                                                           ITM-SST 1703.3
+5.3.2.2 Alarm- und Gefahrenabwehrplan
+Für Flüssiggasanlagen müssen ein Alarmplan und ein Gefahrenabwehrplan aufgestellt wer-
+den. Diese Forderung ist durch die dauerhaft angebrachte Behälter-Betriebsanweisung (siehe
+folgendes Beispiel) erfüllt.
+
+ Betriebsanweisung/EX-Schutzdokument für Flüssiggas-Anlagen mit ortsfesten Behältern
+ 1. Eigenschaften von Flüssiggas
+ Flüssiggas (Propan, Butan und deren Gemische) ist ein hochentzündliches, farbloses Gas mit wahrnehmbarem
+ Geruch. Es ist schwerer als Luft und schon bei geringer Vermischung mit der Umgebungsluft zündfähig.
+ Vorsicht: Unkontrolliert ausströmendes Gas kann zu Verpuffungen oder Explosionen führen.
+ 2. Verhalten bei Störungen und Undichtheiten
+ Bei Störungen und Undichtheiten (z. B. Gasgeruch, Ausströmgeräusch) sofort das Behälterabsperrventil unter
+ der Armaturenhaube unter dem Domschachtdeckel und die Hauptabsperreinrichtung außerhalb oder unmittelbar
+ nach Eintritt der Rohrleitung in das Gebäude schließen.
+  Bei Betriebsstörungen: Fachfirma rufen!     Bei Gasgeruch in Gebäuden zusätzlich:
+  In Notfällen:                               Fenster & Türen öffnen! Keine Elektroschalter betätigen!
+  Feuerwehr/Notarzt 112 / Polizei 113 und     Offene Feuer löschen!   Nicht telefonieren!
+  Gaslieferanten/Versorgungsunternehmen Nicht rauchen!                Haus verlassen!
+  benachrichtigen!
+ 3. Sicherheitstechnische Anforderungen an den Betrieb der Flüssiggasbehälter
+ Der Eingriff Unbefugter ist durch Abschließen der Armaturenhaube/Domschachtdeckel oder in besonderen
+ Fällen durch Einzäunung zu unterbinden.
+ Der Umgang mit offenem Feuer (z. B. Grillen) und das Rauchen sind in unmittelbarer Nähe des Behälters
+ verboten. Der Bereich um den Behälter muss frei von Bewuchs (Bäume, Sträucher) gehalten werden.
+ Feste elektrische Installationen (sowie ggf. auch nicht elektrische Geräte und andere potenzielle Zündquellen)
+ müssen den Anforderungen der fest gelegten Zone entsprechen. Die Zone 1 muss bei erdgedeckten Behältern
+ innerhalb des Domschachtes jederzeit von Zündquellen freigehalten werden.
+ Die Zone 2 muss während des Befüllvorgangs von wirksamen Zündquellen freigehalten werden.
+ Im Bereich von 3 m um Armaturen dürfen sich keine ungeschützten Kanaleinläufe, Schächte oder sonstige
+ Öffnungen befinden.
+ Der helle, die Sonneneinstrahlung reflektierende Anstrich muss sauber gehalten werden, damit der Behälter
+ insbesondere im Sommer gegen Erwärmung wirksam geschützt ist.
+ Sofern im Explosionsschutzdokument nichts Anderes vorgesehen ist, sind in explosionsgefährdeten Bereichen
+ Geräte entsprechend den Kategorien gemäß Richtlinie 2014/34/EU auszuwählen (Zone 1: Geräte der
+ Kategorien 1 oder 2, Zone 2: Geräte der Kategorien 1, 2 oder 3).
+ Bei gewerblichen Anlagen ist gegebenenfalls ein separates EX-Schutzdokument zu erstellen.
+
+
+
+
+ Es muss ein Abstand zu Brandlasten (z. B. Holzschuppen o. Ä.) von mindestens 5 m zum oberirdischen Behälter
+ eingehalten werden. Innerhalb dieses Bereiches und unterhalb des oberirdischen Behälters dürfen keine
+ brennbaren Stoffe (z. B. Brennholz) gelagert werden. Bauliche Veränderungen innerhalb eines Bereiches von 5
+ m sowie wesentliche Veränderungen des Umfeldes des Behälters bedürfen der vorherigen Absprache mit dem
+ Versorgungsunternehmen.
+ 4. Betrieb einer Flüssiggas-Anlage
+ Flüssiggas-Anlagen dürfen nur von Fachfirmen installiert, geändert und erstmalig in Betrieb genommen werden.
+ Vom Betreiber sind die Bedienungsanweisungen der Hersteller der Flüssiggas-Verbrauchsgeräte für den Betrieb
+ und ggf. bei Betriebsstörungen sorgfältig zu beachten.
+ Der Betreiber einer Flüssiggas-Anlage hat sich davon zu überzeugen, dass vor der ersten Inbetriebnahme oder
+ nach einer wesentlichen Veränderung der Anlage der ordnungsgemäße Zustand hinsichtlich der Montage,
+ Installation, den Aufstellbedingungen und der sicheren Funktion von einer sachkundigen Person (z. B. von einer
+ Fachfirma) geprüft und bescheinigt wurde.
+ Die Bescheinigungen über die Prüfungen von Behälter und Gesamtanlage sind vom Betreiber aufzubewahren.
+ Bei längerer Außerbetriebnahme sind die Ventile beginnend vom Behälterabsperrventil über
+ Hauptabsperreinrichtung bis hin zu den Geräteabsperreinrichtungen zu schließen. Bei Wiederinbetriebnahme
+ sind die Ventile in gleicher Reihenfolge zu öffnen.
+ Der Füllstand ist regelmäßig zu kontrollieren.
+ Für einen störungsfreien Betrieb sollte bei einem Inhalt von ca. 30 % eine Befüllung des Behälters in Auftrag
+ gegeben werden.
+
+
+
+
+page 9 de 34 pages                                                                            ITM-SST 1703.3
+5.3.2.3 Zugänglichkeit
+Flüssiggasbehälter müssen so aufgestellt sein, dass für Bedienung, Befüllung, Wartung, In-
+standhaltung und Prüfung sowie für Flucht- und Rettungswege ausreichende Abstände vor-
+handen sind.
+
+Die Forderung hinsichtlich ausreichender Abstände für Bedienung, Wartung, Instandhaltung
+und Prüfung ist dann erfüllt, wenn die Abstände rund um den Behälter mind. 0,5 m betragen.
+
+Die Forderung hinsichtlich ausreichender Abstände für Flucht- und Rettungswege ist erfüllt,
+wenn das schnelle und sichere Verlassen von Arbeitsplätzen und Räumen gewährleistet ist.
+
+Zu Flucht- und Rettungswegen für die Behälteraufstellung ist ein Mindestabstand von 1 m
+einzuhalten.
+
+Fluchtwege aus Gebäuden ins Freie dürfen nicht in Fluchtrichtung zum Behälter münden.
+
+5.3.2.4 Einschränkung der Aufstellung
+In Durchgängen, Durchfahrten, Fluren, Fluchtwegen (Notausgang), Treppenräumen,
+Feuerwehrzufahrten, Notausgängen oder an Treppen von Freianlagen dürfen
+Flüssiggasbehälter nicht aufgestellt werden.
+
+Die Aufstellung des Behälters ist nicht zulässig, wenn die Verlegung des Füllschlauches durch
+Flure, Treppenhäuser, Wohn- und Aufenthaltsräume oder Notausgänge erfolgen muss.
+
+Die Verlegung eines Füllschlauches durch Garagen, Durchgänge und Durchfahrten ist zuläs-
+sig, wenn der Zugang zum Behälter ebenerdig und frei – ohne das Überwinden von Hinder-
+nissen - möglich ist. Türen und Fenster zu Nachbarräumen müssen verschlossen sein.
+
+Als Treppen von Freianlagen gelten auch solche, die als Außentreppen an Gebäuden anzu-
+treffen sind (z.B. Fluchtwege im Hotel, Freitreppe zu Obergeschossen von Gebäuden). Unter-
+halb dieser Treppen oder neben den Treppen im Abstand von weniger als 1 m zur
+Behälterwandung die Aufstellung von Behältern nicht zulässig.
+
+5.3.3 Explosions- und Brandschutz
+
+5.3.3.1 Allgemeine Grundsätze
+Die Forderung nach Maßnahmen des Brand- und Explosionsschutzes sind erfüllt, wenn
+- die Bildung gefährlicher explosionsfähiger Atmosphäre vermieden oder eingeschränkt ist
+    (primärer Explosionsschutz) und
+- die Entzündung gefährlicher explosionsfähiger Atmosphäre vermieden ist.
+
+Aufgrund der Anordnung (oberer Behälterscheitel) und Ausführung der Anschlüsse (NPT-
+Verschraubungen) ist eine Selbstbefeuerung sicher verhindert. Flüssiggasbehälter mit ihren
+Ausrüstungsteilen nach Abschnitt 6 sind in Verbindung mit deren bestimmungsgemäßer
+Nutzung und dem Nachweis der Dichtheit als dauerhaft technisch dicht einzustufen.
+Die Forderung nach primärem Explosionsschutz (Vermeidung oder Einschränkung gefährli-
+cher explosionsfähiger Atmosphäre) ist erfüllt, wenn die Anforderungen an die Lüftung nach
+Abschnitt 5.3.4.2 eingehalten sind.
+
+5.3.3.2 Zoneneinteilung explosionsgefährdeter Bereiche
+Die Forderung, die Entzündung gefährlicher explosionsfähiger Atmosphäre zu verhindern, ist
+erfüllt, wenn um die möglichen Gasaustrittsstellen (betriebsbedingte Austrittsstellen) ein aus-
+reichend bemessener explosionsgefährdeter Bereich festgelegt und in diesem während des
+Befüllvorgangs das Vorhandensein von Zündquellen ausgeschlossen ist. Blindgeschlossene
+Anschlüsse sind wie eine öffnungslose Behälterwand zu betrachten.
+Feste elektrische Installationen sowie ggf. auch nicht elektrische Geräte und andere potenzi-
+elle Zündquellen (gemäß ATEX Richtlinie) müssen den Anforderungen der festgelegten Zone
+entsprechen.
+
+
+page 10 de 34 pages                                                            ITM-SST 1703.3
+In explosionsgefährdeten Bereichen dürfen nur folgende Kategorien von (EX-geschützten)
+Geräten verwendet werden:
+in Zone 1: Geräte der Kategorie 1 oder der Kategorie 2
+in Zone 2: Geräte der Kategorie 1, Kategorie 2 oder der Kategorie 3
+Die Bemessung des explosionsgefährdeten Bereiches sowie die geometrische Gestaltung die-
+ses Bereiches sind den nachfolgenden Bildern zu entnehmen.
+
+
+
+
+              Bild: Explosionsgefährdeter Bereich bei oberirdischer Aufstellung
+
+5.3.3.3 Nutzung der explosionsgefährdeten Bereiche
+Während des Befüllvorgangs ist das Betreten durch Unbefugte und Durchfahren der Zone 2
+durch geeignete Maßnahmen zu unterbinden, z. B. durch fachkundiges Aufsichtspersonal (z.
+B. eingewiesener Tanklastwagen-Fahrer), Absperrungen oder Warnzeichen.
+
+Nach Beendigung des Befüllvorgangs und nachgewiesener Dichtheit (z. B. durch schaumbil-
+dende Mittel) können Arbeiten mit Auftreten wirksamer Zündquellen (z. B. Rasen mähen) in-
+nerhalb der Zone 2 durchgeführt werden.
+
+5.3.3.4 Einschränkung des explosionsgefährdeten Bereichs
+Die Einschränkung des explosionsgefährdeten Bereichs ist durch bauliche Maßnahmen mög-
+lich.
+Bauliche Maßnahmen sind z.B. Abtrennungen. Die Abtrennungen müssen nicht für Beanspru-
+chungen aus Explosionen ausgelegt sein.
+Um im Freien die natürliche Umlüftung zu gewährleisten, ist eine Einschränkung nur an ein
+oder zwei Seiten zulässig. Bei Einschränkung an mehr als zwei Seiten sind ergänzende Lüf-
+tungsmaßnahmen (z. B. technische Lüftung) vorzunehmen.
+Bauliche Maßnahmen im Freien sind z. B. öffnungslose Wände aus nichtbrennbaren Baustof-
+fen (Blech, Faserzement, Mauerwerk etc.) - gasdichte Abtrennungen.
+Die Höhe (H) und Länge (L) sind folgenden Bildern zu entnehmen, hierbei ist darauf zu achten,
+dass die Höhe (H) und die Länge (L) die ATEX Zone überschreiten.
+
+
+
+
+page 11 de 34 pages                                                           ITM-SST 1703.3
+      Einschränkung des explosionsgefährdeten Bereichs – oberirdischer Aufstellung
+
+     Bemerkung: Schutzwand - falls Gerät/Einrichtung nicht EX-geschützt ausgeführt ist
+
+
+
+
+Einschränkung des explosionsgefährdeten Bereichs, oberirdische Aufstellung - Draufsicht
+
+5.3.3.5 Meldeeinrichtungen
+Im Bereich der Flüssiggasbehälter müssen Einrichtungen zum Melden von Brand- oder Explo-
+sionsgefahr vorhanden sein. Diese Forderung ist z. B. erfüllt, wenn ein Telefon, Mobiltelefon
+oder Feuermelder schnell erreichbar sind.
+
+5.3.4 Anforderungen an die Umgebung
+5.3.4.1 Allgemeines
+Bei oberirdisch aufgestellten Flüssiggasbehältern dürfen in einem Abstand von 3 m, gemessen
+von betriebsbedingten Austrittsstellen (Peilventil und Füllanschluss) bzw. Mitte Füllkupplung
+bei Fernfüllleitungen, keine:
+- Nachbargrundstücke, öffentliche Wege bzw. Straßen
+vorhanden sein.
+
+
+
+page 12 de 34 pages                                                          ITM-SST 1703.3
+Die Reduzierung dieses Abstandes ist durch bauliche Maßnahmen - öffnungslose Wände aus
+nichtbrennbaren Baustoffen wie z. B. Blech, Faserzement, Mauerwerk etc. - in
+Ausnahmefällen möglich.
+Hierbei ist aufgrund der notwendigen Zugänglichkeit ein Mindestabstand von 0,5 m zwischen
+Behälter und baulicher Maßnahme einzuhalten.
+Diese Abtrennungen müssen nicht für Beanspruchungen aus Explosionen ausgelegt sein.
+Hierbei ist darauf zu achten, dass die Höhe (H) und Länge (L) die ATEX Zone überschreiten.
+
+5.3.4.2 Lüftung
+Der Behälter ist so aufzustellen, dass eine allseitig gute Umlüftung sichergestellt ist. Die For-
+derung nach einer ausreichenden Umlüftung ist bei der Aufstellung im Freien dann erfüllt,
+wenn die Zone 2 an nicht mehr als an zwei Seiten eingeschränkt ist. Bei Einschränkung an
+mehr als an zwei Seiten sind ergänzende Maßnahmen vorzusehen.
+
+5.3.4.3 Kanäle, Schächte, Öffnungen
+Bei oberirdisch aufgestellten Flüssiggasbehältern dürfen 3 m um Armaturen bzw. Mitte
+Füllkupplung bei Fernfüllleitungen keine:
+- offenen Kanäle,
+- gegen Gaseintritt ungeschützten Kanaleinläufe,
+- offenen Schächte,
+- Öffnungen zu tieferliegenden Räumen (Kellerschächte) und
+- Luftansaugöffnungen
+vorhanden sein.
+Sind im Bereich von 3 m bis 5 m rund um betriebsbedingte Austrittsstellen (Peilventil und
+Füllanschluss) bzw. Mitte Füllkupplung bei Fernfüllleitungen
+- offene Kanäle,
+- gegen Gaseintritt ungeschützte Kanaleinläufe,
+- offene Schächte,
+- Öffnungen zu tieferliegenden Räumen (Kellerschächte) und
+- Luftansaugöffnungen
+vorhanden, so sind während des Befüllvorgangs zusätzliche Schutzmaßnahmen vorzusehen,
+z. B. Abdeckung von Kanaleinläufen mit geeigneten Gummimatten.
+Kanäle, Schächte oder Öffnungen können in unterschiedlichsten Lagen zu Behältern ange-
+troffen werden und sind nicht immer auf den ersten Blick zu erkennen, weil dies durch Laub,
+Bepflanzung, Mauern, Vorsprünge, Vertiefungen verdeckt liegen können.
+Vom Betreiber ist sicherzustellen, dass die mit der Belieferung bzw. mit Wartung/
+Instandhaltung beauftragte Unternehmen über zusätzliche temporäre Schutzmaßnahmen
+informiert werden, z.B. durch Kennzeichnung des Behälters mit einem Hinweis auf Kanäle,
+Schächte, Öffnungen im Bereich 3 bis 5 m um den Füllanschluss (siehe Bild) oder als
+schriftlicher Hinweis im Auftrag.
+
+
+
+
+       Bild: Beispiel Kennzeichnung Füllanschluss (roter Rahmen, gelber Hintergrund,
+                        schwarze Schrift, Mindestgröße 10 cm x 10 cm)
+
+
+page 13 de 34 pages                                                              ITM-SST 1703.3
+Die Reduzierung dieses Abstandes ist durch bauliche Maßnahmen - öffnungslose Wände aus
+nichtbrennbaren Baustoffen wie z. B. Blech, Faserzement, Mauerwerk etc. - in
+Ausnahmefällen möglich.
+Hierbei ist aufgrund der notwendigen Zugänglichkeit ein Mindestabstand von 0,5 m zwischen
+Behälter und baulicher Maßnahme einzuhalten.
+Diese Abtrennungen müssen nicht für Beanspruchungen aus Explosionen ausgelegt sein.
+
+Die Höhe und Länge sind folgenden Bildern zu entnehmen.
+
+
+
+
+Bild Beispiel 1 Schutz von Kanälen, Schächten und Öffnungen durch bauliche Maßnahmen
+
+
+
+
+ Bild Beispiel 2 Schutz von Kanälen, Schächten und Öffnungen durch bauliche Maßnahmen
+
+
+
+
+page 14 de 34 pages                                                       ITM-SST 1703.3
+                              Bild: Besondere Aufstellsituation:
+• ungeschützter Kanaleinlauf im Bereich 3 m um die Armaturen
+• Schacht im Bereich 3 bis 5 m (_._._._._._ Kriechweg)
+Maßnahme: Stützmauer als Schutzwand auf Punkt A hochziehen, Kanal und Schacht
+geschützt
+
+5.3.4.4 Gelände mit Gefälle
+Bei Gelände mit Gefälle von mehr als 30° im Umkreis von 5 m um betriebsbedingte Austritts-
+stellen (Peilventil, Füllanschluss, gegebenfalls Füllanschluss Fernfüllleitung) können während
+des Befüllvorgangs zusätzlich zu den Maßnahmen aus Abschnitt 5.3.4.3 Einrichtungen
+erforderlich sein, die verhindern, dass Flüssiggas über den Aufstellplatz hinaus in
+tieferliegende Räume, Kanäle, Schächte oder Luftansaugöffnungen eindringen kann (30°
+Gefälle entspricht ca. 0,6 m auf 1 m).
+Diese Forderung ist erfüllt,
+- wenn im Bereich des geforderten Umkreises von 5,0 m und weiteren 3,0 m in Richtung
+     des Gefälles keine der oben genannten Öffnungen vorhanden sind, oder
+- in z. B. unmittelbarer Nähe durch eine 0,2 m hohe Mauer/Wall verhindert wird, dass
+     Flüssiggas in sich dort befindende tieferliegende Räume, Kanäle, Schächte oder Luft-
+     ansaugöffnungen eindringen kann. Die Länge der Mauer ist gleich Breite der Öffnung plus
+     0,5 m an beiden Seiten oder Schnittpunkt mit dem oben geforderten Umkreis.
+- Zulässig ist auch eine vorübergehende Abdeckung der Öffnung.
+-
+
+
+
+
+                      Bild Zusätzliche Maßnahmen bei Gelände mit Gefälle
+
+
+page 15 de 34 pages                                                           ITM-SST 1703.3
+5.3.5 Schutz vor Brandlasten
+Brennt es im Umfeld des Flüssiggasbehälters, kann durch Konvektion, Strahlung und/oder
+direkte Flammberührung der Behälter unzulässig erwärmt werden. Bei Überschreiten
+bestimmter Temperaturen des Flüssiggases spricht das Sicherheitsventil an.
+
+Flüssiggasbehälter müssen, falls in der Umgebung eine Brandlast besteht, vor dieser
+geschützt sein. Diese Forderung ist erfüllt, wenn der Flüssiggasbehälter gegen Erwärmung
+durch Flammenberührung oder Strahlung über die zulässige Werkstofftemperatur hinaus
+während 90-minütiger Brandeinwirkung geschützt ist, z. B. durch:
+- einen Schutzabstand,
+- eine Schutzwand.
+
+Nicht jeder brennbare Gegenstand im Umfeld eines Flüssiggasbehälters stellt aber eine
+wirksame Brandlast dar und ist deshalb unterschiedlich zu bewerten.
+
+Ein Dachüberstand stellt keine Brandlast dar, wenn der Abstand des Flüssiggasbehälters zu
+der Gebäudewand dem Dachüberstand entspricht (siehe Bild 16).
+
+Eine Brandlast besteht nicht, wenn brennbare Teile nur in geringen Mengen oder mit geringem
+Wärmeinhalt vorhanden sind, wie z. B. Kabelumhüllungen, Schutzkästen, Wärmedämmungen
+von Rohrleitungen, Holzzäune, Strohmatten, Hundehütten, Holzverkleidungen von Gebäude-
+wänden, ausgemauertes Fachwerk.
+
+Die Lagerung von brennbaren Teilen, auch in geringen Mengen, unterhalb des
+Flüssiggasbehälters ist nicht zulässig.
+
+Die Schutzmaßnahmen vor Brandlasten sind abhängig von der Art und Menge / Größe der
+brennbaren Stoffe / Bauten sowie der Lage der Brandlast zum Flüssiggas-Behälter.
+Brandlasten können brennbare Stoffe unterschiedlichster Art sein, wie z. B.:
+• feste brennbare Stoffe, z. B. Holz, Stroh, Papier, Pappe, Altreifen, brennbare Abfälle
+Hinweis: Gewachsene Bäume und Sträucher stellen keine Brandlast dar.
+• brennbare Stoffe, die bei Erwärmung im Brandfall schmelzen und sich ausbreiten können, z.
+B. Kunststoffe, Bitumen, Harze, Paraffin
+• oberirdisch lagernde flüssige brennbare Stoffe in z. B. Behältern, Fässern, Wannen, wie z.
+B. Kraftstoffe, Schmierstoffe, Lösungsmittel, Lacke
+Hinweis: Eine Brandlast besteht nicht, wenn z. B. benachbarte Behälter mit brennbaren
+Flüssigkeiten im geschlossenen System betrieben werden und in den Dampfräumen die
+Bildung explosionsfähiger Atmosphäre sicher verhindert wird.
+• Gebäude in Holzbauweise zu Wohnzwecken oder zur gewerblichen Nutzung.
+
+Um aber die Einheitlichkeit bei der Bewertung von Brandlasten zu verbessern, die im Rahmen
+der erstmaligen und auch wiederkehrenden Prüfungen immer wieder beurteilt werden, findet
+man in den nachfolgenden Seiten eine umfangreiche Beispielsammlung von Brandlasten.
+
+Dazu hat man die brennbaren Gegenstände zunächst in drei Gruppen eingeteilt:
+Gruppe 1: unerhebliche Brandlast - keine Schutzmaßnahmen erforderlich
+Gruppe 2: geringe Brandlast - Schutzmaßnahmen erforderlich (Abstand pauschal ≥ 5 m)
+Gruppe 3: Brandlast - Schutzmaßnahmen erforderlich (Abstand wird über die Brandlastbreite
+bestimmt, siehe Tabelle oder Diagramm in Abschnitt 5.3.5.1 Schutzabstand)
+
+Gruppe 1: Unerhebliche Brandlast (abhängig von Nutzungs- und Bauweise)
+Bei unerheblichen Brandlasten entsprechend der Tabelle sind keine Schutzmaßnahmen
+erforderlich.
+
+
+
+
+page 16 de 34 pages                                                          ITM-SST 1703.3
+Tabelle 1 - Unerhebliche Brandlasten
+
+ Brennbare Materialien         z.B.:
+                               • Kabelumhüllungen
+                               • Strohmatten
+                               • Holz, wie:
+                               – Holzzäune
+                               – Holzflechtzäune
+                               – vergleichbare geringe Mengen, stabil neben dem Behälter
+                                 gelagert
+ Brennbare Objekte             z.B.:
+                               • Hundehütten oder andere Tierställe in ähnlicher Größe
+ Gebäude                       z.B.:
+                               • Gewächshäuser mit einer Verkleidung aus Glas, Folie oder
+                                 Kunststoff
+                               • Zelte zum Aufenthalt von Personen, ohne Lagerung
+                                 brennbarer Materialien
+
+Gruppe 2 - geringe Brandlast
+Bei einer geringen Brandlast entsprechend der Tabelle 2 ist der Flüssiggasbehälter bei einem
+Mindestabstand von 5 m ausreichend vor unzulässiger Erwärmung durch Flammenberührung
+oder Strahlung geschützt. Der Mindestabstand zwischen Gastank und Brandlast ist ab der
+senkrechten Projektion zueinander zu bestimmen.
+
+Der Abstand des Flüssiggas-Behälters zu einer geringen Brandlast kann verringert werden,
+wenn eine Schutzwand (Abschnitt 5.3.5.2) errichtet ist.
+
+Tabelle 2 - Geringe Brandlasten
+
+ Brennbare Materialien   z.B.
+                         Lagerflächen mit brennbaren Materialien mit einer Brandlastbreite
+                         ≤ 4 m, wie
+                         • Holz, Papier, Stroh
+                         • Reifen
+                         • brennbare Flüssigkeiten
+ Brennbare Objekte       z.B.:
+                         • Carport in Holzständerbauweise mit verschalten Holzwänden
+                         • Dauerabstellplätze für Wohnwagen und Mobilheime
+ Gebäude                 z.B.:
+                         in Holzbauweise, z. B.:
+                         • zu Wohnzwecken bis zu 1,5-facher Geschosshöhe (< 4,5 m) wie:
+                         – Wohnhäuser
+                         – Wochenendhäuser
+                         – Jagdhütten u. Ä.
+                         • Schuppen
+                         • Gartenhäuser
+                         • Garagen
+                         • Tierställe
+                         • Scheunen, die nicht zur Lagerung von brennbaren Stoffen, wie
+                         Heu, Stroh, und Ähnliches, sondern z. B. als Abstellplatz für
+                         landwirtschaftlich genutzte Fahrzeuge und Geräte genutzt werden
+                         in anderer Bauweise, z. B.:
+                         • Fachwerkhäuser mit einer Lehm- / Strohmischung als
+                         Ausfachung
+
+
+
+
+page 17 de 34 pages                                                          ITM-SST 1703.3
+Gruppe 3: Brandlast
+Bei einer Brandlast entsprechend der Tabelle 3 muss in Abhängigkeit der Breite der Brandlast
+der notwendige Abstand des Behälters zur Brandlast unter Verwendung der Tabelle oder des
+Diagramms unter Abschnitt 5.3.5.1 bestimmt werden.
+Der Abstand des Flüssiggas-Behälters zu einer Brandlast kann verringert werden, wenn eine
+Schutzwand (Abschnitt 5.3.5.2) errichtet ist.
+Mindestabstände von Brandlasten Schutzwänden sind der Tabelle 3 zu entnehmen.
+Bei den unter Gruppe 3 eingeordneten Beispielen kann eine zeichnerische Ermittlung der
+Brandlastbreite (Hilfsbreite) zur Bestimmung des Abstandes des Behälters zur Brandlast
+erforderlich sein.
+
+Tabelle 3 - Brandlasten
+
+ Brennbare Materialien     z.B.
+                           Lagerflächen mit brennbaren Materialien in großen Mengen mit
+                           einer Brandlastbreite > 4 m, wie
+                           • Holz, Papier, Stroh
+                           • Reifen
+                           • brennbare Flüssigkeiten
+ Gebäude                   z.B.:
+                           mit Außenwänden, die nicht die Anforderungen an die
+                           Feuerwiderstandsklasse F90 erfüllen und in denen brennbare
+                           Stoffe gelagert oder verarbeitet werden,
+                           z.B.:
+                           in Holzbauweise, z. B.:
+                           • in denen brennbare Stoffe gelagert oder verarbeitet werden, wie
+                           – Tischlerei, Sägerei, Zimmerei
+                           – kunststoffverarbeitende Betriebe
+                           – Kfz-Werkstätten
+                           – Verbrauchermärkte
+                           – Lagerhallen
+                           z.B.:
+                           • Wohnhaus mit mehr als 1,5-facher Geschosshöhe (> 4,5 m)
+ Dächer                    z.B.:
+                           Reet-Dächer oder Dächer mit einer ähnlichen Eindeckung
+
+5.3.5.1 Schutzabstand
+Der Schutzabstand wird bei oberirdischer Aufstellung ab der senkrechten Projektion des
+Flüssiggasbehälters gemessen.
+
+Der Schutzabstand bei Einwirkung von Wärmestrahlung auf den Flüssiggasbehälter ist von
+der Brandlast, d. h. von dem gelagerten Stoff und der Breite bzw. dem Durchmesser der bei
+einem möglichen Brand entstehenden Flamme, abhängig.
+
+Grundsätzlich ist ein Mindestabstand von 5 m zu geringen Brandlasten immer einzuhalten, zu
+Brandlasten können größere Abstände gemäß folgender Tabelle bzw. Diagramm erforderlich
+sein.
+
+
+
+
+          Tabelle: Abstände zu Brandlasten in Abhängigkeit von der Brandlastbreite
+
+
+
+
+page 18 de 34 pages                                                           ITM-SST 1703.3
+Bei Brandlasten mit einer Breite von mehr als 4 m ist die Tabelle „Abstände zu Brandlasten“
+oder das Diagramm „Schutzabstände zu Brandlasten in Abhängigkeit der Brandlastbreite“
+anzuwenden.
+
+
+
+
+      Diagramm: Schutzabstände zu Brandlasten in Abhängigkeit der Brandlastbreite
+
+Der Schutzabstand bei Einwirkung von Wärmestrahlung auf den Flüssiggasbehälter,
+hervorgerufen durch einen Dachstuhlbrand, ist mit mindestens 3 m oberhalb des
+Behälterscheitels ausreichend.
+
+5.3.5.2 Schutzwand
+Eine Schutzwand in Richtung Brandlast erfüllt die Forderung, wenn sie hinsichtlich der zu
+schützenden Flüssiggasbehälter ausreichend bemessen ist und aus nichtbrennbaren
+Baustoffen besteht (Klasse A1 nach DIN 4102).
+
+Zur Klasse A1 gehören z. B. gemauerte Wand, Stahlblech, Betonplatten und Ähnliches.
+Die Schutzwand ist ausreichend bemessen, wenn der Flüssiggasbehälter von der Schutzwand
+abgedeckt ist, so dass der Flüssiggasbehälter von der möglichen Brandlast aus gesehen im
+Schatten der Schutzwand steht.
+
+5.3.6 Schutz vor mechanischer Beschädigung
+Die Forderung, Flüssiggasbehälter und ihre Ausrüstungsteile vor mechanischer Beschädigung
+zu schützen, ist erfüllt,
+- wenn durch die Umgebung und die Art der Aufstellung eine Gefährdung sicher verhindert
+    ist,
+- wenn die Möglichkeit des Anfahrens durch Fahrzeuge, z. B. durch einen Anfahrschutz oder
+    eine Abschrankung, verhindert ist
+Liegen Flüssiggasbehälter im Bereich von Verkehrsflächen, sind Maßnahmen zu treffen, um
+die Flüssiggasbehälter gegen auftretende Verkehrslasten zu schützen.
+
+Schutz vor herabfallenden Gegenständen
+Bei oberirdisch aufgestellten Flüssiggasbehältern mit einer Armaturenhaube aus Kunststoff
+kann eine mechanische Beschädigung nicht ausgeschlossen werden, wenn sich in
+unmittelbarer Nähe Bäume oder bauliche Einrichtungen befinden, deren Zustand erwarten
+lässt, dass z.B. Äste durch Windbruch bzw. Eis- oder Schneebelastung, lose Bauteile oder
+Dachschnee herabfallen könnte.
+In diesem Fall ist z.B. ein zusätzlicher Schutz durch eine stabile Armaturenhaube aus Metall,
+eine stabile Metallkonstruktion oder ähnliche bauliche Einrichtungen vorzusehen, die
+entsprechend der zu erwartenden Last ausgelegt sind. Die vom Behälter abgehende
+Rohrleitung und eine ggf. vorhandene Fernfüllleitung ist in die Betrachtung mit einzubeziehen.
+Bei innenliegenden Sicherheitsventilen, die außerhalb der Armaturenhaube angeordnet und
+unmittelbar in den Flüssiggasbehälter eingeschraubt sind, besteht aufgrund ihrer Bauart keine
+mechanische Gefährdung.
+Behälter dürfen nicht im Arbeitsbereich von Kränen aufgestellt werden.
+
+
+page 19 de 34 pages                                                           ITM-SST 1703.3
+Schutz vor Anfahren
+Von einer Gefährdung durch Anfahren ist auszugehen, wenn mit Fahrzeugverkehr in der Nähe
+des Behälterstandortes zu rechnen ist. Hierbei ist das zu erwartende Verkehrsaufkommen in
+er Nähe des Lagerbehälters, die Art, die Masse, die Geschwindigkeit und die Fahrtrichtung
+der dort verkehrenden Fahrzeuge zu berücksichtigen.
+Eine Gefährdung durch Anfahren ist auszuschließen, wenn folgende Kriterien erfüllt sind:
+
+-  auf Grundstücken ohne darauf stattfindenden Fahr-/Rangierverkehr
+-  auf Grundstücken ohne öffentlichen Verkehr, auf denen nur Fahrzeuge mit maximal
+   Schrittgeschwindigkeit fahren, wenn der Behälter mindestens 3 m neben Fahrbereichen
+   aufgestellt ist
+- auf Grundstücken ohne öffentlichen Verkehr, auf denen nur Fahrzeuge mit maximal
+   Schrittgeschwindigkeit fahren, wenn der Behälter weniger als 3 m neben Fahrbereichen
+   aufgestellt und zusätzlich geschützt ist durch stabile Hindernisse, wie z.B. schwere
+   Betontröge, Findlinge, Aufkantungen, etc.
+Auf Grundstücken, die nicht die vorgenannten Bedingungen erfüllen, sind die nachfolgenden
+Punkte entsprechend anzuwenden:
+- an Anliegerstraßen, die nur mit geringer Geschwindigkeit befahren werden, wenn der
+   Behälter mindestens 3 m neben Fahrbereichen aufgestellt ist
+- an öffentlichen Straßen, Fahrwegen und Plätzen, wen der Behälter mindestens 5 m
+   neben den Fahrbereichen aufgestellt ist
+- an öffentlichen Straßen, Fahrwegen und Plätzen, wen der Behälter weniger als 5 m (bzw.
+   Anliegerstraßen weniger als 3 m) neben den Fahrbereichen aufgestellt und zusätzlich
+   geschützt ist durch einen Anfahrschutz, wie z.B. Schutzplanken, Mauern, Erdwälle,
+   Findlinge, etc.
+- Ein Anfahrschutz kann auch durch die Aufstellung hinter Bäumen gewährleistet sein.
+- Bau Baustellen sind ggf. zusätzlich abweichende Maßnahmen erforderlich.
+Durch den Anfahrschutz darf die Zugänglichkeit zum Behälter nicht beeinträchtigt werden
+
+5.3.7 Schutz vor Zugriff Unbefugter
+Die Forderung, Flüssiggasbehälter vor dem Zugriff durch Unbefugte zu schützen, ist durch
+abschließbare Armaturenhauben, bei Fernfüllleitungen durch einen verschlossenen
+Füllanschluss erfüllt. Hier soll ein spezielles Tankschloss für Flüssiggasanlagen mit
+Dreikantschlüssel zum Einsatz kommen. Als Unbefugte sind betriebsfremde Personen an-
+zusehen.
+
+Bei Aufstellung von Flüssiggasbehältern in öffentlich zugänglichen Anlagen können zusätzli-
+che Maßnahmen erforderlich sein.
+
+Zusätzliche Maßnahmen sind die Einzäunung des Behälters (Höhe des Zauns mindestens
+1,50 m mit verschließbarer Tür/Pforte, die nach außen aufschlägt und mit einem Mindestab-
+stand Zaun - Behälterwandung: 0,5 m
+Zusätzliche Maßnahmen sind z.B. in folgenden Fällen erforderlich:
+- Grundstück mit Mehrfamilienhaus, Behälter in der Zuwegung
+- Behälter in der Nähe eines Kinderspielplatzes
+- Betriebsstätte mit Publikumsverkehr im Behälterbereich, wie z.B.:
+    - Gaststätte, Kiosk
+    - Sportstätte
+    - Campingplätze
+    - öffentliche Gebäude (Schulen, Verwaltungsgebäude, …)
+    - Einkaufsmärkte
+    - gewerbliche Grundstücke mit Zutritt betriebsfremder Personen
+
+Für im gewerblichen Bereich eingelagerte Behälter innerhalb eines eingezäunten Werksge-
+ländes genügen Warnschilder und Kennzeichnungen der explosionsgefährdeten Bereiche und
+die Gefahrenunterweisung des Betriebspersonals.
+
+
+
+page 20 de 34 pages                                                         ITM-SST 1703.3
+Artikel 6 - Ausrüstung eines Flüssiggasbehälters
+
+Die Ausrüstung eines Flüssiggasbehälters besteht aus folgenden technischen Einrichtungen:
+- Sicherheitsventil mit Schließventil
+- Gasentnahmearmatur, bestehend aus:
+   - Gasentnahmeventil
+   - Peilventil
+   - Überfüllsicherung
+   - Druckmesseinrichtung (Sicherheits-Manometer)
+   - Prüfanschluss für Manometer
+- Füllventil
+- Flüssigentnahmeventil (zur Behälterentleerung)
+- Inhaltsanzeiger
+
+
+
+
+                            Ausrüstung des Flüssiggasbehälters
+
+Für die Anschlüsse der Armaturen im Behälter werden ausschließlich dauerhaft technisch
+dichte Verbindungen verwendet. Das ist beim Füllventil, Flüssigentnahmeventil, Gasentnah-
+meventil und Sicherheitsventil das NPT-Gewinde (NPT = National Pipe Thread: amerikani-
+sches kegliges Rohrgewinde, selbstdichtend mit Dichtmittel).
+
+Das Gasentnahmeventil, das Peilventil, die Überfüllsicherung, die Druckmesseinrichtung und
+der Prüfanschluss für Manometer sind meist in einer Baueinheit zusammengefasst.
+
+Alle Ausrüstungsteile müssen für den vorgesehenen Verwendungszweck geeignet und so be-
+schaffen sein, dass sie ihrer Aufgabe sicher genügen. Sie müssen für einen maximal zulässi-
+gen Druck PS von 25 bar ausgelegt sein.
+
+Die Anforderungen an die Ausrüstungsteile sind insbesondere erfüllt, wenn sie der EN 13175
+bzw. EN 14129 bzw. EN 13799 entsprechen. Sofern erforderlich, müssen die eingesetzten
+Bauteile hinsichtlich der Auslegung, Fertigung und Konformitätsbewertung der zur Zeit der
+Herstellung gültigen Druckgeräte-Richtlinie entsprechen und mit CE-Kennzeichnung versehen
+sein.
+
+Sicherheitseinrichtung gegen Drucküberschreitung
+Flüssiggasbehälter müssen mit einem Sicherheitsventil ausgerüstet sein, das hinsichtlich der
+Auslegung, Fertigung und Konformitätsbewertung der zur Zeit der Herstellung gültigen
+Druckgeräte-Richtlinie und der EN 14129 entspricht.
+
+
+page 21 de 34 pages                                                          ITM-SST 1703.3
+Das Ansprechen des Sicherheitsventils kann durch die Einhaltung folgender Maßnahmen
+verhindert werden:
+Alle Maßnahmen, die einen unzulässigen Wärmeeintrag von außen verhindern:
+- der Schutz vor Brandlasten bei oberirdischen Behältern nach Abschnitt 5.3.5
+- und alle Maßnahmen, die eine Überfüllung des Behälters durch Verwendung einer am
+    Behälter installierten bauteilgeprüften Überfüllsicherung verhindern
+- und alle Maßnahmen gegen mechanische Beschädigung des Sicherheitsventils.
+Austrittsöffnungen der Sicherheitsventile müssen gegen Eindringen von Wasser geschützt
+sein (z. B. durch Schutzkappen).
+
+Schließventil: Dieses Bauteil dient zur Aufnahme des Sicherheitsventils und muss für das
+installierte Sicherheitsventil zugelassen sein. Es wird am Stutzen, der für das Sicherheitsventil
+bestimmt ist, installiert. Mit Hilfe dieses Bauteiles ist ein Austausch des Sicherheitsventils
+während des Betriebs möglich.
+
+Sicherheitseinrichtung gegen Überfüllen
+Flüssiggasbehälter müssen mit einer handbedienbaren Höchststandpeileinrichtung (Peilventil)
+und einer selbsttätig wirkenden bauteilgeprüften Überfüllsicherung ausgerüstet sein.
+Der zulässige Füllgrad für Flüssiggasbehälter beträgt maximal 85 %.
+Der Öffnungsdurchmesser des Peilventils darf maximal 1,5 mm betragen, so dass betriebsbe-
+dingt nur geringe Mengen Flüssiggas austreten können.
+
+Druckmesseinrichtung
+Jeder Flüssiggasbehälter muss mit einem Sicherheits-Manometer nach EN 837-1 (Messbe-
+reich 0 bis 25 bar) ausgerüstet sein, das den jeweils herrschenden Betriebsüberdruck anzeigt.
+An dem Manometer muss der maximal zulässige Druck augenfällig gekennzeichnet sein, z. B.
+durch eine rote Strichmarke auf der Skala (Ansprechdruck des Sicherheitsventils, in der Regel
+15,6 bar). Eine Nachprüfung des Manometers muss während des Betriebs möglich sein. Hier-
+für kann der Prüfanschluss oder ein anderer Behälteranschluss benutzt werden. Der
+Prüfanschluss muss neben der eigentlichen Absperrarmatur zusätzlich mit einer metallischen
+Schutzkappe dicht verschlossen sein.
+
+Flüssigentnahmeventil
+Sofern am Flüssigentnahmeventil keine Entnahmerohrleitung angeschlossen ist, muss das
+Handrad fest verschlossen und der Anschluss mit einem Stopfen aus metallischen Werkstof-
+fen dicht verschlossen sein. Sollte bei der Prüfung festgestellt werden, dass das Handrad ganz
+oder teilweise geöffnet ist, ist es fest zu verschließen und anschließend der Zwischenraum
+zwischen Ventilteller und dem Blindstopfen durch kurzzeitiges Lösen des Blindstopfens zu
+entspannen. Das Handrad ist nach diesem Druckentspannungsvorgang zu demontieren und
+mit Kabelbindern am Flüssigentnahmeventil zu befestigen. Diese Tätigkeiten sind von einer
+sachkundigen Person durchzuführen.
+
+Inhaltsanzeiger
+Jeder Flüssiggasbehälter muss mit einem geeigneten Inhaltsanzeiger ausgerüstet sein (siehe
+z.B. EN 13799).
+
+Absperreinrichtungen/Rohrleitungsanschlüsse
+Rohrleitungen müssen über eine leicht zugängliche Absperrarmatur am Behälter angeschlos-
+sen sein. Absperreinrichtungen müssen hinsichtlich Werkstoff und Ausführung für den zuläs-
+sigen maximalen Druck und die auftretenden minimalen und maximalen Betriebstemperaturen
+geeignet sein. Die Gehäuse der Absperreinrichtungen müssen aus genügend zähen Werk-
+stoffen bestehen.
+
+Der Füllanschluss am Flüssiggasbehälter muss als einteiliges Doppelrückschlagventil ausge-
+führt sein. Diese Ventile müssen mit einer dicht schließenden metallischen Schutzkappe blind-
+geschlossen werden. In Füllleitungen muss am Füllanschluss zusätzlich eine Rückschlagar-
+matur, ausgelegt für PS 25, eingebaut sein, z. B. ein Füllventil mit integrierter Rückschlag-
+klappe.
+
+
+page 22 de 34 pages                                                              ITM-SST 1703.3
+Für den Anschluss einer Füllleitung wird der Flüssiggasbehälter mit seinen Armaturen nicht
+verändert. Die Füllleitung wird an das Behälterfüllventil mit Doppelrückschlagklappe über ein
+ACME-Gewinde angeschlossen. Damit kann sich der Inhalt der Füllleitung nach dem Befüll-
+vorgang in den Flüssiggasbehälter entspannen.
+
+Stutzen/Anschlüsse an einem Flüssiggasbehälter ohne angeschlossene Rohrleitung müssen
+- dicht ausgeführt sein,
+- auch bei eingebauter Absperreinrichtung sicher verwahrt werden (z. B. Blindflansch, Stop-
+   fen) oder
+- als nicht lösbare Verbindungen ausgeführt sein, z. B. gelötet oder geschweißt.
+
+
+
+
+   Anordnung der Flüssiggasbehälter - Armaturen bei oberirdischen Flüssiggasbehältern
+
+
+Artikel 7 - Fernfüllleitung
+
+7.1. Die Rohrleitungen sind für einen maximal zulässigen Druck von PS = 25 bar auszulegen.
+Übersteigt die Nennweite einer Füllleitung DN 25 so gelten die Bestimmungen der Rechtsvor-
+schriften über das Inverkehrbringen von Druckgeräten.
+Absperrbare Leitungsabschnitte müssen mit Sicherheits- oder Überströmventilen ausgerüstet
+sein.
+Füllleitungen müssen gegen mögliche mechanische Beschädigung ausreichend geschützt
+sein.
+Füllleitungen dürfen nur frei oder erdgedeckt verlegt werden, d. h. nicht unter Putz oder nicht
+in Schächten, Kanälen.
+Bei der Durchführung von Füllleitungen durch Gebäudeaußenwände müssen diese mit zuge-
+lassenen gas- und wasserdichten Wanddurchführungen ausgeführt werden.
+Füllleitungen dürfen nicht durch Räume gelegt werden, die dem dauernden Aufenthalt von
+Personen dienen, sowie nicht durch Flucht- und Rettungswege.
+Die Position des Füllanschlusses muss so gewählt werden, dass der explosionsgefährdete
+Bereich nach Abschnitt 5.3.3 und die Abstände zu Kanälen, Schächten, Öffnungen nach Ab-
+schnitt 5.4.4 eingehalten werden.
+In Füllleitungen muss am Füllanschluss zusätzlich eine Rückschlagarmatur, ausgelegt für PS
+25, eingebaut sein, z. B. ein Füllventil mit integrierter Rückschlagklappe.
+Für den Anschluss einer Füllleitung wird der Flüssiggasbehälter mit seinen Armaturen nicht
+verändert. Die Füllleitung wird an das Behälterfüllventil mit Doppelrückschlagklappe über ein
+ACME-Gewinde angeschlossen.
+Damit kann sich der Inhalt der Füllleitung nach dem Befüllvorgang in den Flüssiggasbehälter
+entspannen.
+
+
+page 23 de 34 pages                                                            ITM-SST 1703.3
+7.2 Füllleitungen in Gebäuden sind gemäß DIN 2403 zu kennzeichnen.
+
+7.3 Die Füllkupplung bei einer Fernfüllleitung hat in einem Bereich von 1 m oberhalb und von
+dort nach unten bis zum Boden abfallend in einem Radius von 3 m einen Sicherheitsbereich
+(Zone 2).
+Während des Befüllvorgangs ist das Betreten durch Unbefugte und Durchfahren der Zone 2
+durch geeignete Maßnahmen zu unterbinden, z.B. durch fachkundiges Aufsichtspersonal
+(TKW-Fahrer), Absperrungen oder Warnzeichen.
+
+7.4 Im Bereich der Füllkupplung bei einer Fernfüllleitung (1 m oberhalb und von dort nach
+unten bis zum Boden abfallend in einem Radius von 3 m bzw. 5 m) dürfen keine:
+- offenen Kanäle,
+- gegen Gaseintritt ungeschützten Kanaleinläufe,
+- offenen Schächte,
+- Öffnungen zu tieferliegenden Räumen (Kellerschächte) und
+- Luftansaugöffnungen
+vorhanden sein.
+Sind in einem Radius von 3 m bis 5 m um die Füllkupplung:
+- offene Kanäle,
+- gegen Gaseintritt ungeschützte Kanaleinläufe,
+- offene Schächte,
+- Öffnungen zu tieferliegenden Räumen (Kellerschächte) und
+- Luftansaugöffnungen
+vorhanden, so sind während des Befüllvorgangs zusätzliche Schutzmaßnahmen vorzusehen,
+z. B. Abdeckung von Kanaleinläufen mittels Gummimatten.
+Sollte sich der Füllanschluss oberhalb eines Geländes mit Gefälle befinden so sind die
+entsprechenden Maßnahmen (siehe 5.3.4.4 Gelände mit Gefälle) zu berücksichtigen.
+
+7.5 Wenn der Flüssiggasbehälter vom Betankungsfahrzeug aus nicht sichtbar ist, muss die
+Füllkupplung mit einem Stecker für den Anschluss an die Überfüllsicherung ausgestattet sein.
+
+
+Artikel 8 – Rohrleitungen samt deren Ausrüstung bis zur Hauptabsperreinrichtung
+
+8.1 Rohrleitungen samt deren Ausrüstung bis zur Hauptabsperreinrichtung unterliegen der
+großherzoglichen Verordnung über Gasanlagen (Règlement grand-ducal concernant les
+installations à gaz) in der aktuellsten Fassung.
+
+Hauptabsperreinrichtung
+Die Hauptabsperreinrichtung dient zur Trennung der Verbrauchsanlage von der
+Versorgungsanlage.
+In jede Hausanschlussleitung ist unmittelbar vor oder nach Eintritt der Rohrleitung in das
+Gebäude bzw. den Gebäudeteil eine Hauptabsperreinrichtung an leicht zugänglicher Stelle
+einzubauen. Die Verbindung zwischen Hauptabsperreinrichtung und Verbrauchsanlage muss
+lösbar sein.
+Die Lage der Hauptabsperreinrichtung bzw. Gebäude-Absperreinrichtung ist innerhalb des
+Gebäudes zu kennzeichnen, wenn dies aufgrund der Größe oder Nutzung des Gebäudes für
+das Auffinden dieser Absperreinrichtung erforderlich ist (z. B. größere Wohngebäude).
+
+Hauseinführungen
+Hauseinführungen müssen auszugssicher sowie thermisch erhöht belastbar sein.
+Hauseinführungen in Verbindung mit DVGW-Arbeitsblatt G 459-1 erfüllen diese
+Anforderungen. Hauseinführungen müssen gasdicht in der Außenwand eingebaut werden.
+Bei Hauseinführungen oberhalb des Erdreiches (z.B. bei Verwendung eines
+Hausanschlusskastens) können die Rohrleitungen mit einem Schutzrohr durch die
+Außenwand des Gebäudes geführt werden.
+
+
+
+page 24 de 34 pages                                                          ITM-SST 1703.3
+Die Einbauvorschriften der Hersteller sind einzuhalten. Von elektrischen Anschlusskabeln
+innerhalb von Gebäuden ist ein Abstand von mindestens 30 cm einzuhalten (gilt
+nicht für Kabel von KKS- Anlagen).
+Handwerklich hergestellte Hauseinführungen sind im Erdreich nicht zulässig.
+Generell müssen Hauseinführungen dicht gegenüber Gas und Wasser sein.
+
+Isolierstück
+Isolierstücke müssen DIN 3389 oder vergleichbar entsprechen, für Gas bestimmt und
+dementsprechend gekennzeichnet sein („G“ oder „GT“). Isolierstücke von Innenleitungen
+müssen thermisch erhöht belastbar und entsprechend gekennzeichnet sein („GT“).
+Isolierstücke, die in einem explosionsgefährdeten Bereich installiert sind, müssen mit einer
+EX-Trennfunkenstrecke ausgerüstet sein.
+Bei erdgedeckt verlegten metallenen Rohrleitungen ist in Gebäuden in unmittelbarer Nähe der
+Hauptabsperreinrichtung ein Isolierstück nach DIN 3389 oder vergleichbar einzubauen.
+Eine Überbrückung darf nicht erfolgen. Erdverlegte Verbindungsleitungen zwischen mehreren
+Gebäuden müssen sowohl vor dem Austritt aus einem Gebäude als auch nach der Einführung
+in ein Gebäude mit Isolierstücken ausgerüstet werden.
+
+
+Artikel 9 - Elektroinstallationen, Erdung und Potenzialausgleich
+
+9.1 Alle elektrischen Betriebsmittel, die in den in Abschnitt 5 definierten Bereichen verwendet
+werden, müssen für diesen explosionsgefährdeten Bereich zugelassen sein.
+
+9.2 Zur Vermeidung gefährlicher Aufladungen in explosionsgefährdeten Bereichen sind Per-
+sonen sowie Gegenstände oder Einrichtungen aus leitfähigem oder ableitfähigem Material zu
+erden bzw. mit Erdkontakt zu versehen. Entsprechendes gilt auch für leitfähige oder ableitfä-
+hige Medien.
+
+Hinweis 1: Leitfähige Medien und Gegenstände können auf Grund ihres niedrigen Widerstan-
+des geerdet werden.
+Hinweis 2: Ableitfähige Medien und Gegenstände besitzen einen Ableitwiderstand RE > 106
+Ω und liegen somit oberhalb des Definitionsbereiches „geerdet“. Deshalb spricht man hier von
+„mit Erde verbinden“.
+Hinweis 3: Elektrostatische Aufladungen leitfähiger isolierter Gegenstände bilden eine wesent-
+liche Gefahrenquelle, da die gespeicherte Energie in einer Entladung zur Erde oder auf einen
+anderen leitfähigen geerdeten Gegenstand übergehen kann.
+Hinweis 4: Maßnahmen zur Erdung und zum Potenzialausgleich aus der Blitzschutz-Technik
+können zur elektrostatischen Erdung genutzt werden.
+
+Bestehen Einrichtungen aus mehreren leitfähigen Komponenten, sind diese einzeln zu erden
+oder untereinander elektrisch leitend zu verbinden und insgesamt zu erden.
+
+
+Artikel 10 - Blitzschutz
+
+Bei oberirdischer Lagerung von Flüssiggas im Freien ist kein Blitzschutz erforderlich, da
+aufgrund der Behälterwandstärke die Behälterwand als blitzstromtragfähig gilt.
+
+
+
+
+page 25 de 34 pages                                                            ITM-SST 1703.3
+Artikel 11 - Inbetriebnahmeprüfung
+
+11.1 Flüssiggasanlagen (Flüssiggasbehälter einschließlich der Leitung(en) bis zur Hauptab-
+sperreinrichtung) sind:
+- vor der ersten Inbetriebnahme
+- nach wesentlichen Veränderungen (z.B. Verlegung einer neuen Gasleitung)
+- nach Instandsetzungsarbeiten, welche die Betriebssicherheit beeinflussen (Austausch der
+    am Behälter installierten Armaturen oder des Mitteldruckreglers (psd 700mbar))
+- vor einer erneuten Inbetriebnahme nach einer Betriebsunterbrechung von mehr als einem
+    Jahr
+von einer zugelassenen Prüfstelle auf einwandfreien Zustand prüfen zu lassen, insbesondere
+auf Einhaltung folgender Punkte:
+- die Übereinstimmung der Anlage mit den Anforderungen aus der Betriebsgenehmigung
+     und der eingereichten Genehmigungsunterlagen (Detailplan im Maßstab über den
+     Installationsort des Gasbehälters und der angeschlossenen Rohrleitung(en));
+- das Vorhandensein folgender Dokumente:
+    - Prüfbescheinigung (Haupt- und Vorprüfung) der Gasleitung (zugelassener Installateur)
+- das Vorhandensein der Konformitätserklärung und der CE-Kennzeichnungen der
+  gesamten Baugruppe samt Betriebsanleitung oder
+- das Vorhandensein der Konformitätserklärung und der CE-Kennzeichnungen jeder
+  einzelnen Bauteile, wie z.B. Flüssiggasbehälter, Druckregler, Sicherheitsventil samt deren
+  Betriebsanleitungen;
+- der Eignungsnachweis von Bauteilen, die nicht mit einer CE-Kennzeichnung versehen sind,
+  wie z.B. Füllstandanzeiger, Flüssigentnahmeventil, ...
+- den allgemeinen Zustand der Anlage;
+- die ordnungsgemäße Ausrüstung der Anlage;
+- die ordnungsgemäße. Konformität / Tarierung der Sicherheitseinrichtungen;
+- das Vorhandensein der Sicherheitsprozeduren auf dem Domschachtdeckel;
+- das Vorhandensein der Betriebsanweisung/EX-Schutzdokument im Innenbereich des
+  Domschachtdeckels;
+- das Vorhandensein eines Sicherheitsregisters
+Alle o.g. Dokumente, die für die Inbetriebnahmeprüfung vorliegen müssen, sind im Sicher-
+heitsregister aufzubewahren. (siehe Artikel 19).
+
+Die Erstbefüllung einer Flüssiggasanlage ist erst zulässig, wenn die Flüssiggasanlage kom-
+plett fertiggestellt ist, alle erforderlichen Bescheinigungen der Prüfung vor Inbetriebnahme
+vorliegen und die Anlage von einer zugelassenen Prüfstelle abgenommen wurde.
+
+11.2 Flüssiggasanlagen, die den Anforderungen dieser Sicherheitsvorschrift nicht genügen,
+dürfen nicht in Betrieb genommen werden.
+
+11.3 Alle Rohrleitungen, die zur Aufnahme von Flüssiggas bestimmt sind, müssen einer Fes-
+tigkeits- und Dichtheitsprüfung gemäß der großherzoglichen Verordnung über Gasanlagen in
+der aktuellsten Fassung unterzogen werden. Diese Prüfung ist von in Luxemburg anerkannten
+Fachbetrieben des Installateur- und Heizungsbauerhandwerks durchzuführen, mit Ausnahme
+einer Fernfüllleitung, dort ist die Festigkeits- und Dichtheitsprüfung unter Aufsicht einer
+zugelassenen Prüfstelle durchzuführen.
+
+Der Fachbetrieb übermittelt der zugelassenen Prüfstelle, die die Inbetriebnahmeprüfung der
+Anlage durchführt, eine Bescheinigung über diese Prüfungen der mechanischen Festigkeit
+und Dichtheit.
+
+11.4 Elektrische Inbetriebnahmeprüfung
+Sofern in einem explosionsgefährdeten Bereich ein explosionsgeschütztes Gerät betrieben
+wird, handelt es sich um den Betrieb einer überwachungsbedürftigen ATEX-Anlage. In diesem
+Fall ist zusätzlich zu den hier aufgeführten Prüfungen der Explosionsschutz dieser Anlage vor
+Inbetriebnahme durch eine zugelassene Prüfstelle zu prüfen.
+
+
+
+page 26 de 34 pages                                                          ITM-SST 1703.3
+Artikel 12 - Wiederkehrende Prüfung
+
+12.1 Jeder Flüssiggasbehälter muss alle 2,5 Jahre von einer zugelassenen Prüfstelle
+wiederkehrend, bestehend aus einer Ordnungs-, Sicht- und Dichtheitsprüfung der
+zugänglichen Anlagenteile unterzogen werden. Evtl. vorhandene Fernfüllleitungen müssen
+mitgeprüft werden, bestehend aus einer äußeren Prüfung und einer Dichtheitsprüfung unter
+Betriebsbedingungen.
+
+12.2 Elektrische Prüfung: Sofern in einem explosionsgefährdeten Bereich ein explosionsge-
+schütztes Gerät betrieben wird, handelt es sich um den Betrieb einer überwachungsbedürfti-
+gen ATEX-Anlage. In diesem Fall ist zusätzlich zu den hier aufgeführten Prüfungen der Explo-
+sionsschutz dieser Anlage wiederkehrend alle 3 Jahre durch eine zugelassene Prüfstelle zu
+prüfen.
+
+12.3 Jeder oberirdisch aufgestellte Flüssiggasbehälter muss alle 10 Jahre von einer
+zugelassenen Prüfstelle einer inneren Prüfung unterzogen werden. Diese Prüfung kann durch
+zerstörungsfreie Prüfungen, wie z.B. Wanddickenprüfung mittels Ultraschall ersetzt bzw.
+ergänzt werden (siehe hierzu EN 12817 in der aktuellsten Fassung)
+
+12.4 Jeder oberirdisch aufgestellte Flüssiggasbehälter muss alle 30 Jahre von einer
+zugelassenen Prüfstelle einer Festigkeitsprüfung unterzogen werden. Diese Prüfung kann
+durch zerstörungsfreie Prüfungen, wie z.B. Schallemissionsprüfung ersetzt bzw. ergänzt
+werden (siehe hierzu EN 12817 in der aktuellsten Fassung)
+
+12.5 Flüssiggasrohrleitungen zwischen Flüssiggastank und Hauptabsperreinrichtungen
+müssen alle 10 Jahre einer wiederkehrenden Prüfung von einem Fachbetrieb unterzogen
+werden. Wir empfehlen die Inneninstallation bis zum Gasverbraucher mit in die Prüfung
+einzubeziehen. Das Prüfergebnis der wiederkehrenden Prüfungen ist dem Eigentümer bzw.
+Betreiber der Anlage durch den Fachbetrieb bzw. die zugelassene Prüfstelle zu bescheinigen.
+
+Bei der wiederkehrenden Prüfung von Flüssiggasrohrleitungen ist zu unterscheiden zwischen:
+Prüfungen an Rohrleitungen PS > 0,5 bar und Prüfungen an Rohrleitungen PS ≤ 0,5 bar
+
+12.5.1 Wiederkehrende Prüfungen von Rohrleitungen PS > 0,5 bar
+Rohrleitungen mit einem Nenndurchmesser ≤ DN 25 sowie Rohrleitungen > DN 25, wenn das
+Produkt von PS x DN ≤ 2000 bar ist, sind wiederkehrend durch einen Fachbetrieb zu prüfen.
+Rohrleitungen mit einem Nenndurchmesser > DN 25, wenn das Produkt von PS x DN > 2000
+bar ist, sind wiederkehrend durch die zugelassene Prüfstelle zu prüfen.
+Die wiederkehrende Prüfung besteht aus einer äußeren Prüfung, einer Dichtheitsprüfung und
+einer Festigkeitsprüfung.
+Die äußere Prüfung erstreckt sich auf:
+- den Zustand der Rohrleitung und deren Ausrüstungsteile (äußere Besichtigung)
+- den Zustand und die Funktion der sicherheitstechnisch erforderlichen Ausrüstungsteile
+    (Absicherung gegen Überdruck)
+- den Zustand und die Funktion der Druckregelgeräte
+In der Regel ist es nicht erforderlich, die Rohrleitung über die gesamte Länge einer äußeren
+Prüfung zu unterziehen. Sie kann sich auf repräsentative Teilstücke beschränken. Dies gilt
+nicht für die sicherheitstechnisch erforderliche Ausrüstung.
+Die Dichtheitsprüfung ist entsprechend den Anforderungen aus der großherzoglichen
+Verordnung über Gasanlagen in der aktuellsten Fassung durchzuführen.
+Die Festigkeitsprüfung ist entsprechend den Anforderungen aus der großherzoglichen
+Verordnung über Gasanlagen in der aktuellsten Fassung durchzuführen.
+
+12.5.2 Wiederkehrende Prüfungen von Rohrleitungen PS ≤ 0,5 bar
+Rohrleitungen mit PS ≤ 0,5 bar sind wiederkehrend durch einen Fachbetrieb zu prüfen.
+Die wiederkehrende Prüfung besteht aus einer äußeren Prüfung und einer Dichtheitsprüfung
+mit schaumbildenden Mitteln nach EN 10291 oder Gasspürgeräten nach DVGW G 465-4 (H).
+
+
+
+page 27 de 34 pages                                                          ITM-SST 1703.3
+Hinweis: Prüfmittelreste sind gemäß EN 10291 bei Kupfer- und Kunststoffleitungsanlagen
+abzuspülen.
+Die äußere Prüfung erstreckt sich auf:
+- den Zustand der Rohrleitung und deren Ausrüstungsteile (äußere Besichtigung)
+- den Zustand und die Funktion der sicherheitstechnisch erforderlichen Ausrüstungsteile
+    (Absicherung gegen Überdruck)
+- den Zustand und die Funktion der Druckregelgeräte
+Diese müssen den Anforderungen dieser Vorschrift bzw. der großherzoglichen Verordnung
+über Gasanlagen (Règlement grand-ducal concernant les installations à gaz) in der aktuellsten
+Fassung entsprechen.
+In der Regel ist es nicht erforderlich, die Rohrleitung über die gesamte Länge einer äußeren
+Prüfung zu unterziehen. Sie kann sich auf repräsentative Teilstücke beschränken. Das gilt
+nicht für die sicherheitstechnisch erforderliche Ausrüstung.
+Bei nicht sichtbar verlegten Leitungen muss ein Prüfmanomter zum Einsatz kommen.
+
+12.6 Sollten bei der wiederkehrenden Prüfung Indikatoren auftreten, die die Sicherheit der
+Anlage beeinträchtigen, kann die zugelassene Prüfstelle die wiederkehrende Prüfung durch
+zusätzliche Prüfungen ergänzen.
+
+
+Artikel 13 - Prüfberichte und Prüfplaketten
+
+13.1 Bei jeder Prüfung stellt die zugelassene Prüfstelle einen Prüfbericht über das Ergebnis
+der Prüfung aus. An der Anlage selbst muss an einer gut sichtbaren Stelle eine Prüfplakette
+oder Vergleichbares angebracht werden. Die Prüfplakette gibt den Termin für die nächste
+Prüfung an. Für den Fall, dass Mängel vorgefunden werden, die eine Nachprüfung vor Ort
+erforderlich machen, ist die kürzeste Frist auf der Plakette anzugeben.
+
+Jeder Prüfbericht muss folgende Informationen enthalten:
+- das Datum und die Art der Prüfung;
+- die zugelassene Prüfstelle und den Inspektor, der die Prüfung durchgeführt hat;
+- die Schlussfolgerungen mit Angaben von Mängeln und Hinweisen sowie die Fristen für die
+  Mängelbeseitigung;
+- das Datum für die nächste wiederkehrende Prüfung bzw. Nachprüfung.
+
+Der Prüfbericht ist in zweifacher Ausfertigung zu erstellen. Im Falle einer Inbetriebnahmeprü-
+fung, einer Requalifizierung oder einer 10-jährigen Prüfung sind die Prüfberichte einschließlich
+einer Kopie der ITM zur Genehmigung vorzulegen. Die ITM archiviert diese Kopie.
+
+Unbeschadet der Verpflichtungen der zugelassenen Prüfstelle gegenüber ihrem Auftraggeber
+oder einer anderen betroffenen Person, erfolgt die endgültige Verteilung der Prüfberichte
+durch die zugelassene Prüfstelle wie folgt:
+- 1 Originalexemplar für den Auftraggeber;
+- 1 weiteres Originalexemplar, das von der zugelassenen Prüfstelle für einen Zeitraum von
+mindestens 10 Jahren archiviert wird.
+
+Vom Eigentümer bzw. Betreiber der Flüssiggasanlage ist sicherzustellen, dass eine Kopie des
+von der zugelassenen Prüfstelle ausgestellten Prüfberichtes im Sicherheitsregister abgeheftet
+wird.
+
+13.2 Stellt die zugelassenen Prüfstelle bei einer Überprüfung Mängel fest, bei der die
+Sicherheit von Personen nicht mehr gewährleistet ist, so hat sie den Eigentümer bzw. Betreiber
+der Anlage oder den Auftraggeber unverzüglich zu informieren.
+Darüber hinaus muss der Prüfbericht auch eine Zeitspanne enthalten, in der die einzelnen
+Anlagenteile nach der Auffassung der zugelassenen Prüfstelle noch sicher betrieben werden
+können, bevor sie einer erneuten Überprüfung unterzogen werden.
+Wenn die zugelassene Prüfstelle aufgrund der festgestellten Mängel eine sofortige
+Außerbetriebnahme veranlassen möchte so ist die ITM unverzüglich zu informieren.
+
+
+page 28 de 34 pages                                                             ITM-SST 1703.3
+13.3 Der Eigentümer bzw. Betreiber der Anlage muss die Fristen für die Mängelbeseitigungen,
+Reparaturen und Instandsetzungen einhalten, die in dem von der zugelassenen Prüfstelle aus-
+gestellten Prüfbericht festgelegt sind.
+
+13.4 Ein Nachprüfungstermin durch die zugelassene Prüfstelle muss nach Mängelbeseitigung
+in Auftrag gegeben werden. Konnten die Instandsetzungsarbeiten bzw. Reparaturen nicht
+innerhalb der von der zugelassenen Prüfstelle festgelegten Fristen durchgeführt werden, muss
+die Anlage außer Betrieb genommen werden. Vor der Wiederinbetriebnahme ist eine erneute
+Nachprüfung von der zugelassenen Prüfstelle erforderlich.
+
+13.5 Wenn Fristen zu einer Nachprüfung im Prüfbericht festgehalten sind, liegt es am Verant-
+wortlichen der Anlage die Flüssiggasanlage fristgerecht einer Nachprüfung durch eine zuge-
+lassene Prüfstelle unterziehen zu lassen.
+
+
+Artikel 14 - Änderungs- bzw. Reparaturarbeiten an Flüssiggasanlagen
+
+14.1 Änderungs- oder Reparaturarbeiten an Flüssiggasanlagen müssen grundsätzlich von zu-
+gelassenen Fachbetrieben unter Einhaltung der dafür erforderlichen Sicherheitsvorschriften
+durchgeführt werden.
+Änderungs- oder Reparaturarbeiten, die die Sicherheit der Anlage beeinträchtigen können,
+müssen unter Aufsicht einer zugelassenen Prüfstelle durchgeführt werden. Die Anlage muss
+dann einer vollständigen Prüfung und gegebenenfalls einer erneuten Festigkeitsprüfung bzw.
+einer vergleichbaren zerstörungsfreien Prüfung durch die zugelassene Prüfstelle unterzogen
+werden. Die zugelassene Prüfstelle stellt einen Abnahmeprüfbericht über die durchgeführten
+Arbeiten aus.
+Alle Arbeiten müssen im Vorfeld mit der zuständigen zugelassenen Prüfstelle abgestimmt
+werden.
+
+14.2 Der Flüssiggasbehälter muss, sofern Änderungs- bzw. Reparaturarbeiten im Bereich
+explosionsfähiger Atmosphäre durchgeführt werden, fachgerecht entleert, gereinigt und
+entsprechend abgedichtet werden. Die Atmosphäre muss dabei permanent unter Einsatz
+eines mobilen Gasspürgerätes von einem Fachbetrieb überprüft werden, um sicherzustellen,
+dass während der durchzuführenden Arbeiten keine explosionsfähige Atmosphäre mehr
+besteht.
+
+14.3 Vor Änderungs- bzw. Reparaturarbeiten im Inneren des Flüssiggasbehälters muss der
+Behälter gasfrei gemacht werden. Dies muss durch Abfackeln des Gases mittels einer Fackel
+oder einer anderen geeigneten Vorrichtung erfolgen, indem der Flüssiggasbehälter langsam
+mit Wasser oder Inertgas gefüllt wird. Die gesamte Prozedur des Abfackelns muss im Vorfeld
+mit der zugelassenen Prüfstelle abgestimmt werden.
+
+14.4 Änderungs- bzw. Reparaturarbeiten im Inneren von Flüssiggasbehältern müssen grund-
+sätzlich von zugelassenen Fachbetrieben unter Einhaltung der dafür erforderlichen Sicher-
+heitsvorschriften durchgeführt werden.
+
+14.5 Niemand darf einen Flüssiggasbehälter befahren, ohne Berücksichtigung der einschlägi-
+gen Sicherheitsvorschriften.
+Die Person, die einen Flüssiggasbehälter befährt muss unter anderem:
+- die einschlägigen Sicherheitsvorschriften für das Befahren von engen Räumen beachten
+- ein kalibriertes Messgerät zur Freimessung mit sich führen,
+- vor dem Befahren sicherstellen, dass die Luftkonzentration zum Befahren geeignet ist.
+- ausgestattet sein mit einem Sicherheitsgurt mit einer Sicherheitsleine, die sicher an einem
+  festen Befestigungspunkt befestigt werden muss,
+- ständig unter der Aufsicht einer zweiten Person sein, die sich außerhalb der Gefahrenzone
+  befindet und die in der Lage ist, bei Bedarf zu helfen,
+- erforderlichenfalls mit einem geeigneten Atemschutzgerät ausgestattet sein.
+
+
+page 29 de 34 pages                                                          ITM-SST 1703.3
+Artikel 15 - Besondere Vorfälle bzw. Unfälle an Flüssiggasanlagen
+
+15.1 Jede Flüssiggasanlage, die in einen Unfall oder Schaden verwickelt wird, ist stillzulegen
+und die ITM ist darüber zu informieren. Vor einer möglichen Wiederinbetriebnahme muss die
+Flüssiggasanlage von einer zugelassenen Prüfstelle überprüft werden. Die ITM ist über das
+Ergebnis dieser Prüfung zu informieren und muss die Freigabe zur Wiederinbetriebnahme
+erteilen.
+
+
+Artikel 16 - Rohrleitungen ab der Hauptabsperreinrichtung bis zu den Gasverbrauchern
+
+16.1 Rohrleitungen ab der Hauptabsperreinrichtung bis zu den Gasverbrauchern unterliegen
+der großherzoglichen Verordnung über Gasanlagen in der aktuellsten Fassung.
+
+
+Artikel 17 - Befüllung von Flüssiggasbehältern mittels Tankfahrzeugen
+
+17.1 Tankfahrzeuge für Flüssiggas, die das Gas liefern, müssen die Vorschriften für den Trans-
+port gefährlicher Güter (ADR-Anforderungen) erfüllen.
+
+17.2 Tankfahrzeuge für Flüssiggas, die Gas für Anlagen liefern, müssen mit einer Sicherheits-
+vorrichtung zum Verhindern des Überschreitens des maximalen Füllstands des
+Flüssiggasbehälters ausgestattet sein (Überfüllsicherung). Diese muss beim Ansprechen den
+Befüllvorgang automatisch unterbrechen.
+
+Der zulässige Füllgrad für Flüssiggasbehälter beträgt 85 %, er darf unter keinen Umständen
+mehr als 85 % betragen (geometrisches Fassungsvermögen gemäß Fabrikschild).
+
+17.3 Die Entladestelle für Tankfahrzeuge muss mindestens 3 m vom Flüssiggasbehälter
+entfernt sein.
+
+17.4 Der Entladevorgang muss von einer sachkundigen Person, unter Einhaltung der allge-
+meinen Sicherheitsvorschriften, durchgeführt werden.
+
+17.5 Diese Person muss während des gesamten Entladungsvorganges den Prozess überwa-
+chen und sich im Bereich der Flüssiggasanlage aufhalten.
+
+17.6 Es sind Maßnahmen zu ergreifen, die verhindern, dass es zu einer elektrostatischen Auf-
+ladung kommt (Beispiel: Eine separate elektrisch leitende Verbindung ist bei leitfähigen oder
+ableitfähigen Schläuchen nicht erforderlich, weil der Schlauch selbst diese Verbindung her-
+stellt.
+
+17.7 Das Befüllen eines Flüssiggasbehälters mit einem flexiblen Schlauch durch geschlossene
+Räume ist verboten, mit Ausnahme von einer Verlegung durch Garagen, Durchgänge und
+Durchfahrten, wenn der Zugang zum Behälter ebenerdig und frei, ohne das Überwinden von
+Hindernissen, möglich ist. Türen und Fenster zu Nachbarräumen müssen beim Betankungs-
+vorgang verschlossen sein.
+
+17.8 Die Befüllung des Flüssiggasbehälters darf erfolgen wenn sich die Flüssiggasanlage in
+einwandfreiem und sicherem Zustand befindet, eine Betriebserlaubnis vorliegt, die Abnahme-
+und Wiederholungsprüfungen durchgeführt wurden und eine gültige Prüfplakette vorhanden
+ist.
+
+17.9 Die für die Transfervorgänge verwendeten Werkzeuge müssen funkenfrei sein.
+
+17.10 Die Dichtheit der Flüssiggasanlage ist von einer sachkundigen Person nach jedem
+Befüllvorgang zu überprüfen.
+
+
+page 30 de 34 pages                                                           ITM-SST 1703.3
+17.11 Das Flüssiggas muss eine solche Qualität aufweisen, dass es keine korrodierende
+Wirkung auf die Wandung des Flüssiggaslagerbehälters hat.
+
+
+Artikel 18 - Betreiben bzw. Wartungsarbeiten von Flüssiggasanlagen
+
+18.1 Flüssiggasanlagen müssen regelmäßig gemäß den Herstellerangaben durch dafür
+autorisierte Fachbetriebe gewartet werden. Hierbei sind u.a. die Betriebsanleitungen der
+einzelnen Bauteile zu beachten.
+
+18.2 Sicherheitsrelevante Mängel müssen unverzüglich durch Fachbetriebe behoben werden.
+
+18.3 Der Eigentümer bzw. der Betreiber muss die im Prüfbericht von einer zugelassenen Prüf-
+stelle enthaltenen Fristen für Reparatur- und Instandsetzungsarbeiten einhalten.
+
+18.4 Jedes Überdruckventil muss durch ein neues ersetzt werden, wenn sein Zustand oder
+die Herstellerangaben dies fordern. In jedem Fall muss jedes Überdruckventil spätestens alle
+10 Jahre (hierbei zählt das auf dem Ventil aufgebrachte Datum) durch ein neues oder überar-
+beitetes Sicherheitsventil ersetzt werden. Der Austausch muss von einer dafür qualifizierten
+sachkundigen Person durchgeführt werden.
+
+18.5 Eine Lagerung von verschiedenen Materialien im Bereich der Flüssiggasbehälters ist
+verboten.
+
+18.6 Die Umgebung der Flüssiggasanlage muss in einem sauberen Zustand gehalten werden.
+
+18.7 Eine gute Zugänglichkeit zum Flüssiggasbehälter muss dauerhaft gewährleistet sein.
+
+
+Artikel 19 - Sicherheitsregister
+
+19.1   Für jede Flüssiggasanlage ist ein Sicherheitsregister zu führen. Dieses Register kann
+       auch in elektronischer Form bereitgestellt werden.
+
+19.2   Das Sicherheitsregister umfasst:
+
+          •   Betriebserlaubnis mit entsprechendem Lageplan
+          •   CE-Konformitätserklärung der Baugruppe bzw. CE-Konformitätserklärungen
+              der zur Anlage gehörenden Bauteile
+          •   Betriebsanleitungen
+          •   Belege der Wartungs- bzw. Reparaturarbeiten
+          •   Prüfberichte zur Inbetriebnahmeprüfung über:
+              - die Haupt- und Vorprüfung der Gasleitung durch den zugelassenen
+                Installateur
+              - die Inbetriebnahmeprüfung durch die zugelassene Prüfstelle
+          •   Prüfberichte zur 2,5-jährigen wiederkehrenden Prüfung
+          •   Prüfberichte zur 10-jährigen wiederkehrenden Prüfung
+          •   Prüfberichte zur 30-jährigen wiederkehrenden Prüfung
+          •   sonstige Prüfberichte
+
+19.3   Die Einsicht in das Sicherheitsregister muss jederzeit für die ITM und die zugelassene
+       Prüfstelle gewährleistet sein.
+
+19.4   Der Betreiber muss das Sicherheitsregister aufbewahren.
+
+
+
+
+page 31 de 34 pages                                                          ITM-SST 1703.3
+Artikel 20 - Entleeren eines Flüssiggasbehälters
+
+20.1 Entleerungstätigkeiten an Flüssiggasanlagen müssen grundsätzlich von zugelassenen
+Fachbetrieben unter Einhaltung der dafür erforderlichen Sicherheitsvorschriften durchgeführt
+werden.
+
+20.2 Dieser Fachbetrieb muss während des gesamten Entleerungsvorgangs anwesend sein.
+
+20.3 Auf öffentlichen Straßen dürfen keine Flüssiggasbehälter transportiert werden, die noch
+Gas in Flüssigphase enthalten (siehe ADR- Vorschriften).
+
+
+Artikel 21 - Austausch eines Flüssiggasbehälters
+
+21.1 Der ausgetauschte Flüssiggasbehälter muss schnellstmöglich vom ehemaligen Betriebs-
+ort entfernt werden.
+
+21.2 Nach dem Austausch und vor der ersten Befüllung des Flüssiggasbehälters ist die Anlage
+einer Inbetriebnahmeprüfung durch eine zugelassene Prüfstelle zu unterziehen.
+
+
+
+
+page 32 de 34 pages                                                          ITM-SST 1703.3
+                                                Anhang 1
+
+Auszug aud dem Anhang 2 des « règlement grand-ducal modifié du 27 février 2010 concernant
+les installations à gaz ».
+
+
+3.1.6 Sicherheitstechnische Ausrüstungsteile
+3.1.6.1 Mitteldruck-Rohrleitung ohne SAV
+Mitteldruck-Rohrleitungen zwischen dem Druckregelgerät der 1. Stufe und dem Druckregelgerät der 2.
+Stufe müssen nicht mit einem zusätzlichen Sicherheitsventil oder SAV abgesichert werden, wenn die
+Rohrleitung einschließlich aller ihrer Ausrüstungsteile bis einschließlich der Eingangsseite der 2. Regel-
+stufe für einen zulässigen Betriebsüberdruck von 16 bar ausgelegt ist. Der zulässige Betriebsüberdruck
+für diese Rohrleitung entspricht dem zulässigen Betriebsüberdruck des Flüssiggasbehälters (d.h. 15,6
+bar).
+Die Ausrüstungsteile der Rohrleitung und das SAV müssen eine DIN-DVGW-Zulassung haben. Diese
+Zulassung muss, aus der Kennzeichnung der Ausrüstungsteile ersichtlich sein.
+
+Kennzeichnungsbeispiel:
+
+
+
+
+3.1.6.2 Mitteldruck-Rohrleitung mit SAV
+Soll der zulässige Betriebsüberdruck der Mitteldruck-Rohrleitung zwischen dem Regler der 1. Stufe und
+dem Regler der 2. Stufe auf einen Druck < 16 bar reduziert werden, so muss der Regler der 1. Stufe mit
+einem SAV und einem PRV ausgerüstet sein. Der Einstelldruck des SAVs entspricht dann dem zuläs-
+sigen Betriebsüberdruck dieser Rohrleitung, z.B.:
+            - das Druckregelgerät der 1. Stufe ist werkseitig eingestellt auf einen Betriebsüberdruck
+                von 0,7 bar, d.h. die Rohrleitung wird mit 0,7 bar betrieben;
+            - das dem Druckregelgerät der 1. Stufe vorgeschaltete SAV ist eingestellt auf 2 bar, d.h.
+                der zulässige Betriebsüberdruck dieser Rohrleitung ist 2 bar und alle Ausrüstungsteile
+                der Rohrleitung nach dem Druckregelgerät der 1. Stufe müssen mindestens für einen
+                Überdruck von 2 bar ausgelegt und entsprechend gekennzeichnet sein (z.B. PN 4).
+
+3.1.6.3 Ausführung
+Beispiele von Ausführungsmöglichkeiten der Rohrleitung und die entsprechende sicherheitstechnische
+Ausrüstung unter Verwendung von DIN-DVGW-geprüften Druckregelgeräten, Sicherheits-Absperrven-
+tilen, Sicherheits- Abblaseventilen sind im folgenden Bild zusammengefasst.
+
+
+
+
+page 33 de 34 pages                                                                     ITM-SST 1703.3
+                         Ausführungsbeispiele von Flüssiggas-Rohrleitungen
+
+
+3.1.7.1 Druckregelgeräte für Flüssiggas-Behälteranlagen
+Der Behälterdruck wird 2-stufig auf den erforderlichen Anschlussdruck der Gasgeräte von 50 mbar her-
+abgesetzt.
+Druckregelgeräte müssen prEN 13785 entsprechen und fest eingestellt sein.
+Das Druckregelgerät am Flüssiggasbehälter - 1. Regelstufe - vermindert den Nennausgangsdruck auf
+den Nenneingangsdruck des zweiten Druckregelgerätes - 2. Regelstufe.
+Die 2. Regelstufe regelt den Gasdruck für das Gasgerät in der Regel auf 50 mbar.
+Druckregelgeräte der 2. Stufe müssen immer mit einem Sicherheits-Absperrventil, eingestellt auf den
+zulässigen Betriebsüberdruck des Gasgerätes (in der Regel 100 mbar), und einem Sicherheits-Abbla-
+seventil PRV ausgerüstet sein.
+Vor dem Druckregelgerat der 2. Stufe ist ein Schmutzfänger zu installieren, sofern dieser nicht im Druck-
+regelgerät bzw. dem SAV integriert ist.
+Wenn Druckregelgeräte nach prEN 13785 in Räumen installiert werden, müssen diese thermisch erhöht
+belastbar und entsprechend gekennzeichnet sein (≪t≫); anstelle der erhöhten thermischen Belastbar-
+keit kann auch ein entsprechender baulicher Schutz oder ein Schutz durch thermisch auslösende Ab-
+sperreinrichtungen vorgesehen werden.
+Werden Druckregelgeräte der 2. Stufe in Raumen installiert, muss die Abblaseleitung des PRV ins Freie
+verlegt werden. ln den besonderen Aufstellungsräumen der Flüssiggasbehälter ist für das PRV des
+Druckregelgerätes keine Abblaseleitung erforderlich. Druckregelgeräte, deren Eingangsdruck auf einen
+zulässigen Betriebsüberdruck von 1 bar abgesichert ist, und die eine Sicherheitsmembrane besitzen,
+bedürfen keines Sicherheits-Abblaseventils.
+
+
+
+
+page 34 de 34 pages                                                                     ITM-SST 1703.3
+

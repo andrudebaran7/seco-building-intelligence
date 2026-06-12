@@ -1,0 +1,464 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                    Strassen, février 2009
+
+
+       Le présent texte a été établi par l’Inspection du Travail et des Mines et le par le Service
+                       d’Incendie et d’Ambulance de la Ville de Luxembourg.
+
+                                                                                           ITM-SST 1510.1
+
+                                       Prescriptions de sécurité incendie
+                                   DISPOSITIONS SPECIFIQUES
+                                        Etablissements de Soins
+                                 Etablissements pour Personnes Agées
+
+                                                   Le présent document comporte 9 pages
+
+
+                                                                         SOMMAIRE
+                 Article                                                                                         Page
+
+                  1)      Objectifs et champ d'application                                                           2
+                  2)      Définitions                                                                                2
+                  3)      Implantation                                                                               3
+                  4)      Aménagements extérieurs                                                                    3
+                  5)      Construction                                                                               3
+                  6)      Aménagements intérieurs                                                                    3
+                  7)      Compartimentage                                                                            4
+                  8)      Evacuation de personnes, issues et dégagements intérieurs                                  5
+                  9)      Eclairage                                                                                  6
+                 10)      Désenfumage (Evacuation de fumée et de chaleur)                                            6
+                 11)      Installations techniques                                                                   6
+                 12)      Installations au gaz                                                                       7
+                 13)      Installations électriques                                                                  7
+                 14)      Prévention de panique en cas d'alarme                                                      7
+                 15)      Moyens de secours et d'intervention                                                        8
+                 16)      Registre de sécurité                                                                       9
+                 17)      Réception et contrôles                                                                     9
+
+        _____________________________________________________________________________________________________________________
+        Direction, Département Sécurité et Santé
+        Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+        Bureaux: 3, rue des Primeurs, L-2361 Strassen   Tél: 247-86145   Fax: 49 14 47
+        Site Internet: http://www.itm.lu
+Art. 1er. - Objectif et champ d'application
+
+1.1. Généralités
+
+Les établissements sont soumis aux dispositions générales, ITM-SST 1501/1502/1503,
+applicables à tous les établissements et aux dispositions spécifiques qui leur sont propres.
+
+1.2. Domaine d'application
+
+1.2.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions de sécurité et
+de santé par rapport au personnel, aux visiteurs, aux pensionnaires auxquelles doivent répondre
+la conception, la construction et l’aménagement de maisons de soins et d’établissements pour
+personnes âgées.
+
+1.2.2. En fonction de l'importance de l'établissement des allégements ou des aggravations aux
+présentes prescriptions peuvent être accordés ou demandés par les autorités compétentes.
+
+1.2.3. Les établissements de soins ainsi que les établissements pour personnes âgées ne peuvent
+être intégrés à des bâtiments élevés.
+
+Art. 2. - Définitions
+
+2.1. Etablissements de soins et établissements pour personnes âgées
+
+Les établissements concernés par les dispositions ci-après sont :
+             ¾ Les maisons de soins,
+             ¾ les hôpitaux,
+             ¾ les unités de soins psychiatriques,
+             ¾ les cliniques, les centres intégrés pour personnes âgées (CIPA),
+             ¾ les maisons de retraite,
+             ¾ les centres de rééducation,
+             ¾ les hospices,
+             ¾ les foyers pour personnes âgées, pouvant recevoir au moins 10 personnes.
+Les structures de petite taille seront traitées individuellement.
+
+2.1.1 Etablissement pour personnes âgées
+
+Sous la dénomination « établissement pour personnes âgées » est à comprendre tout
+établissement qui accueille et héberge des personnes âgées et offrant des services de
+restauration, d'hygiène et d'aide ainsi que des prestations de soins, d'assistance, d'animation et
+d'orientation personnelle.
+
+2.1.2. Etablissements de soins et de rééducation
+
+Sous la dénomination « établissement de soins ou de rééducation », on comprend tout
+établissement qui accueille et héberge des personnes malades ou accidentées et offrant des
+services de restauration, d'hygiène et d'aide ainsi que des prestations de soins, d'assistance,
+d'animation et d'orientation personnelle.
+
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 2 sur 9 pages                                                                                 ITM-SST 1510.1
+2.1.3. Hôpitaux, cliniques et unités psychiatriques
+
+Sous la dénomination « Hôpitaux et cliniques », il y a lieu de comprendre tout établissement
+qui accueille et héberge des personnes malades ou accidentées et offrant principalement des
+prestations de soins (salles d’opération, salles de radiologie, salles de traitements spécifiques)
+ainsi que des services de restauration, d'hygiène, d'aide et d'assistance.
+
+2.2. Ces différents établissements sont classés en deux catégories :
+               ¾ 1ère catégorie : Etablissements de soins, de rééducation, hôpitaux et cliniques,
+               ¾ 2ème catégorie : Etablissements pour personnes âgées,
+
+2.3. Offices de service
+
+Il faut entendre par offices de service, les postes d'infirmiers situés dans chaque service,
+donnant directement dans la circulation et servant aussi bien d'accueil des malades, des
+visiteurs et de préparation des soins médicamenteux.
+
+2.4. Espaces de vie
+
+Ce sont des espaces équipés de fauteuils, de chaises, de tables, d'une kitchenette, d'armoires de
+rangement etc.…. point de rencontre des malades et des visiteurs dont la surface est supérieure
+à 20 m².
+
+Art. 3. - Implantation
+
+Voir dispositions générales.
+
+Art. 4. - Aménagements extérieurs
+
+Pour les établissements de 1ère catégorie, une voie de circulation périphérique devra être conçue
+de façon à permettre la libre circulation des services de secours. Au droit des accès ambulances,
+livraisons, des élargissements de chaussées doivent être prévus afin de libérer en permanence
+cette voie.
+
+Art. 5. - Construction
+
+Voir dispositions générales.
+
+Art. 6. - Aménagements intérieurs
+
+6.1. Collecte et dépôts des déchets
+
+6.1.1. Toutes les poubelles installées dans les locaux pouvant recevoir des déchets
+inflammables doivent être en métal et auto-extinctrices. Les corbeilles à papier doivent être en
+métal.
+
+6.1.2. A l'occasion de la collecte des déchets, celles-ci ne peuvent être entreposées, même
+temporairement, dans des endroits autres que ceux réservés à cette fin.
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 3 sur 9 pages                                                                                 ITM-SST 1510.1
+6.1.3. A l'occasion de la collecte du linge sale, celui-ci ne peut être entreposé dans le local
+déchet, même temporairement. Un local spécialement réservé à cette fin sera mis à disposition.
+
+6.2. Aménagement des chambres ou studios pour les établissements de 2ème catégorie
+
+Il est interdit de faire la cuisine dans les chambres, sauf si ces dernières ont été équipées de
+kitchenettes dont la puissance installée est inférieure à 20 kW.
+
+6.3. Mesures particulières
+
+L’installation de locaux à sommeil en sous sol est interdite. Seuls sont autorisés au premier
+sous sol les activités liées au traitement des malades : traitement médical, de soins, de
+rééducation,...., les salles à manger, salles de réunions ou autres activités sous surveillance.
+
+Art. 7. - Compartimentage
+
+7.1. Bâtiment
+
+En aggravation des dispositions générales, chaque établissement doit comporter au minimum
+deux compartiments principaux au moins équivalents en surface et en nombre de chambres.
+
+Ces compartiments principaux devront être divisés en compartiments secondaires dont la
+surface maximale sera de 400 m² et délimité par des parois coupe feu 60 minutes.
+
+7.2. Locaux à risques
+
+7.2.1. En complément des dispositions générales, sont à considérer comme étant des locaux à
+faibles risques:
+                 ¾ Les chambres,
+                 ¾ Les offices de service.
+Toutefois en aggravation des dispositions générales, les portes de ces locaux seront équipées de
+ferme - porte asservie à la détection incendie.
+
+7.2.2. En complément des dispositions générales, sont à considérer comme étant des locaux à
+risques moyens:
+                 ¾ locaux de radiologie, de stérilisation, de désinfection,
+                 ¾ espace policlinique,
+                 ¾ ateliers de maintenance et d’entretien,
+                 ¾ buanderies et les lingeries.
+
+Dans ces locaux il y a lieu de s’assurer de :
+                   ¾ l'évacuation des émanations incommodes (ventilation importante et
+                        adéquate),
+                   ¾ la protection des machines et la maintenance régulière de ces dernières,
+                   ¾ le respect des règles de l'art et de la sécurité à l'occasion de la
+                        manipulation de substances dangereuses, tels des solvants chlorés.
+
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 4 sur 9 pages                                                                                 ITM-SST 1510.1
+7.2.3. En complément des dispositions générales, sont à considérer comme étant des locaux à
+risques importants:
+                   ¾ locaux de stockage de fluides médicaux,
+                   ¾ laboratoires pharmaceutiques,
+                   ¾ blocs opératoires.
+
+7.2.4. Les locaux de stockage de liquides inflammables doivent respecter les dispositions
+spécifiques de l’ITM.
+
+7.2.5. Les espaces de vie situés dans les circulations devront être considérés comme des locaux
+à faibles risques.
+
+7.2.6. Les offices de services sont à considérer comme étant des locaux à faibles risques
+toutefois ils peuvent être équipés de parois vitrées n'ayant aucune caractéristique de tenue au
+feu.
+
+7.2.7. Les portes des espaces de vie et des offices de services doivent être équipées de ferme
+porte asservie à la détection incendie.
+
+7.2.8. Les espaces de vie peuvent être ouverts directement sur les circulations. Ils devront
+toutefois soit, être équipés d'une extinction automatique soit, être désenfumés mécaniquement.
+La ventilation de ces espaces pourra servir au désenfumage. Un écran de cantonnement entre
+l'espace de vie et la circulation sera mis en œuvre afin de limiter au maximum la propagation
+des fumées vers cette dernière.
+
+Art. 8. - Evacuation de personnes, issues et dégagements intérieurs
+
+8.1. Les personnes à prendre en compte pour le calcul de l’effectif sont :
+
+Une personne par lit pour les personnes hébergées,
+             ¾ Une personne pour trois lits pour le personnel,
+             ¾ Une personne par lit pour les visiteurs,
+             ¾ Huit personnes par poste de consultation,
+Si l’établissement comporte des locaux et des espaces relevant d’autres dispositions
+spécifiques, le calcul de l’effectif se fera en application des dispositions les concernant.
+Si l’établissement comporte des locaux et espaces non répertoriés, tels que des salles de soins
+spécialisés par exemple et susceptible de recevoir des personnes extérieures à l’établissement,
+l’effectif de ces espaces sera établie par déclaration du responsable de l’établissement ou du
+responsable d’exploitation.
+L’effectif total de l’établissement est calculé en sommant l’ensemble de ces nombres.
+
+8.2. Compte tenu de la spécificité des établissements traités ici, malades à mobilité réduite
+voire inexistante, le principe d’évacuation pour les malades est de les transférer du
+compartiment sinistré vers le ou les compartiments voisins. Le personnel soignant sera chargé
+d'organiser cette évacuation horizontale. Il devra être formé et entraîné à cette pratique qui est
+essentielle et primordiale pour le sauvetage des malades en cas de sinistre. Le public, quant à
+lui, évacuera normalement par les escaliers.
+
+
+    _____________________________________________________________________________________________________________________
+    Page 5 sur 9 pages                                                                                 ITM-SST 1510.1
+8.3. Pour tous les établissements d'une capacité supérieure à 10 personnes hébergées, il est
+obligatoire que l’on puisse à partir du seuil de toute chambre, salle à manger, salle de réunion et
+de tout autre local servant au séjour prolongé de personnes, emprunter au moins deux voies
+d'issues de secours réglementaires distinctes, menant indépendamment vers l'extérieur. Ces
+issues de secours doivent être aménagées à des extrémités opposées du bâtiment.
+
+L'aménagement de chambres qui aboutissent à des couloirs en cul-de-sac pour les
+établissements de 1ère catégorie est interdit. Pour les établissements de 2ème catégorie, des culs-
+de-sac d’une longueur de 10 m sont possibles.
+
+8.4. Toutes les portes des chambres et des locaux pouvant recevoir des lits mobiles peuvent
+s'ouvrir tant vers l'intérieur que vers l'extérieur. Pour des nouvelles constructions le passage
+libre minimal des portes doit être de 1,2 x 2,1 m.
+
+8.5. En aggravation des dispositions générales, le passage libre des circulations (couloirs,
+chemin d’évacuation) doit être au moins de 1,80 m pour les établissements de 2ème catégorie et
+de 2,40 m pour les établissements de 1ère catégorie.
+
+8.5. En aggravation des dispositions générales, le passage libre des escaliers doit être au moins
+de 1,40 m.
+
+8.6. Certains services hospitaliers comme les unités de soins psychiatriques, nécessitent de
+fermer à clef les sorties de secours. Tout le personnel soignant doit pouvoir, à tout moment,
+ouvrir ces portes : une présence propre à ces services étant obligatoire en permanence.
+
+De plus ces portes seront fermées par un système de verrouillage électromagnétique dont
+l'ouverture peut être commandée à partir d'un boîtier situé dans le local personnel.
+
+Art. 9. - Eclairage
+
+Voir dispositions générales.
+
+Art. 10. - Désenfumage (Evacuation de fumée et de chaleur)
+
+10.1. Tous les locaux situées en sous sol, d’une surface supérieure à 150 m² ne disposant pas
+de fenêtres doivent être désenfumés mécaniquement.
+
+Pour celles disposant d’ouvertures, ces dernières devront assurer le désenfumage naturel de la
+salle. La commande manuelle devra être installée à l’accès principal de la salle.
+
+10.2. Les espaces de vie ouverts et situés dans les circulations peuvent être désenfumés en
+application de l'article 7.2.8 ci-dessus.
+
+Art. 11. - Installations techniques
+
+Ascenseurs « Pompier »
+
+11.1. Pour les établissements de plus de quatre étages (R+4), l’installation d’ascenseurs
+« pompiers » est obligatoire. Leur nombre et leur position seront soumis à l'avis des autorités
+compétentes.
+
+
+    _____________________________________________________________________________________________________________________
+    Page 6 sur 9 pages                                                                                 ITM-SST 1510.1
+11.2. En complément du paragraphe 1.2 « Normes et règles techniques » des dispositions
+spécifiques, il y a lieu de prendre connaissance de la norme européenne EN 81-72.
+
+11.3. Chaque compartiment principal, excepté éventuellement le compartiment technique de
+l'étage supérieur, est desservi par un ascenseur « pompier » le reliant à un niveau d'évacuation
+aisément accessible par les services d'incendie.
+
+11.4. Chaque ascenseur « pompier » devra être situé à proximité d'un escalier réglementé.
+Cet ou ces escaliers devront être équipés d'une colonne en charge conformément à l'article 15.4
+des dispositions générales ITM-SST 1502 et 1503.
+
+Art. 12. - Installations au gaz
+
+Voir dispositions générales.
+
+Art. 13. - Installations électriques
+
+Voir dispositions générales.
+
+Art. 14. - Prévention de panique en cas d'alarme
+
+14.1. Formation du personnel
+
+14.1.1. La formation de base, la formation continue et l'initiation en matière de sécurité et
+d'évacuation des membres du personnel doivent être effectuées suivant les besoins respectifs,
+en principe par le responsable du bâtiment sous l'autorité de l'exploitant.
+
+Chaque membre du personnel doit recevoir une formation à la fois suffisante et adéquate et cela
+à l'occasion:
+              ¾ de son engagement,
+              ¾ d'une mutation ou d'un changement de fonction,
+              ¾ de l'introduction ou d'un changement d'un équipement de travail,
+              ¾ de l'introduction d'une nouvelle technologie.
+
+14.1.2. Les formations ne peuvent en aucun cas entraîner des charges financières pour le
+personnel. Elles doivent être adaptées à l'évolution des risques et à l'apparition de nouveaux
+risques; elles doivent être répétées périodiquement si nécessaire.
+
+14.1.3. Les programmes de formation portent dans les grandes lignes sur notamment:
+                 ¾ l'emploi des machines, appareils, équipements et autres ustensiles à la
+                   disposition du personnel;
+                 ¾ la manutention, respectivement manuelle et mécanique de charges;
+                 ¾ les moyens et mesures de sécurité mis en œuvre, notamment en matière de
+                   prévention des incendies et de la panique;
+                 ¾ la signalisation de sécurité et le contrôle du dégagement permanent des
+                   issues;
+                 ¾ la prévention générale des accidents et les moyens et mesures inhérents à la
+                   sécurité du travail, de même que les moyens de protection individuelle ou
+                   collective;
+
+
+    _____________________________________________________________________________________________________________________
+    Page 7 sur 9 pages                                                                                 ITM-SST 1510.1
+                 ¾ l'hygiène et l'emploi des substances et produits dangereux;
+                 ¾ le maintien de la sécurité de même que la constatation et la dénonciation des
+                   situations et comportements dangereux,
+                 ¾ les premiers secours et l'emploi des extincteurs portatifs d'incendie;
+                 ¾ le concours à d'éventuelles opérations d'évacuation, de secours et
+                   d'intervention simples.
+
+14.2. Encadrement des personnes hébergées
+
+14.2.1. Les personnes hébergées doivent être encadrées par des personnes compétentes ayant
+une formation adéquate portant également sur la sécurité, la manipulation des équipements et
+dispositifs de sécurité et de lutte contre les incendies, l'évacuation du bâtiment et les gestes
+élémentaires de premiers secours.
+
+Art. 15. - Moyens de secours et d'intervention
+
+15.1. Robinets d’incendie armés
+
+Tous les établissements devront être équipés de R.I.A. conformément à aux articles 15.3.1 et
+suivants des dispositions générales.
+
+15.2. Extinction automatique
+
+15.2.1. Une installation d'extinction automatique peut être imposée par les autorités
+compétentes, en référence à l'article 15.5 des dispositions générales et tout particulièrement les
+locaux à risques importants tels que les locaux poubelles, déchets divers.
+
+15.2.2. Les espaces de vie ouverts et situés dans les circulations peuvent être équipés d'une
+installation d'extinction automatique en application de l'article 7.2.8 ci-dessus.
+
+15.3. Détection incendie
+
+Tout établissement est à équiper d'une détection intégrale susceptible de détecter et de signaler
+tout début d'incendie dans n'importe quel local, compartiment, dépôt de linge, dégagement et
+espace, y compris les chambres, les combles accessibles ou non.
+
+15.4. Alerte
+
+15.4.1. L'établissement doit disposer d'un ou de plusieurs postes de téléphone permettant
+d'alerter directement les services de secours.
+
+15.4.2. L'établissement sera raccordé directement aux services de secours locaux via le Réseau
+Public de Transmission d’Alarmes (ALARMIS).
+
+15.5. Alarme
+
+15.5.1. L’alarme restreinte est donnée par compartiment,
+
+15.5.2. L’alarme est transmise au service de sécurité, au personnel désigné du compartiment où
+l’alarme a été déclarée, au gardien et au préposé à la sécurité.
+
+
+    _____________________________________________________________________________________________________________________
+    Page 8 sur 9 pages                                                                                 ITM-SST 1510.1
+15.6. Préposé à la sécurité
+
+L'exploitant doit nommer un préposé à la sécurité compétent et qualifié, connaissant
+parfaitement tous les domaines de l’établissement, s'il ne veut pas se charger lui-même des
+attributions du préposé à la sécurité.
+
+15.7. Service de sécurité
+
+15.7.1. L'exploitant doit organiser un service de sécurité. Celui-ci devra être en mesure
+d'assurer une première intervention en cas d'incendie et les premiers secours en cas de malaise.
+
+15.7.2. L'effectif minimal de ce service est de deux personnes présentes en permanence.
+
+15.7.3. Dans les établissements de plus de 100 lits, le service de sécurité est obligatoirement
+composé de deux professionnels de la Sécurité Incendie ayant toutes les qualifications requises.
+
+Art. 16. - Registre de sécurité
+
+Voir dispositions générales.
+
+Art. 17. - Réception et contrôles
+
+L'ensemble des installations techniques et des matériels concourant à la sécurité contre les
+risques d'incendie devront être réceptionnés par un organisme agréé. Avant ouverture au public,
+des rapports spécifiques seront transmis par l'organisme agréé à l’ITM pour visas.
+Ces rapports doivent être disponibles dans l'établissement, être portés à la connaissance du
+service de garde de sécurité et figurer dans le registre de sécurité.
+
+
+
+
+                    Visa du Directeur adjoint                                Mise en vigueur, le 27 février 2009
+                    de l’Inspection du travail
+                           et des mines                                                          s.
+
+                                  s.                                                     Paul WEBER
+                                                                                            Directeur
+                       Robert HUBERTY                                              de l’Inspection du travail
+                                                                                          et des mines
+
+
+
+
+    _____________________________________________________________________________________________________________________
+    Page 9 sur 9 pages                                                                                 ITM-SST 1510.1
+

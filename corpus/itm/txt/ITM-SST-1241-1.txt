@@ -1,0 +1,422 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                          Strassen, 9 février 2015
+
+
+
+                                                                                   ITM-SST 1241.1
+
+
+
+
+           Appareils de levage mobiles à équipement interchangeable
+                             avec marquage « CE »
+
+
+
+                                                 Prescriptions de sécurité types
+
+                                Les présentes prescriptions comportent 8 pages
+
+                                Est aussi applicable la prescription ITM-SST 1230
+
+
+                                                                SOMMAIRE
+
+             Article                                                                                            Page
+
+
+             1.           Objectif et domaine d’application                                                     2
+             2.           Définitions                                                                           2
+             3.           Protection des salariés                                                               3
+             4.           Equipement de l’appareil                                                              3
+             5.           Mise en position de travail de l’appareil                                             3
+             6.           Exploitation de l’appareil                                                            3
+             7.           Appareil dont la zone d'action interfère avec un obstacle                             4
+             8.           Contrôles périodiques de l’appareil                                                   5
+             9.           Dispositions concernant le changement de l’équipement
+                          interchangeable                                                                       5
+             A)           Appareil à crochet                                                                    6
+             B)           Appareil à fourches                                                                   5
+             C)           Appareil à nacelle                                                                    7
+             D)           Appareil à pelle ou godet                                                             8
+
+
+
+
+        _____________________________________________________________________________________________________________________
+        Direction
+        Adresse postale : Boîte postale 27 L- 2010 Luxembourg
+        Bureaux : 3, rue des Primeurs L-2361 Luxembourg Tél : 247-86145   Fax: 40 60 47
+        Site Internet : http://www.itm.etat.lu
+Art. 1er Objectif et domaine d’application.
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les règles de sécurité et de
+santé types à observer lors de l’exploitation et du contrôle d’un appareil de levage mobile
+muni d’un équipement interchangeable et conçu d’après les exigences de la directive
+98/37/CE respectivement 2006/42/CE relative aux machines
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de
+cas en cas par l’Inspection du travail et des mines, selon le cas sur avis d’un organisme de
+contrôle, si des mesures de rechange garantissant une protection au moins équivalente sont
+prises.
+
+
+                              I Définitions et partie générale
+
+Art. 2. - Définitions.
+
+Les définitions suivantes s’appliquent dans le cadre des présentes prescriptions :
+
+2.1. « équipement interchangeable », dispositif qui, après la mise en service d'une machine
+ou d'un tracteur, est assemblé à celle-ci ou à celui-ci par l'opérateur lui-même pour modifier
+sa fonction ou apporter une fonction nouvelle, dans la mesure où cet équipement n'est pas
+un outil.
+
+La machine ou tracteur auquel l’équipement interchangeable est assemblé, peut être une
+pelle mécanique, un élévateur télescopique, un tracteur ou tout autre engin prévu à cette fin.
+
+2.2. « appareil de levage mobile à équipement interchangeable équipé de fourches », tout
+appareil de levage mobile muni d’un équipement interchangeable à fourches au moment du
+levage de charges, dénommé « appareil à fourches » ci-après.
+
+2.3. « appareil de levage mobile à équipement interchangeable équipé d’une nacelle », tout
+appareil de levage mobile muni d’un équipement interchangeable comprenant un habitacle
+prévu pour le levage de personnes, dénommé « appareil à nacelle » ci-après.
+
+2.4. Par « habitacle », on entend l’équipement interchangeable dans lequel prennent place
+les personnes et/ou où sont placées les personnes afin d'être levées ou descendues.
+
+Conformément au point 6.2.1. de l’annexe I de la directive 98/37/CE relative aux machines
+respectivement au point 6.2 de l’annexe I de la directive 2006/42/CE relative aux machines,
+lorsque les exigences de la sécurité n’imposent pas d’autres solutions, l’habitacle doit, en
+règle générale être conçu et construit de façon à ce que les personnes s’y trouvant
+disposent d’organes de commandes des mouvements relatifs de montée, de descente et, le
+cas échéant de déplacement de cet habitacle par rapport à la machine.
+
+Le tracteur ou la machine sur lequel est monté l’habitacle doit satisfaire aux exigences des
+directives précitées pour le levage de personnes.
+
+2.5. « appareil de levage mobile à équipement interchangeable équipé d’un crochet », tout
+appareil de levage mobile muni d’un équipement interchangeable à crochet au moment du
+levage de charges, dénommé « appareil à crochet » ci-après.
+
+2.6. Le support, appelé châssis-porteur, peut se déplacer en phase de travail.
+
+
+
+
+Page 2 sur 8                                                                     ITM-SST 1241.1
+Art. 3. - Protection des salariés
+
+Le cas échéant, le chef de chantier, le coordinateur de sécurité et le conducteur de l’appareil
+et les accrocheurs doivent se concerter sur les consignes de sécurité applicables face à la
+situation de l’appareil sur le chantier et doivent s’assurer que les personnes présentes sur le
+chantier connaissent ces consignes et les ont bien comprises.
+Il en est de même pour les appareils circulant dans une entreprise. Les obligations précitées
+incombent alors à l’employeur.
+
+
+Art. 4. - Equipement de l’appareil
+
+4.1. Le cas échéant, les béquilles de soutènement dépassant les limites extérieures de
+l’appareil doivent être signalisées clairement de jour et de nuit, en fonction de l’entourage,
+lorsqu'elles se trouvent en position de travail.
+
+4.2. Lorsque l’appareil est destiné à circuler dans des endroits avec une mauvaise visibilité, il
+est à munir d’un gyrophare.
+
+
+Art. 5. - Mise en position de travail de l’appareil
+
+5.1. Les abords de travail d’un appareil doivent être tels que la stabilité de l’appareil est
+garantie en tenant compte d’éventuelles fouilles et excavations.
+
+5.2. Toutes les garanties de stabilité et de solidité doivent être données, quelles que soient
+les conditions météorologiques.
+
+5.3. Le cas échéant, les béquilles de soutènement doivent reposer sur un sous-sol stable et
+solide. Si cette condition ne peut être garantie, des selles d'appui doivent être utilisées.
+
+5.4. L’appareil doit être mis en position de travail et être assemblé conformément aux
+instructions de montage du fabricant, de façon à ce que soient données en tout temps toutes
+les garanties de stabilité et de solidité, même lors d'intempéries, telles que vent, tempête,
+gel, givre et neige.
+
+5.5 Le conducteur de l’appareil doit avoir les connaissances requises pour la mise en
+position de travail correcte de l’appareil afin que tous risques de renversement de l’appareil
+dans toutes les configurations de travail possibles soient éliminés.
+
+
+Art. 6.- Exploitation de l’appareil
+
+6.1. La zone de travail et de circulation d’un appareil doit pouvoir être convenablement
+éclairée de nuit.
+
+6.2. Les abords des zones de travail et des passages d’un appareil ne doivent pas être
+encombrés de matériel.
+
+6.3. Lorsque l’appareil dispose d’un moteur à combustion et est destiné à travailler avant tout
+à l’intérieur d’un bâtiment, une analyse concernant la concentration et l’accumulation de gaz
+d’échappement à l’intérieur du bâtiment est à effectuer.
+
+6.4. Le conducteur de l’appareil doit connaître le diagramme de charge de l’appareil et le
+respecter en toute circonstance.
+
+
+
+Page 3 sur 8                                                                     ITM-SST 1241.1
+6.5. Lors du déplacement de l’appareil, le conducteur doit avoir une visibilité suffisante pour
+ne pas mettre en danger les personnes se trouvant dans le champ d’action de l’appareil.
+
+6.6. Le nombre d'interventions d'entretien courant par an est généralement défini par le
+fabricant. Il ne peut être inférieur à 2 interventions d'entretien par an.
+
+
+Art. 7. – Appareil dont la zone d'action interfère avec un obstacle
+
+7.1. L'exploitant est tenu d'arrêter par écrit des consignes afin d'éviter toute collision entre
+l’appareil et des obstacles fixes ou mobiles ainsi que d’entrer dans les zones de sécurité des
+lignes haute-tension. Ces consignes doivent être remises aux utilisateurs de l’appareil et le
+cas échéant à toutes les autres personnes concernées.
+
+Avant que l’appareil ne soit mis en service sur un éventuel chantier de construction, la
+personne responsable du chantier doit s'assurer personnellement que le conducteur et
+toutes les autres personnes concernées connaissent ces consignes et les ont bien
+comprises.
+
+7.2. Lorsque l’appareil doit être mis en place près d’une ligne électrique à haute tension ou à
+tension inconnue, le gestionnaire du réseau électrique, exploitant la ligne en question, doit
+en être informé avant la mise en place de l’appareil. Le cas échéant, le gestionnaire du
+réseau électrique définit une zone ou une distance de sécurité qui doit être respectée.
+La distance ou zone de sécurité précisée par le gestionnaire du réseau électrique doit être
+également respectée en cas de balancement de charges, des moyens de levage et des
+moyens de suspension de charges.
+
+Aucun appareil ne doit être mis en place au-dessus de lignes électriques. Il est interdit de
+mettre un appareil en position de travail en dessous d'une ligne de haute-tension, à moins de
+respecter les distances de sécurité lors de travaux non électrotechniques.
+
+7.3. Aucune charge ne doit être transportée au-dessus de lignes électriques. La distance ou
+zone de sécurité, définie par le gestionnaire du réseau électrique en question, doit être
+respectée. En cas de doute ou en cas de conditions météorologiques réduisant sensiblement
+la distance de sécurité entre l’appareil et la ligne électrique à haute tension (vent, neige,
+glace, haute température, etc.), des mesures pour rétablir la sécurité doivent être prises, si
+nécessaire, le gestionnaire du réseau électrique est à informer. Le cas échéant, les
+personnes aux abords et sur l’appareil doivent se rendre en lieu sûr. Des dispositions pour
+rétablir les conditions de sécurité nécessaires doivent être prises.
+
+7.4. Il est recommandé de pourvoir les conducteurs des appareils dont les zones d'action
+interfèrent d'appareils radio, afin qu'ils puissent communiquer verbalement entre eux.
+
+
+Art. 8. - Contrôles périodiques de l’appareil
+
+8.1 Sont à respecter en sus des dispositions de la prescription ITM-SST 1230, les
+dispositions spécifiques en relation avec l’équipement interchangeable monté. Les
+dispositions les plus restrictives sont à appliquer.
+
+8.2. Lorsque le gestionnaire du réseau électrique a défini une distance ou zone de sécurité
+autour d’une ligne électrique à haute tension, un certificat lui est transmis par l’exploitant,
+attestant le respect ou le non-respect de cette distance ou zone de sécurité.
+
+8.3 Les accessoires de levage, tels par exemples câbles, élingues, les chaînes de
+manutention, les crochets secondaires et dispositifs similaires pour l’amarrage, le
+
+
+Page 4 sur 8                                                                    ITM-SST 1241.1
+soulèvement et le transport des charges doivent être contrôlés et acceptés tous les 12 mois
+par un organisme de contrôle.
+
+
+Art 9. - Dispositions concernant le changement de l’équipement interchangeable.
+
+9.1. Avant le montage d’un équipement interchangeable il est à vérifier si le fabricant de la
+machine a spécialement prévu l’appareil pour cet équipement. Cette vérification doit
+notamment mettre en évidence, le cas échéant, si l’appareil a été conçu pour le levage de
+personnes, le travail avec des fourches ou si l’appareil a été conçu pour pourvoir supporter
+les charges latérales lors de l’utilisation de pelles ou godets.
+
+9.2. Avant l’utilisation de l’équipement interchangeable pour le levage de charges, il est à
+vérifier si les dispositifs de sécurité fonctionnent correctement à savoir notamment les
+dispositifs de surcharge1.
+
+
+
+                                            A) Appareil à crochet
+
+
+Art. 10. - Équipement de l’appareil à crochet
+
+10.1 Le cas échéant, le conducteur doit tenir compte des limites indiquées par un système
+électronique, respectivement du diagramme de charge de l’appareil, et doit couper tout
+mouvement tendant à amener l'appareil dans une position dangereuse (surcharge, risque de
+renversement).
+
+En l'absence d'un système électronique contrôlant la charge et tous les mouvements de
+l’appareil, un graphique de charge doit être placé à proximité immédiate de tous les postes
+de commande.
+Les courbes du graphique de charge indiquent la charge maximale qui peut être déplacée en
+fonction de la portée et de la hauteur donnée.
+
+10.2. Tout crochet de levage simple doit être muni d'un dispositif de sécurité contre le
+décrochage accidentel d'une charge.
+
+10.3. Lorsque l’appareil est équipé de bras de flèche qui peuvent être rapportés
+manuellement (rallonges manuelles), ceux-ci doivent être montés selon les instructions du
+fabricant par une personne qualifiée.
+
+
+Art. 11. - Exploitation
+
+11.1. En principe, la visibilité sur la zone d'action de l’appareil depuis le poste de commande
+de l’appareil doit être garantie en tout temps. Cependant, lorsque le travail à effectuer
+nécessite que la charge soit prise ou déposée en un lieu hors visibilité du conducteur, le
+conducteur doit être guidé par une personne compétente ayant la zone d’action dans son
+champ visuel. La communication doit se faire par un moyen de communication bidirectionnel
+ou par signes gestuels entre le conducteur et la personne compétente.
+
+1
+  Section 4.2.2. de l’annexe I de la directive 2006/42/CE : Contrôle des sollicitations
+Les machines d'une charge maximale d'utilisation au moins égale à 1 000 kg ou dont le moment de renversement est au
+moins égal à 40 000 Nm doivent être équipées de dispositifs avertissant le conducteur et empêchant les mouvements
+dangereux en cas:
+- de surcharge, par dépassement de la charge maximale d'utilisation ou du moment maximal d'utilisation dû à la charge,
+ou
+- de dépassement du moment de renversement.
+Page 5 sur 8                                                                                      ITM-SST 1241.1
+11.2. Aucune zone ne doit être balayée par des charges transportées par l’appareil lorsqu'on
+ne s'est pas assuré que cette zone est libre de toute personne.
+
+11.3. La manutention d'objets de grande surface doit être arrêtée lorsque la vitesse du vent
+dépasse la vitesse limite fixée par le fabricant de l’appareil (en tenant compte de la
+configuration de l’appareil) mais au plus tard lorsque la vitesse du vent dépasse 60 km/h.
+
+11.4. Tout travail avec l’appareil doit être arrêté lorsque la vitesse de vent dépasse la vitesse
+fixée par le fabricant de l’appareil (en tenant compte de la configuration de l’appareil) en
+tenant compte du paragraphe ci-dessus.
+Si le fabricant n’a pas prévu une limitation, cette limite est fixée à une vitesse du vent de 72
+km/h.
+
+11.5. Il est interdit de soulever, en fonction de la portée de travail, des charges plus lourdes
+que celles prévues par le fabricant de l’appareil.
+
+
+Art. 12. - Contrôles périodiques de l’appareil à crochet
+
+Outre les vérifications prévues lors du premier contrôle périodique dans la prescription ITM-
+SST 1230, une vérification portant sur l'intégralité et la conformité des graphiques de charge
+est à effectuer.
+
+
+
+                                           B) Appareil à fourches
+
+
+
+Art. 13. - Exploitation
+
+13.1. Lors d’un déplacement, les fourches sont à abaisser dans la mesure du possible afin
+d’abaisser le centre de gravité de l’appareil avec sa charge.
+
+13.2. Lorsque la charge sur les fourches obstrue la vue du conducteur, l’appareil doit être
+conduit en marche arrière.
+
+13.3. La visibilité sur la zone d’action et sur l’aire de circulation de l’appareil doit être garantie
+en tout temps.
+
+13.4 Le cas échéant, le conducteur doit tenir compte des limites indiquées par un système
+électronique, respectivement du diagramme de charge de l’appareil, et doit couper tout
+mouvement tendant à amener l'appareil dans une position dangereuse (surcharge, risque de
+renversement).
+
+En l'absence d'un système électronique contrôlant la charge et tous les mouvements de
+l’appareil, un graphique de charge doit être placé à proximité immédiate de tous les postes
+de commande.
+Les courbes du graphique de charge indiquent la charge maximale qui peut être déplacée en
+fonction de la portée et de la hauteur donnée.
+
+
+Art. 14. - Contrôles périodiques de l’appareil à crochet
+
+14.1. Outre les vérifications prévues lors du premier contrôle périodique dans la prescription
+ITM-SST 1230, une vérification portant sur l'intégralité et la conformité des graphiques de
+charge est à effectuer.
+
+Page 6 sur 8                                                                         ITM-SST 1241.1
+                                    C) Appareil à nacelle
+
+
+Art. 15. – Exploitation de l’appareil
+
+15.1. Pendant la manipulation de l’appareil, le conducteur de l’appareil de levage ainsi que
+toute autre personne dans l’habitacle doivent être attachées, moyennant un harnais de
+sécurité, selon le résultat de l’évaluation des risques qui a déterminé un risque de chute en
+dehors de l’habitacle comme risque plus important que d’autres risques éventuels en relation
+avec le port du harnais de sécurité.
+
+15.2. L’utilisation de l’appareil est interdite, lorsque la vitesse du vent dépasse la vitesse
+fixée par le fabricant, mais au plus tard lorsque la vitesse du vent dépasse 60 km/h ainsi que
+lors de rafales fréquentes ou lors du risque d’orages.
+
+15.3. En toute situation il doit pouvoir être possible de ramener l’habitacle de l’appareil dans
+une position où il est possible de libérer les passagers.
+
+15.4. La zone en dessous de l’habitacle est à définir et à délimiter comme zone dangereuse
+où l’accès est interdit. Si l’accès à cette zone est indispensable, des mesures doivent être
+prises pour éviter la chute d’objets en dehors de l’habitacle.
+
+15.5. Lorsque des travaux sur des lignes électriques doivent être exécutés à partir de
+l’habitacle, l’appareil doit être spécialement conçu par le fabricant pour ce genre de travaux.
+
+
+Art. 16. – Contrôles périodiques de l’appareil
+
+16.1. L’appareil doit être soumis à des contrôles périodiques par un organisme de contrôle.
+
+Lorsque l’appareil est utilisé pour le levage de personnes, et le levage de charges par
+crochet ou fourches, un contrôle périodique est à effectuer tous les 6 mois.
+
+Lorsque l’appareil est utilisé pour le levage de personnes et le travail avec un godet ou une
+pelle, un contrôle périodique est à effectuer tous les 4 mois.
+
+16.2. Pour les appareils moins utilisés, cette échéance peut être allongée par l’Inspection du
+travail et des mines, jusqu’à une année sur demande motivée.
+
+
+
+
+Page 7 sur 8                                                                    ITM-SST 1241.1
+                                D) Appareil à pelle ou godet
+
+
+Art. 17 - Appareil uniquement utilisé avec pelle ou godet
+
+Sans préjudice des utilisations conformément aux chapitres A) à C) l’appareil à équipement
+interchangeable muni d’une pelle ou godet n’est pas considéré comme appareil de levage
+suivant le règlement grand-ducal du 10 mai 2012 portant nouvelles nomenclature et
+classification des établissements classés.
+De ce fait, concernant les présentes prescriptions, il n’existe pas de conditions d’exploitation
+particulières pour l’appareil muni d’une pelle ou godet, et utilisé uniquement dans cette
+configuration.
+
+
+
+                                        Mise en vigueur
+                                        le 9 février 2015
+
+                                                s.
+
+                                           Marco BOLY
+                                           Directeur f.f.
+                                    de l’Inspection du travail
+                                           et des mines
+
+
+
+
+Page 8 sur 8                                                                    ITM-SST 1241.1
+

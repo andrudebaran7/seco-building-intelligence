@@ -1,0 +1,275 @@
+GRAND-DUCHE DE LUXEMBOURG                                                        Strassen, le 31 août 2017
+
+
+
+
+                                                                         N° ITM-SST 1212.2
+
+
+
+                Conditions d’exploitation supplémentaires pour
+               ascenseurs ou plateformes servant au transport de
+                                   voitures
+                                   Avec ou sans marquage « CE » de conformité
+
+
+
+
+                                               Prescriptions de sécurité types
+
+                                        Le présent document comporte 5 pages
+
+
+                                                         Sommaire
+
+       Article                                                                                   Page
+
+
+        1.                              Prescriptions applicables                                   2
+
+        2.                              Bases légales                                               2
+
+        3.                              Résistance                                                  3
+
+        4.                              Evacuation                                                  4
+
+        5.                              Gaz toxiques                                                5
+
+        6.                              Propulsion des voitures transportées                        5
+
+        7.                              Instructions de service                                     5
+
+
+
+
+       Inspection du travail et des mines
+       Adresse postale:        B.P. 27                   L-2010 Luxembourg               Tel.: +352 247-76100
+       Bureaux:                3, rue des Primeurs       L-2361 Strassen                 Fax: +352 247-96100
+       Site internet:          http://www.itm.lu
+Article 1 - Prescriptions applicables
+
+Lors de la mise sur le marché ou mise en service d’un ascenseur ou d’une plateforme, la
+législation actuellement applicable est à respecter. Les citations des législations relatives à la
+mise sur le marché abrogées et remplacées sont applicables au cas où ces installations ont
+été mises sur le marché ou en service sous ces législations.
+
+La différentiation de l’appareil en tant qu’ascenseur ou plateforme a comme base la définition
+de l’ascenseur figurant dans la directive 2006/42/CE relative aux machines qui prévoit que
+les appareils comportant un habitacle se déplaçant avec plus de 0,15 m/s sont à considérer
+comme ascenseurs. (voir la prescription ITM-SST 2224)
+
+Les ascenseurs pour voitures sont soumis au cas par cas à la prescription
+
+    -   ITM-CL 30 pour les ascenseurs qui ne sont pas munis du marquage « CE » de
+        conformité,
+
+respectivement à la prescription
+
+    -   ITM-SST 1203 pour les ascenseurs munis du marquage « CE » de conformité.
+
+Les plateformes sont soumises au cas par cas à la prescription
+
+        -   ITM-SST 1204 Appareils élévateurs à plateforme pour personnes mis sur le
+            marché avant 1995,
+
+respectivement aux prescriptions suivantes à appliquer conjointement :
+
+        -   ITM-SST 1230 Appareils de levage conçus d'après la directive 98/37/CE
+            respectivement d'après la directive 2006/42/CE relatives aux machines (avec
+            marquage « CE »)
+        -   ITM-SST 1242 Appareils élévateurs à plateforme ou à chaise pour personnes
+            avec marquage « CE »
+
+
+Article 2 – Bases légales
+
+2.1 En ce qui concerne les ascenseurs:
+
+En application du point (3) des remarques préliminaires de l’annexe I du règlement grand-
+ducal modifié du 25 octobre 1999 relatif aux ascenseurs faisant transposition de la directive
+95/16/CE respectivement de la loi du 27 mai 2016 concernant les ascenseurs et les
+composants de sécurité pour ascenseurs faisant transposition de la directive 2014/33/UE,
+qui dispose que:
+
+        -   le fabricant du composant de sécurité et l'installateur de l'ascenseur ont
+            l'obligation d'effectuer une analyse des risques afin de rechercher tous les risques
+            qui s'appliquent à leur produit; ils doivent, ensuite, le concevoir et le construire, en
+            prenant en compte cette analyse;
+
+une analyse des risques est à établir en ce qui concerne les risques inhérents à la présence
+d’une voiture dans la cabine de l’ascenseur.
+Il doit être pris compte de cette analyse lors de la conception de l’ascenseur, sans préjudice
+des présentes prescriptions.
+
+
+
+page 2 de 5 pages                                                                    ITM-SST 1212.2
+Les exigences des présentes prescriptions ne constituent pas des éléments supplémentaires
+aux exigences essentielles de sécurité et de santé relatives à la conception et la construction
+des ascenseurs et de leurs composants de sécurité repris à l’annexe I du règlement
+grand-ducal du 25 octobre 1999 relatif aux ascenseurs, respectivement de la loi du 27 mai
+2016 concernant les ascenseurs et les composants de sécurité pour ascenseurs.
+
+En plus, les présentes mesures sont d’application dans le cadre du point 1.1.2 b) de l’annexe
+I de la loi modifiée du 27 mai 2010 relative aux machines [respectivement du point 1.1.2 b)
+de l’annexe I du règlement grand-ducal modifié du 8 janvier 1992 relatif aux machines] ainsi
+qu’en application du point 1.1 de l’annexe I du règlement grand-ducal du 25 octobre 1999
+relatif aux ascenseurs, respectivement de la loi du 27 mai 2016 concernant les ascenseurs
+et les composants de sécurité pour les ascenseurs disposant:
+        « Lorsque le risque correspondant existe et n'est pas traité dans la présente annexe,
+        les exigences essentielles de santé et de sécurité de l'annexe I du règlement grand-
+        ducal du 8 janvier 1992 relatif aux machines s'appliquent. En tout état de cause,
+        l'exigence essentielle visée au point 1.1.2 de l'annexe I du règlement précité
+        s'applique.1 »
+
+2.2 En ce qui concerne les plateformes
+
+Conformément au point 1 des principes généraux de l’annexe I de la loi modifiée du 27 mai
+2010 relative aux machines [respectivement au dernier alinéa des remarques préliminaires
+de l’annexe I du règlement grand-ducal modifié du 8 janvier 1992 relatif aux machines], une
+analyse des risques est à effectuer.
+
+Les exigences des présentes prescriptions ne constituent pas des éléments supplémentaires
+aux exigences essentielles de sécurité et de santé relatives à la conception et la construction
+d’une plateforme de l’annexe I des législations précitées.
+
+
+Article 3 - Résistance
+
+3.1 En ce qui concerne les ascenseurs :
+
+Le point 1.2 de l’annexe I du règlement grand-ducal modifié du 25 octobre 1999 relatif aux
+ascenseurs, respectivement de la loi du 27 mai 2016 concernant les ascenseurs et les
+composants de sécurité pour ascenseurs prévoit que la cabine doit être conçue et construite
+pour offrir l'espace et la résistance correspondant au nombre maximal de personnes et à la
+charge nominale de l'ascenseur fixés par l'installateur. »
+
+3.2 En ce qui concerne les plateformes :
+
+Le point 6.1.1 de l’annexe I de la loi modifiée du 27 mai 2010 relative aux machines prévoit :
+
+      « L'habitacle, y compris les trappes, doit être conçu et construit de façon à offrir
+      l'espace et la résistance correspondant au nombre maximal de personnes pouvant se
+      trouver dans l'habitacle et à la charge maximale d'utilisation ».
+
+3.3 Mesures à appliquer :
+
+Des mesures spécifiques doivent être prises pour éviter tout endommagement de l’habitacle,
+et notamment des portes, par une voiture, endommagement qui pourrait compromettre le
+
+1 La référence au règlement grand-ducal du 8 janvier 1992 relatif aux machines s’applique tacitement
+
+aussi à la loi du 27 mai 2010 relative aux machines.
+
+page 3 de 5 pages                                                                     ITM-SST 1212.2
+fonctionnement des dispositifs de sécurité ou la cinétique de l’habitacle, et notamment
+l’adhérence de l’habitacle aux guides se trouvant dans la gaine.
+
+Ces mesures peuvent comporter notamment :
+
+    -     soit une résistance accrue des parois, des portes de l’habitacle respectivement des
+          portes palières afin de pouvoir résister suffisamment à des chocs d’une voiture en
+          mouvement ;
+    -     soit des dispositifs rendant un choc d’une voiture contre les parois de l’habitacle plus
+          difficile, voir impossible ;
+    -     soit une combinaison des deux possibilités.
+
+
+Article 4 - Evacuation
+
+4.1 En ce qui concerne les ascenseurs :
+
+En application du point 4.4 de l’annexe I du règlement grand-ducal du 25 octobre 1999 relatif
+aux ascenseurs, respectivement de la loi du 27 mai 2016 concernant les ascenseurs et les
+composants de sécurité pour ascenseurs, disposant:
+
+         « 4.4 Les ascenseurs doivent être équipés de moyens permettant de dégager et
+        d'évacuer les personnes retenues dans la cabine »,
+
+des mesures spécifiques doivent être mises en œuvre afin de pouvoir évacuer les occupants
+de la voiture transportée. Ces mesures sont à comprendre en supplément des mesures
+permettant de dégager et d’évacuer les personnes retenues dans la cabine.
+
+Les dimensions maximales d’une voiture admissible doivent être affichées à l’entrée de
+l’ascenseur.
+
+4.2 En ce qui concerne les plateformes :
+
+En application du point 1.5.14. de l’annexe I de la loi modifiée du 27 mai 2010 relative aux
+machines, les plateformes servant au transport de voitures occupées par des personnes
+doivent être conçues, construites ou équipées de moyens empêchant qu'une personne
+puisse y être enfermée ou, si cela n'est pas possible, de façon à ce que cette personne
+puisse demander de l'aide.
+
+Cette condition peut être notamment remplie par un habitacle ayant une largeur suffisante
+pour permettre aux passagers de sortir de la voiture vers les deux côtés.
+
+S’il n’est pas possible aux passagers de sortir de la voiture côté passager, ils, doivent quitter
+la voiture avant que la voiture ne monte sur la plateforme. Un avertissement y relatif doit être
+affiché dans aux moins les langues allemande et française.
+
+Les dimensions maximales d’une voiture admissible doivent être affichées à l’entrée de la
+plateforme.
+
+
+
+
+page 4 de 5 pages                                                                  ITM-SST 1212.2
+Article 5 – Gaz toxiques
+
+5.1. Pour les ascenseurs :
+
+En application du point 4.7. de l’annexe I du règlement grand-ducal du 25 octobre 1999
+relatif aux ascenseurs, respectivement de la loi du 27 mai 2016 concernant les ascenseurs
+et les composants de sécurité pour ascenseurs, disposant:
+
+      « 4.7 Les cabines doivent être conçues et construites pour assurer une aération
+      suffisante aux passagers, même en cas d'arrêt prolongé »,
+
+des mesures doivent être prises pour éviter l’asphyxie ou une intoxication des occupants des
+voitures dues à la présence de gaz asphyxiants et/ou toxiques, telles que notamment du
+monoxyde ou dioxyde de carbone émanant du moteur d’une voiture dont le moteur n’est pas
+en arrêt.
+
+Ces mesures peuvent comporter une aération ou une ventilation suffisante pour éviter
+l’accumulation de gaz asphyxiants ou toxiques dans la cabine de l’ascenseur respectivement
+l’obligation d’apposer un avertissement exigeant de couper le moteur.
+
+
+5.2 Pour les plateformes :
+
+Par analogie au point 1.1.7 de l’annexe I de la loi modifiée du 27 mai 2010 relative aux
+machines, les plateformes doivent être conçues et construites de manière à éviter tout risque
+dû aux gaz d'échappement provenant des voitures transportées respectivement au manque
+d'oxygène.
+
+
+Article 6 – Propulsion des voitures transportées
+
+Le transport de voitures propulsées par du gaz (par exemple du gaz de pétrole liquéfié (LPG
+/ GPL), du gaz naturel ou de l’hydrogène) est interdit avec des ascenseurs ou des
+plateformes, à moins que ces ascenseurs ou ces plateformes ne soient spécialement conçus
+pour être exploités en atmosphère explosible et que les lieux de circulation (souterrains) et
+de garage (souterrains) de ces voitures permettent l’accès de telles voitures.
+
+
+Article 7 – Instructions de service
+
+L’installateur, respectivement le fabricant de l’ascenseur ou de la plateforme doit donner des
+instructions précises d’utilisation ainsi que des instructions à appliquer en cas de danger ou
+d’urgence.
+
+
+                                      Mise en vigueur
+                                      le 31 août 2017
+
+                                              s.
+
+                                         Marco BOLY
+                                           Directeur
+                                  de l’Inspection du travail
+                                         et des mines
+
+
+page 5 de 5 pages                                                               ITM-SST 1212.2
+

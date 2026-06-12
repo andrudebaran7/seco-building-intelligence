@@ -1,0 +1,1995 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                        Strassen, octobre 2009
+
+
+
+
+                                                                                        Ancien N° ITM-ET 36.3
+
+                                                                                        ITM-SST 1804.1
+
+
+
+                                                   Stations d'épuration
+
+
+                                               Prescriptions de sécurité types
+                                               U
+
+
+
+
+                                              Le présent document comporte 40 pages
+
+
+    Article                                                                                                            Page
+
+     1.                 Objectif et domaine d'application                                                                3
+     2.                 Définitions                                                                                      3
+     3.                 Législation, normes et règles techniques                                                         4
+     4.                 Construction                                                                                     4
+     5.                 Circulation interne                                                                              7
+     6.                 Installations électriques                                                                        8
+     7.                 Ventilation, aération et chauffage                                                               9
+     8.                 Eclairage                                                                                       10
+     9.                 Protection et lutte contre l'incendie                                                           14
+    10.                 Risque d'atmosphères explosives                                                                 16
+    11.                 Voies et issues de secours                                                                      17
+    12.                 Locaux de repos, réfectoires                                                                    19
+    13.                 Hygiène                                                                                         19
+    14.                 Protection des salariés                                                                         24
+    15.                 Zones de danger                                                                                 26
+    16.                 Signalisation de sécurité                                                                       29
+    17.                 Machines et équipements de travail                                                              29
+    18.                 Empilage et emmagasinage                                                                        30
+    19.                 Agents chimiques dangereux                                                                      31
+    20.                 Agents biologiques                                                                              32
+
+
+
+          _____________________________________________________________________________________________________________________
+          Direction
+          Adresse postale : Boîte postale 27 L-2010 Luxembourg
+          Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-1   Fax: 40 60 47
+          Site Internet : http://www.itm.lu
+21.           Boues d'épuration et autres déchets d'origine des eaux usées                           32
+22.           Atmosphère des lieux de travail                                                        33
+23.           Gaz d'épuration                                                                        34
+24.           Cogénération                                                                           34
+25.           Premiers soins                                                                         34
+26.           Exploitation                                                                           35
+27.           Registres                                                                              35
+28.           Rapport de réception et de contrôle                                                    36
+
+
+
+
+Annexe I « Plan d’hygiène » et « Plan de protection pour la peau »................................ 37
+
+Annexe II « Exemples de zones présentant un danger » et « Exemples de
+          mesures de protection contre le risque d’explosion » ...................................... 38
+
+
+
+
+page 2 de 40 pages                                                                         ITM-SST 1804.1
+Art.: 1er - Objectif et domaine d'application
+
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité, de santé, d'hygiène, de salubrité et de commodité par rapport au personnel des
+stations d’épuration.
+
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si sont prises des mesures de rechange présentant des garanties de
+sécurité au moins équivalentes.
+
+Art.: 2 - Définitions
+
+2.1. Sous la dénomination "salariés" sont à comprendre tous les salariés tels que définis dans
+le code du travail, ainsi que les stagiaires, les apprentis et les élèves et étudiants occupés
+pendant les vacances scolaires.
+
+2.2. Sous la dénomination "organismes de contrôle" sont à comprendre les organismes tels
+que définis dans le code du travail, Livre VI, Titre premier.
+
+2.3. Sous la dénomination "lieux de travail" est à comprendre un poste de travail fixe et ses
+alentours directs.
+
+2.4. Sous la dénomination "lieux d’activités" est à comprendre tout autre endroit où une
+activité a lieu occasionnellement (p.ex. des mesurages, des activités de nettoyage ou
+d’entretien, contrôles, etc.).
+
+2.5. Sous la dénomination "station d’épuration", et au sens de la présente prescription, sont
+entendues les installations servant à la dépollution des eaux usées communales avant rejet en
+cours d'eau. De la même façon, en tant que station d'épuration selon la présente prescription,
+seront entendues les installations servant au traitement d'eaux usées industrielles, lorsque ces
+installations fonctionnent selon le même principe que les stations d'épuration
+communales/publiques (p.ex. des installations de traitement d'eaux usées provenant de
+l'industrie agro-alimentaire).
+Ne sont donc pas entendues comme stations d'épuration au sens de la présente prescription,
+les installations suivantes :
+       •   les fosses septiques et les petites stations d'épurations privées
+       •   les installations de traitement des eaux usées par macrophytes
+       •   les installations de traitement d'eaux usées industrielles contenant des substances
+           toxiques (p.ex. métaux lourds)
+
+2.6. Dans le cadre de cette prescription, les stations d’épuration sont différenciées :
+       •   catégorie A : installations avec postes de travail fixes
+       •   catégorie B : installations sans postes de travail fixes
+
+
+
+
+page 3 de 40 pages                                                                  ITM-SST 1804.1
+2.7. Sous la dénomination "enceintes confinées" sont à comprendre toutes zones avec des
+parois rigides où les échanges d’air sont limités, pour lesquelles un danger peut exister ou
+peut apparaître (p.ex. manque en oxygène, apparition de gaz toxiques) du fait de leurs faibles
+dimensions respectivement du fait de produits y stockés, préparation et activités y réalisées.
+
+Art.: 3. - Législation, normes et règles techniques
+
+3.1. L'exploitant doit se conformer au code du travail.
+
+3.2. Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à
+appliquer lors de la conception, de la réalisation et de l'exploitation de la station d’épuration
+sont en particulier les présentes prescriptions et en général les normes et règles techniques
+nationales appliquées dans les pays de la Communauté Européenne, ou alors celles reconnues
+comme équivalentes par l'Inspection du Travail et des Mines.
+
+3.3. Sont d'application les normes européennes (E.N.), au fur et à mesure qu'elles paraissent et
+remplacent les diverses normes nationales.
+
+Art.: 4. - Construction
+
+4.1. Les bâtiments, les lieux de travail et les installations de service doivent être conçus,
+construits et aménagés de façon à éviter les accidents et les maladies professionnelles. Les
+installations précitées sont à mettre hors d'usage lorsqu'elles présentent des défauts mettant en
+danger la sécurité ou la santé du personnel y travaillant.
+
+4.2. Tous les éléments constitutifs doivent présenter une résistance mécanique suffisante et
+être protégés contre d'éventuels chocs (p.ex. de véhicules).
+
+4.3. Les abords des machines, des cuves, des bassins et les passages entre ces installations ne
+doivent pas être encombrés de matériel.
+
+4.4. Les cuves, canaux ouverts, bassins de traitement des eaux polluées ainsi que les silos des
+boues d’épuration, etc., doivent être protégés de façon à ce que ni les salariés ni des tierces
+personnes ne puissent y tomber.
+
+4.5. Des moyens de sauvetage (p.ex. bouée de sauvetage), bien signalés et aisément
+accessibles, doivent se trouver près des cuves et bassins. Des possibilités de sorties doivent
+être aménagées au niveau des canaux, cuves, bassins, etc.
+4.6 Les personnes se trouvant dans l’établissement doivent être protégées par un système de
+protection intérieur et extérieur contre les décharges atmosphériques (paratonnerre) sous
+condition qu’une étude exige une telle protection.
+Cette étude est à réaliser conformément aux prescriptions et normes reprises dans la
+prescription de sécurité type ITM-CL 358 "Blitzschutz" (Nouveau N° ITM-SST 1106.1), la
+version la plus récente en vigueur.
+
+4.7. Les parois transparentes ou translucides (notamment les parois entièrement vitrées dans
+les locaux ou au voisinage des postes de travail et des voies de circulation) doivent être
+clairement signalées et être constituées de matériaux de sécurité ou bien être séparées des
+postes de travail et voies de circulation de telle façon que les salariés ne puissent ni se cogner
+contre ces parois ni être blessés lorsqu'elles volent en éclat.
+
+
+
+
+page 4 de 40 pages                                                                 ITM-SST 1804.1
+4.8. Les obstacles, saillies et voûtes de faible hauteur (moins de 2,20 m) sont à peindre en
+couleurs vives et fortement contrastées.
+
+4.9. Le sol doit être uni, imperméable et très difficilement inflammable.
+
+4.10. Les planchers des locaux doivent être exempts de bosses, de trous ou de plans inclinés
+dangereux; ils doivent être fixes, stables et non glissants.
+
+4.11. Les surfaces des planchers, des murs et des plafonds doivent être de nature à pouvoir
+être nettoyées et ravalées pour obtenir des conditions d'hygiène appropriées.
+
+4.12. Les endroits accessibles présentant des risques de chute doivent être protégés par des
+garde-corps d'une hauteur de 1 m, munis d'une lisse intermédiaire à 0,40 ou 0,50 m du sol et
+d'une plinthe.
+
+4.13. Les échelles fixes dont la hauteur dépasse 5 m doivent être munies de crinolines de
+sécurité ou d'un rail de fixation de harnais.
+
+4.14. Les installations contenant des agents chimiques dangereux doivent être pourvues d'un
+système de collecte conçu de façon à ce que les huiles, l'essence, le pétrole, les solvants, etc.,
+soient recueillis par un ou plusieurs séparateurs d'hydrocarbures appropriés convenablement
+dimensionnés.
+
+4.15. Les échelles fixes doivent être munies au moins tous les 10 m, de paliers.
+
+4.16. Les séparateurs d'hydrocarbures doivent pouvoir être vidés et nettoyés facilement.
+
+4.17. Toutes les conduites transportant des gaz ou des fluides doivent être marquées ou
+peintes suivant les prescriptions allemandes (DIN 2403) et doivent porter les indications
+prévues par le règlement grand-ducal concernant la signalisation de sécurité.
+
+4.18. Les ateliers de construction et de réparation de véhicules à moteur à combustion interne
+ou d'engins similaires doivent disposer d'un ou de plusieurs dispositifs d'évacuation des gaz
+d'échappement, auxquels sont à raccorder les tuyaux d'échappement des moteurs ou appareils
+qui doivent être mis en marche dans les ateliers pour essais et réglage.
+
+4.19. Les ateliers et leurs dépendances sont à séparer de tous locaux habités et de leurs accès
+par des murs, cloisons, plafonds, planchers pleins en briques, en béton ou en une autre matière
+présentant un degré de résistance coupe-feu de 90 minutes. Seules des portes à fermeture
+automatique, résistantes au feu (d'un degré de 90 minutes) et étanches à la fumée peuvent être
+établies dans ces murs et cloisons.
+
+4.20. Les lieux de travail doivent être à l'abri de courants d'air et doivent présenter une
+isolation thermique suffisante, compte tenu du type d'entreprise et de l'activité physique des
+salariés.
+
+4.21. Les lieux de travail et les lieux d’activités (voies de passage, planchers, escaliers,
+passerelles, etc.), doivent être conçus et construits de façon à présenter toute sécurité; ils
+doivent être maintenus dans un état offrant toute sécurité.
+
+
+
+
+page 5 de 40 pages                                                                 ITM-SST 1804.1
+4.22. Les locaux fermés qui sont affectés au travail ne peuvent avoir une hauteur inférieure à
+2,50 m et doivent contenir au moins 12 m³ d'air par personne employée.
+
+4.23. Les portes pouvant servir en cas d'évacuation d'urgence doivent s'ouvrir dans la
+direction de fuite.
+
+4.24. Les portes situées sur le parcours des voies de secours doivent être marquées de façon
+appropriée.
+
+4.25. Elles doivent pouvoir être ouvertes à tout moment de l'intérieur sans aide spéciale.
+
+4.26. La position, le nombre, les matériaux de réalisation et les dimensions des portes et
+portails sont déterminés par la nature et l'usage des pièces ou enceintes confinées, ainsi que
+par le nombre de personnes pouvant se trouver dans ces pièces ou enceintes confinées.
+
+4.27. Un marquage doit être apposé à hauteur de vue sur les portes transparentes.
+
+4.28. Les portes et les portails battants doivent être transparents ou posséder des panneaux
+transparents, si possible anti-réflectifs.
+
+4.29. Les surfaces transparentes ou translucides des portes et portails qui ne sont pas
+constitués en matériel de sécurité ou lorsqu'il est à craindre que les salariés puissent être
+blessés lors d'un bris de glace, doivent être protégées contre l'enfoncement.
+
+4.30. Les portes coulissantes doivent posséder un système de sécurité les empêchant de sortir
+de leurs rails et de tomber.
+
+4.31. Les portes et les portails s'ouvrant vers le haut doivent posséder un système de sécurité
+les empêchant de retomber.
+
+4.32. A proximité immédiate des portails et entrées destinés essentiellement à la circulation
+des véhicules, sont à prévoir (à moins que le passage ne soit protégé pour les piétons) des
+portes pour la circulation des piétons, lesquelles doivent être signalées de manière bien visible
+et rester dégagées en permanence.
+
+4.33. Les portes et portails mécaniques doivent fonctionner sans risques d'accident pour les
+salariés.
+
+4.34. Ils doivent posséder des dispositifs d'arrêt d'urgence facilement identifiables comme tels,
+facilement accessibles et pouvoir également être ouverts manuellement sauf s'ils s'ouvrent
+automatiquement en cas de panne d'énergie.
+
+4.35. Un espace libre d'au moins deux fois deux mètres de surface sera réservé devant chaque
+sortie à l'intérieur de l'établissement.
+
+4.36. Si une porte s'ouvre sur un escalier, celui-ci doit être précédé d'un palier d'une
+profondeur de 1 m au moins.
+
+4.37. Les escaliers sont à munir de mains courantes solides, si possible de chaque côté.
+
+4.38. Les escaliers et trottoirs roulants doivent garantir toutes les conditions de sécurité et
+doivent fonctionner de manière sûre.
+
+
+
+
+page 6 de 40 pages                                                                ITM-SST 1804.1
+4.39. Ils doivent être équipés des dispositifs de sécurité nécessaires.
+
+4.40. Ils doivent posséder des dispositifs d'arrêt d'urgence facilement identifiables et
+facilement accessibles.
+
+4.41. Les quais de chargement doivent posséder au moins une issue.
+
+4.42. Les quais et les rampes de chargement doivent être appropriés en fonction des
+dimensions des charges transportées.
+
+4.43. Les quais de chargement dépassant vingt mètres doivent posséder une issue à chaque
+extrémité.
+
+4.44. Les rampes de chargement doivent offrir une sécurité telle que les salariés ne puissent
+chuter.
+
+4.45. L'accès sur les toits en matériaux n'offrant pas une résistance suffisante ne peut être
+autorisé que si des équipements sont fournis pour que le travail soit réalisé de manière sûre.
+
+4.46. Le cas échéant les lieux de travail doivent être aménagés en tenant compte de salariés
+handicapés.
+Cette disposition s'applique notamment aux portes, voies de communication, escaliers,
+douches, lavabos, cabinets d'aisance et lieux de travail utilisés ou occupés directement par des
+salariés handicapés.
+
+4.47. Le site de la station d’épuration est à clôturer pour éviter que des personnes non
+autorisées n’y accèdent.
+
+Art.: 5. - Circulation interne
+
+5.1. Les voies de circulation, y compris les escaliers, les échelles fixes, les quais et rampes de
+chargement, doivent être placées et calculées de telle façon que des piétons ou des véhicules
+puissent les utiliser facilement en toute sécurité et conformément à leur affectation, et que les
+salariés employés à proximité de ces voies de circulation ne courent aucun risque.
+
+5.2. Le calcul des dimensions des voies servant à la circulation de personnes et de
+marchandises doit dépendre du nombre potentiel d'utilisateurs, du type d'entreprise, des
+caractéristiques des véhicules les empruntant et des charges à transporter.
+
+5.3. Lorsque des moyens de transport sont utilisés sur des voies de circulation, une distance de
+sécurité suffisante doit être prévue pour les piétons.
+
+5.4. Les voies de circulation destinées aux véhicules doivent passer à une distance suffisante
+des portes, portails, passages pour piétons, couloirs et escaliers.
+
+5.5. Le tracé des voies de circulation doit être mis en évidence pour assurer la protection des
+salariés.
+
+5.6. Les voies de circulation doivent être protégées contre la chute de charges déplacées
+régulièrement au-dessus de ces voies.
+
+
+
+
+page 7 de 40 pages                                                                 ITM-SST 1804.1
+5.7. La circulation de véhicules routiers doit être réglée suivant la signalisation prévue par le
+Code de la Route.
+
+Art.: 6. - Installations électriques
+
+6.1. Les installations de production, de distribution, de transport et de transformation d'énergie
+électrique ainsi que leurs annexes doivent être conçues, réalisées, entretenues et exploitées
+conformément aux normes, prescriptions et directives de sécurité, de même qu'aux règles de
+l'art, de la sécurité et de l'hygiène normalement applicables dans le Grand-Duché de
+Luxembourg, à savoir :
+         •   aux prescriptions allemandes afférentes DIN/VDE,
+         •   aux normes européennes CENELEC, au fur et à mesure que celles-ci paraissent et
+             remplacent les prescriptions DIN/VDE précitées,
+         •   aux prescriptions de raccordement pour les installations à courant fort disposant
+             d’une tension nominale inférieure ou égale à 1.000 V au Grand-Duché de
+             Luxembourg (TAB-BT),
+         •   aux prescriptions de raccordement pour les postes à moyenne tension au Grand-
+             Duché de Luxembourg (TAB-MT),
+         •   aux règlements communaux pour certaines villes du Grand-Duché de
+             Luxembourg.
+
+6.2. Les installations électriques sont à maintenir continuellement en bon état d'entretien, de
+sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les défectuosités et
+anomalies constatées.
+
+6.3. L'entretien régulier des installations électriques doit être assuré par un personnel qualifié
+et expérimenté. L'exploitant est responsable, soit de s'assurer que les intéressés ont acquis les
+aptitudes nécessaires, soit de faire mettre en œuvre les instructions, formations et formations
+continues requises.
+
+6.4. L'entretien doit s'effectuer dans le strict respect des règles de la sécurité au travail et les
+aménagements, équipements et moyens de sécurité doivent être prévus en conséquence.
+
+6.5. Lors des travaux de montage, d'entretien ou de réparation des installations électriques,
+toutes mesures efficaces doivent être prises pour protéger les salariés contre tout risque
+d'accident ou toute atteinte à la santé.
+
+6.6. Le personnel chargé d'effectuer des travaux aux installations électriques doit être formé et
+avoir la connaissance des précautions à prendre pour éviter les dangers de l'électricité et doit
+disposer du matériel et des équipements de sécurité nécessaires pour sa propre protection et
+pour l'exécution des travaux. L'exécution des travaux doit être placée sous la surveillance
+permanente d'un responsable.
+
+6.7. Pour empêcher la mise sous tension, soit accidentellement, soit par inadvertance, d'une
+installation électrique sur laquelle sont effectués des travaux, toutes précautions appropriées
+doivent être prises.
+
+
+
+
+page 8 de 40 pages                                                                  ITM-SST 1804.1
+6.8. Dans les locaux de travail où sont traitées, fabriquées ou entreposées des matières
+susceptibles de prendre feu presque instantanément au contact d'une flamme ou d'une étincelle
+et de propager rapidement l'incendie, les canalisations et appareils électriques doivent être
+pourvus de dispositifs empêchant leur contact accidentel avec ces matières ainsi que
+l'échauffement de celles-ci.
+
+6.9. Les installations électriques doivent être réceptionnées avant leur mise en exploitation et
+ensuite contrôlées tous les cinq ans par un organisme de contrôle. Copie de cette réception est
+à adresser à l'Inspection du Travail et des Mines. Copies des rapports de contrôle sont à
+présenter aux autorités de contrôle compétentes, à leur demande.
+
+6.10. La périodicité des vérifications des installations électriques, par du personnel compétent
+de l'établissement, pour les zones où existent des risques de dégradation, d'incendie ou
+d'explosion, est fixée à un an et pour les autres zones à trois ans.
+
+6.11. Les installations électriques doivent également être vérifiées par un organisme de
+contrôle après chaque modification ou réparation importante ou à la demande de l'Inspection
+du Travail et des Mines.
+
+Art.: 7. - Ventilation, aération et chauffage
+
+7.1. Les lieux de travail dans les locaux fermés sont à aérer convenablement et à chauffer
+pendant la saison froide. L'air des ateliers doit être renouvelé de façon à rester dans l'état de
+pureté nécessaire à la santé des salariés. Il importe notamment d'assurer une bonne ventilation
+des locaux où sont produites des vapeurs d'origine chimique.
+
+7.2. Si une installation d'aération est utilisée, elle doit être maintenue en bon état de
+fonctionnement.
+
+7.3. Un système de contrôle et d'alarme doit signaler toute panne du système de ventilation
+lorsque par cette panne la santé des salariés risque d'être mise en danger.
+
+7.4. Si des installations de climatisation ou de ventilation mécanique sont utilisées, elles
+doivent fonctionner de telle façon que les salariés ne soient pas exposés à des courants d'air
+gênants.
+
+7.5. La température des locaux de repos, des locaux pour le personnel en service de
+permanence, des sanitaires, des cantines et des locaux de premiers soins doit répondre à la
+destination spécifique de ces locaux.
+
+7.6. Les installations de chauffage ne doivent comporter ni flamme nue ni des parties
+incandescentes à portée des salariés.
+
+7.7. Le chauffage de l'établissement doit se faire dans la mesure du possible par fluide
+chauffant (air, eau, vapeur d'eau), mais la température de la paroi extérieure des conduites et
+radiateurs ne doit pas excéder 150°C. Tout autre procédé de chauffage doit présenter des
+garanties de sécurité équivalentes.
+
+7.8. En cas d'utilisation d'un chauffage à air chaud, il est interdit d'aspirer de l'air pollué de
+quelque façon que ce soit, afin de le réchauffer et de le souffler dans les locaux de travail.
+
+
+
+
+page 9 de 40 pages                                                                 ITM-SST 1804.1
+Il est recommandé dans ce cas d'utiliser des échangeurs de chaleur afin de pouvoir récupérer
+l'énergie calorifique contenue dans l'air aspiré dans les locaux de travail.
+
+7.9. La température minimale des lieux de travail doit être de :
+       •   20°C pour les bureaux;
+       •   19°C pour les lieux de travail où sont effectués des travaux principalement en
+           position assise;
+       •   17°C pour les lieux de travail où sont effectués des travaux principalement en
+           position non assise;
+       •   12°C pour les lieux de travail où sont effectués de lourds travaux corporels.
+Les températures minimales doivent être atteintes avant chaque reprise du travail.
+
+7.10. La température maximale des lieux de travail ne peut normalement pas dépasser 26°C
+(sauf si la température extérieure dépasse cette valeur).
+
+7.11. Les fenêtres, les éclairages zénithaux et les parois vitrées doivent permettre d'éviter un
+ensoleillement excessif des lieux de travail.
+
+Art.: 8. - Eclairage
+
+8.1. Eclairage naturel
+
+8.1.1. Les lieux de travail doivent disposer d'une lumière naturelle suffisante permettant aux
+salariés de se déplacer normalement et d'effectuer leur travail de jour dans de bonnes
+conditions de sécurité et de santé.
+
+8.1.2. Les installations d'éclairage naturel des locaux de travail, des réfectoires, des
+installations sanitaires et des voies de communication doivent être placées de façon à ce que le
+type d'installation prévu ne présente pas de risque d'accident pour les salariés.
+
+8.1.3. Les fenêtres et éclairages zénithaux doivent pouvoir être ouverts, fermés, ajustés et
+fixés par les salariés de manière sûre. Lorsqu'ils sont ouverts, ils ne doivent pas être
+positionnés de façon à constituer un danger pour les salariés.
+
+8.1.4. Les fenêtres et les éclairages zénithaux doivent être conçus de manière conjointe avec
+l'équipement pour leur nettoyage ou bien être équipés de dispositifs leur permettant d'être
+nettoyés sans risque pour les équipes de nettoyage ainsi que pour les salariés présents dans le
+bâtiment et autour de celui-ci.
+
+8.1.5. Les éclairages zénithaux doivent être protégés contre la chute d'objets.
+
+8.1.6. Une vue sur l'extérieur à hauteur des yeux doit être garantie par des fenêtres, des portes
+ou des parois transparentes réalisées en verre ou en un matériau similaire.
+
+8.1.7. Le bord inférieur des fenêtres doit se trouver à une hauteur de 0,85 à 1,25 m, hauteur
+pouvant varier suivant la position normale de travail, soit assise, soit debout.
+
+
+
+
+page 10 de 40 pages                                                               ITM-SST 1804.1
+8.1.8. La surface vitrée minimale doit être de :
+         •   1,25 m² pour une profondeur du local jusqu'à 5 m
+         •   1,50 m² pour une profondeur du local de plus de 5 m
+tout en respectant les stipulations des paragraphes 8.1.9. et 8.1.10. ci-dessous.
+
+8.1.9. La surface vitrée doit avoir une hauteur minimale de 1,25 m et une largeur minimale de
+0,80 m. Cette hauteur peut être réduite à 0,75 m s'il s'agit d'une surface à bande vitrée.
+
+8.1.10. La surface vitrée doit représenter au moins 1/10 de la surface du sol pour les locaux
+ayant une surface au sol jusqu'à 600 m².
+Dans les locaux ayant une surface au sol égale ou supérieure à 600 m², la surface vitrée est à
+fixer de cas en cas d'un commun accord avec l'Inspection du Travail et des Mines.
+
+8.1.11. La surface vitrée des réfectoires doit toujours représenter au moins 1/10 de la surface
+du sol.
+
+8.2. Considérations générales concernant l'éclairage artificiel
+
+8.2.1. Les lieux de travail doivent disposer en plus de la lumière naturelle, d'un éclairage
+artificiel permettant aux salariés de se déplacer et d'effectuer leur travail dans de bonnes
+conditions de sécurité et de santé dès que la lumière naturelle ne suffit plus pour garantir ces
+bonnes conditions de sécurité.
+
+8.2.2. Les installations d'éclairage artificiel des locaux de travail, des réfectoires, des
+installations sanitaires et des voies de communication doivent être placées de façon à ce que le
+type d'éclairage prévu ne présente pas de risque d'accident pour les salariés.
+
+8.2.3. Les installations d'éclairage artificiel doivent être conçues de manière conjointe avec
+l'équipement pour leur entretien et leur nettoyage ou bien être équipées de dispositifs
+permettant leur entretien et leur nettoyage sans risque pour les équipes chargées de ces
+travaux ainsi que pour les salariés présents dans le bâtiment et autour de celui-ci.
+
+8.2.4. Les installations d'éclairage artificiel doivent être conçues et installées de façon à éviter
+tout éblouissement.
+Il faut à cet effet éviter l'installation de sources lumineuses dans un angle de 30° par rapport à
+l'axe horizontal du regard et éviter les surfaces brillantes et réfléchissantes, notamment sur les
+surfaces où sont effectués des travaux.
+
+8.2.5. Il faut assurer une bonne diffusion de la lumière et éviter les ombres portées (p.ex. par
+le gabarit des machines, par les installations, etc.).
+
+8.2.6. Il faut assurer un bon rendu du relief et des couleurs, notamment des couleurs dites de
+sécurité.
+
+
+
+
+page 11 de 40 pages                                                                 ITM-SST 1804.1
+8.2.7. Il faut porter une attention particulière à l'éclairage des lieux de travail et des lieux
+d’activités où se trouvent des machines tournantes (p.ex. tours), afin d'éviter tout phénomène
+stroboscopique survenant entre les pièces tournantes et l'éclairage alimenté en courant
+alternatif (les pièces tournantes semblent à l'arrêt, alors qu'en réalité elles tournent à une
+vitesse de rotation d'un facteur multiple de la fréquence du courant d'alimentation de
+l'éclairage artificiel).
+
+8.2.8. L'éclairage général ne doit pas être trop faible par rapport à l'éclairage localisé (Eg > 3√
+El où Eg représente l'intensité de l'éclairage général et El représente l'intensité de l'éclairage
+localisé).
+
+8.2.9. Dans certains cas il est recommandable d'installer un éclairage artificiel supplémentaire
+dans des zones destinées la réalisation d’activités de précision requérant une perception
+visuelle accrue des détails.
+
+8.2.10. Les lieux de travail et les lieux d’activités à l'air libre doivent être éclairés
+suffisamment à la lumière artificielle lorsque la lumière du jour ne suffit pas.
+
+8.3. Tableaux des intensités lumineuses nominales
+
+8.3.1. Les luminaires sont à choisir et à installer de sorte que les intensités lumineuses
+nominales (En) reprises dans les tableaux ci-après soient au moins atteintes sinon dépassées.
+
+8.3.2. Les locaux, les lieux de travail et les lieux d’activités non repris ci-après sont à
+classifier par analogie.
+
+8.3.3. Indépendamment des tableaux repris ci-après, doit être prévue une intensité lumineuse
+nominale d'au moins 200 Lux pour les lieux de travail et les lieux d’activités.
+
+8.3.4. Tableaux :
+              Genre d'activités                                      Intensité lumineuse nominale
+                                                                                                            [Lux]
+                Voies de circulation extérieures .................................................. 20
+                Entrepôts pour grandes pièces ..................................................... 50
+                Entrepôts pour pièces de diverses tailles ................................... 100
+                Réfectoires et autres locaux de repos ........................................ 100
+                Vestiaires ................................................................................... 100
+                Salles de lavabos, douches......................................................... 100
+                Toilettes ..................................................................................... 100
+                Locaux de premiers secours, locaux médicaux ......................... 500
+                Locaux techniques dans des immeubles .................................... 100
+                Laboratoires ............................................................................ 1.000
+
+                Voies de circulation à l'intérieur
+                a) pour personnes seulement........................................................ 50
+                b) pour personnes et véhicules................................................... 100
+                Bureaux...................................................................................... 500
+
+                Salles de réunion........................................................................ 300
+                Salles de contrôles, de commande, etc. ..................................... 300
+                Réparations d'appareils, de machines et d'installations
+                électroniques.............................................................................. 500
+
+
+
+
+page 12 de 40 pages                                                                                              ITM-SST 1804.1
+8.4. Eclairage de sécurité
+
+8.4.1. L'éclairage de sécurité permet la poursuite des activités lors d'une panne secteur.
+
+8.4.2. L'éclairage de sécurité doit à cet effet être alimenté par une source d'énergie électrique
+indépendante (p.ex. groupe électrogène de secours, onduleur alimenté par une batterie
+d'accumulateurs électriques, deuxième réseau d'alimentation) de la source de courant normale.
+
+8.4.3. L'intensité de l'éclairage de sécurité devrait être la même que celle de l'éclairage
+normal, et ne peut être de moins d'un tiers de celle de l'éclairage normal.
+
+8.5. Eclairage de secours
+
+8.5.1. L'éclairage de secours doit permettre l'évacuation des lieux de travail et des lieux
+d’activités et l'intervention des services de secours en cas d'un grave sinistre.
+
+8.5.2. L'éclairage de secours est à réaliser de préférence par des sources de courant
+autonomes.
+
+8.5.3. Lorsque l'éclairage de secours est alimenté par une source de courant centrale, le
+câblage alimentant cet éclairage doit être installé de manière à éviter tout risque de mise hors
+service général de l'éclairage de secours, soit en cas d'accident, soit en cas d'incendie; ce
+câblage doit être résistant au feu d'un degré d'une heure au moins.
+
+8.5.4. Sont à baliser par un éclairage de secours :
+       •   les chemins de fuite dans les locaux contenant des lieux de travail et des lieux
+           d’activités ou des entrepôts et ayant une surface au sol supérieure à 100 m²;
+       •   les chemins de fuite menant vers l'extérieur.
+
+8.5.5. Un éclairage de secours doit être installé au-dessus de chaque porte des locaux
+contenant des lieux de travail ou des lieux d’activités si cette porte peut être utilisée comme
+issue de secours. Cet éclairage doit être visible à tout moment.
+
+8.5.6. L'éclairage de secours est à installer de façon à éclairer et à baliser les chemins de fuite
+et de façon à éclairer les obstacles pouvant se trouver sur les chemins de fuite (p.ex.
+changements de direction de corridors, escaliers, plans inclinés, etc.).
+
+8.5.7. L'éclairage de secours doit s'allumer au plus tard 15 secondes après l'extinction de
+l'éclairage normal ou de l'éclairage de sécurité.
+
+8.5.8. L'éclairage de secours doit avoir une autonomie de fonctionnement d'au moins 60
+minutes.
+
+8.5.9. L'éclairage de secours doit avoir une intensité lumineuse minimale de 1 Lux. Cette
+intensité minimale est à mesurer à une distance de 20 cm du sol (ou des marches d'escaliers) à
+la fin de l'autonomie de fonctionnement de l'éclairage de secours.
+
+
+
+
+page 13 de 40 pages                                                                ITM-SST 1804.1
+8.6. Eclairage de secours des lieux de travail et lieux d’activités à danger particulier
+
+8.6.1. Sont à considérer dans le sens de cet article comme lieux de travail et lieux d’activités à
+danger particulier :
+
+       •   les lieux près de cuves et de bassins;
+       •   les lieux où sont traitées des substances dangereuses;
+       •   les lieux où sont installées des machines tournantes continuant à tourner après une
+           panne de secteur par l'énergie cinétique des pièces en mouvement;
+       •   les salles de commande, de contrôle, etc.
+
+8.6.2. L'éclairage de secours de ces lieux à danger particulier doit être conforme aux
+stipulations des paragraphes 8.5.2. et 8.5.3. ci-dessus.
+
+8.6.3. L'éclairage de secours des lieux à danger particulier doit être installé de manière à ce
+que l'intensité lumineuse minimale telle que définie au paragraphe 8.6.4. ci-après soit atteinte
+dans toute la sphère d'activité de ces lieux.
+
+8.6.4. L'intensité minimale des lieux de travail à risque particulier doit être de : E = 0,1 x En
+(où En est l'intensité lumineuse minimale telle que définie à l'article 8.3. ci-dessus), sans
+pouvoir être inférieure à 15 Lux.
+
+8.6.5. L'éclairage de secours pour ces lieux à risque particulier doit s'allumer au plus tard 0,5
+seconde après l'extinction de l'éclairage normal ou de l'éclairage de sécurité.
+
+8.6.6. Les lieux à danger particulier doivent être équipés en plus d'un éclairage de secours, tel
+que défini à l'article 8.5. ci-dessus.
+
+8.7. Maintenance des installations d'éclairage
+
+8.7.1. L'éclairage artificiel, l'éclairage de sécurité et les éclairages de secours sont à tenir dans
+un parfait état d'entretien et de fiabilité.
+
+8.7.2. Les fenêtres et éclairages zénithaux sont à tenir dans un état de propreté de façon à ce
+qu'une vue sur l'extérieur soit garantie.
+
+8.7.3. Les éclairages de secours sont à essayer tous les six mois et à inspecter régulièrement
+tous les douze mois par du personnel compétent.
+
+Art.: 9. - Protection et lutte contre l'incendie
+
+9.1. Selon les dimensions et l'usage des bâtiments, les caractéristiques physiques et chimiques
+des substances présentes ainsi que le nombre maximal de personnes pouvant y être présentes,
+les lieux de travail doivent être équipés en nombre suffisant de dispositifs appropriés pour
+combattre l'incendie et, en tant que besoin, d'installations d'extinction automatique, de
+détecteurs d'incendie et de systèmes d'alarme.
+
+
+
+
+page 14 de 40 pages                                                                  ITM-SST 1804.1
+9.2. Tous les éléments constitutifs doivent présenter une résistance au feu suffisante pour
+permettre l'intervention des services de secours et l'évacuation de blessés éventuels en cas de
+sinistre.
+
+9.3. L'établissement doit comprendre des séparations coupe-feu adaptées aux circonstances.
+
+9.4. L’établissement doit être pourvu d’installations d'évacuation de fumées et de chaleur.
+Pour la conception et le calcul des installations d’évacuation de fumées et de chaleur, il y a
+lieu d’appliquer la norme européenne EN 12101.
+Par contre, cette exigence n’est pas valable pour les stations d'épuration de la catégorie B.
+
+9.5. L'accès facile des véhicules de secours et de lutte contre l'incendie doit être garanti en
+tout temps.
+La configuration retenue de l'établissement doit garantir des conditions de travail correctes
+pour les pompiers.
+
+9.6. Des bouches d'incendie, si possible de type aérien, raccordées à une conduite d'eau
+publique ou privée doivent assurer l'alimentation en eau des véhicules des services d'urgence.
+Ces bouches d'incendie doivent être disposées autour de l'établissement en des endroits
+accessibles aux véhicules d'incendie. Elles ne peuvent être à une distance de plus de 80 m
+l'une par rapport à l'autre, elles doivent être accessibles à tout moment, elles doivent être
+signalisées par une signalisation normalisée et doivent comporter une pression d'eau minimale
+de l'ordre de 0,4 MPa (4 bars).
+
+9.7. Le matériel de secours et de combat contre l'incendie, maintenu en bon état de
+fonctionnement et aisément accessible, doit pouvoir être mis en service immédiatement.
+
+9.8. Les moyens de lutte contre l'incendie doivent être signalisés conformément au Règlement
+grand-ducal du 28 mars 1995 concernant les prescriptions minimales pour la signalisation de
+sécurité.
+
+9.9. Les extincteurs portatifs sont à placer en des endroits judicieusement choisis, à une
+hauteur permettant de les manier facilement.
+
+9.10. Les extincteurs doivent être conformes aux normes EN 3 et les produits d’extinction
+doivent être appropriés aux risques correspondants. Ils doivent être agréés et présenter toutes
+les garanties de sécurité requises. L’exploitant doit se faire remettre les certificats d’agrément
+en question et les verser au registre de sécurité.
+
+9.11. Les extincteurs doivent être contrôlés en général une fois par an, mais au plus tard après
+24 mois par une firme spécialisée.
+
+La date du dernier contrôle doit être marquée d'une façon indélébile sur chaque extincteur.
+
+9.12. Un extincteur une fois utilisé ne pourra être remis à son emplacement initial qu’après
+avoir été rechargé et contrôlé par un service compétent.
+
+9.13. Si des robinets d’incendie armés sont présents, ils doivent être conformes à la norme EN
+671-1 « Installations fixes de lutte contre l’incendie – Systèmes équipés de tuyaux Partie 1 :
+Robinets d’incendie armés équipés de tuyaux semi-rigides ».
+
+
+
+
+page 15 de 40 pages                                                                ITM-SST 1804.1
+9.14. Les R.I.A. sont à contrôler suivant la norme EN 971-1 « Installations fixes de lutte
+contre l’incendie – Systèmes équipés de tuyaux Partie 3 : Maintenance des robinets d’incendie
+armés équipés de tuyaux semi-rigides et des postes d’eau muraux équipés de tuyaux plats ».
+
+9.15. Les chiffons, cotons, papiers, etc., imprégnés de liquides inflammables ou de substances
+grasses sont à renfermer dans des récipients métalliques clos et étanches.
+
+9.16. Il est interdit de pénétrer avec une flamme dans les locaux contenant des matières
+facilement inflammables, ou d'y fumer. Cette interdiction doit être affichée d'une manière très
+apparente dans ces locaux et sur les portes d'entrée.
+
+9.17. Dans le cas où des opérations comportant l'emploi de chalumeaux, lampes à souder, etc.,
+doivent être effectuées, toutes les précautions utiles doivent être prises pour éviter un danger
+d'incendie.
+
+9.18. L'exploitant doit tenir en réserve un stock de produits pour l'absorption d'hydrocarbures,
+de solvants et d'huiles, afin de pouvoir intervenir rapidement en cas d'un déversement
+accidentel.
+
+9.19. Une consigne prévoyant la conduite à tenir en cas de sinistre est à diffuser à tous les
+membres du personnel; celui-ci sera entraîné au moins tous les six mois à l'application de
+cette consigne.
+
+9.20. Cette consigne doit comprendre au moins :
+       •   l'organisation des interventions dans l'établissement en cas de sinistre;
+       •   la composition des équipes d'intervention;
+       •   la fréquence des exercices;
+       •   les dispositions générales concernant l'entretien des moyens de lutte contre
+           l'incendie et de secours;
+       •   les modes de transmission d'alertes;
+       •   les personnes ou instances à prévenir en cas de sinistre.
+
+9.21. Un registre constamment tenu à jour et contenant les fiches des données de sécurité
+décrites à l'article 19.6. ci-dessous, ainsi qu'un plan indiquant à quel endroit sont entreposés,
+utilisés, manipulés et travaillés les divers agents chimiques dangereux, doivent être remis aux
+services de secours appelés à intervenir en cas d'incident, d'accident et de sinistre.
+
+9.22. Des exercices de lutte contre l'incendie et de secours doivent être tenus au moins tous les
+douze mois conjointement avec le service de secours et de lutte contre l'incendie compétent.
+Cette exigence ne compte que pour les stations d'épuration de la catégorie A.
+
+
+Art.: 10. - Risque d’atmosphères explosives
+
+10.1. Dans le cadre d’une évaluation des risques spécifiques, il est à déterminer s’il existe
+dans la station d’épuration des « zones où des atmosphères explosives peuvent apparaître ». Si
+de telles zones existent, le Règlement grand-ducal du 21 mars 2005 concernant les
+prescriptions minimales visant à améliorer la protection en matière de sécurité et de santé des
+travailleurs susceptibles d’être exposés au risque d’atmosphères explosives s’applique ainsi
+que les dispositions suivantes de ce chapitre.
+
+
+
+page 16 de 40 pages                                                                ITM-SST 1804.1
+Dans l’annexe II des prescriptions ici présentées, se trouvent un récapitulatif d’exemples de
+zones présentant un danger d’explosion ainsi que des mesures de protection contre le risque
+d’explosion.
+
+10.2. Les « zones où des atmosphères explosives peuvent apparaître » sont à classifier dans
+des zones 0 à 2 respectivement 20 à 22 et sont à représenter sur un plan selon règlement
+grand-ducal énoncé ci-avant.
+
+10.3. Au niveau des « zones où des atmosphères explosives peuvent apparaître », les
+installations et systèmes de protection seulement autorisés pour le type de zone respectif,
+peuvent être utilisés.
+Tout autre appareil, installation, machine ou canalisation doit être placé en dehors de ces
+zones.
+
+10.4. Les zones où des atmosphères explosives peuvent apparaître sont à signaliser au niveau
+de leurs accès.
+
+10.5. Dans les zones où des atmosphères explosives peuvent apparaître, la présence du
+personnel est seulement autorisée pendant le temps de travail à effectuer s’avèrant
+nécessaires.
+10.6. Un document relatif à la protection contre les explosions doit être établi et être mis à
+jour régulièrement.
+
+Art.: 11. - Voies et issues de secours
+
+11.1. L'exploitant est obligé de prendre les mesures nécessaires pour pouvoir évacuer
+rapidement en cas de sinistre les lieux de travail, les lieux d’activités et les lieux accessibles
+au public.
+Il doit veiller notamment à ce que :
+       •   les locaux fermés soient pourvus de sorties en nombre suffisant;
+       •   les portes des locaux s'ouvrent vers l'extérieur;
+       •   les sorties de secours soient signalées au moyen de symboles normalisés.
+
+11.2. La distance maximale à parcourir pour pouvoir atteindre une issue de secours doit être
+de :
+       •   35 m pour des locaux à risque normal;
+       •   60 m pour les locaux à risque normal, mais équipés d'un système d'extinction de feu
+           automatique;
+       •   25 m pour les locaux comportant un risque d'incendie accru;
+       •   35 m pour les locaux comportant un risque d'incendie accru, mais équipés d'un
+           système d'extinction de feu automatique;
+       •   20 m pour les locaux soumis à un danger d'explosion;
+       •   20 m autour d’une zone à risque d’intoxication.
+
+
+
+
+page 17 de 40 pages                                                                ITM-SST 1804.1
+11.3. Les issues doivent être aménagées et disposées selon le principe du plus court chemin
+vers l'extérieur.
+
+11.4. Les halles ne peuvent avoir moins de deux issues. Elles doivent être judicieusement
+réparties, c.à.d. de préférence l'une au côté opposé de l'autre.
+
+11.5. Les voies et issues de secours doivent rester dégagées en tout temps afin qu'elles
+puissent être utilisées à tout moment sans entrave. Elles doivent déboucher le plus directement
+possible à l'air libre ou dans une zone de sécurité.
+
+11.6. En cas de danger, tous les lieux de travail doivent pouvoir être évacués par les salariés,
+rapidement et dans des conditions de sécurité maximale.
+
+11.7. Le nombre, la distribution et les dimensions des voies et issues de secours sont à
+dimensionner en fonction de l'usage, de l'équipement et des dimensions des lieux de travail
+ainsi que du nombre maximal des personnes pouvant y être présentes.
+
+11.8. Les portes doivent avoir au minimum l'une des largeurs normalisées suivantes :
+       •   porte à un vantail : 0,80 m ou 0,90 m;
+       •   porte à deux vantaux égaux : 1,40 m
+tout en respectant les conditions du point 11.11 ci-dessous.
+
+11.9. Les portes de secours doivent pouvoir être ouvertes facilement et immédiatement dans le
+sens de la fuite par toute personne qui aurait besoin de les utiliser en cas d'urgence.
+
+11.10. Les portes coulissantes, tournantes, basculantes, à tambour, ainsi que les tourniquets
+sont interdits à titre d’issues réglementaires à moins de fonctionner comme porte battante
+normale en cas d’alarme ou si elles sont titulaires d’un agrément spécifique établi par un
+laboratoire agréé.
+
+11.11. Les largeurs des couloirs, portes, corridors, sorties et autres éléments ainsi que les
+parties des issues de secours doivent être calculées sur base minimale de 1 cm par personne
+du maximum des personnes pouvant se trouver dans l'établissement ou dans une partie de
+l'établissement, sans pouvoir être inférieures à 0,80 m.
+
+11.12. Les largeurs des escaliers doivent être calculées sur base minimale de deux cm par
+personne du maximum des personnes pouvant se trouver dans l'établissement ou dans une
+partie de l'établissement.
+
+11.13. Les escaliers à colimaçon, du type tournants ou incurvés sont interdits dans les voies
+d'issues de secours.
+
+11.14. La largeur utile minimale des escaliers est 0,80 m. La largeur utile minimale est la
+largeur libre dégagée de tout obstacle avec une hauteur de 2,2 m au moins.
+
+11.15. Si les sorties, issues, escaliers, couloirs, etc., de plusieurs parties d'établissements sont
+utilisés en commun, ces dégagements doivent avoir une largeur totale proportionnelle au
+nombre de personnes appelées à les emprunter.
+
+
+
+
+page 18 de 40 pages                                                                 ITM-SST 1804.1
+11.16. Toutes les largeurs prescrites (dégagements, portes, sorties, escaliers, etc.) doivent être
+libres de saillies telles que : pilastres, vitrines, strapontins, vestiaires, extincteurs, robinets
+d'incendie, etc.
+
+11.17. Toute saillie pouvant accrocher les vêtements est prohibée.
+
+11.18. Les dégagements et voies d'issues ne doivent pas comporter de rétrécissements sur leur
+parcours utilisé par le personnel pour gagner les sorties.
+
+11.19. De même, ils ne doivent pas présenter de cheminements compliqués ou de coudes
+brusques.
+
+11.20. Les voies et issues spécifiques de secours doivent faire l'objet d'une signalisation
+normalisée (flèche blanche sur fond vert).
+
+11.21. Les voies et issues de secours qui nécessitent un éclairage doivent être équipées d'un
+éclairage de secours d'une intensité de 1 Lux au moins pour les cas d'une panne d'éclairage.
+
+Art.: 12. - Locaux de repos, réfectoires
+
+12.1. Si les salariés sont occupés régulièrement dans l’enceinte de la station d’épuration, ils
+doivent disposer d'un local de repos facilement accessible.
+
+12.2. Les locaux de repos bien aérés doivent être de dimensions suffisantes et être équipés
+d'un nombre de tables et de sièges à dossier tenant compte du nombre des salariés.
+
+12.3. Il y a lieu d'y prévoir des interdictions de fumer afin de protéger les non-fumeurs contre
+la gêne due à la fumée de tabac.
+
+12.4. Le local de séjour des salariés ne peut pas être à proximité ou en contact direct avec des
+sources potentielles ou réelles de risques biologiques.
+
+12.5. Le local de séjour est à pourvoir d’un nombre suffisant de sièges (bancs, chaises,
+tabourets).
+
+12.6. Le niveau sonore des locaux de repos inoccupés ne doit pas dépasser le seuil de
+45 dB(A). Ces locaux doivent en plus être exempts de vibrations mécaniques.
+
+Art.: 13. - Hygiène
+
+13.1. Vestiaires
+
+13.1.1. Les stations d’épuration représentent un réservoir important de micro-organismes. Des
+vestiaires avec une zone propre (zone blanche) et une zone sale (zone noire) physiquement
+distinctes doivent être mis à la disposition des salariés lorsque ceux-ci doivent porter des
+vêtements de travail spéciaux (vestiaire de type noir/blanc). Par contre, cette exigence ne
+compte pas pour les stations d'épuration de la catégorie B.
+
+
+
+
+page 19 de 40 pages                                                                ITM-SST 1804.1
+Un vestiaire de type noir/blanc est constitué d’une pièce pour mettre et enlever les vêtements
+de travail (zone noire du vestiaire) et d’une pièce pour mettre et enlever les habits de ville
+(zone blanche du vestiaire) avec, entre ces deux zones, une zone d’hygiène réservée au
+nettoyage corporel.
+
+13.1.2. Devant le vestiaire, une zone ou une pièce doit être installée pour permettre le
+nettoyage à l’eau des chaussures et des vêtements de protection lavables.
+De plus, dans la zone du vestiaire, une salle ou un système permettant de sécher les vêtements
+de travail et les équipements de protection individuelle humides doit être disponible.
+
+13.1.3. Les vestiaires doivent : être bien aérés, être conçus de manière à éviter les courants
+d'air, être facilement accessibles, avoir une capacité suffisante et être équipés de sièges à
+raison d'au moins un siège pour 4 armoires.
+
+13.1.4. Les vestiaires doivent être de dimensions suffisantes et posséder des équipements
+permettant à chaque travailleur de mettre sous clé ses vêtements pendant le temps de travail.
+Si les circonstances l'exigent (par exemple manipulation de substances dangereuses, humidité,
+conditions hygiéniques, saleté), les armoires pour les vêtements de travail doivent être
+séparées de celles pour les vêtements à usage privé.
+Les armoires doivent avoir une hauteur minimale de 180 cm, une largeur minimale de 60 cm
+et une profondeur minimale de 50 cm. Elles doivent être constamment aérées.
+
+13.1.5. Des vestiaires séparés doivent être prévus pour les hommes et pour les femmes. Ils
+doivent porter, d'une manière bien apparente, l'indication du sexe auquel ils sont destinés.
+
+13.1.6. Les vestiaires doivent être réalisés de façon à ce qu'ils puissent être facilement
+nettoyés. Leurs sols doivent être antidérapants.
+
+13.1.7. Les vestiaires doivent être dotés de miroirs et de poubelles en nombre suffisant.
+
+13.1.8. Lorsque des vestiaires ne sont pas nécessaires au sens de l’article 13.1.1., chaque
+travailleur doit pouvoir disposer d'une aire de rangement pour ses vêtements.
+
+13.2. Douches
+
+13.2.1. Des douches en nombre suffisant et appropriées doivent être mises à la disposition des
+salariés lorsque le type d'activité ou la salubrité l'exigent. Pour les stations d'épuration de la
+catégorie B, une seule douche suffit.
+
+13.2.2. Des salles de douches séparées doivent être prévues pour les hommes et pour les
+femmes. Elles doivent porter clairement l'indication du sexe auquel elles sont destinées. Par
+contre, ces exigences ne sont pas valables pour les stations d'épuration de la catégorie B.
+
+13.2.3. Les salles de douches bien aérées, conçues de manière à éviter les courants d'air
+doivent être de dimensions suffisantes pour permettre à chaque travailleur de faire sa toilette
+sans aucune entrave et dans des conditions d'hygiène appropriées. Les douches doivent être
+équipées d'eau courante chaude et froide.
+
+
+
+
+page 20 de 40 pages                                                                ITM-SST 1804.1
+13.2.4. Chaque douche doit avoir une surface minimale de 70 cm x 70 cm.
+
+13.2.5. Le sol des douches et les murs des douches jusqu'à une hauteur de 2 m doivent être
+recouverts de carrelages. Le sol doit être antidérapant. Les douches doivent pouvoir être
+nettoyées facilement.
+
+13.2.6. Les portes d'éventuelles cabines de douche doivent pouvoir être ouvertes de l'extérieur
+en cas d'urgence.
+
+13.2.7. Des grilles et lattes en bois sont interdites dans les douches.
+
+13.2.8. Il faut prévoir au moins une douche pour douze salariés du total des salariés présents à
+tour de rôle.
+
+13.3. Lavabos
+
+13.3.1. Des lavabos en nombre suffisant et appropriés avec eau courante (chaude si
+nécessaire) doivent être installés à proximité des lieux de travail, des locaux de repos ou des
+vestiaires. Pour les stations d'épuration de la catégorie B, un seul lavabo est suffisant.
+
+13.3.2. Des savons ou solutions antiseptiques pour les mains sont à mettre à la disposition des
+salariés auprès des lavabos. L’utilisation de distributeurs de savon ou de solution fixés au mur
+est recommandée.
+
+13.3.3. Doivent être mis à disposition des salariés :
+       •   des distributeurs de serviettes en papier ou
+       •   des automates, libérant une largeur de serviette d'au moins 20 cm,
+à raison d'un appareil au moins pour deux lavabos.
+
+13.3.4. Si les lavabos sont installés dans une salle spéciale, il faut prévoir une salle spéciale
+pour hommes et une salle spéciale pour femmes. Les salles doivent porter, d'une manière bien
+apparente, l'indication du sexe auquel elles sont destinées.
+
+13.3.5. Il faut prévoir un lavabo pour 4 salariés, du maximum de salariés d'un tour de rôle
+pouvant se trouver en même temps dans les vestiaires ou dans les salles de lavabos.
+
+13.3.6. Les lavabos doivent avoir une largeur minimale de 70 cm par travailleur ainsi qu'une
+profondeur minimale de 55 cm. La surface supérieure des lavabos doit se trouver à une
+hauteur de 70 à 80 cm au-dessus du sol.
+
+13.3.7. Si les salles de douches ou de lavabos et les vestiaires sont séparés, ces pièces doivent
+aisément communiquer entre elles.
+
+
+
+
+page 21 de 40 pages                                                               ITM-SST 1804.1
+13.4. Toilettes
+
+13.4.1. L'établissement doit être pourvu d'urinoirs et de cabinets d'aisance dont le nombre est
+repris au tableau ci-après :
+                                           Hommes                               Femmes
+        Salariés
+                               Toilettes                Urinoirs                Toilettes
+   jusqu'à      5                 1                        /                       1
+   jusqu'à     10                 1                        1                       1
+   jusqu'à     20                 1                        1                       2
+   jusqu'à     25                 2                        2                       2
+
+Pour les stations d'épuration de la catégorie B une toilette est suffisante. Une séparation selon
+le sexe n'est pas nécessaire.
+
+13.4.2. Chaque cabinet de toilette doit avoir une largeur minimale de 85 cm et une profondeur
+minimale de 150 cm si la porte s'ouvre vers l'intérieur, respectivement de 125 cm si la porte
+s'ouvre vers l'extérieur.
+
+13.4.3. Les toilettes ne doivent pas se trouver à plus de 100 m des lieux de travail.
+
+13.4.4. Les cabinets d'aisance doivent être bien aérés et être réalisés de façon à ce qu'ils
+puissent être facilement nettoyés.
+
+13.4.5. Des cabinets d'aisance séparés doivent être prévus pour les hommes et pour les
+femmes. Ils doivent porter, d'une manière bien apparente, l'indication du sexe auquel ils sont
+destinés.
+
+13.4.6. Les portes pleines munies d'un loquet doivent pouvoir être ouvertes de l'extérieur en
+cas d'urgence.
+
+13.4.7. Les cabinets d'aisance doivent être équipés de papier toilette et de crochets pour les
+vêtements.
+
+13.4.8. Les salles de toilettes doivent comporter au moins une poubelle à couvercle.
+
+13.4.9. Les toilettes pour femmes doivent être équipées de poubelles pour sacs hygiéniques.
+
+13.4.10. Près des toilettes doivent se trouver des lavabos à eau courante à raison d'un lavabo
+pour cinq toilettes ou urinoirs.
+Sont à prévoir au moins un distributeur de savon et un essuie-mains à usage unique ou un
+distributeur de serviettes en papier ou un des automates, libérant une largeur de serviette d'au
+moins 20 cm, pour deux lavabos.
+
+13.5. Utilisation des locaux comprenant des installations sanitaires
+
+13.5.1. Les locaux d'hygiène doivent être équipés d'un éclairage artificiel ayant une intensité
+lumineuse d'au moins 100 Lux.
+
+
+
+
+page 22 de 40 pages                                                                ITM-SST 1804.1
+13.5.2. Le niveau sonore des locaux sanitaires ne doit pas dépasser le seuil de 55 dB(A). Les
+locaux doivent en plus être exempts de vibrations mécaniques.
+
+13.5.3. Les locaux d'hygiène doivent être maintenus en bon état de propreté par un nettoyage
+fréquent et régulier.
+
+13.5.4. Les salariés doivent prendre connaissance de toutes les consignes d'hygiène
+concernant leur travail et doivent s'y conformer.
+
+13.6. Divers / Organisation
+
+13.6.1. L’exploitant doit élaborer un plan d’hygiène et de protection de la peau (indications
+concernant le plan d’hygiène, voir annexe I). Il est ici recommandé de prendre contact avec
+les services de la médecine du travail compétents.
+
+13.6.2. L’exploitant doit mettre à disposition les produits adéquats de nettoyage et d’entretien,
+de désinfection, de protection et de soins de la peau.
+
+13.6.3. Les vêtements de travail destinés aux travaux en zones contaminées ainsi que tout
+autre équipement et vêtement de protection devra être mis à disposition par l’exploitant.
+
+13.6.4. Des vêtements de travail ou équipements de protection sales sont à nettoyer ou à faire
+nettoyer par l’exploitant.
+
+13.6.5. Un contact direct avec des eaux usées, des boues, déchets de dégrillage, des graisses,
+etc., est par principe à éviter. Dans la mesure où cela est nécessaire, un équipement adéquat de
+protection individuel est à mettre à disposition (p.ex. des gants de protection étanches aux
+liquides et fluides, des gants de protection fermables et étanches aux liquides et fluides, le cas
+échéant des bottes de sécurité, des lunettes de sécurité/des systèmes de protection du visage,
+des tabliers étanches aux fluides et liquides, des systèmes de protection respiratoire, etc.).
+
+13.6.6. Les activités de nettoyage devront être réalisées au maximum de façon automatique.
+
+13.6.7. Dans le cadre de la réalisation manuelle de travaux de nettoyage, en particulier pour
+des activités avec nettoyeurs à haute pression, des mesures contre la production d’aérosols
+devront être le cas échéant être mises en place.
+
+13.6.8. Dans les zones de travail présentant un danger de contamination, il est interdit de
+manger et de boire.
+
+13.6.9. Avant la consommation d’aliments ou de boissons, les mains et le visage devront être
+lavées.
+
+13.6.10. Les denrées alimentaires ne pourront être conservées que dans des armoires ou
+réfrigérateurs prévus à cet effet. Ces armoires et réfrigérateurs sont à nettoyer régulièrement
+(en correspondance au plan d’hygiène, voir annexe I).
+
+13.6.11. Des distributeurs automatiques de denrées alimentaires ne pourront pas être placés au
+voisinage direct de zones contaminées.
+
+
+
+
+page 23 de 40 pages                                                                ITM-SST 1804.1
+13.6.12. Les employés équipés de leurs vêtements de travail contaminés ne sont pas autorisés
+à circuler dans les zones de séjour et de repos.
+
+13.6.13. En accord avec la médecine du travail, des vaccinations à titre gratuit sont à proposer
+aux employés (p.ex. vaccinations contre le tétanos, la polio, les hépatites A et B).
+
+13.6.14. Dans des conditions de travail en zone de risque biologique, une douche est à prendre
+après chaque journée de travail.
+
+13.6.15. Les employés devront être informés des risques biologiques existants au moyen
+d’instructions précises.
+
+13.7. Utilisation d’eaux en sortie de station d’épuration (eaux non potables)
+
+13.7.1. Lorsque des eaux sortant de la station d’épuration sont réutilisées en interne comme
+eaux non potables, ceci ne peut se faire qu’au travers d’un système totalement séparé du
+réseau d’eau potable.
+
+13.7.2. Les points d’accès au réseau d’eaux non potables doivent être clairement et
+durablement marqués comme "EAU NON POTABLE".
+
+13.7.3. Dans le cas où des employés pouvaient être amenés, dans le cadre de leurs activités
+sur site, à entrer en contact direct avec les eaux non potables, aussi bien sous forme de
+gouttelettes d’eaux que d’aérosols ou de brouillards-vapeurs, alors ces eaux non potables
+seraient au préalable à hygiéniser. Ce point est à respecter en complément des exigences du
+point 13.6.7.
+
+13.7.4. L’eau non hygiénisée pourra être seulement utilisée dans le cadre de processus
+automatisés à l’intérieur d’installations fermées, lorsque le contact direct de personnes avec ce
+type d’eau, aussi bien sous forme de gouttelettes d’eaux que d’aérosols ou de brouillards-
+vapeurs, pourra être exclus.
+
+Art.: 14. - Protection des salariés
+
+14.1. L’exploitant doit veiller à ce que les bâtiments, les lieux de travail, les lieux d’activités,
+les installations et le matériel se trouve toujours en bon état d’entretien. Il doit organiser le
+travail de manière à ce que les salariés soit protégés autant que possible contre tout risque
+d’accident ou atteinte à la santé.
+
+14.2. Les pièces de travail doivent avoir une superficie, une hauteur et un volume d'air
+permettant aux salariés d'exécuter leur travail sans risque pour leur sécurité, leur santé ou leur
+bien-être.
+
+14.3. Les dimensions de la surface libre non meublée des lieux de travail doivent être
+calculées de telle façon que le personnel dispose de suffisamment de liberté de mouvement
+pour ses activités.
+
+14.4. Les salariés sont obligés à porter en cas de besoin les vêtements et équipements de
+protection mis à leur disposition.
+
+
+
+
+page 24 de 40 pages                                                                 ITM-SST 1804.1
+14.5. L'on doit disposer de masques reconnus efficaces en nombre suffisant pour la protection
+du personnel en cas d'incident de fabrication ou d'arrêt accidentel du dispositif de captation
+des émissions poussiéreuses ou gazeuses.
+
+14.6. Toutes mesures doivent être prises afin de réduire le niveau dès la source du bruit et de
+maintenir l'exposition quotidienne des salariés au bruit à un niveau inférieur à 80 dB(A),
+respectivement de maintenir la pression acoustique instantanée non pondérée à un niveau
+inférieur à 200 Pa.
+Les sources de bruit excessif doivent être isolées du reste de l'établissement, afin de limiter le
+nombre de personnes exposées.
+
+14.7. Le personnel doit porter des vêtements bien ajustés et non flottants.
+Le personnel travaillant avec ou près de flammes nues dans des locaux où sont présentes des
+risques d’explosion ou d’inflammation momentanée, doit porter des vêtements ne risquant pas
+de s’enflammer et/ou de fondre.
+
+14.8. Les salariés doivent veiller au bon ordre et à la propreté de leur lieu de travail.
+
+14.9. L'exploitant doit affecter les salariés à des emplois adaptés à leur âge, à leur sexe, à leurs
+aptitudes physiques, à leur état de santé et à leurs qualifications.
+
+14.10. Les ouvriers souffrant d'attaques d'épilepsie, de crampes, de syncopes, de convulsions,
+de vertiges ainsi que les personnes atteintes de toute autre infirmité ou maladie apparente
+pouvant compromettre leurs jours ne peuvent être occupés près de machines ou à des endroits
+dangereux.
+
+14.11. Les salariés doivent toujours être bien initiés à leur tâche. Les travaux d'entretien et de
+réparation ne peuvent être confiés qu'à un personnel qualifié et compétent.
+
+14.12. L'exploitant doit assurer la surveillance nécessaire pour que les salariés accomplissent
+leur travail dans les meilleures conditions possibles de sécurité, de santé et d'hygiène.
+
+14.13. Il y a lieu d'assurer une formation et un recyclage appropriés et suffisants du personnel,
+notamment pour ce qui est du fonctionnement des machines, de l'utilisation des agents
+chimiques et des agents chimiques dangereux ainsi que de la manutention du matériel. La
+formation doit également porter sur l'usage des vêtements protecteurs, l'entretien de
+l'équipement, les systèmes de stockage et tout moyen particulier de manutention disponible, la
+prévention des accidents, la prévention d'incendies, le comportement en cas d'urgences,
+l'hygiène et les premiers secours.
+
+14.14. Les salariés doivent prendre connaissance de toutes les consignes de sécurité
+concernant leur travail et s'y conformer.
+
+14.15. Seuls les salariés dûment autorisés et formés doivent prendre part aux opérations de
+travail dangereuses.
+
+14.16. Dans les limites de leurs responsabilités, les salariés doivent faire tout ce qui est dans
+leur pouvoir pour préserver leur santé et leur sécurité, ainsi que celles de leurs collègues de
+travail.
+
+
+
+
+page 25 de 40 pages                                                                  ITM-SST 1804.1
+14.17. Tout travailleur occupé isolément doit disposer de moyens d'alarme appropriés aux
+circonstances.
+
+14.18. Les salariés doivent faire bon usage de tous les dispositifs de protection ou de sécurité
+et de tous les autres moyens destinés à assurer leur protection ou celle d'autrui.
+
+Art.: 15. - Zones de danger
+
+15.1. Les zones de danger doivent être signalées de manière bien visible.
+
+15.2. Des mesures appropriées doivent être prises pour protéger les salariés qui sont autorisés
+à pénétrer dans les zones de danger.
+
+15.3. Les personnes travaillant sur des lieux de travail ou des lieux d’activités comportant des
+zones dangereuses doivent être accompagnées par une autre personne en mesure de leur porter
+secours en cas de besoin.
+
+15.4. Si les lieux de travail comportent des zones de danger dues à la nature du travail
+présentant des risques de chute pour les salariés ou des risques de chute d'objets, ces lieux
+doivent être équipés de dispositifs évitant que les salariés non autorisés ne puissent pénétrer
+dans ces zones.
+
+15.5. Les plateformes, estrades et places de travail doivent être aménagées, équipées et
+conditionnées, de sorte que grâce à cela, un travail sûr soit possible.
+
+15.6. Les emplacements des plateformes, estrades et places de travail doivent être
+antidérapants et être accessibles facilement et en toute sécurité.
+
+15.7. Les échelles fixes sur site, p.ex. les petites échelles d’accès aux chambres de visite, etc.,
+ne doivent pas être utilisées comme lieux d’activités. Dans le cas où en certaines zones, des
+travaux sont régulièrement à réaliser en hauteur, alors des estrades de travail, facilement
+accessibles et sécurisées contre les chutes, doivent être à disposition.
+
+15.8. Des lieux d’activités localisés au niveau de bassins de circulation d’eau, au niveau de
+chambres de visite, etc., doivent être sécurisés de sorte qu’une chute à l’intérieur de ces
+bassins et chambres de visite soit évitée. Dans le cas où ceci n’est pas réalisable d’un point de
+vue technique ou d’un point de vue exploitation, alors d’autres mesures de protection adaptées
+devront être mises en place (p.ex. ancrage à une chaîne de sécurité, utilisation de gilet de
+sauvetage, etc.).
+
+15.9. Les personnes qui travaillent au-dessus de canaux, cuves, bassins (etc.) remplis, doivent
+porter des gilets de sauvetage.
+
+15.10. Dans des bassins avec tourbillon d’eaux vertical et avec une profondeur supérieure à
+1,35 m, alors des dispositifs de fixation adéquats au sauvetage du personnel doivent être
+placés sur les bords de ces bassins dans le sens d’écoulement descendant, et sur toute la
+longueur des bassins. Depuis ces points de fixation, une sortie de secours doit être directement
+accessible.
+
+
+
+
+page 26 de 40 pages                                                                ITM-SST 1804.1
+15.11. Les bassins, canaux, chambres de visite, etc., qui sont régulièrement parcourus par les
+employés, doivent être équipés de sorties de secours permettant une sortie facilitée.
+
+15.12. Dans les stations d’épuration avec chambres de visite, cuves, canaux, enceintes
+confinées, etc., accessibles et visitables par le personnel, un équipement de sauvetage doit être
+disponible, lequel comprend au minimum les équipements suivants :
+       •   Equipements de protection respiratoire avec masque intégral, indépendant de l’air
+           ambiant
+       •   Appareils de levage et de descente pour les mesures de sauvetage, équipés de deux
+           cordes de sécurité et sangles d’amortissement
+       •   Lampes portative protégée contre le risque d’explosion
+       •   Trousses de secours
+       •   Extincteurs
+Pour les stations d’épuration de la catégorie B, il est suffisant que cet équipement de
+sauvetage soit amené sur place par les salariés, et ce, en cas de besoin. En l’absence
+d’équipement de sauvetage, il est interdit d’entrer dans les chambres de visite, canalisations,
+etc.
+
+15.13. L’équipement de sauvetage devra être tenu à disposition à la proximité directe des
+accès d’entrée de chaque zone.
+
+15.14. Lorsque des zones dans lesquelles une possibilité de dépôt de matières organiques
+existe, sont praticables (p.ex. chambres de visite, fosses, canaux, enceintes confinées, etc.),
+alors ces zones sont au préalable à libérer par l’utilisation d’un appareil adapté de mesurage 4-
+canaux (oxygène-O2, méthane-CH4, dioxyde de carbone-CO2, hydrogène sulfuré-H2S).
+
+15.15. Lorsque des zones dans lesquelles des dépôts de matières organiques ont lieu
+régulièrement conformément au fonctionnement de la station d’épuration (ici, les eaux usées
+comptent également), et que ces zones sont régulièrement parcourues par les employés (p.ex.
+chambres de visite, fosses, canaux, enceintes confinées, etc.), alors ces zones sont à équiper
+d’appareils stationnaires de mesurage. Les valeurs mesurées devront être affichées à l’entrée
+des zones concernées. Dans le cas où des concentrations représentant un danger pour les
+employés sont mesurées, alors une alerte optique et acoustique doit être activée.
+
+15.16. Les travaux dans les bassins, cuves, réservoirs, fosses, enceintes confinées, etc., où
+l’aération est insuffisante à cause d’un risque de suffocation ou d’intoxication, ne doivent être
+entrepris qu’après assainissement de l’atmosphère par une ventilation efficace.
+
+15.17. En raison du risque d’explosion qui pourra exister dans les cuves et bassins de la
+station d’épuration (p.ex. mélange air-gaz de méthane explosif) :
+       •   l’atmosphère ne doit pas être contrôlée au moyen d’une flamme,
+       •   il doit être interdit de fumer dans ces installations ou à proximité, ou d’y faire usage
+           de flammes nues.
+Les interdictions sont à afficher d’une manière bien voyante.
+
+
+
+
+page 27 de 40 pages                                                                ITM-SST 1804.1
+15.18. Les personnes qui pénètrent dans d'éventuels réservoirs, cuves, bassins ou silos pour y
+effectuer des travaux de nettoyage, d'entretien ou de réparation, ainsi que les salariés
+effectuant éventuellement des travaux en plongée doivent :
+       •   s'être convaincus avant le début des travaux que l'atmosphère de ces contenants ne
+           présente aucun danger de sécurité et de santé (asphyxie, gaz dangereux);
+       •   avoir été avertis des dangers pouvant survenir et des précautions à prendre pour y
+           remédier;
+       •   être munis d'un harnais de sécurité avec corde d'assurance qui doit être solidement
+           attachée à un objet fixe;
+       •   être équipés, s'il y a lieu, d'appareils respiratoires appropriés;
+       •   être surveillé par une autre personne en mesure de leur porter secours en cas de
+           besoin.
+
+15.19. Les opérations de remplissage et de vidange doivent être arrêtées aussi longtemps
+qu'une personne se trouve à l'intérieur d'un bassin, d'une cuve, d'un réservoir, etc.
+
+15.20. Il est interdit d'utiliser des échelles de cordes dans les bassins, cuves, réservoirs, etc.
+
+15.21. Les systèmes de fermeture de fosses, chambres de visite, canaux (p.ex. grilles,
+couvercles de canalisations, etc.), doivent être réalisés ou sécurisés de telle sorte qu’ils ne
+puissent être involontairement déplacés.
+
+15.22. Dans le cas où des systèmes de fermeture à la surface du sol devaient être retirés (p.ex.
+pour la réalisation de travaux de nettoyage ou de réparation), alors la zone potentielle de chute
+devra être sécurisée préalablement à l’enlèvement de ces fermetures de surface (p.ex. par
+l’installation de barrières mobiles de sécurisation).
+
+15.23. Pour un enlèvement et un replacement sécurisé des systèmes de fermeture, les outils et
+appareillages adéquats devront être à disposition.
+
+15.24. Si les salariés sont employés dans des lieux de travail ou des lieux d’activités
+extérieurs, ces derniers doivent être aménagés de telle façon que les salariés :
+       •   soient protégés contre les influences atmosphériques et, si nécessaire, contre la
+           chute d'objets;
+       •   ne soient pas exposés à des niveaux sonores nocifs ni à une influence extérieure
+           nocive (p.ex. gaz, vapeurs, poussières);
+       •   puissent quitter rapidement les lieux en cas de danger ou puissent être secourus
+           rapidement;
+       •   ne puissent glisser ou chuter.
+
+
+
+
+page 28 de 40 pages                                                                   ITM-SST 1804.1
+Art.: 16. - Signalisation de sécurité
+
+16.1. La signalisation de sécurité effectuée par des symboles normalisés et répondant aux
+stipulations du Règlement grand-ducal du 28 mars 1995 concernant les prescriptions
+minimales pour la signalisation de sécurité et/ou de santé au travail doit couvrir :
+       •   les voies d'évacuation d'urgence;
+       •   les équipements d'urgence tels que : postes d'alerte, moyens de lutte contre
+           l'incendie, postes de premiers secours, boutons d'arrêt d'urgence;
+       •   les consignes d'utilisation des équipements de sécurité;
+       •   le balisage des lieux de travail et des voies de circulation;
+       •   la signalisation des agents chimiques dangereux;
+       •   la circulation dans l'établissement ainsi que la circulation routière aux alentours de
+           l'établissement, sur les accès vers l'établissement et sur les parkings;
+       •   l'interdiction d'utiliser les monte-charges pour le transport de personnes;
+       •   l'interdiction de fumer et d'apporter un feu nu.
+
+16.2. A défaut de pictogrammes normalisés, la signalisation de sécurité doit être affichée en
+au moins deux langues (de préférence en français et en allemand).
+Sont à couvrir par une telle signalisation :
+       •   les consignes d'emploi des machines et équipements;
+       •   les consignes de comportement en cas d'urgence;
+       •   l'interdiction d'utiliser les ascenseurs en cas de sinistre.
+
+16.3. La signalisation de sécurité doit être apposée aux endroits appropriés et doit être
+durable.
+
+Art.: 17. - Machines et équipements de travail
+
+17.1. Il est interdit d'utiliser des machines, équipements de travail, appareils ou éléments de
+machines qui ne sont pas construits, disposés ou mis en œuvre dans des conditions assurant la
+sécurité et l'hygiène des salariés.
+
+17.2. Il est interdit d'utiliser des protecteurs de machines ainsi que des dispositifs,
+équipements ou produits de protection qui ne sont pas de nature à protéger efficacement les
+salariés contre les dangers de tout ordre auxquels ils sont exposés.
+
+17.3. Les salariés doivent recevoir consigne de ne pas enlever ni modifier les dispositifs de
+protection.
+
+17.4. L'exploitant doit informer de manière appropriée les salariés des dangers résultant de
+l'utilisation des machines ainsi que des précautions à prendre.
+
+
+
+
+page 29 de 40 pages                                                                ITM-SST 1804.1
+17.5. Toutes les parties des machines telles que par exemple les engrenages, poulies, volants,
+ventilateurs, cylindres, courroies et câbles, arbres de transmission, systèmes d’embrayage,
+cales et vis d'arrêt, pièces chaudes ou froides, etc., pouvant donner lieu à atteinte au personnel
+travailleur, doivent être entourées d'enveloppes protectrices appropriées ou munies de garde-
+corps solides.
+
+17.6. Toutes les machines doivent disposer de dispositifs d'arrêt d'urgence facilement
+repérables et accessibles, permettant de les arrêter instantanément en cas d'urgence.
+Les bandes transporteuses doivent être équipées de lignes d'arrêt d'urgence sur toute leur
+longueur.
+
+17.7. Des mesures appropriées sont à prendre pour que les machines ne puissent être remises
+en marche de façon intempestive.
+
+17.8. Sont interdites les opérations d'entretien telles que nettoyage, huilage, graissage,
+époussetage ou lavage des machines et appareils en marche.
+
+17.9. Les opérations de réglage de machines et d'appareils en marche doivent être effectuées
+avec la prudence et la prévoyance requises.
+
+17.10. La mise en marche et l'arrêt collectifs de machines actionnées par la même commande
+doivent être toujours précédés d'un signal convenu.
+
+17.11. Les abords des machines et les passages entre les machines ne doivent pas être
+encombrés de matériel.
+
+17.12. Toutes les machines, équipements de travail et véhicules sont à mettre hors usage, tant
+qu'ils présentent des défauts pouvant mettre en danger la santé et la sécurité du personnel de
+l'entreprise.
+
+Art.: 18. - Empilage et emmagasinage
+
+18.1. L'empilage doit s'effectuer de façon à ce que les piles ne gênent pas :
+       •   la répartition adéquate de la lumière du jour ou de la lumière artificielle;
+       •   le bon fonctionnement des machines ou autres installations;
+       •   la circulation dans les passages ou allées;
+       •   le fonctionnement efficace de la mise en action des moyens de lutte contre
+           l'incendie.
+
+18.2. Les dépôts et piles sont à dresser, à conserver et à enlever sans menacer les salariés par
+les objets qui tombent, qui se renversent ou par des substances qui s'écoulent.
+
+18.3. Le matériel ne doit pas être empilé jusqu'à une hauteur telle que la stabilité de la pile en
+soit compromise.
+
+18.4. Il est interdit d'empiler du matériel contre des parois ou des cloisons des bâtiments sans
+s'être assuré que celles-ci sont suffisamment solides pour résister à la pression latérale.
+
+
+
+
+page 30 de 40 pages                                                                 ITM-SST 1804.1
+18.5. Le matériel doit être empilé sur des bases solides et ne risquant pas de s'affaisser.
+
+18.6. Les piles doivent être symétriques et stables. Toutes les pièces de la couche inférieure
+des piles et tous les objets ronds doivent être soigneusement calés.
+Les objets ronds doivent être calés individuellement dans la mesure du possible.
+
+18.7. Les boîtes et caisses chargées doivent être empilées sur les faces présentant la plus
+grande surface.
+
+Art.: 19. - Agents chimiques dangereux
+
+19.1. La dénomination « agents chimiques dangereux » est utilisée dans le cadre de la
+présente prescription conformément à la définition correspondante du Règlement grand-ducal
+modifié du 30 juillet 2002 concernant la protection de la santé et de la sécurité des
+travailleurs contre les risques liés à des agents chimiques sur le lieu de travail.
+
+19.2. Le stockage et l’utilisation des agents chimiques dangereux doivent être conformes aux
+prescriptions de sécurité et de santé types y afférentes, notamment les prescriptions de
+sécurité type ITM-CL 37.1 "Produits dangereux" (Nouveau N° ITM-SST 1900.1).
+
+19.3. Les agents chimiques dangereux entreposés sur les lieux de travail ne doivent pas
+dépasser les quantités nécessaires au bon déroulement des travaux. Les déchets et les résidus
+sont à éliminer régulièrement et sans danger, les substances répandues sont à enlever
+immédiatement.
+
+19.4. Les récipients contenant des liquides inflammables ou dangereux doivent porter en
+caractères très lisibles la dénomination de leur contenu.
+Les récipients contenant des liquides inflammables doivent être hermétiquement clos.
+
+19.5. L'on ne peut conserver dans les ateliers et les lieux de travail que la quantité de produits
+inflammables nécessaire pour le travail de la journée. Les stocks de produits inflammables
+sont à conserver dans un local spécial.
+
+19.6. Un registre constamment tenu à jour de fiches de données de sécurité des agents
+chimiques dangereux utilisés doit être établi et tenu à disposition du travailleur désigné, des
+personnes donnant les premiers soins, des pompiers, des médecins et infirmiers et des
+autorités de contrôle.
+
+19.7. Sur la base des fiches de données de sécurité, des instructions d’utilisation écrites
+doivent être établies par l’exploitant concernant l’utilisation d’agents chimiques dangereux.
+Ces instructions d’utilisation doivent être adaptées au type d’activité et contenir sous une
+forme brève et précise des informations concernant les points suivants :
+    •   domaine d’activité et domaine d’utilisation
+    •   nom du produit et désignation des substances dangereuses contenues dans le produit
+    •   désignation des dangers
+    •   mesures de protection / règles d’utilisation
+    •   comportement en cas de danger (incendie, fuite)
+    •   premiers secours
+    •   élimination correcte et appropriée.
+
+
+
+page 31 de 40 pages                                                                 ITM-SST 1804.1
+19.8. Les instructions d’utilisation concernant la manipulation des agents chimiques
+dangereux doivent être disponibles dans une langue compréhensible pour les salariés devant
+manipuler et travailler avec ces produits.
+
+19.9. Les instructions d’utilisation doivent être :
+       •   remises au personnel manipulant ou travaillant avec les divers produits, ou
+       •   affichées sur les lieux de travail et les lieux d’activités où sont manipulés les divers
+           produits.
+
+19.10. Le personnel doit avoir pris connaissance du contenu des instructions d’emploi
+afférentes avant de manipuler et de travailler les divers produits.
+
+19.11. En cas d’utilisation d’agents cancérogènes ou mutagènes des catégories 1 ou 2, une
+demande préalable doit être obligatoirement formulée auprès des services de l’Inspection du
+Travail et des Mines. Cette demande doit par ailleurs comporter des informations sur les
+raisons de l’utilisation de tels agents.
+
+19.12. Près des endroits où sont manipulés des agents chimiques dangereux, doivent être
+installées des douches d'urgence ainsi que des douches oculaires.
+
+Art.: 20. - Agents biologiques
+
+20.1. Etant donné qu’en général les activités de traitement d’eau visées sont des activités au
+cours desquelles des salariés sont mis en contact avec des agents biologiques, le Règlement
+grand-ducal modifié du 4 novembre 1994 concernant la protection des travailleurs contre les
+risques liés à l’exposition à des agents biologiques au travail doit être pris en compte.
+
+Art.: 21. - Boues d'épuration et autres déchets d'origine des eaux usées
+
+21.1. Concernant toutes activités avec les boues d’épuration, mais également avec tout autre
+déchet provenant directement des eaux usées (déchets de dégrillage, résidus de dessablage,
+graisses, etc.), une „évaluation des risques“ selon le Règlement grand-ducal modifié du 4
+novembre 1994 concernant la protection des travailleurs contre les risques liés à l’exposition à
+des agents biologiques au travail devra être réalisée et les mesures de protection nécessaires
+devront être définies.
+
+21.2. La manipulation de ces déchets ne peut se faire que sous les précautions nécessaires à
+éliminer les risques biologiques.
+
+21.3. L’employeur est obligé d’informer et de renseigner ses employés, de façon régulière et
+compréhensible (forme, langue) à propos des dangers possibles pour la santé, du respect des
+mesures de protection mises en place, du port obligatoire des équipements de protection
+individuelle.
+
+21.4. Le stockage temporaire des boues d’épuration ainsi que leur transvasement doit se faire
+sous les précautions requises pour éliminer les risques biologiques.
+
+
+
+
+page 32 de 40 pages                                                                 ITM-SST 1804.1
+21.5. Lorsque des boues d’épuration sont déposées et exposées à l’air libre, il devra au
+préalable être démontré que ces boues ont été hygiénisées respectivement que ces boues sont
+sans risque du point de vue de l’hygiène.
+
+21. 6. Dans tous les autres cas, un stockage ouvert de boues d’épuration non hygiénisées n’est
+pas autorisé. Il peut être autorisé sur base d’une évaluation d’incidences sur la sécurité et la
+santé des travailleurs, à faire réaliser par un expert agréé.
+
+21.7. Dans le cas d’un stockage de boues d’épuration à l’air libre, un envol de poussières et de
+spores depuis ces boues doit être évité.
+
+21.8. Dans le cas d’un stockage de boues d’épuration séchées, la formation de moisissures
+devra être évitée.
+
+21. 9. Dans le cas de toute activité avec des boues d’épuration séchées, un danger de
+libération de poussières et de spores existe. Ce danger sera à prendre en considération dans
+l’évaluation des risques selon le Règlement grand-ducal du 4 novembre 1994 concernant la
+protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au
+travail et des mesures appropriées de protection devront être définies (p.ex. cabines d’aération
+protectrices, protection respiratoire P3, vêtements de protection jetables, etc.).
+
+21.10. Dans le cas d’une activité avec des boues d’épuration séchées générant des poussières,
+le risque d’existence d’une atmosphère explosive selon le chapitre 10 devra être considéré et
+évalué.
+
+21.11. Dans le cas où la station d’épuration est équipée d’une installation de traitement des
+boues d’épuration (mécanique, physico-chimique, thermique, etc.), des prescriptions
+spécifiques seront établies par les autorités de contrôle compétentes.
+
+21.12. Les déchets, notamment les matières de dégrillage, de dessablage, de déshuilage et de
+dégraissage, etc., doivent être éliminés régulièrement conformément aux lois et
+réglementations y afférentes.
+Les déchets et les boues d’épuration ne peuvent être incinérés, enterrés ou stockés
+définitivement sur le site de la station d’épuration.
+
+Art.: 22. - Atmosphère des lieux de travail
+
+22.1. La concentration dans l'air des poussières, fibres, fumées, gaz, vapeurs ou brouillards
+dangereux sur les lieux de travail ne doit pas atteindre des niveaux susceptibles de constituer
+un danger pour la santé des salariés.
+En particulier, les concentrations maximales admissibles des substances dangereuses
+susvisées sur les lieux de travail ne doivent pas dépasser les valeurs limites d’exposition
+professionnelle les plus récentes en vigueur.
+
+22.2. Des mesures et analyses concernant les valeurs limites doivent être effectuées d'après les
+prescriptions de l’Inspection du Travail et des Mines.
+
+
+
+
+page 33 de 40 pages                                                              ITM-SST 1804.1
+22.3. L'exploitant doit assurer une surveillance régulière et fréquente du milieu de travail afin
+de vérifier que les niveaux d'exposition des salariés ne dépassent pas les valeurs limites.
+
+22.4. L'exploitant doit s'assurer que les équipements ou installations (machines, matériels,
+véhicules) sont conformes aux normes d'hygiène et de sécurité au travail ou, à défaut de telles
+normes, conçus et protégés de façon à ne pas contaminer le milieu de travail.
+
+22.5. L'exploitant doit assurer la surveillance nécessaire pour que les salariés puissent
+accomplir leur travail dans les meilleures conditions d'hygiène et de sécurité; en particulier, il
+doit assurer l'inspection et l'entretien réguliers des installations et des machines pouvant
+contaminer ou intoxiquer les lieux de travail.
+
+22.6. Le remplacement d'un procédé technique ou d'un produit par un autre ne doit pas avoir
+pour effet de créer de nouveaux risques pour les salariés. Dans la mesure du possible les
+agents chimiques dangereux doivent être remplacés par des substances moins dangereuses.
+
+Art.: 23. - Gaz d’épuration
+
+23.1. Si du gaz d’épuration/gaz biologique est produit ou stocké, la présence d’une torchère
+est obligatoire, au moyen de laquelle le gaz excédentaire peut être brûlé sans mise en danger
+du personnel ou du voisinage.
+
+En plus une étude à risques est à faire réaliser par un organisme agréé et est à joindre au
+dossier de demande.
+
+Art.: 24. - Cogénération
+
+24.1. Si dans une station d’épuration il y a présence de centrales de cogénération, les
+exigences des prescriptions de sécurité type n° ITM-CL 152 (centrales de cogénérations)
+doivent être respectées.
+
+Art.: 25. - Premiers soins
+
+25.1. Le chapitre „Premiers secours“ des prescriptions de prévention des accidents, éditées par
+l’Association d’Assurance contre les Accidents (www.aaa.lu), est à respecter.
+
+25.2. L’exploitant de la station d’épuration est tenu de prendre des mesures pour assurer les
+premiers soins aux victimes.
+
+25.3. Sont à tenir à disposition du personnel en nombre suffisant et en des endroits
+judicieusement choisis, des boîtes de premiers secours contenant le matériel nécessaire pour
+donner les premiers soins en cas d'accident.
+Ces boîtes doivent faire l'objet d'une signalisation appropriée et doivent être facilement
+accessibles.
+
+25.4. Sont à prévoir en nombre suffisant et en des endroits judicieusement choisis des
+appareils téléphoniques pouvant servir à appeler les secours en cas d'accident ou de sinistre.
+
+
+
+
+page 34 de 40 pages                                                                ITM-SST 1804.1
+Art.: 26. - Exploitation
+
+26.1. Les lieux de travail doivent être tenus en parfait état de propreté et d'entretien. Ils
+doivent être nettoyés aussi souvent que nécessaire mais au minimum une fois par jour.
+
+26.2. Les portes, les portails, les escaliers et trottoirs roulants ainsi que toutes les autres
+installations similaires doivent être maintenus dans un parfait état d'entretien et sont à vérifier
+régulièrement.
+
+26.3. L'accès à la station d’épuration est interdit aux personnes qui n'y sont pas appelées par
+leur service. Des panneaux apposés à l'entrée de la station d’épuration doivent indiquer cette
+interdiction par la mention "Entrée interdite aux personnes non-autorisées".
+
+26.4. Des visites du site avec des groupes de visiteurs sont uniquement autorisées sous
+condition préalable d’un avis favorable du Ministère de la Fonction Publique et de la Réforme
+administrative - Service national de la sécurité dans la fonction publique.
+
+26.5. Avant toute visite, une information des visiteurs à propos des consignes de sécurité est
+obligatoire.
+
+26.6. D’éventuels visiteurs doivent obligatoirement être accompagnés. Une assurance à
+responsabilité civile doit couvrir tout dommage pouvant survenir aux visiteurs.
+
+26.7. L’exploitation de la station d’épuration doit être conduite et surveillée par une personne
+qualifiée, expérimentée et responsable.
+
+26.8. Les travaux d’entretien et de réparation ne doivent être confiés qu’à un personnel
+qualifié et compétent.
+
+Art.: 27. - Registres
+
+27.1. Toutes les vérifications et tous les contrôles concernant les installations de sécurité
+doivent faire l'objet d'une inscription sur un registre ouvert à cet effet.
+Ce registre comprendra les mentions suivantes :
+       •   date et nature de la vérification;
+       •   personne ou organisme ayant effectué le contrôle;
+       •   motif de la vérification;
+       •   si le contrôle a été effectué suite à un incident, la nature et la cause de l'incident.
+
+27.2. Tous les exercices prévus au chapitre 9 doivent faire l'objet d'inscriptions dans un
+second registre.
+
+27.3. Est à tenir pour chaque machine et installation qui présente un risque pour la sécurité et
+la santé des salariés et des visiteurs un registre d'entretien séparé.
+Doivent figurer au moins sur ces registres :
+       •   les descriptions des opérations de maintenance que la machine ou l'installation a
+           subies;
+
+
+
+
+page 35 de 40 pages                                                                   ITM-SST 1804.1
+       •   les rapports des contrôles effectués;
+       •   un descriptif de toutes les interventions et modifications effectuées sur la machine
+           ou l'installation et pouvant avoir une influence sur la sécurité du personnel;
+       •   les dates des interventions;
+       •   le nom des personnes ou des organismes ayant effectué les interventions.
+
+27.4. Tous ces registres doivent être tenus à la disposition des organismes de contrôle.
+
+Art.: 28. - Rapport de réception et de contrôle
+
+28.1. Avant la mise en exploitation de la station d’épuration l’exploitant de la station
+d’épuration est tenu de faire établir pour l’ensemble de l’établissement un rapport de réception
+et de contrôle dressé par un organisme de contrôle agréé.
+Ce rapport de réception et de contrôle doit comprendre :
+a) la réception et tous les contrôles et essais à effectuer dans le cadre des différentes
+conditions d’exploitation respectivement des prescriptions de sécurité et de santé-types (e.a.
+les installations électriques).
+b) la vérification de la conformité et la comparaison de toutes les conditions d’exploitation (et
+en premier lieu les prescriptions de sécurité types ITM-SST 1804.1 "Stations d’épuration"
+pour l’ensemble de l’établissement par rapport au projet tel qu’exécuté; (p.ex. plan d’hygiène)
+c) la réception et tous les contrôles et essais à effectuer des mesures (p.ex. : compartimentage,
+etc.) et installations (p.ex.: détection d’incendie automatique, coupoles de désenfumage,
+éclairage de secours, etc.) de protection et de prévention contre l’incendie.
+
+
+
+               Visa du Directeur adjoint                              Mise en vigueur
+               de l’Inspection du Travail                            le 30 octobre 2009
+                      et des Mines
+                            s.                                                s.
+
+                  Robert HUBERTY                                         Paul WEBER
+                                                                           Directeur
+                                                                  de l’Inspection du Travail
+                                                                         et des Mines
+
+
+
+
+page 36 de 40 pages                                                                 ITM-SST 1804.1
+                                                                                         Annexe I
+Plan d’hygiène
+Le plan d’hygiène définit et décrit le nettoyage et la désinfection des locaux, des mobiliers,
+des appareils, des outillages et des objets divers.
+Le plan d’hygiène doit donner des renseignements précis sur les points suivants :
+
+Quoi?                 Par ex. bâtiment, local, surface, appareil, outillage, objet, véhicule
+
+Où?                   Par ex. service, étage, local, zone d’activité, cabine
+
+Quand?                Par ex. fréquence, moment défini
+                      Par ex. produits de nettoyage et de désinfection à utiliser, concentrations des
+Avec quoi?            produits, durée de l’action, ustensiles nécessaires, équipement de protection
+                      individuelle
+                      Par ex. instructions pour l’exécution, comme par ex. essuyer, pulvériser,
+Comment?              faire tremper
+Qui?                  Par ex. noms, fonctions, compétences et responsabilités, surveillance
+
+
+Dans la mesure où il n’y a pas de consignes spécifiques concernant la désinfection des mains,
+la désinfection du linge, le traitement des déchets ainsi que, le cas échéant, le contrôle
+d’hygiène des installations de ventilation, le plan d’hygiène devra alors aussi contenir des
+indications concernant ces différents points.
+
+Plan de protection pour la peau
+Le plan de protection pour la peau décrit les dangers concernant la peau, au cours de la
+journée de travail. En particulier, ce plan doit détailler les moyens de protection, de nettoyage
+et de soins de la peau à mettre en œuvre pour réduire au minimum ces dangers. Ce plan est à
+établir par l’exploitant et à informer respectivement faire connaître aux salariés par affichage
+sous une forme appropriée. Le contenu du plan de protection pour la peau fait partie des
+instructions données de façon régulière.
+Les dangers pour la peau peuvent provenir par exemple des cas de figure suivants :
+
+    •   Manipulation de produits corrosifs, irritants ou sensibilisants
+    •   Actions mécaniques
+    •   Travail en milieu humide
+    •   Froid ou chaleur
+    •   Rayons UV
+    •   Port prolongé de gants étanches
+    •   Nettoyage fréquent et intensif de la peau
+
+
+
+
+page 37 de 40 pages                                                                     ITM-SST 1804.1
+                                                                                          Annexe II
+
+
+     Exemples de zones présentant un danger d’explosion et de mesures de
+                   protection contre le risque d’explosion1)
+
+
+
+a) Exemples de zones présentant un danger d’explosion
+
+
+1. Déversement des eaux usées
+1.1 Enceintes confinées dans lesquelles des eaux          p.ex. des pompes, puisards de pompage,
+usées sont stockées mais également les parties            galeries, bassins, canalisations de rétention,
+internes des machines, appareils, récipients,             chambres de visites de canalisation, dans
+canalisations des circuits fermés de circulation des      lesquels des conduites sous pression seront
+eaux                                                      ventilées, siphons, etc.
+                                                          p.ex. des canalisations, conduites sous
+                                                          pression, chambres de visite de canalisation où
+1.2 Installations où circulent les eaux usées
+                                                          circulent les eaux usées, canaux profonds
+                                                          ouverts (prof. > 2 m), etc.
+                                                       p.ex. des salles et pièces avec des pompes à
+1.3 Salles et pièces, qui peuvent être reliées par des eaux usées en zones sèches ou avec des
+ouvertures aux installations et équipements listés au systèmes fermés de circulation d’eaux, des
+point 1.1                                              accès aux bassins et aux canalisations de
+                                                       rétention, etc.
+
+2. Traitement des eaux usées
+2.1 Salles et pièces aériennes localisées en entrée p.ex. des édifices en entrée de station de
+d’installations de traitement d’eaux usées et où traitement, bâtiment de dégrillage, installation
+circuleront des eaux usées                          de dessablage en intérieur de bâtiments, etc.
+2.2 Les parties internes de machines, appareils,
+                                                          p.ex. des parties de bâtiments encapsulés, des
+récipients, canalisations mais également les enceintes
+                                                          bassins et canaux fermés, des puisards de
+confinées qui seront traversées par des eaux usées ou
+                                                          pompage, des installations et vannes de
+des boues circulantes ou qui contiendront des eaux
+                                                          distribution, etc.
+usées ou des boues
+                                                        p.ex. bâtiments avec canaux fermés et parties
+2.3 Salles et pièces, qui pourront être reliées par des d’installations  encapsulées,   salles   des
+ouvertures aux installations et équipements listés au machines localisées au-dessus de puisards de
+point 2.2                                               pompage, salles avec récipients à boues
+                                                        ouvrables, etc.
+2.4 Parties d’installations à l’air libre
+
+
+1)
+     Source et informations supplémentaires : BGI 5033 „Beispielsammlung Explosionsschutzmaßnahmen bei der
+     Arbeit im Bereich von abwassertechnischen Anlagen“
+
+
+
+page 38 de 40 pages                                                                       ITM-SST 1804.1
+3. Digestion des boues
+3.1 Récipients fermés de digestion des boues
+3.2 Salles et pièces, remplies de boues de digestion p.ex. chambres de visite au niveau des salles-
+ou d’eaux en contact avec les boues, ou qui seront pièces avec boues de digestion/eaux en
+traversées par ce type de matrices                   contact, post-épaississant, etc.
+3.3 Salles et pièces qui contiennent des équipements p.ex. conduites de gaz, armatures, appareils de
+techniques pour la circulation des gaz de digestion  mesurage, etc.
+3.4 Equipements techniques où circulent des gaz de
+                                                   p.ex. filtres à gaz, équipements pour désulfurer
+digestion, qui seront ouverts pendant leur
+                                                   les gaz, dessiccateurs de gaz, etc.
+exploitation ou pour entretien
+3.5 Salles et pièces qui contiennent les dérivations de
+condensats
+3.6 Zones au niveau desquelles aboutissent des
+décharges de gaz sous pression
+3.7 Récipients de gaz de digestion
+3.8 Torches à gaz
+3.9 Désulfurisation des gaz
+3.10 Installations fonctionnant avec les gaz de
+                                                          p.ex. machines à gaz, brûleurs, etc.
+digestion
+3.11 Soufflerie et compacteurs des gaz de digestion
+3.12 Régulateur de pression pour les gaz de digestion
+3.13 Salles et pièces, dans lesquelles les boues de
+digestion seront déshydratées mécaniquement
+3.14 Zones dans lesquelles les boues de digestion
+déshydratées seront stockées
+3.15 Dessiccateur à boues et salles dans lesquelles
+les boues déshydratées seront stockées
+
+
+
+
+page 39 de 40 pages                                                                       ITM-SST 1804.1
+b) Exemples de mesures de protection anti-explosion
+
+
+    •   Evitement ou limitation de l’utilisation de produits qui peuvent former des
+        mélanges explosibles
+    •   Inerter
+    •   Prévention ou limitation de l’apparition de mélanges explosibles à l’intérieur des
+        appareils et installations
+    •   Prévention ou limitation de la formation d’atmosphères explosibles à proximité
+        des appareils et équipements
+    •   Procédés techniques, modèle et agencement de l’installation
+    •   Mesures de ventilation et d’aération
+    •   Aération naturelle
+    •   Aération-ventilation technique (aération-ventilation de la pièce)
+    •   Surveillance des concentrations à proximité des armatures
+    •   installations d’alerte gaz avec alarme
+    •   Installations d’alerte gaz avec déclenchement automatique de circuits (mise en
+        route / arrêt)
+    •   Installations d’alerte gaz avec déclenchement automatique de fonctions
+        d’urgence
+    •   Mode de construction résistant aux explosions
+    •   Mode de construction résistant au souffle d’explosion
+
+
+
+
+page 40 de 40 pages                                                         ITM-SST 1804.1
+

@@ -1,0 +1,672 @@
+                                          GRAND-DUCHÉ DE LUXEMBOURG
+
+
+
+                                           Le présent texte a été établi par
+                                       l’Inspection du travail et des mines et
+                                  le Corps grand-ducal d’incendie et de secours.
+
+
+
+
+                                           ITM-SST 1511.2 + A1
+                                            Version du 19 décembre 2024
+
+                                                  Établissements
+                       artisanaux et industriels ≤ 10.000 m²
+                                        Le présent document comporte 4+11 pages
+
+
+
+
+Note : Le présent document reprend les dispositions de la version ITM-SST 1511.2, adaptées
+sous forme d’un addendum aux nouvelles définitions générales ITM-SST 1500.4 ainsi qu’aux
+nouvelles dispositions générales ITM-SST 1501.6, ITM-SST 1502.5 et ITM-SST 1503.5.
+
+
+
+
+Inspection du travail et des mines
+Adresse postale :         B.P. 27                  L-2010 Luxembourg               Tel. : +352 247-76100
+Bureaux :                 3, rue des Primeurs      L-2361 Strassen                 Fax : +352 247-96100
+Site internet :           https://itm.public.lu
+                       Addendum 1 à l’ITM-SST 1511.2
+
+
+Article 1er    Objectif et champ d’application
+▪    Le présent « Addendum 1 à l’ITM-SST 1511.2 » modifie certaines dispositions et références
+     de l’ITM-SST 1511.2 afin de garantir la cohérence avec les dispositions générales publiées
+     en décembre 2024.
+
+▪    L’article 1.1. est modifié comme suit :
+     « Les présentes dispositions spécifiques sont applicables en complément des dispositions
+     générales, ITM-SST 1501.6, 1502.5 respectivement 1503.5, sur lesquels ils priment en cas de
+     contradiction. »
+
+
+Article 2.     Définitions
+Sans objet
+
+
+Article 3.     Implantation
+Sans objet
+
+
+Article 4.     Aménagements extérieurs
+▪    Le premier alinéa de l’article 4.2. est modifié comme suit :
+     « 4.2 Tout établissement doit être accessible par les auto-échelles et véhicules des services
+     de secours sur au moins une des façades principales sur toute la longueur. Aucun point des
+     autres façades ne peut être situé à plus de 40 m de la façade accessible. A défaut, une ou
+     plusieurs des autres façades doivent également être accessibles. […] »
+
+
+Article 5.     Construction
+Sans objet
+
+
+Article 6.     Aménagements intérieurs
+Sans objet
+
+
+
+
+ 2                                                                         ITM-SST 1511.2 + A 1
+Article 7.     Compartimentage
+▪    Les articles 7.1.1. et 7.1.2. sont modifiés comme suit :
+     « 7.1.1. Par dérogation aux articles 7.2.6. et 7.2.7 des dispositions générales, tous les
+     éléments constituant la façade doivent être au moins:
+       ➢ Euroclasses D s2d2 pour les établissements de 1ère catégorie et 2ème catégorie à
+         simple rez-de-chaussée;
+       ➢ Euroclasses B s2d1 pour les établissements de 1ère catégorie et 2ème catégorie
+         comportant plusieurs niveaux et 3ème catégorie à simple rez-de-chaussée;
+       ➢ Euroclasses A1 ou A2 pour les établissements de 3ème catégorie comportant plusieurs
+         étages;
+     Toutefois si l’établissement est équipé d’une installation d’extinction automatique, des
+     éléments Euroclasse C s2d1 peuvent être utilisés pour les façades. »
+     « 7.1.2. En aggravation des dispositions générales ITM-SST 1501.6, pour éviter un retour de
+     flammes dans la verticale entre les différents étages d’un établissement de 2 ème ou 3ème
+     catégorie, les éléments de façade doivent créer une séparation de minimum 1 m
+     conformément à l’article 7.2.4. des dispositions générales ITM-SST 1502.5.
+     Toutefois si l’établissement est équipé d’une installation d’extinction automatique, cet
+     article ne s’applique pas. »
+
+▪    L’article 7.2.1. est modifié comme suit :
+     « L’article 7.3.1. des dispositions générales n’est pas applicable. »
+
+▪    L’article 7.2.4. est modifié comme suit :
+     « 7.2.4. En allègement à l’article 7.3.3 des dispositions générales, le compartimentage
+     coupe-feu entre les niveaux peut être identique à celui de la structure portante de
+     l’établissement. »
+
+
+Article 8.     Evacuation de personnes
+▪    Les termes « chemin d’évacuation » et « chemin de secours » sont remplacés par le
+     terme « voie d’évacuation ».
+
+▪    L’article 8.1.5. est modifié comme suit :
+     « 8.1.5. En atténuation à l’article 8.4.5. des dispositions générales, les escaliers doivent avoir
+     une largeur minimale libre de 1 m. »
+
+▪    L’article 8.1.12. est supprimé.
+     Note : Ce point est devenu obsolète suite à la modification des dispositions générales.
+
+
+Article 9.     Eclairage
+▪    Les articles 9.2. et 9.3. sont supprimés.
+     Note : Ces points sont couverts par les dispositions générales spécifiées dans l’article 1.
+ 3                                                                             ITM-SST 1511.2 + A 1
+Article 10. Désenfumage
+Sans objet
+
+
+Article 11. Installations techniques
+Sans objet
+
+
+Article 12. Installations au gaz
+Sans objet
+
+
+Article 13. Installations électriques
+Sans objet
+
+
+Article 14. Prévention de panique en cas d’alarme
+Sans objet
+
+
+Article 15. Moyens de secours et d’intervention
+▪    L’article 15.3. est modifié comme suit :
+     « En aggravation à l’article 15.3.2. des dispositions générales, des R.I.A. sont requis pour les
+     établissements de la 3ème catégorie, indépendamment de la surface de compartiment. »
+
+
+Article 16. Registre de sécurité
+Sans objet
+
+
+Article 17. Réceptions et contrôles
+Sans objet
+
+
+Annexe :       ITM-SST 1511.2
+
+
+
+
+ 4                                                                           ITM-SST 1511.2 + A 1
+GRAND-DUCHE DE LUXEMBOURG                                                            Strassen, le 9 octobre 2018
+
+
+
+
+                     Le présent texte a été établi par l’Inspection du travail et des mines et
+                         le Service Incendie et Ambulance de la Ville de Luxembourg.
+
+
+                                                                               ITM-SST 1511.2
+
+
+                    Prescriptions de prévention incendie
+                        DISPOSITIONS SPECIFIQUES
+                               Établissements
+                    artisanaux et industriels ≤ 10.000 m²
+                                             Le présent document comporte 11 pages
+
+
+                                                      SOMMAIRE
+      Article 1er      Objectif et champ d'application                                                     2
+      Article 2        Définitions                                                                         2
+      Article 3        Implantation                                                                        3
+      Article 4        Aménagements extérieurs                                                             3
+      Article 5        Construction                                                                        4
+      Article 6        Aménagements intérieurs                                                             5
+      Article 7        Compartimentage                                                                     6
+      Article 8        Evacuation de personnes, issues et chemins d'évacuation                             8
+      Article 9        Eclairage                                                                           9
+      Article 10       Désenfumage (Evacuation de fumée et de chaleur)                                     9
+      Article 11       Installations techniques                                                            9
+      Article 12       Installations au gaz                                                                9
+      Article 13       Installations électriques                                                           9
+      Article 14       Prévention de panique en cas d'alarme                                               10
+      Article 15       Moyens de secours et d'intervention                                                 10
+      Article 16       Registre de sécurité                                                                11
+      Article 17       Réception et contrôles                                                              11
+
+      Inspection du travail et des mines
+      Adresse postale:        B.P. 27                  L-2010 Luxembourg                     Tel.: +352 247-76100
+      Bureaux:                3, rue des Primeurs      L-2361 Strassen                       Fax: +352 247-96100
+      Site internet:          http://www.itm.lu
+Article 1er Objectif et champ d'application
+1.1. Généralités
+Les établissements sont soumis aux dispositions générales, ITM-SST 1501 et ITM-SST 1502,
+applicables à tous les établissements et aux dispositions spécifiques qui leur sont propres.
+
+1.2. Domaine d'application
+Les présentes prescriptions ont pour objectif de spécifier les prescriptions de sécurité par
+rapport au personnel, aux visiteurs et clients, auxquelles doivent répondre la conception, la
+construction, l’aménagement et l’exploitation d’établissements artisanaux et industriels dont la
+surface au sol n'excède pas 10.000 m².
+Compte tenu de la diversité des activités industrielles et artisanales, et des risques particuliers
+qui leurs sont propres, des allégements ou dispenses aux présentes prescriptions peuvent
+être accordés de cas en cas, mais uniquement si des mesures compensatoires, présentant
+des garanties de sécurité au moins équivalentes, sont proposées aux autorités compétentes.
+De même les autorités compétentes peuvent être amenées à aggraver certaines dispositions
+aux présentes prescriptions compte tenu de certains risques particuliers.
+
+Article 2 Définitions
+2.1. Etablissements artisanaux et industriels
+Le terme « établissement » est utilisé dans le présent texte pour indiquer qu’il s’agit d’un
+établissement artisanal et/ou industriel, d’un hall de production, d’un hall de stockage, d’un
+atelier de réparation, d’un atelier mécanique, d’une menuiserie, etc.
+Les établissements concernés par les dispositions ci-après sont entre autre:
+➢ les dépôts d’engrais,
+➢ les dépôts de matières plastiques ou synthétiques,
+➢ les dépôts de pesticides et produits phytopharmaceutiques,
+➢ le stockage de liquides et de gaz,
+➢ les ateliers et garages de réparation et d’entretien,
+➢ les ateliers de travail du bois,
+➢ les dépôts de bois,
+➢ les dépôts de papier, pâte à papier et carton,
+➢ les ateliers de marbres ou pierres naturelles et artificielles,
+➢ la fabrication de verre et d’articles en verre,
+➢ les ateliers de travail de métaux et de mécanique générale,
+➢ les imprimeries, ateliers d’héliogravure, de flexographie et de sérigraphie,
+➢ les dépôts de substances ou mélanges classés comme dangereux (mention
+  d’avertissement « attention » ou « danger »).
+
+
+
+
+ 2                                                                               ITM-SST 1511.2
+Ces établissements sont classés en trois catégories:
+1ère catégorie: les établissements induisant de faibles risques,
+Établissements ne nécessitant pas l’utilisation et le stockage de produits dangereux.
+(p. ex.: les ateliers de marbres ou pierres naturelles et artificielles, les dépôts de verre et d’articles en
+verre, etc.)
+2ème catégorie: les établissements induisant des risques moyens,
+Établissements nécessitant l'utilisation de produits dangereux et de dépôts, au pouvoir
+calorifique important, en faible quantité et ne nécessitant pas de stockage de produits
+dangereux en quantité importante.
+(p. ex.: les ateliers et garage de réparation et d’entretien, les ateliers de travail du bois, les dépôts de
+bois en faible quantité, les dépôts de papier, pâte à papier et carton en faible quantité, les ateliers de
+travail de métaux et de mécanique générale, les imprimeries, ateliers d’héliogravure, de flexographie et
+de sérigraphie, etc.)
+3ème catégorie: les établissements induisant des risques importants.
+Établissements nécessitant l'utilisation soit de produits dangereux en quantité importante, soit
+de dépôts au pouvoir calorifique important en quantité élevée ou permettant une propagation
+rapide d'un éventuel incendie et nécessitant des stockages de matières dangereuses.
+(p. ex.: les dépôts de bois en quantité importante, les dépôts de papier, pâte à papier et carton en
+quantité importante, les dépôts d’engrais, les dépôts de matières plastiques ou synthétiques, les dépôts
+de pesticides et produits phytopharmaceutiques, le stockage de liquides et de gaz, les dépôts de
+substances ou mélanges classés comme dangereux (mention d’avertissement « attention » ou
+« danger »))
+La classification dans l'une ou l'autre de ces catégories se fait en accord avec les autorités
+compétentes.
+
+Article 3 Implantation
+Voir dispositions générales.
+
+Article 4 Aménagements extérieurs
+4.1. Les quais et rampes de chargement extérieurs doivent être appropriés aux dimensions
+des charges transportées et doivent offrir une sécurité telle que les salariés ne puissent chuter.
+4.2 En aggravation de l’article 4.4.1 des dispositions générales ITM-SST 1501, tout
+établissement doit être accessible par les auto-échelles et véhicules des services de secours
+sur au moins une des façades principales sur toute la longueur. Aucun point des autres
+façades ne peut être situé à plus de 40 m de la façade accessible. A défaut, une ou plusieurs
+des autres façades doivent également être accessibles.
+
+
+                                                        Exemple 1: La profondeur P et la longueur
+                                                        L de l’établissement sont inférieurs à 40 m
+                                                        avec L ≥ P. La façade principale L doit être
+                                                        accessible aux services de secours sur
+                                                        toute la longueur.
+
+
+
+
+ 3                                                                                        ITM-SST 1511.2
+                                                   Exemple 2: La profondeur P de
+                                                   l’établissement est inférieure à 40 m, la
+                                                   longueur L est supérieure à 40 m. La façade
+                                                   principale L doit être accessible aux
+                                                   services de secours.
+
+
+
+
+                                                   Exemple 3: La profondeur P et la longueur
+                                                   L de l’établissement sont supérieurs à 40 m
+                                                   avec L ≥ P. Les deux façades principales L
+                                                   opposées l’une de l’autre doivent être
+                                                   accessibles aux services de secours
+
+
+
+
+4.3 Pour les établissements d’une surface au sol supérieure à 5.000 m², une voie de circulation
+périphérique doit être réalisée de façon à permettre la libre circulation des services de secours.
+4.4 En aggravation des dispositions générales, au droit des accès de livraisons, des
+élargissements de la voirie, type emplacements d'arrêt d'urgence, d'une largeur de 2,50 m
+doivent être prévus afin de libérer en permanence cette voie.
+4.5 Les stockages extérieurs à l’air libre doivent être définis et déclarés tant par leur position,
+leurs dimensions que par leur contenu. Ils peuvent être partiellement couverts et/ou fermés et
+éloignés ou accolés à l’établissement. S’ils sont situés à une distance égale ou supérieure à
+5 m ou s’il s’agit de matières incombustibles, aucun isolement vis-à-vis de l’établissement n’est
+requis. Si au contraire cette distance est inférieure à 5 m et s’il s’agit de matières combustibles,
+un isolement pare-flamme 60 minutes (E60) est exigé.
+
+Article 5 Construction
+5.1. Tout risque d’effondrement en chaîne ou d’effondrement de parties de l’établissement sur
+les voies extérieures doit être évité.
+
+5.2. Stabilité au feu des structures
+5.2.1. Etablissements de 1ère catégorie
+Aucune stabilité au feu n’est requise pour les bâtiments à simple rez-de-chaussée.
+Pour les bâtiments comportant un ou plusieurs étages, la stabilité au feu est à réaliser suivant
+les dispositions générales.
+5.2.2. Etablissements de 2ème catégorie
+Aucune stabilité au feu n’est requise pour les bâtiments d’une surface inférieure ou égale à
+2.500 m² à simple rez-de-chaussée.
+Pour les bâtiments à simple rez-de-chaussée d’une surface supérieure à 2.500 m² la stabilité
+au feu doit être de 30 minutes (R30).
+Pour les bâtiments comportant un ou plusieurs étages, la stabilité au feu est à réaliser suivant
+les dispositions générales.
+
+
+
+
+ 4                                                                                ITM-SST 1511.2
+5.2.3. Etablissements de 3ème catégorie
+Pour les bâtiments à simple rez-de-chaussée d’une surface inférieure à 2.500 m² la stabilité
+au feu doit être de 30 minutes (R30).
+Pour les bâtiments à simple rez-de-chaussée d’une surface supérieure à 2.500 m² la stabilité
+au feu doit être de 60 minutes (R60).
+Pour les bâtiments comportant un ou plusieurs étages, la stabilité au feu est à réaliser suivant
+les dispositions générales et doit être au minimum de 60 minutes (R60).
+5.3. Si l’établissement est équipé d’une installation d’extinction automatique, la surface peut
+être doublée.
+5.4. Des mezzanines d’une surface maximale totale de 600 m² sont autorisées à l’intérieur de
+ces établissements sans stabilité au feu. Si l’établissement est équipé d’une installation
+d’extinction automatique, cette surface peut être doublée.
+
+Article 6 Aménagements intérieurs
+6.1. En dérogation de l’article 6.2.3 des dispositions générales, les différents éléments de
+structure et de fixation des cloisons intérieures et les éléments décoratifs en relief peuvent ne
+pas être stable au feu.
+6.2. Les quais et rampes de chargement intérieurs doivent être appropriés aux dimensions
+des charges transportées et doivent offrir une sécurité telle que les salariés ne puissent chuter.
+6.3. Tous les éléments de structure doivent présenter une résistance mécanique suffisante et
+être protégés contre les chocs (p.ex. de véhicules).
+6.4. Toutes les mesures utiles sont à prendre pour pouvoir évacuer en cas d'incendie les eaux
+d'extinction au fur et à mesure de leur arrivée, sans que se créent des flaques ou des mares.
+6.5. En allègement des articles 6.5.2 et 6.5.3 des dispositions générales, les garde-corps d'une
+hauteur de 1 m (1,10 m si hauteur de chute supérieure à 12 m) doivent être munis d’une main
+courante en partie haute, d'une lisse intermédiaire à 0,40 ou 0,50 m du sol et d'une plinthe au
+sol d’une hauteur minimale de 10 cm.
+6.6. Les ateliers de construction et de réparation de véhicules à moteur à combustion interne
+ou d'engins similaires doivent disposer d'un ou de plusieurs dispositifs d'évacuation des gaz
+d'échappement, auxquels sont à raccorder les tuyaux d'échappement des moteurs ou
+appareils qui doivent être mis en marche dans les ateliers pour essais et réglage.
+6.7. Les chiffons, cotons, papiers etc. imprégnés de liquides inflammables ou de substances
+grasses doivent être déposés dans des récipients métalliques clos et étanches.
+6.8. Il est formellement interdit de fumer et d’apporter du feu nu dans ces établissements. Des
+lieux appropriés et équipés doivent être définis et signalés. Cette interdiction doit être affichée
+en caractères très apparents dans ces locaux et sur les portes d'entrée.
+6.9. Dans le cas où des opérations comportant l'emploi de chalumeaux, lampes à souder, etc.
+doivent être effectuées, toutes les précautions utiles doivent être prises pour éviter un danger
+d'incendie.
+
+
+
+
+ 5                                                                               ITM-SST 1511.2
+6.10. Hauteur de stockage
+La hauteur de stockage maximale est limitée à 9 m, le dernier plateau de stockage ne peut se
+trouver à une hauteur supérieure à 7,50 m. Toutefois pour des hauteurs supérieures, des
+mesures supplémentaires en fonction des critères de vitesse de propagation du feu et de
+densité de charge calorifique des produits et matériaux stockés doivent être prévues et
+transmises pour accord aux autorités compétentes.
+Si l'établissement est équipé d'une installation d’extinction automatique, l'étude spécifique de
+cette installation indiquera avec précision les hauteurs réelles de stockage possible en fonction
+des critères évoqués ci-dessus. En cas de changement de produits stockés, l'installation
+d’extinction automatique doit être adaptée aux nouveaux produits. L’étude indiquera
+également s’il est nécessaire de mettre en place à plusieurs niveaux de hauteur l’extinction
+automatique.
+
+Article 7 Compartimentage
+7.1. Façades
+7.1.1. Tous les éléments constituant la façade doivent être au moins:
+     ➢ Euroclasses D s2d2 pour les établissements de 1ère catégorie et 2ème catégorie à simple
+       rez-de-chaussée;
+     ➢ Euroclasses B s2d1 pour les établissements de 1ère catégorie et 2ème catégorie
+       comportant plusieurs niveaux et 3ème catégorie à simple rez-de-chaussée;
+     ➢ Euroclasses A1 ou A2 pour les établissements de 3ème catégorie comportant plusieurs
+       étages;
+Toutefois si l’établissement est équipé d’une installation d’extinction automatique, des
+éléments Euroclasse C s2d1 peuvent être utilisés pour les façades.
+7.1.2. En aggravation des dispositions générales ITM-SST 1501, pour éviter un retour de
+flammes dans la verticale entre les différents étages d’un établissement de 2ème ou 3ème
+catégorie, les éléments de façade doivent créer une séparation de minimum de 1 m
+conformément à l’article 7.1 des dispositions générales ITM-SST 1502.
+Toutefois si l’établissement est équipé d’une installation d’extinction automatique, cet article
+ne s’applique pas.
+
+7.2. Bâtiment
+7.2.1. L’article 7.2.1 des dispositions générales n’est pas applicable.
+7.2.2. Un compartiment est limité à :
+1.600 m² pour un établissement de 3ème catégorie;
+3.200 m² pour un établissement de 2ème catégorie;
+5.000 m² pour un établissement de 1ère catégorie;
+Si l’établissement est équipé d’une installation d’extinction automatique, la surface d’un tel
+compartiment coupe-feu peut être doublée mais sans dépasser les 10.000 m².
+7.2.3. Le compartimentage se fait par des murs coupe-feu 90 minutes (REI 90). La
+communication entre deux compartiments principaux se fait par une porte coupe-feu
+90 minutes et coupe-fumée (EI 90-S).
+Les murs coupe-feu 90 minutes (REI 90) doivent dépasser de 0,5 m la toiture.
+Aucune ouverture dans les façades (portes, fenêtres) ne doit se trouver sur une largeur de
+moins de 1 m du mur coupe-feu en cas d’une façade non combustible (Euroclasse A1 ou A2)
+et sur une largeur de moins de 5 m du mur coupe-feu pour les autres façades.
+
+
+ 6                                                                              ITM-SST 1511.2
+En aggravation des dispositions générales, aucune ouverture dans la toiture (coupoles,
+exutoires de fumée) ne doit se trouver sur une largeur de moins de 5 m du mur coupe-feu.
+En cas d’une différence de hauteur supérieure à 0,5 m entre des compartiments les cas de
+figure suivants sont possibles:
+a) Le mur coupe-feu 90 minutes (REI 90) est réalisé jusqu’à la hauteur de la toiture du
+   compartiment le plus élevé et ne doit pas contenir d’ouvertures.
+b) Le mur coupe-feu 90 minutes (REI 90) est réalisé jusqu’à la hauteur de la toiture du
+   compartiment le plus bas. La toiture du compartiment le plus bas y compris les parties
+   portantes sont à réaliser coupe-feu 90 minutes (REI 90) sur une largeur identique à la
+   différence de hauteur entre les compartiments. Toutefois cette largeur ne peut être
+   inférieure à 5 m et ne doit pas contenir d’ouvertures. Pour les différences de hauteur entre
+   les compartiments supérieures à 8 m, cette largeur peut être limitée à 8 m.
+7.2.4. En allègement à l’article 7.2.3 des dispositions générales, le compartimentage coupe-
+feu entre les niveaux peut être identique à celui de la structure portante de l’établissement.
+7.2.5. Les locaux de production, les laboratoires et les ateliers sans danger particulier
+d'incendie ainsi que les bureaux individuels et les vestiaires peuvent être réunis en un même
+compartiment coupe-feu avec l’établissement. La surface maximale totale de ces locaux doit
+être inférieure à 80 m².
+7.2.6. Les espaces n’entrant pas dans le cadre de l’article 7.2.5. ci-dessus doivent être
+compartimentés selon les critères ci-dessous:
+Pour les établissements de 1ère et 2ème catégorie, ce compartiment est à réaliser par des murs
+coupe-feu 60 minutes (REI 60) et des portes coupe-feu 30 minutes et coupe-fumée (EI 30-S).
+Pour les établissements de 3ème catégorie, ce compartiment est à réaliser par des murs coupe-
+feu 90 minutes (REI 90) et des portes coupe-feu 60 minutes et coupe-fumée (EI 60-S).
+7.2.7. Les espaces comprenant des bureaux et des locaux à faibles risques peuvent toutefois
+se trouver à l’intérieur des établissements sans degré de résistance au feu à condition que
+leur surface totale ne soit pas supérieure à 400 m², qu’ils soient équipés de baies, de châssis
+ou de menuiseries vitrées qui permettent une bonne visibilité du hall et disposant d’une sortie
+directe vers l’extérieur.
+7.2.8. Le premier sous-sol est à compartimenter coupe-feu 90 minutes (REI 90) par rapport au
+rez-de-chaussée. Il doit être divisé tous les 1.000 m² par des murs coupe-feu 90 minutes (REI
+90). Les portes séparant ces surfaces doivent être coupe-feu 90 minutes et coupe-fumée
+(EI 90-S).
+Les espaces ouverts situés en sous-sol mais servant principalement à l'entretien et aux
+contrôles des chaînes de fabrication ne sont pas concernées par cet article.
+7.2.9. Les autres sous-sols sont à compartimenter coupe-feu 90 minutes (REI 90) entre eux.
+Ils doivent être divisés tous les 500 m² de surface par des murs coupe-feu 90 minutes (REI
+90). Les portes séparant ces surfaces doivent être coupe-feu 90 minutes et coupe-fumée
+(EI 90-S).
+
+7.3. Locaux à risques particuliers
+7.3.1. La structure portante de l’établissement, se situant dans un local à risques particuliers
+conformément à l’article 7.5.1. des dispositions générales, doit être protégée par le même
+degré coupe-feu que le local lui-même.
+7.3.2. Les parois des locaux à risques particuliers situés à moins de 5 m à l'extérieur des halls
+industriels doivent être compartimentés coupe-feu selon les dispositions générales.
+
+
+
+
+ 7                                                                              ITM-SST 1511.2
+Article 8 Evacuation de personnes, issues et chemins d'évacuation
+8.1. Effectif de personnes
+8.1.1. L'effectif total du personnel et du public est déterminé par l’exploitant, il s'agit alors
+de l'effectif déclaré (voir effectif spécifique de l'ITM-SST 1500: définitions générales).
+8.1.2. Toutefois si l’établissement comporte des locaux spécifiques tels que salles
+polyvalentes, restaurants, salles de réunion, bureaux, etc, les dispositions spécifiques à
+chacun de ces locaux s’appliquent.
+8.1.3. Tous les dégagements et issues doivent être calculés en fonction de l'effectif retenu.
+8.1.4. En allègement à l’article 8.4.1. des dispositions générales, les couloirs et les corridors
+doivent avoir une largeur minimale libre de 1 m.
+8.1.5. En allègement à l’article 8.8.1. des dispositions générales, les escaliers doivent avoir
+une largeur minimale libre de 1 m.
+8.1.6. Des escaliers de communication internes non compartimentés peuvent être prévus
+entre deux niveaux sous réserve que la surface totale des deux niveaux mis en relation est
+inférieure aux surfaces prévus par l’article 7.2.2.
+8.1.7. Pour les locaux d'une hauteur supérieure à 5 m et en atténuation de l’article 8.3.1 des
+dispositions générales ITM SST 1501 et 1502, la distance à parcourir d’un point quelconque
+jusqu’à la sortie ou jusqu’à un autre compartiment ou jusqu’à la cage d’escalier la plus proche
+ne peut pas dépasser :
+➢ 35 m pour les établissements de 3ème catégorie,
+➢ 50 m pour les établissements de 2ème catégorie,
+➢ 60 m pour les établissements de 1ère catégorie.
+8.1.8. En aggravation de l’article 8.3.1 des dispositions générales ITM SST 1501 et 1502, la
+distance à parcourir d’un point quelconque jusqu’à la sortie ou jusqu’à un autre compartiment
+ou jusqu’à la cage d’escalier la plus proche ne peut pas dépasser :
+➢ 20 m pour les locaux soumis à un danger d'explosion;
+➢ 20 m pour les locaux contenant des substances toxiques;
+➢ 10 m pour les locaux contenant des substances explosives.
+Au cas où ces locaux se trouvent en cul-de-sac, la distance maximale à parcourir d’un point
+quelconque jusqu’à la sortie ou jusqu’à un autre compartiment ou jusqu’à la cage d’escalier la
+plus proche ne peut pas dépasser 10 m.
+8.1.9. Les couloirs de circulation doivent être disposés de telle sorte que d’un point quelconque
+des établissements, l’on puisse toujours joindre facilement deux sorties.
+8.1.10. En allègement à l’article 8.2.1. des dispositions générales, les établissements ne
+recevant pas plus de 20 personnes, une seule sortie règlementaire est suffisante sous
+condition de respecter la distance maximale à parcourir de 20 m pour atteindre cette sortie de
+secours.
+8.1.11. Les quais de chargement doivent posséder au moins une issue. Les quais de
+chargement dépassant vingt mètres doivent posséder une issue à chaque extrémité.
+8.1.12. En allègement de l’article 8.1.10 des dispositions générales, les chemins de secours
+des locaux visés par l’article 7.2.5 ci-dessus peuvent passer par le hall.
+
+
+
+
+ 8                                                                              ITM-SST 1511.2
+Article 9 Eclairage
+9.1. Sont à considérer dans le sens de cet article comme lieux de travail à risques particuliers:
+➢ les lieux de travail près de cuves et de bassins;
+➢ les lieux de travail où sont traitées des substances dangereuses (p.ex. explosibles,
+  venimeuses, radioactives, corrosives et irritantes);
+➢ les lieux de travail où sont installées des machines tournantes (p.ex. imprimantes, machines
+➢ textiles, machines de tréfileries, tours, etc.) continuant à tourner après une panne secteur
+  par l'énergie cinétique des pièces en mouvement;
+➢ les salles de commande, de contrôle, etc.;
+➢ les lieux de travail où sont manœuvrés des organes de contrôle et d'arrêt qui doivent être
+  manœuvrés afin d'éviter tout danger lors de l'arrêt d'un procédé de fabrication.
+9.2. L'éclairage de sécurité est à réaliser de préférence par des sources de courant
+autonomes. Lorsque l'éclairage de sécurité est alimenté par une source de courant centrale,
+le câblage alimentant cet éclairage doit être installé de manière à éviter tout risque de mise
+hors service général de l'éclairage de sécurité, soit en cas d'accident, soit en cas d'incendie;
+ce câblage doit être résistant au feu d'un degré d'une heure au moins.
+9.3. L'éclairage de sécurité pour les lieux de travail doit s'allumer au plus tard 0,5 seconde
+après l'extinction de l'éclairage normal ou de remplacement.
+9.4. L'éclairage de sécurité pour les lieux de travail à risques particuliers doit avoir une
+autonomie permettant d'écarter tout risque avant son extinction (arrêt des machines
+tournantes, arrêt du procédé de fabrication, évacuation des lieux de travail près des bassins
+et cuves, etc.), sans pouvoir être inférieure à 1 minute.
+9.5. Les lieux de travail à risques particuliers doivent être équipés en plus d'un éclairage de
+sécurité assurant un éclairement de 15 lux.
+
+Article 10 Désenfumage (Evacuation de fumée et de chaleur)
+Les établissements de 1ère catégorie dont la surface est supérieure à 600 m² et ne disposant
+pas de stabilité au feu minimale de 30 minutes doivent être désenfumés.
+Les établissements de 2ème catégorie dont la surface est supérieure à 300 m² sont à
+désenfumer.
+Tous les établissements de 3ème catégorie sont à désenfumer.
+
+Article 11 Installations techniques
+Voir dispositions générales.
+
+Article 12 Installations au gaz
+Voir dispositions générales.
+
+Article 13 Installations électriques
+13.1. Dans les locaux de travail où sont traitées, fabriquées ou entreposées des matières
+susceptibles de prendre feu presque instantanément au contact d'une flamme ou d'une
+étincelle et de propager rapidement l'incendie, les canalisations et appareils électriques
+doivent être pourvus de dispositifs empêchant leur contact accidentel avec ces matières ainsi
+que l'échauffement de celles-ci.
+
+
+
+
+ 9                                                                              ITM-SST 1511.2
+13.2. Dans les ateliers, dépôts, etc, susceptibles de présenter des risques d'explosion,
+l'installation électrique (force et lumière) doit être réalisée par du matériel utilisable en
+atmosphère explosible (DIN 57165/VDE 0165). Les installations électriques de ces zones
+doivent être réduites au strict minimum. Tout autre appareil, machine ou canalisation doit être
+placé en dehors de ces zones.
+
+Article 14 Prévention de panique en cas d'alarme
+Voir dispositions générales.
+
+Article 15 Moyens de secours et d'intervention
+15.1. Installations de détection incendie et d’alarme
+15.1.1. Tous les établissements sont à équiper d’une installation de détection incendie
+automatique intégrale, susceptible de détecter et de signaler tout début d’incendie dans
+n’importe quel local, compartiment, dégagement et espace, y compris dans les compartiments
+techniques, les dépôts et les annexes.
+15.1.2. Dans le cas où l’établissement abrite plusieurs exploitants, l’alarme doit être donnée
+aux voisins directement adjacents.
+
+15.2. Extinction automatique
+Une installation d'extinction automatique peut être imposée par les autorités compétentes, en
+référence à l'article 15.5 des dispositions générales.
+
+15.3. Robinets d’incendie armés (R.I.A.)
+Les établissements de 2ème et 3ème catégorie doivent être équipés de R.I.A. Pour les
+établissements de 2ème catégorie, les R.I.A, en commun accord avec les autorités
+compétentes, peuvent être remplacés par des extincteurs appropriés en nombre adapté et
+suffisant.
+
+15.4. Préposé à la sécurité
+L'exploitant doit nommer un préposé à la sécurité compétent et qualifié, connaissant
+parfaitement tous les domaines de l'entreprise, s'il ne veut pas se charger lui-même des
+attributions du préposé à la sécurité.
+
+15.5. Service de sécurité incendie
+15.5.1. L'exploitant doit prendre toutes les mesures nécessaires pour organiser un service de
+sécurité incendie. Celui-ci doit être en mesure d'assurer une première intervention en cas
+d'incendie et les éventuels premiers secours.
+
+
+
+
+ 10                                                                           ITM-SST 1511.2
+15.5.2. L’effectif de ce service doit être composé suivant le tableau suivant :
+
+                  1ère catégorie           2ème catégorie          3ème catégorie
+  Niveau      de
+                 Personnel                 Personnel               Personnel
+  qualification
+                 <100      100-500         <100        100-500     < 100          100-500
+
+  Préposé à la
+               -               -           -           -           1              1
+  sécurité
+
+  Agents   de
+  sécurité    -                -           -           -           -              -
+  Type M1
+
+  Agents   de
+  sécurité    1                2           1           2           1              2
+  Type M2
+
+  Agents   de
+  sécurité    2%               2%          5%          5%          10%            10%
+  Type M3
+                 Tableau 1 : exigence de présence au service de sécurité incendie
+15.5.3. Le personnel formant ce service de sécurité doit avoir été formé aux premiers secours,
+à la manipulation des extincteurs et R.I.A. et aux mesures à prendre quant à la gestion de
+l'évacuation des personnes.
+
+Article 16 Registre de sécurité
+Voir dispositions générales.
+
+Article 17 Réception et contrôles
+Voir dispositions générales.
+
+
+
+                                      Mise en vigueur, le
+                                       9 octobre 2019
+
+                                                s.
+
+                                           Marco BOLY
+                                             Directeur
+                                    de l’Inspection du travail
+                                           et des mines
+
+
+
+
+ 11                                                                                   ITM-SST 1511.2
+

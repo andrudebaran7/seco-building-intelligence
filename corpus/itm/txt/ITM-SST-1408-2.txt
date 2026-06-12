@@ -1,0 +1,1015 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                                      Strassen, mars 2014
+
+
+
+                                                                                                                                                  ITM-SST 1408.2
+
+
+                                                           Prescriptions de sécurité types
+
+               CHANTIERS DE CONSTRUCTION ET DE DÉMOLITION
+
+                                                     Les présentes prescriptions comportent 19 pages
+
+    Table des matières
+    Art.1.- Objectifs et législation ............................................................................................................................................. 3
+      1.1. Objectifs et domaine d’application .......................................................................................................................... 3
+      1.2. Lois et règlements .................................................................................................................................................... 3
+      1.3. Sont à observer, le cas échéant, les modalités : ........................................................................................................ 3
+      1.4. Normes et règles techniques ..................................................................................................................................... 4
+      1.5. Prescriptions ITM .................................................................................................................................................... 4
+    Art. 2.- Terminologie .......................................................................................................................................................... 4
+      2.1 Définitions générales ................................................................................................................................................. 4
+         2.1.1 Chantier temporaire ou mobile ........................................................................................................................... 4
+         2.1.2 Travaux comportant des risques particuliers ...................................................................................................... 4
+         2.1.4 Hommes/jours .................................................................................................................................................... 5
+      2.2 Définitions des intervenants dirigeants principaux ................................................................................................... 5
+         2.2.1 Maître d’ouvrage ................................................................................................................................................ 5
+         2.2.2 Maître d’œuvre ................................................................................................................................................... 5
+         2.2.3 Pilote / Gestionnaire du projet (Project Manager) .............................................................................................. 5
+      2.3 Définitions des auteurs de projet ............................................................................................................................... 5
+         2.3.1 Gestionnaire d’études ......................................................................................................................................... 5
+         2.3.2 Architecte ........................................................................................................................................................... 5
+         2.3.3 Ingénieur-conseil ................................................................................................................................................ 5
+         2.3.4 Economiste de la construction (Quantity Surveyor) .......................................................................................... 6
+         2.3.5 Coordinateur de sécurité et de santé pendant l’élaboration du projet de l’ouvrage ............................................ 6
+      2.4 Définitions des intervenants chargés de contrôles ou de procédures administratives ............................................... 6
+         2.4.1 Bureau de contrôle ............................................................................................................................................. 6
+         2.4.2 Chargé des procédures relatives aux établissements classés .............................................................................. 6
+         2.4.3 Expert prévention incendie................................................................................................................................. 6
+         2.4.4 Organisme de contrôle agréé .............................................................................................................................. 6
+      2.5 Définitions des intervenants chargés de la réalisation ............................................................................................... 7
+         2.5.1 Direction des Travaux ........................................................................................................................................ 7
+         2.5.2 Coordinateur en matière de sécurité et de santé pendant la réalisation de l’ouvrage ......................................... 7
+         2.5.3 Entreprise ........................................................................................................................................................... 7
+         2.5.4 Sous-traitant ....................................................................................................................................................... 7
+         2.5.5 Intérimaire .......................................................................................................................................................... 7
+         2.5.6 Indépendant ........................................................................................................................................................ 7
+      2.6. Définitions spécifiques ............................................................................................................................................. 8
+         2.6.1 Installation de chantier ....................................................................................................................................... 8
+    ___________________________________________________________________________________________________________
+    Direction
+    Boîte postale 27 L- 2010 Luxembourg
+    Bureaux : 3, rue des Primeurs L-2361 STRASSEN Tél : 2478-6213 Fax: 49 14 47
+    Site Internet : http://www.itm.lu
+     2.6.2 Présence de plusieurs entreprises ....................................................................................................................... 8
+     2.6.3 Plan général de sécurité et santé tel que défini à l'annexe V du RGD du 27 juin 2008 précité. ......................... 8
+     2.6.4 Plan particulier de sécurité et santé tel que défini à l'annexe VI du RGD du 27 juin 2008 précité. ................... 8
+     2.6.5 Dossier adapté à l’ouvrage (DAO) ..................................................................................................................... 9
+Art. 3.- Dispositions générales ............................................................................................................................................ 9
+  3.1 Organisation .............................................................................................................................................................. 9
+  3.2 Direction et surveillance ......................................................................................................................................... 10
+     3.2.1 Obligations du maître d’ouvrage ...................................................................................................................... 10
+     3.2.2 Obligations de la Direction de Projet ............................................................................................................... 11
+     3.2.3 Obligations des Entreprises .............................................................................................................................. 11
+  3.3 Coordinateur de sécurité et de santé ........................................................................................................................ 12
+  3.4 Plan général de sécurité et de santé ......................................................................................................................... 12
+  3.5 Avis préalable ......................................................................................................................................................... 13
+ANNEXE I ........................................................................................................................................................................ 14
+ANNEXE II ....................................................................................................................................................................... 15
+ANNEXE III ...................................................................................................................................................................... 16
+ANNEXE IV ..................................................................................................................................................................... 18
+ANNEXE V – Aide à la décision ................................................................................................................................... 19
+
+
+
+
+Page 2 de 19 pages                                                                                                                                      ITM-SST 1408.2
+Art.1.- Objectifs et législation
+
+1.1. Objectifs et domaine d’application
+
+    1.1.1. Le présent document doit permettre d’améliorer la sécurité et la protection de la santé
+    des salariés occupés sur des chantiers de construction. Le terme salarié regroupe l’ensemble
+    des personnes actives ainsi que les personnes en formation.
+    1.1.2. La présente prescription est applicable pour tous les chantiers temporaires ou mobiles
+    (définition voir art. 2.1.1).
+    1.1.3. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de
+    cas en cas, mais uniquement si des mesures de rechange garantissant une protection au
+    moins équivalente sont prises.
+
+1.2. Lois et règlements
+
+Le chantier et son organisation doivent répondre aux stipulations :
+
+    1.2.1 du Livre III du Code du Travail ;
+    1.2.2 des règlements grand-ducaux pris en exécution du Code du Travail dont notamment le
+    règlement grand-ducal du 27 juin 2008 concernant les prescriptions minimales de sécurité et
+    de santé à mettre en œuvre sur les chantiers temporaires ou mobiles et de l’arrêté grand-
+    ducal du 28 août 1924, concernant la santé et la sécurité du personnel occupé aux travaux de
+    construction ;
+    1.2.3 du règlement grand-ducal modifié du 4 novembre 1994 concernant les prescriptions
+    minimales de sécurité et de santé pour l’utilisation par les travailleurs au travail d’équipements
+    de travail ;
+    1.2.4 du règlement grand-ducal du 28 mars 1995 concernant les prescriptions minimales pour
+    la signalisation de sécurité et/ou de santé au travail.
+
+1.3. Sont à observer, le cas échéant, les modalités :
+
+    1.3.1 du règlement grand-ducal modifié du 4 novembre 1994 concernant la protection des
+    travailleurs contre les risques liés à l'exposition à des agents biologiques au travail
+    1.3.2. du règlement grand-ducal modifié du 15 juillet 1988 concernant la protection des
+    travailleurs contre les risques liés à une exposition à l’amiante pendant le travail ;
+    1.3.3 du règlement grand-ducal modifié du 30 juillet 2002 concernant la protection de la santé
+    et de la sécurité des travailleurs contre les risques liés à des agents chimiques sur le lieu de
+    travail
+    1.3.4 du règlement grand-ducal du 30 juillet 2002 concernant la protection des travailleurs
+    contre les risques liés à l'exposition à des agents cancérigènes ou mutagènes au travail.
+    1.3.5. du règlement grand-ducal du 21 mars 2005 concernant les prescriptions minimales
+    visant à améliorer la protection en matière de sécurité et de santé des travailleurs susceptibles
+    d'être exposés au risque d'atmosphères explosives.
+    1.3.6 du règlement grand-ducal du 6 février 2007 concernant les prescriptions minimales de
+    sécurité et de santé relatives à l'exposition des travailleurs aux risques dus aux agents
+    physiques (bruit)
+    1.3.7 du règlement grand-ducal du 6 février 2007 concernant les prescriptions minimales de
+    sécurité et de santé relatives à l'exposition des travailleurs aux risques dus aux agents
+    physiques (vibrations)
+
+
+
+Page 3 de 19 pages                                                                    ITM-SST 1408.2
+    1.3.8 du règlement grand-ducal du 26 juillet 2010 relatif aux prescriptions minimales de
+    sécurité et de santé relatives à l'exposition des salariés aux risques dus aux agents physiques
+    (rayonnements optiques artificiels et rayonnement solaire).
+
+1.4. Normes et règles techniques
+
+    1.4.1 Sont à observer, les recommandations de prévention des accidents éditées par
+    l’Association d’Assurance Accidents.
+    1.4.2 Sont d’application les normes européennes au fur et à mesure qu’elles apparaissent et
+    remplacent les diverses normes nationales.
+
+1.5. Prescriptions ITM
+
+    Il y a en plus lieu de se référer, le cas échéant, aux diverses prescriptions de l’ITM dont
+    notamment:
+    1.5.1     la prescription ITM SST 1404. (ITM-CL 144) Installations électriques de chantier,
+    1.5.2.    les prescriptions ITM SST 1230 et 1231 (ITM-CL 31) Grues de chantier,
+    1.5.3     la prescription ITM-SST 1515.1 Prescriptions de sécurité incendie - Dispositions
+              applicables aux chantiers,
+    1.5.4     la prescription ITM-CL 137 Travaux de démolition.
+    1.5.5     la prescription ITM-CL 97.2, figurant comme Manuel « grand public » destiné aux
+              Maîtres d’Ouvrage,
+    1.5.6     les aide-mémoires ITM-AM 142 et AM 149.1 destinés aux coordinateurs pour la
+              réalisation de leurs documents de sécurité.
+
+
+Art. 2.- Terminologie
+
+2.1 Définitions générales
+
+  2.1.1 Chantier temporaire ou mobile
+
+    Tout “chantier temporaire ou mobile” (ci-après dénommé “chantier”) où s’effectuent des
+    travaux du bâtiment ou de génie civil dont la liste figure à l’annexe I du règlement grand-ducal
+    du 27 juin 2008 précité.
+
+    Un chantier débute lors de l’installation de chantier (voir 2.6.1.) de la première entreprise et se
+    termine dès que la réception des travaux de la dernière entreprise est prononcée par le maître
+    de l’ouvrage, de préférence de manière écrite, ou dès la prise de possession des lieux par les
+    utilisateurs de l’ouvrage.
+
+  2.1.2 Travaux comportant des risques particuliers
+
+    Travaux comportant des risques particuliers pour la sécurité et la santé des travailleurs : voir
+    la liste à l’annexe II du règlement grand-ducal du 27 juin 2008 précité.
+
+    2.1.3 Phases du projet
+
+    Les projets sont considérés selon deux phases principales :
+      • phase conception (PC)
+      • phase réalisation (PR)
+
+    Chaque activité est à considérer selon ces deux phases, la phase conception d’une spécialité
+    se termine avec le lancement de l’appel d’offres, la phase réalisation d’une activité commence
+    avec l’analyse des soumissions remises.
+
+
+Page 4 de 19 pages                                                                     ITM-SST 1408.2
+  2.1.4 Hommes/jours
+
+    Unité de mesure correspondant au travail d’une personne pendant une journée. Par exemple,
+    un projet qui demande dix hommes-jours nécessite théoriquement le travail soit d’un homme
+    pendant dix jours, ou de dix hommes pendant un jour, ou encore de deux hommes pendant
+    cinq jours.
+
+2.2 Définitions des intervenants dirigeants principaux
+
+    Ensemble de personnes physiques ou morales ayant en charge tout ou partie de la
+    conception de l’ouvrage et entrant dans une des définitions définies ci-après. Les intervenants
+    dirigeants principaux interviennent en phase conception du projet (PC) mais aussi en phase
+    réalisation (PR).
+
+  2.2.1 Maître d’ouvrage
+
+    Toute personne physique ou morale pour le compte de laquelle un ou plusieurs ouvrages sont
+    réalisés.
+
+  2.2.2 Maître d’œuvre
+
+    Toute personne physique ou morale chargée pour le compte du maître d’ouvrage de la
+    conception et/ou de la direction de l’exécution de l’ouvrage, ou d’une partie de l’ouvrage.
+
+  2.2.3 Pilote / Gestionnaire du projet (Project Manager)
+
+    Personne physique ou morale que le maître d’ouvrage peut charger, suivant l’envergure et la
+    complexité du projet, du pilotage de tous les intervenants dans la conception, le contrôle et la
+    réalisation de l’ouvrage. Le pilote du projet intervient à tous les stades du projet (PC, PR).
+
+2.3 Définitions des auteurs de projet
+
+    Ensemble de personnes physiques ou morales ayant en charge tout ou partie de la
+    conception de l’ouvrage et entrant dans une des définitions définies ci-après. Les auteurs de
+    projet interviennent en phase conception (PC) mais aussi en phase réalisation (PR).
+
+  2.3.1 Gestionnaire d’études
+
+    Personne physique ou morale chargée de la coordination technique des études.
+    Le coordinateur d’étude intervient à tous les stades du projet (PC, PR).
+
+  2.3.2 Architecte
+
+    Personne physique ou morale, inscrite à l’ordre des architectes et des ingénieurs (OAI) ou
+    ayant une dérogation de cet ordre, chargée de la conception architecturale et/ou de la
+    surveillance de l’exécution dans les domaines de l’architecture.
+    L’architecte intervient à tous les stades du projet (PC, PR).
+
+  2.3.3 Ingénieur-conseil
+
+    Personne physique ou morale, inscrite à l’ordre des architectes et des ingénieurs (OAI) ou
+    ayant une dérogation de cet ordre, chargée de la conception dans un domaine technique
+    précis de l’ouvrage respectivement de la surveillance de l’exécution dans ce domaine.
+    L’ingénieur-conseil intervient à tous les stades du projet (PC, PR).
+
+    Les ingénieurs-conseils peuvent avoir les missions suivantes :
+
+
+Page 5 de 19 pages                                                                    ITM-SST 1408.2
+       •   chargé de la statique
+       •   chargé des techniques spéciales
+       •   chargé des aménagements extérieurs
+       •   chargé de l’acoustique
+
+  2.3.4 Economiste de la construction (Quantity Surveyor)
+
+    Personne physique ou morale chargée spécialement du contrôle du budget, des quantités
+    réalisées et des factures.
+    L’économiste peut intervenir à tous les stades du projet (PC, PR).
+
+  2.3.5 Coordinateur de sécurité et de santé pendant l’élaboration du projet de l’ouvrage
+
+    Personne physique ou morale chargée par le maître d’ouvrage, pendant la conception du
+    projet de l’ouvrage des tâches visées à l’article 9 du règlement grand-ducal du 27 juin 2008
+    précité.
+
+    Le coordinateur de sécurité phase conception doit intervenir pendant la phase conception
+    (PC), dès l’avant-projet sommaire, de façon à participer à la réalisation de l’avant-projet
+    définitif.
+
+2.4 Définitions des intervenants chargés de contrôles ou de procédures administratives
+
+  2.4.1 Bureau de contrôle
+
+    Personne physique ou morale pouvant être chargée par le maître d’ouvrage du contrôle de
+    l’ensemble ou d’une partie des missions citées ci-après.
+    Le bureau de contrôle intervient à tous les stades du projet (PP, PR) et fait le contrôle des
+    études et/ou des travaux dans le cadre de l’assurance décennale et/ou biennale
+
+  2.4.2 Chargé des procédures relatives aux établissements classés
+
+    Personne physique ou morale pouvant être chargée par le maître d’ouvrage de la réalisation
+    de la demande d’autorisation selon la loi modifiée du 10 juin 1999 relative aux établissements
+    classés et de l’introduction du dossier auprès des instances administratives.
+    Le chargé des procédures relatives aux établissements classés n’intervient que pendant le
+    stade de conception du projet (PC).
+
+  2.4.3 Expert prévention incendie
+
+    Personne physique ou morale pouvant être chargée par le maître d’ouvrage de la réalisation
+    de l’étude « comportement lors d’un incendie ».
+
+    L’expert prévention incendie n’intervient que pendant le stade de conception du projet (PC).
+
+  2.4.4 Organisme de contrôle agréé
+
+    L’organisme de contrôle intervient, selon les exigences découlant de l’autorisation
+    d’exploitation (dite autorisation commodo/incommodo), pendant la phase conception (PC)
+    pour faire des contrôles préalables sur documents ainsi que pendant la phase réalisation (PR)
+    pour effectuer les contrôles sur le terrain pour pouvoir établir les documents pour la réception
+    de sécurité de l’ouvrage.
+
+    L’organisme de contrôle procède notamment aux
+         • contrôles de la tenue au feu du bâtiment
+         • contrôles de la sécurité des utilisateurs de l’ouvrage
+
+
+
+Page 6 de 19 pages                                                                   ITM-SST 1408.2
+         •   contrôles et à la réception d’installations et d’équipements techniques lors des
+             contrôles préalables sur documents et lors des contrôles sur le terrain.
+
+2.5 Définitions des intervenants chargés de la réalisation
+
+    « Intervenants de la réalisation » : ensemble de personnes physiques ou morales dont
+    l’activité porte sur l’exécution matérielle de tout ou partie de l’ouvrage.
+
+  2.5.1 Direction des Travaux
+
+    Personne physique ou morale chargée par le maître d’ouvrage de l’organisation générale de
+    la réalisation et de la surveillance des travaux.
+
+    La direction des travaux n’intervient que dans la phase réalisation (PR) du projet.
+
+  2.5.2 Coordinateur en matière de sécurité et de santé pendant la réalisation de l’ouvrage
+
+    Personne physique ou morale chargée par le maître d’ouvrage d’exécuter, pendant la
+    réalisation de l’ouvrage, des tâches visées à l’article 11 du règlement grand-ducal du 27 juin
+    2008 précité concernant les prescriptions minimales de sécurité et de santé à mettre en
+    œuvre sur les chantiers temporaires ou mobiles.
+
+    Le coordinateur de sécurité et santé doit intervenir au plus tard avant le lancement de la phase
+    de consultation des entreprises et pendant toute la phase réalisation (PR) du projet.
+
+  2.5.3 Entreprise
+
+    Personne physique ou morale, employant des salariés sur le chantier, chargée par contrat
+    directement par le maître d’ouvrage de l’exécution de tout ou partie des travaux.
+
+    L’entreprise n’intervient que pendant la phase réalisation (PR) de l’ouvrage.
+
+  2.5.4 Sous-traitant
+
+    Personne physique ou morale, employant des salariés sur le chantier, chargée par contrat par
+    une entreprise de l’exécution d’une partie des travaux de cette entreprise.
+
+    L’entreprise est et reste responsable vis-à-vis du maître d’ouvrage des risques liés aux
+    activités qu’elle sous-traite.
+
+    Les sous-traitants n’interviennent que pendant la phase réalisation (PR) du projet.
+
+  2.5.5 Intérimaire
+
+    Personne physique salariée d’une société de placement intérimaire et louée à une entreprise
+    ou à un sous-traitant. Ces personnes sont à considérer – pendant le temps du chantier –
+    comme personnel à part entière de l’entreprise utilisatrice. Ils doivent bénéficier de toutes les
+    protections collectives et individuelles dues à leurs activités. La société de placement n’est
+    pas considérée comme une entreprise ni comme sous-traitant.
+
+  2.5.6 Indépendant
+
+    Toute personne autre que celles visées à l’article L. 311-1 du Code du Travail dont l’activité
+    professionnelle concourt à la réalisation de l’ouvrage et n’intervenant que pendant la phase
+    réalisation (PR) de l’ouvrage.
+
+
+
+
+Page 7 de 19 pages                                                                     ITM-SST 1408.2
+2.6. Définitions spécifiques
+
+  2.6.1 Installation de chantier
+
+    L’ensemble des travaux préparatoires à la phase de chantier proprement dite, c’est-à-dire la
+    préparation du périmètre de chantier, la mise en place de la clôture, l’installation des locaux de
+    chantier, des toilettes et des salles d’eau, l’aménagement d’installations de décontamination,
+    raccordement à la distribution d’eau ou stockage d’eau, raccordement électrique ou production
+    d’électricité de chantier, raccordements téléphoniques etc.
+
+  2.6.2 Présence de plusieurs entreprises
+
+    Il faut considérer la présence de plusieurs entreprises sur le chantier dès lors qu’il est
+    prévisible que, soit des salariés, soit des indépendants de deux sociétés au minimum, y
+    compris les sous-traitants, vont travailler sur le site du chantier simultanément ou
+    successivement pendant la durée du chantier tel que défini en 2.1.1.
+
+  2.6.3 Plan général de sécurité et santé tel que défini à l'annexe V du RGD du 27 juin 2008
+  précité.
+
+    Le dossier appelé PGSS (Plan général de sécurité et de santé) est établi par le coordinateur
+    de sécurité et de santé dès la phase conception sur base des documents existants à ce stade.
+    Le coordinateur de sécurité de la phase réalisation complète le PGSS par les renseignements
+    issus des PPSS des entreprises et par toute nouveauté issue de nouvelles conceptions ou de
+    l’organisation. Le PGSS comprend au moins les points suivants :
+
+       •   les renseignements d’ordre administratif intéressant le chantier (intervenants, services
+           d’intervention, régies, autorisations);
+       •   l’identification des risques particuliers du projet et la description des travaux présentant
+           des risques pour les autres entreprises;
+       •   les mesures spécifiques de sécurité préconisées ou imposées concernant les travaux
+           à risques, notamment en matière de planning, de protection collective ou individuelle;
+       •   les sujétions liées aux activités d’exploitation sur le site, le cas échéant;
+       •   les renseignements relatifs à l’organisation des secours;
+       •   les modalités de coopération entre les intervenants, notamment pour les protections
+           collectives, le nettoyage du chantier, le maintien en état de salubrité satisfaisant, le
+           stockage de produits dangereux, l’élimination des déchets, la manutention horizontale
+           et verticale, l’accès au chantier, les voies ou zones de déplacement imposées par le
+           maître d’œuvre en concertation avec le coordinateur;
+       •   le règlement de chantier;
+       •   l’aménagement et l’organisation du chantier et des installations de chantier, y compris
+           locaux sanitaires et locaux sociaux, les raccordements et distributions d’énergie, les
+           matériels et dispositifs prévus par l’(es) entreprise(s) pour la réalisation de ses (leurs)
+           travaux.
+       •   tout autre point estimé nécessaire en vue d’appliquer les articles 9 et 11 du règlement
+           grand-ducal du 27 juin 2008.
+        •
+    Les indications particulières et mesures spécifiques du PGSS au stade d’étude doivent être
+    intégrées dans les dossiers d’appel d’offres.
+
+    Les entreprises doivent donner une copie du PGSS en vigueur à chacun de leurs sous-
+    traitants avant le début de leurs interventions.
+
+  2.6.4 Plan particulier de sécurité et santé tel que défini à l'annexe VI du RGD du 27 juin 2008
+  précité.
+
+
+
+
+Page 8 de 19 pages                                                                     ITM-SST 1408.2
+    Les dossiers appelés PPSS (Plan particulier de sécurité et de santé) sont établis par les
+    entreprises y compris les sous-traitants et les indépendants et comprennent les points
+    suivants:
+
+       •   le nom et l’adresse de l’entreprise;
+       •   l’évolution prévisible de l’effectif sur le chantier;
+       •   le nom et la qualité de la personne chargée de diriger l’exécution des travaux;
+       •   les délais d’intervention avec le début et la fin des travaux;
+       •   les consignes à observer pour assurer les premiers secours aux victimes d’accidents;
+       •   une analyse des procédés de construction et d’exécution;
+       •   une évaluation des risques prévisibles liés aux modes opératoires, aux matériels,
+           dispositifs et installations mis en œuvre, à l’utilisation des substances ou préparations
+           chimiques;
+       •   les mesures de protection collective ou à défaut individuelle, adaptées pour parer à ces
+           risques. Il précise les mesures prises pour assurer la continuité des solutions de
+           protection collective lorsque celles-ci requièrent une adaptation ;
+       •   la liste des sous-traitants.
+
+    Le(s) PPSS est / sont à transmettre au(x) coordinateur(s) de sécurité et de santé avant le
+    début de l’intervention des entreprises, y compris sous-traitants indépendants au plus tard 15
+    jours ouvrables avant le début de leurs travaux.
+
+    Les salariés doivent être informés des éléments repris sur le PPSS et l’employeur doit veiller à
+    ce que les salariés soient bien instruits sur les spécificités du projet ayant trait à la prévention
+    des risques professionnel.
+
+  2.6.5 Dossier adapté à l’ouvrage (DAO)
+
+    Il reprend les éléments utiles en matière de sécurité et de santé à prendre en compte lors des
+    travaux ultérieurs sur l’ouvrage achevé.
+
+    En font notamment partie les éléments suivants :
+       • les plans d’exécution,
+       • les autorisations,
+       • les mesures sécuritaires à prendre lors des travaux ultérieurs
+
+Art. 3.- Dispositions générales
+
+3.1 Organisation
+
+    Les principes généraux de prévention doivent être pris en compte par tous les intervenants sur
+    le chantier et ce à tous les stades du chantier.
+    Les principes suivants relatifs à la sécurité et la santé au travail sont à respecter lors de toutes
+    les phases (étapes) d’un chantier :
+
+       •   éviter les risques;
+       •   évaluer les risques qui ne peuvent pas être évités;
+       •   combattre les risques à la source;
+       •   adapter le travail à l’homme, en particulier en ce qui concerne la conception des postes
+           de travail ainsi que le choix des équipements de travail et des méthodes de travail et
+           de production, en vue notamment d’atténuer le travail monotone et le travail cadencé
+           et de réduire les effets de ceux-ci sur la santé;
+       •   tenir compte de l’état d’évolution de la technique;
+       •   remplacer ce qui est dangereux par ce qui n’est pas dangereux ou par ce qui est moins
+           dangereux;
+
+
+
+Page 9 de 19 pages                                                                      ITM-SST 1408.2
+       •   planifier la prévention en visant un ensemble cohérent qui intègre dans la prévention la
+           technique, l’organisation du travail, les conditions de travail, les relations sociales et
+           l’influence des facteurs ambiants au travail;
+       •   prendre des mesures de protection collective par priorité à des mesures de protection
+           individuelle;
+       •   donner les instructions appropriées aux salariés.
+Ces principes généraux ci-dessus sont notamment valables pour :
+       •   les zones de travail communes,
+       •   les voies de circulation,
+       •   les moyens et installations de travail tels que les échafaudages,
+       •   les escaliers,
+       •   les protections latérales,
+       •   les toits de protection,
+       •   les lignes de vie / travaux avec harnais
+       •   les filets antichute,
+       •   les locaux de repos,
+       •   les toilettes et salles d’eau,
+       •   les installations sanitaires et
+       •   les installations d’analyse et de décontamination des sols et d’éléments de
+           construction contaminés.
+
+3.2 Direction et surveillance
+
+  3.2.1 Obligations du maître d’ouvrage
+
+    Le maître d’ouvrage doit désigner le cas échéant un coordinateur de sécurité et de santé
+    selon le point 3.3. Le coordinateur de sécurité doit être nommé dès le début du projet.
+    Le maître d’ouvrage doit prévoir des mesures nécessaires pour :
+
+       •   qu’une convention avec le coordinateur sécurité précise selon l’art.3 du RGD du 27 juin
+           2008 notamment:
+       •   les tâches que les coordinateurs sont tenus d’accomplir selon les articles 9 et 11;
+       •   le début et la fin de la mission du ou des coordinateurs;
+       •   les obligations du maître d’ouvrage et du ou des maîtres d’œuvre.
+       •   qu’un plan de sécurité et de santé a été établi selon le point 3.4., et qu’il soit remis à
+           tous les intervenants du chantier
+       •   que l’avis préalable rédigé selon le point 3.5 a été affiché et a été envoyé à l’Inspection
+           du travail et des mines.
+       •   que des mesures ont été prises pour organiser efficacement les premiers secours des
+           blessés.
+       •   qu’en fin de chantier, les documents se référant à l’ouvrage (DAO) sont archivés pour
+           servir lors de travaux ultérieurs à cet ouvrage.
+
+    En ce qui concerne le contenu du DAO il y a lieu de se reporter à l’annexe VIII du règlement
+    grand-ducal du 27 juin 2008.
+
+    Le DAO doit être gardé durant toute la vie de l’ouvrage.
+
+    Le contrat concernant une éventuelle délégation à une tierce personne des mesures sous c)
+    et, d) doit être établi à temps, c'est à dire pendant la phase conception (PC) et de préférence
+    de manière écrite. L’accord peut être établi pour une partie des mesures seulement. Dans ce
+    cas, le maître d’ouvrage est tenu de s’assurer de la réalisation des mesures restantes.
+
+
+
+
+Page 10 de 19 pages                                                                   ITM-SST 1408.2
+    Si le maître d’ouvrage a désigné une ou des tierces personnes pour exécuter les tâches
+    visées sous c) et d), ceci ne le décharge pas de ses responsabilités dans ce domaine (suivant
+    l’article 13 du règlement grand-ducal du 27 juin 2008 précité).
+
+    Le maître d’ouvrage ne peut pas déléguer de manière globale ses obligations rétroactivement
+    à l’une des entreprises dans le cadre des appels d’offre.
+
+  3.2.2 Obligations de la Direction de Projet
+
+    Selon les décisions du maître d’ouvrage, la Direction du Projet doit déterminer les mesures
+    générales de protection du travail lors de l'exécution des travaux. En particulier, les domaines
+    suivants peuvent être considérés :
+
+       •   les recommandations pour le stockage et l’élimination des matériaux de construction,
+           des déchets, notamment des déchets dangereux,
+       •   la collaboration entre le(s) maître(s) d’ouvrage et les entreprises et indépendants,
+       •   l’adaptation des délais d'exécution en fonction des conditions de travail sur le chantier,
+       •   les interactions des travaux sur le chantier avec d’autres activités professionnelles sur
+           le site, sur lequel ou près duquel sont exécutées des travaux (par exemple lors de
+           travaux de construction sur un site en activité).
+
+    En fin de chantier, la Direction de Projet doit s'assurer que les documents se référant à
+    l’ouvrage sont archivés pour servir lors de travaux ultérieurs à cet ouvrage.
+
+  3.2.3 Obligations des Entreprises
+
+    Les entreprises doivent déterminer les mesures de protection du travail lors de l'exécution des
+    travaux. En particulier, les domaines suivants sont à considérer :
+
+       •   le choix, l’utilisation et la maintenance des outils de travail,
+       •   la communication, la formation et l’instruction du personnel
+       •   la mise à disposition du matériel de protection
+       •   la signalisation à la Direction du projet d’adapter les délais d'exécution en fonction des
+           conditions de travail sur le chantier.
+
+    Les règles établies par le coordinateur de sécurité et de santé et celles incluses dans le plan
+    de sécurité et de santé (plan général et/ou plan particulier) sont à appliquer.
+
+    Les responsabilités de l'entreprise pour la réalisation de ses obligations en matière de
+    protection du travail sont entières. Les responsabilités de(s) employeur(s) pour la réalisation
+    de leurs obligations en matière de protection du travail ne sont pas affectées par les articles
+    3 „Coordinateur de sécurité et de santé“, 13 „Responsabilité des maîtres d’ouvrage et des
+    employeurs“ et 16 „Obligations d’autres groupes de personnes » du RGD du 27 juin 2008.
+
+    L'entreprise doit s'assurer que ses salariés sont informés d’une manière appropriée (dans une
+    forme compréhensive et un langage clair) sur les mesures de protection les concernant. Des
+    pictogrammes, des symboles et des présentations peuvent également être utilisés dans ce
+    but.
+
+    Au fur et à mesure de l'avancement du chantier, l'entreprise doit tenir à jour tous les
+    changements et adaptations effectués par rapport aux plans d'exécution. L'entreprise a le
+    devoir de transmettre tous ces renseignements à la personne chargée de les consigner sur
+    plan ou sur tout autre document.
+
+
+
+
+Page 11 de 19 pages                                                                   ITM-SST 1408.2
+    Au fur et à mesure de l'avancement des travaux, l'entreprise doit transmettre au coordinateur
+    de sécurité ou au maître d'ouvrage, toutes les fiches techniques des matériaux dangereux mis
+    en œuvre par lui ou par ses sous-traitants.
+
+    L'Entreprise transmettra en fin de chantier au coordinateur de sécurité et au maître d'ouvrage,
+    tous les documents nécessaires à la maintenance des machines, engins ou autres matériels
+    installés par elle ou ses sous-traitants.
+
+    3.2.4 Obligation d’autres personnes
+
+    Dans le but de garantir la sécurité et la protection de la santé des salariés, les entreprises
+    sans salariés (indépendants et dirigeants travaillant eux-mêmes sur le chantier) doivent
+    également respecter les consignes de sécurité spécifiques des travaux à exécuter. Elles
+    doivent suivre les conseils du coordinateur de sécurité et les règles contenues dans le plan
+    général de sécurité et de santé. Elles doivent informer le maître d’ouvrage ou le coordinateur
+    de sécurité du début et de la durée de leurs travaux sur le chantier. Les obligations énoncées
+    précédemment s’appliquent également aux employeurs eux-mêmes actifs sur le chantier.
+
+3.3 Coordinateur de sécurité et de santé
+
+Le maître d’ouvrage désigne un ou plusieurs coordinateurs en matière de sécurité et de santé, tels
+que définis aux points i et j de l’article 2 du règlement grand-ducal du 27 juin 2008 précité, pour un
+chantier où interviennent au moins deux entreprises.
+
+3.4 Plan général de sécurité et de santé
+
+Le maître d’ouvrage veille à ce que soit établi, préalablement à l’ouverture du chantier, un plan
+général de sécurité et de santé.
+
+Les conditions définissant de manière précise la nécessité d’un coordinateur en matière de
+sécurité et de santé sont énumérées dans l’annexe V.
+
+Les descriptions ayant trait :
+
+        •   au plan général de sécurité et de santé et
+        •   au plan particulier de sécurité et de santé
+
+se trouvent à l'article 5 du règlement grand-ducal du 27 juin 2008 précité.
+
+Le plan général de sécurité et de santé doit contenir les installations et mesures préventives
+nécessaires, détaillées dans leur réalisation et leurs délais, permettant de remplir les conditions de
+protection du travail. Le plan général de sécurité et de santé doit être réalisé lors de la planification
+de l’exécution des travaux et adapté en fonction du déroulement et d’avancement du chantier et
+des changements imprévus.
+
+Pour les chantiers comportant des travaux à risques particuliers repris à l’annexe II du règlement
+grand-ducal du 27 juin 2008 précité, il est recommandé de prévoir dans le plan général de sécurité
+et de santé un chapitre spécial sur les mesures relatives à ces travaux et leur conséquence pour
+les salariés de différents employeurs.
+
+Si des travaux sont réalisés parallèlement sur un seul terrain ou sur des terrains adjacents, chaque
+maître d’ouvrage doit considérer dans son plan général de sécurité et de santé les dangers
+émanant éventuellement des autres travaux.
+
+
+
+
+Page 12 de 19 pages                                                                      ITM-SST 1408.2
+3.5 Avis préalable
+
+Le maître d’ouvrage communique un avis préalable, élaboré conformément aux annexes III du
+règlement grand-ducal du 27 juin 2008 précité, à l’lnspection du travail et des mines, 10 jours
+avant tout début d’installation sur le site du chantier.
+
+Cette communication doit se faire de préférence par voie électronique, sous forme email à
+l’adresse ap@itm.etat.lu. Sinon il est possible d’envoyer une version papier à l’Inspection du travail et
+des mines, B.P. 27, L-2010 Luxembourg.
+
+L’avis préalable doit être affiché de manière visible sur les lieux du chantier et être tenu à jour en
+cas de nécessité.
+
+Toute mise à jour est à communiquer à l’Inspection du travail et des mines par les voies décrites
+ci-dessus.
+La nécessité se définit par :
+        •   une diminution du temps de construction, dans la mesure où le travail sera effectué
+            simultanément ou organisé par postes non prévus initialement,
+        •   une augmentation substantielle des salariés présents simultanément ou du nombre
+            d’employeurs ou du nombre de sociétés sans salariés,
+        •   l’arrivée de nouveaux intervenants, (nouvelles entreprises, sous-traitants)
+        •   un changement du maître d’ouvrage ou d’un maître d’œuvre mandaté par lui d’après
+            l’article 13 «Responsabilités des maîtres d'ouvrage et des employeurs» du règlement
+            grand-ducal du 27 juin 2008 précité,
+        •   tout changement au niveau du coordinateur de sécurité.
+
+
+
+
+                                     Mise en vigueur le 26.03.2014
+
+
+                                                    s.
+
+
+
+                                              Robert Huberty
+                                                 Directeur
+                                        de l’Inspection du travail
+                                               et des mines
+
+
+
+
+Page 13 de 19 pages                                                                      ITM-SST 1408.2
+                                       ANNEXE I
+
+LISTE DES TRAVAUX DU BÂTIMENT OU DE GÉNIE CIVIL VISÉS À L'ARTICLE 2 DU REGLEMENT
+GRAND-DUCAL DU 27 JUIN 2008 CONCERNANT LES PRESCRIPTIONS MINIMALES DE SECURITE ET
+DE SANTE A METTRE EN ŒUVRE SUR LES CHANTIERS TEMPORAIRES OU MOBILES
+1. Travaux d'excavation ;
+
+2. Travaux de terrassement ;
+
+3. Fondations et soutènement ;
+
+4. Travaux hydrauliques ;
+
+5. Voiries et infrastructures ;
+
+6. Pose de réseaux utilitaires, notamment des égouts, des conduites d'eau ou de gaz,
+   des câbles, et interventions sur ces réseaux ;
+
+7. Construction de tout genre, comprenant notamment les bâtiments, maisons uni-
+   familiales, ouvrages industriels, ouvrages de génie civil, les ouvrages d'art, les voies de
+   circulation tant routières que ferroviaires, fluviales et aériennes ;
+
+8. Montage et démontage d'éléments préfabriqués ;
+
+9. Aménagement ou équipement ;
+
+10. Transformation ;
+
+11. Rénovation ;
+
+12. Réparation ;
+
+13. Démantèlement ;
+
+14. Démolition ;
+
+15. Maintenance ;
+
+16. Entretien, Travaux de peinture et de nettoyage ;
+
+17. Assainissement.
+
+
+
+
+Page 14 de 19 pages                                                            ITM-SST 1408.2
+                                            ANNEXE II
+Liste des travaux comportant des risques particuliers pour la sécurité et la santé des
+travailleurs visés à l'article 5 du règlement grand-ducal du 27 juin 2008 concernant les
+prescriptions minimales de sécurité et de santé à mettre en œuvre sur les chantiers
+temporaires ou mobiles
+1.      Travaux exposant les travailleurs à des risques d'ensevelissement, d'enlisement ou de chute de
+        hauteur, particulièrement aggravés par la nature de l'activité ou des procédés mis en œuvre ou par
+        l'environnement du poste de travail ou de l'ouvrage. Sont considérés comme dangers
+        particulièrement aggravés
+        •     le creusement de tranchées ou de puits dont la profondeur excède 1,25 mètre et les travaux
+              dans des puits ainsi que lors de la présence de trafic routier en bordure du terrassement;
+        •     le travail dans les environs immédiats de terrains peu stables tels que par exemple des roches
+              fracturées, la rase;
+        •     le travail avec danger de chute d'une hauteur de 5 mètres ou plus.
+2.      Travaux exposant les travailleurs à des substances chimiques, biologiques, minérales ou
+        contenant de l'amiante qui, soit présentent un risque particulier pour la sécurité et la santé des
+        travailleurs, soit comportent une exigence légale de surveillance de la santé. Sont notamment
+        considérés comme risques particuliers:
+        •     travaux exposant les travailleurs à des substances explosives, ou facilement inflammables, ou
+              cancérogènes, ou mutagènes, ou tératogènes;
+        •     travaux en présence de matériaux contenant de l'amiante (par exemple: calorifugeage,
+              amiante ciment, flocage) ou dégageant des poussières nocives (silice libre, etc.)
+        •     des substances ou préparations très toxiques au sens du règlement grand-ducal du 8 juin
+              1999 portant modification et première adaptation au progrès technique du règlement grand-
+              ducal du 4 novembre 1994 concernant la protection des travailleurs contre les risques liés' à
+              l'exposition à des agents biologiques au travail.
+3.      Travaux avec radiations ionisantes qui exigent la désignation de zones contrôlées ou surveillées
+        telles que définies aux articles 19 et 20 de la directive du Conseil 96/29 EURATOM telle que
+        transposée par le règlement grand-ducal du 14 décembre 2000 concernant la protection de la
+        population contre les dangers résultant des rayonnements ionisants.
+4.      Travaux ou manutentions à moins de 5 mètres du périmètre de sécurité de lignes électriques de
+        haute tension aériennes ou enterrées où existe un risque de contact avec des pièces sous tension.
+5.      Travaux exposant à un risque de noyade.
+6.      Travaux de puits, de terrassements souterrains, de tunnels et de reprises en sous-œuvre.
+7.      Travaux en plongée appareillée.
+8.      Travaux en caisse d'air comprimé (milieu hyperbare).
+9.      Travaux comportant l'usage d'explosifs.
+10.     Travaux de montage ou de démontage d'éléments préfabriqués lourds (>10 t)
+11.     Travaux de démolition, de déconstruction, de réhabilitation impliquant les structures porteuses
+        d'une construction.
+12.     Travaux avec des contraintes particulières dues au site :
+        •     sur un site industriel en exploitation ;
+        •     à proximité de circulation routière, autoroutière, ferroviaire ou autres ;
+        •     dans le lit de rivières, dans des ouvrages d'assainissement avec possibilités de montées
+              rapides d'eau ;
+        •     pour des travaux nocturnes ;
+        •     sur des chantiers contigus ;
+        •     lors d'une mise en exploitation partielle de l'ouvrage durant les travaux.
+
+
+
+Page 15 de 19 pages                                                                        ITM-SST 1408.2
+                                                      ANNEXE III
+
+
+
+
+Avis préalable
+ Conformément à l'article 6 du règlement grand-ducal du 27 juin 2008 concernant les prescriptions minimales de sécurité et de santé à
+                                     mettre en œuvre sur les chantiers temporaires ou mobiles.
+
+
+
+                                          Proposition de formulaire
+
+                             A REMETTRE* A L’ITM
+                    10 JOURS AVANT LE DEBUT DU CHANTIER
+
+
+
+
+par email à l’adresse "ap@itm.etat.lu" sinon à l’adresse :
+Inspection du travail et des mines, B.P. 27, L-2010 Luxembourg)
+
+
+
+
+Page 16 de 19 pages                                                                                              ITM-SST 1408.2
+                                                      Avis préalable                                                      page 1 de 3
+
+   Conformément à l'article 6 du règlement grand-ducal du 27 juin 1988 concernant les prescriptions minimales de sécurité et de santé à
+                                        mettre en œuvre sur les chantiers temporaires ou mobiles.
+
+A: "ap@itm.etat.lu"              ou                                               Date d’entrée du courrier à l’ITM    (à remplir par l’ITM)
+
+Inspection du Travail et des Mines
+B.P. 27
+L-2010 LUXEMBOURG
+
+                                                                                  1) Date de communication
+
+
+
+
+2) Adresse précise du chantier
+
+
+
+
+3) Maître(s) d’ouvrage (nom(s) et adresse(s)) *)                   4) Maître(s) d’œuvre (nom(s) et adresse(s)) *)
+
+
+
+
+5) Nature de l’ouvrage (liste annexe I ou autres)
+
+
+
+
+Coordinateur(s) en matière de sécurité et de santé, (nom(s) et adresse(s))
+
+6) pendant la phase projet de l’ouvrage                            7) pendant la phase réalisation de l’ouvrage
+
+
+
+
+8) Date présumée pour le début des travaux sur le chantier         9) Durée présumée des travaux sur le chantier
+
+
+
+
+10) Nombre maximum présumé de travailleurs sur le chantier         11) Nombre d’entreprises et d’indépendants prévus sur le chantier
+
+
+
+12) Identification des intervenants déjà sélectionnés *)
+
+
+
+
+   •
+       * si nécessaire joindre un formulaire à part
+
+
+
+
+   Page 17 de 19 pages                                                                                                ITM-SST 1408.2
+                                       ANNEXE IV
+
+                                 AGENCES de l’ITM
+
+          Agences ITM                                      Communes
+
+
+
+
+Agence ITM de Diekirch          Troisvierges, Weiswampach, Heinerscheid, Wincrange, Clervaux,
+                                Munshausen, Eschweiler, Hosingen, Wilwerwiltz, Winseler, Wiltz,
+16, rue Jean l’Aveugle
+                                Kautenbach, Constum, Hoscheid, Putscheid, Vianden, Lac de la
+L-9208 DIEKIRCH                 Haute-Sûre,     Goesdorf,    Boulaide,    Neunhausen,      Esch/sûre,
+                                Heiderscheid, Bourscheid, Bastendorf, Fouhren, Erpeldange, Diekirch,
+                                Bettendorf, Reisdorf, Rambrouch, Wahl, Grosbous, Mertzig, Feulen,
+Tél. : 247 76250                Ettelbrück, Schieren, Ermsdorf, Reisdorf, Beaufort, Bettborn, Vichten,
+Fax : 247 76260                 Ell Redange, Useldange, Beckerich, Saeul, Medernach, Waldbillig,
+                                Berdorf, Consdorf, Echternach, Rosport, Bech, Mompach
+
+
+
+
+Agence ITM de Luxembourg        Colmar-Berg, Nommern, Bissen, Boevange/Attert, Mersch, Larochette,
+                                Heffingen, Fischbach, Lintgen, Tuntange, Lorentzweiler, Junglinster,
+3, rue des Primeurs
+                                Biwer, Manternach, Mertert, Steinsel, Walferdange, Niederanven,
+L-2361 STRASSEN                 Betzdorf, Grevenmacher, Flaxweiler, Strassen, Luxembourg,
+                                Sandweiler, Schuttrange, Wormeldange, Bertrange, Contern,
+                                Hesperange, Weiler la Tour
+Tél. : 247 86212
+Fax : 404007
+
+
+
+
+Agence ITM d’Esch-sur-Alzette   Septfontaines, Hobscheid, Koerich, Kehlen, Kopstal, Steinfort, Mamer,
+                                Garnich, Clemency, Bascharage, Dippach, Pétange, Reckange/Mess,
+1, bd de la Porte de France
+                                Leudelange,     Differdange,   Sanem,      Mondercange,        Roeser,
+L-4360 Esch-sur- Alzette        Bettembourg, Schifflange, Esch/Alzette, Kayl, Dudelange, Rumelange,
+                                Frisange, Burmerange, Remerchen, Mondorf-les-Bains, Wellenstein,
+                                Dahlheim, Remich, Bous, Waldbredimus, Stadtbredimus, Lenningen
+Tél. : 247 76219
+Fax : 247 76240
+
+
+
+
+   Page 18 de 19 pages                                                                ITM-SST 1408.2
+                                                                   ANNEXE V – Aide à la décision
+   NOMBRE D'ENTREPRISES
+                                                   Travaux                         Nombre de travailleurs                                               Plan de         Coordinateur
+PRÉSENTES SIMULTANÉMENT                                                                                                      Avis Préalable
+                                                 de l’annexe II                  simultanément sur chantier                                         sécurite et santé    de sécurité
+                OU
+       SUCCESSIVEMENT
+
+
+                                                                                              < 30 jours
+                                                                                                  et
+                                                                                      < 20 hommes simultanément
+
+                                                     non
+                                                                                             > 30 jours et
+                                                                                      > 20 hommes simultanément                                                   1)
+                                                                                                 OU                                  X                        X
+                                                                                         > 500 hommes * jours
+
+              =1
+                                                                                              < 30 jours
+                                                                                                                                                                  1)
+                                                                                                  et
+                                                                                      < 20 hommes simultanément
+                                                                                                                                                              X
+                                                     oui
+                                                                                             > 30 jours et
+                                                                                      > 20 hommes simultanément                                                   1)
+                                                                                                 OU                                 X                         X
+                                                                                         > 500 hommes * jours
+
+
+
+                                                                                             < 30 jours
+                                                                                                                                                              2)
+                                                                                                 et
+                                                                                     < 20 hommes simultanément
+                                                                                                                                                              X             X
+              >1                                                                             > 30 jours et
+                                                                                      > 20 hommes simultanément                                               2)
+                                                                                                 OU                                 X                         X             X
+                                                                                         > 500 hommes * jours
+
+
+
+X:Xnécessaire
+     : nécessaire
+    1)
+1:XPlan: Plan Particulier
+         particulier      de Sécurité
+                     de sécurité        et de(àSanté
+                                 et de santé         à fournir
+                                                fournir         par l’Entreprise
+                                                        par l’Entrepreneur)
+    2)
+2:XPlan: Plan Particulier
+         particulier      de Sécurité
+                     de sécurité        et de (à
+                                 et de santé   Santé à fournir
+                                                 fournir        par l’Entreprise
+                                                         par l’Entrepreneur)      et Plan
+                                                                             et Plan      Général
+                                                                                     général      de Sécurité
+                                                                                             de sécurité et de santé   santé
+                                                                                                                et de (à     à établir
+                                                                                                                         fournir par le par le coordinateur
+                                                                                                                                        Coordinateur)
+
+
+
+
+  Page 19 de 19 pages                                                                                                                                                    ITM-SST 1408.2
+

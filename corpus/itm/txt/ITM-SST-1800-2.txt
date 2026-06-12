@@ -1,0 +1,446 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                         Strassen, le 18 novembre 2013
+
+
+
+
+                                                                                       ITM-SST 1800.2
+
+
+                                           Stations de ravitaillement
+                      de véhicules routiers en hydrocarbures
+
+                                              Prescriptions de sécurité types
+                                              Le présent document comporte 10 pages
+
+                                                                 SOMMAIRE
+
+
+         Article                                                                                              Page
+              1.           Objectifs et domaine d'application                                                   2
+              2.           Définitions                                                                          2
+              3.           Normes et règles techniques                                                          2
+              4.           Installation                                                                         2
+              5.           Dépotage                                                                             3
+              6.           Installations électriques                                                            4
+              7.           Bâtiment accessible au public                                                        5
+              8.           Formation du personnel et plan d’urgence                                             7
+              9.           Moyens de secours et d’intervention                                                  8
+             10.           Protection contre la foudre                                                          8
+             11.           Réservoirs et récipients mobiles                                                     8
+             12.           Stations automatiques                                                                8
+             13.           Réception                                                                            9
+             14.           Exploitation et entretien                                                            9
+
+
+
+
+        _____________________________________________________________________________________________________________________
+        Direction
+        Adresse postale: Boîte postale 27   L- 2010 Luxembourg
+        Bureaux: 3, rue des Primeurs, L-2361 Strassen Tél: 247-86213   Fax: 49 14 47
+        Site Internet: http://www.itm.lu
+Art. 1. - Objectifs et domaine d'application
+1.1. Les présentes prescriptions ont pour objectif de spécifier les prescriptions générales de
+sécurité, de santé, d'hygiène, de salubrité et de commodité par rapport au personnel et au
+public des stations de ravitaillement de véhicules routiers en hydrocarbures.
+1.2. Des allégements ou dispenses aux présentes prescriptions peuvent être accordés de cas en
+cas, mais uniquement si des mesures de rechange garantissant une protection au moins
+équivalente sont prises.
+
+Art. 2. - Définitions
+2.1. Sous la dénomination "organisme de contrôle" est à comprendre tout organisme figurant à
+l'arrêté du Ministre du Travail le plus récent en date concernant l'intervention d'organismes de
+contrôle dans les domaines afférents aux présentes prescriptions.
+2.2. Par "point de distribution" est à comprendre l'installation (tuyau, pistolet) permettant la
+vente d'un produit spécifique (p.ex. essence sans plomb 95 Oct., essence sans plomb 98 Oct.,
+gasoil, …).
+2.3. Par "colonne de distribution" est à comprendre l'installation complète (tuyau, pistolet,
+compteur, pompe éventuelle) de vente d'hydrocarbures, comprenant un ou plusieurs points de
+distribution.
+
+Art. 3. - Normes et règles techniques
+3.1. Les normes, prescriptions, directives de sécurité et d'hygiène et les règles de l'art à
+appliquer lors de la conception, de la réalisation et de l'exploitation de stations-services sont
+en particulier les présentes prescriptions et en général les normes et règles techniques
+nationales appliquées dans les pays de la Communauté Européenne ou alors celles reconnues
+comme équivalentes par l'Inspection du travail et des mines.
+3.2. Sont d'application les normes européennes (E.N.) au fur et à mesure qu'elles paraissent et
+remplacent les diverses normes nationales.
+
+Art. 4. - Installation
+4.1. Les équipements de la station de distribution d'hydrocarbures doivent être construits et
+installés selon les normes et prescriptions de sécurité réglant la matière.
+Les installations doivent présenter toutes garanties de résistance, d'étanchéité et de sécurité.
+4.2. Les canalisations métalliques, isolées, installées à l'abri des chocs et donnant toutes
+garanties de résistance aux actions mécaniques, physiques, chimiques ou électrolytiques
+doivent être conformes aux prescriptions allemandes "Technische Regeln für brennbare
+Flüssigkeiten (TRBF)" ou à des règles reconnues comme garantissant un niveau de sécurité
+équivalent, pour cet usage, par un organisme de contrôle et acceptées comme telles par
+l'Inspection de travail et des mines.
+4.3. Toutes les installations de refoulement des vapeurs d'essence (ainsi que les équipements
+concomitants) doivent être du type antidéflagrant.
+
+
+
+
+Page 2 sur 10 pages                                                                 ITM-SST 1800.2
+4.4. Les pistolets de remplissage doivent être construits de façon à ce que les gaz de
+refoulement des réservoirs de la station-service ne puissent s'échapper vers l'extérieur lors du
+remplissage de ces réservoirs.
+4.5. Les pompes de distribution doivent être pourvues d’un dispositif break-away, coupant
+l’arrivée d’essence ou de gasoil en cas d’arrachement du flexible par un véhicule.
+4.6. Les conduites de refoulement des vapeurs d'essence doivent être pourvues de pare-feu
+appropriés dans les colonnes de distribution.
+4.7. Les conduites de refoulement des vapeurs d'essence de tous les points de distribution d'un
+produit spécifique peuvent être reliées à une conduite collective, ramenant ces vapeurs vers le
+réservoir contenant ce produit.
+4.8. Le sol de l'aire de distribution doit être étanche et incombustible et doit permettre
+l’écoulement des hydrocarbures vers des collecteurs. Il doit comprendre un revêtement
+inattaquable par les produits pétroliers. Les couches d'hydrocarbures se déposant notamment
+sur le sol entourant les colonnes de distribution sont à enlever régulièrement.
+4.9. Toutes dispositions doivent être prises pour éviter l'écoulement d'hydrocarbures dans la
+canalisation publique, sur la voie publique ainsi que sur les terrains voisins.
+4.10. Un plan de zonage (zones à danger d’explosion selon les prescriptions «TRBF»
+précités) est à établir et à transmettre pour contrôle à un organisme de contrôle, ainsi qu’à
+l’Inspection du travail et des mines avant le début de l’exploitation de la station-service.
+
+Art. 5. - Dépotage
+5.1. L’aire de déchargement des camions citernes alimentant les réservoirs de la station-
+service doit être située de telle façon que les camions citernes en dépotage se trouvent garés
+complètement sur le terrain de la station-service, sans affecter la voie de circulation principale
+des véhicules, afin d’éviter toute collision entre un véhicule entrant sur l’aire de ravitaillement
+et le camion citerne.
+5.2. Lors du dépotage, un dispositif de sécurité avertissant qu’un dépotage est en cours et
+destiné à prévenir tout accrochage avec le camion citerne, est à mettre en œuvre.
+5.3. Des cales doivent être placées sous les roues du camion citerne pendant le dépotage.
+5.4. La personne en charge du dépotage doit avoir pris part à une formation ADR et être en
+permanence à proximité directe du bouton d’arrêt d’urgence du camion citerne.
+5.5. Toute opération de remplissage doit être contrôlée par un dispositif de sécurité (p.ex.
+limiteur de remplissage) qui doit interrompre automatiquement le remplissage du réservoir
+lorsque le niveau maximal d'utilisation est atteint. Il est interdit de faire subir au limiteur de
+remplissage en exploitation des pressions supérieures à la pression de service
+En cas de rupture des flexibles de dépotage pour des causes violentes, l’arrachement des
+câbles liés aux connexions du système anti débordement des réservoirs (Art. 7. de la
+prescription type ITM-SST 1903) doit engendrer une fermeture directe des vannes du camion
+citerne.
+5.6. Les flexibles de dépotage des camions citernes doivent être entretenus et maintenus en
+parfait état de fonctionnement.
+
+
+
+
+Page 3 sur 10 pages                                                                ITM-SST 1800.2
+Art. 6. - Installations électriques
+6.1. Les installations de production, de distribution, de transport et de transformation d'énergie
+électrique, ainsi que leurs annexes doivent être conçues, réalisées, entretenues et exploitées
+conformément aux normes, prescriptions et directives de sécurité, de même qu'aux règles de
+l'art, de la sécurité et de l'hygiène normalement applicables dans le Grand-Duché de
+Luxembourg, à savoir:
+- aux prescriptions allemandes afférentes DIN/VDE,
+- aux normes européennes CENELEC, au fur et à mesure que celles-ci paraissent et
+     remplacent les prescriptions DIN/VDE précitées,
+- aux prescriptions de raccordement pour les installations à courant fort disposant d’une
+     tension nominale inférieure ou égale à 1.000 V au Grand-Duché de Luxembourg (TAB-
+     BT),
+- aux prescriptions de raccordement pour les postes à moyenne tension au Grand-Duché de
+     Luxembourg (TAB-MT),
+- aux règlements communaux pour certaines villes du Grand-Duché de Luxembourg.
+6.2. Les installations électriques sont à maintenir continuellement en bon état d'entretien, de
+sécurité et de fonctionnement. Il doit être remédié sans délai à toutes les défectuosités et
+anomalies constatées.
+6.3. L'entretien régulier des installations électriques doit être assuré par un personnel qualifié
+et expérimenté. L'exploitant est responsable, soit de s'assurer que les intéressés ont acquis les
+aptitudes nécessaires, soit de faire mettre en œuvre les instructions, formations et formations
+continues requises.
+6.4. L'entretien doit s'effectuer dans le strict respect des règles de la sécurité au travail et les
+aménagements, équipements et moyens de sécurité doivent être prévus en conséquence.
+6.5. Lors des travaux de montage, d'entretien ou de réparation des installations électriques,
+toutes mesures efficaces doivent être prises pour protéger les travailleurs contre tout risque ou
+toute atteinte à la santé.
+6.6. Le personnel chargé d'effectuer des travaux aux installations électriques doit être instruit
+des précautions à prendre pour éviter les dangers de l'électricité et doit disposer du matériel et
+de l'équipement de sécurité nécessaires pour sa propre protection et pour l'exécution des
+travaux. L'exécution des travaux doit être placée sous la surveillance permanente d'un
+responsable.
+6.7. Pour empêcher la mise sous tension, soit accidentellement, soit par inadvertance d'une
+installation électrique sur laquelle sont effectués des travaux, toutes précautions appropriées
+doivent être prises.
+6.8. Dans les locaux de travail où sont traitées, fabriquées ou entreposées des matières
+susceptibles de prendre feu presque instantanément au contact d'une flamme ou d'une étincelle
+et de propager rapidement l'incendie, les canalisations et appareils électriques doivent être
+pourvus de dispositifs empêchant leur contact accidentel avec ces matières ainsi que
+l'échauffement de celles-ci.
+6.9. Dans les locaux susceptibles de présenter des risques d'explosion, l'installation électrique
+(force et lumière) doit être réalisée par du matériel utilisable en atmosphère explosible (DIN
+EN 60079/VDE 0165).
+
+
+
+
+Page 4 sur 10 pages                                                                 ITM-SST 1800.2
+Les installations électriques de ces zones doivent être réduites au strict minimum. Tout autre
+appareil, machine ou canalisation doit être placé en dehors de ces zones.
+6.10. L'installation électrique des colonnes de distribution doit être du type "antidéflagrant"
+(DIN EN 60079/VDE 0165).
+6.11. L'éclairage des colonnes de distribution et de l'aire de remplissage doit se faire au
+moyen de lampes électriques hermétiques.
+6.12. Un bouton d’arrêt général installé dans le local de péage doit permettre la mise hors
+tension de l'installation électrique complète de la station-service.
+6.13. Les colonnes de distribution doivent pouvoir être mises hors tension par des boutons
+d’arrêt d’urgence d'accès facile.
+Chaque groupe de colonnes de distribution doit être muni d'un tel bouton d’arrêt d’urgence
+(soit sur une colonne de distribution, soit sur une console spéciale se trouvant près du groupe
+de colonnes de distribution) en plus du bouton d’arrêt général à installer dans le local de
+péage.
+6.14. Les câbles électriques entrant dans le bâtiment doivent passer par une chambre coupe-
+gaz, empêchant les gaz d'hydrocarbures d'entrer via les canalisations électriques à l'intérieur
+de l'immeuble.
+6.15. L'alimentation électrique des machines, appareils, installations et équipements
+accessibles aux personnes doit présenter toutes les garanties de sécurité communément
+admises et, à défaut d'une autre mesure de sécurité supplémentaire équivalente, être protégée
+par des disjoncteurs différentiels déclenchant au plus tard en présence d'un courant de défaut
+de 0,03 A.
+6.16. Les installations électriques doivent être réceptionnées avant leur mise en exploitation et
+puis contrôlées tous les cinq ans par un organisme de contrôle. Copie de cette réception est à
+adresser à l'Inspection du travail et des mines. Copies des rapports de contrôle sont à présenter
+aux autorités de contrôle compétentes à leur demande.
+6.17. La périodicité des vérifications par du personnel compétent de l'établissement des
+installations électriques pour les locaux et emplacements de travail où existent des risques de
+dégradation, d'incendie ou d'explosion est fixée à un an et pour les autres locaux et
+emplacements de travail à trois ans.
+6.18. Les installations électriques doivent également être vérifiées par un organisme de
+contrôle après chaque modification ou réparation importante ou à la demande de l'Inspection
+du travail et des mines.
+
+Art. 7. - Bâtiment accessible au public
+7.1. Le présent article est applicable aux bâtiments des stations-services pouvant comprendre
+le local de péage, le shop, les locaux techniques, les locaux servant comme dépôt, etc., qui
+remplissent les conditions suivantes :
+     la surface totale du bâtiment doit être inférieure à 600 m2,
+     le bâtiment ne doit pas être destiné à recevoir plus que 50 personnes,
+     le bâtiment ne doit comporter qu’un seul niveau.
+Des mesures de sécurité supplémentaires à mettre en œuvre peuvent être imposées par les
+autorités compétentes pour les bâtiments qui ne remplissent pas tous les critères ci-dessus ou
+
+
+
+
+Page 5 sur 10 pages                                                               ITM-SST 1800.2
+qui peuvent présenter des risques particuliers dû au mode d’exploitation, aux produits stockés,
+etc.
+7.2. Stabilité, résistance au feu et compartimentage coupe-feu :
+     Toutes les parties du gros-œuvre et la charpente sous toiture doivent répondre aux
+        exigences statiques et aux exigences de résistance au feu requises pour assurer une
+        stabilité au feu de 30 minutes (R 30).
+     Les locaux techniques et les locaux servant comme dépôt doivent être compartimentés
+        coupe-feu 60 minutes pour les parois et coupe-feu 30 minutes et coupe-fumée pour les
+        portes par rapport aux autres unités d’exploitation.
+     Chaque passage de câbles, de conduites ou de gaines vers un autre compartiment
+        coupe-feu est à colmater au moyen d'un matériau non-combustible (EUROCLASSE
+        A2s1d0).
+     Les fixations des chemins des câbles électriques situés dans les voies de circulations et
+        les locaux de surface supérieure à 50 m2, doivent avoir une stabilité au feu de 30
+        minutes (R 30) au moins.
+     Les murs et autres éléments séparant l'établissement de bâtiments contigus, doivent
+        être du type coupe-feu et présenter une durée de résistance au feu de 180 minutes (REI
+        180) au moins.
+     Les façades et plafonds touchant ce bâtiment contigu doivent comporter des éléments
+        de construction résistant au feu afin d’empêcher la propagation des flammes dans le
+        plan horizontal.
+7.3. Evacuation de personnes, issues et dégagements intérieurs :
+     Le bâtiment doit disposer d’au moins deux sorties de secours, dont au moins une sortie
+       règlementaire s’ouvrant dans le sens d’évacuation et ne donnant pas sur l’aire de
+       ravitaillement.
+     En cas de coupure d’électricité ou de détection incendie, les portes du shop, servant de
+       sortie de secours, doivent s’ouvrir automatiquement ou bien par simple poussée dans
+       le sens d’évacuation.
+     La distance maximale à parcourir depuis un point quelconque du bâtiment pour
+       atteindre une sortie de secours est de 35 m.
+     En aggravation à l’alinéa précédant, la distance maximale à parcourir depuis un point
+       quelconque du bâtiment situé en cul-de-sac pour atteindre une sortie de secours doit
+       être de 20 m.
+     Les chemins d’évacuation, les sorties, les issues, etc., doivent avoir une largeur libre
+       minimale de 1 m et une hauteur libre minimale de 2,20 m.
+     En allègement à l’alinéa précédent, les portes doivent avoir une largeur libre minimale
+       de 0,90 m et une hauteur libre minimale de 2 m.
+     Il est interdit de déposer dans les chemins d'évacuation et aux abords des sorties, des
+       objets quelconques pouvant diminuer les largeurs réglementaires ou gêner la
+       circulation.
+7.4. Moyens de secours et d'intervention :
+     Tout le bâtiment est à équiper d'une installation de détection incendie intégrale
+       automatique susceptible de détecter et de signaler tout début d'incendie dans n'importe
+       quel local.
+
+
+
+Page 6 sur 10 pages                                                             ITM-SST 1800.2
+       Des boutons-poussoirs ou d’autres dispositifs manuels d'alarme sont à installer à des
+        endroits facilement accessible aux personnes.
+       La détection d’un incendie doit donner l’alarme générale et doit mettre hors tension
+        l’installation électrique complète de la station-service. En présence d’un membre du
+        personnel de la station-service, l’alarme et la mise hors tension peut être temporisée.
+        Toutes actions sur un bouton poussoir doit donner l’alarme générale sans
+        temporisation et mettre hors tension l’installation électrique complète de la station-
+        service.
+       Le bâtiment doit disposer d’un éclairage de sécurité conforme aux normes en vigueur
+        et d’une signalisation de sécurité pour les sorties de secours.
+       Des extincteurs portatifs d'incendie normalisés, adaptés aux risques et en nombre
+        suffisant, doivent être disposés dans le bâtiment.
+
+Art. 8. - Formation du personnel et plan d’urgence
+8.1. Le programme de formation du personnel de la station-service doit être élaboré en
+fonction de leurs responsabilités, de leurs domaines de compétence et de leurs affectations.
+8.2. Ces formations doivent entre autre couvrir les domaines suivants :
+     les premiers secours,
+     comprendre la nature (origines), les dangers et les dégâts résultant d’un incendie et
+       d’une explosion,
+     savoir comment un incendie se propage et comprendre son développement,
+     connaître les mesures à prendre en cas d’un incendie, d’une explosion, d’un accident,
+       respectivement d’un sinistre,
+     être en mesure de faire des distinctions entre les différents types d’extincteurs et les
+       incendies pour lesquels les extincteurs sont désignés,
+     savoir attaquer des incendies de petite taille avec confiance et conscience (capacité de
+       lutter contre un incendie),
+     connaître la responsabilité du personnel concerné à l’égard de la prévention et la
+       prévision incendie,
+     connaître les consignes d'évacuation du public et du personnel,
+     comprendre comment sont exécutées les procédures d’urgence,
+     comprendre les risques liés aux atmosphères explosives.
+8.3. L'exploitant doit établir un plan d'urgence avant la mise en exploitation de
+l’établissement. Celui-ci doit être tenu à jour, indiquer les mesures de sécurité à prendre en
+cas d'incident, d'accident ou de sinistre et comprendre notamment un plan détaillé reprenant
+l'emplacement, la nature et la quantité de tous les produits stockés.
+L’élaboration du plan d’urgence doit se faire en prenant entre autres en compte les scénarios
+d’accident repris dans l’étude des risques.
+Le plan d’urgence doit être revu, complété et adapté et testé au moins une fois par an. Les
+exercices afférents ont pour but notamment:
+    de vérifier le bien-fondé, l'exactitude, les modalités et les détails prévus,
+    de familiariser le personnel concerné et le cas échéant les intervenants extérieurs avec
+       les installations, équipements, dispositifs et moyens disponibles,
+    de vérifier le bon fonctionnement, la fiabilité et l'efficacité desdits équipements,
+       installations, dispositifs et moyens,
+
+
+Page 7 sur 10 pages                                                             ITM-SST 1800.2
+       de s'assurer du bon fonctionnement des opérations d'évacuation des personnes,
+       de constater et d'éliminer les points faibles et d'améliorer les modalités et mesures en
+        conséquence,
+       de former le personnel et de tenir éveillé chez lui l'esprit et le souci de sécurité.
+L’exploitant doit fournir au service de secours compétent les plans et parties du plan
+d’urgence nécessaires à ces derniers en cas d’intervention.
+
+Art. 9. - Moyens de secours et d’intervention
+9.1. Des moyens de secours et d’intervention, appropriés aux risques, en rapport avec
+l'importance de l’établissement et avec le nombre de colonnes de distribution, doivent être
+installés et maintenus toujours en bon état de fonctionnement.
+En particulier, des extincteurs pour feux d'hydrocarbures et des produits absorbants sont à
+placer en des endroits facilement accessibles, près des bouches de remplissage, des tubes de
+jaugeage et des colonnes de distribution (au moins un extincteur adapté au feu d’hydrocarbure
+de 6 kg par colonne de distribution).
+Les produits absorbants imprégnés d’hydrocarbures seront renfermés dans des récipients clos
+et étanches.
+9.2. Tout établissement doit pourvoir à un équipement de premiers secours, suivant les règles
+de l’art et les prescriptions officielles en vigueur, en fonction des risques en présence et en
+fonction du nombre de personnes susceptibles d’en profiter. Cet équipement doit être
+entretenu, revu, contrôlé et complété régulièrement.
+
+Art. 10. - Protection contre la foudre
+Les installations de transvasement d'hydrocarbures doivent être convenablement protégées
+contre la foudre (DIN EN 62561 - VDE 0185 - 561).
+Les personnes se trouvant à l’intérieur ou à l’extérieur des bâtiments doivent être protégées
+par un système de protection contre les décharges atmosphériques (paratonnerre) sous
+condition qu’une étude exige une telle protection. Cette étude est à réaliser conformément aux
+prescriptions et normes reprises dans la condition type ITM-SST 1106 «Blitzschutz», la
+version la plus récente en vigueur.
+
+Art. 11. - Réservoirs et récipients mobiles
+Les réservoirs et récipients mobiles contenant des liquides inflammables doivent être réalisés,
+installés et exploités conformément aux prescriptions de l’Inspection du travail et des mines y
+relatives les plus récentes en vigueur.
+
+Art. 12. - Stations automatiques
+12.1. Le débit par opération de ravitaillement des stations automatiques fonctionnant sans la
+présence d'un membre du personnel de la station-service doit se limiter à une quantité de
+50 litres.
+12.2. L’auvent situé au-dessus des colonnes de distribution pouvant fonctionner sans la
+présence d’un membre du personnel de la station-service est à équiper d’une installation de
+détection de flammes ou d’une installation de détection incendie alternative équivalente.
+
+
+
+Page 8 sur 10 pages                                                              ITM-SST 1800.2
+Ce système alternatif doit être reconnu par l’Inspection du travail et des mines comme
+équivalent d’un point de vue efficacité et fiabilité.
+12.3. Une détection incendie doit mettre hors tension l’installation électrique complète de la
+station-service.
+12.4. La conception de l’installation de détection incendie doit être réalisée d’après les normes
+ANPI ou VdS ou d’après une autre norme d’un pays de l’Union Européenne, norme reconnue
+comme au moins équivalente du point de vue de la sécurité par l’Inspection du travail et des
+mines.
+
+Art. 13. - Réception
+13.1. Un contrôle relatif à la conformité de l’établissement aux dispositions de l’autorisation
+d’exploitation est à effectuer par un organisme de contrôle agréé à cet effet par le Ministre du
+Travail et de l’Emploi avant la mise en service de l’établissement.
+13.2. L'étanchéité des installations de la station-service doit être vérifiée à une pression
+pneumatique de 300 millibars sous la surveillance d'un organisme de contrôle avant leur mise
+en service.
+13.3. Le contrôle de la conformité des installations de la station-service aux normes et règles
+de sécurité (telles que définies à l'art. 3. ci-dessus) ainsi que les essais de réception donnent
+lieu à la rédaction de rapports de réception par l'organisme de contrôle. Deux copies sont à
+transmettre pour visa à l'Inspection du travail et des mines qui remettra un exemplaire au
+propriétaire de la station-service, qui doit remettre une copie à l'exploitant qui la tiendra à
+disposition des organes de contrôle sur les lieux mêmes de la station-service.
+
+Art. 14. - Exploitation et entretien
+14.1. L'exploitant de la station-service doit être une personne qualifiée parfaitement au
+courant de l'exploitation de la station et des mesures à prendre en cas d'incident. L'exploitant
+doit s'assurer que son préposé remplit également ces conditions.
+14.2. L'aire de distribution est à maintenir propre, débarrassée de tout chiffon ou déchet
+imprégné de liquides, de tous matériaux ou substances combustibles.
+14.3. L’exploitation des installations n’est autorisée que si celles-ci se trouvent en parfait état
+de fonctionnement.
+14.4. Il est interdit d'effectuer une distribution aux véhicules à moteur sans avoir, au préalable,
+procédé à l'arrêt du moteur. Cette interdiction est à afficher clairement près des colonnes de
+distribution des stations-service.
+14.5. Il est en tout temps interdit de fumer, de remplir des récipients qui ne sont pas prévus
+pour contenir des produits d’hydrocarbures, de faire du feu sur l'aire de distribution. De
+même, l’utilisation de tout appareil électronique est interdite lors d’une opération de
+ravitaillement. Ces interdictions doivent être affichées par des symboles normalisés près des
+colonnes de distribution.
+14.6. La circulation routière dans l'enceinte de la station-service doit être réglementée suivant
+les dispositions du code de la route. Une signalisation appropriée doit être mise en place.
+14.7. La station-service devra être conçue de telle façon qu’en temps normal les files
+d’attentes n’entravent pas la circulation publique.
+
+
+
+Page 9 sur 10 pages                                                                ITM-SST 1800.2
+14.8. Les installations de distribution doivent être entretenues et en bon état de
+fonctionnement. Elles doivent être contrôlées périodiquement par un technicien compétent.
+14.9. Les installations des stations de distributions de carburants, leurs composants et tous les
+équipements connexes et annexes sont à mettre hors usage, tant qu'ils présentent des défauts
+pouvant mettre en danger la santé et la sécurité des personnes.
+
+
+
+                                   Mise en vigueur, le 18.11.2013
+
+
+                                                 S.
+
+                                        Robert HUBERTY
+                                             Directeur
+                                     de l’Inspection du travail
+                                            et des mines
+
+
+
+
+Page 10 sur 10 pages                                                              ITM-SST 1800.2
+

@@ -1,0 +1,976 @@
+GRAND-DUCHE DE LUXEMBOURG
+
+
+
+
+                                                                                                   Strassen, den 23. Juli 2013
+
+
+
+
+                                                                                                        ITM-SST 1600.1
+
+
+
+
+          Allgemeine Anforderungen an Einrichtungen des
+                       Gesundheitswesens
+
+                                                                     (22 Seiten)
+
+                                                               Inhaltsverzeichnis
+
+    Kapitel                                                                                                                             Seite
+
+    1      Gesetzliche Grundlagen .................................................................................................. 3
+    2      Gegenstand und Anwendungsbereich .......................................................................... 3
+    3      Begriffsbestimmungen ..................................................................................................... 4
+    4      Bauliche Anforderungen .................................................................................................. 4
+        4.1 Allgemein....................................................................................................................... 4
+        4.2 Böden............................................................................................................................. 4
+        4.3 Wände ........................................................................................................................... 5
+        4.4 Türen.............................................................................................................................. 5
+    5      Technische und installatorische Anforderungen ......................................................... 6
+    6      Organisatorische Anforderungen ................................................................................... 7
+        6.1 Allgemein....................................................................................................................... 7
+        6.2 Umgang mit infektiösen Abfällen ............................................................................... 9
+    7      Allgemeine Anforderungen an spezifische Bereiche ................................................ 11
+        7.1 Personalaufenthaltsräume ....................................................................................... 11
+        7.2 Röntgenräume und Räume nuklearmedizinischer Abteilungen ......................... 11
+        7.3 Endoskopie ................................................................................................................. 13
+        7.4 OP-Bereiche ............................................................................................................... 14
+
+    Direction
+    Adresse postale: Boîte postale 27     L- 2010 Luxembourg
+    Bureaux : 3, rue des Primeurs,      L-2361 Strassen   Tél: 247-86213   Fax: 49 14 47
+    Site Internet : http://www.itm.lu
+       7.4.1      Bauliche und installatorische Anforderungen .............................................. 14
+       7.4.2      Lüftungstechnische Anforderungen............................................................... 14
+       7.4.3      Strahlenschutztechnische Anforderungen ................................................... 15
+       7.4.4      Organisatorische Anforderungen ................................................................... 15
+    7.5 Aufwachbereiche ....................................................................................................... 16
+    7.6 Aufbereitung von Medizinprodukten ....................................................................... 16
+    7.7 Physikalische Therapie / Ergotherapie ................................................................... 17
+    7.8 Küchen (für Gemeinschaftsverpflegung) ............................................................... 17
+    7.9 Reinigungsdienst ....................................................................................................... 20
+•
+
+
+
+
+Seite 2 von 22 Seiten                                                                                           ITM-SST 1600.1
+1    Gesetzliche Grundlagen
+    (1) Der Code du Travail sowie die einschlägigen „règlements grand-ducaux“ sind
+        zu beachten.
+    (2) Des Weiteren sind die Empfehlungen zur Unfallverhütung der Association
+        d'Assurance Accidents (AAA) zu beachten.
+    (3) Europäische Normen (EN) sind anzuwenden, so wie sie erscheinen und
+        nationale Vorschriften ersetzen.
+
+
+2    Gegenstand und Anwendungsbereich
+    (1) Diese Vorschriften gelten für alle Einrichtungen des Gesundheitswesens, in
+        welchen Patienten stationär behandelt werden und haben die Festlegung
+        genereller Anforderungen bezüglich der Arbeitssicherheit und der
+        Arbeitshygiene zum Gegenstand. Sie gelten jedoch nicht für rein
+        administrative Gebäude oder Gebäudebereiche.
+    (2) Diese Vorschriften sind gegebenenfalls in Verbindung mit anderen
+        Vorschriften betreffend spezifische Bereiche oder Installationen von
+        Einrichtungen     des   Gesundheitswesens     anzuwenden1).    Im      Falle
+        unterschiedlicher   oder   widersprüchlicher  Anforderungen     sind     die
+        Anforderungen der spezifischen Vorschrift maßgebend. Im Zweifelsfall ist die
+        Genehmigungsbehörde zu kontaktieren.
+    (3) Erleichterungen oder Befreiungen hinsichtlich der in dieser Vorschrift
+        definierten Anforderungen können bewilligt werden, sofern geeignete
+        Ersatzmaßnahmen vorgeschlagen werden, welche mindestens ein gleich
+        hohes Sicherheitsniveau gewährleisten.
+    (4) Palliativstationen, Stationen auf welchen chronisch kranke Menschen für
+        längere Zeiträume leben (z.B. Alters- und Chronischkrankenstationen) und
+        ähnliche Stationen, fallen nicht in den Anwendungsbereich der vorliegenden
+        Vorschriften. Die Anforderungen an solche Stationen sind fallweise mit der
+        Genehmigungsbehörde abzustimmen. (z.B. geeignete Teppichböden erlaubt,
+        Räume größer mit Sanitärtrakt, eigenes Mobiliar etc.         aber gleiche
+        Anforderungen an medizinisch-therapeutische Behandlungsräume).
+    (5) Brandschutztechnische Anforderungen werden in der vorliegenden Vorschrift
+        nicht geregelt.
+
+
+
+
+1) z.B. Vorschriften betreffend Pflegestationen, Zentralsterilisationen, Dialysestationen, psychiatrische Stationen,
+    pädiatrischen Stationen, mikrobiologischer Labore, Umgang mit Zytostatika, Umkleiden, Rohrpostanlagen,
+    Lager etc.
+
+
+
+Seite 3 von 22 Seiten                                                                              ITM-SST 1600.1
+3     Begriffsbestimmungen
+    (1) Unter „Einrichtungen des Gesundheitswesens“ werden im Rahmen dieser
+        Vorschrift entsprechende Einrichtungen verstanden, in welchen Patienten
+        stationär behandelt werden. Wohn- und/oder Pflegeeinrichtungen für
+        behinderte oder ältere Menschen werden darunter nicht verstanden.
+    (2) Unter „medizinischem Personal“ ist im Sinne dieser Vorschrift das Personal zu
+        verstehen, welches physischen Kontakt zu Patienten hat (z.B. Pflegepersonal,
+        medizintechnisches Personal, Ärzte etc.).
+
+
+4     Bauliche Anforderungen
+
+4.1     Allgemein
+    (1) Generell müssen die Anzahl, die Lage und die Größe von Räumen in
+        Einrichtungen des Gesundheitswesens so gewählt werden, dass ein
+        behinderungsfreies und ergonomisch günstiges Arbeiten sowie eine
+        sachgemäße und sichere Lagerung aller erforderlichen Materialien
+        gewährleistet ist.
+
+4.2     Böden
+    (1) Grundsätzlich müssen alle Bodenbeläge gegen die in den jeweiligen
+        Bereichen auftretenden chemischen, physikalischen und mechanischen
+        Einwirkungen beständig sein.
+    (2) Die Bodenbeläge müssen eine Rutschfestigkeit entsprechend der in der
+        nachstehenden Tabelle angegebenen Bewertungsgruppen aufweisen.
+                                                      Bewer-                                                    Bewer-
+      Bereich                                         tungs-   Bereich                                          tungs-
+                                                      gruppe                                                    gruppe
+      Eingangsbereiche                                 R9      Räume zur Aufbereitung von Betten                 R 10
+                                                               Unreine Pflegearbeitsräume, Fäkalienräume,
+      Treppen                                          R9      Ausgussräume, Lagerräume für infektiöse           R 10
+                                                               Abfälle
+                                                               Räume für medizinische Bäder, Hydrotherapie,
+      Pausenräume (Aufenthaltsräume, Kantinen etc.)    R9                                                        R 11
+                                                               Fango-Aufbereitung
+      Sanitätsräume (Untersuchungs- u. Behandlungs-            Desinfektionsräume (nass),
+                                                       R9                                                        R 11
+      räume etc.)                                              Vorreinigungsbereiche der Sterilisation (nass)
+      Praxen der Medizin (Tageskliniken)               R9      Pathologien (Sektionsräume)                      R 11
+      Untersuchungs- und Behandlungsräume              R9      OP-Säle                                          R9
+      Station mit Krankenzimmern und Fluren            R9      Waschräume von OP’s                              R 10
+      Massageräume                                     R9      Bereich OP-Tisch-Aufbereitung                    R 11
+                                                               Räume mit Waschmaschinen zum Waschen
+      Apotheken                                        R9      von Textilien; Bereiche zur Aufbereitung von      R 11
+                                                               Reinigungsmaschinen u. -wagen
+                                                               Küchen für die Gemeinschaftsverpflegung in
+      Laborräume                                       R9                                                        R 11
+                                                               Krankenhäusern/Kliniken
+      Stationsküchen, Kaffee- und Teeküchen            R 10    Auftau- und Anwärmküchen                          R 10
+      Gipsräume                                        R 10    Spülräume, Aufbereitung Transportwagen            R 11
+
+
+
+
+Seite 4 von 22 Seiten                                                                                  ITM-SST 1600.1
+                                                      Bewer-                                                   Bewer-
+      Bereich                                         tungs-    Bereich                                        tungs-
+                                                      gruppe                                                   gruppe
+      Sanitäre Räume (Toiletten, Umkleiden,
+                                                        R 10    Kühl- und Tiefkühlräume für verpackte Ware      R 11
+      Waschräume, Stationsbäder etc.)
+      Vorreinigungsbereiche der Sterilisation (trocken) R 10    Kühl- und Tiefkühlräume für unverpackte Ware   R 11
+                Bodenbeläge in nassbelasteten Barfußbereichen, müssen der Bewertungsgruppe B entsprechen.
+
+
+     (3) Fußböden müssen leicht zu reinigen sein. Schlecht zu reinigende Bereiche
+         wie z.B. Nischen, unzugängliche Stellen unter Schränken und Einrichtungen
+         etc., sind zu vermeiden.
+     (4) Der Anschluss der Bodenbeläge an die Wandbeläge muss mittels Hohlkehlen
+         erfolgen. Diese Anforderung gilt jedoch nicht für Warteräume, Büros, Archive
+         und ähnlich genutzte Räume.
+     (5) Die Sockel von Schränken, Einbauten etc. müssen zum Bodenbelag hin
+         abgedichtet sein, um zu verhindern dass bei der Bodenreinigung Wasser
+         unter die Spinde läuft. Diese Anforderung gilt jedoch nicht für Büros, Archive
+         und ähnlich genutzte Räume.
+     (6) Bodeneinläufe sollen aus hygienischen Gründen, wegen potentieller
+         Geruchsbelästigung und möglichem Schädlingseintrag vermieden werden.
+     (7) Sind Fußböden mit Bodeneinläufen versehen, müssen diese einen
+         Geruchsverschluss besitzen und mit rutschfesten, tritt- und kippsicheren
+         Abdeckungen versehen sein. Diese Abdeckungen müssen ausreichend
+         belastbar sein und mit der Oberkante des Fußbodens bündig abschließen.
+     (8) Leitfähige Böden sind entsprechend der VDE-Richtlinien vorzusehen.
+
+
+
+4.3     Wände
+     (1) Außer in Bereichen wie Büros, Archiven und ähnlich genutzten Räumen ohne
+         Publikumsverkehr, müssen Wandoberflächen scheuerwischbeständig sein.
+     (2) Aus ergonomischen Gründen dürfen Teilfliesenschilde maximal 1,6 m hoch
+         sein2), ansonsten sind diese bis zur Decke zu führen. Fliesenschilde sind mit
+         mittels Hohlkehlen an den Bodenbelag anzuschließen.
+
+4.4     Türen
+     (1) Türoberflächen müssen leicht zu reinigen und desinfizierbar sein.
+     (2) Türen müssen mechanisch stabil und entsprechend ihrer Beanspruchung
+         widerstandsfähig gegen Feuchtigkeit und Reinigungs-/Desinfektionsmittel
+         sein.
+
+
+
+2)   Leichtere Reinigung, da sich keine leicht verschmutzende und häufig zu reinigende Kante in ungünstiger
+     Höhe befindet.
+
+
+
+Seite 5 von 22 Seiten                                                                               ITM-SST 1600.1
+     (3) Die lichte Breite von Türen muss ausreichend gemäß ihrer jeweiligen Nutzung
+         bemessen sein.
+     (4) Die lichte Breite von Türen durch welche Patienten liegend befördert werden,
+         muss mindestens 1,20 m betragen. Solche Türen dürfen, sofern es sich nicht
+         um Außentüren handelt, keine Schwellen aufweisen.
+     (5) Die lichte Breite von Türen zu Intensivbehandlungszimmern soll mindestens
+         1,4 m betragen.
+     (6) Alle Flügeltüren in Verkehrswegen, d.h. auch entsprechende Türen von
+         Durchgangsräumen, müssen Sichtfenster aufweisen. Diese Sichtfenster sind
+         als Sicherheitsverglasung auszuführen. Entsprechendes gilt für Fenster von
+         Pflegestützpunkten etc.
+     (7) Türgriffe müssen ausreichend lang sein und sollen so geformt sein, dass ein
+         versehentliches Einfädeln von Ärmeln erschwert oder verhindert wird.
+     (8) Die Türen von Untersuchungs- und Behandlungsräumen müssen ausreichend
+         schallgeschützt sein.
+     (9) Gegebenfalls sind Anforderungen hinsichtlich des Strahlenschutzes (z.B.
+         Röntgenstrahlung, Laserstrahlung etc.) zu berücksichtigen.
+
+
+5     Technische und installatorische Anforderungen
+     (1) Grundsätzlich müssen alle Handwaschbecken, welche von medizinischem
+         Personal in deren Arbeitsbereichen benutzt werden, mit handberührungsfreien
+         Armaturen ausgestattet sein. Ausnahmen hiervon können in Einzelfällen in
+         Abstimmung mit der Genehmigungsbehörde gestattet werden. Diese
+         Waschbecken dürfen keine Überläufe besitzen.
+     (2) Alle vom medizinischen Personal in deren Arbeitsbereichen verwendeten
+         Handwaschbecken müssen mit einem Hygieneset mit folgenden
+         Bestandteilen ausgestattet sein:
+          • Spender mit Waschlotion
+          • Spender mit Händedesinfektionsmittel
+          • Spender mit Einmal-Handtüchern aus Papier oder Textil3)
+          • Handtuchabwurf
+          • Hautpflegemittel4)
+          Ein Hygieneset kann bis zu zwei nebeneinander liegenden Handwaschbecken
+          zugeordnet sein.
+
+
+
+
+3)   Die Verwendung gewöhnlicher Mehrweg-Handtücher oder von Warmlufthändetrocknern ist nicht gestattet.
+4)   Bei Handwaschbecken in Bereichen, in welchen häufiges Händewaschen erforderlich ist.
+
+
+
+Seite 6 von 22 Seiten                                                                       ITM-SST 1600.1
+    (3) Alle freihängenden Spender für Reinigungs- oder Desinfektionsmittel die nicht
+        über Wasch- oder Ausgussbecken installiert sind, müssen mit einer
+        Auffangvorrichtung für Tropfen ausgestattet sein (z.B. Tropfschale). Sowohl
+        Spender als auch die Auffangvorrichtung sind so aufzuhängen, dass eine
+        Verletzungsgefahr durch Anstoßen vermieden wird.
+    (4) In Personaltoiletten dürfen Einhebelmischer verwendet werden.
+    (5) Alle Lagerregale und Lagerschränke müssen beständig gegenüber den
+        gelagerten Stoffen sein.
+    (6) Die Lagerung größerer Mengen entzündbarer Flüssigkeiten mit einem
+        Flammpunkt unter 23°C darf nur in speziell dafür au sgestatteten Lagerräumen
+        oder innerhalb entsprechend zugelassener, feuerbeständiger Lagerschränke
+        mit separater Innenluftabsaugung erfolgen.
+    (7) Alle verwendeten Betten müssen hydraulisch oder elektrisch höhenverstellbar
+        sein. Des Weiteren müssen alle neu zu beschaffenden Betten so konstruiert
+        sein, dass sie in automatischen Reinigungs- und Desinfektionsanlagen
+        aufbereitet werden können.
+    (8) Patientenliegen sollen hydraulisch oder elektrisch höhenverstellbar sein.
+    (9) Zum Transport von Lasten sind dem Personal zweckmäßige und leicht
+        handhabbare Transportmittel zur Verfügung zu stellen. Diese Transportmittel
+        müssen für die zu transportierenden Lasten dahingehend geeignet sein, dass
+        die Ladung gegen Herunterfallen, Kippen und Verrutschen gesichert werden
+        kann. Transportwagen müssen gegen unbeabsichtigtes Fortrollen gesichert
+        werden können (z.B. mittels Feststellbremse).
+        Des Weiteren müssen die Transportmittel, soweit dies möglich ist, so
+        beschaffen sein und beladen werden, dass die Sicht des Bedienpersonals in
+        Fahrtrichtung nicht eingeschränkt ist. Die Beladung von Transportmitteln muss
+        ordnungsgemäß erfolgen d.h., die Ladung selbst muss ausreichend gesichert
+        sein und die Standsicherheit sowie die Tragfähigkeit des Transportmittels darf
+        nicht gefährdet werden.
+    (10) Alle Ausgussbecken müssen mit einer Ringspülung ausgestattet sein.
+    (11) Alle Steckbeckenspülgeräte müssen thermisch desinfizierend sein. Bei
+         zentraler Dampfversorgung muss sichergestellt sein, dass auch im Falle einer
+         Störung der zentralen Dampfversorgung eine ausreichende Anzahl
+         Steckbeckenspülgeräte betrieben werden kann (z.B. durch Verwendung
+         einzelner Geräte mit Eigendampferzeugung).
+
+
+6     Organisatorische Anforderungen
+
+6.1    Allgemein
+    (1) Es sind Desinfektions- und Hygienepläne aufzustellen, welche auch die
+        Belange der Arbeitshygiene berücksichtigen.
+
+
+
+Seite 7 von 22 Seiten                                                     ITM-SST 1600.1
+          Des Weiteren sind Hautschutz- und Handschuhpläne zu erstellen, welche an
+          die jeweiligen Gegebenheiten des betreffenden Bereiches angepasst sind.
+     (2) Alle verwendeten Händedesinfektionsmittel müssen über eine Zulassung
+         gemäß der DIN EN 1500 verfügen.
+     (3) Medizinisches Personal sowie sonstiges Personal bei dessen Tätigkeiten
+         regelmäßig die Notwendigkeit zur hygienischen Händedesinfektion besteht,
+         darf während der Arbeit keine Uhren, Schmuck, Piercings oder dergleichen an
+         den Unterarmen oder Händen tragen.
+     (4) Medizinisches Personal darf keine künstlichen Fingernägel (egal welcher Art)
+         oder Nagelapplikationen besitzen. Die Naturfingernägel sind kurz (die
+         Fingerkuppen nicht überragend) und sauber zu tragen.
+     (5) Medizinisches Personal darf, wegen der daraus beim physischen Umgang mit
+         Patienten resultierenden Verletzungsgefahr, keine sichtbaren Piercings
+         tragen5).
+     (6) Schutzhandschuhe müssen mit dem europäischen Gütesiegel (CE) ausge-
+         zeichnet sein.
+     (7) Medizinische Handschuhe zum einmaligen                             Gebrauch        müssen        die
+         Qualitätskriterien der EN 455 erfüllen.
+     (8) Schutzhandschuhe gegen Chemikalien und Mikroorganismen müssen die
+         Qualitätskriterien der EN 374 erfüllen.
+     (9) Die verwendeten Handschuhe sollen möglichst aus latexfreiem Material be-
+         stehen. Falls doch Latexhandschuhe verwendet werden, so müssen diese
+         puderfrei und allergenarm sein.
+     (10) Die desinfizierende Bodenreinigung ist mittels eines Wischmopsystems oder
+          ähnlich geeigneter Systeme zur Minderung der körperlichen Belastung sowie
+          zur    Minderung     des   Kontaktes    mit     den    Desinfektions- und
+          Reinigungswirkstoffen durchzuführen.
+     (11) Bei der nassen Reinigung von Böden ist durch Schilder auf die erhöhte
+          Rutschgefahr aufmerksam zu machen. Flure sind erst auf der einen Längs-
+          seite und nach Auftrocknung auf der anderen Längsseite zu reinigen.
+     (12) Die verwendeten Flächendesinfektionsmittel müssen formaldehydfrei sein.
+          Aldehydhaltige Produkte sind nur in Ausnahmefällen, d.h. wenn deren
+          Anwendung aus hygienischen Gründen geboten ist, einzusetzen.
+     (13) Sofern keine Beuteldosierung vorgesehen ist, sind zur Dosierung flüssiger
+          Flächendesinfektionsmittel    automatische    Dosiergeräte     oder   andere
+          Dosierhilfen, welche ein sicheres Arbeiten ermöglichen, zu verwenden.
+
+
+5)   Die Schwere und potentielle Komplikationen bei Verletzungen durch einen Ausriss, sind bei Piercings (z.B.
+     solchen in Augenbrauen, Mundwinkel, Lippen) höher einzustufen als im Falle von Ohrringen. Unabhängig
+     davon sollte auf jeden Fall aber auch auf große Ohrringe und möglichst auch auf kleine Ohrringe und
+     Ohrstecker verzichtet werden.
+
+
+
+Seite 8 von 22 Seiten                                                                         ITM-SST 1600.1
+     (14) Reinigungs- und Desinfektionsmittel dürfen ausschließlich entsprechend den
+          Herstellerangaben verwendet werden.
+     (15) Das Mischen oder Vermischen chlorhaltiger und saurer Reinigungs-
+          /Desinfektionsmittel ist verboten.
+     (16) Zur Vorbeugung und Vermeidung von Nadelstichverletzungen6) sind
+          geeignete Sicherheitsprodukte bereit zu stellen und zu verwenden, sofern
+          solche Produkte am Markt verfügbar sind.
+     (17) Die Sammlung herkömmlicher Kanülen und von anderen spitzen oder
+          scharfen Abfällen mit Verletzungsrisiko, muss direkt am Ort des Anfalls in
+          bruchfesten und durchstichsicheren Sammelbehältern erfolgen.
+     (18) Das Sammelsystem für Kanülen muss eine Möglichkeit zum Abstreifen der
+          Kanülen besitzen, so dass diese nicht manuell vom Spritzenkonus gelöst
+          werden müssen.
+     (19) Es ist verboten             Kanülen      manuell       in   Schutzhüllen         zurückzustecken
+          (Recapping).
+     (20) Die Sammelbehälter für Kanülen müssen mit einem Deckel verschließbar
+          sein, welcher sich nach dem Verschließen zur endgültigen Entsorgung nicht
+          mehr öffnen lässt.
+     (21) Bereichskleidung aus Bereichen mit erhöhtem Infektionsrisiko (z.B.
+          Intensivstationen, Dialysestationen, OP-Bereich und mikrobiologische
+          Laboratorien,    Zentralsterilisationen etc.)  darf    nicht   in anderen,
+          bereichsfremden Teilen der Einrichtung getragen werden. Solchen Bereichen
+          sollen grundsätzlich Schleusen oder Umkleiden zugeordnet sein,
+          gegebenenfalls sind bereichsspezifische Vorschriften zu beachten.
+     (22) Alle medizintechnischen Geräte und Installationen müssen gemäß den
+          Herstellerangaben und gemäß gegebenenfalls zutreffender sonstiger
+          Vorschriften, gewartet und kontrolliert werden. Wartungen dürfen nur durch
+          entsprechend qualifiziertes Personal bzw. qualifizierte Fachfirmen erfolgen.
+          Kontrollen dürfen gegebenenfalls nur durch Kontrollbüros erfolgen, welche
+          über eine entsprechende Zulassung des Arbeitsministeriums verfügen.
+
+6.2     Umgang mit infektiösen Abfällen
+     (1) Alle Abfälle, welche mit Blut oder Sekreten behaftet sind, gelten als "potentiell
+         infektiös". Seitens der Einrichtung muss entschieden werden, ob an die
+         Sammlung und Entsorgung entsprechender Abfälle aus infektionspräventiver
+         Sicht besondere Anforderungen gestellt werden müssen. Ist dies der Fall, sind
+
+
+
+
+6)   Unter Nadelstichverletzung wird hier jegliche Stich-, Schnitt oder Ritzverletzung von medizinischem Personal
+     mit spitzen oder scharfen Gegenständen, welche mit Patientenblut oder anderen Körperflüssigkeiten konta-
+     miniert waren, verstanden. Dies unabhängig davon, ob die Verletzung geblutet hat oder nicht.
+
+
+
+Seite 9 von 22 Seiten                                                                           ITM-SST 1600.1
+          diese Abfälle als „infektiöse“ und somit als „gefährliche“ Abfälle7) zu
+          betrachten.
+     (2) Alle Abfälle aus grauen, gelben oder sonstigen infektiösen Dialysen, welche
+         mit Blut oder Sekreten behaftet sind, sind in jedem Falle als „gefährliche“
+         Abfälle zu betrachten.
+     (3) Die Sammlung infektiöser Abfälle muss getrennt von anderen Abfällen in
+         deutlich (z.B. farblich und Warnsymbol) gekennzeichneten Einwegbehältern
+         erfolgen.
+     (4) Radioaktive infektiöse Abfälle sind entsprechend dem „Règlement grand-
+         ducal modifié du 14 décembre 2000 concernant la protection de la population
+         contre les dangers résultant des rayonnements ionisants“ zu kennzeichnen,
+         beim Verschließen zu datieren und auf Radioaktivität an der
+         Behälteroberfläche zu prüfen und das voraussichtliche Freigabedatum zu
+         bestimmen, so dass die relevanten Eliminationsaktivitätsgrenzwerte nicht
+         überschritten werden können.
+     (5) Die zur Sammlung infektiöser Abfälle verwendeten Behältnisse müssen
+         flüssigkeitsdicht, feuchtigkeitsbeständig und verschließbar sein.
+     (6) Bei den zur Sammlung infektiöser Abfälle verwendeten Behältern, muss es
+         sich   um    die   Entsorgungsbehälter    handeln  (Sammelbehälter    =
+         Entsorgungsbehälter).
+     (7) Infektiöse Abfälle dürfen nicht umgefüllt werden.
+     (8) Die infektiösen Abfälle müssen mindestens einmal täglich zu einer Sammel-
+         und Lagerstelle für die Entsorgung abtransportiert werden.
+     (9) Der hausinterne Transport infektiöser Abfälle, z.B. zu einer Sammel- und
+         Lagerstelle für die Entsorgung, muss innerhalb eines flüssigkeitsdichten,
+         feuchtigkeitsbeständigen und transportfesten Behälters erfolgen.
+     (10) Räume und Bereiche zur Lagerung infektiöser Abfälle müssen ausreichend
+          groß bemessen und gekennzeichnet sein.
+     (11) Lageräume und -bereiche für infektiöse Abfälle dürfen für unbefugte Personen
+          nicht zugänglich sein. Hiervon ausgenommen sind solche Räume und
+          Bereiche auf den Stationen, welche lediglich der täglichen Zwischenlagerung
+          dienen.
+     (12) Die Ausstattung von Räumen zur Lagerung infektiöser Abfälle muss wie folgt
+          sein:
+         • Wand- und Bodenbeläge abwaschbar und desinfizierbar
+         • Anschluss Bodenbelag an Wand mittels Hohlkehle
+         • Spender mit Händedesinfektionsmittel
+
+7)   CED2 - Abfallschlüsselnummer 18 01 03: „Abfälle, an deren Sammlung und Entsorgung aus infektionspräven-
+     tiver Sicht besondere Anforderungen gestellt werden“
+
+
+
+Seite 10 von 22 Seiten                                                                      ITM-SST 1600.1
+        • Ausreichende Lüftung (5-facher Luftwechsel/Stunde)
+        Die Raumtemperatur sollte niedrig sein und maximal 15°C betragen um einer
+        Geruchsentwicklung vorzubeugen bzw. um eine solche einzuschränken.
+
+
+7     Allgemeine Anforderungen an spezifische Bereiche
+
+7.1    Personalaufenthaltsräume
+    (1) In Personalaufenthaltsräumen medizinischen Personals für mehr als fünf
+        Personen in welchen Geschirr gespült wird, muss zusätzlich zum
+        Handwaschbecken ein separates Spülbecken oder eine Spülmaschine
+        vorhanden sein. Keinesfalls darf das gleiche Becken sowohl zum Waschen
+        der Hände als auch zum Spülen von Geschirr verwendet werden.
+    (2) Die Personalaufenthaltsräume für Personal an deren Arbeitsplätzen kein
+        Tageslicht zur Verfügung steht, müssen über Tageslicht verfügen.
+
+7.2    Röntgenräume und Räume nuklearmedizinischer Abteilungen
+    (1) Die Installation und der Einsatz von Röntgengeräten und/oder radioaktiver
+        Stoffe am Menschen bedarf einer vorherigen Genehmigung des
+        Gesundheitsministers („Loi du 10 aout 1983 concernant l’utilisation médicale
+        des rayonnements ionisants“; „Règlement grand-ducal modifié du 14
+        décembre 2000 concernant la protection de la population contre les dangers
+        résultant des rayonnements ionisants“), welcher die Stellungnahme der
+        „Inspection du Travail et des Mines“ in der Genehmigung berücksichtigt.
+    (2) Röntgenräume,       d.h.    Räume        in    welchen      Röntgengeräte,
+        Durchleuchtungsgeräte, Computertomographen etc., installiert sind oder
+        mobile Geräte regelmäßig eingesetzt werden, müssen so gegen
+        Röntgenstrahlung abgeschirmt sein, dass in angrenzenden Räumen und
+        Bereichen, in welchen sich Personen aufhalten können, keine Gefährdung für
+        diese Personen besteht. Diese Forderung gilt auch für Türen, Sichtscheiben,
+        Fenster, Trennwände usw. zu anderen Sälen oder sonstigen Räumen.
+        Bedienstände     innerhalb   von    Röntgenräumen      müssen      ebenfalls
+        strahlenschutztechnisch abgeschirmt sein.
+    (3) Es muss durch technische Maßnahmen (z.B. mittels Schlüssel, elektronischer
+        Karte oder ähnlichem) sichergestellt sei, dass Türen welche in Röntgenräume
+        führen, von außerhalb dieser Räume nur von dazu berechtigten Personen
+        geöffnet werden können, wenn ein Röntgengerät betriebsbereit ist Diese
+        Anforderung gilt sowohl für die Türen von Kabinen zum Röntgenraum als
+        auch für die Türen von anderen Fluren oder Räumen zum Röntgenraum.
+        Diese Anforderung gilt jedoch nicht für Türen von Bedienständen oder
+        anderen Funktionsräumen, welche unmittelbar zum Röntgenraum gehören
+        und welche ausschließlich von diesem aus betreten werden können (z.B.
+        integrierte Umkleiden, Toiletten etc.). Bedienstände sind gegen unbefugte
+        Benutzung zu sichern.
+
+
+Seite 11 von 22 Seiten                                                  ITM-SST 1600.1
+  (4) Auf der Außenseite von allen Türen, die zu einem Röntgenraum oder in den
+      kontrollierten Bereich einer nuklearmedizinischen Abteilung führen, müssen
+      die Symbole und Warnhinweise gemäß Artikel 12 des „Règlement grand-
+      ducal modifié du 14 décembre 2000 concernant la protection de la population
+      contre les dangers résultant des rayonnements ionisants“ angebracht werden.
+      Neben oder über allen Türen die von Fluren direkt in Röntgenräume führen,
+      müssen flurseitig Hinweisleuchten angebracht oder aufgestellt sein, welche
+      den Betrieb von Röntgengeräten signalisieren. Solche Leuchten sind nicht
+      erforderlich, wenn die Türen automatisch so verriegelt sind, dass diese beim
+      Betrieb von Röntgengeräten nicht geöffnet werden können (auch nicht mittels
+      Schlüssel etc.). Türschlusskontakte, die beim Öffnen der Tür zum Abbruch der
+      Röntgenaufnahme führen, sind nicht zulässig.
+  (5) Alle Türen, die von Röntgenräumen direkt oder über Kabinen in Flure führen,
+      müssen von innen jederzeit zu öffnen sein. Alle Türen die in Röntgenräume
+      führen, müssen mit einem Türschließsystem ausgestattet sein, welches ein
+      sicheres und selbsttätiges Schließen der Tür gewährleistet.
+  (6) Sofern das Personal bei irgendwelchen Tätigkeiten potentiell einer
+      Röntgenstrahlung ausgesetzt ist, welche einen der Grenzwerte für die
+      Allgemeinbevölkerung überschreiten könnte, muss adäquate individuelle
+      Schutzausrüstung in ausreichender Menge zur Verfügung gestellt und
+      verwendet werden (z.B. Handschuhe, Schürzen, Schilddrüsenschutz, Brillen
+      etc.). Die Wirksamkeit der Schutzausrüstung ist in regelmäßigen Abständen
+      zu überprüfen (bei Bleischürzen z.B. mindestens einmal pro Jahr).
+        Bei Verwendung von elektronischen Messgeräten hat bei jedem Einschalten
+        eine Funktionskontrolle zu erfolgen.
+        Des Weiteren sind gerätetechnische und sonstige Schutzmaßnahmen
+        anzuwenden. Im Falle von Durchleuchtungsgeräten wären dies zum Beispiel:
+        Untertischbleilamellen,   mobiler    durchsichtiger     Bleiglas-Schutzschild
+        (idealerweise an einem beweglichen Arm der Decke fixiert) und eine mobile
+        Abschirmwand auf Rädern (zum Schutz aller nicht während der
+        Durchleuchtung oder Aufnahme am Tisch benötigter Personen). Das
+        Weglassen einer oder mehrerer dieser Schutzmaßnahmen ist möglich, sofern
+        nachgewiesen ist, dass die Dosisgrenzwerte für die Allgemeinbevölkerung bei
+        Weglassen der Schutzmaßnahme nicht überschritten werden können. Der
+        Strahlenschutzverantwortliche und/oder der Medizinphysikexperte ist
+        gegebenenfalls für diesen Nachweis verantwortlich.
+  (7) Das im Bereich von Röntgenanlagen oder nuklearmedizinischen Abteilungen
+      beschäftigte Personal, welches einen der Expositionsgrenzwerte für die
+      Allgemeinbevölkerung überschreiten könnte, muss entsprechend den
+      Anforderungen      der     Division  de    la    Radioprotection     des
+      Gesundheitsministeriums dosimetrisch und arbeitsmedizinisch („déclaration
+      d’aptitude“) überwacht werden.
+
+
+
+
+Seite 12 von 22 Seiten                                                  ITM-SST 1600.1
+  (8) Beim      Einsatz    mobiler   Röntgengeräte    in    Räumen,     welche
+      strahlenschutztechnisch nicht abgeschirmt sind, müssen geeignete
+      Schutzmaßnahmen für andere Patienten, Besucher und das Personal
+      ergriffen werden (z.B. mobile Abschirmungen, möglichst großer Abstand zu
+      benachbarten Bereichen/Personen, Strahlenschutzkleidung etc.).
+  (9) Nuklearmedizinische Abteilungen und Laboratorien, die offene radioaktive
+      Substanzen einsetzen, müssen die in diesem Bereich gängigen
+      Sicherheitsanforderungen erfüllen.
+
+7.3   Endoskopie
+  (1) Wenn regelmäßig Inhalationsnarkosen durchgeführt werden, muss eine
+      Narkosegasabsaugung vorhanden sein.
+  (2) Innerhalb  des    Untersuchungsraumes     müssen    im   Bereich   des
+      Untersuchungsplatzes        geeignete    „Deckenversorgungsanschlüsse“
+      vorgesehen werden, an welche die Kabel und Leitungen der am
+      Untersuchungsplatz erforderlichen Geräte angeschlossen werden können
+      (Vermeidung von Stolperfallen).
+  (3) Tastaturen müssen abwaschbar und desinfizierbar sein.
+  (4) Die     Polster   von     Stühlen    etc.,    müssen     leicht   abwaschbar,
+      flüssigkeitsundurchlässig und desinfizierbar sein.
+  (5) Die Aufbereitung von Endoskopen muss, bis auf die erforderliche manuelle
+      Vorreinigung, soweit vom Hersteller vorgesehen, auf maschinellem Wege
+      erfolgen.
+  (6) Bei der manuellen Vorreinigung von Endoskopen muss geeignete
+      Schutzausrüstung getragen werden (Schutzhandschuhe, wasserdichte
+      Schürze, Schutzbrille). Das manuelle Bürsten der Kanäle muss unterhalb der
+      Flüssigkeitsoberfläche durchgeführt werden. Beim Einsatz von Druckluft-
+      und/oder Wasserspritzpistolen sowie beim Bürsten, muss eine
+      Spritzschutzwand vorhanden sein, oder es muss bei der Ausübung
+      entsprechender Tätigkeiten ein Gesichtsschutz getragen werden (Visier).
+  (7) Die    Herstellung    der    benötigten Desinfektionsmittel in  ihrer
+      Anwendungskonzentration muss mittels automatischer Dosiergeräte oder
+      über Beuteldosierung erfolgen.
+  (8) Der Aufbereitungsraum muss mindestens wie folgt ausgestattet sein:
+        • Handwaschbecken mit Hygieneset
+        • Dosiergerät(e) für Desinfektions- und Reinigungsmittel
+        • Einweichbecken zur Vorreinigung
+        • Automatische Aufbereitungsmaschine
+        • Vorrat an persönlicher Schutzausrüstung
+        • wischdesinfizierbare Oberflächen
+
+
+Seite 13 von 22 Seiten                                                  ITM-SST 1600.1
+        • mindestens 5-facher Luftwechsel (bezogen auf den Frischluftanteil)
+
+7.4   OP-Bereiche
+
+7.4.1 Bauliche und installatorische Anforderungen
+  (1) Die Wandverkleidungen von OP-Sälen müssen aus einem stoßfesten und
+      splitterfreien und mindestens schwer entflammbaren Material (Euroklasse A1,
+      A2, B oder C) bestehen und müssen frei von ausgasenden Stoffen (z.B.
+      Formaldehyd) sein.
+  (2) Die Verlegung von Kabeln und die Installation von Lautsprechern müssen so
+      erfolgen, dass durch diese keine Beeinträchtigungen oder Gefährdungen des
+      Personals hervorgerufen werden können (z.B. keine über den Boden
+      geführten oder lose hängenden Kabel oder Lautsprecher).
+  (3) Eventuell zum Einsatz kommende Wärme- oder Kühlgeräte müssen so
+      aufgestellt, respektive die Kabel und Leitungen so verlegt werden, dass keine
+      Stolperstellen für das OP-Personal entstehen.
+  (4) Beim Einsatz von Lasern in OP-Sälen sind die spezifischen Vorschriften zur
+      betrieblichen Sicherheit von medizinischen Lasern zu beachten.
+  (5) Im Bereich der Patientenumbettung sollte OP-seitig, d.h. auf der reinen Seite,
+      ein unmittelbar erreichbarer Desinfektionsmittelspender vorhanden sein.
+      Besteht regelmäßig die Gefahr, dass sich das Personal bei der Umlagerung
+      der Patienten mit Blut kontaminiert, wird ein unmittelbar erreichbares
+      Handwaschbecken mit Hygieneset empfohlen.
+  (6) Im Falle der Lagerung von Sauerstoffflaschen müssen diese innerhalb eines
+      entsprechend zugelassenen und feuerbeständigen Lagerschrankes mit
+      Innenluftabsaugung aufbewahrt werden. Sauerstoffflaschen, welche sich in
+      Gebrauch befinden und/oder an Gerätschaften angeschlossen sind, sind von
+      dieser Anforderung nicht betroffen.
+
+7.4.2 Lüftungstechnische Anforderungen
+  (1) Die Lüftungsanlagen sind gemäß der DIN 1946-4:2008-12 „Raumlufttechnik-
+      Teil 4 : Raumlufttechnische Anlagen in Gebäuden und Räumen des
+      Gesundheitswesens“ auszulegen.
+  (2) Die Wärmelasten der in den OP’s befindlichen Geräte müssen bei der
+      Auslegung der RLT-Anlagen berücksichtigt werden (insbesondere auch Kühl-
+      und Wärmeschränke).
+  (3) Der Betrieb von OP-Lüftungsanlagen            muss    permanent    mit   einem
+      Frischluftanteil stattfinden.
+  (4) Bei der Dimensionierung und Planung der raumlufttechnischen müssen auch
+      arbeitsschutzrelevante Aspekte berücksichtigt werden. So dürfen auf der
+      Höhe des Personals zum Beispiel keine Zuglufterscheinungen auftreten.
+
+
+
+
+Seite 14 von 22 Seiten                                                  ITM-SST 1600.1
+  (5) Wenn       Narkosegase         eingesetzt    werden,      muss        ein
+      Anästhesiegasfortleitungssystem vorhanden sein. Die Absaugung der
+      Narkosegase muss direkt am Patienten durch eine aktiv arbeitende, effektiv
+      wirkende Absaugung erfolgen. Die Abluft der Absaugung muss direkt nach
+      Außen geführt werden.
+  (6) Wenn die Ein- bzw. Ausleitung der Anästhesie in separaten Ein- bzw.
+      Ausleitungsräumen erfolgt, müssen in diesen Räumen ebenfalls
+      Anästhesiegasfortleitungssysteme sowie  bodennahe    Abluftöffnungen
+      vorhanden sein.
+
+7.4.3 Strahlenschutztechnische Anforderungen
+  (1) Siehe Kapitel 7.2.
+
+7.4.4 Organisatorische Anforderungen
+  (1) Zum Umlagern der Patienten aus den Betten auf die OP-Tische müssen
+      Hilfsmittel zur Entlastung des Personals zur Verfügung stehen und
+      angewendet werden (z.B. Rollboards oder automatische Schleusen-
+      /Umbettsysteme).
+  (2) Die aufzubereitenden Instrumente und Gerätschaften müssen, falls eine
+      Zerlegung für die Aufbereitung erforderlich ist, innerhalb der OP’s zerlegt,
+      bzw. geöffnet und in geeignete Siebschalen und Instrumentencontainer
+      eingelegt werden. Die Ablage in die Container muss so erfolgen, dass später
+      kein Nachsortieren oder Umräumen erforderlich ist.
+        Es ist organisatorisch sicherzustellen, dass ein zügiger Transport der
+        Instrumente in die Zentralsterilisation erfolgt. Die Trockenentsorgung der
+        Instrumente sollte bevorzugt werden, damit das Einlegen der Instrumente in
+        Desinfektionsmittel nicht erforderlich ist. Auf diese Weise soll der damit
+        verbundene nasse Transport und somit der zusätzliche Umgang mit
+        Desinfektionsmitteln vermieden werden.
+        Die Aufbereitung der Instrumente muss mittels maschineller Verfahren
+        erfolgen.
+  (3) Oberflächendesinfektionen von Wänden, Böden, Einrichtungen und anderen
+      Gerätschaften, müssen grundsätzlich als Wischdesinfektion erfolgen. Sie
+      dürfen nicht als klassische Sprühdesinfektion durchgeführt werde. Es ist auf
+      eine ausreichende Trocknungszeit zu achten.
+  (4) Die Aufbereitung der OP-Schuhe          muss   mittels   eines   maschinellen
+      Dekontaminationsverfahrens erfolgen
+  (5) Der in OP-Bereichen anfallende Abfall muss mindestens einmal täglich
+      abtransportiert werden.
+
+
+
+
+Seite 15 von 22 Seiten                                                 ITM-SST 1600.1
+7.5     Aufwachbereiche
+     (1) Die   Lüftungsanlagen     sind    gemäß    der   DIN   1946-4:2008-12
+         „RaumlufttechnikTeil 4 : Raumlufttechnische Anlagen in Gebäuden und
+         Räumen des Gesundheitswesens“ auszulegen.
+     (2) Es müssen bodennahe Abluftöffnungen vorhanden sein.
+     (3) Im Aufwachbereich müssen an einer ausreichenden Anzahl von Betten
+         personenbezogene Narkosegasabsaugungen vorhanden sein, wenn in den
+         zugeordneten OP-Bereichen regelmäßig Inhalationsnarkosen durchgeführt
+         werden (aktiv arbeitende Absaugung mit effektiv wirkendem Volumenstrom).
+     (4) Innerhalb der   Aufwachbereiche     muss    ein                             direkt      zugängliches
+         Handwaschbecken mit Hygieneset vorhanden sein.
+     (5) Es muss ein unreiner Arbeitsraum vorhanden sein, welcher mindestens über
+         die folgende Ausstattung verfügt:
+          • Handwaschbecken mit Hygieneset
+          • thermisch desinfizierendes Steckbeckenspülgerät
+          • Ausgussbecken mit Ringspülung
+          • Dosiergerät für Flächendesinfektionsmittel (oder Beuteldosierung)
+          • desinfektionsmittelbeständige Wandbeläge und sonstige Oberflächen
+          • mindestens 5-facher Luftwechsel (bezogen auf den Frischluftanteil)
+
+7.6     Aufbereitung von Medizinprodukten
+     (1) Generell soll die Aufbereitung aller der in den einzelnen Bereichen
+         anfallenden Instrumente und ähnlichen Medizinprodukten zentral und auf
+         maschinellem Wege erfolgen (siehe dazu separate ITM-Vorschrift8) zu
+         Zentralsterilisationen in ihrer aktuellen Fassung).
+          Sofern eine maschinelle Aufbereitung nicht möglich ist, muss die manuelle
+          Aufbereitung, bzw. die Vorreinigung/Desinfektion gemäß einer dokumentierten
+          Standardarbeitsanweisung erfolgen, welche auch die Belange der
+          Arbeitshygiene und der Arbeitssicherheit berücksichtigt.
+     (2) Im Falle einer manuellen Aufbereitung müssen geeignete Schutzmaßnahmen
+         getroffen und geeignete persönliche Schutzausrüstung verwendet werden
+         (z.B. Schutzhandschuhe, Schutzbrille, Gesichtsschutz, Schürze etc.).
+     (3) Zur Reinigung wird die Verwendung von Ultraschallbädern empfohlen um die
+         Notwendigkeit einer manuellen Nachreinigung zu minimieren.
+     (4) Eine manuelle Aufbereitung darf nur innerhalb dafür vorgesehener und
+         entsprechend geeigneter Räume erfolgen (z.B. Be- und Entlüftung,
+
+
+
+8)   ITM-SST 1609.x ALL „Vorschriften zur betrieblichen Sicherheit von Zentralsterilisationen“
+
+
+
+Seite 16 von 22 Seiten                                                                           ITM-SST 1600.1
+         ausreichende Rutschhemmung des Bodenbelages, Handwaschbecken mit
+         Hygieneset etc.).
+  (5) Bei der Neuanschaffung von Instrumenten ist darauf zu achten, dass diese
+      maschinell aufbereitet werden können.
+
+7.7     Physikalische Therapie / Ergotherapie
+  (1) Alle neu zu beschaffenden Behandlungsliegen müssen höhenverstellbar sein.
+  (2) Wenn Fango aufbereitet wird, muss zu diesem Zweck ein separater Raum
+      (Fangoküche) vorhanden sein, welcher mindestens wie folgt ausgestattet ist:
+         • Handwaschbecken mit Hygieneset (der Anschluss einer Brause an die
+           Armatur wird empfohlen, um im Fall von Verbrennungen durch den Fango
+           mit Wasser kühlen zu können)
+         • Fangokessel
+         • robuste Arbeitsfläche zum mechanischen Zerkleinern von Fango
+         • glatter, abwaschbarer Wandbelag ohne Fugen im Bereich der
+           Zerkleinerungsfläche
+  (3) Fangokessel müssen mindestens wie folgt ausgestattet sein:
+         • Schutz gegen Eingreifen bei laufendem Rührwerk
+         • Schutz gegen Öffnen in der Desinfektionsstufe
+         • Schutz des Auslaufhahns gegen unbeabsichtigtes Öffnen
+  (4) Alle verwendeten Übungs- und Trainingsgeräte müssen die allgemeinen
+      europäischen Sicherheitsanforderungen erfüllen.
+
+7.8     Küchen (für Gemeinschaftsverpflegung)
+  (1) Die Rutschfestigkeit der Böden ist entsprechend der Tabelle im Kapitel 4.2
+      „Böden“ auszuführen. Die Anforderungen hinsichtlich der Rutschfestigkeit
+      gelten für alle potentiell begehbaren Bodenbereiche.
+         Um die Bodenreinigung zu erleichtern, kann entlang von Mauern bis zu einem
+         maximalen Abstand von 20 cm ein glatter Bodenbelag gewählt werden.
+         Entsprechendes gilt, bis zu einem maximalen Abstand von 10 cm, entlang der
+         Sockel von Möbeln und anderen Einbauten.
+         Der Bodenbelag, insbesondere Fliesen, sind des Weiteren im Hinblick auf eine
+         Geräuschminimierung beim Betrieb von Transportwagen etc., auszuwählen.
+         Der Anschluss der Bodenbeläge an die Wandbeläge muss mittels Hohlkehlen
+         erfolgen.
+  (2) Es wird eine maschinelle Bodenreinigung empfohlen.
+  (3)    Zum Transport von Lasten müssen geeignete Hilfs- und Transportmittel zur
+         Verfügung stehen.
+
+
+
+Seite 17 von 22 Seiten                                                  ITM-SST 1600.1
+         Die Hilfs- und Transportmittel müssen so beschaffen sein, dass diese kein
+         Risiko für die Sicherheit und Gesundheit des Personals darstellen. Sie
+         müssen dem zu transportierenden Gewicht angepasst und leicht zu
+         handhaben sein. Gegebenenfalls sind diese mit geeigneten Sicherungen
+         gegen Herabfallen des transportierten Gutes (z.B. Töpfe mit heißen
+         Flüssigkeiten) auszustatten.
+         Die Transportwagen             müssen       mit   Brems-      oder     Feststellvorrichtungen
+         ausgestattet sein.
+         Die Räder von Transportwagen sind so zu wählen, dass das beim Rollen
+         entstehende Geräusch minimiert wird.
+     (12) Die Handwaschbecken dürfen keine Überläufe besitzen und müssen mit
+          handberührungsfreien Armaturen und Hygienesets ausgestattet sein. Ein
+          Hygieneset besteht aus:
+         • Spender mit Waschlotion
+         • Spender mit Händedesinfektionsmittel
+         • Spender mit Einmal-Handtüchern aus Papier oder Textil9)
+         • Handtuchabwurf
+         • Hautpflegemittel10)
+         Ein Hygieneset kann bis zu zwei nebeneinander liegenden Handwaschbecken
+         zugeordnet sein.
+     (4) Dem Personal muss Arbeitskleidung zur Verfügung gestellt werden. Diese
+         besteht aus: geschlossenen Sicherheitsschuhen mit rutschfester Sohle11), eng
+         anliegenden Jacken und Hosen sowie Hauben/Mützen. Aus hygienischen
+         Gründen werden gegebenenfalls Mundschutz oder Bartbinde empfohlen.
+         Die Kleidung darf nicht aus leicht entflammbarem Material bestehen. Sie soll
+         eng anliegend sein und muss im Notfall (z.B. bei Verbrühung etc.) schnell
+         abgelegt werden können.
+     (5) Dem Personal muss, in Abhängigkeit von der durchzuführenden Arbeit,
+         geeignete persönliche Schutzausrüstung zur Verfügung gestellt werden (z.B.
+         für den Einsatz im Lebensmittelsektor geeignete Schutzhandschuhe,
+         Hitzeschutzschürzen, wasserdichte Schürzen, Stechschutzschürzen, Hitze-
+         /Kälteschutzhandschuhe      mit    Stulpen,   Stechschutzhandschuhe    mit
+         Sicherheitsstulpen, Kälteschutzkleidung, Schutzbrille etc.).
+
+
+
+
+9)   Die Verwendung gewöhnlicher Mehrweg-Handtücher oder von Warmlufthändetrocknern ist nicht gestattet.
+10) Bei Handwaschbecken in Bereichen, in welchen häufiges Händewaschen erforderlich ist.
+
+11) Gegebenenfalls    müssen die Schuhe gemäß der Risikoanalyse des jeweiligen Arbeitsplatzes weitere
+     Sicherheitsanforderungen erfüllen (z.B. Zehenschutzkappen in Bereichen mit Quetschgefahr).
+
+
+
+Seite 18 von 22 Seiten                                                                      ITM-SST 1600.1
+  (6) Während der Arbeit dürfen aus Gründen der Verletzungsgefahr keine Uhren,
+      Piercings oder sonstiger Schmuck an den Armen oder Händen getragen
+      werden.
+  (7) Der Transport von Behältern mit heißen Flüssigkeiten oder Fetten in größeren
+      Mengen, muss so erfolgen, dass diese weder Umkippen noch Auslaufen
+      können.
+  (8) Die Ablaufhähne von Friteusen, Kesseln etc., müssen gegen unbeabsichtigtes
+      Öffnen gesichert sein (z.B. durch eine entsprechende Anordnung).
+  (9) Friteusen müssen mit selbstschließenden Deckeln ausgestattet sein oder es
+      muss im Bereich der Friteuse eine feuerbeständige Abdeckung bereitgehalten
+      werden.
+  (10) Die Aufstellung oder Installation von Friteusen muss so erfolgen, dass kein
+       Wasser in die Friteusen spritzen oder fließen kann.
+  (11) Kippkessel, Kipppfannen und ähnliche Geräte, müssen mit geeigneten Sich-
+       erungen gegen unbeabsichtigtes Kippen gesichert sein (z.B. Arretierungen).
+  (12) Begehbare Kühl- und Gefrierräume müssen jederzeit von innen zu Öffnen
+       sein.
+  (13) Begehbare Kühl- und Gefrierräume mit einer Grundfläche größer als 10 m²
+       müssen mit einer Notbeleuchtung zum Auffinden des Ausgangs ausgestattet
+       sein. Bei entsprechenden Räumen bis 10 m² genügt zu diesem Zweck eine
+       nachleuchtende Beschilderung.
+  (14) Durch raumlufttechnische Maßnahmen muss ein behagliches Raumklima
+       innerhalb des Küchenbereichs sichergestellt werden.
+  (15) Die Abluft von Abzugshauben, Spülmaschinen etc., muss direkt nach außen
+       abgeführt werden.
+  (16) Innerhalb des Küchenbereiches muss ein automatisches Dosiergerät für
+       Flächendesinfektionsmittel vorhanden sein (oder Beuteldosierung)12).
+  (17) Spülküchen mit Bandspülmaschinen müssen mittels einer Durchgangsbarriere
+       in eine reine und eine unreine Seite unterteilt werden. Diese
+       Durchgangsbarriere muss den Wechsel von Personal zwischen den beiden
+       Bereichen während des Betriebs der Spülmaschine unterbinden. Ein Wechsel
+       von der unreinen zur reinen Seite darf generell, sollte dieser aus
+       irgendwelchen Gründen erforderlich sein, nur unter Einhaltung der üblichen
+       hygienischen Anforderungen erfolgen (z.B. Abwurf der flüssigkeitsdichten
+       Schürze oder des entsprechenden Schutzkittels sowie der Handschuhe und
+       Durchführung einer hygienischen Händedesinfektion).
+
+
+
+
+12) Bei der Anbringung des Gerätes sollte auf einen ausreichenden Abstand oder Abschirmung zu Bereichen in
+
+   welchen Lebensmittel offen gehandhabt werden, geachtet werden um einer potentiellen Kontamination der
+   Lebensmittel durch Spritzer vorzubeugen.
+
+
+
+Seite 19 von 22 Seiten                                                                      ITM-SST 1600.1
+  (18) Bewegliche Durchgangsbarrieren können außerhalb der Betriebszeiten der
+       Spülmaschine in geöffnetem Zustand gehalten werden. Im Falle einer solchen
+       Durchgangsbarriere muss durch eine geeignete Verriegelung sichergestellt
+       sein, dass sich die Barriere nicht im geöffneten Zustand befinden kann, wenn
+       die Spülmaschine in Betrieb ist.
+  (19) Auf der unreinen Seite der Spülküche muss ein Handwaschbecken mit
+       handberührungsfreien Armaturen und mit Hygieneset vorhanden sein, damit
+       sich das Personal die Hände im Falle einer Verunreinigung waschen kann.
+  (20) Wenn keine Möglichkeit zur maschinellen Aufbereitung der Transportwagen-
+       /Container besteht, muss die manuelle Aufbereitung in einem speziell dafür
+       vorgesehenen Bereich stattfinden. Dieser Bereich muss mindestens wie folgt
+       ausgestattet sein:
+        • Zwangslüftung
+        • Dosiergerät für Flächendesinfektionsmittel (falls keine Beuteldosierung)
+        • Bodenablauf bzw. Sammelsumpf
+        Bei der Aufbereitung von Transportwagen/Containern entstehende
+        Flüssigkeitslachen sind umgehend zu entfernen. Gegebenenfalls sind
+        benachbarte, begangene Bereiche vor Nässe zu schützen (z.B. mittels
+        Spritzschutzwand).
+        Im Falle der manuellen Aufbereitung, muss das Desinfektionsmittel verwendet
+        werden, welches bei Erfüllung der hygienischen Anforderungen, das geringste
+        Gefahrenpotential für den Menschen besitzt.
+  (21) Es muss ein ausreichend groß bemessener Raum zum Abstellen der Essens-
+       transportwagen vorhanden sein.
+
+7.9   Reinigungsdienst
+  (1) Der Abtransport gebrauchter Bodenwischtücher von den Stationen/Abtei-
+      lungen muss mittels geeigneter Transportwagen erfolgen.
+  (2) In den Räumen mit Waschmaschinen und in Räumen in welchen
+      Reinigungswagen  oder    –maschinen    aufbereitet werden, müssen
+      Handwaschbecken mit Hygienesets vorhanden sein.
+  (3) Räume in welchen Reinigungswagen oder –maschinen manuell aufbereitet
+      werden, müssen so be- und entlüftet sein, dass ein mindestens 5-facher
+      Raumluftwechsel pro Stunde stattfindet (bezogen auf den Frischluftanteil).
+  (4) Die Aufbereitung von Reinigungswagen darf nicht mittels Sprühdesinfektion
+      erfolgen.
+  (5) Der Einsatz von Hochdruck- oder Dampfstrahlreinigern zur Reinigung von
+      Reinigungswagen ist nicht zulässig.
+  (6) Reinigungsmaschinen mit rotierenden Scheiben oder Bürsten dürfen nur im
+      Anschluss an eine desinfizierende Reinigung eingesetzt werden, sofern diese
+
+
+
+Seite 20 von 22 Seiten                                                    ITM-SST 1600.1
+        keinen umlaufenden Bürstenschutz und eine Absaugung mit Mikrofilter
+        (Bakterienfilter 0,2 µm) besitzen.
+        Wenn Tankreinigungsmaschinen eingesetzt werden, muss es sich um den
+        Typ „Scheuersaugmaschinen“, d.h. um Anlagen mit automatischer Aufnahme
+        des Schmutzwassers handeln. Die Abluft der Absaugung muss über einen
+        Mikrofilter (Bakterienfilter 0,2 µm) geführt werden.
+  (7) Die Reinigungsmaschinen müssen befüll- und entleerbar sein, ohne dass
+      dazu Tanks entnommen, bzw. gehoben werden müssen.
+  (8) Zum Entleeren der Schmutzwassertanks der Reinigungsmaschinen muss eine
+      geeignete Fläche (rutschfester Bodenbelag, Auffangvolumen für Abwasser
+      bzw. Bodeneinlauf) vorhanden sein.
+  (9) Die Scheiben der Reinigungsmaschinen müssen maschinell aufbereitbar sein
+      oder es müssen Einwegscheiben verwendet werden. Eine manuelle
+      Aufbereitung der Scheiben ist nicht zulässig.
+  (10) Die   Dosierung    flüssiger   Flächendesinfektionsmittel     muss     mittels
+       automatischer Dosiergeräte oder mittels Beuteldosierung erfolgen.
+  (11) Der Anschluss von Dosieranlagen an Konzentratbehälter muss so gestaltet
+       sein, dass bei der Entnahme von Flüssigkeit Luft in den Behälter nachströmen
+       kann, ohne dass jedoch eine ständige Verbindung zwischen dem Inneren des
+       Behälters und der Außenluft besteht.
+  (12) Die Lagerung von Reinigungs- und Desinfektionsmitteln muss innerhalb ent-
+       sprechend ausgestatteter Räume erfolgen. Der Lagerraum muss mit einer Be-
+       und Entlüftung ausgestattet sein, welche einen mindestens 5-fachen Wechsel
+       des Raumluftvolumens innerhalb einer Stunde gewährleistet (bezogen auf
+       den Frischluftanteil).
+  (13) Räume in welchen die Batterien/Akkus von Reinigungsmaschinen geladen
+       werden und bei welchen die Gefahr der Entstehung größerer Mengen
+       Wasserstoff besteht (z.B. Bleiakkus mit Flüssigelektrolyt), müssen über eine
+       ausreichende Be- und Entlüftung verfügen (mindestens 5-facher Luftwechsel).
+       Des Weiteren muss die Trennung des Akkumulators vom Ladegerät funken-
+       und lichtbogenfrei erfolgen.
+  (14) Entleerte Reinigungs-/Desinfektionsmittelgebinde müssen umgehend wieder
+       verschlossen werden und dürfen nicht in offenem Zustand gelagert werden.
+  (15) Dem Reinigungspersonal muss kostenfrei Schutzausrüstung zur Verfügung
+       gestellt werden. Die Reinigung und Desinfektion der Schutzausrüstung muss
+       durch die Einrichtung sicher gestellt werden und darf nicht zu Hause erfolgen.
+  (16) Die Schutzausrüstung für das Reinigungspersonal muss mindestens aus
+       folgender Ausrüstung bestehen:
+        • Schutzkleidung (mindestens Kittel)
+
+
+
+
+Seite 21 von 22 Seiten                                                  ITM-SST 1600.1
+        • Schuhe (festsitzend, abwaschbar, rutschfeste und gegen die verwendeten
+          Reinigungs- und Desinfektionsmittel beständige Sohle)
+        • stabile, flüssigkeitsdichte Handschuhe (die Dichtigkeit der Handschuhe
+          gegenüber den verwendeten Flüssigkeiten, z.B. Reinigungs- und
+          Desinfektionsmitteln, muss gesichert sein)
+        • Schutzbrille (falls Reinigungschemikalien umgefüllt werden)
+  (17) Die Umkleiden für das Reinigungspersonal dürfen sich nicht in einem
+       unreinen Bereich oder in einem Lagerbereich für die Reinigungschemikalien
+       und –materialien befinden.
+  (18) In Bereichen mit erhöhtem Risiko muss seitens des Reinigungspersonals eine
+       adäquate Schutzausrüstung analog dem medizinischen Personal getragen
+       werden.
+  (19) Dem Reinigungspersonal müssen seitens der Einrichtung kostenlose
+       Impfungen gegen Hepatitis A und B angeboten werden (z.B. Kombiimpfung).
+  (20) Der Betreiber der Einrichtung muss für eine ausreichende Schulung des
+       Reinigungspersonals Sorge tragen, wobei den jeweils bereichsspezifischen
+       Besonderheiten und Gefahren (z.B. biologische, chemische oder radioaktive
+       Gefahren, Gefahren durch hohe Magnetfelder, elektrische Gefahren,
+       mechanische Gefahren durch Einklemmen oder Schnitte etc.) Rechnung
+       getragen werden muss.
+        Ungeschultem Reinigungspersonal darf der Zutritt zu den Gefahrenbereichen
+        lediglich zu Schulungszwecken bei ständiger Überwachung durch eine
+        berechtigte Person gewährt werden
+
+
+
+
+                                  Mise en vigueur le 23.07.2013
+                                                 s.
+
+
+                                        Robert HUBERTY
+                                             Directeur
+                                     de l’Inspection du travail
+                                           et des mines
+
+
+
+
+Seite 22 von 22 Seiten                                                  ITM-SST 1600.1
+
