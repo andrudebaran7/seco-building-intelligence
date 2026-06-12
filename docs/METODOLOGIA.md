@@ -1,5 +1,7 @@
 # Metodología: extracción, normalización y cruce de datos
 
+> English version: [METHODOLOGY.md](METHODOLOGY.md)
+
 Este documento explica **cómo** se construyó el pipeline: de dónde y con qué
 técnica se extrajo cada dato, cómo se normalizó y con qué claves se cruzaron
 las fuentes entre sí. Complementa al `README.md` (visión general y resultados)
@@ -214,9 +216,9 @@ Ordenado por valor/esfuerzo estimado:
 1. **Cruce por dirección para los DPE sin `id_rnb`** (48–83 % de los DPE).
    La dirección BAN ya viene normalizada; la API del RNB admite búsqueda por
    dirección. Subiría la cobertura de la cadena francesa hacia el ~100 %.
-2. **Probar el modo `--llm` del generador de informes** con una
-   `ANTHROPIC_API_KEY` (implementado con el SDK oficial y `claude-opus-4-8`;
-   el modo plantilla ya está verificado).
+2. ~~Probar el modo `--llm` del generador de informes~~ — **hecho**:
+   verificado de punta a punta con Gemini (free tier) y soporte
+   multi-proveedor añadido (anthropic / gemini / openrouter).
 3. **Escalar a volumen**: sustituir las APIs por descargas masivas
    (BDNB GPKG por departamento, dump del RNB) y hacer los joins localmente;
    fijar millésimes de todas las fuentes para reproducibilidad (se observó

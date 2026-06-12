@@ -129,7 +129,7 @@ and were **verified live** — including several undocumented traps (silent
 10-row cap on the BDNB API, a WAF-blocked portal whose files still download,
 a migrated GeoServer found via a hidden GeoNetwork). Details and 17 findings:
 [`docs/PIPELINE.md`](docs/PIPELINE.md); methodology (extraction,
-normalization, joins): [`docs/METODOLOGIA.md`](docs/METODOLOGIA.md).
+normalization, joins): [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 
 **Inspection reports are synthetic** (SECO's are confidential): 30 PDFs in 3
 layouts, with real addresses from the pipeline and defect observations
