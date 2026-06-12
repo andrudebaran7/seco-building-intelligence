@@ -245,3 +245,92 @@ make help                            # all targets
 extraction.) Full per-stage commands and options:
 [`docs/PIPELINE.md`](docs/PIPELINE.md). Spanish versions:
 [`docs/PIPELINE.es.md`](docs/PIPELINE.es.md).
+
+## Usage guide
+
+### Run the demo
+
+- **Zero install**: open the live app —
+  <https://seco-building-intelligence-dtu3usrr6i5whv8s4cty5h.streamlit.app/>
+  (first load takes a minute while the embeddings model downloads).
+- **Locally**: `make setup` once, then `make ui`. All demo data ships in the
+  repo, so every tab works offline with no API keys.
+
+### Generate a risk report — from the UI
+
+1. Tab **Portfolio & buildings** → pick a **Dataset** (Gironde or Paris).
+2. Optionally filter by energy label / clay risk to narrow the table.
+3. Under *Per-building risk report*: pick the **Building** and the
+   **Report language** (English / Français / Español).
+4. **Generate report** — risk signals with cited AQC sheets, on screen.
+
+The UI covers the template mode only; PDF export and LLM drafting are
+CLI features (below).
+
+### Generate a risk report — from the CLI (all options)
+
+```bash
+.venv/bin/python informe_edificio.py [selection] [options]
+```
+
+**1. Building selection** (pick one):
+
+| Parameter | What it does |
+|---|---|
+| `--max-riesgo` | Auto-picks the building with the most risk signals |
+| `--numero-dpe 2633E1530986O` | A specific building by DPE number (visible in the UI table or `data/*.csv`) |
+| `--in-file data/dpe_rnb_bdnb_rga_dpto75.jsonl` | Switch dataset (default: Gironde, dept 33) |
+
+**2. Languages and format:**
+
+| Parameter | What it does |
+|---|---|
+| `--idiomas es,en,fr` | One report per language (default: `es`). AQC excerpts stay in French (literal citations) |
+| `--pdf` | Also export each `.md` to `.pdf` (both files are kept) |
+
+**3. Drafting** (optional — without it, the template mode needs no keys):
+
+| Parameter | What it does |
+|---|---|
+| `--llm gemini` | LLM-drafted prose via Gemini (free tier — see key setup below) |
+| `--llm openrouter` / `--llm anthropic` | Other providers (`OPENROUTER_API_KEY` / `ANTHROPIC_API_KEY`) |
+| `--modelo gemini-2.5-pro` | Pin a specific model of the chosen provider |
+
+**Typical examples:**
+
+```bash
+# The full treatment: specific building, 3 languages, PDFs, drafted by Gemini
+.venv/bin/python informe_edificio.py --numero-dpe 2633E1530986O \
+    --llm gemini --idiomas es,en,fr --pdf
+
+# Quick, no LLM: highest-risk building in Paris, English with PDF
+.venv/bin/python informe_edificio.py --in-file data/dpe_rnb_bdnb_rga_dpto75.jsonl \
+    --max-riesgo --idiomas en --pdf
+
+# Same via make (less typing):
+make report LANGS=en,fr PDF=1 LLM=gemini
+```
+
+Outputs land in `informes/informe_<dpe>_<mode>_<lang>.md` (+ `.pdf`).
+`--help` lists everything.
+
+> Reports are generated for buildings already ingested in the final dataset.
+> For another French département, run the chain first
+> (`make pipeline-fr DEPT=69`) and point `--in-file` at the new file.
+
+### LLM setup (for `--llm`)
+
+1. **Gemini (recommended, free)** — create a key at
+   [aistudio.google.com/api-keys](https://aistudio.google.com/api-keys)
+   (AI Studio, *not* the Vertex/Cloud console) and persist it:
+   ```bash
+   echo 'export GEMINI_API_KEY=your_key' >> ~/.bashrc && source ~/.bashrc
+   ```
+2. **OpenRouter (free `:free` models)** — key at
+   [openrouter.ai/keys](https://openrouter.ai/keys) →
+   `export OPENROUTER_API_KEY=...`
+3. **Anthropic** — `export ANTHROPIC_API_KEY=...`
+
+The script tells you exactly which key is missing and where to get it. The
+prompt is grounded: the LLM must cite an AQC sheet `[code]` for every
+pathology and may not invent unsupported ones.
