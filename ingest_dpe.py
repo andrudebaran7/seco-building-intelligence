@@ -33,6 +33,7 @@ FIELDS = [
     "numero_dpe",
     "date_etablissement_dpe",
     "id_rnb",                    # clave de cruce con BDNB / RNB
+    "identifiant_ban",           # clave BAN de la dirección: fallback de cruce
     "adresse_ban",
     "code_postal_ban",
     "nom_commune_ban",

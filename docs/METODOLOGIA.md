@@ -123,6 +123,14 @@ DPE+RNB+BDNB ──(rnb_lon, rnb_lat)──> Géorisques RGA   (solo si BDNB no 
 
 - **`id_rnb`** es el identificador pivote nacional (lo recomienda el propio
   reporte). Está presente en el 17–52 % de los DPE recientes según territorio.
+- **Fallback por dirección** para los DPE sin `id_rnb`: el `identifiant_ban`
+  del DPE es, cuando está completo (comuna_calle_número, p.ej.
+  `33249_0271_00001`), la misma clave de interoperabilidad BAN que la API
+  del RNB acepta como `cle_interop_ban` — sin geocodificador. Las claves de
+  solo calle (2 segmentos) no resuelven a un edificio y se descartan. Si una
+  clave devuelve varios edificios se prefiere el `constructed`. `rnb_match`
+  registra la vía del cruce (`id_rnb` | `adresse_ban`) por registro.
+  Mejora medida: París 17%→98%, Gironda 52%→90%.
 - En la BDNB el cruce es en dos saltos: `rnb_id → batiment_groupe_id` (tabla
   `batiment_construction`) y de ahí a las tablas de atributos. Las consultas
   van **en lotes de 50 IDs** (`in.(...)`) paginados con `offset`.
@@ -224,9 +232,9 @@ Markdown a PDF (`markdown-pdf`), conservando siempre el `.md`.
 
 Ordenado por valor/esfuerzo estimado:
 
-1. **Cruce por dirección para los DPE sin `id_rnb`** (48–83 % de los DPE).
-   La dirección BAN ya viene normalizada; la API del RNB admite búsqueda por
-   dirección. Subiría la cobertura de la cadena francesa hacia el ~100 %.
+1. ~~Cruce por dirección para los DPE sin `id_rnb`~~ — **hecho**: el
+   `identifiant_ban` del DPE se usa como `cle_interop_ban` en la API del RNB;
+   la cobertura subió al 90–98 % con trazabilidad por registro (`rnb_match`).
 2. ~~Probar el modo `--llm` del generador de informes~~ — **hecho**:
    verificado de punta a punta con Gemini (free tier) y soporte
    multi-proveedor añadido (anthropic / gemini / openrouter).

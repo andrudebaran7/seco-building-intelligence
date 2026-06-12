@@ -1,9 +1,18 @@
 #!/usr/bin/env python3
 """Ingestión de prueba: API RNB (Référentiel National des Bâtiments) + cruce con DPE.
 
-Lee la salida JSONL de ingest_dpe.py, toma los registros que traen id_rnb,
-consulta la API del RNB edificio por edificio y produce un dataset cruzado:
-diagnóstico energético (ADEME) + geometría y estado del edificio (RNB).
+Lee la salida JSONL de ingest_dpe.py y cruza cada DPE con su edificio RNB
+por dos vías, en orden de preferencia:
+
+  1. id_rnb directo (presente en el 17-52% de los DPE según territorio).
+  2. Fallback por dirección: el identifiant_ban del DPE, cuando es una clave
+     completa (comuna_calle_número, p.ej. 33249_0271_00001), funciona como
+     cle_interop_ban en la API del RNB. Las claves sin número de portal
+     (solo calle) no pueden resolver a un edificio y se descartan.
+
+La columna rnb_match registra la vía de cada cruce (id_rnb | adresse_ban).
+Si la clave BAN devuelve varios edificios se prefiere el de estado
+"constructed" (y el primero en caso de empate).
 
 Fuente: https://rnb.beta.gouv.fr — API abierta, sin registro.
 
@@ -18,6 +27,7 @@ import json
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -31,6 +41,7 @@ RNB_FIELDS = [
     "rnb_lat",
     "rnb_insee_code",    # código de comuna INSEE
     "rnb_n_addresses",   # nº de direcciones asociadas al edificio
+    "rnb_match",         # vía del cruce: id_rnb | adresse_ban
 ]
 
 
@@ -44,6 +55,25 @@ def fetch_building(rnb_id: str) -> dict | None:
         if e.code == 404:
             return None  # id_rnb del DPE ya no existe en el RNB actual
         raise
+
+
+def cle_ban_completa(identifiant_ban: str | None) -> bool:
+    """Una clave BAN resuelve a edificio solo si incluye número de portal
+    (comuna_calle_número = 3+ segmentos); las de solo calle tienen 2."""
+    return bool(identifiant_ban) and len(identifiant_ban.split("_")) >= 3
+
+
+def fetch_by_cle_ban(cle: str) -> dict | None:
+    """Busca edificios por clave BAN; prefiere estado 'constructed'."""
+    qs = urllib.parse.urlencode({"cle_interop_ban": cle})
+    req = urllib.request.Request(f"{API_BASE}/?{qs}",
+                                 headers={"User-Agent": "ingest-test/0.1"})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        results = json.load(resp).get("results", [])
+    if not results:
+        return None
+    construidos = [b for b in results if b.get("status") == "constructed"]
+    return (construidos or results)[0]
 
 
 def flatten(building: dict) -> dict:
@@ -78,10 +108,16 @@ def main() -> None:
 
     dpe_rows = load_dpe(dpe_file)
     with_id = [r for r in dpe_rows if r.get("id_rnb")]
+    por_ban = [r for r in dpe_rows
+               if not r.get("id_rnb") and cle_ban_completa(r.get("identifiant_ban"))]
     ids = sorted({r["id_rnb"] for r in with_id})
-    print(f"DPE leídos: {len(dpe_rows):,} — con id_rnb: {len(with_id):,} ({len(ids):,} edificios únicos)")
+    cles = sorted({r["identifiant_ban"] for r in por_ban})
+    print(f"DPE leídos: {len(dpe_rows):,} — con id_rnb: {len(with_id):,} "
+          f"({len(ids):,} edificios) — candidatos por dirección BAN: "
+          f"{len(por_ban):,} ({len(cles):,} claves)")
 
-    # Un edificio puede tener varios DPE (varios pisos): consultar cada id una sola vez.
+    # Vía 1: id_rnb directo. Un edificio puede tener varios DPE (pisos):
+    # consultar cada id una sola vez.
     buildings: dict[str, dict | None] = {}
     not_found = 0
     for i, rnb_id in enumerate(ids, 1):
@@ -92,19 +128,39 @@ def main() -> None:
         if b is None:
             not_found += 1
         buildings[rnb_id] = b
-        print(f"  consultados {i:,}/{len(ids):,}", end="\r", flush=True)
+        print(f"  por id: {i:,}/{len(ids):,}", end="\r", flush=True)
         time.sleep(SLEEP_BETWEEN_CALLS)
     print()
     if not_found:
         print(f"  ids no encontrados en el RNB actual: {not_found}")
 
-    # Cruce: cada fila DPE con id_rnb se enriquece con las columnas del RNB.
+    # Vía 2: fallback por clave BAN para los DPE sin id_rnb.
+    por_cle: dict[str, dict | None] = {}
+    for i, cle in enumerate(cles, 1):
+        try:
+            por_cle[cle] = fetch_by_cle_ban(cle)
+        except urllib.error.URLError as e:
+            sys.exit(f"Error de red contra la API del RNB en clave BAN {cle}: {e}")
+        print(f"  por dirección: {i:,}/{len(cles):,}", end="\r", flush=True)
+        time.sleep(SLEEP_BETWEEN_CALLS)
+    print()
+    matched_ban = sum(1 for b in por_cle.values() if b)
+    print(f"  claves BAN resueltas a edificio: {matched_ban:,}/{len(cles):,}")
+
+    # Cruce: primero por id, después por dirección (rellenando id_rnb).
     joined = []
     for r in with_id:
         b = buildings.get(r["id_rnb"])
         if b is None:
             continue
-        joined.append({**r, **flatten(b)})
+        joined.append({**r, **flatten(b), "rnb_match": "id_rnb"})
+    for r in por_ban:
+        b = por_cle.get(r["identifiant_ban"])
+        if b is None:
+            continue
+        buildings[b["rnb_id"]] = b  # para el GeoJSON
+        joined.append({**r, "id_rnb": b["rnb_id"], **flatten(b),
+                       "rnb_match": "adresse_ban"})
 
     out_dir = Path(args.out)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -127,7 +183,9 @@ def main() -> None:
     for rnb_id, b in buildings.items():
         if b is None:
             continue
-        dpe_del_edificio = [r for r in with_id if r["id_rnb"] == rnb_id]
+        dpe_del_edificio = [r for r in joined if r["id_rnb"] == rnb_id]
+        if not dpe_del_edificio:
+            continue
         features.append({
             "type": "Feature",
             "geometry": b.get("shape") or b.get("point"),
@@ -143,7 +201,12 @@ def main() -> None:
         json.dump({"type": "FeatureCollection", "features": features}, f, ensure_ascii=False)
 
     print(f"Guardado: {csv_path}, {jsonl_path} y {geojson_path}")
-    print(f"\nResumen del cruce: {len(joined):,} DPE enriquecidos sobre {len(features):,} edificios RNB")
+    via_id = sum(1 for r in joined if r["rnb_match"] == "id_rnb")
+    via_ban = len(joined) - via_id
+    print(f"\nResumen del cruce: {len(joined):,} DPE enriquecidos "
+          f"({via_id:,} por id_rnb + {via_ban:,} por dirección BAN) "
+          f"sobre {len(features):,} edificios RNB — cobertura "
+          f"{100 * len(joined) / len(dpe_rows):.0f}% de los {len(dpe_rows):,} DPE")
 
 
 if __name__ == "__main__":

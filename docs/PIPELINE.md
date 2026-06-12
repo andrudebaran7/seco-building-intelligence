@@ -203,9 +203,11 @@ pauses between requests, a control summary at the end of every run, and
 | DPE available in the API | 813,827 | 378,013 |
 | DPE downloaded (sample) | 500 | 500 |
 | With `id_rnb` | 83 (17%) | 259 (52%) |
-| Found in RNB | 81/81 (100%) | 230/230 (100%) |
-| Found in BDNB | 81/81 (100%) | 213/230 (93%) |
-| Consolidated clay risk | 100% (82 not exposed, 1 Moyen) | 100% (102 Fort, 128 Moyen, 12 not exposed) |
+| Matched via BAN address (fallback) | +408 | +189 |
+| **RNB coverage (id + address)** | **491 (98%)** | **448 (90%)** |
+| Found in BDNB | 442/443 buildings (99.8%) | — (90%+ of matched) |
+| Final dataset (full chain) | 490 DPE | 423 DPE |
+| Consolidated clay risk | 100% (489 not exposed, 1 Moyen) | 100% (159 Fort, 239 Moyen, 25 not exposed) |
 
 Materials reflect regional reality (plausibility check): stone/brick and zinc
 roofing in Paris; brick/stone and tiles in Gironde.
@@ -316,8 +318,11 @@ a hybrid of embeddings over cleaned per-sheet profiles + TF-IDF).
    (EPSG:2169) needed.
 
 7. **`id_rnb` coverage in DPE records varies a lot by territory**: 52% in
-   Gironde vs 17% in Paris (in recent DPEs). The rest would need a join on the
-   normalized address (`adresse_ban`).
+   Gironde vs 17% in Paris (in recent DPEs). **Mitigated**: the DPE's
+   `identifiant_ban` works as the RNB API's `cle_interop_ban` when it is a
+   full address key (commune_street_number), which lifts coverage to 90-98%
+   with `rnb_match` recording the join path per record. Street-only BAN keys
+   (no house number) remain unmatchable by design.
 
 8. **Vintage mismatch**: 17 of 230 Gironde buildings were missing from the
    open BDNB (2025-07 vintage) despite existing in the current RNB. Confirms
@@ -382,8 +387,8 @@ a hybrid of embeddings over cleaned per-sheet profiles + TF-IDF).
 
 | Prefix | Fields | Source |
 |---|---|---|
-| (no prefix) | `numero_dpe`, `date_etablissement_dpe`, `id_rnb`, `adresse_ban`, `code_postal_ban`, `nom_commune_ban`, `code_departement_ban`, `type_batiment`, `periode_construction`, `annee_construction`, `surface_habitable_logement`, `etiquette_dpe`, `etiquette_ges`, `conso_5_usages_par_m2_ep` | ADEME DPE |
-| `rnb_` | `status`, `lon`, `lat`, `insee_code`, `n_addresses` | RNB |
+| (no prefix) | `numero_dpe`, `date_etablissement_dpe`, `id_rnb`, `identifiant_ban`, `adresse_ban`, `code_postal_ban`, `nom_commune_ban`, `code_departement_ban`, `type_batiment`, `periode_construction`, `annee_construction`, `surface_habitable_logement`, `etiquette_dpe`, `etiquette_ges`, `conso_5_usages_par_m2_ep` | ADEME DPE |
+| `rnb_` | `status`, `lon`, `lat`, `insee_code`, `n_addresses`, `match` (id_rnb \| adresse_ban) | RNB |
 | `bdnb_` | `batiment_groupe_id`, `hauteur`, `s_geom_cstr`, `altitude_sol`, `annee_construction`, `mat_mur`, `mat_toit`, `nb_niveau`, `nb_log`, `usage`, `alea_argiles` | BDNB |
 | `alea_argiles_` | `final` (Faible/Moyen/Fort/Non exposé), `source` (BDNB/Géorisques) | consolidated |
 
@@ -470,8 +475,7 @@ be deleted entirely; `ingest_lu_3d.py` re-downloads what it needs.
 ## Future work
 
 The full list, prioritized by value/effort and with details for each item, is
-in `docs/METODOLOGIA.md` → §5. In short: address-based join for DPEs without
-`id_rnb`; test the report generator's `--llm` mode; scale to bulk downloads
+in `docs/METODOLOGIA.md` → §5. In short: scale to bulk downloads
 with pinned vintages; second-level Belgian joins (CAPAKEY/NIS →
 Statbel/VEKA); a CV classifier on the orthophoto chips; expanding the RAG
 corpus (ITM, Legilux, JRC, TABULA); engineering hardening; and exploring

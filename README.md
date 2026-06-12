@@ -199,9 +199,9 @@ once real labeled data exists).
 2. **Portfolio intelligence**: defect trends per building/portfolio vs. the
    AQC national statistics (the Sycodés benchmark), alerts for high-risk
    combinations (e.g. clay Fort + pre-1975 + strip foundations).
-3. **Address-level coverage**: join the 48–83% of DPEs without `id_rnb` by
-   normalized address; Wallonia; Statbel/VEKA second-level joins via
-   CAPAKEY/NIS.
+3. **Coverage and breadth**: Wallonia; Statbel/VEKA second-level joins via
+   CAPAKEY/NIS. (The address-based join for DPEs without `id_rnb` is already
+   done: 90–98% French coverage via the BAN key, with per-record provenance.)
 4. **CV module**: the pipeline already produces labeled 10 cm orthophoto
    chips per building; train a roof-condition classifier (SDNET2018/METU
    transfer, both CC-BY) and inject detections as observations into the same

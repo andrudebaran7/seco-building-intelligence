@@ -170,9 +170,10 @@ corrida, y `--help` en todos.
 | DPE disponibles en la API | 813.827 | 378.013 |
 | DPE descargados (muestra) | 500 | 500 |
 | Con `id_rnb` | 83 (17%) | 259 (52%) |
-| Encontrados en RNB | 81/81 (100%) | 230/230 (100%) |
-| Encontrados en BDNB | 81/81 (100%) | 213/230 (93%) |
-| Riesgo arcillas consolidado | 100% (82 No expuesto, 1 Moyen) | 100% (102 Fort, 128 Moyen, 12 No expuesto) |
+| Cruzados por dirección BAN (fallback) | +408 | +189 |
+| **Cobertura RNB (id + dirección)** | **491 (98%)** | **448 (90%)** |
+| Dataset final (cadena completa) | 490 DPE | 423 DPE |
+| Riesgo arcillas consolidado | 100% (489 No expuesto, 1 Moyen) | 100% (159 Fort, 239 Moyen, 25 No expuesto) |
 
 Los materiales reflejan la realidad regional (validación de plausibilidad):
 piedra/ladrillo y cubierta de zinc en París; ladrillo/piedra y teja en Gironda.

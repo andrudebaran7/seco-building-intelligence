@@ -120,6 +120,14 @@ DPE+RNB+BDNB ──(rnb_lon, rnb_lat)──> Géorisques RGA   (only where BDNB 
 
 - **`id_rnb`** is the national pivot identifier (recommended by the source
   report itself). Present in 17–52% of recent DPEs depending on territory.
+- **Address fallback** for DPEs without `id_rnb`: the DPE's `identifiant_ban`
+  is, when complete (commune_street_number, e.g. `33249_0271_00001`), the
+  same BAN interoperability key the RNB API accepts as `cle_interop_ban` —
+  no geocoder needed. Street-only keys (2 segments) cannot resolve to one
+  building and are skipped. If a key returns several buildings, the
+  `constructed` one is preferred. `rnb_match` records the join path
+  (`id_rnb` | `adresse_ban`) per record. Measured lift: Paris 17%→98%,
+  Gironde 52%→90%.
 - Inside BDNB the join takes two hops: `rnb_id → batiment_groupe_id` (table
   `batiment_construction`) and from there to the attribute tables. Queries go
   in **batches of 50 IDs** (`in.(...)`) paginated with `offset`.
@@ -220,9 +228,9 @@ Markdown to PDF (`markdown-pdf`), always keeping the `.md`.
 
 Ordered by estimated value/effort:
 
-1. **Address join for DPEs without `id_rnb`** (48–83% of DPEs). The BAN
-   address is already normalized; the RNB API supports address search. Would
-   push the French chain's coverage toward ~100%.
+1. ~~Address join for DPEs without `id_rnb`~~ — **done**: the DPE's
+   `identifiant_ban` is used as `cle_interop_ban` in the RNB API; coverage
+   rose to 90–98% with per-record provenance (`rnb_match`).
 2. ~~Test the report generator's `--llm` mode~~ — **done**: verified
    end-to-end with Gemini (free tier) and multi-provider support added
    (anthropic / gemini / openrouter).
