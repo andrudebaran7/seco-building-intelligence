@@ -16,13 +16,16 @@ Run:
 """
 
 import json
+import os
 import sqlite3
+import tempfile
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
 
-from informe_edificio import T, derivar_senales, ficha_identidad
+from informe_edificio import (T, derivar_senales, exportar_pdf, ficha_identidad,
+                              informe_llm, informe_plantilla)
 
 st.set_page_config(page_title="SECO Building Intelligence", page_icon="🏗️",
                    layout="wide")
@@ -86,6 +89,27 @@ def buscar(query: str, top: int) -> list[dict]:
         if len(out) >= top:
             break
     return out
+
+
+def clave_gemini() -> str | None:
+    """GEMINI_API_KEY desde el entorno o desde los secrets de Streamlit Cloud."""
+    key = os.environ.get("GEMINI_API_KEY")
+    if key:
+        return key
+    try:
+        return st.secrets["GEMINI_API_KEY"]
+    except Exception:
+        return None
+
+
+def pdf_bytes(md: str) -> bytes:
+    with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as f:
+        ruta = Path(f.name)
+    try:
+        exportar_pdf(md, ruta)
+        return ruta.read_bytes()
+    finally:
+        ruta.unlink(missing_ok=True)
 
 
 def recuperar_fichas_ui(senales: list[dict], top_por_senal: int = 2) -> None:
@@ -168,24 +192,49 @@ with tab_port:
     NOMBRES_IDIOMA = {"en": "English", "fr": "Français", "es": "Español"}
     lang = col_l.selectbox("Report language", list(NOMBRES_IDIOMA),
                            format_func=NOMBRES_IDIOMA.get)
+
+    gemini_key = clave_gemini()
+    usar_llm = st.toggle(
+        "Draft with AI (Gemini)", value=False, disabled=not gemini_key,
+        help="LLM-drafted prose grounded in the AQC sheets. "
+             + ("" if gemini_key else
+                "Unavailable: no GEMINI_API_KEY configured (env var or "
+                "Streamlit secret)."))
+
     if st.button("Generate report", type="primary"):
         b = fdf[fdf["numero_dpe"] == eleccion.split(" — ")[0]].iloc[0].to_dict()
         senales = derivar_senales(b, lang)
         if not senales:
+            st.session_state.pop("informe", None)
             st.info("No notable risk signals for this building.")
         else:
             recuperar_fichas_ui(senales)
-            t = T[lang]
-            st.markdown(f"#### {t['identidad']}")
-            st.markdown(ficha_identidad(b, lang))
-            st.markdown(f"#### {t['senales']}")
-            for i, s in enumerate(senales, 1):
-                with st.expander(f"{i}. {s['senal']}", expanded=True):
-                    for f in s["fichas"]:
-                        st.markdown(f"**[{f['code']}]** {f['titulo']} "
-                                    f"*({t['similitud']} {f['score']:.2f})*")
-                        st.caption(f"…{f['extracto']}…")
-            st.caption(t["pie"].strip("*"))
+            try:
+                if usar_llm and gemini_key:
+                    os.environ["GEMINI_API_KEY"] = gemini_key
+                    with st.spinner("Drafting with Gemini…"):
+                        texto = informe_llm(b, senales, "gemini", None, lang)
+                    modo = "llm-gemini"
+                else:
+                    texto = informe_plantilla(b, senales, lang)
+                    modo = "plantilla"
+                st.session_state["informe"] = {
+                    "texto": texto, "lang": lang, "modo": modo,
+                    "dpe": b.get("numero_dpe"),
+                }
+            except BaseException as e:  # incluye sys.exit de los generadores
+                st.session_state.pop("informe", None)
+                st.error(f"Report generation failed: {e}")
+
+    if informe := st.session_state.get("informe"):
+        nombre = f"informe_{informe['dpe']}_{informe['modo']}_{informe['lang']}"
+        d1, d2, _ = st.columns([1, 1, 3])
+        d1.download_button("⬇ Download .md", data=informe["texto"],
+                           file_name=f"{nombre}.md", mime="text/markdown")
+        d2.download_button("⬇ Download .pdf", data=pdf_bytes(informe["texto"]),
+                           file_name=f"{nombre}.pdf", mime="application/pdf")
+        with st.container(border=True):
+            st.markdown(informe["texto"])
 
 # ----------------------------------------------------------------- tab 2
 
