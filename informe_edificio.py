@@ -227,13 +227,23 @@ def generar_gemini(prompt: str, modelo: str) -> str:
     key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
     if not key:
         sys.exit("--llm gemini requiere GEMINI_API_KEY (gratis en aistudio.google.com)")
-    data = _post_json(
+    # Primero el endpoint del free tier (Gemini API); si la clave es de un
+    # proyecto de Vertex AI (modo express), reintentar contra aiplatform.
+    import urllib.error
+    body = {"contents": [{"parts": [{"text": prompt}]}]}
+    urls = [
         f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
-        {"x-goog-api-key": key},
-        {"contents": [{"parts": [{"text": prompt}]}]},
-    )
-    return "".join(p.get("text", "")
-                   for p in data["candidates"][0]["content"]["parts"])
+        f"https://aiplatform.googleapis.com/v1/publishers/google/models/{modelo}:generateContent",
+    ]
+    ultimo_error = None
+    for url in urls:
+        try:
+            data = _post_json(url, {"x-goog-api-key": key}, body)
+            return "".join(p.get("text", "")
+                           for p in data["candidates"][0]["content"]["parts"])
+        except urllib.error.HTTPError as e:
+            ultimo_error = f"{url.split('/')[2]}: HTTP {e.code} {e.read()[:200]!r}"
+    sys.exit(f"La API de Gemini rechazó la clave en ambos endpoints.\n{ultimo_error}")
 
 
 def generar_openrouter(prompt: str, modelo: str) -> str:
