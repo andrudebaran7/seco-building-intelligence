@@ -12,6 +12,17 @@ AI component + UI, on public, reproducible data only.
 .venv/bin/streamlit run app.py
 ```
 
+## Demo
+
+| Portfolio & buildings | Pathology search (RAG) | Report extraction |
+|---|---|---|
+| ![Portfolio](docs/img/ui_portfolio.png) | ![Search](docs/img/ui_search.png) | ![Extraction](docs/img/ui_extraction.png) |
+
+*Left: enriched portfolio with KPIs, distributions and map; per-building risk
+reports on demand. Center: multilingual semantic search over the 89 AQC
+pathology sheets with citations. Right: defects extracted from inspection
+PDFs, classified to the AQC taxonomy — evaluation metrics shown up front.*
+
 ---
 
 ## 1. What problem, and for whom?
