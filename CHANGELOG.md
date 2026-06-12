@@ -118,6 +118,24 @@ more thematic commits; details live in the linked docs.
   honest domain caveat (close-up surface photos, not aerial; METU is a
   clean benchmark). Sample photos ship in `data/cv_demo/`.
 
+## Phase 10 — Engineering hardening (2026-06-13)
+
+- **Ruff linting in CI** (E/F/I/B/UP) with all findings fixed; verified the
+  rename-heavy cleanup changed nothing (retrieval benchmark reproduces
+  identical numbers).
+- **Data-integrity validation in CI** (`validar_datos.py`, `make validate`):
+  35+ stdlib-only checks of everything shipped in the repo (row counts,
+  required columns, vocabularies, SQLite shapes, evaluation thresholds).
+  Its first run caught a real finding: 11 ITM PDFs are scans with no text
+  layer, so the RAG index holds 221 of 232 documents (OCR pending).
+- **Retries with exponential backoff** (`red.py`): all 12 network-touching
+  scripts now retry network errors/429/5xx with jitter and never retry
+  other 4xx — closing the #1 documented engineering debt. Verified live.
+- **27 tests** (from 11): recorded API shapes (RNB building, Belgian parcel
+  variants, Statbel/VEKA samples, ITM regex) and the retry policy itself.
+- **Live source health check** (`verificar_fuentes.py`, `make health`):
+  one shape-validated probe per source — 16/16 healthy on first run.
+
 ## Reference
 
 | Document | Content |

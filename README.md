@@ -189,10 +189,11 @@ requires an LLM.
 
 ## 6. Production tomorrow vs. throw away
 
-**Ship tomorrow:** the four ingestion chains (FR/LU/BE) and their join keys;
-the AQC corpus + RAG index; the risk-signal → citation engine; the evaluation
-harness (the most reusable asset: any future extractor gets measured against
-the same ground truth).
+**Ship tomorrow:** the four ingestion chains (FR/LU/BE) — now with retry/
+backoff (`red.py`) — and their join keys; the AQC corpus + RAG index; the
+risk-signal → citation engine; the evaluation harness (the most reusable
+asset) plus the CI guardrails: lint, 27 tests, repo-data integrity
+validation (`make validate`) and a live source health check (`make health`).
 
 **Throw away / replace:** the Streamlit UI (→ React + FastAPI); SQLite (→
 PostgreSQL + pgvector); the regex metadata parser (→ docTR/LLM extraction for
