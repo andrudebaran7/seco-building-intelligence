@@ -40,6 +40,8 @@ normalizó y cruzó cada dato: ver `METODOLOGIA.md`.
 | `be_flandes_antwerpen_centrum_{buildings,parcels}.geojson` | WFS GRB (geo.api.vlaanderen.be) | 3.018 edificios + parcelas | Huellas con tipo (hoofdgebouw/bijgebouw) y fechas, parcelas con CAPAKEY y NIS |
 | `be_flandes_antwerpen_centrum_batiments.{csv,jsonl}` | Cruce espacial | 3.018 edificios | Por edificio: OIDN, centroide, tipo, CAPAKEY (99%), código NIS |
 | `veka_02_gemiddeld_e_peil_per_gemeente.csv` | VEKA open data | 12.379 filas / 322 comunas | E-peil medio (rendimiento energético EPB) por comuna, año de permiso y tipo de uso |
+| `be_valonia_liege_centre_{batiments,...}` | PICC (SPW) + catastro federal INSPIRE/CP | 3.515 edificios | Huellas con uso (Habitation...) y CAPAKEY federal (97%) — Valonia cubierta vía ArcGIS REST |
+| `be_*_batiments_ctx.{csv,jsonl}` | Cruce NIS con Statbel + VEKA | 8.619 edificios | Contexto comunal: total edificios, % pre-1946, % post-1981, % calefacción central, viviendas, e-peil medio (VL) |
 
 ## Corpus RAG (en `corpus/aqc/`)
 
@@ -71,10 +73,10 @@ normalizó y cruzó cada dato: ver `METODOLOGIA.md`.
 
 ## Totales
 
-- **~8.850 edificios cruzados en 3 países**: 913 Francia (cadena completa de
-  4 fuentes, cobertura 90-98% tras el fallback por dirección BAN),
-  2.825 Luxemburgo (dirección/parcela, 1.411 con altura 3D),
-  5.104 Bélgica (CAPAKEY catastral; 1.786 con dirección en Bruselas).
+- **~12.350 edificios cruzados en 3 países**: 913 Francia (cadena completa
+  de 4 fuentes, cobertura 90-98% tras el fallback por dirección BAN),
+  2.825 Luxemburgo (dirección/parcela, 1.411 con altura 3D), 8.619 Bélgica
+  en las 3 regiones (CAPAKEY catastral + contexto comunal Statbel/VEKA).
 - **232 documentos** (89 fichas de patología AQC + 143 prescripciones ITM)
   indexados en 7.551 fragmentos vectorizados con fuente e idioma.
 - **1 dataset energético agregado** (VEKA, 322 comunas flamencas).

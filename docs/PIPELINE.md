@@ -144,8 +144,9 @@ which is why the product metric is top-3 with inspector validation.
 | `ingest_itm.py` | ITM prescriptions (LU) | `--series` | `corpus/itm/{pdf,txt}/` + `manifest.{csv,jsonl}` |
 | `rag_aqc.py` | AQC + ITM corpora | `build` / `search "query"` | `corpus/rag_index.db` (SQLite with embeddings) |
 | `informe_edificio.py` | Final FR dataset + RAG index | `--max-riesgo` / `--numero-dpe`, `--llm <provider>`, `--idiomas es,en,fr`, `--pdf` | `informes/informe_<dpe>_<mode>_<lang>.{md,pdf}` |
-| `ingest_be_geo.py` | UrbIS (BXL) / GRB (VL) via WFS | `--region`, `--bbox`, `--zona` | `data/be_<region>_<zone>_batiments.{csv,jsonl}` + GeoJSON |
+| `ingest_be_geo.py` | UrbIS (BXL) / GRB (VL) via WFS; PICC+CadGIS (Wallonia) via ArcGIS REST | `--region`, `--bbox`, `--zona` | `data/be_<region>_<zone>_batiments.{csv,jsonl}` + GeoJSON |
 | `ingest_veka.py` | VEKA open data (Flanders) | `--dataset` | `data/veka_<dataset>.csv` |
+| `ingest_be_stats.py` | Statbel + VEKA by NIS | `--in-file` | `data/be_*_batiments_ctx.{csv,jsonl}` |
 | `ingest_lu_ortho.py` | LU 2025 orthophoto (WMS) | `--batiments`, `--limit`, `--margen` | `data/ortho_chips/<zone>/` (JPEG + manifest) |
 | `sintetizar_informes.py` | Own FR dataset + defect catalog | `--n`, `--seed` | `informes_sinteticos/pdf/` + `ground_truth.jsonl` |
 | `extraer_informes.py` | Synthetic PDFs + AQC taxonomy | `--pdf-dir` | `informes_sinteticos/defectos.db` (SQLite) |
@@ -234,11 +235,23 @@ a 3D-height label in the manifest. 0 failures, 0.8 MB. Chip + height + parcel
 
 ### Belgium
 
-| Metric | Brussels center (UrbIS) | Antwerp center (GRB) |
-|---|---|---|
-| Buildings (WFS) | 2,086 | 3,018 |
-| With cadastral parcel (CAPAKEY) | 100% | 99% |
-| With address (point-in-polygon) | 86% | — (no address layer in GRB) |
+| Metric | Brussels (UrbIS) | Antwerp (GRB) | Liège (PICC) |
+|---|---|---|---|
+| Buildings | 2,086 (WFS) | 3,018 (WFS) | 3,515 (ArcGIS REST) |
+| With cadastral parcel (CAPAKEY) | 100% | 99% | 97% (federal INSPIRE/CP) |
+| With address (point-in-polygon) | 86% | — | — |
+| With NIS commune context (Statbel) | 99.8% | 99.4% | 44%* |
+
+\* In Wallonia the NIS is derived from the CAPAKEY prefix, which is the
+*cadastral division* (pre-merger commune codes) — it only approximates the
+current NIS. Brussels/Flanders parcels carry the true NISCODE directly.
+
+**Second-level NIS join** (`ingest_be_stats.py` → `be_*_batiments_ctx.*`):
+each building gets its commune's Statbel building-stock profile (total
+buildings, % pre-1946, % post-1981, % central heating, dwellings — the
+"pathology-by-epoch" context) and, in Flanders, the VEKA mean e-peil.
+Sample: Brussels NIS 21004 = 69% pre-1946; Antwerp NIS 11002 = 48.7%
+pre-1946, mean e-peil 52.3; Liège NIS 62063 = 63.3% pre-1946.
 
 VEKA: average e-peil per municipality CSV downloaded (12,379 rows, 322
 municipalities, time series by permit year and use type). It is the Flemish

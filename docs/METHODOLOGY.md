@@ -27,6 +27,9 @@ method that actually worked (not always the documented one):
 | 2025 orthophoto (LU) | WMS GetMap, 40×40 m chips at 400×400 px | The open WMS serves every vintage 1967–2025 without registration; avoids the giant JP2s |
 | UrbIS (BE-Brussels) | WFS 2.0 GeoServer | The "historical" GeoServer is empty; the live one (`geoservices-vector.irisnet.be`) was located via the portal's GeoNetwork |
 | GRB (BE-Flanders) | WFS 2.0 | Works **without** the account the bulk download requires |
+| PICC (BE-Wallonia) | ArcGIS REST `query` with `f=geojson`, `resultOffset` pagination | A different protocol from WFS; building footprints with use description |
+| Federal cadastre (BE) | ArcGIS REST, INSPIRE/CP service on `ccff02.minfin.fgov.be` | Serves all-Belgium parcels with the national CAPAKEY — used for Wallonia |
+| Statbel building stock (BE) | Direct zip download (pipe-delimited txt) | Per-NIS stats incl. construction-period distribution; municipality = level 5 |
 | VEKA (BE-Flanders) | Direct CSV download under `/Data/` | The portal root answers 403 (WAF) but the files are served; paths found in the DCAT catalog of metadata.vlaanderen.be |
 | AQC sheets (corpus) | WordPress REST API (`/wp-json/wp/v2/media`) + PDF downloads | No HTML scraping; text extracted with `pdftotext -layout` |
 | ITM prescriptions (corpus) | HTML parse of the conditions-types page + direct PDF downloads | Stable page, no API; titles extracted from each PDF's header block; JRC Eurocodes reports were the original plan but their repository (DSpace) is WAF-blocked for non-browser clients |
@@ -167,8 +170,15 @@ building (lon, lat) ──(GetMap bbox)──> orthophoto chip
 - Same point-in-polygon as Luxembourg (Brussels: addresses + parcels;
   Flanders: parcels only, GRB exposes no address layer).
 - The output key is the **CAPAKEY** (Belgian national cadastral key, present
-  in UrbIS and GRB) and the municipal **NIS code** — the hooks for future
-  joins with Statbel and with VEKA's per-municipality e-peil.
+  in UrbIS, GRB and the federal INSPIRE/CP service used for Wallonia) and
+  the municipal **NIS code**.
+- **Second-level NIS join** (`ingest_be_stats.py`): each building is
+  enriched with its commune's Statbel building-stock profile (% pre-1946,
+  % post-1981, central heating, dwellings) and, in Flanders, VEKA's mean
+  e-peil weighted by declarations. Caveat: in Wallonia the NIS comes from
+  the CAPAKEY prefix, which is the *cadastral division* (pre-merger
+  codes) — only ~44% match directly vs 97-100% where the parcel layer
+  carries the true NISCODE; a division→municipality lookup would fix it.
 
 ### 3.4 Semantic join — structured data ↔ corpus
 
@@ -238,9 +248,10 @@ Ordered by estimated value/effort:
 3. **Scale to volume**: replace APIs with bulk downloads (BDNB GPKG per
    département, RNB dump) and join locally; pin vintages of every source for
    reproducibility (an RNB-current vs BDNB-2025-07 mismatch was observed).
-4. **Second-level Belgian joins**: CAPAKEY → federal cadastre; NIS → Statbel
-   (stock, permits) and VEKA e-peil per municipality, replicating the French
-   enrichment scheme.
+4. ~~Second-level Belgian joins~~ — **done**: Statbel building-stock
+   context + VEKA e-peil joined by NIS (`ingest_be_stats.py`); Wallonia
+   added via PICC + the federal cadastre. Remaining niggle: a cadastral
+   division→municipality lookup for Wallonia's NIS derivation.
 5. **CV module**: train/evaluate a classifier on the orthophoto chips (roof
    condition) with transfer from SDNET2018/METU (both CC-BY, commercially
    usable per the source report). Chips already come labeled with
@@ -254,8 +265,9 @@ Ordered by estimated value/effort:
    backoff, point-in-polygon with a spatial index (R-tree) for large zones,
    polygon inner rings, more automated tests, and an orchestrator chaining
    the steps without manual invocation (partially addressed by the Makefile).
-8. **Wallonia**: the only uncovered region; the source report flagged its
-   open data as incomplete (ODWB portal to explore).
+8. ~~Wallonia~~ — **done**: PICC building footprints (SPW ArcGIS REST) +
+   federal INSPIRE/CP parcels with CAPAKEY. All three Belgian regions are
+   now covered.
 
 ---
 

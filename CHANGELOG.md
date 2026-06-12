@@ -86,6 +86,24 @@ more thematic commits; details live in the linked docs.
   (the original second source) are WAF-blocked for non-browser clients —
   documented in the methodology.
 
+## Phase 8 — Retrieval benchmark and full Belgian map (2026-06-12)
+
+- **Retrieval evaluation**: 22-query gold benchmark in FR/ES/EN/DE over the
+  multi-corpus index — hit@3 73%, hit@5 86%, MRR 0.62, with per-corpus and
+  per-language breakdowns and miss analysis (cross-lingual queries
+  underperform French; ITM-SST 1106 turned out to be German content without
+  a `-de` suffix).
+- **Wallonia**: PICC building footprints (SPW, ArcGIS REST with GeoJSON
+  output — a different protocol from the WFS regions) + the **federal**
+  INSPIRE/CP cadastre (SPF Finances) for parcels with the national CAPAKEY.
+  All three Belgian regions covered.
+- **Second-level NIS joins** (`ingest_be_stats.py`): every Belgian building
+  enriched with its commune's Statbel building-stock profile (% pre-1946,
+  % post-1981, central heating, dwellings) and VEKA's mean e-peil in
+  Flanders. Documented caveat: Wallonia's NIS is derived from the CAPAKEY
+  prefix (cadastral division ≈ pre-merger communes), so only ~44% match
+  directly there.
+
 ## Reference
 
 | Document | Content |

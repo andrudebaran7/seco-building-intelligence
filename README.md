@@ -123,7 +123,8 @@ countries and four languages.
 | BDNB / CSTB (FR) | Materials, height, floors, use, clay risk | The "identity card" attributes; built for exactly this use |
 | Géorisques (BRGM) | Clay-shrinkage exposure by coordinate | The #1 decennial pathology driver (≈64% of claims are water/clay related per AQC) |
 | geoportail.lu + data.public.lu (LU) | Cadastre, addresses, 3D CityGML heights, 10 cm orthophoto | SECO Luxembourg's home market; CC0 |
-| UrbIS + GRB + VEKA (BE) | Buildings, parcels (CAPAKEY), energy stats | SECO's HQ market; CAPAKEY is the Belgian join key |
+| UrbIS + GRB + PICC + federal cadastre (BE) | Buildings + parcels (CAPAKEY) in all 3 regions | SECO's HQ market; CAPAKEY/NIS are the Belgian join keys |
+| Statbel + VEKA (BE) | Building-stock stats and energy performance per commune | The "pathology-by-epoch" context, joined to every building by NIS |
 | AQC Fiches Pathologie (FR) | 89 pathology sheets | The reference taxonomy + the RAG knowledge base |
 | ITM prescriptions (LU) | 143 safety prescriptions (building/fire series, FR+DE) | Luxembourg's mandatory technical rules — SECO's home-market regulatory layer |
 
@@ -201,9 +202,11 @@ once real labeled data exists).
 2. **Portfolio intelligence**: defect trends per building/portfolio vs. the
    AQC national statistics (the Sycodés benchmark), alerts for high-risk
    combinations (e.g. clay Fort + pre-1975 + strip foundations).
-3. **Coverage and breadth**: Wallonia; Statbel/VEKA second-level joins via
-   CAPAKEY/NIS. (The address-based join for DPEs without `id_rnb` is already
-   done: 90–98% French coverage via the BAN key, with per-record provenance.)
+3. **Coverage and breadth**: ~~Wallonia; Statbel/VEKA second-level joins~~ —
+   both done (all 3 Belgian regions + per-commune building-stock/energy
+   context). The address-based join for DPEs is also done (90–98% French
+   coverage). Remaining: a cadastral-division→municipality lookup to perfect
+   Wallonia's NIS derivation.
 4. **CV module**: the pipeline already produces labeled 10 cm orthophoto
    chips per building; train a roof-condition classifier (SDNET2018/METU
    transfer, both CC-BY) and inject detections as observations into the same

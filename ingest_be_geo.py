@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ingestión de prueba: capas geoespaciales belgas — UrbIS (Bruselas) y GRB (Flandes).
+"""Ingestión de prueba: capas geoespaciales belgas — UrbIS (BXL), GRB (VL) y PICC (Valonia).
 
 Misma técnica que en Luxemburgo: descarga edificios y parcelas (y direcciones
 en Bruselas) por bounding box vía WFS en GeoJSON, y los cruza espacialmente
@@ -12,6 +12,10 @@ Fuentes:
   - Flandes: GRB, https://geo.api.vlaanderen.be/GRB/wfs (Digitaal Vlaanderen).
     "Gratis Open Data Licentie Vlaanderen" — el WFS funciona SIN la cuenta
     que sí exige la descarga masiva. Atribución requerida.
+  - Valonia: edificios del PICC (SPW, geoservices.wallonie.be, ArcGIS REST
+    con salida GeoJSON) + parcelas del catastro FEDERAL (SPF Finances,
+    servicio INSPIRE/CP en ccff02.minfin.fgov.be) con CAPAKEY nacional.
+    Es un protocolo distinto (ArcGIS REST query, no WFS).
 
 Uso:
     python3 ingest_be_geo.py --region bruselas                    # Grand-Place
@@ -54,7 +58,46 @@ REGIONS = {
         "zona_defecto": "antwerpen_centrum",
         "atribucion": "Bron: Grootschalig Referentie Bestand Vlaanderen, Informatie Vlaanderen",
     },
+    "valonia": {
+        "tipo": "arcgis",
+        "capas": {
+            "buildings": "https://geoservices.wallonie.be/arcgis/rest/services/"
+                         "TOPOGRAPHIE/PICC_VDIFF/MapServer/11",
+            "parcels": "https://ccff02.minfin.fgov.be/geoservices/arcgis/rest/"
+                       "services/INSPIRE/CP/MapServer/1",
+        },
+        "bbox_defecto": "50.638,5.566,50.645,5.580",   # centro de Lieja
+        "zona_defecto": "liege_centre",
+        "atribucion": "PICC (c) SPW Wallonie / parcelas: SPF Finances (AGDP)",
+    },
 }
+
+
+def fetch_layer_arcgis(layer_url: str, bbox: str) -> list[dict]:
+    """Descarga una capa ArcGIS REST por bbox, paginando con resultOffset."""
+    lat_min, lon_min, lat_max, lon_max = bbox.split(",")
+    features: list[dict] = []
+    offset = 0
+    while True:
+        params = urllib.parse.urlencode({
+            "geometry": f"{lon_min},{lat_min},{lon_max},{lat_max}",
+            "geometryType": "esriGeometryEnvelope",
+            "inSR": "4326", "outSR": "4326",
+            "where": "1=1", "outFields": "*",
+            "f": "geojson", "resultOffset": str(offset),
+        })
+        req = urllib.request.Request(f"{layer_url}/query?{params}",
+                                     headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            page = json.load(resp)
+        feats = page.get("features", [])
+        features.extend(feats)
+        time.sleep(SLEEP_BETWEEN_CALLS)
+        if not page.get("properties", {}).get("exceededTransferLimit") \
+           and not page.get("exceededTransferLimit"):
+            break
+        offset += len(feats)
+    return features
 
 
 def fetch_layer(wfs: str, type_name: str, bbox: str) -> list[dict]:
@@ -124,15 +167,17 @@ def first_point(geometry: dict) -> tuple[float, float]:
 def building_id(region: str, props: dict) -> str:
     if region == "bruselas":
         return (props.get("INSPIRE_ID") or "").rsplit("/", 1)[-1]
+    if region == "valonia":
+        return (props.get("GEOREF_ID") or "").rsplit(".", 1)[-1]
     return str(props.get("OIDN"))
 
 
 def parcel_info(props: dict) -> dict:
-    return {
-        "parcel_capakey": props.get("CAPAKEY"),
-        "parcel_niscode": str(props.get("MUNNISCODE") or props.get("NISCODE") or "")
-                          .rsplit("/", 1)[-1] or None,
-    }
+    capakey = props.get("CAPAKEY") or props.get("nationalCadastralRef")
+    nis = str(props.get("MUNNISCODE") or props.get("NISCODE") or "").rsplit("/", 1)[-1]
+    if not nis and capakey:
+        nis = capakey[:5]  # el CAPAKEY federal empieza por el NIS de la comuna
+    return {"parcel_capakey": capakey, "parcel_niscode": nis or None}
 
 
 def address_text(props: dict) -> str:
@@ -158,7 +203,10 @@ def main() -> None:
     layers: dict[str, list[dict]] = {}
     for name, type_name in cfg["capas"].items():
         try:
-            layers[name] = fetch_layer(cfg["wfs"], type_name, bbox)
+            if cfg.get("tipo") == "arcgis":
+                layers[name] = fetch_layer_arcgis(type_name, bbox)
+            else:
+                layers[name] = fetch_layer(cfg["wfs"], type_name, bbox)
         except urllib.error.URLError as e:
             sys.exit(f"Error de red contra el WFS de {args.region} ({name}): {e}")
         print(f"Descargados {len(layers[name]):,} {name}")
@@ -191,7 +239,7 @@ def main() -> None:
             "lon": round(lon, 7),
             "lat": round(lat, 7),
             "area_m2": b["properties"].get("AREA"),
-            "tipo": b["properties"].get("LBLTYPE"),
+            "tipo": b["properties"].get("LBLTYPE") or b["properties"].get("NATUR_DESC"),
         }
         if "addresses" in layers:
             row["n_addresses"] = len(addrs)
