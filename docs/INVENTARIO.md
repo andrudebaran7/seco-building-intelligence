@@ -64,6 +64,8 @@ normalizó y cruzó cada dato: ver `METODOLOGIA.md`.
 | Fichero | Generado por | Contenido |
 |---|---|---|
 | `informe_2633E1530986O_plantilla.md` | `informe_edificio.py` | Informe de riesgo de un inmueble de Burdeos: 5 señales, 10 fichas AQC citadas |
+| `informe_2633E1530986O_plantilla_{es,en,fr}.{md,pdf}` | `informe_edificio.py --idiomas es,en,fr --pdf` | El mismo informe en los tres idiomas, cada uno con su PDF |
+| `informe_2633E1530986O_llm-gemini.md` / `_llm-gemini_fr.{md,pdf}` | `informe_edificio.py --llm gemini` | Informes redactados por LLM (gemini-2.5-flash) en español y francés, con citas AQC |
 | `informe_2675E1536668S_plantilla.md` | `informe_edificio.py` | Informe de riesgo de un inmueble de París: 4 señales |
 
 ## Totales

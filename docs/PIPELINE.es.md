@@ -79,9 +79,30 @@ dataset final FR (dpe_rnb_bdnb_rga_*.jsonl)  →  señales de riesgo  →  retri
 
 Cada atributo estructurado del edificio se convierte en una consulta de
 patología; el índice RAG recupera las 2 mejores fichas por señal y el
-informe final cita cada patología con su ficha AQC. Modo plantilla (sin
-LLM, por defecto) o modo `--llm` (redacción con Claude vía SDK de
-Anthropic, requiere `ANTHROPIC_API_KEY`).
+informe final cita cada patología con su ficha AQC.
+
+**Opciones de salida:**
+
+- **Idiomas** — `--idiomas es,en,fr` (por defecto `es`) genera un informe por
+  idioma: título, etiquetas de la ficha de identidad, cabeceras de señal y
+  pie legal totalmente traducidos; los **extractos de las fichas AQC
+  permanecen en francés** en todos los idiomas (son citas literales del
+  corpus), y las consultas al RAG van siempre en francés (el idioma del
+  corpus), así el retrieval no depende del idioma del informe.
+- **Formatos** — Markdown siempre; `--pdf` exporta además cada informe a PDF
+  (vía `markdown-pdf`), conservando ambos ficheros:
+  `informe_<dpe>_<modo>_<lang>.md` + `.pdf`.
+- **Redacción** — modo plantilla (sin LLM, por defecto) o
+  `--llm anthropic|gemini|openrouter` (modelo configurable con `--modelo`;
+  el idioma de salida se instruye en el prompt). Claves vía
+  `ANTHROPIC_API_KEY` / `GEMINI_API_KEY` / `OPENROUTER_API_KEY`.
+
+```bash
+# un informe por idioma, cada uno con su PDF:
+.venv/bin/python informe_edificio.py --max-riesgo --idiomas es,en,fr --pdf
+# lo mismo vía make, con redacción LLM en francés:
+make report LANGS=fr PDF=1 LLM=gemini
+```
 
 ## Los scripts
 
@@ -95,7 +116,7 @@ Anthropic, requiere `ANTHROPIC_API_KEY`).
 | `ingest_lu_3d.py` | Bâtiments 3D 2023 LU | `--commune` | `data/lu_<commune>_batiments_3d.{csv,jsonl}` + CSV de alturas |
 | `ingest_aqc.py` | Fichas patología AQC | `--out`, `--skip-text` | `corpus/aqc/{pdf,txt}/` + `manifest.{csv,jsonl}` |
 | `rag_aqc.py` | Corpus AQC local | `build` / `search "consulta"` | `corpus/aqc/rag_index.db` (SQLite con embeddings) |
-| `informe_edificio.py` | Dataset final FR + índice RAG | `--max-riesgo` / `--numero-dpe`, `--llm` | `informes/informe_<dpe>_*.md` |
+| `informe_edificio.py` | Dataset final FR + índice RAG | `--max-riesgo` / `--numero-dpe`, `--llm <proveedor>`, `--idiomas es,en,fr`, `--pdf` | `informes/informe_<dpe>_<modo>_<lang>.{md,pdf}` |
 | `ingest_be_geo.py` | UrbIS (BXL) / GRB (VL) vía WFS | `--region`, `--bbox`, `--zona` | `data/be_<region>_<zona>_batiments.{csv,jsonl}` + GeoJSON |
 | `ingest_veka.py` | VEKA open data (Flandes) | `--dataset` | `data/veka_<dataset>.csv` |
 | `ingest_lu_ortho.py` | Ortofoto 2025 LU (WMS) | `--batiments`, `--limit`, `--margen` | `data/ortho_chips/<zona>/` (JPEG + manifiesto) |
@@ -210,6 +231,10 @@ Demostrado con dos perfiles distintos (modo plantilla):
 - **París** (`informes/informe_2675E1536668S_plantilla.md`): etiqueta G,
   piedra, cubierta de zinc, pre-1948 → 4 señales (sin arcillas, con C.07
   condensación bajo cubierta metálica), coherente con el perfil parisino.
+- **Idiomas y PDF verificados**: el informe de Burdeos generado en es/en/fr
+  (modo plantilla, textos traducidos, citas AQC en francés intactas) y en
+  francés vía Gemini (`--llm gemini --idiomas fr`), cada uno con su PDF
+  renderizando bien título, tabla de identidad y citas.
 
 ## Hallazgos y trampas descubiertas (no documentadas en el reporte original)
 

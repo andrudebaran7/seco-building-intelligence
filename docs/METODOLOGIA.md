@@ -190,6 +190,17 @@ El informe resultante cita cada patología con su ficha `[código]` y su
 score de similitud — el dato estructurado dice *cuánto* riesgo hay y la
 ficha explica *qué* es y *cómo* se manifiesta.
 
+**Diseño de idiomas de los informes** (`--idiomas es,en,fr`): tres capas con
+reglas distintas. (1) Los *textos fijos* (título, etiquetas de identidad,
+cabeceras de señal, pie) se traducen con un diccionario por idioma en
+`informe_edificio.py`. (2) Las *consultas al RAG* van siempre en francés —
+el idioma del corpus — para que el retrieval sea idéntico en cualquier
+idioma de informe. (3) Los *extractos AQC* no se traducen nunca: son citas
+literales y traducirlas falsearía la fuente. En modo `--llm` el idioma de
+salida se instruye en el prompt; las reglas de grounding (citar `[código]`,
+no inventar patologías) son independientes del idioma. `--pdf` exporta cada
+Markdown a PDF (`markdown-pdf`), conservando siempre el `.md`.
+
 ---
 
 ## 4. Validaciones aplicadas

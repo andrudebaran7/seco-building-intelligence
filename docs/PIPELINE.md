@@ -82,8 +82,30 @@ final FR dataset (dpe_rnb_bdnb_rga_*.jsonl)  →  risk signals  →  RAG retriev
 
 Each structured attribute of the building becomes a pathology query; the RAG
 index retrieves the 2 best sheets per signal and the final report cites each
-pathology with its AQC sheet. Template mode (no LLM, default) or `--llm` mode
-(drafting with Claude via the Anthropic SDK, requires `ANTHROPIC_API_KEY`).
+pathology with its AQC sheet.
+
+**Output options:**
+
+- **Languages** — `--idiomas es,en,fr` (default `es`) generates one report
+  per language: title, identity-card labels, risk-signal headings and the
+  legal footer are fully translated; the **AQC sheet excerpts stay in
+  French** in every language (they are literal corpus citations), and the
+  RAG queries are always French (the corpus language), so retrieval quality
+  does not depend on the report language.
+- **Formats** — Markdown always; `--pdf` additionally exports each report
+  to PDF (via `markdown-pdf`), keeping both files side by side:
+  `informe_<dpe>_<mode>_<lang>.md` + `.pdf`.
+- **Drafting** — template mode (no LLM, default) or
+  `--llm anthropic|gemini|openrouter` (model overridable with `--modelo`;
+  the output language is instructed in the prompt). Keys via
+  `ANTHROPIC_API_KEY` / `GEMINI_API_KEY` / `OPENROUTER_API_KEY`.
+
+```bash
+# one report per language, each with its PDF:
+.venv/bin/python informe_edificio.py --max-riesgo --idiomas es,en,fr --pdf
+# same via make, with LLM drafting in French:
+make report LANGS=fr PDF=1 LLM=gemini
+```
 
 ### Report extraction pipeline (evaluated AI core)
 
@@ -117,7 +139,7 @@ which is why the product metric is top-3 with inspector validation.
 | `ingest_lu_3d.py` | LU 3D Buildings 2023 | `--commune` | `data/lu_<commune>_batiments_3d.{csv,jsonl}` + heights CSV |
 | `ingest_aqc.py` | AQC pathology sheets | `--out`, `--skip-text` | `corpus/aqc/{pdf,txt}/` + `manifest.{csv,jsonl}` |
 | `rag_aqc.py` | Local AQC corpus | `build` / `search "query"` | `corpus/aqc/rag_index.db` (SQLite with embeddings) |
-| `informe_edificio.py` | Final FR dataset + RAG index | `--max-riesgo` / `--numero-dpe`, `--llm` | `informes/informe_<dpe>_*.md` |
+| `informe_edificio.py` | Final FR dataset + RAG index | `--max-riesgo` / `--numero-dpe`, `--llm <provider>`, `--idiomas es,en,fr`, `--pdf` | `informes/informe_<dpe>_<mode>_<lang>.{md,pdf}` |
 | `ingest_be_geo.py` | UrbIS (BXL) / GRB (VL) via WFS | `--region`, `--bbox`, `--zona` | `data/be_<region>_<zone>_batiments.{csv,jsonl}` + GeoJSON |
 | `ingest_veka.py` | VEKA open data (Flanders) | `--dataset` | `data/veka_<dataset>.csv` |
 | `ingest_lu_ortho.py` | LU 2025 orthophoto (WMS) | `--batiments`, `--limit`, `--margen` | `data/ortho_chips/<zone>/` (JPEG + manifest) |
@@ -152,8 +174,9 @@ python3 ingest_aqc.py
 .venv/bin/python rag_aqc.py search "fissures causées par les argiles" --top 5
 
 # Per-building risk report — connects structured data with the RAG
-.venv/bin/python informe_edificio.py --max-riesgo            # building with most signals
-.venv/bin/python informe_edificio.py --numero-dpe 2633E1530986O --llm  # with Claude
+.venv/bin/python informe_edificio.py --max-riesgo                      # building with most signals
+.venv/bin/python informe_edificio.py --max-riesgo --idiomas es,en,fr --pdf  # trilingual + PDF
+.venv/bin/python informe_edificio.py --numero-dpe 2633E1530986O --llm gemini --idiomas fr
 
 # Report extraction pipeline with evaluation
 .venv/bin/python sintetizar_informes.py
@@ -240,6 +263,10 @@ Demonstrated on two distinct profiles (template mode):
 - **Paris** (`informes/informe_2675E1536668S_plantilla.md`): label G, stone,
   zinc roof, pre-1948 → 4 signals (no clay, with C.07 condensation under
   metal roofing), consistent with the Parisian profile.
+- **Languages and PDF verified**: the Bordeaux report generated in es/en/fr
+  (template mode, all strings translated, French AQC citations intact) and
+  in French via Gemini (`--llm gemini --idiomas fr`), each with its PDF
+  export rendering title, identity table and citations correctly.
 
 ### Extraction pipeline (measured)
 

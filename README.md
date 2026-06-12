@@ -237,7 +237,8 @@ make ui        # launches the app — all demo data ships in the repo
 make pipeline-fr DEPT=33 LIMIT=500   # French chain (live APIs, stdlib only)
 make corpus rag                      # AQC corpus + RAG index
 make extract eval                    # synthetic reports -> extraction -> F1 metrics
-make report LLM=gemini               # LLM-drafted risk report (needs GEMINI_API_KEY)
+make report LANGS=es,en,fr PDF=1     # trilingual risk reports, Markdown + PDF
+make report LLM=gemini LANGS=fr      # LLM-drafted in French (needs GEMINI_API_KEY)
 make help                            # all targets
 ```
 

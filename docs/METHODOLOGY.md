@@ -184,6 +184,17 @@ The resulting report cites every pathology with its `[code]` sheet and
 similarity score — the structured data says *how much* risk there is and the
 sheet explains *what* it is and *how* it manifests.
 
+**Language design of the reports** (`--idiomas es,en,fr`): three layers with
+different rules. (1) *Fixed strings* (title, identity labels, signal
+headings, footer) are translated via a per-language dictionary in
+`informe_edificio.py`. (2) *RAG queries* are always French — the corpus
+language — so retrieval quality is identical in every report language.
+(3) *AQC excerpts* are never translated: they are literal citations and
+translating them would falsify the source. In `--llm` mode the output
+language is instructed in the prompt; the grounding rules (cite `[code]`,
+no unsupported pathologies) are language-independent. `--pdf` exports each
+Markdown to PDF (`markdown-pdf`), always keeping the `.md`.
+
 ---
 
 ## 4. Validations applied
