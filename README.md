@@ -126,9 +126,11 @@ Honest limits: top-1 errors are dominated by *sibling sheets* of the taxonomy
 (A.01/A.02 are two halves of the same phenomenon), which is why the UI shows
 top-3 for validation; the naive approach scored 19.8% and a larger model
 scored *worse* — the hybrid was chosen by experiment, and the iteration is
-documented. An optional `--llm` mode (Claude, official SDK) drafts narrative
-reports; it is implemented but unmeasured (no API key in the build
-environment).
+documented. An optional `--llm` mode drafts narrative reports through any of
+three providers — `anthropic` (Claude, official SDK), `gemini` (AI Studio
+free tier) or `openrouter` (free `:free` models) — selected with
+`--llm <provider>` and `--modelo <model>`; the pipeline itself never
+requires an LLM.
 
 ## 5. Technical decisions and trade-offs
 

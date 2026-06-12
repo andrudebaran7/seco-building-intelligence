@@ -7,14 +7,18 @@ deriva sus señales de riesgo a partir de los atributos estructurados
 las fichas de patología AQC pertinentes del índice RAG y genera un informe
 en Markdown con citas a las fichas.
 
-Dos modos de redacción:
+Modos de redacción:
   - plantilla (por defecto): informe estructurado sin LLM, siempre funciona.
-  - --llm: redacción con Claude (SDK oficial de Anthropic, modelo
-    claude-opus-4-8). Requiere ANTHROPIC_API_KEY en el entorno.
+  - --llm anthropic: Claude vía SDK oficial (ANTHROPIC_API_KEY).
+  - --llm gemini: API de Gemini, free tier de AI Studio (GEMINI_API_KEY).
+  - --llm openrouter: modelos :free de OpenRouter (OPENROUTER_API_KEY).
+  El modelo concreto se puede fijar con --modelo.
 
 Requiere el venv del proyecto y el índice RAG ya construido:
     .venv/bin/python informe_edificio.py --max-riesgo
-    .venv/bin/python informe_edificio.py --numero-dpe 2333E0421762G --llm
+    .venv/bin/python informe_edificio.py --numero-dpe 2333E0421762G --llm gemini
+    .venv/bin/python informe_edificio.py --max-riesgo --llm openrouter \
+        --modelo "deepseek/deepseek-chat-v3-0324:free"
 """
 
 import argparse
@@ -170,15 +174,13 @@ def informe_plantilla(b: dict, senales: list[dict]) -> str:
     return "\n".join(partes)
 
 
-def informe_llm(b: dict, senales: list[dict]) -> str:
-    import anthropic
-
+def construir_prompt(b: dict, senales: list[dict]) -> str:
     contexto = []
     for s in senales:
         contexto.append(f"SEÑAL: {s['senal']}")
         for f in s["fichas"]:
             contexto.append(f"  FICHA [{f['code']}] {f['titulo']}\n  EXTRACTO: {f['extracto']}")
-    prompt = (
+    return (
         "Eres un ingeniero de control técnico de la construcción. Redacta en "
         "español un informe de riesgo breve (400-600 palabras) para el "
         "siguiente edificio, dirigido a un perito no especialista.\n\n"
@@ -190,14 +192,69 @@ def informe_llm(b: dict, senales: list[dict]) -> str:
         "respaldo. Cierra con recomendaciones de inspección priorizadas y una "
         "nota de que el documento no tiene valor pericial."
     )
+
+
+# Modelos por defecto por proveedor (sobreescribibles con --modelo).
+MODELOS = {
+    "anthropic": "claude-opus-4-8",
+    "gemini": "gemini-2.5-flash",          # free tier de AI Studio
+    "openrouter": "meta-llama/llama-3.3-70b-instruct:free",
+}
+
+
+def _post_json(url: str, headers: dict, body: dict) -> dict:
+    import urllib.request
+    req = urllib.request.Request(
+        url, data=json.dumps(body).encode("utf-8"),
+        headers={"Content-Type": "application/json", **headers})
+    with urllib.request.urlopen(req, timeout=180) as resp:
+        return json.load(resp)
+
+
+def generar_anthropic(prompt: str, modelo: str) -> str:
+    import anthropic
     client = anthropic.Anthropic()
     response = client.messages.create(
-        model="claude-opus-4-8",
+        model=modelo,
         max_tokens=16000,
         thinking={"type": "adaptive"},
         messages=[{"role": "user", "content": prompt}],
     )
-    texto = next(blk.text for blk in response.content if blk.type == "text")
+    return next(blk.text for blk in response.content if blk.type == "text")
+
+
+def generar_gemini(prompt: str, modelo: str) -> str:
+    key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
+    if not key:
+        sys.exit("--llm gemini requiere GEMINI_API_KEY (gratis en aistudio.google.com)")
+    data = _post_json(
+        f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
+        {"x-goog-api-key": key},
+        {"contents": [{"parts": [{"text": prompt}]}]},
+    )
+    return "".join(p.get("text", "")
+                   for p in data["candidates"][0]["content"]["parts"])
+
+
+def generar_openrouter(prompt: str, modelo: str) -> str:
+    key = os.environ.get("OPENROUTER_API_KEY")
+    if not key:
+        sys.exit("--llm openrouter requiere OPENROUTER_API_KEY (gratis en openrouter.ai)")
+    data = _post_json(
+        "https://openrouter.ai/api/v1/chat/completions",
+        {"Authorization": f"Bearer {key}"},
+        {"model": modelo, "messages": [{"role": "user", "content": prompt}]},
+    )
+    return data["choices"][0]["message"]["content"]
+
+
+GENERADORES = {"anthropic": generar_anthropic, "gemini": generar_gemini,
+               "openrouter": generar_openrouter}
+
+
+def informe_llm(b: dict, senales: list[dict], proveedor: str, modelo: str | None) -> str:
+    prompt = construir_prompt(b, senales)
+    texto = GENERADORES[proveedor](prompt, modelo or MODELOS[proveedor])
     return (f"# Informe de riesgo — {b.get('adresse_ban')}\n\n"
             f"## Identidad del edificio\n\n{ficha_identidad(b)}\n\n{texto}\n")
 
@@ -217,8 +274,13 @@ def main() -> None:
     sel.add_argument("--numero-dpe", help="seleccionar el edificio por nº de DPE")
     sel.add_argument("--max-riesgo", action="store_true",
                      help="seleccionar el edificio con más señales de riesgo")
-    parser.add_argument("--llm", action="store_true",
-                        help="redactar con Claude (requiere ANTHROPIC_API_KEY)")
+    parser.add_argument("--llm", nargs="?", const="anthropic",
+                        choices=list(GENERADORES),
+                        help="redactar con un LLM: anthropic (ANTHROPIC_API_KEY), "
+                             "gemini (GEMINI_API_KEY, free tier) u "
+                             "openrouter (OPENROUTER_API_KEY, modelos :free)")
+    parser.add_argument("--modelo", help="modelo concreto del proveedor "
+                        "(por defecto: " + ", ".join(f"{k}={v}" for k, v in MODELOS.items()) + ")")
     parser.add_argument("--out", default=str(OUT_DIR), help="directorio de salida")
     args = parser.parse_args()
 
@@ -246,11 +308,11 @@ def main() -> None:
     recuperar_fichas(senales)
 
     if args.llm:
-        if not os.environ.get("ANTHROPIC_API_KEY"):
-            sys.exit("--llm requiere ANTHROPIC_API_KEY en el entorno; "
-                     "sin ella usa el modo plantilla (por defecto).")
-        texto = informe_llm(edificio, senales)
-        sufijo = "llm"
+        if args.llm == "anthropic" and not os.environ.get("ANTHROPIC_API_KEY"):
+            sys.exit("--llm anthropic requiere ANTHROPIC_API_KEY; alternativas "
+                     "gratuitas: --llm gemini o --llm openrouter.")
+        texto = informe_llm(edificio, senales, args.llm, args.modelo)
+        sufijo = f"llm-{args.llm}"
     else:
         texto = informe_plantilla(edificio, senales)
         sufijo = "plantilla"
