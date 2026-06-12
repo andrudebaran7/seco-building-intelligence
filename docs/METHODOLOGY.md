@@ -257,5 +257,4 @@ Ordered by estimated value/effort:
 | `docs/METHODOLOGY.md` | This document (Spanish: `METODOLOGIA.md`) |
 | `docs/INVENTARIO.md` | Which data files exist, from which source (ES) |
 | `docs/evaluacion.md` | AI evaluation detail (metrics, confusions) |
-| `docs/research/` | Challenge brief + product research reports |
 | Each script's docstring | Usage, source, license and quirks (`--help`) |

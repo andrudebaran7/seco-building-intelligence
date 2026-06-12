@@ -3,7 +3,7 @@
 > Spanish version: [PIPELINE.es.md](PIPELINE.es.md)
 
 Proof of concept demonstrating, with real data, that the public sources
-described in the source-research report (`docs/research/compass_fuentes.md`) can be
+described in the preliminary source research can be
 extracted automatically, cross-referenced with each other and queried
 semantically. Everything was verified live on **June 11, 2026**, with no
 registration and no API keys. The ingestion scripts use only the Python 3
@@ -436,12 +436,10 @@ Known limits: ADEME 600 req/60 s (anonymous); BDNB 10 rows/response
 ## Project structure
 
 ```
-├── compass_artifact_*.md        # original source-research report (input)
 ├── README.md                    # this document (English)
 ├── README.es.md                 # Spanish version
 ├── METODOLOGIA.md               # extraction, normalization, joins, future work
 ├── INVENTARIO.md                # detailed inventory of the downloaded data
-├── TODO/                        # SECO challenge brief + research reports
 ├── docs/evaluacion.{md,json}    # extraction-pipeline metrics
 ├── ingest_dpe.py                # FR step 1
 ├── ingest_rnb.py                # FR step 2

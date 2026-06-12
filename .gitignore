@@ -8,3 +8,7 @@ downloads/
 
 # PDFs del corpus AQC (87 MB; se regeneran con: python3 ingest_aqc.py)
 corpus/aqc/pdf/
+
+# Material interno (no publicado en el repo)
+docs/research/
+docs/guion_video.md

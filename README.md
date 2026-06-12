@@ -6,7 +6,7 @@ A mini "Building Intelligence" product that turns **public building data and
 inspection documents into actionable pathology-and-risk intelligence** for
 technical inspectors and decennial-insurance risk analysts.
 
-Built for the SECO challenge (`docs/research/brief.md`): data pipeline +
+Built for the SECO challenge: data pipeline +
 AI component + UI, on public, reproducible data only.
 
 ```bash
@@ -224,7 +224,6 @@ docs/PIPELINE.md             # full technical documentation (17 findings, result
 docs/METODOLOGIA.md          # extraction/normalization/join methodology (ES)
 docs/INVENTARIO.md           # data inventory (ES)
 docs/evaluacion.md           # AI evaluation detail
-docs/research/               # challenge brief + product research reports
 ```
 
 ## Setup & reproduce

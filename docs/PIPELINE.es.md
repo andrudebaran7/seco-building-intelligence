@@ -3,7 +3,7 @@
 > Versión en español. La versión mantenida y más actual es [PIPELINE.md](PIPELINE.md) (inglés).
 
 Prueba de concepto que demuestra, con datos reales, que las fuentes públicas
-descritas en el reporte de fuentes (`docs/research/compass_fuentes.md`) son extraíbles de
+descritas en la investigación previa de fuentes son extraíbles de
 forma automática, cruzables entre sí y consultables semánticamente. Todo
 verificado en vivo el **11 de junio de 2026**, sin registro y sin claves de
 API. Los scripts de ingestión usan solo Python 3 estándar; el índice RAG es
@@ -387,7 +387,6 @@ de 0,2–0,3 s).
 ## Estructura del proyecto
 
 ```
-├── compass_artifact_*.md        # reporte original de fuentes (entrada)
 ├── README.md                    # este documento
 ├── METODOLOGIA.md               # extracción, normalización, cruces y pendientes
 ├── INVENTARIO.md                # inventario detallado de los datos descargados
