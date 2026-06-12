@@ -1,0 +1,22 @@
+{"query": "fissures en escalier dans les murs, terrain argileux", "lang": "fr", "gold": ["A.01", "A.02", "A.05"], "tema": "arcillas"}
+{"query": "remontées capillaires humidité en bas des murs anciens", "lang": "fr", "gold": ["B.01"], "tema": "humedad capilar"}
+{"query": "moisissures et condensation dans les chambres mal ventilées", "lang": "fr", "gold": ["E.09", "E.08"], "tema": "condensación"}
+{"query": "infiltrations d'eau par la couverture en tuiles", "lang": "fr", "gold": ["C.06"], "tema": "cubierta teja"}
+{"query": "corrosion des armatures du balcon, béton éclaté", "lang": "fr", "gold": ["B.05"], "tema": "corrosión"}
+{"query": "flèche anormale du plancher bois de l'étage", "lang": "fr", "gold": ["B.11", "C.01"], "tema": "madera"}
+{"query": "décollement de l'enduit monocouche de façade", "lang": "fr", "gold": ["D.03", "D.12"], "tema": "revoco"}
+{"query": "infiltration d'eau autour des fenêtres", "lang": "fr", "gold": ["D.01"], "tema": "carpinterías"}
+{"query": "affaissement du dallage du rez-de-chaussée", "lang": "fr", "gold": ["A.05"], "tema": "solera"}
+{"query": "ventilation mécanique contrôlée défaillante", "lang": "fr", "gold": ["E.08"], "tema": "VMC"}
+{"query": "humedad que sube por los muros desde el suelo", "lang": "es", "gold": ["B.01"], "tema": "humedad capilar"}
+{"query": "moho negro en los techos por condensación", "lang": "es", "gold": ["E.09"], "tema": "condensación"}
+{"query": "grietas en la fachada por suelos arcillosos", "lang": "es", "gold": ["A.01", "A.02", "A.05"], "tema": "arcillas"}
+{"query": "cracks in masonry walls on clay soil", "lang": "en", "gold": ["A.01", "A.02", "A.05"], "tema": "arcillas"}
+{"query": "water leaks through the roof tiles", "lang": "en", "gold": ["C.06", "C.09"], "tema": "cubierta teja"}
+{"query": "condensation and mould in bedrooms", "lang": "en", "gold": ["E.09"], "tema": "condensación"}
+{"query": "prescriptions de sécurité incendie pour les bâtiments bas", "lang": "fr", "gold": ["ITM-SST 1501"], "tema": "incendio bajos"}
+{"query": "prescriptions de prévention incendie pour bâtiments moyens", "lang": "fr", "gold": ["ITM-SST 1502"], "tema": "incendio medios"}
+{"query": "prescriptions de sécurité pour les ascenseurs", "lang": "fr", "gold": ["ITM-SST 1203", "ITM-SST 1212"], "tema": "ascensores"}
+{"query": "protection contre la foudre, paratonnerre", "lang": "fr", "gold": ["ITM-SST 1106"], "tema": "pararrayos"}
+{"query": "définitions générales de la prévention incendie", "lang": "fr", "gold": ["ITM-SST 1500"], "tema": "incendio definiciones"}
+{"query": "Blitzschutz Sicherheitsvorschriften", "lang": "de", "gold": ["ITM-SST 1106"], "tema": "pararrayos DE"}

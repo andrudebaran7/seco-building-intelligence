@@ -1,0 +1,442 @@
+{
+  "global": {
+    "n": 22,
+    "hit@1": 0.45454545454545453,
+    "hit@3": 0.7272727272727273,
+    "hit@5": 0.8636363636363636,
+    "mrr": 0.6204545454545455
+  },
+  "por_corpus": {
+    "AQC": {
+      "n": 16,
+      "hit@1": 0.5,
+      "hit@3": 0.75,
+      "hit@5": 0.875,
+      "mrr": 0.653125
+    },
+    "ITM": {
+      "n": 6,
+      "hit@1": 0.3333333333333333,
+      "hit@3": 0.6666666666666666,
+      "hit@5": 0.8333333333333334,
+      "mrr": 0.5333333333333333
+    }
+  },
+  "por_idioma": {
+    "de": {
+      "n": 1,
+      "hit@1": 0.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "mrr": 0.5
+    },
+    "en": {
+      "n": 3,
+      "hit@1": 0.3333333333333333,
+      "hit@3": 0.3333333333333333,
+      "hit@5": 0.6666666666666666,
+      "mrr": 0.39999999999999997
+    },
+    "es": {
+      "n": 3,
+      "hit@1": 0.3333333333333333,
+      "hit@3": 0.6666666666666666,
+      "hit@5": 0.6666666666666666,
+      "mrr": 0.5
+    },
+    "fr": {
+      "n": 15,
+      "hit@1": 0.5333333333333333,
+      "hit@3": 0.8,
+      "hit@5": 0.9333333333333333,
+      "mrr": 0.6966666666666667
+    }
+  },
+  "consultas": [
+    {
+      "query": "fissures en escalier dans les murs, terrain argileux",
+      "lang": "fr",
+      "gold": [
+        "A.01",
+        "A.02",
+        "A.05"
+      ],
+      "tema": "arcillas",
+      "corpus": "AQC",
+      "rank": 1,
+      "top5": [
+        "A.02",
+        "A.05",
+        "D.07",
+        "D.12",
+        "C.09"
+      ]
+    },
+    {
+      "query": "remontées capillaires humidité en bas des murs anciens",
+      "lang": "fr",
+      "gold": [
+        "B.01"
+      ],
+      "tema": "humedad capilar",
+      "corpus": "AQC",
+      "rank": 1,
+      "top5": [
+        "B.01",
+        "F.06",
+        "B.02",
+        "F.03",
+        "F.02"
+      ]
+    },
+    {
+      "query": "moisissures et condensation dans les chambres mal ventilées",
+      "lang": "fr",
+      "gold": [
+        "E.09",
+        "E.08"
+      ],
+      "tema": "condensación",
+      "corpus": "AQC",
+      "rank": 1,
+      "top5": [
+        "E.09",
+        "E.08",
+        "D.01",
+        "F.01",
+        "D.07"
+      ]
+    },
+    {
+      "query": "infiltrations d'eau par la couverture en tuiles",
+      "lang": "fr",
+      "gold": [
+        "C.06"
+      ],
+      "tema": "cubierta teja",
+      "corpus": "AQC",
+      "rank": 1,
+      "top5": [
+        "C.06",
+        "E.15",
+        "C.09",
+        "C.08",
+        "C.05"
+      ]
+    },
+    {
+      "query": "corrosion des armatures du balcon, béton éclaté",
+      "lang": "fr",
+      "gold": [
+        "B.05"
+      ],
+      "tema": "corrosión",
+      "corpus": "AQC",
+      "rank": 2,
+      "top5": [
+        "G.04",
+        "B.05",
+        "B.07",
+        "C.09",
+        "B.06"
+      ]
+    },
+    {
+      "query": "flèche anormale du plancher bois de l'étage",
+      "lang": "fr",
+      "gold": [
+        "B.11",
+        "C.01"
+      ],
+      "tema": "madera",
+      "corpus": "AQC",
+      "rank": 1,
+      "top5": [
+        "C.01",
+        "D.01",
+        "D.02",
+        "F.05",
+        "G.04"
+      ]
+    },
+    {
+      "query": "décollement de l'enduit monocouche de façade",
+      "lang": "fr",
+      "gold": [
+        "D.03",
+        "D.12"
+      ],
+      "tema": "revoco",
+      "corpus": "AQC",
+      "rank": 1,
+      "top5": [
+        "D.03",
+        "D.05",
+        "F.09",
+        "D.06",
+        "B.01"
+      ]
+    },
+    {
+      "query": "infiltration d'eau autour des fenêtres",
+      "lang": "fr",
+      "gold": [
+        "D.01"
+      ],
+      "tema": "carpinterías",
+      "corpus": "AQC",
+      "rank": 4,
+      "top5": [
+        "D.02",
+        "D.13",
+        "C.06",
+        "D.01",
+        "C.09"
+      ]
+    },
+    {
+      "query": "affaissement du dallage du rez-de-chaussée",
+      "lang": "fr",
+      "gold": [
+        "A.05"
+      ],
+      "tema": "solera",
+      "corpus": "AQC",
+      "rank": 2,
+      "top5": [
+        "B.09",
+        "A.05",
+        "C.12",
+        "B.08",
+        "B.11"
+      ]
+    },
+    {
+      "query": "ventilation mécanique contrôlée défaillante",
+      "lang": "fr",
+      "gold": [
+        "E.08"
+      ],
+      "tema": "VMC",
+      "corpus": "AQC",
+      "rank": 2,
+      "top5": [
+        "G.06",
+        "E.08",
+        "E.09",
+        "ITM-SST 1503.4",
+        "ITM-SST 1501.4"
+      ]
+    },
+    {
+      "query": "humedad que sube por los muros desde el suelo",
+      "lang": "es",
+      "gold": [
+        "B.01"
+      ],
+      "tema": "humedad capilar",
+      "corpus": "AQC",
+      "rank": 2,
+      "top5": [
+        "B.02",
+        "B.01",
+        "C.05",
+        "B.03",
+        "C.07"
+      ]
+    },
+    {
+      "query": "moho negro en los techos por condensación",
+      "lang": "es",
+      "gold": [
+        "E.09"
+      ],
+      "tema": "condensación",
+      "corpus": "AQC",
+      "rank": 1,
+      "top5": [
+        "E.09",
+        "E.07",
+        "D.03",
+        "E.08",
+        "C.07"
+      ]
+    },
+    {
+      "query": "grietas en la fachada por suelos arcillosos",
+      "lang": "es",
+      "gold": [
+        "A.01",
+        "A.02",
+        "A.05"
+      ],
+      "tema": "arcillas",
+      "corpus": "AQC",
+      "rank": null,
+      "top5": [
+        "B.04",
+        "C.06",
+        "B.05",
+        "D.02",
+        "E.16"
+      ]
+    },
+    {
+      "query": "cracks in masonry walls on clay soil",
+      "lang": "en",
+      "gold": [
+        "A.01",
+        "A.02",
+        "A.05"
+      ],
+      "tema": "arcillas",
+      "corpus": "AQC",
+      "rank": 5,
+      "top5": [
+        "G.04",
+        "F.03",
+        "D.02",
+        "D.12",
+        "A.05"
+      ]
+    },
+    {
+      "query": "water leaks through the roof tiles",
+      "lang": "en",
+      "gold": [
+        "C.06",
+        "C.09"
+      ],
+      "tema": "cubierta teja",
+      "corpus": "AQC",
+      "rank": null,
+      "top5": [
+        "D.03",
+        "D.13",
+        "G.04",
+        "D.02",
+        "E.09"
+      ]
+    },
+    {
+      "query": "condensation and mould in bedrooms",
+      "lang": "en",
+      "gold": [
+        "E.09"
+      ],
+      "tema": "condensación",
+      "corpus": "AQC",
+      "rank": 1,
+      "top5": [
+        "E.09",
+        "D.14",
+        "E.08",
+        "C.07",
+        "B.04"
+      ]
+    },
+    {
+      "query": "prescriptions de sécurité incendie pour les bâtiments bas",
+      "lang": "fr",
+      "gold": [
+        "ITM-SST 1501"
+      ],
+      "tema": "incendio bajos",
+      "corpus": "ITM",
+      "rank": 2,
+      "top5": [
+        "ITM-SST 1503.2",
+        "ITM-SST 1501.4",
+        "ITM-SST 1501.5",
+        "ITM-SST 1501.3",
+        "ITM-SST 1501.6"
+      ]
+    },
+    {
+      "query": "prescriptions de prévention incendie pour bâtiments moyens",
+      "lang": "fr",
+      "gold": [
+        "ITM-SST 1502"
+      ],
+      "tema": "incendio medios",
+      "corpus": "ITM",
+      "rank": 5,
+      "top5": [
+        "ITM-SST 1503.2",
+        "ITM-SST 1501.1",
+        "ITM-SST 1514.3",
+        "ITM-SST 1524.1",
+        "ITM-SST 1502.3"
+      ]
+    },
+    {
+      "query": "prescriptions de sécurité pour les ascenseurs",
+      "lang": "fr",
+      "gold": [
+        "ITM-SST 1203",
+        "ITM-SST 1212"
+      ],
+      "tema": "ascensores",
+      "corpus": "ITM",
+      "rank": 1,
+      "top5": [
+        "ITM-SST 1203.1",
+        "ITM-SST 1212.2",
+        "ITM-SST 1203.2",
+        "ITM-SST 1407.1",
+        "ITM-SST 1204.1"
+      ]
+    },
+    {
+      "query": "protection contre la foudre, paratonnerre",
+      "lang": "fr",
+      "gold": [
+        "ITM-SST 1106"
+      ],
+      "tema": "pararrayos",
+      "corpus": "ITM",
+      "rank": null,
+      "top5": [
+        "ITM-SST 1503.2",
+        "ITM-SST 1501.6",
+        "ITM-SST 1503.5",
+        "ITM-SST 1503.3",
+        "ITM-SST 1809.3"
+      ]
+    },
+    {
+      "query": "définitions générales de la prévention incendie",
+      "lang": "fr",
+      "gold": [
+        "ITM-SST 1500"
+      ],
+      "tema": "incendio definiciones",
+      "corpus": "ITM",
+      "rank": 1,
+      "top5": [
+        "ITM-SST 1500.3",
+        "ITM-SST 1500.2",
+        "ITM-SST 1509.3",
+        "ITM-SST 1501.3",
+        "ITM-SST 1503.1"
+      ]
+    },
+    {
+      "query": "Blitzschutz Sicherheitsvorschriften",
+      "lang": "de",
+      "gold": [
+        "ITM-SST 1106"
+      ],
+      "tema": "pararrayos DE",
+      "corpus": "ITM",
+      "rank": 2,
+      "top5": [
+        "ITM-SST 1710.1",
+        "ITM-SST 1106.1",
+        "ITM-SST 1710.2",
+        "ITM-SST 1106.2",
+        "ITM-SST 1703.3"
+      ]
+    }
+  ]
+}

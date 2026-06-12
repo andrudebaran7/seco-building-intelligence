@@ -245,6 +245,12 @@ with tab_rag:
                "prescriptions (FR/DE), multilingual queries. Try: *fissures "
                "causées par les argiles* · *humedad en muros antiguos* · "
                "*désenfumage bâtiment élevé* · *Sicherheitsvorschriften Aufzüge*")
+    eval_ret = Path("docs/evaluacion_retrieval.json")
+    if eval_ret.exists():
+        m = json.loads(eval_ret.read_text(encoding="utf-8"))["global"]
+        st.caption(f"Measured retrieval quality on {m['n']} gold queries "
+                   f"(FR/ES/EN/DE): hit@3 {m['hit@3']:.0%} · hit@5 {m['hit@5']:.0%} "
+                   f"· MRR {m['mrr']:.2f} — see docs/evaluacion_retrieval.md")
     q = st.text_input("Query", value="fissures dans les murs causées par les argiles")
     c_top, c_src = st.columns([1, 2])
     top = c_top.slider("Results", 1, 10, 5)

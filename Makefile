@@ -41,8 +41,9 @@ extract: ## Generate synthetic inspection reports and extract them to SQLite
 	$(PY) sintetizar_informes.py
 	$(PY) extraer_informes.py
 
-eval: ## Evaluate the extraction pipeline against ground truth (F1 metrics)
+eval: ## Evaluate extraction (F1) and retrieval (hit@k/MRR) against ground truth
 	$(PY) evaluar_extraccion.py
+	$(PY) evaluar_retrieval.py
 
 report: ## Per-building risk report (LLM=gemini|openrouter|anthropic, LANGS=es,en,fr, PDF=1)
 	$(PY) informe_edificio.py --max-riesgo $(if $(LLM),--llm $(LLM),) \

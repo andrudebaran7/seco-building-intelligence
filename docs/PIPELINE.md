@@ -263,6 +263,22 @@ Validation queries (top-1 correct in both):
 - ITM (DE): *"Sicherheitsvorschriften für Aufzüge"* → German-language ITM
   documents. Pathology queries remain AQC-dominated (no cross-corpus noise).
 
+**Retrieval benchmark** (22 gold queries in FR/ES/EN/DE,
+`evaluar_retrieval.py` → `evaluacion_retrieval.md`):
+
+| Segment | hit@1 | hit@3 | hit@5 | MRR |
+|---|---|---|---|---|
+| Global (n=22) | 45% | 73% | 86% | 0.62 |
+| AQC pathology (n=16) | 50% | 75% | — | — |
+| ITM regulations (n=6) | 33% | 67% | — | — |
+
+Miss analysis: most misses are rank-2 with a *related* document first
+(B.02 vs B.01, both humidity) — taxonomy granularity, same pattern as the
+classifier. Cross-lingual queries (ES/EN) score below French ones. One
+discovered data quirk: ITM-SST 1106 ("Blitzschutz") is written in German
+despite carrying no `-de` suffix, so French queries about lightning
+protection miss it while German ones hit it.
+
 ### Risk reports (structured ↔ RAG connector)
 
 Demonstrated on two distinct profiles (template mode):
