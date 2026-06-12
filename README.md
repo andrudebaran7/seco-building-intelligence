@@ -14,6 +14,10 @@ AI component + UI, on public, reproducible data only.
 
 ## Demo
 
+**▶ Live app:**
+<https://seco-building-intelligence-dtu3usrr6i5whv8s4cty5h.streamlit.app/>
+*(first load takes a minute: the embeddings model is downloaded and cached)*
+
 | Portfolio & buildings | Pathology search (RAG) | Report extraction |
 |---|---|---|
 | ![Portfolio](docs/img/ui_portfolio.png) | ![Search](docs/img/ui_search.png) | ![Extraction](docs/img/ui_extraction.png) |
