@@ -360,8 +360,8 @@ with tab_cv:
                                  type=["jpg", "jpeg", "png"],
                                  accept_multiple_files=True)
         if not fotos:
-            st.caption("No photos handy? Two samples ship in `data/cv_demo/` "
-                       "(one cracked, one sound).")
+            st.caption("No photos handy? Ten never-seen samples ship in "
+                       "`data/cv_demo/` (5 cracked `NG_*`, 5 sound `OK_*`).")
         from PIL import Image
         for f in fotos or []:
             img = Image.open(f)
