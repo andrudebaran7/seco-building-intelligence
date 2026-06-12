@@ -65,7 +65,7 @@ ingest_aqc.py: AQC pathology sheets (FR)       rag_aqc.py
 ingest_itm.py: ITM prescriptions (LU)          + multilingual-e5-small embeddings
   conditions-types page → 143 PDFs             + cosine search, source + lang columns
   (building/fire series, FR + DE)
-corpus/{aqc,itm}/ + manifests             →    corpus/rag_index.db (232 docs, 7,551 chunks)
+corpus/{aqc,itm}/ + manifests             →    corpus/rag_index.db (221/232 docs, 7,551 chunks)
 ```
 
 Risk reports cite **AQC only** (pathology); the search UI spans both corpora
@@ -263,7 +263,7 @@ aggregated equivalent of the French DPE — no open individual certificate.
 |---|---|
 | AQC sheets (FR) | 89 (themes A:10 B:13 C:13 D:14 E:16 F:10 G:13) |
 | ITM prescriptions (LU, building/fire series) | 143 (140 FR + 3 DE), median ~29,000 chars |
-| Indexed chunks | 7,551 × 384 dimensions (232 documents) |
+| Indexed chunks | 7,551 × 384 dims — 221 of 232 documents (11 ITM PDFs are scans with no text layer; OCR pending) |
 | Index size | ~30 MB (SQLite), `fuente` and `lang` per chunk |
 
 Validation queries (top-1 correct in both):

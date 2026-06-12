@@ -52,6 +52,9 @@ report: ## Per-building risk report (LLM=gemini|openrouter|anthropic, LANGS=es,e
 cv: ## Train + evaluate the crack classifier (auto-downloads the METU dataset)
 	$(PY) entrenar_cv.py
 
+validate: ## Validate the integrity of the data shipped in the repo (no network)
+	python3 validar_datos.py
+
 test: ## Run the test suite
 	$(PY) -m pytest -q
 

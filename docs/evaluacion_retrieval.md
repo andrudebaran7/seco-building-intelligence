@@ -1,6 +1,6 @@
 # Evaluación del retrieval (buscador semántico)
 
-22 consultas con gold conocido sobre el índice multi-corpus (232 documentos). hit@k = algún código correcto entre los k primeros documentos distintos; MRR = mean reciprocal rank.
+22 consultas con gold conocido sobre el índice multi-corpus. hit@k = algún código correcto entre los k primeros documentos distintos; MRR = mean reciprocal rank.
 
 | Segmento | N | hit@1 | hit@3 | hit@5 | MRR |
 |---|---|---|---|---|---|

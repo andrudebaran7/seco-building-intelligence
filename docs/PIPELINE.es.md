@@ -62,7 +62,7 @@ ingest_aqc.py: fichas patología AQC (FR)       rag_aqc.py
 ingest_itm.py: prescripciones ITM (LU)         + embeddings multilingual-e5-small
   página conditions-types → 143 PDFs           + búsqueda coseno, columnas fuente/idioma
   (serie edificación/incendio, FR + DE)
-corpus/{aqc,itm}/ + manifiestos           →    corpus/rag_index.db (232 docs, 7.551 frag.)
+corpus/{aqc,itm}/ + manifiestos           →    corpus/rag_index.db (221/232 docs, 7.551 frag.)
 ```
 
 Los informes de riesgo citan **solo AQC** (patología); la búsqueda de la UI
@@ -217,7 +217,7 @@ agregado del DPE francés — no hay certificado individual abierto.
 |---|---|
 | Fichas AQC (FR) | 89 (temas A:10 B:13 C:13 D:14 E:16 F:10 G:13) |
 | Prescripciones ITM (LU, serie edificación/incendio) | 143 (140 FR + 3 DE), mediana ~29.000 caracteres |
-| Fragmentos indexados | 7.551 × 384 dimensiones (232 documentos) |
+| Fragmentos indexados | 7.551 × 384 dims — 221 de 232 documentos (11 PDFs ITM son escaneados sin capa de texto; OCR pendiente) |
 | Tamaño del índice | ~30 MB (SQLite), fuente e idioma por fragmento |
 
 Consultas de validación (top-1 correcto en ambas):

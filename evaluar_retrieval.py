@@ -108,7 +108,7 @@ def main() -> None:
         "# Evaluación del retrieval (buscador semántico)",
         "",
         f"{len(resultados)} consultas con gold conocido sobre el índice "
-        "multi-corpus (232 documentos). hit@k = algún código correcto entre "
+        "multi-corpus. hit@k = algún código correcto entre "
         "los k primeros documentos distintos; MRR = mean reciprocal rank.",
         "",
         "| Segmento | N | hit@1 | hit@3 | hit@5 | MRR |",
