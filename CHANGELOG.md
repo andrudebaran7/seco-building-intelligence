@@ -127,3 +127,4 @@ more thematic commits; details live in the linked docs.
 | `docs/METHODOLOGY.md` / `METODOLOGIA.md` | Extraction, normalization, joins, validations, future work |
 | `docs/INVENTARIO.md` | Data inventory (what files, from which source) |
 | `docs/evaluacion.md` | Extraction-pipeline metrics detail |
+| `docs/CV.md` | CV module reference: dataset, model, expected inputs, limits |

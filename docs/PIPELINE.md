@@ -326,7 +326,8 @@ photos will be harder). Integration: `clasificar_fotos.py --a-defectos REF`
 registers positive detections as observations in the same defects DB,
 classified to the AQC taxonomy by the existing hybrid classifier
 (`origen='cv'`) — the "document+vision hybrid" from the product research.
-The UI gains a Photo-triage tab with live upload.
+The UI gains a Photo-triage tab with live upload. Full reference
+(dataset, model, expected input sizes, limits): [`CV.md`](CV.md).
 
 ### Extraction pipeline (measured)
 

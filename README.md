@@ -235,6 +235,7 @@ docs/PIPELINE.md             # full technical documentation (17 findings, result
 docs/METODOLOGIA.md          # extraction/normalization/join methodology (ES)
 docs/INVENTARIO.md           # data inventory (ES)
 docs/evaluacion.md           # AI evaluation detail
+docs/CV.md                   # CV module reference (dataset, model, expected inputs)
 ```
 
 ## Setup & reproduce
