@@ -22,7 +22,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-from informe_edificio import derivar_senales, ficha_identidad
+from informe_edificio import T, derivar_senales, ficha_identidad
 
 st.set_page_config(page_title="SECO Building Intelligence", page_icon="🏗️",
                    layout="wide")
@@ -162,26 +162,30 @@ with tab_port:
     st.dataframe(fdf[cols], width="stretch", height=260)
 
     st.subheader("Per-building risk report")
+    col_b, col_l = st.columns([3, 1])
     opciones = fdf["numero_dpe"] + " — " + fdf["adresse_ban"].fillna("?")
-    eleccion = st.selectbox("Building", opciones)
+    eleccion = col_b.selectbox("Building", opciones)
+    NOMBRES_IDIOMA = {"en": "English", "fr": "Français", "es": "Español"}
+    lang = col_l.selectbox("Report language", list(NOMBRES_IDIOMA),
+                           format_func=NOMBRES_IDIOMA.get)
     if st.button("Generate report", type="primary"):
         b = fdf[fdf["numero_dpe"] == eleccion.split(" — ")[0]].iloc[0].to_dict()
-        senales = derivar_senales(b)
+        senales = derivar_senales(b, lang)
         if not senales:
             st.info("No notable risk signals for this building.")
         else:
             recuperar_fichas_ui(senales)
-            st.markdown("#### Building identity")
-            st.markdown(ficha_identidad(b))
-            st.markdown("#### Risk signals and associated pathologies")
+            t = T[lang]
+            st.markdown(f"#### {t['identidad']}")
+            st.markdown(ficha_identidad(b, lang))
+            st.markdown(f"#### {t['senales']}")
             for i, s in enumerate(senales, 1):
                 with st.expander(f"{i}. {s['senal']}", expanded=True):
                     for f in s["fichas"]:
                         st.markdown(f"**[{f['code']}]** {f['titulo']} "
-                                    f"*(similarity {f['score']:.2f})*")
+                                    f"*({t['similitud']} {f['score']:.2f})*")
                         st.caption(f"…{f['extracto']}…")
-            st.caption("Grounded in open data (Licence Ouverte/CC0) and AQC "
-                       "pathology sheets. Demo document, no expert value.")
+            st.caption(t["pie"].strip("*"))
 
 # ----------------------------------------------------------------- tab 2
 
