@@ -1,0 +1,52 @@
+{
+ "rnb_id": "MJ8ZTZ38EJSZ",
+ "status": "constructed",
+ "point": {
+  "type": "Point",
+  "coordinates": [
+   2.294887846675796,
+   48.841793498210876
+  ]
+ },
+ "shape": null,
+ "addresses": [
+  {
+   "id": "75115_0012_00029",
+   "ban_id": null,
+   "source": "bdnb",
+   "street_number": "29",
+   "street_rep": null,
+   "street": "Rue de l'Abbé Groult",
+   "city_name": "Paris 15e Arrondissement",
+   "city_zipcode": "75015",
+   "city_insee_code": "75115"
+  },
+  {
+   "id": "75115_0012_00027",
+   "ban_id": null,
+   "source": "bdnb",
+   "street_number": "27",
+   "street_rep": null,
+   "street": "Rue de l'Abbé Groult",
+   "city_name": "Paris 15e Arrondissement",
+   "city_zipcode": "75015",
+   "city_insee_code": "75115"
+  }
+ ],
+ "ext_ids": [
+  {
+   "id": "bdnb-bc-UGSC-CWK3-9N4C",
+   "source": "bdnb",
+   "created_at": "2023-12-10T10:23:58.487942+00:00",
+   "source_version": "2023_01"
+  },
+  {
+   "id": "BATIMENT0000000241920693",
+   "source": "bdtopo",
+   "created_at": "2023-12-21T18:19:47.965296+00:00",
+   "source_version": "bdtopo_2023_09"
+  }
+ ],
+ "is_active": true,
+ "validated_by": []
+}
