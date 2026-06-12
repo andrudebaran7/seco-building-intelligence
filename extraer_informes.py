@@ -83,7 +83,7 @@ def parsear_informe(texto: str) -> dict:
     hits.sort()
     pie = texto.find("Le présent rapport")
     observaciones = []
-    for i, (ini, fin, loc, grav) in enumerate(hits):
+    for i, (_ini, fin, loc, grav) in enumerate(hits):
         fin_desc = hits[i + 1][0] if i + 1 < len(hits) else (pie if pie > 0 else len(texto))
         desc = " ".join(texto[fin:fin_desc].split())
         observaciones.append({"localisation": loc, "gravite": grav, "descripcion": desc})
@@ -102,7 +102,7 @@ BOILER = re.compile(
 
 def cargar_perfiles() -> tuple[list[str], list[str]]:
     """Perfil limpio por ficha: título + inicio del texto sin boilerplate."""
-    fichas = [json.loads(l) for l in MANIFEST.open(encoding="utf-8")]
+    fichas = [json.loads(linea) for linea in MANIFEST.open(encoding="utf-8")]
     codes, perfiles = [], []
     for f in fichas:
         if not f.get("txt"):

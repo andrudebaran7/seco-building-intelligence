@@ -41,6 +41,7 @@ def descargar_metu() -> None:
     Method"); libarchive sí lo decodifica, de ahí la dependencia.
     """
     import urllib.request
+
     import libarchive
     rar = DATA_DIR.parent / "metu_crack.rar"
     DATA_DIR.parent.mkdir(exist_ok=True)
@@ -49,7 +50,7 @@ def descargar_metu() -> None:
                                      headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=60) as r:
             url = json.load(r)[0]["content_details"]["download_url"]
-        print(f"Descargando dataset METU (241 MB) ...")
+        print("Descargando dataset METU (241 MB) ...")
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=900) as r, rar.open("wb") as f:
             while chunk := r.read(1 << 20):
@@ -132,12 +133,11 @@ def main() -> None:
     Xte, yte = X[idx_test], labels[idx_test]
 
     from sklearn.linear_model import LogisticRegression
-    from sklearn.metrics import (accuracy_score, confusion_matrix,
-                                 precision_recall_fscore_support)
+    from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
     clf = LogisticRegression(max_iter=2000, C=1.0)
     clf.fit(Xtr, ytr)
     pred = clf.predict(Xte)
-    prob = clf.predict_proba(Xte)[:, 1]
+    clf.predict_proba(Xte)[:, 1]
 
     acc = accuracy_score(yte, pred)
     prec, rec, f1, _ = precision_recall_fscore_support(
@@ -156,7 +156,8 @@ def main() -> None:
         "confusion": {"tp": int(tp), "fp": int(fp), "fn": int(fn), "tn": int(tn)},
     }
     OUT_JSON.write_text(json.dumps(resultados, indent=2), encoding="utf-8")
-    pct = lambda x: f"{100 * x:.1f}%"
+    def pct(x):
+        return f"{100 * x:.1f}%"
     OUT_MD.write_text(f"""# Evaluación del clasificador CV de fisuras
 
 Transfer learning CPU: MobileNetV3-Small congelado (ImageNet) + regresión

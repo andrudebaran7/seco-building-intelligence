@@ -18,7 +18,6 @@ Uso:
 
 import json
 import sqlite3
-from collections import defaultdict
 from pathlib import Path
 
 QUERIES = Path("corpus/eval_queries.jsonl")
@@ -64,7 +63,7 @@ def main() -> None:
     import numpy as np
     from sentence_transformers import SentenceTransformer
 
-    queries = [json.loads(l) for l in QUERIES.open(encoding="utf-8") if l.strip()]
+    queries = [json.loads(linea) for linea in QUERIES.open(encoding="utf-8") if linea.strip()]
     data, matrix = cargar_indice()
     model = SentenceTransformer(MODEL_NAME)
 
@@ -91,8 +90,8 @@ def main() -> None:
     global_m = agregar(resultados)
     por_corpus = {c: agregar([r for r in resultados if r["corpus"] == c])
                   for c in ("AQC", "ITM")}
-    por_lang = {l: agregar([r for r in resultados if r["lang"] == l])
-                for l in sorted({r["lang"] for r in resultados})}
+    por_lang = {idioma: agregar([r for r in resultados if r["lang"] == idioma])
+                for idioma in sorted({r["lang"] for r in resultados})}
 
     salida = {"global": global_m, "por_corpus": por_corpus, "por_idioma": por_lang,
               "consultas": resultados}
@@ -100,9 +99,11 @@ def main() -> None:
     OUT_JSON.write_text(json.dumps(salida, ensure_ascii=False, indent=2),
                         encoding="utf-8")
 
-    pct = lambda x: f"{100 * x:.0f}%"
-    fila = lambda n, m: (f"| {n} | {m['n']} | {pct(m['hit@1'])} | {pct(m['hit@3'])} "
-                         f"| {pct(m['hit@5'])} | {m['mrr']:.2f} |")
+    def pct(x):
+        return f"{100 * x:.0f}%"
+    def fila(n, m):
+        return (f"| {n} | {m['n']} | {pct(m['hit@1'])} | {pct(m['hit@3'])} "
+                             f"| {pct(m['hit@5'])} | {m['mrr']:.2f} |")
     lineas = [
         "# Evaluación del retrieval (buscador semántico)",
         "",
@@ -114,7 +115,7 @@ def main() -> None:
         "|---|---|---|---|---|---|",
         fila("**Global**", global_m),
         *(fila(f"Corpus {c}", m) for c, m in por_corpus.items()),
-        *(fila(f"Idioma {l}", m) for l, m in por_lang.items()),
+        *(fila(f"Idioma {linea}", m) for linea, m in por_lang.items()),
     ]
     fallos = [r for r in resultados if r["rank"] is None or r["rank"] > 1]
     if fallos:

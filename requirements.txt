@@ -9,3 +9,4 @@ markdown-pdf==1.13.2
 torchvision==0.27.0
 libarchive-c==5.3
 joblib==1.5.3
+ruff==0.15.17

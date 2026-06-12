@@ -73,7 +73,7 @@ def main() -> None:
     src = Path(args.batiments)
     if not src.exists():
         sys.exit(f"No existe {src}; ejecuta antes la cadena ingest_geoportail_lu/ingest_lu_3d")
-    edificios = [json.loads(l) for l in src.open(encoding="utf-8")]
+    edificios = [json.loads(linea) for linea in src.open(encoding="utf-8")]
     # Priorizar edificios con altura 3D y dirección: mejores etiquetas para CV.
     edificios.sort(key=lambda b: (b.get("hauteur_m") is None, b.get("adresse_ejemplo") is None))
     seleccion = edificios[: args.limit]

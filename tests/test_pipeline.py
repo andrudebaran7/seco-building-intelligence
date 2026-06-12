@@ -12,7 +12,6 @@ from ingest_georisques import EXPOSITION_MAP, NOT_EXPOSED
 from ingest_lu_ortho import bbox_metros
 from rag_aqc import CHUNK_CHARS, OVERLAP_CHARS, chunk_text
 
-
 # ------------------------------------------------------------- chunking
 
 def test_chunk_text_respeta_tamano_y_solape():

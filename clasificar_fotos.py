@@ -76,7 +76,7 @@ def registrar_defectos(detecciones: list[dict], informe_ref: str) -> int:
         con.execute("ALTER TABLE defectos ADD COLUMN origen TEXT DEFAULT 'texto'")
     base = con.execute("SELECT COALESCE(MAX(num),0) FROM defectos WHERE informe_ref=?",
                        (informe_ref,)).fetchone()[0]
-    for i, (d, desc, pred) in enumerate(zip(positivas, descripciones, preds), 1):
+    for i, (_d, desc, pred) in enumerate(zip(positivas, descripciones, preds, strict=False), 1):
         con.execute(
             "INSERT INTO defectos (informe_ref, num, localisation, gravite, "
             "descripcion, code_pred, score, top3, origen) VALUES (?,?,?,?,?,?,?,?,?)",

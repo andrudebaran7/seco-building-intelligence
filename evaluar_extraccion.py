@@ -29,7 +29,7 @@ OUT_JSON = Path("docs/evaluacion.json")
 
 
 def main() -> None:
-    gt = {json.loads(l)["ref"]: json.loads(l) for l in GT_PATH.open(encoding="utf-8")}
+    gt = {json.loads(linea)["ref"]: json.loads(linea) for linea in GT_PATH.open(encoding="utf-8")}
     con = sqlite3.connect(DB_PATH)
     informes = {r[0]: {"fecha": r[1], "adresse": r[2], "inspecteur": r[3]}
                 for r in con.execute("SELECT ref, fecha, adresse, inspecteur FROM informes")}
@@ -62,7 +62,7 @@ def main() -> None:
         ed = defectos.get(ref, [])
         if len(ed) == len(g["defectos"]):
             cobertura_ok += 1
-        for gd, edf in zip(g["defectos"], ed):
+        for gd, edf in zip(g["defectos"], ed, strict=False):
             total += 1
             true_c, pred_c = gd["code_aqc"], edf["code_pred"]
             confusion[(true_c, pred_c)] += 1
@@ -114,7 +114,8 @@ def main() -> None:
                         encoding="utf-8")
 
     # --- informe Markdown ---
-    pct = lambda x: f"{100 * x:.1f}%"
+    def pct(x):
+        return f"{100 * x:.1f}%"
     lineas = [
         "# Evaluación del pipeline de extracción",
         "",
@@ -158,7 +159,7 @@ def main() -> None:
 
     print(f"Top-1 accuracy: {pct(top1_ok / total)} | Top-3: {pct(top3_ok / total)} "
           f"| Macro F1: {macro_f1:.3f}")
-    print(f"Metadatos: " + "  ".join(f"{c}:{pct(meta_ok[c] / n)}" for c in campos))
+    print("Metadatos: " + "  ".join(f"{c}:{pct(meta_ok[c] / n)}" for c in campos))
     print(f"Gravedad: {pct(grav_ok / total)} | Localización: {pct(loc_ok / total)}")
     print(f"Resultados completos en {OUT_MD} y {OUT_JSON}")
 

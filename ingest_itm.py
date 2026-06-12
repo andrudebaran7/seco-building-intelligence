@@ -56,9 +56,9 @@ def listar_pdfs(series: list[str]) -> list[dict]:
         # ITM-SST-1501-1.pdf -> code "ITM-SST 1501.1"; sufijo -de = alemán
         base = fichero[:-4]
         lang = "fr"
-        for suf, l in (("-de", "de"), ("-en", "en")):
+        for suf, idioma in (("-de", "de"), ("-en", "en")):
             if base.lower().endswith(suf):
-                base, lang = base[: -len(suf)], l
+                base, lang = base[: -len(suf)], idioma
         mm = re.match(r"(?i)itm-(sst|cl)-(\d+)-(\d+)$", base)
         code = (f"ITM-{mm.group(1).upper()} {mm.group(2)}.{mm.group(3)}"
                 if mm else base.upper())
@@ -75,10 +75,10 @@ RUIDO_TITULO = re.compile(
 
 def titulo_desde_texto(txt_path: Path, code: str) -> str:
     """Título = líneas de asunto de la cabecera, saltando el membrete."""
-    lineas = [l.strip() for l in
+    lineas = [linea.strip() for linea in
               txt_path.read_text(encoding="utf-8", errors="replace").splitlines()]
-    utiles = [l for l in lineas[:25]
-              if len(l) > 8 and not RUIDO_TITULO.search(l)]
+    utiles = [linea for linea in lineas[:25]
+              if len(linea) > 8 and not RUIDO_TITULO.search(linea)]
     return " — ".join(dict.fromkeys(utiles[:3]))[:160] or code
 
 

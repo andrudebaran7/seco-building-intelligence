@@ -233,7 +233,7 @@ def ficha_identidad(b: dict, lang: str = "es") -> str:
         f"DPE {b.get('numero_dpe')} · RNB {b.get('id_rnb')} · "
         f"BDNB {b.get('bdnb_batiment_groupe_id')}",
     ]
-    cuerpo = "\n".join(f"| {k} | {v} |" for k, v in zip(t["labels"], valores))
+    cuerpo = "\n".join(f"| {k} | {v} |" for k, v in zip(t["labels"], valores, strict=False))
     return f"| {t['atributo']} | {t['valor']} |\n|---|---|\n{cuerpo}"
 
 
@@ -405,7 +405,7 @@ def main() -> None:
     if not in_file.exists():
         sys.exit(f"No existe {in_file}; ejecuta antes la cadena de ingestión francesa")
 
-    registros = [json.loads(l) for l in in_file.open(encoding="utf-8")]
+    registros = [json.loads(linea) for linea in in_file.open(encoding="utf-8")]
     if args.numero_dpe:
         candidatos = [r for r in registros if r.get("numero_dpe") == args.numero_dpe]
         if not candidatos:

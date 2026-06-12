@@ -115,7 +115,7 @@ def main() -> None:
     print(f"Statbel: contexto de {len(statbel):,} comunas | VEKA: {len(veka):,} comunas")
 
     for fp in ficheros:
-        rows = [json.loads(l) for l in fp.open(encoding="utf-8")]
+        rows = [json.loads(linea) for linea in fp.open(encoding="utf-8")]
         con_ctx = 0
         for r in rows:
             nis = r.get("parcel_niscode")

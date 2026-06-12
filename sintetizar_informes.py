@@ -144,7 +144,7 @@ def cargar_edificios() -> list[dict]:
     for f in ["data/dpe_rnb_bdnb_rga_dpto33.jsonl", "data/dpe_rnb_bdnb_rga_dpto75.jsonl"]:
         p = Path(f)
         if p.exists():
-            edificios += [json.loads(l) for l in p.open(encoding="utf-8")]
+            edificios += [json.loads(linea) for linea in p.open(encoding="utf-8")]
     if not edificios:
         raise SystemExit("No hay dataset de edificios; ejecuta la cadena francesa antes.")
     return edificios
@@ -252,7 +252,7 @@ def main() -> None:
             render_pdf(inf, pdf_dir / f"{inf['ref']}.pdf")
             gt.write(json.dumps(inf, ensure_ascii=False) + "\n")
 
-    n_def = sum(len(json.loads(l)["defectos"]) for l in gt_path.open(encoding="utf-8"))
+    n_def = sum(len(json.loads(linea)["defectos"]) for linea in gt_path.open(encoding="utf-8"))
     print(f"Generados {args.n} informes sintéticos ({n_def} defectos) en {pdf_dir}/")
     print(f"Ground truth: {gt_path}")
 

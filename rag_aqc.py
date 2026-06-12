@@ -68,7 +68,7 @@ def build(args) -> None:
     rows = []  # (fuente, lang, code, titulo, fichero, chunk_idx, texto)
     n_docs = 0
     for fuente, manifest in disponibles:
-        docs = [json.loads(l) for l in manifest.open(encoding="utf-8") if l.strip()]
+        docs = [json.loads(linea) for linea in manifest.open(encoding="utf-8") if linea.strip()]
         docs = [d for d in docs if d.get("txt")]
         n_docs += len(docs)
         for d in docs:
@@ -105,7 +105,7 @@ def build(args) -> None:
         "INSERT INTO chunks (fuente, lang, code, titulo, fichero, chunk_idx, texto, embedding) "
         "VALUES (?,?,?,?,?,?,?,?)",
         [(s, lg, c, ti, fp, i, txt, emb.tobytes())
-         for (s, lg, c, ti, fp, i, txt), emb in zip(rows, embeddings)],
+         for (s, lg, c, ti, fp, i, txt), emb in zip(rows, embeddings, strict=False)],
     )
     con.execute("INSERT INTO meta VALUES ('modelo', ?)", (MODEL_NAME,))
     con.execute("INSERT INTO meta VALUES ('dimension', ?)", (str(embeddings.shape[1]),))

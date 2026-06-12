@@ -24,8 +24,12 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-from informe_edificio import (T, derivar_senales, exportar_pdf, ficha_identidad,
-                              informe_llm, informe_plantilla)
+from informe_edificio import (
+    derivar_senales,
+    exportar_pdf,
+    informe_llm,
+    informe_plantilla,
+)
 
 st.set_page_config(page_title="SECO Building Intelligence", page_icon="🏗️",
                    layout="wide")
@@ -63,14 +67,14 @@ def get_rag_index():
 
 @st.cache_data
 def get_buildings(path: str) -> pd.DataFrame:
-    rows = [json.loads(l) for l in open(path, encoding="utf-8")]
+    rows = [json.loads(linea) for linea in open(path, encoding="utf-8")]
     return pd.DataFrame(rows)
 
 
 @st.cache_data
 def get_titulos() -> dict:
-    return {json.loads(l)["code"]: json.loads(l)["titulo"]
-            for l in open(MANIFEST, encoding="utf-8")}
+    return {json.loads(linea)["code"]: json.loads(linea)["titulo"]
+            for linea in open(MANIFEST, encoding="utf-8")}
 
 
 def buscar(query: str, top: int, fuentes: tuple[str, ...]) -> list[dict]:
@@ -120,6 +124,7 @@ CV_EVAL = Path("docs/evaluacion_cv.json")
 @st.cache_resource(show_spinner="Loading CV model (first run only)...")
 def get_cv():
     import joblib
+
     from entrenar_cv import get_backbone
     backbone, transform = get_backbone()
     return joblib.load(CV_MODEL), backbone, transform
@@ -364,7 +369,7 @@ with tab_cv:
                    "Six more samples in `data/cv_demo/`.")
         MUESTRAS = ["NG_01.jpg", "OK_01.jpg", "NG_02.jpg", "OK_02.jpg"]
         cols = st.columns(4)
-        for col, nombre in zip(cols, MUESTRAS):
+        for col, nombre in zip(cols, MUESTRAS, strict=False):
             ruta = Path("data/cv_demo") / nombre
             if not ruta.exists():
                 continue
