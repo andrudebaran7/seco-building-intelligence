@@ -1,5 +1,7 @@
 # SECO Building Intelligence — Pathology & Risk Copilot
 
+![CI](https://github.com/andrudebaran7/seco-building-intelligence/actions/workflows/ci.yml/badge.svg)
+
 A mini "Building Intelligence" product that turns **public building data and
 inspection documents into actionable pathology-and-risk intelligence** for
 technical inspectors and decennial-insurance risk analysts.
