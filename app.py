@@ -118,9 +118,9 @@ st.caption(
     "All sources are public; reports are synthetic (SECO's are confidential)."
 )
 
-tab_port, tab_rag, tab_ext = st.tabs(
+tab_port, tab_rag, tab_ext, tab_about = st.tabs(
     ["🏢 Portfolio & buildings", "🔎 Pathology search (RAG)",
-     "📄 Inspection reports (extraction)"])
+     "📄 Inspection reports (extraction)", "ℹ️ About"])
 
 # ----------------------------------------------------------------- tab 1
 
@@ -249,3 +249,36 @@ with tab_ext:
             def_df[["informe_ref", "num", "localisation", "gravite",
                     "code_pred", "titulo_pred", "score"]],
             width="stretch", height=300)
+
+# ----------------------------------------------------------------- tab 4
+
+with tab_about:
+    st.markdown("""
+### What is this?
+
+A **"Pathology & Risk Copilot"** demo for [SECO](https://groupseco.com), the
+Belgian/Luxembourgish technical-control group: it turns **public building
+data and inspection documents** into pathology-and-risk intelligence.
+
+**Who is it for?** Technical inspectors and decennial-insurance risk
+analysts: people who need to know *what is likely wrong with this building
+and why* — with sources they can verify.
+
+### What you are looking at
+
+| Tab | What it shows |
+|---|---|
+| 🏢 Portfolio | Real French buildings enriched across 4 open government APIs (energy diagnosis → registry → materials/height → clay-shrinkage risk). Pick a building and generate its risk report: every pathology is **cited to an AQC sheet**. |
+| 🔎 Search | Multilingual semantic search (FR/ES/EN) over the 89 *Fiches Pathologie* of the Agence Qualité Construction — the French reference taxonomy for decennial claims. |
+| 📄 Reports | The extraction pipeline: inspection PDFs → structured defects, each classified to the AQC taxonomy. Reports are **synthetic** (SECO's are confidential) so accuracy can be *measured* against ground truth — the metrics above the tab are real. |
+
+### Honest limits
+
+- Classification shows **top-3 candidates for the inspector to validate**
+  (human-in-the-loop) — top-1 is 55% over 89 classes, top-3 is 73%.
+- All data is open-licensed (Licence Ouverte, CC0, Flemish open licenses);
+  nothing here is a substitute for an expert inspection.
+
+**Source code, pipeline docs and evaluation:**
+[github.com/andrudebaran7/seco-building-intelligence](https://github.com/andrudebaran7/seco-building-intelligence)
+""")
