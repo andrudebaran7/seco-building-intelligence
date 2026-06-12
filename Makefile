@@ -43,8 +43,9 @@ extract: ## Generate synthetic inspection reports and extract them to SQLite
 eval: ## Evaluate the extraction pipeline against ground truth (F1 metrics)
 	$(PY) evaluar_extraccion.py
 
-report: ## Per-building risk report (add LLM=gemini|openrouter|anthropic for LLM drafting)
-	$(PY) informe_edificio.py --max-riesgo $(if $(LLM),--llm $(LLM),)
+report: ## Per-building risk report (LLM=gemini|openrouter|anthropic, LANGS=es,en,fr, PDF=1)
+	$(PY) informe_edificio.py --max-riesgo $(if $(LLM),--llm $(LLM),) \
+	    $(if $(LANGS),--idiomas $(LANGS),) $(if $(PDF),--pdf,)
 
 test: ## Run the test suite
 	$(PY) -m pytest -q

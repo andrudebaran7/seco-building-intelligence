@@ -14,8 +14,14 @@ Modos de redacción:
   - --llm openrouter: modelos :free de OpenRouter (OPENROUTER_API_KEY).
   El modelo concreto se puede fijar con --modelo.
 
+Idiomas y exportación:
+  - --idiomas es,en,fr genera un informe por idioma (los extractos de las
+    fichas AQC permanecen en francés: son citas literales del corpus).
+  - --pdf exporta además cada .md a PDF (se conservan ambos ficheros).
+
 Requiere el venv del proyecto y el índice RAG ya construido:
     .venv/bin/python informe_edificio.py --max-riesgo
+    .venv/bin/python informe_edificio.py --max-riesgo --idiomas es,en,fr --pdf
     .venv/bin/python informe_edificio.py --numero-dpe 2333E0421762G --llm gemini
     .venv/bin/python informe_edificio.py --max-riesgo --llm openrouter \
         --modelo "deepseek/deepseek-chat-v3-0324:free"
@@ -35,22 +41,55 @@ OUT_DIR = Path("informes")
 
 # ---------------------------------------------------------------- señales
 
-def derivar_senales(b: dict) -> list[dict]:
+# Cabeceras de señal por idioma (las consultas al RAG van siempre en francés,
+# el idioma del corpus).
+T_SENAL = {
+    "es": {
+        "argiles": "Exposición {alea} al retrait-gonflement des argiles (fuente: {src})",
+        "dpe": "Etiqueta energética {et} (passoire thermique)",
+        "mur": "Muros de fábrica antigua ({mat})",
+        "toit_tuiles": "Cubierta de teja ({mat})",
+        "toit_ardoises": "Cubierta de pizarra ({mat})",
+        "toit_zinc": "Cubierta de zinc ({mat})",
+        "1948": "Edificio anterior a 1948 (sin normativa térmica ni DTU modernos)",
+    },
+    "en": {
+        "argiles": "{alea} exposure to clay shrink-swell (source: {src})",
+        "dpe": "Energy label {et} (thermal sieve)",
+        "mur": "Old masonry walls ({mat})",
+        "toit_tuiles": "Tile roofing ({mat})",
+        "toit_ardoises": "Slate roofing ({mat})",
+        "toit_zinc": "Zinc roofing ({mat})",
+        "1948": "Pre-1948 building (no modern thermal codes or DTUs)",
+    },
+    "fr": {
+        "argiles": "Exposition {alea} au retrait-gonflement des argiles (source : {src})",
+        "dpe": "Étiquette énergétique {et} (passoire thermique)",
+        "mur": "Murs en maçonnerie ancienne ({mat})",
+        "toit_tuiles": "Couverture en tuiles ({mat})",
+        "toit_ardoises": "Couverture en ardoises ({mat})",
+        "toit_zinc": "Couverture en zinc ({mat})",
+        "1948": "Bâtiment antérieur à 1948 (sans réglementation thermique ni DTU modernes)",
+    },
+}
+
+
+def derivar_senales(b: dict, lang: str = "es") -> list[dict]:
     """Mapea atributos estructurados del edificio a consultas de patología."""
+    ts = T_SENAL[lang]
     senales = []
 
     alea = b.get("alea_argiles_final")
     if alea in ("Fort", "Moyen"):
         senales.append({
-            "senal": f"Exposición {alea} al retrait-gonflement des argiles "
-                     f"(fuente: {b.get('alea_argiles_source')})",
+            "senal": ts["argiles"].format(alea=alea, src=b.get("alea_argiles_source")),
             "query": "fissures dans les murs et fondations causées par le "
                      "retrait-gonflement des argiles en sols sensibles",
         })
 
     if b.get("etiquette_dpe") in ("F", "G"):
         senales.append({
-            "senal": f"Etiqueta energética {b['etiquette_dpe']} (passoire thermique)",
+            "senal": ts["dpe"].format(et=b["etiquette_dpe"]),
             "query": "condensations moisissures dans les logements ventilation "
                      "insuffisante humidité intérieure",
         })
@@ -58,30 +97,30 @@ def derivar_senales(b: dict) -> list[dict]:
     mur = (b.get("bdnb_mat_mur") or "").upper()
     if "PIERRE" in mur or "MEULIERE" in mur:
         senales.append({
-            "senal": f"Muros de fábrica antigua ({b['bdnb_mat_mur']})",
+            "senal": ts["mur"].format(mat=b["bdnb_mat_mur"]),
             "query": "humidité remontées capillaires dans murs anciens en pierre",
         })
 
     toit = (b.get("bdnb_mat_toit") or "").upper()
     if "TUILES" in toit:
         senales.append({
-            "senal": f"Cubierta de teja ({b['bdnb_mat_toit']})",
+            "senal": ts["toit_tuiles"].format(mat=b["bdnb_mat_toit"]),
             "query": "défauts d'étanchéité de couverture en tuiles infiltrations",
         })
     elif "ARDOISES" in toit:
         senales.append({
-            "senal": f"Cubierta de pizarra ({b['bdnb_mat_toit']})",
+            "senal": ts["toit_ardoises"].format(mat=b["bdnb_mat_toit"]),
             "query": "défauts de couverture en ardoises infiltrations",
         })
     elif "ZINC" in toit:
         senales.append({
-            "senal": f"Cubierta de zinc ({b['bdnb_mat_toit']})",
+            "senal": ts["toit_zinc"].format(mat=b["bdnb_mat_toit"]),
             "query": "défauts d'étanchéité couverture zinc toiture métallique",
         })
 
     if b.get("periode_construction") == "avant 1948":
         senales.append({
-            "senal": "Edificio anterior a 1948 (sin normativa térmica ni DTU modernos)",
+            "senal": ts["1948"],
             "query": "désordres structure plancher bois bâtiment ancien",
         })
 
@@ -123,58 +162,106 @@ def recuperar_fichas(senales: list[dict], top_por_senal: int = 2) -> None:
 
 # ---------------------------------------------------------------- informes
 
-def ficha_identidad(b: dict) -> str:
-    filas = [
-        ("Dirección", b.get("adresse_ban")),
-        ("Tipo", b.get("type_batiment")),
-        ("Período de construcción", b.get("periode_construction")),
-        ("Superficie habitable (vivienda)", f"{b.get('surface_habitable_logement')} m²"),
-        ("Etiqueta energía / CO₂", f"{b.get('etiquette_dpe')} / {b.get('etiquette_ges')}"),
-        ("Consumo energía primaria", f"{b.get('conso_5_usages_par_m2_ep')} kWh/m²/año"),
-        ("Altura / plantas / viviendas",
-         f"{b.get('bdnb_hauteur')} m / {b.get('bdnb_nb_niveau')} / {b.get('bdnb_nb_log')}"),
-        ("Materiales muro / techo", f"{b.get('bdnb_mat_mur')} / {b.get('bdnb_mat_toit')}"),
-        ("Riesgo arcillas (RGA)",
-         f"{b.get('alea_argiles_final')} (fuente: {b.get('alea_argiles_source')})"),
-        ("IDs", f"DPE {b.get('numero_dpe')} · RNB {b.get('id_rnb')} · "
-                f"BDNB {b.get('bdnb_batiment_groupe_id')}"),
+# Textos fijos del informe en los tres idiomas. Las citas de las fichas AQC
+# permanecen en francés en todos los casos (son extractos literales del corpus).
+T = {
+    "es": {
+        "titulo": "Informe de riesgo", "identidad": "Identidad del edificio",
+        "senales": "Señales de riesgo y patologías asociadas",
+        "sin_senales": "Sin señales de riesgo destacables según los datos disponibles.",
+        "similitud": "similitud", "atributo": "Atributo", "valor": "Valor",
+        "labels": ["Dirección", "Tipo", "Período de construcción",
+                   "Superficie habitable (vivienda)", "Etiqueta energía / CO₂",
+                   "Consumo energía primaria", "Altura / plantas / viviendas",
+                   "Materiales muro / techo", "Riesgo arcillas (RGA)", "IDs"],
+        "fuente": "fuente", "unidad_conso": "kWh/m²/año",
+        "pie": "*Generado automáticamente a partir de datos abiertos (ADEME, RNB, "
+               "BDNB, Géorisques — Licence Ouverte) y de las Fiches Pathologie de "
+               "l'AQC (qualiteconstruction.com). Documento de demostración, sin "
+               "valor pericial.*",
+        "idioma_llm": "español",
+    },
+    "en": {
+        "titulo": "Risk report", "identidad": "Building identity",
+        "senales": "Risk signals and associated pathologies",
+        "sin_senales": "No notable risk signals in the available data.",
+        "similitud": "similarity", "atributo": "Attribute", "valor": "Value",
+        "labels": ["Address", "Type", "Construction period",
+                   "Living area (dwelling)", "Energy / CO₂ label",
+                   "Primary energy use", "Height / floors / dwellings",
+                   "Wall / roof materials", "Clay-shrinkage risk (RGA)", "IDs"],
+        "fuente": "source", "unidad_conso": "kWh/m²/year",
+        "pie": "*Automatically generated from open data (ADEME, RNB, BDNB, "
+               "Géorisques — Licence Ouverte) and the AQC Fiches Pathologie "
+               "(qualiteconstruction.com). Demo document, no expert value.*",
+        "idioma_llm": "inglés",
+    },
+    "fr": {
+        "titulo": "Rapport de risque", "identidad": "Identité du bâtiment",
+        "senales": "Signaux de risque et pathologies associées",
+        "sin_senales": "Aucun signal de risque notable dans les données disponibles.",
+        "similitud": "similarité", "atributo": "Attribut", "valor": "Valeur",
+        "labels": ["Adresse", "Type", "Période de construction",
+                   "Surface habitable (logement)", "Étiquette énergie / CO₂",
+                   "Consommation d'énergie primaire", "Hauteur / niveaux / logements",
+                   "Matériaux murs / toiture", "Aléa retrait-gonflement (RGA)", "IDs"],
+        "fuente": "source", "unidad_conso": "kWh/m²/an",
+        "pie": "*Généré automatiquement à partir de données ouvertes (ADEME, RNB, "
+               "BDNB, Géorisques — Licence Ouverte) et des Fiches Pathologie de "
+               "l'AQC (qualiteconstruction.com). Document de démonstration, sans "
+               "valeur d'expertise.*",
+        "idioma_llm": "francés",
+    },
+}
+
+
+def ficha_identidad(b: dict, lang: str = "es") -> str:
+    t = T[lang]
+    valores = [
+        b.get("adresse_ban"),
+        b.get("type_batiment"),
+        b.get("periode_construction"),
+        f"{b.get('surface_habitable_logement')} m²",
+        f"{b.get('etiquette_dpe')} / {b.get('etiquette_ges')}",
+        f"{b.get('conso_5_usages_par_m2_ep')} {t['unidad_conso']}",
+        f"{b.get('bdnb_hauteur')} m / {b.get('bdnb_nb_niveau')} / {b.get('bdnb_nb_log')}",
+        f"{b.get('bdnb_mat_mur')} / {b.get('bdnb_mat_toit')}",
+        f"{b.get('alea_argiles_final')} ({t['fuente']}: {b.get('alea_argiles_source')})",
+        f"DPE {b.get('numero_dpe')} · RNB {b.get('id_rnb')} · "
+        f"BDNB {b.get('bdnb_batiment_groupe_id')}",
     ]
-    cuerpo = "\n".join(f"| {k} | {v} |" for k, v in filas)
-    return f"| Atributo | Valor |\n|---|---|\n{cuerpo}"
+    cuerpo = "\n".join(f"| {k} | {v} |" for k, v in zip(t["labels"], valores))
+    return f"| {t['atributo']} | {t['valor']} |\n|---|---|\n{cuerpo}"
 
 
-def informe_plantilla(b: dict, senales: list[dict]) -> str:
+def informe_plantilla(b: dict, senales: list[dict], lang: str = "es") -> str:
+    t = T[lang]
     partes = [
-        f"# Informe de riesgo — {b.get('adresse_ban')}",
+        f"# {t['titulo']} — {b.get('adresse_ban')}",
         "",
-        "## Identidad del edificio",
+        f"## {t['identidad']}",
         "",
-        ficha_identidad(b),
+        ficha_identidad(b, lang),
         "",
-        "## Señales de riesgo y patologías asociadas",
+        f"## {t['senales']}",
         "",
     ]
     if not senales:
-        partes.append("Sin señales de riesgo destacables según los datos disponibles.")
+        partes.append(t["sin_senales"])
     for i, s in enumerate(senales, 1):
         partes.append(f"### {i}. {s['senal']}")
         partes.append("")
         for f in s["fichas"]:
-            partes.append(f"**[{f['code']}]** {f['titulo']} *(similitud {f['score']:.2f})*")
+            partes.append(f"**[{f['code']}]** {f['titulo']} "
+                          f"*({t['similitud']} {f['score']:.2f})*")
             partes.append("")
             partes.append(f"> {f['extracto']}…")
             partes.append("")
-    partes += [
-        "---",
-        "",
-        "*Generado automáticamente a partir de datos abiertos (ADEME, RNB, BDNB, "
-        "Géorisques — Licence Ouverte) y de las Fiches Pathologie de l'AQC "
-        "(qualiteconstruction.com). Documento de demostración, sin valor pericial.*",
-    ]
+    partes += ["---", "", t["pie"]]
     return "\n".join(partes)
 
 
-def construir_prompt(b: dict, senales: list[dict]) -> str:
+def construir_prompt(b: dict, senales: list[dict], lang: str = "es") -> str:
     contexto = []
     for s in senales:
         contexto.append(f"SEÑAL: {s['senal']}")
@@ -182,15 +269,16 @@ def construir_prompt(b: dict, senales: list[dict]) -> str:
             contexto.append(f"  FICHA [{f['code']}] {f['titulo']}\n  EXTRACTO: {f['extracto']}")
     return (
         "Eres un ingeniero de control técnico de la construcción. Redacta en "
-        "español un informe de riesgo breve (400-600 palabras) para el "
-        "siguiente edificio, dirigido a un perito no especialista.\n\n"
+        f"{T[lang]['idioma_llm']} un informe de riesgo breve (400-600 palabras) "
+        "para el siguiente edificio, dirigido a un perito no especialista.\n\n"
         f"DATOS ESTRUCTURADOS DEL EDIFICIO (fuentes abiertas FR):\n"
         f"{json.dumps(b, ensure_ascii=False, indent=2)}\n\n"
         f"SEÑALES DE RIESGO Y FICHAS AQC RECUPERADAS:\n" + "\n".join(contexto) + "\n\n"
         "Reglas: fundamenta cada afirmación de patología citando la ficha AQC "
         "entre corchetes, p.ej. [A.02]. No inventes patologías sin ficha de "
         "respaldo. Cierra con recomendaciones de inspección priorizadas y una "
-        "nota de que el documento no tiene valor pericial."
+        "nota de que el documento no tiene valor pericial. No incluyas fecha, "
+        "membrete ni firma."
     )
 
 
@@ -262,11 +350,20 @@ GENERADORES = {"anthropic": generar_anthropic, "gemini": generar_gemini,
                "openrouter": generar_openrouter}
 
 
-def informe_llm(b: dict, senales: list[dict], proveedor: str, modelo: str | None) -> str:
-    prompt = construir_prompt(b, senales)
+def informe_llm(b: dict, senales: list[dict], proveedor: str, modelo: str | None,
+                lang: str = "es") -> str:
+    t = T[lang]
+    prompt = construir_prompt(b, senales, lang)
     texto = GENERADORES[proveedor](prompt, modelo or MODELOS[proveedor])
-    return (f"# Informe de riesgo — {b.get('adresse_ban')}\n\n"
-            f"## Identidad del edificio\n\n{ficha_identidad(b)}\n\n{texto}\n")
+    return (f"# {t['titulo']} — {b.get('adresse_ban')}\n\n"
+            f"## {t['identidad']}\n\n{ficha_identidad(b, lang)}\n\n{texto}\n")
+
+
+def exportar_pdf(md: str, dest: Path) -> None:
+    from markdown_pdf import MarkdownPdf, Section
+    pdf = MarkdownPdf(toc_level=0)
+    pdf.add_section(Section(md))
+    pdf.save(str(dest))
 
 
 # ---------------------------------------------------------------- main
@@ -291,6 +388,11 @@ def main() -> None:
                              "openrouter (OPENROUTER_API_KEY, modelos :free)")
     parser.add_argument("--modelo", help="modelo concreto del proveedor "
                         "(por defecto: " + ", ".join(f"{k}={v}" for k, v in MODELOS.items()) + ")")
+    parser.add_argument("--idiomas", default="es",
+                        help="idiomas del informe, separados por comas: es,en,fr "
+                             "(por defecto: es)")
+    parser.add_argument("--pdf", action="store_true",
+                        help="además del .md, exportar cada informe a PDF")
     parser.add_argument("--out", default=str(OUT_DIR), help="directorio de salida")
     args = parser.parse_args()
 
@@ -309,29 +411,39 @@ def main() -> None:
     else:
         edificio = max(registros, key=puntuar_riesgo)
 
-    senales = derivar_senales(edificio)
+    idiomas = [i.strip() for i in args.idiomas.split(",") if i.strip()]
+    desconocidos = [i for i in idiomas if i not in T]
+    if desconocidos:
+        sys.exit(f"Idiomas no soportados: {desconocidos} (disponibles: {list(T)})")
+    if args.llm == "anthropic" and not os.environ.get("ANTHROPIC_API_KEY"):
+        sys.exit("--llm anthropic requiere ANTHROPIC_API_KEY; alternativas "
+                 "gratuitas: --llm gemini o --llm openrouter.")
+
     print(f"Edificio: {edificio.get('adresse_ban')} (DPE {edificio.get('numero_dpe')})")
-    print(f"Señales de riesgo detectadas: {len(senales)}")
-    for s in senales:
-        print(f"  - {s['senal']}")
-
-    recuperar_fichas(senales)
-
-    if args.llm:
-        if args.llm == "anthropic" and not os.environ.get("ANTHROPIC_API_KEY"):
-            sys.exit("--llm anthropic requiere ANTHROPIC_API_KEY; alternativas "
-                     "gratuitas: --llm gemini o --llm openrouter.")
-        texto = informe_llm(edificio, senales, args.llm, args.modelo)
-        sufijo = f"llm-{args.llm}"
-    else:
-        texto = informe_plantilla(edificio, senales)
-        sufijo = "plantilla"
-
     out_dir = Path(args.out)
     out_dir.mkdir(parents=True, exist_ok=True)
-    out_path = out_dir / f"informe_{edificio.get('numero_dpe')}_{sufijo}.md"
-    out_path.write_text(texto, encoding="utf-8")
-    print(f"\nInforme guardado en {out_path}")
+    sufijo = f"llm-{args.llm}" if args.llm else "plantilla"
+
+    for lang in idiomas:
+        senales = derivar_senales(edificio, lang)
+        if lang == idiomas[0]:
+            print(f"Señales de riesgo detectadas: {len(senales)}")
+            for s in senales:
+                print(f"  - {s['senal']}")
+        recuperar_fichas(senales)
+
+        if args.llm:
+            texto = informe_llm(edificio, senales, args.llm, args.modelo, lang)
+        else:
+            texto = informe_plantilla(edificio, senales, lang)
+
+        out_path = out_dir / f"informe_{edificio.get('numero_dpe')}_{sufijo}_{lang}.md"
+        out_path.write_text(texto, encoding="utf-8")
+        print(f"Informe ({lang}) guardado en {out_path}")
+        if args.pdf:
+            pdf_path = out_path.with_suffix(".pdf")
+            exportar_pdf(texto, pdf_path)
+            print(f"  PDF: {pdf_path}")
 
 
 if __name__ == "__main__":

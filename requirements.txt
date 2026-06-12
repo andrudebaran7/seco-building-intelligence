@@ -5,3 +5,4 @@ streamlit==1.58.0
 pandas==3.0.3
 anthropic==0.109.1
 pytest==9.0.3
+markdown-pdf==1.13.2

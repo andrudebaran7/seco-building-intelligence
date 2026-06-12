@@ -92,8 +92,9 @@ countries and four languages.
    corpus, with citations.
 4. **Risk report generator**: building attributes become risk signals; each
    signal retrieves the pathology sheets that explain it; the output is a
-   per-building report with citations (template mode, or LLM drafting via
-   the Anthropic SDK).
+   per-building report with citations — in **Spanish, English and/or French**
+   (`--idiomas es,en,fr`), as Markdown and optionally **PDF** (`--pdf`),
+   template-based or LLM-drafted (anthropic / gemini / openrouter).
 5. **UI** (Streamlit): portfolio dashboard with map and filters, semantic
    search, and the extraction demo with its metrics displayed up front.
 
