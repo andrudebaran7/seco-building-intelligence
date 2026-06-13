@@ -89,8 +89,8 @@ countries and four languages.
    each observation classified against the 89-sheet AQC pathology taxonomy
    (the French reference for decennial claims), with measured accuracy.
 3. **Pathology + regulations RAG**: multilingual semantic search (FR/ES/EN/DE)
-   over the AQC pathology corpus and Luxembourg's ITM prescriptions (232
-   documents), with citations and a source filter.
+   over the AQC pathology corpus and Luxembourg's ITM prescriptions (89 + 143
+   = 232 documents), with citations and a source filter.
 4. **Risk report generator**: building attributes become risk signals; each
    signal retrieves the pathology sheets that explain it; the output is a
    per-building report with citations — in **Spanish, English and/or French**
@@ -224,7 +224,7 @@ once real labeled data exists).
 
 ```
 app.py                       # Streamlit UI (3 tabs)
-ingest_*.py                  # 9 ingestion scripts (FR/LU/BE chains, corpus, orthophoto)
+ingest_*.py                  # 12 ingestion scripts (FR/LU/BE chains, corpus, orthophoto)
 rag_aqc.py                   # chunking + embeddings + semantic search
 informe_edificio.py          # per-building risk report generator
 sintetizar_informes.py       # synthetic inspection reports + ground truth
